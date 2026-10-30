@@ -1,0 +1,545 @@
+{
+  "slug": "c1-u02-cleft",
+  "number": 2,
+  "title": "Focusing Information",
+  "description": "Use it-clefts, wh-clefts and 'all / the thing / the reason ... is' structures to highlight key information, correct misunderstandings and structure arguments clearly in speech and writing.",
+  "objectives": [
+    "Form it-cleft sentences to focus on a person, thing, time, place or reason",
+    "Form wh-cleft and reversed wh-cleft sentences to highlight information and actions",
+    "Use all / the thing / the reason / the person ... is to focus information",
+    "Use cleft structures to clarify opinions and set priorities in discussions"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u02-l1-it-cleft",
+      "title": "It Was ... That ...: It-Cleft Sentences",
+      "summary": "Highlight one element of a sentence, often to contrast it with something else, using It + be + focus + that/who.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Form it-clefts that focus on a subject, object or adverbial",
+        "Choose who/that correctly and make the verb agree with the focused element",
+        "Use it-clefts to contrast and correct information"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why split a sentence?\nA **cleft sentence** splits one simple sentence into two parts so that one element receives special focus. Compare:\n- 'Rina found the error in the budget.' (neutral)\n- 'It was **Rina** who found the error in the budget.' (focus: Rina, not someone else)\n- 'It was **the error in the budget** that Rina found.' (focus: what she found)\n\nIt-clefts are especially useful for **contrast** and **correction**, when you want to say 'this one, not that one'.\n\n### The pattern\n**It + be + focused element + that / who + rest of the sentence**\n\n| Focus on | Example |\n|---|---|\n| subject | It was **the lack of funding** that caused the delay. |\n| object | It was **the second report** that the board rejected. |\n| time | It was **in 2018** that the company went public. |\n| place | It was **in this room** that the treaty was signed. |\n| reason | It was **because of the strike** that the flights were cancelled. |\n| person | It is **our volunteers** who deserve the credit. |\n\n### Key rules\n1. **Tense of be**: use *is* for present situations and *was* for past ones. The verb *be* stays singular (*It is / It was*), even when the focused element is plural: 'It was the interns who ...'.\n2. **who or that**: use *who* or *that* for people, *that* for things. *Which* is possible for things but less common. After time and place adverbials, use **that**, not *when* or *where*: 'It was in Bandung **that** we met.'\n3. **Agreement inside the relative clause**: the verb after *who/that* agrees with the focused element: 'It is the managers who **are** responsible.'\n4. **Pronouns**: formal English uses 'It was **she** who ...'; everyday English usually says 'It was **her** who ...'. Both are understood, but choose the formal version in academic writing.\n\n### Contrast and correction\n- 'It wasn't the price that worried us; it was the delivery time.'\n- 'It is not the technology but the people who make a project succeed.'\n\n### It was not until ... that\nThis common combination links to Unit 1: 'It was **not until** the auditors arrived **that** we realised how serious the problem was.' It is a less dramatic alternative to 'Not until the auditors arrived did we realise ...', and it does **not** require inversion.\n\n### Indonesian note\nIndonesian often uses *-lah ... yang* for the same effect: '*Rina-lah yang* menemukan kesalahan itu.' The English it-cleft is the closest equivalent.",
+        "examples": [
+          { "en": "It was the lack of funding that delayed the project, not the weather.", "id": "Kurangnya dana-lah yang menunda proyek itu, bukan cuacanya.", "note": "Focus on the subject, with contrast." },
+          { "en": "It was in 2018 that the company opened its first overseas office.", "id": "Pada tahun 2018-lah perusahaan itu membuka kantor luar negeri pertamanya.", "note": "Focus on time; use 'that', not 'when'." },
+          { "en": "It is our volunteers who deserve the credit for this success.", "id": "Para relawan kita-lah yang layak mendapat pujian atas keberhasilan ini.", "note": "'who' for people; 'deserve' agrees with 'volunteers'." },
+          { "en": "It was not until the auditors arrived that we understood the scale of the problem.", "id": "Baru ketika para auditor datang, kami memahami besarnya masalah itu.", "note": "It was not until ... that ... (no inversion)." }
+        ],
+        "vocabulary": [
+          { "word": "credit", "pos": "noun", "ipa": "/ˈkredɪt/", "meaning": "pujian, pengakuan atas jasa", "example": "It is the nurses who deserve the credit." },
+          { "word": "decisive", "pos": "adjective", "ipa": "/dɪˈsaɪsɪv/", "meaning": "menentukan; tegas", "example": "It was her decisive action that saved the company." },
+          { "word": "underlying", "pos": "adjective", "ipa": "/ˌʌndəˈlaɪɪŋ/", "meaning": "mendasari, tersembunyi di balik", "example": "It is the underlying cause that we need to address." },
+          { "word": "misconception", "pos": "noun", "ipa": "/ˌmɪskənˈsepʃn/", "meaning": "salah paham, anggapan keliru", "example": "It is a common misconception that clefts are informal." },
+          { "word": "pivotal", "pos": "adjective", "ipa": "/ˈpɪvətl/", "meaning": "sangat penting, menjadi poros", "example": "It was the pivotal moment of the negotiation." }
+        ],
+        "grammar": [
+          { "pattern": "It + is/was + focused element + that/who + clause", "example": "It was Mr. Hadi who approved the budget.", "note": "Focus on one element, often for contrast." },
+          { "pattern": "It + is/was + not X but Y + that ...", "example": "It is not the cost but the risk that concerns investors.", "note": "Contrastive focus." },
+          { "pattern": "It + was + not until + time/clause + that + clause", "example": "It was not until June that the results were published.", "note": "No inversion is needed." }
+        ],
+        "mistakes": [
+          { "wrong": "It was in Bandung where I met my business partner.", "right": "It was in Bandung that I met my business partner.", "why": "After a place or time adverbial in an it-cleft, use 'that'." },
+          { "wrong": "It were the interns who found the mistake.", "right": "It was the interns who found the mistake.", "why": "'It' is always followed by singular 'is/was' in a cleft, even if the focus is plural." },
+          { "wrong": "It is the managers who is responsible.", "right": "It is the managers who are responsible.", "why": "The verb in the relative clause agrees with the focused noun ('the managers')." }
+        ],
+        "summary": "Use 'It + is/was + focus + that/who + clause' to highlight one element of a sentence, especially to contrast or correct information. Keep 'It is/was' singular, use 'that' after time and place phrases, and make the verb after who/that agree with the focused noun.",
+        "reviewCards": [
+          { "front": "Rina found the error. (focus on Rina)", "back": "It was Rina who found the error." },
+          { "front": "It was in 2015 ___ we met. (that / when?)", "back": "that" },
+          { "front": "It is the students who ___ (is/are) ...", "back": "are (agrees with 'students')" },
+          { "front": "It was not until ... ___ ...", "back": "that (It was not until 9 p.m. that she called.)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u02-l1-q1", "type": "single_choice", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "guided",
+          "prompt": "Which sentence emphasises that Rina, and nobody else, found the error?",
+          "options": ["It was Rina who found the error.", "Rina was who found the error.", "It was Rina that she found the error.", "It was Rina which found the error."],
+          "answer": 0,
+          "explanation": "An it-cleft uses It + was + focus + who/that + rest of clause. 'Which' is not used for people, and the subject must not be repeated ('that she found')."
+        },
+        {
+          "id": "c1-u02-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence to emphasise the real cause.",
+          "sentence": "The lack of funding caused the delay, not the bad weather.",
+          "cue": "Begin with: It was",
+          "answers": ["It was the lack of funding that caused the delay, not the bad weather.", "It was the lack of funding, not the bad weather, that caused the delay.", "It was the lack of funding which caused the delay, not the bad weather.", "It was the lack of funding, not the bad weather, which caused the delay.", "It was the lack of funding that caused the delay and not the bad weather.", "It was the lack of funding rather than the bad weather that caused the delay."],
+          "explanation": "Put the focused subject after 'It was' and continue with 'that' + the rest of the sentence: 'It was the lack of funding that caused the delay ...'."
+        },
+        {
+          "id": "c1-u02-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the it-cleft sentence with one word in each gap.",
+          "text": "It ___ only in 2015 ___ the company opened its first office in Surabaya.",
+          "answers": [["was"], ["that"]],
+          "explanation": "The event is in the past, so we use 'It was'. After a time adverbial in an it-cleft, the linking word is 'that' (not 'when')."
+        },
+        {
+          "id": "c1-u02-l1-q4", "type": "dropdown", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct verb.",
+          "text": "It is the managers, not the staff, who ___ responsible for the final decision.",
+          "choices": [["are", "is", "be"]],
+          "answers": [0],
+          "explanation": "The verb in the relative clause agrees with the focused noun 'the managers', which is plural, so we use 'are'."
+        },
+        {
+          "id": "c1-u02-l1-q5", "type": "error_identification", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["It was", "in Bandung", "where", "I first met my business partner."],
+          "errorIndex": 2,
+          "correction": "that",
+          "explanation": "When the focused element is a prepositional phrase of place ('in Bandung'), the it-cleft continues with 'that', not 'where'."
+        },
+        {
+          "id": "c1-u02-l1-q6", "type": "translation", "category": "grammar", "topic": "it-cleft", "difficulty": 4, "stage": "quiz",
+          "prompt": "Translate into English using an it-cleft and the verb 'hesitate'.",
+          "source": "Bukan harganya yang membuat saya ragu, melainkan kualitasnya.",
+          "direction": "id-en",
+          "answers": ["It wasn't the price that made me hesitate, it was the quality.", "It was not the price that made me hesitate, it was the quality.", "It wasn't the price that made me hesitate but the quality.", "It was not the price that made me hesitate but the quality.", "It wasn't the price that made me hesitate but rather the quality.", "It was not the price that made me hesitate but rather the quality.", "It isn't the price that makes me hesitate, it's the quality.", "It is not the price that makes me hesitate, it is the quality.", "It isn't the price that makes me hesitate but the quality.", "It is not the price that makes me hesitate but the quality.", "It isn't the price that makes me hesitate, it is the quality.", "It is not the price that makes me hesitate, it's the quality.", "It's not the price that makes me hesitate, it's the quality.", "It's not the price that makes me hesitate but the quality.", "It wasn't the price which made me hesitate, it was the quality.", "It was the quality, not the price, that made me hesitate.", "It is the quality, not the price, that makes me hesitate.", "It's the quality, not the price, that makes me hesitate."],
+          "explanation": "'Bukan X yang ..., melainkan Y' corresponds to the contrastive it-cleft 'It isn't/wasn't X that ..., it's/it was Y' or 'It wasn't X that ... but Y'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u02-l2-wh-cleft",
+      "title": "What I Need Is ...: Wh-Cleft Sentences",
+      "summary": "Build suspense and highlight new information by starting with a what-clause and placing the key information after be.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Form wh-clefts that focus on a noun phrase, a clause or an action",
+        "Use What + subject + did/do + was/is + (to) infinitive to focus on actions",
+        "Use What happened was (that) ... to introduce events"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Saving the important part for the end\nIn English, new and important information tends to come at the **end** of a sentence (the 'end-focus' principle). A **wh-cleft** (also called a pseudo-cleft) uses this principle: a *what*-clause sets up the topic, and the key information comes after *be*:\n- 'I need a quiet place to work.' → '**What I need is** a quiet place to work.'\n- 'The constant noise annoys me.' → '**What annoys me is** the constant noise.'\n\nThe *what*-clause creates a little suspense, so the listener pays attention to what follows.\n\n### The pattern\n**What + clause + be + focused element**\n\n| Focused element | Example |\n|---|---|\n| noun phrase | What we need is **more volunteers**. |\n| that-clause | What worries me is **that nobody has checked the figures**. |\n| wh-clause | What surprised me was **how calm she remained**. |\n| -ing form | What I enjoy most is **working with clients**. |\n| infinitive (action) | What we did was **(to) call the supplier directly**. |\n\n### Focusing on actions\nTo highlight an action, use **do** in the *what*-clause and an infinitive after *be*. The *to* is optional:\n- 'We called the supplier.' → 'What we **did** was **(to) call** the supplier.'\n- 'You should check the contract.' → 'What you **should do** is **check** the contract.'\n\n### Focusing on events\n'**What happened was (that)** ...' introduces a story or explains a problem: 'What happened was that the server crashed during the presentation.'\n\n### Agreement of be\nThe verb *be* is normally **singular** (*is / was*) because the *what*-clause is singular: 'What we need **is** more volunteers.' In informal speech some people say 'What we need are ...', but the singular is always safe. Choose *is* or *was* to match the time reference.\n\n### Common mistakes\n- Do not add an extra subject: '*What I need it is ...*' is wrong.\n- Do not use *that* or *which* to start a wh-cleft: '*That I need most is ...*' is wrong; use *What*.\n- Do not repeat the information: '*What I want is I want a holiday*' is wrong.\n\n### Use in speaking and writing\nWh-clefts are very common in presentations and discussions ('What I'd like to do today is ...', 'What this graph shows is ...'). In academic writing they help to introduce a main point or finding: 'What the data suggest is that ...'.\n\n### Indonesian note\nThe structure matches *Yang saya butuhkan adalah ...* very closely, so it often feels natural to Indonesian speakers. The main difference is the extra *do* when focusing on an action: *Yang kami lakukan adalah menelepon pemasok* → 'What we did was call the supplier.'",
+        "examples": [
+          { "en": "What I need is a quiet place to finish this report.", "id": "Yang saya butuhkan adalah tempat yang tenang untuk menyelesaikan laporan ini.", "note": "Focus on a noun phrase." },
+          { "en": "What worries me is that nobody has checked the figures.", "id": "Yang membuat saya khawatir adalah tidak ada yang memeriksa angka-angkanya.", "note": "Focus on a that-clause." },
+          { "en": "What the committee did was postpone the vote.", "id": "Yang dilakukan komite adalah menunda pemungutan suara.", "note": "Focus on an action: did + was + (to) infinitive." },
+          { "en": "What happened was that the projector stopped working halfway through.", "id": "Yang terjadi adalah proyektor berhenti berfungsi di tengah-tengah.", "note": "Introducing an event." }
+        ],
+        "vocabulary": [
+          { "word": "priority", "pos": "noun", "ipa": "/praɪˈɒrəti/", "meaning": "prioritas, hal yang diutamakan", "example": "What matters most is getting our priorities right." },
+          { "word": "clarify", "pos": "verb", "ipa": "/ˈklærəfaɪ/", "meaning": "menjelaskan, memperjelas", "example": "What I'd like to do is clarify a few points." },
+          { "word": "frustrating", "pos": "adjective", "ipa": "/frʌˈstreɪtɪŋ/", "meaning": "menjengkelkan, membuat frustrasi", "example": "What I find frustrating is the lack of communication." },
+          { "word": "stand out", "pos": "phrasal verb", "ipa": "/stænd aʊt/", "meaning": "menonjol, mudah terlihat", "example": "What stood out was her confidence." },
+          { "word": "essentially", "pos": "adverb", "ipa": "/ɪˈsenʃəli/", "meaning": "pada dasarnya", "example": "What we are essentially asking for is more time." }
+        ],
+        "grammar": [
+          { "pattern": "What + subject + verb + is/was + noun phrase / clause", "example": "What surprised everyone was her decision to resign.", "note": "End-focus on new information." },
+          { "pattern": "What + subject + do/did + is/was + (to) infinitive", "example": "What you should do is ask for a written confirmation.", "note": "Focus on an action." },
+          { "pattern": "What happened was (that) + clause", "example": "What happened was that the flight was overbooked.", "note": "Introducing an event or problem." }
+        ],
+        "mistakes": [
+          { "wrong": "What I need it is a long holiday.", "right": "What I need is a long holiday.", "why": "The what-clause is already the subject; do not add 'it'." },
+          { "wrong": "That I need most is your support.", "right": "What I need most is your support.", "why": "A wh-cleft starts with 'what', not 'that'." },
+          { "wrong": "What we did was we called the manager.", "right": "What we did was (to) call the manager.", "why": "After 'What ... did was', use an infinitive, not a full clause with a repeated subject." }
+        ],
+        "summary": "A wh-cleft (What + clause + be + focus) places key information at the end of the sentence. Use it to highlight things, facts, feelings and actions (What we did was call ...). Keep be singular and do not repeat the subject.",
+        "reviewCards": [
+          { "front": "I need more time. (wh-cleft)", "back": "What I need is more time." },
+          { "front": "We called the supplier. (focus on action)", "back": "What we did was (to) call the supplier." },
+          { "front": "Introduce a problem/event with a wh-cleft", "back": "What happened was (that) ..." },
+          { "front": "What we need ___ more volunteers. (is/are?)", "back": "is (singular is the safe, standard choice)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u02-l2-q1", "type": "word_order", "category": "grammar", "topic": "wh-cleft", "difficulty": 2, "stage": "guided",
+          "prompt": "Put the words in the correct order to make a wh-cleft sentence.",
+          "words": ["What", "I", "need", "is", "a", "quiet", "place", "to", "work"],
+          "explanation": "What + clause ('I need') + is + focused element ('a quiet place to work')."
+        },
+        {
+          "id": "c1-u02-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "wh-cleft", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence to emphasise what is needed.",
+          "sentence": "We need more time, not more money.",
+          "cue": "Begin with: What we need",
+          "answers": ["What we need is more time, not more money.", "What we need is not more money but more time.", "What we need isn't more money but more time.", "What we need is more time rather than more money.", "What we need is more time and not more money.", "What we need is not more money, it's more time."],
+          "explanation": "What + we need + is + focus: 'What we need is more time, not more money.'"
+        },
+        {
+          "id": "c1-u02-l2-q3", "type": "dropdown", "category": "grammar", "topic": "wh-cleft", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct options.",
+          "text": "What the committee ___ was ___ the vote until the next meeting.",
+          "choices": [["did", "made", "was"], ["postpone", "postponed", "postponing"]],
+          "answers": [0, 0],
+          "explanation": "To focus on an action, use 'What + subject + did + was + (to) infinitive': 'What the committee did was postpone the vote.'"
+        },
+        {
+          "id": "c1-u02-l2-q4", "type": "sentence_transformation", "category": "grammar", "topic": "wh-cleft", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence using a wh-cleft.",
+          "sentence": "The constant noise from the construction site really annoys me.",
+          "cue": "Begin with: What really annoys me",
+          "answers": ["What really annoys me is the constant noise from the construction site."],
+          "explanation": "The what-clause ('What really annoys me') comes first, then 'is' and the focused noun phrase."
+        },
+        {
+          "id": "c1-u02-l2-q5", "type": "multiple_select", "category": "grammar", "topic": "wh-cleft", "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the correct wh-cleft sentences.",
+          "options": ["What surprised me was how calm she remained.", "What I did was to contact the supplier directly.", "What happened was that the server crashed during the demo.", "What I need it is a long holiday.", "That I value most is honesty."],
+          "answers": [0, 1, 2],
+          "explanation": "Options 1–3 follow the pattern What + clause + be + focus. Option 4 adds an unnecessary 'it', and option 5 begins with 'That' instead of 'What'."
+        },
+        {
+          "id": "c1-u02-l2-q6", "type": "sentence_correction", "category": "grammar", "topic": "wh-cleft", "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "What the report shows it is that customer satisfaction has fallen.",
+          "answers": ["What the report shows is that customer satisfaction has fallen."],
+          "explanation": "The what-clause is the subject of 'is', so the extra pronoun 'it' must be removed."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u02-l3-all-thing-reason",
+      "title": "All I Want Is ...: Focusing with All, The Thing and The Reason",
+      "summary": "Focus information with all, the thing, the reason, the person, the place and the last thing + be.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use All + clause + be to mean 'the only thing'",
+        "Use the thing / the person / the place / the reason ... be to focus information",
+        "Use 'the reason ... is that' rather than 'is because' in formal English"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Variations on the wh-cleft\nInstead of *what*, we can begin a focusing structure with a general noun or with *all*. The structure works in the same way: a clause sets up the topic, and the important information follows *be*.\n\n| Opening | Meaning | Example |\n|---|---|---|\n| All (that) + clause | the only thing | **All I want is** an honest answer. |\n| The thing (that) + clause | the thing | **The thing that worries me is** the cost. |\n| The only thing + clause | the single thing | **The only thing we can do is** wait. |\n| The person who + clause | the person | **The person who inspired me most was** my grandmother. |\n| The place where + clause | the place | **The place where we met** is now a car park. |\n| The reason (why) + clause | the reason | **The reason I left is that** the hours were too long. |\n| The last thing + clause | something unwanted or unexpected | **The last thing I expected was** a promotion. |\n\n### All ... is\n*All* in this structure means 'the only thing', and it often suggests that something is small or simple: 'All you have to do is sign here.' After *all ... do is*, we normally use the infinitive without *to*: 'All you need to do is **press** this button.' Do not confuse it with 'Everything I want is ...', which sounds unnatural.\n\n### The reason ... is that\nIn careful, formal English, *the reason* is followed by **that**, not *because*, since 'the reason' already expresses cause:\n- Formal: 'The reason I was late **is that** the train was cancelled.'\n- Informal (often criticised): 'The reason I was late is because ...'\n\nYou can include or omit *why*: 'The reason (why) I left ...'.\n\n### The thing is ...\nIn speech, '**The thing is,** ...' is a common way to introduce a problem or explanation: 'The thing is, we don't have enough staff.' In writing, use a fuller version: 'The main difficulty is that ...'.\n\n### Agreement and tense\nAs with wh-clefts, the verb *be* usually agrees with the opening noun: 'The things that matter **are** ...', 'The thing that matters **is** ...'. Choose *is/was* to match the time: 'The last thing I expected **was** ...'.\n\n### Indonesian note\nCompare *Yang saya inginkan hanyalah ...* → 'All I want is ...' and *Alasan saya pergi adalah ...* → 'The reason I left is that ...'. Remember to add **that** after *the reason ... is* rather than translating *karena* as *because*.",
+        "examples": [
+          { "en": "All you have to do is fill in this short form.", "id": "Yang perlu Anda lakukan hanyalah mengisi formulir singkat ini.", "note": "All ... do is + bare infinitive." },
+          { "en": "The reason we chose this venue is that it is close to the station.", "id": "Alasan kami memilih tempat ini adalah karena dekat dengan stasiun.", "note": "The reason ... is that (formal)." },
+          { "en": "The last thing I expected was a phone call from the CEO.", "id": "Hal terakhir yang saya duga adalah telepon dari CEO.", "note": "Something very unexpected." },
+          { "en": "The person who taught me the most was my first manager.", "id": "Orang yang paling banyak mengajari saya adalah manajer pertama saya.", "note": "Focus on a person." }
+        ],
+        "vocabulary": [
+          { "word": "paramount", "pos": "adjective", "ipa": "/ˈpærəmaʊnt/", "meaning": "paling utama, terpenting", "example": "For the new CEO, staff safety is paramount." },
+          { "word": "turn down", "pos": "phrasal verb", "ipa": "/tɜːn daʊn/", "meaning": "menolak (tawaran)", "example": "The reason I turned down the offer is that it required relocating." },
+          { "word": "concern", "pos": "noun", "ipa": "/kənˈsɜːn/", "meaning": "kekhawatiran, kepedulian", "example": "The thing that is causing most concern is the deadline." },
+          { "word": "straightforward", "pos": "adjective", "ipa": "/ˌstreɪtˈfɔːwəd/", "meaning": "sederhana, mudah dipahami", "example": "All you need is a straightforward explanation." },
+          { "word": "primarily", "pos": "adverb", "ipa": "/praɪˈmerəli/", "meaning": "terutama, pada pokoknya", "example": "The reason for the change is primarily financial." }
+        ],
+        "grammar": [
+          { "pattern": "All (that) + subject + verb + is/was + focus", "example": "All I'm asking for is a little patience.", "note": "'All' = the only thing." },
+          { "pattern": "The thing / person / place (that/who/where) + clause + be + focus", "example": "The place where we stayed was a converted farmhouse.", "note": "General noun instead of 'what'." },
+          { "pattern": "The reason (why) + clause + is/was + that + clause", "example": "The reason why sales fell was that prices rose sharply.", "note": "Use 'that', not 'because', in formal English." }
+        ],
+        "mistakes": [
+          { "wrong": "The reason why I was late is because the train was cancelled.", "right": "The reason why I was late is that the train was cancelled.", "why": "'The reason' already expresses cause; formal English uses 'that'." },
+          { "wrong": "Everything I want is an honest answer.", "right": "All I want is an honest answer.", "why": "To mean 'the only thing', use 'all', not 'everything'." },
+          { "wrong": "All you need to do is to pressing the button.", "right": "All you need to do is press the button.", "why": "After 'All ... do is', use the bare infinitive (or 'to' + infinitive), never -ing." }
+        ],
+        "summary": "Use 'All ... is' (the only thing), 'The thing/person/place ... is' and 'The reason ... is that ...' to focus information. 'The reason ... is that' is the formal choice, and 'All ... do is' is followed by a bare infinitive.",
+        "reviewCards": [
+          { "front": "I only want an honest answer. (All ...)", "back": "All I want is an honest answer." },
+          { "front": "The reason I left was ___ the hours were long.", "back": "that" },
+          { "front": "The last thing I expected was ...", "back": "Used for something very unexpected or unwanted." },
+          { "front": "paramount", "back": "paling utama, terpenting" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u02-l3-q1", "type": "single_choice", "category": "grammar", "topic": "all and the thing clefts", "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence: 'All you have to do ___ fill in this short form.'",
+          "options": ["is", "are", "does", "it is"],
+          "answer": 0,
+          "explanation": "'All you have to do' is a singular subject meaning 'the only thing you have to do', so it is followed by 'is' and a bare infinitive."
+        },
+        {
+          "id": "c1-u02-l3-q2", "type": "fill_blank", "category": "grammar", "topic": "the reason is that", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with one word in each gap, using formal English.",
+          "text": "The reason I turned down the offer ___ ___ the salary was far too low.",
+          "answers": [["was", "is"], ["that"]],
+          "explanation": "'The reason ... was/is that ...' is the formal pattern. 'Because' is avoided because 'the reason' already expresses the cause."
+        },
+        {
+          "id": "c1-u02-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "all and the thing clefts", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "I only want an honest answer.",
+          "cue": "Begin with: All",
+          "answers": ["All I want is an honest answer.", "All that I want is an honest answer.", "All I want is just an honest answer."],
+          "explanation": "'All' + clause + 'is' means 'the only thing': 'All I want is an honest answer.'"
+        },
+        {
+          "id": "c1-u02-l3-q4", "type": "matching", "category": "grammar", "topic": "all and the thing clefts", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match the beginnings with the endings.",
+          "pairs": [
+            { "left": "The last thing I expected", "right": "was a promotion after only six months." },
+            { "left": "All you need to bring", "right": "is a valid identity card." },
+            { "left": "The person who inspired me most", "right": "was my grandmother." },
+            { "left": "The reason we chose this venue", "right": "is that it is close to the station." },
+            { "left": "The place where we first met", "right": "has become a shopping mall." }
+          ],
+          "explanation": "Each opening noun phrase is completed logically: an unexpected event, a required item, a person, a reason (with 'that') and a place."
+        },
+        {
+          "id": "c1-u02-l3-q5", "type": "error_identification", "category": "grammar", "topic": "the reason is that", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that is not appropriate in formal English.",
+          "segments": ["The reason why", "I was late", "is because", "the train was cancelled."],
+          "errorIndex": 2,
+          "correction": "is that",
+          "explanation": "In formal English, 'The reason ... is' is followed by 'that', not 'because'."
+        },
+        {
+          "id": "c1-u02-l3-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "priorities vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "For the new CEO, staff wellbeing is **paramount**; every other goal comes second.",
+          "options": ["of the greatest importance", "completely optional", "difficult to measure", "recently introduced"],
+          "answer": 0,
+          "explanation": "'Paramount' means more important than anything else, which matches 'every other goal comes second'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u02-l4-reversed-clefts",
+      "title": "That's What I Mean: Reversed Clefts and Emphatic Do",
+      "summary": "Use reversed wh-clefts (That's what ..., This is why ...) and emphatic do to point back to information and add emphasis.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form reversed wh-clefts with what, why, where and how",
+        "Use That's why / This is where to link ideas in speech and writing",
+        "Use emphatic do/does/did to stress contrast or sincerity"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Reversing the wh-cleft\nIn a normal wh-cleft, the *what*-clause comes first: 'What we need is **a clear plan**.' In a **reversed wh-cleft**, the focused element comes first and the *what*-clause comes last:\n- '**A clear plan** is what we need.'\n- '**Patience** is what this job requires.'\n\nThe reversed form sounds more conclusive; it often summarises or confirms a point.\n\n### That's / This is + wh-word\nA very common type of reversed cleft uses *that* or *this* to refer back to (or forward to) an idea:\n\n| Expression | Function | Example |\n|---|---|---|\n| That's what ... | confirming the content | That's exactly what I was trying to say. |\n| That's why ... | giving the result | The budget was cut. That's why we delayed the launch. |\n| This is where ... | pointing to a stage or problem | This is where the real difficulty begins. |\n| That's how ... | describing a method | We shared the costs. That's how we survived the crisis. |\n| That's when ... | identifying a time | The alarm went off. That's when everyone panicked. |\n\nThese expressions are excellent **cohesive devices** in presentations: 'Our costs rose by 20%. **This is why** we need to review our suppliers.'\n\n### Emphatic do\nAnother way to focus on part of a sentence is to stress the **verb** with an auxiliary *do / does / did* in a positive statement:\n- 'I **do** understand your concerns.' (= I really understand, even if it seems otherwise)\n- 'She **does** work hard; she just doesn't show it.'\n- 'We **did** send the invoice; perhaps it went to spam.'\n\nThe main verb is in the **base form**. Emphatic *do* is used to contrast with a previous statement or doubt, to sound sincere, or to make polite imperatives warmer: '**Do** sit down.' In speech, the auxiliary is stressed.\n\n### It's not that ..., it's (just) that ...\nThis cleft-like structure softens a reason or corrects an assumption: 'It's not that I don't like the idea; it's just that we can't afford it right now.' It is very useful for polite disagreement.\n\n### Indonesian note\n*Itulah sebabnya ...* corresponds to 'That's why ...', and *Memang saya mengerti* corresponds to emphatic 'I **do** understand.' Indonesian uses particles such as *memang* or *-lah*; English uses word order and stressed auxiliaries.",
+        "examples": [
+          { "en": "A clear plan is what we need right now.", "id": "Rencana yang jelas-lah yang kita butuhkan saat ini.", "note": "Reversed wh-cleft." },
+          { "en": "The supplier went bankrupt. That's why the shipment never arrived.", "id": "Pemasoknya bangkrut. Itulah sebabnya kiriman itu tidak pernah tiba.", "note": "That's why = result." },
+          { "en": "I do understand your concerns, but the deadline cannot be changed.", "id": "Saya benar-benar memahami kekhawatiran Anda, tetapi tenggat waktunya tidak bisa diubah.", "note": "Emphatic do for sincerity and contrast." },
+          { "en": "It's not that I disagree; it's just that I need more information.", "id": "Bukannya saya tidak setuju; hanya saja saya butuh informasi lebih banyak.", "note": "Softening an objection." }
+        ],
+        "vocabulary": [
+          { "word": "reiterate", "pos": "verb", "ipa": "/riˈɪtəreɪt/", "meaning": "menegaskan kembali, mengulangi", "example": "That's what I want to reiterate: quality comes first." },
+          { "word": "reassure", "pos": "verb", "ipa": "/ˌriːəˈʃʊə(r)/", "meaning": "meyakinkan, menenangkan", "example": "I do want to reassure you that your jobs are safe." },
+          { "word": "crux", "pos": "noun", "ipa": "/krʌks/", "meaning": "inti (masalah)", "example": "This is the crux of the problem." },
+          { "word": "acknowledge", "pos": "verb", "ipa": "/əkˈnɒlɪdʒ/", "meaning": "mengakui", "example": "We do acknowledge that mistakes were made." },
+          { "word": "pinpoint", "pos": "verb", "ipa": "/ˈpɪnpɔɪnt/", "meaning": "menunjukkan dengan tepat", "example": "That's where we need to pinpoint the cause." }
+        ],
+        "grammar": [
+          { "pattern": "Focused element + is/was + what + clause", "example": "Teamwork is what made the difference.", "note": "Reversed wh-cleft." },
+          { "pattern": "That's / This is + why / where / how / when / what + clause", "example": "This is where most applicants make a mistake.", "note": "Points back or forward to an idea." },
+          { "pattern": "Subject + do/does/did + base verb (stressed)", "example": "He did apologise, but nobody heard him.", "note": "Emphatic do: contrast or sincerity." }
+        ],
+        "mistakes": [
+          { "wrong": "That's the reason because we left early.", "right": "That's why we left early.", "why": "Use 'That's why' (or 'That's the reason why'), not 'the reason because'." },
+          { "wrong": "I do understood your point.", "right": "I do understand your point.", "why": "After emphatic do/does/did, use the base form of the verb." },
+          { "wrong": "Patience is that this job requires.", "right": "Patience is what this job requires.", "why": "Reversed wh-clefts use 'what' to introduce the clause, not 'that'." }
+        ],
+        "summary": "Reversed clefts put the focus first ('A clear plan is what we need') and include useful linking expressions such as That's why, This is where and That's how. Emphatic do (I do understand) stresses the truth of a verb. 'It's not that ..., it's just that ...' politely corrects assumptions.",
+        "reviewCards": [
+          { "front": "What we need is patience. (reverse it)", "back": "Patience is what we need." },
+          { "front": "Itulah sebabnya ...", "back": "That's why ..." },
+          { "front": "Emphatic do + verb form?", "back": "Base form: 'She does work hard.'" },
+          { "front": "Polite correction structure", "back": "It's not that ..., it's just that ..." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u02-l4-q1", "type": "dropdown", "category": "grammar", "topic": "reversed cleft", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct word.",
+          "text": "Patience is ___ you need most in this job.",
+          "choices": [["what", "that", "which"]],
+          "answers": [0],
+          "explanation": "In a reversed wh-cleft, the clause after 'is' begins with 'what' (= the thing that)."
+        },
+        {
+          "id": "c1-u02-l4-q2", "type": "sentence_transformation", "category": "grammar", "topic": "reversed cleft", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence as a reversed wh-cleft.",
+          "sentence": "What made the difference was teamwork.",
+          "cue": "Begin with: Teamwork",
+          "answers": ["Teamwork is what made the difference.", "Teamwork was what made the difference."],
+          "explanation": "Move the focused element to the front and put the what-clause at the end: 'Teamwork is/was what made the difference.'"
+        },
+        {
+          "id": "c1-u02-l4-q3", "type": "fill_blank", "category": "grammar", "topic": "emphatic do", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete each sentence with emphatic do, does or did.",
+          "text": "I know it looks as if nobody checked it, but we ___ send the invoice on Monday. And Mr. Lim ___ read his emails carefully, so he must have seen it.",
+          "answers": [["did"], ["does"]],
+          "explanation": "The first verb refers to a past action ('on Monday'), so we use 'did send'. The second is a present habit with a third-person subject, so we use 'does read'."
+        },
+        {
+          "id": "c1-u02-l4-q4", "type": "single_choice", "category": "conversation", "topic": "softening with clefts", "difficulty": 3, "stage": "quiz",
+          "prompt": "Your manager asks: 'So you think the plan is too expensive?' Which reply politely corrects the misunderstanding?",
+          "options": ["It's not that it's too expensive; it's just that we haven't budgeted for it this year.", "It's not what it's too expensive; it's just that we haven't budgeted for it this year.", "Not it's too expensive; it's that just we haven't budgeted for it this year.", "What it's not is too expensive, just we haven't budgeted for it this year."],
+          "answer": 0,
+          "explanation": "The correct structure is 'It's not that ..., it's just that ...'. The other options have incorrect word order or the wrong linking words."
+        },
+        {
+          "id": "c1-u02-l4-q5", "type": "word_order", "category": "grammar", "topic": "reversed cleft", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["That's", "exactly", "what", "I", "was", "trying", "to", "say"],
+          "explanation": "That's + (exactly) + what + clause: 'That's exactly what I was trying to say.'"
+        },
+        {
+          "id": "c1-u02-l4-q6", "type": "drag_drop", "category": "grammar", "topic": "reversed cleft", "difficulty": 3, "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Our main supplier closed in March. That's ___ the shipment was delayed, and this is ___ the real problem begins: we have no other supplier in the region.",
+          "bank": ["why", "where", "because", "which", "what"],
+          "answers": ["why", "where"],
+          "explanation": "'That's why' introduces a result; 'This is where' points to a stage or point at which a problem begins."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u02-l5-clarifying-arguments",
+      "title": "What I'm Saying Is ...: Clarifying and Prioritising",
+      "summary": "Use cleft-based expressions to clarify your opinions, correct misunderstandings and signal priorities in discussions and essays.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use What I'm saying is / What I meant was to clarify",
+        "Use The point is / What it comes down to is to focus on the main issue",
+        "Use vocabulary of opinions and priorities such as take precedence and first and foremost"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Cleft structures as discussion tools\nIn meetings, seminars and debates, speakers constantly need to **clarify**, **correct** and **prioritise**. Many of the most useful expressions for these functions are based on the cleft structures from this unit.\n\n### Clarifying your own words\n| Expression | Use |\n|---|---|\n| What I'm saying is (that) ... | restating your point more clearly |\n| What I meant was (that) ... | correcting a misunderstanding of something you said earlier |\n| What I'm not saying is that ... | preventing a misunderstanding |\n| It's not that ..., it's (just) that ... | softening an objection or giving the real reason |\n\nExample: 'What I'm not saying is that the project should be cancelled. What I'm saying is that it should be postponed until we have the data.'\n\n### Focusing on the key issue\n| Expression | Use |\n|---|---|\n| The point is (that) ... | returning to the most important idea |\n| What it (all) comes down to is ... | summarising the essential issue |\n| The question is whether ... | identifying an unresolved issue |\n| The problem/issue is (that) ... | naming a difficulty |\n| What matters most is ... | setting a priority |\n\n### Expressing priorities\nThese expressions combine naturally with the structures above:\n- *first and foremost* = most importantly\n- *take precedence over* = be more important than\n- *a top / overriding priority* = the most important aim\n- *a pressing concern* = an urgent problem\n- *secondary* = less important\n\n'What matters most, first and foremost, is patient safety; cost savings cannot take precedence over that.'\n\n### Register\nIn speech, short versions are common: 'The thing is, ...', 'Point is, ...'. In formal writing, use complete forms: 'The central issue is whether ...', 'What this analysis demonstrates is that ...'. Avoid conversational fillers such as *like* or *you know* in clefts in academic texts.\n\n### Structuring an argument with clefts\nClefts help readers follow your reasoning because they announce the type of information that is coming:\n1. 'What critics of the policy often overlook is its long-term benefit.' (introducing a counter-argument)\n2. 'It is precisely this benefit that justifies the initial cost.' (contrastive focus)\n3. 'What it comes down to, therefore, is a question of priorities.' (conclusion)\n\nUse them selectively: two or three well-placed clefts make an essay more persuasive; too many make it repetitive.\n\n### Indonesian note\nPhrases such as *Maksud saya ...* ('What I meant was ...') and *Intinya ...* ('The point is ... / What it comes down to is ...') are frequent in Indonesian discussions. Learning their English cleft equivalents helps you sound more fluent and precise.",
+        "examples": [
+          { "en": "What I'm saying is that we should postpone the event, not cancel it.", "id": "Maksud saya, kita sebaiknya menunda acara itu, bukan membatalkannya.", "note": "Clarifying a point." },
+          { "en": "The point is that nobody consulted the residents.", "id": "Intinya, tidak ada yang berkonsultasi dengan warga.", "note": "Returning to the main issue." },
+          { "en": "What it comes down to is whether we can trust the data.", "id": "Pada akhirnya, persoalannya adalah apakah kita bisa memercayai data itu.", "note": "Summarising the essential issue." },
+          { "en": "Patient safety must take precedence over cost savings.", "id": "Keselamatan pasien harus lebih diutamakan daripada penghematan biaya.", "note": "Expressing priority." }
+        ],
+        "vocabulary": [
+          { "word": "take precedence over", "pos": "phrase", "ipa": "/teɪk ˈpresɪdəns ˈəʊvə(r)/", "meaning": "lebih diutamakan daripada", "example": "Safety must take precedence over speed." },
+          { "word": "first and foremost", "pos": "phrase", "ipa": "/fɜːst ənd ˈfɔːməʊst/", "meaning": "pertama dan terutama", "example": "First and foremost, we need reliable data." },
+          { "word": "overriding", "pos": "adjective", "ipa": "/ˌəʊvəˈraɪdɪŋ/", "meaning": "paling utama, mengalahkan yang lain", "example": "Our overriding concern is the welfare of the children." },
+          { "word": "pressing", "pos": "adjective", "ipa": "/ˈpresɪŋ/", "meaning": "mendesak", "example": "Housing is the most pressing issue in the city." },
+          { "word": "contention", "pos": "noun", "ipa": "/kənˈtenʃn/", "meaning": "pendapat yang dipertahankan; perselisihan", "example": "My contention is that the policy has failed." }
+        ],
+        "grammar": [
+          { "pattern": "What I'm saying / What I meant + is/was + (that) + clause", "example": "What I meant was that the report needs more evidence.", "note": "Clarifying." },
+          { "pattern": "The point / problem / question + is + that / whether + clause", "example": "The question is whether the council will approve it.", "note": "Focusing on an issue." },
+          { "pattern": "What it comes down to + is + noun phrase / clause", "example": "What it comes down to is trust.", "note": "Summarising." }
+        ],
+        "mistakes": [
+          { "wrong": "What I'm saying it is that we need more staff.", "right": "What I'm saying is that we need more staff.", "why": "Do not add 'it' after the what-clause." },
+          { "wrong": "The question is if the plan is legal or not.", "right": "The question is whether the plan is legal.", "why": "In formal English, 'The question is whether ...' is preferred, and 'or not' is unnecessary." },
+          { "wrong": "Safety must take precedence than profit.", "right": "Safety must take precedence over profit.", "why": "The fixed phrase is 'take precedence over'." }
+        ],
+        "summary": "Cleft-based phrases such as What I'm saying is, What I meant was, The point is and What it comes down to help you clarify and prioritise. Combine them with priority vocabulary (first and foremost, take precedence over, overriding, pressing) and use full forms in formal writing.",
+        "reviewCards": [
+          { "front": "Maksud saya ... (clarifying)", "back": "What I meant was ... / What I'm saying is ..." },
+          { "front": "Intinya ... (summarising)", "back": "What it comes down to is ... / The point is ..." },
+          { "front": "take precedence ___", "back": "over" },
+          { "front": "overriding concern", "back": "kekhawatiran yang paling utama" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u02-l5-q1", "type": "dialogue_completion", "category": "conversation", "topic": "clarifying with clefts", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the best response to complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Sinta", "text": "So you're saying we should cancel the whole festival?" },
+            { "speaker": "Arif", "text": null },
+            { "speaker": "Sinta", "text": "Ah, I see. That makes more sense." }
+          ],
+          "options": ["No, what I'm saying is that we should postpone it.", "No, what I'm saying it is that we should postpone it.", "No, that I'm saying is we should postpone it.", "No, it's what I'm saying that postpone it."],
+          "answer": 0,
+          "explanation": "'What I'm saying is that ...' is the correct wh-cleft for clarification. The other options add 'it', start with 'that' or are ungrammatical."
+        },
+        {
+          "id": "c1-u02-l5-q2", "type": "speaking_response", "category": "speaking", "topic": "clarifying with clefts", "difficulty": 4, "stage": "independent",
+          "prompt": "In a team meeting, a colleague thinks you want to stop all overtime. In fact, you only want to limit overtime to four hours a week and hire one extra person. Clarify your position and state your priorities in about one minute.",
+          "targetPhrases": ["What I'm not saying is", "What I'm saying is", "The point is", "first and foremost", "take precedence over", "What it comes down to is"],
+          "sampleAnswer": "I think there's been a slight misunderstanding. What I'm not saying is that we should stop overtime completely. What I'm saying is that we should limit it to four hours a week. The point is that people are exhausted, and first and foremost, we have a duty to protect their health. Short-term deadlines shouldn't take precedence over that. What it comes down to is simple: if we hire one extra person, we can share the workload fairly.",
+          "explanation": "A strong answer corrects the misunderstanding clearly, states the actual proposal, gives a reason and uses priority vocabulary."
+        },
+        {
+          "id": "c1-u02-l5-q3", "type": "matching", "category": "conversation", "topic": "clarifying with clefts", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each expression with its main function.",
+          "pairs": [
+            { "left": "What I meant was ...", "right": "correcting a misunderstanding of your own words" },
+            { "left": "The point is ...", "right": "returning to the most important idea" },
+            { "left": "What it comes down to is ...", "right": "summarising the essential issue" },
+            { "left": "It's not that ..., it's just that ...", "right": "softening an objection or giving the real reason" },
+            { "left": "The question is whether ...", "right": "identifying an issue that has not been resolved" }
+          ],
+          "explanation": "Each cleft-based expression signals a different discourse function in a discussion."
+        },
+        {
+          "id": "c1-u02-l5-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "priorities vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the meaning of the phrase in bold.",
+          "context": "On construction sites, safety must **take precedence over** speed, even when deadlines are tight.",
+          "options": ["be considered more important than", "be measured together with", "happen at the same time as", "be gradually replaced by"],
+          "answer": 0,
+          "explanation": "'Take precedence over' means to be more important than something else and to be dealt with first."
+        },
+        {
+          "id": "c1-u02-l5-q5", "type": "sentence_transformation", "category": "grammar", "topic": "clarifying with clefts", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "Ultimately, the whole issue is about trust.",
+          "cue": "Begin with: What it comes down to",
+          "answers": ["What it comes down to is trust.", "What it comes down to, ultimately, is trust.", "What it ultimately comes down to is trust.", "What it all comes down to is trust.", "What it comes down to is a question of trust.", "What it comes down to is a matter of trust."],
+          "explanation": "'What it comes down to is ...' summarises the essential issue: 'What it comes down to is trust.'"
+        },
+        {
+          "id": "c1-u02-l5-q6", "type": "single_choice", "category": "academic", "topic": "clefts in writing", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence is most appropriate to introduce the main argument of a formal essay?",
+          "options": ["What this essay argues is that public transport should be free for students.", "This essay, what it argues, is public transport should be free for students.", "The thing is, like, public transport should be free for students.", "It is public transport what should be free for students."],
+          "answer": 0,
+          "explanation": "Option 1 is a correct, formal wh-cleft. Option 2 is ungrammatical, option 3 is informal, and option 4 wrongly uses 'what' in an it-cleft (it should be 'that')."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u02-t-q1", "type": "sentence_transformation", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence to emphasise the real reason.",
+      "sentence": "The manager's attitude made me resign, not the workload.",
+      "cue": "Begin with: It was",
+      "answers": ["It was the manager's attitude that made me resign, not the workload.", "It was the manager's attitude, not the workload, that made me resign.", "It was the manager's attitude which made me resign, not the workload.", "It was the manager's attitude, not the workload, which made me resign.", "It was the manager's attitude rather than the workload that made me resign.", "It was the manager's attitude that made me resign and not the workload."],
+      "explanation": "It + was + focused subject + that + rest: 'It was the manager's attitude that made me resign ...'."
+    },
+    {
+      "id": "c1-u02-t-q2", "type": "fill_blank", "category": "grammar", "topic": "wh-cleft", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the wh-cleft with one word in each gap.",
+      "text": "___ we really need right now ___ a reliable internet connection.",
+      "answers": [["What"], ["is"]],
+      "explanation": "A wh-cleft begins with 'What' + clause, followed by singular 'is' and the focused element."
+    },
+    {
+      "id": "c1-u02-t-q3", "type": "error_identification", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["It were", "the interns", "who discovered", "the mistake in the budget."],
+      "errorIndex": 0,
+      "correction": "It was",
+      "explanation": "An it-cleft always uses singular 'It is / It was', even when the focused noun is plural."
+    },
+    {
+      "id": "c1-u02-t-q4", "type": "dropdown", "category": "grammar", "topic": "all and the thing clefts", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct word for each gap.",
+      "text": "The thing ___ annoys me most is ___ nobody told us about the changes in advance.",
+      "choices": [["that", "what", "who"], ["that", "what", "because"]],
+      "answers": [0, 0],
+      "explanation": "'The thing that annoys me' uses a relative 'that' after a noun; the focused element is a that-clause: 'is that nobody told us ...'."
+    },
+    {
+      "id": "c1-u02-t-q5", "type": "translation", "category": "grammar", "topic": "all and the thing clefts", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English using a focusing structure.",
+      "source": "Yang saya butuhkan hanyalah sedikit waktu untuk berpikir.",
+      "direction": "id-en",
+      "answers": ["All I need is a little time to think.", "All I need is some time to think.", "All I need is a bit of time to think.", "All I need is a little bit of time to think.", "All that I need is a little time to think.", "All I need is a little time to think about it.", "All I need is some time to think about it.", "What I need is just a little time to think.", "What I need is just some time to think.", "The only thing I need is a little time to think.", "The only thing I need is some time to think."],
+      "explanation": "'Yang saya butuhkan hanyalah' = 'All I need is' (the only thing I need). A wh-cleft with 'just' is also possible."
+    },
+    {
+      "id": "c1-u02-t-q6", "type": "dialogue_completion", "category": "conversation", "topic": "wh-cleft", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the best response.",
+      "dialogue": [
+        { "speaker": "Interviewer", "text": "Why did you decide to move to a smaller company?" },
+        { "speaker": "Candidate", "text": null }
+      ],
+      "options": ["What attracted me was the chance to work on a wider range of projects.", "What attracted me it was the chance to work on a wider range of projects.", "It attracted me was the chance to work on a wider range of projects.", "That attracted me was the chance to work on a wider range of projects."],
+      "answer": 0,
+      "explanation": "A wh-cleft starts with 'What' + clause + 'was' + focus, with no extra pronoun."
+    },
+    {
+      "id": "c1-u02-t-q7", "type": "word_order", "category": "grammar", "topic": "it-cleft", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["It", "was", "not", "until", "midnight", "that", "the", "results", "were", "announced"],
+      "explanation": "'It was not until + time + that + clause' focuses on the time, without inversion."
+    }
+  ]
+}

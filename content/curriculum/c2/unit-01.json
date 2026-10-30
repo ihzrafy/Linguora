@@ -1,0 +1,835 @@
+{
+  "slug": "c2-u01-fronting",
+  "number": 1,
+  "title": "Fronting and Stylistic Inversion",
+  "description": "Learn how proficient writers move objects, complements and adverbials to the front of a clause, and when this triggers inversion, to create emphasis, contrast and literary effect.",
+  "objectives": [
+    "Front objects, complements and participles for emphasis and contrast",
+    "Use concessive fronting with as/though (Strange as it may seem, Try as she might)",
+    "Apply full inversion after place and direction adverbials, respecting the pronoun rule",
+    "Produce emphatic so/such inversion with a result clause",
+    "Combine stylistic devices with precise descriptive vocabulary without overusing them"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u01-l1-fronting-emphasis",
+      "title": "Fronting for Emphasis and Contrast",
+      "summary": "Move objects, complements and participles to the front of a clause to highlight, contrast or link information.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Front an object for emphasis or contrast without inverting the subject and verb",
+        "Front a complement or participle and invert be with a noun-phrase subject",
+        "Make the verb agree with a postponed subject"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is fronting?\nIn a neutral English clause the order is subject – verb – object/complement – adverbial. **Fronting** moves an element that normally comes after the verb to the start of the clause. Because the opening of a sentence is a position of prominence, the fronted element receives extra emphasis, links back to what has just been said, or sets up a contrast.\n\n| Neutral order | Fronted version | Effect |\n|---|---|---|\n| I cannot accept this. | **This** I cannot accept. | emphasis / firm refusal |\n| I can forgive his rudeness, but not his dishonesty. | His rudeness I can forgive; his dishonesty I cannot. | contrast |\n| The days of cheap flights are gone. | **Gone** are the days of cheap flights. | dramatic, nostalgic |\n| The lack of funding is particularly worrying. | **Particularly worrying** is the lack of funding. | highlights the evaluation |\n\n### Two patterns: with and without inversion\n1. **Object fronting – no inversion.** When you front an object, the rest of the clause keeps its normal order: *This proposal **I cannot** accept.* Do not leave a pronoun in the original object position (✗ *This proposal I cannot accept it*) and do not invert (✗ *This proposal cannot I accept*). Inversion is triggered by fronted negative adverbials such as *never* or *rarely* (C1), not by fronted objects.\n2. **Complement or participle fronting – inversion with be.** When an adjective phrase or participle is fronted and the subject is a full noun phrase, the subject usually moves after *be*: *Particularly worrying **is the lack of funding**.* *Gone **are the days** when ...* *Attached **is a copy** of my report.* The verb agrees with the postponed subject, so check whether it is singular or plural: *Equally important **are the costs**.*\n\n### Why fronting works\n- **Information flow.** English prefers known information first and new, heavy information last. Fronting *Particularly worrying* allows a long subject (*the lack of funding for rural clinics*) to arrive at the end, where it carries most weight.\n- **Cohesion.** A fronted element can echo the previous sentence: *We had expected resistance. What we had not expected was silence. **That** we could not explain.*\n- **Contrast.** Paired fronting creates balance: *Some mistakes we can afford; this one we cannot.*\n\n### Register\nObject fronting is common in speech (*That I don't believe!*) as well as in writing. Complement fronting with inversion is more formal or literary and is typical of reports, speeches and narrative prose. Use it sparingly: one well-placed fronted clause is striking, but three in one paragraph sound mannered.",
+        "examples": [
+          { "en": "This I cannot accept.", "id": "Hal ini tidak dapat saya terima.", "note": "Object fronted for an emphatic refusal; normal subject–verb order follows." },
+          { "en": "Gone are the days when a single salary could support a family of six.", "id": "Sudah lewat masanya ketika satu gaji bisa menghidupi keluarga beranggotakan enam orang.", "note": "Fronted participle + inversion; a nostalgic, slightly dramatic tone." },
+          { "en": "Particularly striking is the contrast between the two harbours.", "id": "Yang sangat mencolok adalah perbedaan antara kedua pelabuhan itu.", "note": "Fronted complement; the singular verb agrees with 'the contrast'." },
+          { "en": "His temper I could tolerate; his dishonesty I could not.", "id": "Sifat pemarahnya masih bisa saya toleransi; ketidakjujurannya tidak.", "note": "Paired object fronting creates a sharp contrast." },
+          { "en": "Attached is a copy of the revised contract.", "id": "Terlampir salinan kontrak yang telah direvisi.", "note": "Formulaic fronting used in formal correspondence." }
+        ],
+        "vocabulary": [
+          { "word": "concede", "pos": "verb", "ipa": "/kənˈsiːd/", "meaning": "mengakui (biasanya dengan enggan)", "example": "That point I am willing to concede." },
+          { "word": "tolerate", "pos": "verb", "ipa": "/ˈtɒləreɪt/", "meaning": "menoleransi, membiarkan", "example": "Such behaviour we will not tolerate." },
+          { "word": "striking", "pos": "adjective", "ipa": "/ˈstraɪkɪŋ/", "meaning": "mencolok, sangat menarik perhatian", "example": "Most striking was the absence of any official response." },
+          { "word": "bygone", "pos": "adjective", "ipa": "/ˈbaɪɡɒn/", "meaning": "dari masa lampau, yang sudah berlalu", "example": "The photographs evoke a bygone era of seaside holidays." },
+          { "word": "foreground", "pos": "verb", "ipa": "/ˈfɔːɡraʊnd/", "meaning": "menonjolkan, mengedepankan", "example": "Fronting allows a writer to foreground the most important idea." },
+          { "word": "dismiss", "pos": "verb", "ipa": "/dɪsˈmɪs/", "meaning": "menepis, mengabaikan (gagasan)", "example": "Her first objection we dismissed; her second we could not." }
+        ],
+        "grammar": [
+          { "pattern": "Fronted object + subject + verb (no inversion)", "example": "That point I am willing to concede.", "note": "Use for emphasis or contrast; the rest of the clause keeps normal order." },
+          { "pattern": "Fronted complement/participle + be + noun-phrase subject", "example": "Equally important are the long-term costs.", "note": "The verb agrees with the postponed subject." },
+          { "pattern": "Gone are the days when/of ...", "example": "Gone are the days of handwritten ledgers.", "note": "A fixed, nostalgic way of saying something belongs to the past." }
+        ],
+        "mistakes": [
+          { "wrong": "This proposal I cannot accept it.", "right": "This proposal I cannot accept.", "why": "The fronted phrase is already the object; adding 'it' duplicates it." },
+          { "wrong": "Such behaviour will we not tolerate.", "right": "Such behaviour we will not tolerate.", "why": "Fronting an object does not trigger inversion; only negative or restrictive adverbials (Never, Rarely, Only then) do." },
+          { "wrong": "Equally important is the costs of maintenance.", "right": "Equally important are the costs of maintenance.", "why": "The verb must agree with the postponed plural subject 'the costs'." }
+        ],
+        "summary": "Fronting places an object, complement or participle at the start of a clause to create emphasis, contrast or cohesion. Fronted objects keep normal subject–verb order, while fronted complements and participles usually trigger inversion with be. Always make the verb agree with the subject that follows it.",
+        "reviewCards": [
+          { "front": "This I cannot accept.", "back": "Fronted object for emphasis — no inversion, no extra 'it'." },
+          { "front": "Gone are the days when ...", "back": "Fronted participle + be + subject: something belongs to the past." },
+          { "front": "Particularly worrying is / are ...", "back": "Fronted complement; the verb agrees with the subject that follows." },
+          { "front": "Why front an element?", "back": "Emphasis, contrast, or linking to the previous sentence while keeping the long new subject for the end." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u01-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "fronting",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sentence fronts the object correctly?",
+          "instructions": "Remember: a fronted object does not cause inversion, and it is not repeated by a pronoun.",
+          "options": [
+            "This proposal I cannot accept, but the revised one I can support.",
+            "This proposal cannot I accept, but the revised one I can support.",
+            "This proposal I cannot accept it, but the revised one I can support.",
+            "This proposal do I not accept, but the revised one I can support."
+          ],
+          "answer": 0,
+          "explanation": "After a fronted object the subject and verb keep normal order (I cannot accept). Options B and D wrongly invert, as if 'This proposal' were a negative adverbial, and option C repeats the object with 'it'.",
+          "misconception": "Learners who know negative inversion (Never have I ...) sometimes invert after any fronted element."
+        },
+        {
+          "id": "c2-u01-l1-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "fronting",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence so that it begins with the given word.",
+          "sentence": "The days when everyone wrote letters by hand are gone.",
+          "cue": "Begin with: Gone",
+          "answers": [
+            "Gone are the days when everyone wrote letters by hand.",
+            "Gone are the days in which everyone wrote letters by hand."
+          ],
+          "explanation": "When the participle 'gone' is fronted, 'be' moves before the subject: Gone are the days ... The plural verb 'are' agrees with 'the days'."
+        },
+        {
+          "id": "c2-u01-l1-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["Such a reckless decision", "the board", "would never have", "approved it", "in its long history."],
+          "errorIndex": 3,
+          "correction": "approved",
+          "explanation": "'Such a reckless decision' is the fronted object of 'approved', so the pronoun 'it' must be removed: Such a reckless decision the board would never have approved in its long history."
+        },
+        {
+          "id": "c2-u01-l1-q4",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Arrange the words into a sentence that fronts the object for emphasis.",
+          "words": ["That", "kind", "of", "behaviour", "we", "will", "not", "tolerate"],
+          "explanation": "The object 'That kind of behaviour' is fronted, and the clause continues in normal order: we will not tolerate. No inversion is used because the fronted element is an object, not a negative adverbial."
+        },
+        {
+          "id": "c2-u01-l1-q5",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each sentence with the function of its fronted element.",
+          "pairs": [
+            { "left": "Gone are the days of free parking.", "right": "Fronted participle + inversion: something has ended" },
+            { "left": "This point I will concede; the next I will not.", "right": "Paired object fronting creating contrast" },
+            { "left": "Particularly worrying is the lack of funding.", "right": "Fronted adjective complement highlighting an evaluation" },
+            { "left": "Attached is a copy of the contract.", "right": "Formulaic fronting in formal correspondence" }
+          ],
+          "explanation": "'Gone are the days' signals that something belongs to the past; paired objects ('This point ... the next') build contrast; 'Particularly worrying' foregrounds the writer's evaluation; 'Attached is ...' is a fixed formula in letters and emails."
+        },
+        {
+          "id": "c2-u01-l1-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "Equally important is the questions of cost and safety.",
+          "answers": [
+            "Equally important are the questions of cost and safety."
+          ],
+          "explanation": "After a fronted complement, the verb agrees with the postponed subject. 'The questions' is plural, so the verb must be 'are'.",
+          "misconception": "Because the verb comes before the subject, learners often default to singular 'is'."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u01-l2-concessive-fronting",
+      "title": "Concessive Fronting with As and Though",
+      "summary": "Use compact concessive clauses such as 'Strange as it may seem', 'Much as I admire her' and 'Try as he might'.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Form concessive clauses with adjective/adverb/noun + as/though + subject + verb",
+        "Use the fixed patterns 'Much as ...' and 'Try as ... might'",
+        "Avoid adding 'but' to a fronted concessive clause"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The pattern\nProficient writers often open a concessive clause not with *although* but with a fronted word followed by *as* or *though*:\n\n| Pattern | Example | Neutral paraphrase |\n|---|---|---|\n| Adjective + as/though + subject + verb | **Strange as it may seem**, the plan worked. | Although it may seem strange, ... |\n| Adverb + as/though + subject + verb | **Hard as she tried**, she could not open the lock. | Although she tried hard, ... |\n| Noun (no article) + though/as + subject + verb | **Novice though she was**, she negotiated brilliantly. | Although she was a novice, ... |\n| Much as + subject + verb | **Much as I admire her**, I disagree. | Although I admire her greatly, ... |\n| Try as + subject + might/may | **Try as he might**, he could not sleep. | However hard he tried, ... |\n\n### Key rules\n- The fronted word comes **first**, then *as* or *though*, then the subject and verb in **normal order**: *Tired as she was* (✗ *Tired as was she*).\n- A fronted singular noun loses its article: *Novice though she was* (✗ *A novice though she was*).\n- *Much as* combines with verbs of feeling and attitude: *admire, like, love, respect, sympathise, regret, would like to*.\n- *Try as* + subject + *might/may* is a fixed expression, and the main clause normally reports failure: *Try as they might, they could not agree.*\n- **Never add *but*** to the main clause: ✗ *Much as I like him, but I won't lend him money.* The fronted clause already expresses the concession.\n- With *as*, the same structure can occasionally have a causal meaning (*Tired as she was, she went to bed early* = because she was tired). Make sure the main clause signals the contrast clearly; *though* is always concessive.\n\n### Alternatives with however and no matter how\nThe same idea can be expressed with *however* or *no matter how* + adjective/adverb: *However strange it may seem*, ... / *No matter how hard she tried*, ... The adjective or adverb must stay next to *however*: ✗ *However it may seem strange*.\n\n### Register and effect\nThe *as/though* pattern is compact and slightly formal. It suits essays, speeches and narrative writing, where it lets you acknowledge a point before overturning it: *Attractive though the proposal is, it ignores the cost of maintenance.* Fixed phrases such as *Strange as it may seem* and *Much as I'd like to* are also common in everyday speech, especially when politely refusing: *Much as I'd like to help, I'm on a deadline.*\n\n### Building the sentence\n1. Take the although-clause: *Although the task was daunting, ...*\n2. Move the adjective to the front: *Daunting ...*\n3. Add *as/though* and the rest of the clause in normal order: *Daunting as the task was, ...*\n4. Delete *although* and check that the main clause has no *but*.",
+        "examples": [
+          { "en": "Strange as it may seem, the oldest bridge in Port Elvan is also the strongest.", "id": "Meskipun tampak aneh, jembatan tertua di Port Elvan justru yang paling kokoh.", "note": "A common set phrase introducing a surprising fact." },
+          { "en": "Much as I admire her courage, I cannot support her proposal.", "id": "Walaupun saya sangat mengagumi keberaniannya, saya tidak dapat mendukung usulannya.", "note": "'Much as' + verb of attitude; polite but firm disagreement." },
+          { "en": "Try as he might, Raka could not remember the code.", "id": "Sekeras apa pun Raka berusaha, ia tidak bisa mengingat kodenya.", "note": "Fixed expression; the main clause reports failure." },
+          { "en": "Exhausted though they were, the volunteers kept searching until dawn.", "id": "Meskipun sangat letih, para relawan terus mencari sampai fajar.", "note": "Fronted participle + though; normal order 'they were'." },
+          { "en": "Novice though she was, Lina handled the negotiation with remarkable poise.", "id": "Meskipun masih pemula, Lina menangani negosiasi itu dengan ketenangan yang luar biasa.", "note": "Fronted noun without an article." }
+        ],
+        "vocabulary": [
+          { "word": "relentless", "pos": "adjective", "ipa": "/rɪˈlentləs/", "meaning": "tanpa henti, tak kenal lelah", "example": "Relentless as the criticism was, the director refused to resign." },
+          { "word": "futile", "pos": "adjective", "ipa": "/ˈfjuːtaɪl/", "meaning": "sia-sia", "example": "Futile though the attempt seemed, they tried once more." },
+          { "word": "formidable", "pos": "adjective", "ipa": "/ˈfɔːmɪdəbl/", "meaning": "tangguh, hebat dan menakutkan", "example": "Formidable as their opponents were, the team stayed calm." },
+          { "word": "endeavour", "pos": "noun", "ipa": "/ɪnˈdevə/", "meaning": "usaha keras", "example": "Every endeavour to reach the stranded climbers failed." },
+          { "word": "poise", "pos": "noun", "ipa": "/pɔɪz/", "meaning": "ketenangan dan keanggunan sikap", "example": "She answered the hostile questions with great poise." },
+          { "word": "concession", "pos": "noun", "ipa": "/kənˈseʃn/", "meaning": "pengakuan atau kelonggaran (dalam argumen)", "example": "Opening with a concession makes an argument sound fair-minded." }
+        ],
+        "grammar": [
+          { "pattern": "Adjective/Adverb + as/though + subject + verb, main clause", "example": "Cold as the water was, the children swam for hours.", "note": "Normal word order after as/though; no 'but' in the main clause." },
+          { "pattern": "Much as + subject + verb of feeling, main clause", "example": "Much as we sympathise with your situation, we cannot extend the deadline.", "note": "Polite, formal concession." },
+          { "pattern": "Try as + subject + might/may, main clause", "example": "Try as they might, the engineers could not find the fault.", "note": "Fixed expression meaning 'however hard they tried'." }
+        ],
+        "mistakes": [
+          { "wrong": "Much as I like him, but I won't lend him money.", "right": "Much as I like him, I won't lend him money.", "why": "The fronted clause is already concessive; adding 'but' doubles the contrast." },
+          { "wrong": "Tired as was she, she kept working.", "right": "Tired as she was, she kept working.", "why": "There is no inversion after as/though in this pattern." },
+          { "wrong": "However it may seem strange, it is true.", "right": "However strange it may seem, it is true.", "why": "The adjective must follow 'however' directly." }
+        ],
+        "summary": "Concessive fronting places an adjective, adverb or bare noun before as/though, followed by the subject and verb in normal order. 'Much as' and 'Try as ... might' are fixed variants. The main clause must not begin with 'but'.",
+        "reviewCards": [
+          { "front": "Strange as it may seem, ...", "back": "= Although it may seem strange, ... (normal order after 'as')." },
+          { "front": "Much as I admire her, ...", "back": "= Although I admire her a lot, ... Used with verbs of feeling." },
+          { "front": "Try as he might, ...", "back": "= However hard he tried, ... Main clause usually reports failure." },
+          { "front": "Novice though she was, ...", "back": "Fronted noun loses its article; 'though' is always concessive." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u01-l2-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the word that completes the concessive clause.",
+          "instructions": "In this pattern an adjective comes before 'as', and the subject and verb follow in normal order.",
+          "text": "___ as it may seem, the experiment succeeded on its very first attempt.",
+          "choices": [["Strange", "Strangely", "Strangeness"]],
+          "answers": [0],
+          "explanation": "The pattern is adjective + as + subject + verb: 'Strange as it may seem' (= Although it may seem strange). 'Seem' needs an adjective complement, so the adverb 'Strangely' and the noun 'Strangeness' are wrong."
+        },
+        {
+          "id": "c2-u01-l2-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence so that it begins with the given word. Keep the meaning the same.",
+          "sentence": "Although I admire her courage, I cannot support her plan.",
+          "cue": "Begin with: Much",
+          "answers": [
+            "Much as I admire her courage, I cannot support her plan.",
+            "Much as I admire her courage, I can't support her plan."
+          ],
+          "explanation": "'Much as' + subject + verb of feeling replaces 'Although I admire ... a lot'. The main clause must not start with 'but'."
+        },
+        {
+          "id": "c2-u01-l2-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the fixed expression with one word.",
+          "text": "Try ___ she might, she could not loosen the knot.",
+          "answers": [["as"]],
+          "explanation": "The fixed expression is 'Try as + subject + might', meaning 'however hard she tried'."
+        },
+        {
+          "id": "c2-u01-l2-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["Tired as", "was she,", "she agreed to", "chair the late meeting."],
+          "errorIndex": 1,
+          "correction": "she was,",
+          "explanation": "After the fronted adjective and 'as', the subject and verb keep normal order: 'Tired as she was'. Inversion belongs to so/such and negative fronting, not to this concessive pattern."
+        },
+        {
+          "id": "c2-u01-l2-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "What does the speaker mean? 'Much as I'd like to help, I have a deadline this afternoon.'",
+          "options": [
+            "Because I want to help so much, I will ignore my deadline.",
+            "Although I would genuinely like to help, my deadline prevents me.",
+            "I will help as much as my deadline allows.",
+            "I would like someone to help me with my deadline."
+          ],
+          "answer": 1,
+          "explanation": "'Much as I'd like to' is concessive: it acknowledges the wish to help and then gives a reason for refusing. It does not express quantity ('as much as') or a request for help."
+        },
+        {
+          "id": "c2-u01-l2-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "instructions": "Use the structure 'Try as ... might'.",
+          "source": "Sekeras apa pun Lina berusaha, dia tidak bisa mengingat nama itu.",
+          "direction": "id-en",
+          "answers": [
+            "Try as she might, Lina could not remember the name.",
+            "Try as she might, Lina couldn't remember the name.",
+            "Try as she might, Lina could not remember that name.",
+            "Try as she might, Lina couldn't remember that name.",
+            "Try as Lina might, she could not remember the name.",
+            "Try as Lina might, she couldn't remember the name.",
+            "Try as Lina might, she could not remember that name.",
+            "Try as Lina might, she couldn't remember that name.",
+            "Try as she might, Lina could not recall the name.",
+            "Try as she might, Lina couldn't recall the name.",
+            "Try as Lina might, she could not recall the name.",
+            "Try as Lina might, she couldn't recall the name.",
+            "Try as she might, Lina was unable to remember the name.",
+            "Try as Lina might, she was unable to remember the name."
+          ],
+          "explanation": "'Sekeras apa pun ... berusaha' corresponds to 'Try as ... might'. The main clause reports failure: she could not remember the name."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u01-l3-place-inversion",
+      "title": "Inversion after Place and Direction Adverbials",
+      "summary": "Use full inversion such as 'Down came the rain' and 'On the hill stood a castle', and keep pronoun subjects in normal order.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Invert an intransitive verb and a noun subject after a fronted place or direction adverbial",
+        "Keep normal order when the subject is a pronoun (Here it comes)",
+        "Use place inversion to set scenes and create end focus"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Inversion after place and direction adverbials\nWhen an adverbial of **place** or **direction** opens a clause, an intransitive verb of position or movement (*be, stand, sit, lie, live, come, go, run, fly, rise, fall*) can move in front of its subject:\n\n- *An old lighthouse stood at the end of the pier.* → ***At the end of the pier stood an old lighthouse.***\n- *The rain came down.* → ***Down came the rain.***\n- *The children rushed into the room.* → ***Into the room rushed the children.***\n\nThis is **full inversion**: the main verb itself, not an auxiliary, comes before the subject, and *do* is never added (✗ *Down did come the rain*).\n\n### The pronoun rule\nFull inversion happens only when the subject is a **noun phrase**. If the subject is a pronoun, keep normal order after the fronted adverbial:\n\n| Noun subject | Pronoun subject |\n|---|---|\n| Here comes **the bus**. | Here **it** comes. |\n| There goes **our last chance**. | There **it** goes. |\n| Off went **the children**. | Off **they** went. |\n| Up shot **the rocket**. | Up **it** shot. |\n\n✗ *Here comes it.* ✗ *Off went they.*\n\n### Which verbs?\nThe verb must be intransitive and must express position, motion or simple existence (*be, lie, live*). Verbs with an object do not invert: ✗ *Into the room carried the waiter the tray.* Keep to simple tenses; progressive and passive forms rarely invert in modern English.\n\n### Why use it?\n1. **End focus.** The new or important subject is delayed until the end: *On the table lay **a sealed envelope addressed to her father**.*\n2. **Scene setting.** Descriptive and narrative writing often names a location first and then reveals what is there, guiding the reader's eye like a camera.\n3. **Vividness in speech.** Short forms such as *Here comes the bride*, *There goes the bell* and *Off you go!* are everyday spoken English.\n\n### Agreement\nThe verb agrees with the subject that follows it: *At the back of the garden **stand two oak trees*** (plural); *In the centre of the square **stands a fountain*** (singular).\n\n### Register\nInversion after short directional particles (*here, there, up, down, off, away, out, in*) is neutral and very common in speech. Inversion after longer prepositional phrases (*Beyond the gates ..., Across the valley ...*) is typical of literary, descriptive or journalistic writing.",
+        "examples": [
+          { "en": "Down came the rain, and the market traders scrambled for cover.", "id": "Turunlah hujan, dan para pedagang pasar berebut mencari tempat berteduh.", "note": "Short directional particle + verb + noun subject." },
+          { "en": "On the hill above the village stood a ruined chapel.", "id": "Di bukit di atas desa itu berdiri sebuah kapel yang sudah runtuh.", "note": "Scene-setting inversion typical of descriptive writing." },
+          { "en": "Here comes the ferry, right on time!", "id": "Itu dia kapal ferinya datang, tepat waktu!", "note": "Everyday spoken inversion with a noun subject." },
+          { "en": "The bell rang, and off they went to their classes.", "id": "Bel berbunyi, dan berangkatlah mereka ke kelas masing-masing.", "note": "Pronoun subject: no inversion ('off they went')." },
+          { "en": "Out of the burning hangar staggered two mechanics.", "id": "Dari dalam hanggar yang terbakar keluarlah dua mekanik dengan terhuyung-huyung.", "note": "Full inversion with a movement verb; end focus falls on the new subject." }
+        ],
+        "vocabulary": [
+          { "word": "tower", "pos": "verb", "ipa": "/ˈtaʊə/", "meaning": "menjulang tinggi", "example": "Above the old town towered the cathedral spire." },
+          { "word": "sprawl", "pos": "verb", "ipa": "/sprɔːl/", "meaning": "terhampar luas (tidak teratur)", "example": "Below the ridge sprawled the suburbs of Port Elvan." },
+          { "word": "nestle", "pos": "verb", "ipa": "/ˈnesl/", "meaning": "terletak terlindung, terselip nyaman", "example": "In a fold of the hills nestled a tiny hamlet." },
+          { "word": "dart", "pos": "verb", "ipa": "/dɑːt/", "meaning": "melesat tiba-tiba", "example": "Out from under the hedge darted a hare." },
+          { "word": "clamber", "pos": "verb", "ipa": "/ˈklæmbə/", "meaning": "memanjat dengan susah payah", "example": "Over the rocks clambered the exhausted hikers." },
+          { "word": "perch", "pos": "verb", "ipa": "/pɜːtʃ/", "meaning": "bertengger; terletak di tempat tinggi", "example": "High on the cliff perched a white farmhouse." }
+        ],
+        "grammar": [
+          { "pattern": "Place/direction adverbial + intransitive verb + noun subject", "example": "Across the valley rolled a thick bank of fog.", "note": "Full inversion: the main verb precedes the subject; no 'do'." },
+          { "pattern": "Adverbial particle + pronoun + verb (no inversion)", "example": "Here it comes. / Away they ran.", "note": "Pronoun subjects stay before the verb." },
+          { "pattern": "Here/There + come/go/be + noun subject", "example": "There goes the last train.", "note": "Common in everyday speech." }
+        ],
+        "mistakes": [
+          { "wrong": "Here comes it.", "right": "Here it comes.", "why": "A pronoun subject is not inverted after a fronted adverbial." },
+          { "wrong": "Down did come the rain.", "right": "Down came the rain.", "why": "Place inversion moves the main verb itself; do-support is not used." },
+          { "wrong": "In the corner of the room stands two old pianos.", "right": "In the corner of the room stand two old pianos.", "why": "The verb agrees with the plural subject that follows it." }
+        ],
+        "summary": "After a fronted adverbial of place or direction, an intransitive verb of position or motion can precede a noun subject (Down came the rain). Pronoun subjects keep normal order (Down it came), no 'do' is added, and the verb agrees with the postponed subject.",
+        "reviewCards": [
+          { "front": "Here comes the bus. / Here ___ comes.", "back": "Here it comes — pronouns are not inverted." },
+          { "front": "On the hill ___ (stand) a castle.", "back": "On the hill stood a castle — full inversion with an intransitive verb." },
+          { "front": "Can you say 'Down did come the rain'?", "back": "No. Place inversion never uses do-support: Down came the rain." },
+          { "front": "Main purpose of place inversion", "back": "Scene setting and end focus on a new, important subject." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u01-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "place inversion",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sentence is grammatically correct?",
+          "instructions": "Check whether the subject is a noun or a pronoun before deciding on inversion.",
+          "options": [
+            "Off went they to the station.",
+            "Off they went to the station.",
+            "Off did they go to the station.",
+            "Off went to the station they."
+          ],
+          "answer": 1,
+          "explanation": "With a pronoun subject, the order after the fronted particle is normal: Off they went. Full inversion (Off went ...) requires a noun subject, and do-support is never used in place inversion."
+        },
+        {
+          "id": "c2-u01-l3-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "place inversion",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence, beginning with the given words.",
+          "sentence": "An old lighthouse stood at the end of the pier.",
+          "cue": "Begin with: At the end of the pier",
+          "answers": [
+            "At the end of the pier stood an old lighthouse."
+          ],
+          "explanation": "The place adverbial is fronted and the intransitive verb 'stood' moves before the noun subject 'an old lighthouse', placing the new information at the end."
+        },
+        {
+          "id": "c2-u01-l3-q3",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "place inversion",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Drag the correct verb forms into the gaps.",
+          "text": "Round the corner ___ a battered delivery van, and out of it ___ two exhausted drivers.",
+          "bank": ["came", "did come", "climbed", "they climbed", "coming"],
+          "answers": ["came", "climbed"],
+          "explanation": "Both clauses use full inversion after a fronted place adverbial: verb + noun subject (came a van, climbed two drivers). 'Did come' adds do-support, which is not used here, and 'they climbed' would leave the noun phrase without a role."
+        },
+        {
+          "id": "c2-u01-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "place inversion",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["At the back of the garden", "stands", "two ancient oak trees", "planted by the founder."],
+          "errorIndex": 1,
+          "correction": "stand",
+          "explanation": "The postponed subject 'two ancient oak trees' is plural, so the verb must be 'stand'.",
+          "misconception": "Because the verb comes first, learners often make it agree with the singular noun in the fronted phrase ('the garden')."
+        },
+        {
+          "id": "c2-u01-l3-q5",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "place inversion",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Select ALL the grammatically correct sentences.",
+          "options": [
+            "Here it is.",
+            "Here is it.",
+            "Away flew the startled pigeons.",
+            "Away flew they across the square.",
+            "There goes our last chance of a refund."
+          ],
+          "answers": [0, 2, 4],
+          "explanation": "Noun subjects invert (Away flew the pigeons; There goes our last chance), but pronoun subjects do not: 'Here it is', not 'Here is it'; 'Away they flew', not 'Away flew they'."
+        },
+        {
+          "id": "c2-u01-l3-q6",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "place inversion",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Lina", "text": "Is the taxi here yet? We'll miss the train." },
+            { "speaker": "Raka", "text": null }
+          ],
+          "options": [
+            "Yes, here it comes now.",
+            "Yes, here comes it now.",
+            "Yes, here does it come now.",
+            "Yes, here it does come now it."
+          ],
+          "answer": 0,
+          "explanation": "'It' is a pronoun, so the natural spoken form is 'Here it comes'. Inversion (here comes ...) is only used with a noun subject: 'Here comes the taxi'."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u01-l4-so-such-inversion",
+      "title": "So and Such Inversion",
+      "summary": "Emphasise extreme degree and its result with structures such as 'So severe was the damage that ...' and 'Such was the demand that ...'.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Front so + adjective/adverb and invert the subject and auxiliary",
+        "Use 'Such + be + noun phrase + that-clause'",
+        "Keep normal word order in the result clause"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### So + adjective/adverb + inversion\nIn a normal result sentence, *so* + adjective/adverb comes after the verb: *The damage was **so severe that** the road had to be closed.* For emphasis, you can front *so* + adjective/adverb, and the clause then **inverts**:\n\n| Neutral | Emphatic (fronted) |\n|---|---|\n| The damage was so severe that ... | **So severe was the damage** that ... |\n| He spoke so quietly that ... | **So quietly did he speak** that ... |\n| They had worked so hard that ... | **So hard had they worked** that ... |\n| The bridge was so badly damaged that ... | **So badly damaged was the bridge** that ... |\n\n- When *be* is the main verb, invert *be* and the subject.\n- With other verbs, use an **auxiliary**: *do/does/did* in simple tenses, or the auxiliary already present (*had, has, could, would*).\n\n### Such + be + noun phrase\n*Such* can be fronted on its own as a complement meaning 'so great' or 'of this kind':\n\n- *The demand for tickets was so great that ...* → ***Such was the demand for tickets** that ...*\n- *Her anger was such that she refused to speak.* → ***Such was her anger** that she refused to speak.*\n\nHere *such* is followed directly by **be** and then the subject. It is not followed by an adjective: ✗ *Such great was the demand*.\n\n### To such an extent / to such a degree\nA related formal pattern fronts a prepositional phrase: ***To such an extent** had prices risen that many families left the city.* Again, the auxiliary comes before the subject.\n\n### The result clause\nThe result clause is normally introduced by *that*, which is rarely omitted in this formal pattern. Its word order is **normal**: *So loud was the music **that we could not hear** each other* (✗ *that could we not hear*).\n\n### Choosing so or such\n| Word | Followed by | Example |\n|---|---|---|\n| *So* | adjective / adverb / participle + inversion | So intense was the heat that ... |\n| *Such* | be + noun phrase | Such was the heat that ... |\n\n### Register and effect\nThese structures are formal and dramatic. They work well in reports of extraordinary events, in speeches and at the climax of a narrative: *So complete was the silence that she could hear her own heartbeat.* In conversation the neutral order is far more natural, so reserve the fronted forms for writing and prepared speech, and avoid using more than one in the same paragraph.",
+        "examples": [
+          { "en": "So severe was the flooding that the harbour remained closed for a week.", "id": "Begitu parahnya banjir itu sehingga pelabuhan tetap ditutup selama seminggu.", "note": "So + adjective + be + subject + that-clause." },
+          { "en": "Such was the demand for tickets that the theatre added three extra performances.", "id": "Begitu besarnya permintaan tiket sehingga teater itu menambah tiga pertunjukan lagi.", "note": "Such + be + noun phrase." },
+          { "en": "So quietly did she enter that nobody noticed her.", "id": "Begitu pelannya ia masuk sehingga tak seorang pun menyadarinya.", "note": "Adverb + do-support in the past simple." },
+          { "en": "To such an extent had the town grown that the old maps were useless.", "id": "Kota itu telah berkembang sedemikian rupa sehingga peta-peta lama tidak berguna lagi.", "note": "Fronted prepositional phrase + auxiliary 'had'." },
+          { "en": "So convincing was her argument that even her critics changed their minds.", "id": "Begitu meyakinkannya argumennya sehingga para pengkritiknya pun berubah pikiran.", "note": "Result clause in normal word order." }
+        ],
+        "vocabulary": [
+          { "word": "ferocity", "pos": "noun", "ipa": "/fəˈrɒsəti/", "meaning": "keganasan, kedahsyatan", "example": "Such was the ferocity of the storm that trees were uprooted across the island." },
+          { "word": "devastation", "pos": "noun", "ipa": "/ˌdevəˈsteɪʃn/", "meaning": "kehancuran besar", "example": "So widespread was the devastation that rebuilding took a decade." },
+          { "word": "unprecedented", "pos": "adjective", "ipa": "/ʌnˈpresɪdentɪd/", "meaning": "belum pernah terjadi sebelumnya", "example": "So unprecedented was the result that the committee ordered a recount." },
+          { "word": "overwhelming", "pos": "adjective", "ipa": "/ˌəʊvəˈwelmɪŋ/", "meaning": "luar biasa besar, membanjiri", "example": "Such was the overwhelming response that the website crashed." },
+          { "word": "pervasive", "pos": "adjective", "ipa": "/pəˈveɪsɪv/", "meaning": "meresap, menyebar ke mana-mana", "example": "So pervasive was the smell of smoke that guests left early." },
+          { "word": "intensity", "pos": "noun", "ipa": "/ɪnˈtensəti/", "meaning": "intensitas, kekuatan", "example": "Such was the intensity of the debate that the chair called a recess." }
+        ],
+        "grammar": [
+          { "pattern": "So + adjective + be + subject + that-clause", "example": "So intense was the heat that the road surface melted.", "note": "Invert be and the subject." },
+          { "pattern": "So + adverb + auxiliary + subject + main verb + that-clause", "example": "So rapidly did the fire spread that the village was evacuated within an hour.", "note": "Use do/does/did in simple tenses." },
+          { "pattern": "Such + be + noun phrase + that-clause", "example": "Such was the force of the explosion that windows shattered two streets away.", "note": "'Such' is not followed by an adjective here." }
+        ],
+        "mistakes": [
+          { "wrong": "So severe the damage was that the road was closed.", "right": "So severe was the damage that the road was closed.", "why": "Fronted so + adjective requires inversion of be and the subject." },
+          { "wrong": "So quietly he spoke that nobody heard him.", "right": "So quietly did he speak that nobody heard him.", "why": "With a main verb other than be, use do-support for inversion." },
+          { "wrong": "Such great was the demand that tickets sold out.", "right": "Such was the demand that tickets sold out.", "why": "Fronted 'such' is followed directly by be; use 'So great was the demand' if you want an adjective." },
+          { "wrong": "So loud was the music that could we not hear each other.", "right": "So loud was the music that we could not hear each other.", "why": "Only the main clause inverts; the that-clause keeps normal order." }
+        ],
+        "summary": "Fronting so + adjective/adverb or such emphasises an extreme degree and is followed by inversion and a that-clause of result. Use be or an auxiliary before the subject, never add an adjective after fronted 'such', and keep the that-clause in normal order.",
+        "reviewCards": [
+          { "front": "So severe ___ the damage that ...", "back": "was — So + adjective + be + subject." },
+          { "front": "He spoke so quietly that ... → So quietly ...", "back": "So quietly did he speak that ..." },
+          { "front": "Such + ?", "back": "Such + be + noun phrase: Such was the demand that ..." },
+          { "front": "Does the that-clause invert?", "back": "No: So loud was the music that we could not hear." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u01-l4-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "so/such inversion",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Complete the sentence with one word.",
+          "instructions": "After fronted 'So + adjective', the verb 'be' comes before the subject. Check the tense of the result clause.",
+          "text": "So severe ___ the storm that the harbour was closed for a week.",
+          "answers": [["was"]],
+          "explanation": "The pattern is So + adjective + be + subject: 'So severe was the storm'. The past tense matches 'was closed' in the result clause."
+        },
+        {
+          "id": "c2-u01-l4-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "so/such inversion",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence, beginning with the given word.",
+          "sentence": "The demand for tickets was so great that the theatre added three extra performances.",
+          "cue": "Begin with: Such",
+          "answers": [
+            "Such was the demand for tickets that the theatre added three extra performances.",
+            "Such was the demand for tickets that the theater added three extra performances."
+          ],
+          "explanation": "Fronted 'Such' is followed directly by 'was' and the subject: Such was the demand for tickets that ... The adjective 'great' disappears because 'such' already expresses the degree."
+        },
+        {
+          "id": "c2-u01-l4-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "so/such inversion",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence, beginning with the given words.",
+          "sentence": "He spoke so quietly that nobody at the back could hear him.",
+          "cue": "Begin with: So quietly",
+          "answers": [
+            "So quietly did he speak that nobody at the back could hear him.",
+            "So quietly did he speak that no one at the back could hear him.",
+            "So quietly did he speak that no-one at the back could hear him.",
+            "So quietly did he speak that nobody at the back could hear."
+          ],
+          "explanation": "'Spoke' is a past simple main verb, so inversion needs do-support: So quietly did he speak. The that-clause keeps normal order."
+        },
+        {
+          "id": "c2-u01-l4-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "so/such inversion",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["So convincing", "her argument was", "that even her critics", "changed their minds."],
+          "errorIndex": 1,
+          "correction": "was her argument",
+          "explanation": "After fronted 'So convincing', be must precede the subject: So convincing was her argument that ..."
+        },
+        {
+          "id": "c2-u01-l4-q5",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "so/such inversion",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the words in order to make an emphatic sentence.",
+          "words": ["Such", "was", "her", "fury", "that", "she", "tore", "up", "the", "letter"],
+          "acceptedAnswers": ["Such was her fury that she tore the letter up"],
+          "explanation": "Such + be + noun phrase (Such was her fury) is followed by a that-clause in normal order. The particle 'up' may come before or after 'the letter'."
+        },
+        {
+          "id": "c2-u01-l4-q6",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "so/such inversion",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the correct beginning: '___ that the bridge had to be closed.'",
+          "options": [
+            "So strong were the winds",
+            "So strong the winds were",
+            "Such strong were the winds",
+            "Such were strong the winds"
+          ],
+          "answer": 0,
+          "explanation": "So + adjective + be + subject is the correct pattern. Option B lacks inversion, and 'such' cannot be followed by an adjective in this fronted structure (C and D)."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u01-l5-stylistic-variety",
+      "title": "Writing with Stylistic Variety",
+      "summary": "Combine fronting and inversion with precise descriptive vocabulary to write vivid but controlled narrative and descriptive prose.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Choose the right fronting device for scene setting, contrast or climax",
+        "Use precise literary vocabulary for light, sound, movement and atmosphere",
+        "Revise a passage to avoid overusing marked structures"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Building a descriptive passage\nAt C2 level the aim is not to use every stylistic device at once but to vary sentence openings so that rhythm and emphasis serve the meaning. Each device from this unit has a typical job:\n\n| Device | Typical job | Example |\n|---|---|---|\n| Place inversion | Set a scene, reveal what is there | *Beyond the orchard stood a cottage.* |\n| Concessive fronting | Acknowledge, then overturn | *Weary as he was, he climbed on.* |\n| So/such inversion | Mark an extreme and its result | *So thick was the fog that the gulls fell silent.* |\n| Complement fronting | Foreground an impression | *Strangest of all was the silence.* |\n| Object fronting | Contrast or link | *The noise she could bear; the silence she could not.* |\n\n### Precise descriptive vocabulary\nLiterary description relies on verbs and adjectives with exact sensory meaning rather than general words such as *big, nice* or *go*.\n\n- **Light:** *shimmer* (shine with a soft, wavering light), *glint* (a brief flash), *dappled* (marked with spots of light and shade).\n- **Sound:** *rustle, murmur, creak, hiss*.\n- **Movement:** *loom* (appear as a large, often threatening shape), *meander* (wind slowly), *trudge* (walk heavily and wearily), *dart* (move suddenly and quickly).\n- **Texture and age:** *gnarled* (twisted and rough with age), *weathered, crumbling*.\n- **Atmosphere:** *desolate* (empty, bleak and lonely), *murky* (dark and difficult to see through), *serene, brooding*.\n\n### Rhythm and placement\nPut the most striking element either at the **end** of the sentence (end focus) or, by fronting, at the very **beginning**. The middle is where emphasis is easily lost. Compare:\n- *A desolate, wind-scoured plain lay beyond the ridge.* (flat)\n- *Beyond the ridge lay a desolate, wind-scoured plain.* (the reader travels with the narrator, and the plain is revealed last)\n\n### Restraint\nOveruse destroys the effect. As a rule of thumb, use no more than one marked structure per sentence and only two or three in a typical paragraph. Surround them with plain, well-chosen sentences so that the marked ones stand out.\n\n### Checklist for revision\n1. Does each fronted or inverted sentence have a reason (scene, contrast, climax)?\n2. Does every verb agree with its postponed subject?\n3. Are pronoun subjects left uninverted (*Away it flew*, not *Away flew it*)?\n4. Does every so/such inversion have a that-clause of result?\n5. Have vague words been replaced by precise sensory ones?",
+        "examples": [
+          { "en": "Beyond the ridge lay a desolate, wind-scoured plain.", "id": "Di balik punggung bukit terbentang dataran sunyi yang tersapu angin.", "note": "Place inversion; the striking noun phrase comes last." },
+          { "en": "Strangest of all was the silence that followed.", "id": "Yang paling aneh dari semuanya adalah keheningan yang menyusul.", "note": "Fronted superlative complement." },
+          { "en": "Through the dappled shade of the beeches trudged a solitary walker.", "id": "Di bawah keteduhan pohon-pohon beech yang berbintik cahaya, seorang pejalan kaki berjalan dengan berat seorang diri.", "note": "Place inversion combined with precise verbs and adjectives." },
+          { "en": "So murky was the water that the divers could barely see their own hands.", "id": "Begitu keruhnya air itu sehingga para penyelam nyaris tak dapat melihat tangan mereka sendiri.", "note": "So-inversion marks an extreme and its result." },
+          { "en": "Weary as she was, she pressed on towards the shimmering lights of the town.", "id": "Meskipun letih, ia terus melangkah menuju lampu-lampu kota yang berkilauan.", "note": "Concessive fronting followed by a plain main clause." }
+        ],
+        "vocabulary": [
+          { "word": "loom", "pos": "verb", "ipa": "/luːm/", "meaning": "muncul samar-samar dalam bentuk besar dan mengancam", "example": "Out of the fog loomed the hull of a tanker." },
+          { "word": "dappled", "pos": "adjective", "ipa": "/ˈdæpld/", "meaning": "berbintik-bintik cahaya dan bayangan", "example": "They rested in the dappled shade of an old chestnut tree." },
+          { "word": "desolate", "pos": "adjective", "ipa": "/ˈdesələt/", "meaning": "sunyi, suram, dan terpencil", "example": "The station stood on a desolate stretch of moorland." },
+          { "word": "gnarled", "pos": "adjective", "ipa": "/nɑːld/", "meaning": "berbonggol dan keriput karena usia", "example": "A gnarled olive tree shaded the courtyard." },
+          { "word": "shimmer", "pos": "verb", "ipa": "/ˈʃɪmə/", "meaning": "berkilauan lembut dan bergetar", "example": "Heat shimmered above the empty road." },
+          { "word": "murky", "pos": "adjective", "ipa": "/ˈmɜːki/", "meaning": "keruh, gelap", "example": "Something moved in the murky depths of the canal." },
+          { "word": "trudge", "pos": "verb", "ipa": "/trʌdʒ/", "meaning": "berjalan dengan langkah berat dan letih", "example": "The pilgrims trudged up the final slope." }
+        ],
+        "grammar": [
+          { "pattern": "Adverbial of place + verb of position/motion + long descriptive subject", "example": "Above the harbour loomed the grey bulk of the fortress.", "note": "Ideal for revealing a scene gradually." },
+          { "pattern": "Superlative/comparative complement + be + subject", "example": "More troubling still was the letter on the desk.", "note": "Foregrounds an impression or evaluation." }
+        ],
+        "mistakes": [
+          { "wrong": "Out of the mist emerged she, pale and shivering.", "right": "Out of the mist she emerged, pale and shivering.", "why": "Pronoun subjects are not inverted after a fronted place adverbial." },
+          { "wrong": "Strangest of all were the silence.", "right": "Strangest of all was the silence.", "why": "The verb agrees with the singular postponed subject." },
+          { "wrong": "So dark was the night, down came the rain, and gone were the stars.", "right": "The night was dark. Down came the rain, and soon the stars had vanished.", "why": "Stacking devices sounds mannered, and a so-inversion needs a that-clause of result." }
+        ],
+        "summary": "Each stylistic device has its own job: place inversion sets scenes, concessive fronting acknowledges and overturns, so/such inversion marks extremes, and complement or object fronting foregrounds impressions and contrasts. Combine them with precise sensory vocabulary, but use them sparingly so that they keep their impact.",
+        "reviewCards": [
+          { "front": "loom", "back": "appear as a large, often threatening shape (muncul samar dan mengancam)" },
+          { "front": "dappled", "back": "marked with spots of light and shade (berbintik cahaya dan bayangan)" },
+          { "front": "How many marked structures per paragraph?", "back": "Usually two or three at most, surrounded by plain sentences." },
+          { "front": "Best positions for emphasis", "back": "The very beginning (by fronting) or the end (end focus) — not the middle." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u01-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "descriptive language",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "What does 'loomed' mean in this sentence?",
+          "instructions": "Think about size, visibility and mood in the context.",
+          "context": "The mist lay heavy over the water, and beyond it loomed the dark outline of the abbey.",
+          "options": [
+            "appeared as a large, indistinct and slightly threatening shape",
+            "disappeared slowly from view",
+            "shone brightly in the sunlight",
+            "collapsed suddenly"
+          ],
+          "answer": 0,
+          "explanation": "'Loom' describes something large appearing unclearly, often with a sense of menace, which fits the mist and the 'dark outline'. It does not mean disappearing, shining or collapsing."
+        },
+        {
+          "id": "c2-u01-l5-q2",
+          "type": "essay",
+          "category": "writing",
+          "topic": "descriptive writing",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Write a descriptive paragraph about arriving somewhere at night — a railway station, a harbour or a mountain village. Use at least one place inversion, one concessive clause with as/though and one so/such inversion, and at least three precise descriptive words from this lesson. Keep the other sentences plain so that the marked structures stand out.",
+          "minWords": 100,
+          "maxWords": 180,
+          "rubric": "general-writing",
+          "explanation": "A strong answer uses each required structure accurately (correct inversion, agreement and that-clause), chooses precise sensory vocabulary, and balances marked sentences with plain ones."
+        },
+        {
+          "id": "c2-u01-l5-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "descriptive language",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each descriptive word with its meaning.",
+          "pairs": [
+            { "left": "dappled", "right": "marked with spots of light and shade" },
+            { "left": "desolate", "right": "empty, bleak and without people" },
+            { "left": "shimmer", "right": "shine with a soft, wavering light" },
+            { "left": "gnarled", "right": "twisted and rough with age" },
+            { "left": "murky", "right": "dark and difficult to see through" }
+          ],
+          "explanation": "These words give exact sensory detail: dappled (light and shade), desolate (empty and bleak), shimmer (soft wavering light), gnarled (twisted with age), murky (dark and unclear)."
+        },
+        {
+          "id": "c2-u01-l5-q4",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "descriptive writing",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the fragments in order to form a descriptive sentence with place inversion.",
+          "fragments": ["Beyond the orchard,", "half hidden by a tangle of ivy,", "stood the cottage", "where she had spent her childhood."],
+          "explanation": "The place adverbial opens the sentence, a descriptive participle phrase follows, then the verb precedes the long noun subject, which ends with its relative clause (end focus)."
+        },
+        {
+          "id": "c2-u01-l5-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "stylistic fronting",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Choose the correct option for each gap.",
+          "text": "Out of the mist ___ a lone rider. So exhausted ___ his horse that it could barely lift its head. Weary ___ he was, he refused to stop.",
+          "choices": [
+            ["emerged", "did emerge", "emerging"],
+            ["was", "did", "had"],
+            ["as", "so", "such"]
+          ],
+          "answers": [0, 0, 0],
+          "explanation": "Place inversion uses the main verb without do-support (Out of the mist emerged a rider). So + adjective is followed by be (So exhausted was his horse). The concessive pattern is adjective + as + subject + verb (Weary as he was)."
+        },
+        {
+          "id": "c2-u01-l5-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "stylistic fronting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "Out of the mist emerged she, pale and shivering.",
+          "answers": [
+            "Out of the mist she emerged, pale and shivering.",
+            "She emerged out of the mist, pale and shivering.",
+            "Pale and shivering, she emerged out of the mist."
+          ],
+          "explanation": "Full inversion after a place adverbial is only possible with a noun subject. With the pronoun 'she', use normal order: Out of the mist she emerged."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u01-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "so/such inversion",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Which sentence uses inversion correctly?",
+      "options": [
+        "Such was the noise that we could not sleep.",
+        "Such the noise was that we could not sleep.",
+        "So was the noise loud that we could not sleep.",
+        "Such loud was the noise that we could not sleep."
+      ],
+      "answer": 0,
+      "explanation": "Fronted 'Such' is followed by be + noun phrase: Such was the noise. Option B lacks inversion, C puts 'loud' in the wrong place (So loud was the noise), and D wrongly puts an adjective after 'such'."
+    },
+    {
+      "id": "c2-u01-t-q2",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "concessive fronting",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence, beginning with the given word. Keep the meaning the same.",
+      "sentence": "Although the plan may seem bold, it is entirely realistic.",
+      "cue": "Begin with: Bold",
+      "answers": [
+        "Bold as the plan may seem, it is entirely realistic.",
+        "Bold though the plan may seem, it is entirely realistic.",
+        "Bold as it may seem, the plan is entirely realistic.",
+        "Bold though it may seem, the plan is entirely realistic.",
+        "Bold as the plan may seem, it's entirely realistic.",
+        "Bold though the plan may seem, it's entirely realistic."
+      ],
+      "explanation": "Concessive fronting: adjective + as/though + subject + verb in normal order. No 'but' is added to the main clause."
+    },
+    {
+      "id": "c2-u01-t-q3",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "place inversion",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete the sentence with the past simple of the verbs in brackets, using place inversion.",
+      "text": "Into the courtroom ___ (walk) the defendant, and behind him ___ (follow) his two lawyers.",
+      "answers": [["walked"], ["followed"]],
+      "explanation": "After a fronted place adverbial, the main verb precedes a noun subject with no do-support: Into the courtroom walked the defendant; behind him followed his two lawyers."
+    },
+    {
+      "id": "c2-u01-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "concessive fronting",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Find the segment that contains an error.",
+      "segments": ["Much as", "I appreciate", "your generous offer,", "but I must", "decline it."],
+      "errorIndex": 3,
+      "correction": "I must",
+      "explanation": "'Much as I appreciate ...' is already concessive, so the main clause must not begin with 'but': Much as I appreciate your generous offer, I must decline it."
+    },
+    {
+      "id": "c2-u01-t-q5",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "so/such inversion",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the correct word.",
+      "text": "So ___ did the audience applaud that the pianist returned for three encores.",
+      "choices": [["enthusiastically", "enthusiastic", "enthusiasm"]],
+      "answers": [0],
+      "explanation": "'Applaud' is a verb, so it is modified by an adverb: So enthusiastically did the audience applaud. The auxiliary 'did' signals that an adverb, not an adjective, is fronted."
+    },
+    {
+      "id": "c2-u01-t-q6",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "so/such inversion",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "instructions": "Use so or such inversion.",
+      "source": "Begitu parahnya kerusakan itu sehingga seluruh desa harus dievakuasi.",
+      "direction": "id-en",
+      "answers": [
+        "So severe was the damage that the whole village had to be evacuated.",
+        "So severe was the damage that the entire village had to be evacuated.",
+        "So great was the damage that the whole village had to be evacuated.",
+        "So great was the damage that the entire village had to be evacuated.",
+        "So extensive was the damage that the whole village had to be evacuated.",
+        "So extensive was the damage that the entire village had to be evacuated.",
+        "So serious was the damage that the whole village had to be evacuated.",
+        "So serious was the damage that the entire village had to be evacuated.",
+        "Such was the damage that the whole village had to be evacuated.",
+        "Such was the damage that the entire village had to be evacuated."
+      ],
+      "explanation": "'Begitu parahnya ... sehingga' corresponds to 'So + adjective + was + subject + that ...' or 'Such was the damage that ...'. The that-clause keeps normal order."
+    }
+  ]
+}

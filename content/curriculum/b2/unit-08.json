@@ -1,0 +1,643 @@
+{
+  "slug": "b2-u08-linking",
+  "number": 8,
+  "title": "Building an Argument",
+  "description": "Link ideas clearly to write a balanced argumentative essay: contrast (although, despite, whereas, however), purpose (so that, in order to, so as to), result (so...that, such...that, therefore, as a result), and addition and sequencing linkers. Vocabulary: social issues and debate language.",
+  "objectives": [
+    "Express contrast with although, even though, whereas, despite and however",
+    "Express purpose with in order to, so as to and so that",
+    "Express result with so...that, such...that, therefore and as a result",
+    "Organise a balanced argumentative essay with addition and sequencing linkers"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u08-l1-although-whereas",
+      "title": "Contrast: Although, Even Though, Whereas",
+      "summary": "Mengungkapkan kontras dengan although, though, even though, whereas, dan while.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use although, though and even though + clause",
+        "Use whereas and while to compare two different facts",
+        "Avoid using although and but in the same sentence"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Conjunctions of contrast + clause\nThese words are **conjunctions**: they are followed by a full clause (subject + verb).\n\n| Linker | Meaning / use | Example |\n| --- | --- | --- |\n| although | neutral contrast | **Although** it was raining, we went for a walk. |\n| though | more informal; can go at the end | It was raining. We went for a walk, **though**. |\n| even though | stronger, more surprising contrast | **Even though** she was exhausted, she finished the report. |\n| whereas / while | compares two different facts | My brother loves cities, **whereas** I prefer villages. |\n\n### Position and punctuation\n- The clause can come first or second: *Although it was late, we kept working.* / *We kept working although it was late.*\n- Use a comma when the *although*-clause comes first.\n- *Though* at the end of a sentence acts like *however*: *The food was great. The service was slow, **though**.*\n\n### Don't double up!\nIn English, **although** and **but** cannot be used together:\n- ✗ *Although he trained every day, but he didn't win.*\n- ✓ *Although he trained every day, he didn't win.*\n- ✓ *He trained every day, but he didn't win.*\n\n### whereas vs although\n*Whereas* and *while* compare two facts that are **different but not surprising**; *although* introduces a fact that makes the main clause **surprising**:\n- *Rina is outgoing, **whereas** her sister is shy.* (simple difference)\n- ***Although** Rina is shy, she loves acting.* (surprising)\n\n### even though vs even if\n- *even though* = despite the fact that (it **is** true): *Even though I'm tired, I'll come.*\n- *even if* = whether or not (it **might** be true): *Even if I'm tired, I'll come.*\n\n> **Catatan:** Dalam bahasa Indonesia kita sering berkata *Meskipun ..., tetapi ...*. Dalam bahasa Inggris, **jangan** memakai *although* dan *but* sekaligus. Pilih salah satu. *Whereas* ≈ *sedangkan*.",
+        "examples": [
+          { "en": "Although it was raining, we went for a walk along the river.", "id": "Meskipun hujan, kami berjalan-jalan di sepanjang sungai.", "note": "although + clause" },
+          { "en": "Even though she was exhausted, she finished the report before midnight.", "id": "Walaupun sangat lelah, dia menyelesaikan laporan itu sebelum tengah malam.", "note": "Stronger contrast." },
+          { "en": "My brother loves crowded cities, whereas I prefer quiet villages.", "id": "Kakak saya suka kota yang ramai, sedangkan saya lebih suka desa yang tenang.", "note": "whereas = comparison" },
+          { "en": "The hotel was lovely. It was a bit far from the beach, though.", "id": "Hotelnya bagus. Tapi agak jauh dari pantai.", "note": "though at the end" }
+        ],
+        "vocabulary": [
+          { "word": "whereas", "pos": "conjunction", "ipa": "/weərˈæz/", "meaning": "sedangkan", "example": "Some people save, whereas others spend everything." },
+          { "word": "contrast", "pos": "noun / verb", "ipa": "/ˈkɒntrɑːst/ (n), /kənˈtrɑːst/ (v)", "meaning": "kontras, perbedaan; membandingkan", "example": "In contrast, rural areas are quieter." },
+          { "word": "outgoing", "pos": "adjective", "ipa": "/ˌaʊtˈɡəʊɪŋ/", "meaning": "ramah, mudah bergaul", "example": "She's outgoing, whereas her sister is shy." },
+          { "word": "surprising", "pos": "adjective", "ipa": "/səˈpraɪzɪŋ/", "meaning": "mengejutkan", "example": "It's surprising that he won, although he trained hard." },
+          { "word": "nonetheless", "pos": "adverb", "ipa": "/ˌnʌnðəˈles/", "meaning": "namun demikian", "example": "It was difficult; nonetheless, we succeeded." }
+        ],
+        "grammar": [
+          { "pattern": "Although / Even though + clause, + main clause", "example": "Although the test was hard, I passed.", "note": "Comma after the first clause." },
+          { "pattern": "clause, + whereas / while + clause", "example": "I like tea, whereas my wife prefers coffee.", "note": "Comparing two facts." },
+          { "pattern": "Sentence. + Sentence, though.", "example": "It's expensive. It's worth it, though.", "note": "Informal, at the end." }
+        ],
+        "mistakes": [
+          { "wrong": "Although he trained every day, but he didn't win.", "right": "Although he trained every day, he didn't win.", "why": "Don't use although and but in the same sentence." },
+          { "wrong": "Although the rain, we played outside.", "right": "Although it was raining, we played outside.", "why": "Although needs a full clause (subject + verb), not just a noun." },
+          { "wrong": "Even though, he passed the exam.", "right": "Even so, he passed the exam.", "why": "Even though is a conjunction and needs a clause; to start a sentence use Even so or However." }
+        ],
+        "summary": "**Although, though, even though** + clause show contrast (*even though* is stronger). **Whereas/while** compare two different facts. Never combine *although* with *but*, and remember that these words need a full clause. *Ringkasan: meskipun = although (tanpa but); sedangkan = whereas.*",
+        "reviewCards": [
+          { "front": "Although ..., but ... ✗", "back": "Use either although or but, not both." },
+          { "front": "even though", "back": "walaupun (contrast that is stronger/more surprising)" },
+          { "front": "whereas / while", "back": "sedangkan (comparing two facts)" },
+          { "front": "..., though. (at the end)", "back": "informal = however" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u08-l1-q1", "type": "dropdown", "category": "grammar", "topic": "although",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct linker.",
+          "instructions": "Hint: the gap is followed by a full clause (subject + verb).",
+          "text": "___ it was raining, we went for a walk along the river.",
+          "choices": [["Although", "Despite", "However"]],
+          "answers": [0],
+          "explanation": "**Although + clause** (*it was raining*). *Despite* needs a noun or -ing form, and *However* joins two separate sentences."
+        },
+        {
+          "id": "b2-u08-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "although",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Join the sentences using although.",
+          "sentence": "The flat is small. It's very comfortable.",
+          "cue": "Begin with: Although ...",
+          "answers": [
+            "Although the flat is small, it's very comfortable.",
+            "Although the flat is small, it is very comfortable."
+          ],
+          "explanation": "**Although + clause, + main clause**: *Although the flat is small, it's very comfortable.*"
+        },
+        {
+          "id": "b2-u08-l1-q3", "type": "single_choice", "category": "grammar", "topic": "whereas",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which sentence uses whereas correctly?",
+          "options": [
+            "My brother loves crowded cities, whereas I prefer quiet villages.",
+            "Whereas it was late, we kept working.",
+            "I was tired, whereas I finished my homework.",
+            "Whereas the rain, the match continued."
+          ],
+          "answer": 0,
+          "explanation": "**Whereas** compares two different facts about two people or things. It doesn't express a surprising contrast like *although*."
+        },
+        {
+          "id": "b2-u08-l1-q4", "type": "error_identification", "category": "grammar", "topic": "although",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Although", "he trained every day,", "but he didn't", "win the race."],
+          "errorIndex": 2,
+          "correction": "he didn't",
+          "explanation": "Don't use *although* and *but* together: **Although he trained every day, he didn't win the race.**"
+        },
+        {
+          "id": "b2-u08-l1-q5", "type": "fill_blank", "category": "grammar", "topic": "though",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete with ONE word.",
+          "text": "I really enjoyed the film. It was a bit too long, ___.",
+          "answers": [["though"]],
+          "explanation": "**Though** at the end of a sentence is an informal way to say *however*."
+        },
+        {
+          "id": "b2-u08-l1-q6", "type": "multiple_select", "category": "grammar", "topic": "contrast linkers",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the correct sentences.",
+          "options": [
+            "Even though she was exhausted, she finished the report.",
+            "Though the traffic was bad, we arrived on time.",
+            "Although of the cost, they bought the house.",
+            "While some people prefer tea, others can't live without coffee.",
+            "Even though, he passed the exam."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "*Even though / though / while* + clause are correct. *Although of* is wrong (use *despite the cost*), and *even though* cannot stand alone at the start of a sentence."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u08-l2-despite-however",
+      "title": "Contrast: Despite, In Spite Of, However",
+      "summary": "Mengungkapkan kontras dengan despite/in spite of (+ kata benda/-ing) dan however/nevertheless (antar kalimat).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use despite and in spite of + noun, -ing or the fact that",
+        "Use however, nevertheless and on the other hand to link sentences",
+        "Punctuate sentence linkers correctly"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### despite / in spite of: prepositions\n*Despite* and *in spite of* have the same meaning as *although*, but they are **prepositions**, so they are followed by a **noun, pronoun or -ing form**, not a clause.\n\n| Pattern | Example |\n| --- | --- |\n| despite / in spite of + noun | **Despite the rain**, we enjoyed the trip. |\n| despite / in spite of + -ing | **In spite of feeling** ill, she went to work. |\n| despite / in spite of + the fact that + clause | **Despite the fact that** it was raining, we went out. |\n\n⚠️ Common errors:\n- ✗ *despite of* → ✓ *despite* or *in spite of*\n- ✗ *despite it was raining* → ✓ *despite the rain / although it was raining*\n\n### Transforming although → despite\n| Although | Despite |\n| --- | --- |\n| Although she was ill, ... | Despite **being ill** / Despite **her illness**, ... |\n| Although the traffic was heavy, ... | Despite **the heavy traffic**, ... |\n| Although he is rich, ... | Despite **being rich** / Despite **his wealth**, ... |\n\n### Sentence linkers: however, nevertheless, on the other hand\nThese words connect **two sentences**. They are usually followed by a comma and often begin a new sentence (or follow a semicolon).\n\n| Linker | Style | Example |\n| --- | --- | --- |\n| However, | neutral | The hotel was expensive. **However**, it was very clean. |\n| Nevertheless, / Nonetheless, | formal; 'in spite of this' | The risks are high. **Nevertheless**, we will continue. |\n| On the other hand, | presents the other side | Cities offer jobs. **On the other hand**, they are expensive. |\n| Even so, | informal/neutral | It was cold. **Even so**, we swam. |\n\n### Punctuation\n- ✓ *The plan was risky. However, it worked.*\n- ✓ *The plan was risky; however, it worked.*\n- ✗ *The plan was risky, however it worked.* (comma splice)\n\n### Choosing the right word\n| You want to contrast... | Use |\n| --- | --- |\n| two clauses in one sentence | although / even though / whereas |\n| a noun/-ing with a clause | despite / in spite of |\n| two sentences | however / nevertheless / on the other hand |\n\n> **Catatan:** *Despite* dan *in spite of* = *meskipun / walaupun*, tetapi diikuti **kata benda atau -ing**, bukan kalimat. Jangan pernah menulis *despite of*. *However* = *namun*, biasanya di awal kalimat baru diikuti koma.",
+        "examples": [
+          { "en": "Despite the heavy rain, the festival went ahead.", "id": "Meskipun hujan deras, festival tetap berlangsung.", "note": "despite + noun" },
+          { "en": "In spite of feeling nervous, she gave an excellent speech.", "id": "Meskipun merasa gugup, dia memberikan pidato yang sangat bagus.", "note": "in spite of + -ing" },
+          { "en": "The hotel was expensive. However, it was worth every penny.", "id": "Hotelnya mahal. Namun, sepadan dengan harganya.", "note": "However links two sentences." },
+          { "en": "The risks are high. Nevertheless, the team has decided to continue.", "id": "Risikonya tinggi. Namun demikian, tim memutuskan untuk melanjutkan.", "note": "Formal." }
+        ],
+        "vocabulary": [
+          { "word": "despite", "pos": "preposition", "ipa": "/dɪˈspaɪt/", "meaning": "meskipun, terlepas dari", "example": "Despite his age, he runs every day." },
+          { "word": "nevertheless", "pos": "adverb", "ipa": "/ˌnevəðəˈles/", "meaning": "namun demikian", "example": "It was hard. Nevertheless, we finished." },
+          { "word": "go ahead", "pos": "phrasal verb", "ipa": "/ˌɡəʊ əˈhed/", "meaning": "tetap dilaksanakan", "example": "The match went ahead despite the rain." },
+          { "word": "worth", "pos": "adjective", "ipa": "/wɜːθ/", "meaning": "sepadan, bernilai", "example": "The trip was expensive but worth it." },
+          { "word": "lack (of)", "pos": "noun", "ipa": "/læk/", "meaning": "kekurangan", "example": "Despite a lack of funding, the project succeeded." }
+        ],
+        "grammar": [
+          { "pattern": "Despite / In spite of + noun / -ing, + clause", "example": "Despite working hard, he failed.", "note": "No clause after despite." },
+          { "pattern": "Despite the fact that + clause, + clause", "example": "Despite the fact that he worked hard, he failed.", "note": "Use the fact that to add a clause." },
+          { "pattern": "Sentence. However / Nevertheless, + sentence.", "example": "Prices rose. However, sales increased.", "note": "Comma after the linker." }
+        ],
+        "mistakes": [
+          { "wrong": "Despite of the delays, the project was finished on time.", "right": "Despite the delays, the project was finished on time.", "why": "Use despite or in spite of, never despite of." },
+          { "wrong": "Despite it was raining, we went out.", "right": "Despite the rain, we went out.", "why": "Despite is a preposition and cannot be followed by a clause." },
+          { "wrong": "The plan was risky, however it worked.", "right": "The plan was risky. However, it worked.", "why": "However links two sentences; use a full stop or semicolon before it and a comma after it." }
+        ],
+        "summary": "**Despite / in spite of** + noun, -ing or *the fact that* + clause; never *despite of*. **However, nevertheless, on the other hand, even so** link two sentences and need correct punctuation. *Ringkasan: although + kalimat; despite + kata benda/-ing; however + kalimat baru.*",
+        "reviewCards": [
+          { "front": "despite / in spite of + ?", "back": "noun, -ing, or the fact that + clause" },
+          { "front": "despite of ✗", "back": "despite ✓ / in spite of ✓" },
+          { "front": "However, ...", "back": "Namun, ... (links two sentences)" },
+          { "front": "Although she was ill → Despite ...", "back": "Despite being ill / Despite her illness" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u08-l2-q1", "type": "fill_blank", "category": "grammar", "topic": "in spite of",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Complete with ONE word.",
+          "instructions": "Hint: in spite ___ + noun.",
+          "text": "We really enjoyed the trip in spite ___ the rain.",
+          "answers": [["of"]],
+          "explanation": "The full form is **in spite of** + noun."
+        },
+        {
+          "id": "b2-u08-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "despite",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using despite.",
+          "sentence": "Although she was ill, she went to work.",
+          "cue": "Begin with: Despite ...",
+          "answers": [
+            "Despite being ill, she went to work.",
+            "Despite her illness, she went to work.",
+            "Despite the fact that she was ill, she went to work."
+          ],
+          "explanation": "*Despite* + -ing / noun / *the fact that*: **Despite being ill, she went to work.**"
+        },
+        {
+          "id": "b2-u08-l2-q3", "type": "drag_drop", "category": "grammar", "topic": "contrast linkers",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the review with words from the bank.",
+          "text": "___ the high price, the tickets sold out in an hour. The concert was excellent. ___, the sound was quite poor at the back. ___ it rained all evening, nobody left early.",
+          "bank": ["Despite", "However", "Although", "Despite of", "Even"],
+          "answers": ["Despite", "However", "Although"],
+          "explanation": "**Despite** + noun (*the high price*); **However,** + new sentence; **Although** + clause (*it rained all evening*). *Despite of* doesn't exist."
+        },
+        {
+          "id": "b2-u08-l2-q4", "type": "error_identification", "category": "grammar", "topic": "despite",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Despite of", "the delays,", "the project", "was finished on time."],
+          "errorIndex": 0,
+          "correction": "Despite",
+          "explanation": "Use **Despite** or **In spite of**, never *despite of*."
+        },
+        {
+          "id": "b2-u08-l2-q5", "type": "dropdown", "category": "grammar", "topic": "nevertheless",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct linker.",
+          "text": "The hotel was very expensive. ___, it was worth every penny.",
+          "choices": [["Nevertheless", "Despite", "Although"]],
+          "answers": [0],
+          "explanation": "A linker between two sentences, followed by a comma → **Nevertheless** (= however). *Despite* and *although* cannot be used like this."
+        },
+        {
+          "id": "b2-u08-l2-q6", "type": "translation", "category": "grammar", "topic": "despite",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Meskipun cuacanya buruk, penerbangan kami tidak tertunda.",
+          "direction": "id-en",
+          "answers": [
+            "Despite the bad weather, our flight wasn't delayed.",
+            "Despite the bad weather, our flight was not delayed.",
+            "In spite of the bad weather, our flight wasn't delayed.",
+            "In spite of the bad weather, our flight was not delayed.",
+            "Although the weather was bad, our flight wasn't delayed.",
+            "Although the weather was bad, our flight was not delayed.",
+            "Even though the weather was bad, our flight wasn't delayed.",
+            "Even though the weather was bad, our flight was not delayed.",
+            "Though the weather was bad, our flight wasn't delayed.",
+            "Despite the terrible weather, our flight wasn't delayed."
+          ],
+          "explanation": "Use **Despite/In spite of + noun** (*the bad weather*) or **Although + clause** (*the weather was bad*)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u08-l3-purpose",
+      "title": "Purpose: In Order To, So As To, So That",
+      "summary": "Mengungkapkan tujuan dengan to, in order to, so as to, so that, dan bentuk negatifnya.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use to, in order to and so as to + infinitive",
+        "Use so that + can/could/will/would for purpose with a different subject",
+        "Form negative purpose with so as not to, in order not to and so that ... won't"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Purpose with an infinitive\n| Linker | Style | Example |\n| --- | --- | --- |\n| to + verb | neutral, most common | I'm saving money **to buy** a car. |\n| in order to + verb | more formal / emphatic | The council cut costs **in order to reduce** debt. |\n| so as to + verb | formal | We left early **so as to avoid** the traffic. |\n\n### Negative purpose\nDon't say *not to* alone for purpose; use:\n- ***so as not to** + verb*: *I whispered **so as not to wake** the baby.*\n- ***in order not to** + verb*: *He took notes **in order not to forget** anything.*\n- ✗ *I left early for not missing the bus.*\n\n### so that + clause\nUse **so that** when the purpose clause has a **different subject** or needs a **modal**:\n| Time | Pattern | Example |\n| --- | --- | --- |\n| present/future | so that + can / will | I'll send the map **so that you can find** us. |\n| past | so that + could / would | She spoke slowly **so that everyone could understand**. |\n| negative | so that + won't / wouldn't | We whispered **so that we wouldn't wake** the baby. |\n\nIn informal speech, *that* is often dropped: *I'll send the map **so** you can find us.*\n\n### for + noun\nUse **for + noun** to express purpose with a thing: *I went to the pharmacy **for some medicine**.* But NOT *for + verb*: ✗ *I went there for buy medicine.* / ✗ *for buying medicine* (when talking about a person's purpose).\n\n### in case is not purpose\n*Take a jacket **in case** it gets cold* = as a precaution (from Unit 3). Compare: *Take a jacket **so that** you don't get cold.*\n\n### In essays\nPurpose linkers are useful for explaining policies: *The government should invest in public transport **so that** fewer people drive, **in order to** reduce pollution.*\n\n> **Catatan:** *untuk / agar / supaya* dalam bahasa Indonesia bisa diterjemahkan menjadi **to / in order to** (subjek sama) atau **so that** (subjek berbeda atau butuh modal). Jangan menulis *for + kata kerja* untuk tujuan: *untuk membeli* = **to buy**, bukan *for buy*.",
+        "examples": [
+          { "en": "I'm saving money in order to buy a car.", "id": "Saya menabung untuk membeli mobil.", "note": "in order to + verb" },
+          { "en": "She spoke slowly so that everyone could understand her.", "id": "Dia berbicara pelan agar semua orang bisa memahaminya.", "note": "so that + could" },
+          { "en": "We left early so as not to get stuck in traffic.", "id": "Kami berangkat lebih awal supaya tidak terjebak macet.", "note": "so as not to" },
+          { "en": "I went to the pharmacy for some medicine.", "id": "Saya pergi ke apotek untuk membeli obat.", "note": "for + noun" }
+        ],
+        "vocabulary": [
+          { "word": "purpose", "pos": "noun", "ipa": "/ˈpɜːpəs/", "meaning": "tujuan", "example": "What is the purpose of your visit?" },
+          { "word": "avoid", "pos": "verb", "ipa": "/əˈvɔɪd/", "meaning": "menghindari", "example": "We left early so as to avoid the crowds." },
+          { "word": "whisper", "pos": "verb", "ipa": "/ˈwɪspə/", "meaning": "berbisik", "example": "They whispered so as not to wake the baby." },
+          { "word": "oversleep", "pos": "verb", "ipa": "/ˌəʊvəˈsliːp/", "meaning": "kesiangan, tidur terlalu lama", "example": "I set two alarms so that I wouldn't oversleep." },
+          { "word": "reduce", "pos": "verb", "ipa": "/rɪˈdjuːs/", "meaning": "mengurangi", "example": "We need new rules in order to reduce waste." }
+        ],
+        "grammar": [
+          { "pattern": "main clause + (in order / so as) to + verb", "example": "He moved to Seoul to study Korean.", "note": "Same subject." },
+          { "pattern": "main clause + so as not to / in order not to + verb", "example": "I wrote it down so as not to forget.", "note": "Negative purpose." },
+          { "pattern": "main clause + so that + subject + can/could/will/would", "example": "I'll leave the light on so that you can see.", "note": "Different subject or modal." }
+        ],
+        "mistakes": [
+          { "wrong": "She took a taxi for not being late.", "right": "She took a taxi so as not to be late.", "why": "Negative purpose uses so as not to / in order not to + verb." },
+          { "wrong": "I went to the bank for open an account.", "right": "I went to the bank to open an account.", "why": "Purpose with a verb uses to + infinitive, not for." },
+          { "wrong": "I study hard so that pass the exam.", "right": "I study hard so that I can pass the exam.", "why": "So that is followed by a full clause with a subject (and usually a modal)." }
+        ],
+        "summary": "Express purpose with **to / in order to / so as to + verb** (same subject) and **so that + subject + can/could/will/would** (different subject or modal). For negatives, use **so as not to / in order not to** or **so that ... won't/wouldn't**. Use *for* only with nouns. *Ringkasan: untuk + kata kerja = to + V1, bukan for + V1.*",
+        "reviewCards": [
+          { "front": "in order to / so as to + verb", "back": "untuk/agar (formal)" },
+          { "front": "so as not to + verb", "back": "agar tidak ..." },
+          { "front": "so that + subject + could/would", "back": "agar/supaya (past, different subject)" },
+          { "front": "for + noun vs to + verb", "back": "for some medicine / to buy medicine" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u08-l3-q1", "type": "dropdown", "category": "grammar", "topic": "in order to",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "instructions": "Hint: the gap is followed by a verb (buy).",
+          "text": "I'm saving money ___ buy a car.",
+          "choices": [["in order to", "so that", "for"]],
+          "answers": [0],
+          "explanation": "Purpose + base verb → **in order to buy**. *So that* needs a subject; *for* cannot be followed by a verb."
+        },
+        {
+          "id": "b2-u08-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "so that",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Join the sentences using so that.",
+          "sentence": "She spoke slowly. She wanted everyone to understand her.",
+          "cue": "Begin with: She spoke slowly so that ...",
+          "answers": [
+            "She spoke slowly so that everyone could understand her.",
+            "She spoke slowly so that everyone would understand her.",
+            "She spoke slowly so that everyone understood her.",
+            "She spoke slowly so that everyone could understand."
+          ],
+          "explanation": "Different subject (everyone) + past → **so that everyone could understand her**."
+        },
+        {
+          "id": "b2-u08-l3-q3", "type": "matching", "category": "grammar", "topic": "purpose linkers",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Match the beginnings and endings.",
+          "pairs": [
+            { "left": "He's studying Korean", "right": "in order to work in Seoul." },
+            { "left": "We whispered", "right": "so that we wouldn't wake the baby." },
+            { "left": "Take a jacket", "right": "in case it gets cold." },
+            { "left": "I set two alarms", "right": "so as not to oversleep." }
+          ],
+          "explanation": "Purpose: *in order to, so that, so as not to*. *In case* expresses a precaution, not purpose."
+        },
+        {
+          "id": "b2-u08-l3-q4", "type": "error_identification", "category": "grammar", "topic": "negative purpose",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["She took a taxi", "for not being late", "for her job interview."],
+          "errorIndex": 1,
+          "correction": "so as not to be late",
+          "explanation": "Negative purpose → **so as not to / in order not to + verb**."
+        },
+        {
+          "id": "b2-u08-l3-q5", "type": "single_choice", "category": "grammar", "topic": "for + noun",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I went to the pharmacy for some medicine.",
+            "I went to the pharmacy for buy some medicine.",
+            "I went to the pharmacy for buying some medicine.",
+            "I went to the pharmacy so that buy some medicine."
+          ],
+          "answer": 0,
+          "explanation": "**for + noun** (*some medicine*) is correct. With a verb, we need *to buy*."
+        },
+        {
+          "id": "b2-u08-l3-q6", "type": "word_order", "category": "grammar", "topic": "so that",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["We", "left", "early", "so", "that", "we", "could", "find", "a", "parking", "space"],
+          "explanation": "**so that + subject + could + verb**: *We left early so that we could find a parking space.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u08-l4-result",
+      "title": "Result: So...That, Such...That, Therefore",
+      "summary": "Mengungkapkan akibat dengan so...that, such...that, therefore, as a result, dan consequently.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use so + adjective/adverb + that and such (a) + (adjective) + noun + that",
+        "Use so much/many/few/little + noun + that",
+        "Use therefore, as a result and consequently to link sentences"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### so ... that / such ... that\nBoth show a **cause** (something extreme) and its **result**.\n\n| Pattern | Example |\n| --- | --- |\n| **so** + adjective/adverb + that | The exam was **so difficult that** most students failed. |\n| **such** + a/an + (adjective) + singular noun + that | It was **such a difficult exam that** most students failed. |\n| **such** + (adjective) + plural/uncountable noun + that | They were **such kind people that** we felt at home. / It was **such awful weather that** we stayed in. |\n| **so** + many/few + plural noun + that | There were **so many people that** we couldn't see. |\n| **so** + much/little + uncountable noun + that | I had **so little time that** I skipped lunch. |\n\nTip: **so** goes with adjectives/adverbs; **such** goes with nouns (with or without an adjective).\n\n*That* is often omitted in informal speech: *I was so tired I fell asleep.*\n\n### Sentence linkers of result\n| Linker | Style | Example |\n| --- | --- | --- |\n| so | informal, joins clauses | It was late, **so** we went home. |\n| therefore | formal | The factory closed. **Therefore**, many jobs were lost. |\n| as a result | neutral | Prices rose. **As a result**, sales fell. |\n| consequently | formal | It rained heavily. **Consequently**, the match was cancelled. |\n\n*Therefore* can also go in the middle: *The factory closed, and many jobs were **therefore** lost.*\n\n### as a result of / because of + noun\nTo give the cause as a noun: *The match was cancelled **as a result of** the rain.*\n\n### Common errors\n| ✗ Wrong | ✓ Right |\n| --- | --- |\n| such difficult | **so** difficult |\n| so a nice day | **such** a nice day |\n| It was a so good film. | It was **such a** good film. / The film was **so** good. |\n| Therefore he left. (no comma, informal text) | **So** he left. / **Therefore**, he left. |\n\n> **Catatan:** *so ... that* = *begitu ... sehingga* (dengan kata sifat); *such ... that* = *begitu ... sehingga* (dengan kata benda). *Therefore / As a result / Consequently* = *oleh karena itu / akibatnya* dan biasanya di awal kalimat baru dengan koma.",
+        "examples": [
+          { "en": "It was such a hot day that we stayed indoors.", "id": "Hari itu begitu panas sehingga kami tetap di dalam rumah.", "note": "such a + adj + noun" },
+          { "en": "The lecture was so interesting that nobody wanted it to end.", "id": "Kuliahnya begitu menarik sehingga tidak ada yang ingin kuliah itu berakhir.", "note": "so + adjective" },
+          { "en": "There were so many people at the concert that we couldn't see the stage.", "id": "Ada begitu banyak orang di konser sehingga kami tidak bisa melihat panggung.", "note": "so many + noun" },
+          { "en": "The factory closed. As a result, hundreds of people lost their jobs.", "id": "Pabrik itu tutup. Akibatnya, ratusan orang kehilangan pekerjaan.", "note": "Sentence linker." }
+        ],
+        "vocabulary": [
+          { "word": "consequently", "pos": "adverb", "ipa": "/ˈkɒnsɪkwəntli/", "meaning": "akibatnya, oleh karena itu", "example": "Sales fell. Consequently, the shop closed." },
+          { "word": "therefore", "pos": "adverb", "ipa": "/ˈðeəfɔː/", "meaning": "oleh karena itu", "example": "The road is closed; therefore, we must take another route." },
+          { "word": "cancel", "pos": "verb", "ipa": "/ˈkænsl/", "meaning": "membatalkan", "example": "The match was cancelled as a result of the storm." },
+          { "word": "skip", "pos": "verb", "ipa": "/skɪp/", "meaning": "melewatkan", "example": "I had so little time that I skipped lunch." },
+          { "word": "sharply", "pos": "adverb", "ipa": "/ˈʃɑːpli/", "meaning": "dengan tajam (naik/turun)", "example": "Prices rose sharply. As a result, demand fell." }
+        ],
+        "grammar": [
+          { "pattern": "so + adjective/adverb + (that) + clause", "example": "She ran so fast that nobody could catch her.", "note": "Adjective or adverb." },
+          { "pattern": "such + a/an + adjective + noun + (that) + clause", "example": "It was such a long journey that we slept on the bus.", "note": "Noun phrase." },
+          { "pattern": "Sentence. + Therefore / As a result / Consequently, + sentence.", "example": "Costs rose. Therefore, prices increased.", "note": "Formal result linkers." }
+        ],
+        "mistakes": [
+          { "wrong": "The exam was such difficult that most students failed.", "right": "The exam was so difficult that most students failed.", "why": "Use so before an adjective without a noun." },
+          { "wrong": "It was so a nice day that we went to the beach.", "right": "It was such a nice day that we went to the beach.", "why": "Use such a before an adjective + singular noun." },
+          { "wrong": "There were so much people that we left.", "right": "There were so many people that we left.", "why": "People is plural and countable, so use so many." }
+        ],
+        "summary": "Use **so + adjective/adverb + that**, **such (a/an) + adjective + noun + that**, and **so many/much/few/little + noun + that** to show extreme causes and results. Link sentences with **so, therefore, as a result, consequently**. *Ringkasan: so + adjective; such + noun.*",
+        "reviewCards": [
+          { "front": "so + ? / such + ?", "back": "so + adjective/adverb; such (a) + (adjective) + noun" },
+          { "front": "so many / so much + noun + that", "back": "begitu banyak ... sehingga" },
+          { "front": "As a result, ...", "back": "Akibatnya, ... (new sentence + comma)" },
+          { "front": "It was such a good film. / The film was so good.", "back": "Two correct ways" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u08-l4-q1", "type": "dropdown", "category": "grammar", "topic": "so and such",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word.",
+          "instructions": "Hint: the gap is followed by a + adjective + noun.",
+          "text": "It was ___ a hot day that we stayed indoors.",
+          "choices": [["such", "so", "too"]],
+          "answers": [0],
+          "explanation": "**such a + adjective + noun** (*such a hot day*). *So* goes directly before an adjective without *a*."
+        },
+        {
+          "id": "b2-u08-l4-q2", "type": "sentence_transformation", "category": "grammar", "topic": "so and such",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence using such.",
+          "sentence": "The film was so boring that I fell asleep.",
+          "cue": "Begin with: It was ...",
+          "answers": ["It was such a boring film that I fell asleep."],
+          "explanation": "*so + adjective* → **such a + adjective + noun**: *It was such a boring film that I fell asleep.*"
+        },
+        {
+          "id": "b2-u08-l4-q3", "type": "fill_blank", "category": "grammar", "topic": "so many",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with ONE word.",
+          "text": "There were ___ many people at the concert that we couldn't see the stage.",
+          "answers": [["so"]],
+          "explanation": "**so many + plural noun + that**."
+        },
+        {
+          "id": "b2-u08-l4-q4", "type": "drag_drop", "category": "grammar", "topic": "result linkers",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "The factory closed last year. ___, hundreds of people lost their jobs. It was ___ a shock that the whole town was silent for days. Unemployment rose ___ quickly that many families moved away.",
+          "bank": ["As a result", "such", "so", "Despite", "However"],
+          "answers": ["As a result", "such", "so"],
+          "explanation": "**As a result** (result linker); **such a shock** (such + a + noun); **so quickly** (so + adverb)."
+        },
+        {
+          "id": "b2-u08-l4-q5", "type": "error_identification", "category": "grammar", "topic": "so and such",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The exam was", "such difficult", "that most students", "failed it."],
+          "errorIndex": 1,
+          "correction": "so difficult",
+          "explanation": "Before an adjective without a noun, use **so**: *so difficult*."
+        },
+        {
+          "id": "b2-u08-l4-q6", "type": "sentence_transformation", "category": "grammar", "topic": "result linkers",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite as two sentences using consequently.",
+          "sentence": "It rained heavily, so the match was cancelled.",
+          "cue": "Begin with: It rained heavily. ...",
+          "answers": ["It rained heavily. Consequently, the match was cancelled."],
+          "explanation": "**Consequently** (formal) starts a new sentence and is followed by a comma."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u08-l5-argumentative-essay",
+      "title": "Writing a Balanced Argumentative Essay",
+      "summary": "Menulis esai argumentatif yang seimbang dengan linker penambahan dan urutan serta kosakata isu sosial.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use addition and sequencing linkers (furthermore, moreover, in addition to, firstly, finally)",
+        "Organise a balanced essay with on the one hand / on the other hand",
+        "Use vocabulary for social issues and debate"
+      ],
+      "completionCriteria": "Write the essay and score at least 70% on the mini quiz. (Tulis esai dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Structure of a balanced (for-and-against) essay\n| Paragraph | Content | Useful language |\n| --- | --- | --- |\n| 1. Introduction | Present the topic and why it is controversial | *Nowadays, ... It is often argued that...* |\n| 2. Arguments for | 2–3 points with reasons/examples | *Firstly, ... Furthermore, ... For example, ...* |\n| 3. Arguments against | 2–3 points with reasons/examples | *On the other hand, ... Moreover, ...* |\n| 4. Conclusion | Summarise and give your opinion | *In conclusion, ... On balance, I believe that...* |\n\n### Addition linkers\n| Linker | Grammar | Example |\n| --- | --- | --- |\n| Furthermore, / Moreover, | + sentence (formal) | **Moreover**, it reduces pollution. |\n| In addition, | + sentence | **In addition**, it creates jobs. |\n| What is more, | + sentence (less formal) | **What is more**, it's cheap. |\n| In addition to / Besides | + noun or **-ing** | **In addition to providing** jobs, the factory brings investment. |\n\n⚠️ *In addition to* and *besides* are followed by **-ing**, not the infinitive: ✗ *In addition to provide*.\n\n### Sequencing linkers\n*Firstly / First of all / To begin with* → *Secondly / Next* → *Finally / Lastly* → *In conclusion / To sum up / On balance*\n\n### Presenting both sides\n- *On the one hand, ... On the other hand, ...*\n- *Supporters/Opponents of ... argue that...*\n- *It is often claimed that... However, ...*\n\n### Social-issue vocabulary\n| Word | Meaning |\n| --- | --- |\n| poverty | being very poor |\n| homelessness | not having a home |\n| unemployment | not having a job |\n| discrimination | unfair treatment of a group |\n| welfare | government help for people in need |\n| raise awareness (of) | make people know about a problem |\n| tackle / address (an issue) | try to solve a problem |\n| controversial | causing strong disagreement |\n\n### Style tips\n- Avoid *I think* in every sentence; use impersonal phrases: *It could be argued that...*\n- Support each point with a reason or example.\n- Use a variety of linkers from this unit (contrast, purpose, result, addition).\n\n> **Catatan:** Esai argumentatif yang baik **seimbang**: sajikan argumen pro dan kontra sebelum memberikan pendapat di kesimpulan. Gunakan *Furthermore/Moreover* untuk menambah poin, *On the other hand* untuk sisi lain, dan *In conclusion* untuk menutup.",
+        "examples": [
+          { "en": "On the one hand, social media helps people stay in touch; on the other hand, it can make young people feel isolated.", "id": "Di satu sisi, media sosial membantu orang tetap terhubung; di sisi lain, media sosial dapat membuat anak muda merasa terisolasi.", "note": "Presenting both sides." },
+          { "en": "In addition to reducing traffic, free public transport would help people on low incomes.", "id": "Selain mengurangi kemacetan, transportasi umum gratis akan membantu orang berpenghasilan rendah.", "note": "In addition to + -ing" },
+          { "en": "Furthermore, the scheme would raise awareness of environmental issues.", "id": "Lebih jauh lagi, program itu akan meningkatkan kesadaran tentang isu lingkungan.", "note": "Addition." },
+          { "en": "On balance, I believe the benefits outweigh the costs.", "id": "Secara keseluruhan, saya percaya manfaatnya lebih besar daripada biayanya.", "note": "Conclusion." }
+        ],
+        "vocabulary": [
+          { "word": "poverty", "pos": "noun", "ipa": "/ˈpɒvəti/", "meaning": "kemiskinan", "example": "Education is one way to reduce poverty." },
+          { "word": "unemployment", "pos": "noun", "ipa": "/ˌʌnɪmˈplɔɪmənt/", "meaning": "pengangguran", "example": "Youth unemployment has risen." },
+          { "word": "discrimination", "pos": "noun", "ipa": "/dɪˌskrɪmɪˈneɪʃn/", "meaning": "diskriminasi", "example": "Laws should protect people from discrimination." },
+          { "word": "tackle", "pos": "verb", "ipa": "/ˈtækl/", "meaning": "menangani, mengatasi", "example": "The city must tackle homelessness." },
+          { "word": "controversial", "pos": "adjective", "ipa": "/ˌkɒntrəˈvɜːʃl/", "meaning": "kontroversial", "example": "The new law is highly controversial." },
+          { "word": "outweigh", "pos": "verb", "ipa": "/ˌaʊtˈweɪ/", "meaning": "lebih besar (nilainya) daripada", "example": "The advantages outweigh the disadvantages." }
+        ],
+        "grammar": [
+          { "pattern": "In addition to / Besides + noun / -ing, + clause", "example": "Besides being cheap, it's healthy.", "note": "Not to + infinitive." },
+          { "pattern": "On the one hand, + clause. On the other hand, + clause.", "example": "On the one hand, it's fast. On the other hand, it's expensive.", "note": "Balancing arguments." },
+          { "pattern": "Sentence. Furthermore / Moreover, + sentence.", "example": "It's cheap. Moreover, it's reliable.", "note": "Formal addition." }
+        ],
+        "mistakes": [
+          { "wrong": "In addition to provide jobs, the factory will bring investment.", "right": "In addition to providing jobs, the factory will bring investment.", "why": "In addition to is followed by -ing (to is a preposition)." },
+          { "wrong": "In the other hand, cars are convenient.", "right": "On the other hand, cars are convenient.", "why": "The fixed phrase is on the other hand." },
+          { "wrong": "Moreover, but it is expensive.", "right": "However, it is expensive.", "why": "Moreover adds a similar point; use however for contrast, and don't add but." }
+        ],
+        "summary": "A balanced essay has an introduction, arguments for, arguments against and a conclusion. Use **firstly, furthermore, moreover, in addition (to + -ing), on the other hand, in conclusion, on balance**, and social-issue vocabulary such as **poverty, unemployment, discrimination, tackle, raise awareness**. *Ringkasan: seimbang dulu, baru beri pendapat di akhir.*",
+        "reviewCards": [
+          { "front": "In addition to + ?", "back": "noun / -ing (In addition to providing ...)" },
+          { "front": "On the one hand ... On the other hand ...", "back": "Di satu sisi ... di sisi lain ..." },
+          { "front": "On balance, ...", "back": "Secara keseluruhan (after weighing both sides)" },
+          { "front": "tackle an issue", "back": "menangani suatu masalah" },
+          { "front": "outweigh", "back": "lebih besar daripada (the benefits outweigh the costs)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u08-l5-q1", "type": "dropdown", "category": "writing", "topic": "addition linkers",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct linker.",
+          "instructions": "Hint: the second sentence adds another positive point.",
+          "text": "Public transport reduces traffic. ___, it is better for the environment.",
+          "choices": [["Furthermore", "However", "Despite"]],
+          "answers": [0],
+          "explanation": "The second sentence adds a similar point → **Furthermore**. *However* shows contrast; *Despite* needs a noun."
+        },
+        {
+          "id": "b2-u08-l5-q2", "type": "sentence_reconstruction", "category": "writing", "topic": "balanced arguments",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Put the fragments in order to make one balanced sentence.",
+          "fragments": ["On the one hand,", "social media helps people stay in touch;", "on the other hand,", "it can make young people", "feel more isolated."],
+          "explanation": "*On the one hand* (first side) → *on the other hand* (second side), separated by a semicolon."
+        },
+        {
+          "id": "b2-u08-l5-q3", "type": "essay", "category": "writing", "topic": "argumentative essay",
+          "difficulty": 4, "stage": "independent",
+          "prompt": "\"Public transport in cities should be free for everyone.\" Write a balanced essay (180–250 words) discussing the advantages and disadvantages, and give your own opinion in the conclusion.",
+          "minWords": 180,
+          "maxWords": 250,
+          "rubric": "general-writing",
+          "explanation": "Use four paragraphs and a range of linkers: contrast (*however, although*), purpose (*so that, in order to*), result (*as a result, therefore*) and addition (*furthermore, in addition to + -ing*)."
+        },
+        {
+          "id": "b2-u08-l5-q4", "type": "matching", "category": "vocabulary", "topic": "social issues",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each word with its meaning.",
+          "pairs": [
+            { "left": "homelessness", "right": "the situation of having nowhere to live" },
+            { "left": "unemployment", "right": "the situation of not having a job" },
+            { "left": "discrimination", "right": "unfair treatment of a particular group" },
+            { "left": "poverty", "right": "the state of being very poor" },
+            { "left": "raise awareness", "right": "help people to know about a problem" }
+          ],
+          "explanation": "These words are essential for essays and debates about society."
+        },
+        {
+          "id": "b2-u08-l5-q5", "type": "error_identification", "category": "grammar", "topic": "in addition to",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["In addition to", "provide jobs,", "the new factory", "will bring investment to the region."],
+          "errorIndex": 1,
+          "correction": "providing jobs,",
+          "explanation": "*In addition to* is followed by **-ing** because *to* is a preposition: *In addition to providing jobs...*"
+        },
+        {
+          "id": "b2-u08-l5-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "debate language",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best word.",
+          "context": "The new law is highly ___: some people strongly support it, while others are completely against it.",
+          "options": ["controversial", "conventional", "convenient", "confidential"],
+          "answer": 0,
+          "explanation": "**Controversial** = causing strong disagreement. *Conventional* = traditional; *convenient* = easy/useful; *confidential* = secret."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u08-t-q1", "type": "single_choice", "category": "grammar", "topic": "despite",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "___ his lack of experience, he got the job.",
+      "options": ["Despite", "Although", "However", "Even though"],
+      "answer": 0,
+      "explanation": "The gap is followed by a noun phrase (*his lack of experience*) → **Despite**. *Although/Even though* need a clause."
+    },
+    {
+      "id": "b2-u08-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "in order to",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Rewrite the sentence using in order to.",
+      "sentence": "He wanted to improve his English, so he moved to Australia.",
+      "cue": "Begin with: He moved to Australia ...",
+      "answers": ["He moved to Australia in order to improve his English."],
+      "explanation": "Purpose with the same subject → **in order to + verb**."
+    },
+    {
+      "id": "b2-u08-t-q3", "type": "fill_blank", "category": "grammar", "topic": "so and such",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete with ONE word.",
+      "text": "It was ___ an interesting lecture that nobody wanted it to end.",
+      "answers": [["such"]],
+      "explanation": "**such + an + adjective + noun + that**."
+    },
+    {
+      "id": "b2-u08-t-q4", "type": "error_identification", "category": "grammar", "topic": "contrast linkers",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["In spite of", "it was expensive,", "the restaurant", "was always full."],
+      "errorIndex": 0,
+      "correction": "Although",
+      "explanation": "*In spite of* cannot be followed by a clause (*it was expensive*). Use **Although** (or *In spite of being expensive*)."
+    },
+    {
+      "id": "b2-u08-t-q5", "type": "translation", "category": "grammar", "topic": "purpose",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Nisa belajar keras supaya bisa lulus ujian.",
+      "direction": "id-en",
+      "answers": [
+        "Nisa studied hard so that she could pass the exam.",
+        "Nisa studied hard so she could pass the exam.",
+        "Nisa studied hard in order to pass the exam.",
+        "Nisa studied hard to pass the exam.",
+        "Nisa studied hard so as to pass the exam.",
+        "Nisa studies hard so that she can pass the exam.",
+        "Nisa studies hard so she can pass the exam.",
+        "Nisa studies hard in order to pass the exam.",
+        "Nisa studies hard to pass the exam.",
+        "Nisa is studying hard so that she can pass the exam.",
+        "Nisa is studying hard in order to pass the exam.",
+        "Nisa is studying hard to pass the exam."
+      ],
+      "explanation": "*Supaya bisa* = **so that + can/could** or **(in order) to + verb**."
+    },
+    {
+      "id": "b2-u08-t-q6", "type": "dropdown", "category": "writing", "topic": "linkers",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct linkers for this essay paragraph.",
+      "text": "Many people can't afford housing in the city. ___, wages have not risen for years. ___, the government should build more affordable homes.",
+      "choices": [["Moreover", "Nevertheless", "Whereas"], ["Therefore", "Although", "Despite"]],
+      "answers": [0, 0],
+      "explanation": "The second sentence adds another problem → **Moreover**; the last sentence is a conclusion/result → **Therefore**."
+    },
+    {
+      "id": "b2-u08-t-q7", "type": "matching", "category": "writing", "topic": "linkers",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each linker with its function.",
+      "pairs": [
+        { "left": "although", "right": "contrast" },
+        { "left": "so that", "right": "purpose" },
+        { "left": "consequently", "right": "result" },
+        { "left": "furthermore", "right": "addition" },
+        { "left": "in conclusion", "right": "summing up" }
+      ],
+      "explanation": "Knowing the function of each linker helps you organise an essay logically."
+    }
+  ]
+}

@@ -1,0 +1,850 @@
+{
+  "slug": "b1-u02-narratives",
+  "number": 2,
+  "title": "Stories and Narratives",
+  "description": "Menceritakan kejadian dan pengalaman dengan narrative tenses: past continuous untuk latar (background), past simple untuk kejadian utama, dan past perfect untuk kejadian yang terjadi lebih dulu. Kamu juga belajar story connectors dan kata sifat emosi.",
+  "objectives": [
+    "Menggunakan past continuous untuk membangun latar cerita",
+    "Membentuk dan menggunakan past perfect untuk kejadian yang lebih dulu",
+    "Menggabungkan past simple, past continuous, dan past perfect dalam satu cerita",
+    "Menggunakan story connectors dan kata sifat emosi untuk membuat cerita lebih hidup"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u02-l1-past-continuous-background",
+      "title": "Setting the Scene: Past Continuous",
+      "summary": "Memakai past continuous untuk menggambarkan latar cerita dan aksi yang sedang berlangsung ketika sesuatu terjadi.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk past continuous dengan was/were + V-ing",
+        "Membedakan latar cerita (past continuous) dan kejadian utama (past simple)",
+        "Menggunakan when dan while dengan tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membangun latar cerita\nDi A2 kamu sudah belajar past continuous (*was/were + V-ing*) dan bedanya dengan past simple (*when/while*). Di B1 kita memakainya untuk **membangun suasana (background)** di awal cerita. Good storytellers describe the scene first: the weather, the place, and what people were doing. Then something happens.\n\n### Form\n| Subject | Positive | Negative | Question |\n|---|---|---|---|\n| I / he / she / it | was + V-ing | wasn't + V-ing | Was ... V-ing? |\n| you / we / they | were + V-ing | weren't + V-ing | Were ... V-ing? |\n\n### Background vs main event\n- **Background** (past continuous): aksi yang sedang berlangsung, seperti \"panggung\" cerita. *It was raining. People were hurrying home.*\n- **Main event** (past simple): aksi yang terjadi dan menggerakkan cerita. *Suddenly, a car stopped in front of me.*\n\nLong action + short action: *I was walking along the beach when I found an old bottle.* *While we were having dinner, the lights went out.*\n\n### When vs while\n**While** biasanya diikuti past continuous (aksi panjang). **When** biasanya diikuti past simple (aksi pendek). The meaning is the same in these two sentences: *While I was cooking, the phone rang.* = *I was cooking when the phone rang.*\n\n### State verbs\nKata kerja \"keadaan\" seperti *know, see, hear, want, like, believe, seem* biasanya tidak memakai -ing: *I saw a light* (bukan *I was seeing a light*). *She knew the answer* (bukan *She was knowing*).\n\n### Contoh pembuka cerita\n*It was a cold evening in Port Selwyn. The wind was blowing and the streetlights were shining on the wet road. I was waiting for the last bus, and an old man was singing quietly next to me.*\n\nPerhatikan bahwa belum ada yang \"terjadi\" — semua kalimat adalah latar. The story really begins with the first past simple verb: *Then the bus arrived, but it didn't stop.* Teknik ini membuat pendengar bisa membayangkan suasana sebelum masuk ke kejadian utama.",
+        "examples": [
+          { "en": "It was raining and people were hurrying home.", "id": "Hujan turun dan orang-orang bergegas pulang.", "note": "Dua aksi latar yang berlangsung bersamaan." },
+          { "en": "I was walking along the beach when I found an old bottle.", "id": "Saya sedang berjalan di sepanjang pantai ketika menemukan sebuah botol tua.", "note": "Aksi panjang (was walking) + aksi pendek (found)." },
+          { "en": "While we were having dinner, the lights went out.", "id": "Ketika kami sedang makan malam, lampu padam.", "note": "while + past continuous." },
+          { "en": "What were you doing at nine o'clock last night?", "id": "Apa yang sedang kamu lakukan pukul sembilan tadi malam?", "note": "Pertanyaan past continuous." },
+          { "en": "The sun was shining, but it wasn't very warm.", "id": "Matahari bersinar, tetapi udaranya tidak terlalu hangat.", "note": "Menggambarkan cuaca sebagai latar." }
+        ],
+        "vocabulary": [
+          { "word": "background", "pos": "noun", "ipa": "/ˈbækɡraʊnd/", "meaning": "latar belakang", "example": "Describe the background before the main event." },
+          { "word": "shine", "pos": "verb", "ipa": "/ʃaɪn/", "meaning": "bersinar", "example": "The moon was shining over the lake." },
+          { "word": "crowded", "pos": "adjective", "ipa": "/ˈkraʊdɪd/", "meaning": "ramai, penuh sesak", "example": "The market was very crowded that morning." },
+          { "word": "whisper", "pos": "verb", "ipa": "/ˈwɪspə/", "meaning": "berbisik", "example": "Two students were whispering at the back." },
+          { "word": "hurry", "pos": "verb", "ipa": "/ˈhʌri/", "meaning": "bergegas", "example": "Everyone was hurrying to the station." },
+          { "word": "notice", "pos": "verb", "ipa": "/ˈnəʊtɪs/", "meaning": "memperhatikan, menyadari", "example": "I was reading when I noticed a strange smell." }
+        ],
+        "grammar": [
+          { "pattern": "was/were + V-ing (background)", "example": "The birds were singing in the trees.", "note": "Menggambarkan suasana atau aksi yang sedang berlangsung." },
+          { "pattern": "past continuous + when + past simple", "example": "I was sleeping when the alarm rang.", "note": "Aksi panjang diganggu aksi pendek." },
+          { "pattern": "While + past continuous, past simple", "example": "While Dina was shopping, she met her teacher.", "note": "While diikuti aksi yang sedang berlangsung." }
+        ],
+        "mistakes": [
+          { "wrong": "I was seeing a strange light in the sky.", "right": "I saw a strange light in the sky.", "why": "See adalah state verb dan biasanya tidak memakai -ing." },
+          { "wrong": "While I walked home, it was starting to rain.", "right": "While I was walking home, it started to rain.", "why": "Aksi panjang memakai past continuous, aksi pendek memakai past simple." },
+          { "wrong": "They was waiting for the bus.", "right": "They were waiting for the bus.", "why": "They memakai were." },
+          { "wrong": "The phone was ringing when I was arriving home.", "right": "The phone was ringing when I arrived home.", "why": "Aksi pendek (arrive) memakai past simple." }
+        ],
+        "summary": "Use the **past continuous** (*was/were + V-ing*) to describe the background of a story and the **past simple** for the main events. *While* + past continuous untuk aksi panjang, *when* + past simple untuk aksi pendek. Ingat: state verbs seperti *see* dan *know* tidak memakai -ing.",
+        "reviewCards": [
+          { "front": "Past continuous form", "back": "was/were + V-ing: It was raining. They were talking." },
+          { "front": "Fungsi past continuous dalam cerita", "back": "Background / latar: aksi yang sedang berlangsung" },
+          { "front": "While vs when", "back": "while + aksi panjang (past continuous); when + aksi pendek (past simple)" },
+          { "front": "I was seeing a light ✗", "back": "I saw a light ✓ (see = state verb)" },
+          { "front": "crowded", "back": "ramai, penuh sesak" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u02-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "past continuous for background",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "It was a cold night. The wind ___ and the rain was falling heavily.",
+          "options": ["was blowing", "is blowing", "has blown", "blowing"],
+          "answer": 0,
+          "explanation": "Latar cerita di masa lalu → past continuous **was blowing**, sejajar dengan *the rain was falling*. *Blowing* alone needs *was*.",
+          "misconception": "V-ing saja tidak cukup; past continuous memerlukan was/were."
+        },
+        {
+          "id": "b1-u02-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "past continuous for background",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the past continuous of the verbs in brackets.",
+          "text": "When I arrived at the party, people ___ (dance) and the music ___ (play) loudly.",
+          "answers": [["were dancing"], ["was playing"]],
+          "explanation": "Dua aksi latar yang sedang berlangsung ketika saya tiba: **were dancing** (people = plural) dan **was playing** (the music = singular)."
+        },
+        {
+          "id": "b1-u02-l1-q3",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "when and while",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Mira ___ in the garden ___ she heard a strange noise.",
+          "bank": ["was working", "is working", "when", "while", "works"],
+          "answers": ["was working", "when"],
+          "explanation": "Aksi panjang (latar) → **was working**; aksi pendek yang memotong → **when** + past simple (*heard*). *While* is not used before a short action."
+        },
+        {
+          "id": "b1-u02-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "state verbs",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["While we", "were walking home,", "we were seeing", "a strange light in the sky."],
+          "errorIndex": 2,
+          "correction": "we saw",
+          "explanation": "*See* adalah state verb dan juga aksi pendek yang memotong latar → past simple **we saw**."
+        },
+        {
+          "id": "b1-u02-l1-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "past continuous for background",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct verb forms.",
+          "text": "The sun ___ and the birds ___ when Rudi woke up on the first morning of his holiday.",
+          "choices": [["was shining", "is shining", "has shone"], ["were singing", "are singing", "have sung"]],
+          "answers": [0, 0],
+          "explanation": "Cerita di masa lalu (*Rudi woke up*), dan kedua aksi adalah latar → **was shining** dan **were singing**."
+        },
+        {
+          "id": "b1-u02-l1-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "past continuous and past simple",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Translate into Indonesian.",
+          "source": "I was reading a book when the phone rang.",
+          "direction": "en-id",
+          "answers": [
+            "Saya sedang membaca buku ketika telepon berdering",
+            "Saya sedang membaca buku saat telepon berdering",
+            "Saya sedang membaca buku ketika telepon berbunyi",
+            "Saya sedang membaca buku saat telepon berbunyi",
+            "Saya sedang membaca buku waktu telepon berdering",
+            "Saya sedang membaca buku waktu telepon berbunyi",
+            "Aku sedang membaca buku ketika telepon berdering",
+            "Aku sedang membaca buku saat telepon berdering",
+            "Aku sedang membaca buku ketika telepon berbunyi",
+            "Aku sedang membaca buku saat telepon berbunyi",
+            "Aku sedang membaca buku waktu telepon berdering",
+            "Aku sedang membaca buku waktu telepon berbunyi",
+            "Saya sedang membaca sebuah buku ketika telepon berdering",
+            "Aku sedang membaca sebuah buku ketika telepon berdering"
+          ],
+          "explanation": "*Was reading* = **sedang membaca** (aksi yang berlangsung); *when the phone rang* = **ketika telepon berdering**."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u02-l2-past-perfect-form",
+      "title": "The Past Perfect: Form and Use",
+      "summary": "Membentuk past perfect (had + V3) dan memakainya untuk kejadian yang terjadi sebelum titik tertentu di masa lalu.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk past perfect positif, negatif, dan pertanyaan",
+        "Menggunakan past perfect untuk alasan dan pengalaman sebelum titik di masa lalu",
+        "Membedakan present perfect dan past perfect"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu past perfect?\nPast perfect (*had + V3*) dipakai untuk aksi yang terjadi **sebelum** waktu tertentu di masa lalu. Think of it as \"the past of the past\". Dalam bahasa Indonesia sering diterjemahkan dengan *sudah/telah* dalam cerita masa lalu.\n\n*When I arrived at the cinema, the film had started.* → Film mulai lebih dulu (aksi 1), lalu saya tiba (aksi 2).\n\n### Form\nBentuknya sama untuk semua subject — mudah!\n\n| | Form | Example |\n|---|---|---|\n| Positive | subject + had ('d) + V3 | *She had left.* / *She'd left.* |\n| Negative | subject + hadn't + V3 | *We hadn't eaten.* |\n| Question | Had + subject + V3? | *Had you met him before?* |\n| Short answer | Yes, I had. / No, I hadn't. | |\n\nRemember: **'d** can mean *had* or *would*. In a story, *I'd lost my keys* = *I had lost my keys* because a past participle follows.\n\n### Past participles\nV3 sama dengan yang kamu pakai di present perfect: *go → gone, see → seen, eat → eaten, forget → forgotten, leave → left, meet → met, lose → lost*.\n\n### Common uses\n1. **Explaining a reason** (alasan) di masa lalu: *I couldn't open the door because I had lost my keys.*\n2. **Experience up to a past point**, sering dengan *never / ever / before*: *Before 2020, Sinta had never travelled by plane.* *Had you ever flown before that trip?*\n3. **Already** dalam cerita: *When we got there, the shop had already closed.*\n\n### Present perfect vs past perfect\n| Present perfect | Past perfect |\n|---|---|\n| sampai **sekarang** | sampai **suatu titik di masa lalu** |\n| *I have never seen snow.* | *I had never seen snow before I visited Mount Ardan.* |\n\nThe past perfect always needs a reference point in the past. Jangan memakai past perfect jika tidak ada titik waktu di masa lalu sebagai acuan; kalimat *I had visited Lombok.* terdengar tidak lengkap tanpa konteks seperti *before 2015* atau *when I met you*.",
+        "examples": [
+          { "en": "When I arrived at the cinema, the film had started.", "id": "Ketika saya tiba di bioskop, filmnya sudah dimulai.", "note": "Film mulai lebih dulu." },
+          { "en": "I couldn't open the door because I had lost my keys.", "id": "Saya tidak bisa membuka pintu karena kunci saya hilang.", "note": "Alasan di masa lalu." },
+          { "en": "Before 2020, Sinta had never travelled by plane.", "id": "Sebelum 2020, Sinta belum pernah naik pesawat.", "note": "Pengalaman sampai titik di masa lalu." },
+          { "en": "Had you met Mr. Hartono before the meeting?", "id": "Apakah kamu sudah pernah bertemu Pak Hartono sebelum rapat itu?", "note": "Pertanyaan: Had + subject + V3?" },
+          { "en": "We hadn't eaten anything all day, so we were very hungry.", "id": "Kami belum makan apa-apa seharian, jadi kami sangat lapar.", "note": "Negatif: hadn't + V3." }
+        ],
+        "vocabulary": [
+          { "word": "realise", "pos": "verb", "ipa": "/ˈrɪəlaɪz/", "meaning": "menyadari", "example": "I realised that I had forgotten my wallet." },
+          { "word": "forget", "pos": "verb", "ipa": "/fəˈɡet/", "meaning": "lupa", "example": "She had forgotten his name." },
+          { "word": "recognise", "pos": "verb", "ipa": "/ˈrekəɡnaɪz/", "meaning": "mengenali", "example": "I didn't recognise him at first." },
+          { "word": "lock", "pos": "verb", "ipa": "/lɒk/", "meaning": "mengunci", "example": "Had you locked the door before you left?" },
+          { "word": "earlier", "pos": "adverb", "ipa": "/ˈɜːliə/", "meaning": "lebih awal, sebelumnya", "example": "She had called me earlier that day." },
+          { "word": "fly", "pos": "verb", "ipa": "/flaɪ/", "meaning": "terbang; naik pesawat", "example": "He had never flown before that trip." }
+        ],
+        "grammar": [
+          { "pattern": "subject + had + V3", "example": "The train had left.", "note": "Sama untuk semua subject." },
+          { "pattern": "subject + hadn't + V3", "example": "I hadn't seen the film before.", "note": "Negatif." },
+          { "pattern": "Had + subject + (ever) + V3?", "example": "Had you ever tried sushi before?", "note": "Pertanyaan; short answer: Yes, I had. / No, I hadn't." }
+        ],
+        "mistakes": [
+          { "wrong": "When I arrived, everybody has gone home.", "right": "When I arrived, everybody had gone home.", "why": "Cerita masa lalu: aksi yang lebih dulu memakai had + V3, bukan has." },
+          { "wrong": "She had forgot her bag.", "right": "She had forgotten her bag.", "why": "V3 dari forget adalah forgotten." },
+          { "wrong": "Did you had seen him before?", "right": "Had you seen him before?", "why": "Pertanyaan past perfect dimulai dengan Had, tanpa did." },
+          { "wrong": "They hadn't went there.", "right": "They hadn't gone there.", "why": "Setelah hadn't pakai V3 (gone), bukan V2 (went)." }
+        ],
+        "summary": "The **past perfect** (*had + V3*) shows an action that happened before another point in the past. Bentuknya sama untuk semua subject. Gunakan untuk alasan (*because I had lost my keys*) dan pengalaman sebelum titik di masa lalu (*I had never flown before*).",
+        "reviewCards": [
+          { "front": "Past perfect form", "back": "had + V3 (sama untuk semua subject)" },
+          { "front": "I'd lost my keys = ?", "back": "I had lost my keys ('d + V3 = had)" },
+          { "front": "Present perfect vs past perfect", "back": "Present perfect: sampai sekarang. Past perfect: sampai titik di masa lalu." },
+          { "front": "Pertanyaan past perfect", "back": "Had + subject + V3? — Had you met her before?" },
+          { "front": "recognise", "back": "mengenali" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u02-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "past perfect form",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "When we got to the cinema, the film ___.",
+          "options": ["had already started", "has already started", "already starts", "was already start"],
+          "answer": 0,
+          "explanation": "Film mulai **sebelum** kami tiba (titik di masa lalu) → past perfect **had already started**. *Has started* is present perfect and does not fit a past story.",
+          "misconception": "Present perfect (has + V3) tidak dipakai untuk kejadian sebelum titik di masa lalu."
+        },
+        {
+          "id": "b1-u02-l2-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "past perfect negative",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the past perfect of the verb in brackets.",
+          "text": "Laras was very excited because she ___ (not / see) the sea before she moved to Port Selwyn.",
+          "answers": [["hadn't seen", "had not seen"]],
+          "explanation": "Pengalaman sampai titik di masa lalu (sebelum pindah) → **hadn't seen** (had not + V3). The V3 of *see* is *seen*."
+        },
+        {
+          "id": "b1-u02-l2-q3",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "past perfect questions",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Had", "you", "ever", "flown", "before", "that", "trip"],
+          "explanation": "Pertanyaan past perfect: **Had** + subject + *ever* + V3? *Flown* is the past participle of *fly*."
+        },
+        {
+          "id": "b1-u02-l2-q4",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "past perfect for reasons",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Match the beginnings and endings of the sentences.",
+          "pairs": [
+            { "left": "I couldn't open my front door", "right": "because I had lost my keys." },
+            { "left": "Dina was very tired", "right": "because she had worked all night." },
+            { "left": "Raka wasn't hungry", "right": "because he had eaten a big lunch." },
+            { "left": "We missed the train", "right": "because we had left home late." },
+            { "left": "The shop was closed", "right": "because the owner had gone on holiday." }
+          ],
+          "explanation": "Past perfect menjelaskan **alasan** yang terjadi sebelumnya. Perhatikan subject-nya: I → I, Dina → she, Raka → he, we → we."
+        },
+        {
+          "id": "b1-u02-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "present perfect vs past perfect",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "When we reached the stadium, the match has already started.",
+          "answers": [
+            "When we reached the stadium, the match had already started.",
+            "When we reached the stadium, the match had started already.",
+            "When we reached the stadium, the match had started."
+          ],
+          "explanation": "Titik acuannya di masa lalu (*When we reached the stadium*), jadi kejadian yang lebih dulu memakai past perfect: **had already started**, bukan present perfect *has started*."
+        },
+        {
+          "id": "b1-u02-l2-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "past perfect form",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write the missing word (one word): \"Before 2020, Sinta ___ never travelled by plane.\"",
+          "answers": ["had"],
+          "explanation": "Pengalaman sampai titik di masa lalu (before 2020) → past perfect: **had** never travelled."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u02-l3-past-perfect-vs-past-simple",
+      "title": "Past Perfect vs Past Simple",
+      "summary": "Menunjukkan urutan kejadian di masa lalu dengan past perfect dan past simple, termasuk by the time, before, dan after.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih past perfect untuk kejadian yang lebih dulu dan past simple untuk kejadian berikutnya",
+        "Menggunakan by the time, before, dan after dengan tense yang tepat",
+        "Memahami perbedaan makna when + past simple dan when + past perfect"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Urutan kejadian\nKetika dua aksi terjadi di masa lalu, kita memakai **past perfect** untuk aksi yang terjadi **lebih dulu** dan **past simple** untuk aksi yang terjadi kemudian. This helps the listener understand the order, especially when we don't tell the events in order.\n\n### When: three different meanings\n| Sentence | Meaning |\n|---|---|\n| *When Ana got home, her mother **cooked** dinner.* | Ana tiba → lalu ibu memasak |\n| *When Ana got home, her mother **had cooked** dinner.* | Ibu sudah memasak → lalu Ana tiba (makanan siap) |\n| *When Ana got home, her mother **was cooking** dinner.* | Ibu sedang memasak saat Ana tiba |\n\nOne small change of tense gives a completely different story!\n\n### By the time\n**By the time** + past simple, + past perfect = pada saat itu, aksi lain sudah selesai. *By the time the police arrived, the thief had escaped.* With *by the time*, the past perfect is almost always necessary for the earlier action.\n\n### Before and after\nDengan **before** dan **after**, urutan sudah jelas dari kata itu sendiri, jadi past perfect boleh dipakai atau tidak:\n- *After Nadia had finished her homework, she watched TV.* ✓\n- *After Nadia finished her homework, she watched TV.* ✓\n\nBoth are correct. The past perfect simply emphasises that the first action was complete.\n\n### Already, never, just\nAdverb ini sering muncul dengan past perfect: *The train had already left. I had never met her before. They had just moved in.*\n\n### Don't overuse it\nJika kamu menceritakan kejadian **berurutan** (first, then, after that), cukup pakai past simple: *I woke up, had breakfast and left the house.* Past perfect hanya diperlukan saat kamu \"mundur\" ke kejadian sebelumnya. Another common mistake is using the present perfect in a past story: *When I arrived, they **have** left* ✗ → *they **had** left* ✓.",
+        "examples": [
+          { "en": "By the time the police arrived, the thief had escaped.", "id": "Pada saat polisi tiba, pencurinya sudah kabur.", "note": "by the time + past simple, past perfect." },
+          { "en": "When Ana got home, her mother had cooked dinner.", "id": "Ketika Ana tiba di rumah, ibunya sudah memasak makan malam.", "note": "Masakan sudah siap sebelum Ana tiba." },
+          { "en": "After the guests had left, we cleaned the house.", "id": "Setelah para tamu pergi, kami membersihkan rumah.", "note": "After + past perfect (boleh juga past simple)." },
+          { "en": "I didn't recognise him because he had grown a beard.", "id": "Saya tidak mengenalinya karena dia sudah menumbuhkan janggut.", "note": "Alasan yang terjadi lebih dulu." },
+          { "en": "I woke up, had a shower and left the house.", "id": "Saya bangun, mandi, lalu pergi dari rumah.", "note": "Urutan biasa → cukup past simple." }
+        ],
+        "vocabulary": [
+          { "word": "by the time", "pos": "conjunction", "ipa": "/baɪ ðə ˈtaɪm/", "meaning": "pada saat, sebelum (sesuatu terjadi)", "example": "By the time we arrived, the shop had closed." },
+          { "word": "escape", "pos": "verb", "ipa": "/ɪˈskeɪp/", "meaning": "kabur, melarikan diri", "example": "The parrot had escaped from its cage." },
+          { "word": "reach", "pos": "verb", "ipa": "/riːtʃ/", "meaning": "mencapai, tiba di", "example": "When we reached the top, the sun had already set." },
+          { "word": "turn up", "pos": "phrasal verb", "ipa": "/ˌtɜːn ˈʌp/", "meaning": "muncul, datang", "example": "By the time he turned up, the meeting had finished." },
+          { "word": "disappear", "pos": "verb", "ipa": "/ˌdɪsəˈpɪə/", "meaning": "menghilang", "example": "When I looked again, the man had disappeared." },
+          { "word": "beard", "pos": "noun", "ipa": "/bɪəd/", "meaning": "janggut", "example": "He had grown a long beard." }
+        ],
+        "grammar": [
+          { "pattern": "By the time + past simple, + past perfect", "example": "By the time I woke up, my parents had gone to work.", "note": "Aksi kedua sudah selesai sebelum aksi pertama." },
+          { "pattern": "When + past simple, + past perfect", "example": "When I reached the station, the train had left.", "note": "Kereta berangkat lebih dulu." },
+          { "pattern": "After + past perfect/past simple, + past simple", "example": "After she had paid, she left the shop.", "note": "Dengan after/before, past perfect boleh opsional." }
+        ],
+        "mistakes": [
+          { "wrong": "By the time we arrived, the concert finished.", "right": "By the time we arrived, the concert had finished.", "why": "By the time memerlukan past perfect untuk aksi yang sudah selesai lebih dulu." },
+          { "wrong": "I didn't recognise him because he has grown a beard.", "right": "I didn't recognise him because he had grown a beard.", "why": "Cerita masa lalu: aksi sebelumnya memakai had, bukan has." },
+          { "wrong": "I had woken up, had had breakfast and had left the house.", "right": "I woke up, had breakfast and left the house.", "why": "Kejadian berurutan cukup memakai past simple." },
+          { "wrong": "When I had arrived, the train left.", "right": "When I arrived, the train had left.", "why": "Kereta berangkat lebih dulu, jadi past perfect ada pada aksi kereta." }
+        ],
+        "summary": "Use the **past perfect** for the earlier action and the **past simple** for the later action. *By the time* almost always needs the past perfect; with *before* and *after*, past perfect is optional. Untuk kejadian yang diceritakan berurutan, cukup gunakan past simple.",
+        "reviewCards": [
+          { "front": "By the time the police arrived, the thief ___ (escape).", "back": "had escaped" },
+          { "front": "When Ana got home, her mother cooked dinner vs had cooked dinner", "back": "cooked = setelah Ana tiba; had cooked = sebelum Ana tiba" },
+          { "front": "After + past perfect — wajib?", "back": "Tidak wajib; after/before sudah menunjukkan urutan." },
+          { "front": "turn up", "back": "muncul, datang" },
+          { "front": "Kejadian berurutan (first, then...)", "back": "Cukup past simple" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u02-l3-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "by the time",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct verb form.",
+          "text": "By the time the security guard arrived, the thief ___ through the back window.",
+          "choices": [["had escaped", "has escaped", "escapes"]],
+          "answers": [0],
+          "explanation": "*By the time* + past simple (*arrived*) → aksi yang sudah selesai lebih dulu memakai past perfect: **had escaped**.",
+          "misconception": "Has escaped (present perfect) tidak cocok dalam cerita masa lalu."
+        },
+        {
+          "id": "b1-u02-l3-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "after and past perfect",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Combine the two sentences into one.",
+          "sentence": "First Nadia finished her homework. Then she watched TV.",
+          "cue": "Begin with: After Nadia ...",
+          "answers": [
+            "After Nadia had finished her homework, she watched TV",
+            "After Nadia finished her homework, she watched TV",
+            "After Nadia'd finished her homework, she watched TV",
+            "After Nadia had finished her homework, she watched television",
+            "After Nadia finished her homework, she watched television"
+          ],
+          "explanation": "Dengan **after**, urutan sudah jelas, jadi *had finished* dan *finished* sama-sama benar. The later action (*watched TV*) uses the past simple."
+        },
+        {
+          "id": "b1-u02-l3-q3",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "past perfect vs past simple",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Which sentences are correct? Choose all that apply.",
+          "options": [
+            "When I got home, my brother had already cooked dinner.",
+            "By the time we arrived, the concert finished.",
+            "I had never seen snow before I visited Mount Ardan.",
+            "The train had left when we have arrived.",
+            "After the guests had left, we cleaned the house."
+          ],
+          "answers": [0, 2, 4],
+          "explanation": "Benar: kalimat 1, 3, dan 5. *By the time we arrived, the concert finished* harus *had finished*. *When we have arrived* salah karena cerita di masa lalu → *when we arrived*."
+        },
+        {
+          "id": "b1-u02-l3-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "meaning of past perfect",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentence means that dinner was ready BEFORE Ana got home?",
+          "options": [
+            "When Ana got home, her mother cooked dinner.",
+            "When Ana got home, her mother had cooked dinner.",
+            "When Ana got home, her mother was cooking dinner.",
+            "When Ana gets home, her mother cooks dinner."
+          ],
+          "answer": 1,
+          "explanation": "**Had cooked** = memasak selesai sebelum Ana tiba. *Cooked* = after she arrived; *was cooking* = in progress when she arrived."
+        },
+        {
+          "id": "b1-u02-l3-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "past perfect for reasons",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["I", "didn't recognise my old classmate", "because he", "has grown a beard."],
+          "errorIndex": 3,
+          "correction": "had grown a beard.",
+          "explanation": "Alasan di masa lalu yang terjadi lebih dulu → past perfect **had grown**, bukan present perfect *has grown*."
+        },
+        {
+          "id": "b1-u02-l3-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "past perfect vs past simple",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Ketika saya tiba di stasiun, keretanya sudah berangkat.",
+          "direction": "id-en",
+          "answers": [
+            "When I arrived at the station, the train had already left",
+            "When I arrived at the station, the train had left",
+            "When I arrived at the station, the train had left already",
+            "When I got to the station, the train had already left",
+            "When I got to the station, the train had left",
+            "When I reached the station, the train had already left",
+            "When I reached the station, the train had left",
+            "When I arrived at the station, the train had already departed",
+            "When I arrived at the station, the train had departed",
+            "When I got to the station, the train had already departed",
+            "By the time I arrived at the station, the train had already left",
+            "By the time I got to the station, the train had already left",
+            "By the time I arrived at the station, the train had left",
+            "By the time I got to the station, the train had left"
+          ],
+          "explanation": "Kereta berangkat **sebelum** saya tiba → past perfect **had (already) left**; *arrived/got to* memakai past simple."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u02-l4-narrative-tenses",
+      "title": "Narrative Tenses Together",
+      "summary": "Menggabungkan past simple, past continuous, dan past perfect untuk menceritakan kejadian secara jelas dan menarik.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Mengetahui fungsi masing-masing narrative tense",
+        "Memilih tense yang tepat untuk latar, kejadian utama, dan kejadian sebelumnya",
+        "Menggabungkan ketiga tense dalam satu kalimat atau paragraf"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tiga tense, satu cerita\nCerita yang baik dalam bahasa Inggris biasanya memakai tiga *narrative tenses* sekaligus. Each tense has a clear job:\n\n| Tense | Fungsi | Example |\n|---|---|---|\n| Past continuous | latar / aksi yang sedang berlangsung | *It was raining and people were running for shelter.* |\n| Past simple | kejadian utama, berurutan | *I opened my bag and looked for my umbrella.* |\n| Past perfect | kejadian sebelumnya / alasan | *I had left it at the office.* |\n\n### Contoh cerita\n*Last Friday I **was driving** home from work. It **was getting** dark and the traffic **was moving** slowly. Suddenly the car **stopped**. I **checked** the engine, but then I **realised** the problem: I **had forgotten** to buy petrol that morning!*\n\nPerhatikan alurnya: latar (past continuous) → kejadian utama (past simple) → penjelasan tentang sesuatu yang terjadi lebih dulu (past perfect).\n\n### Timeline thinking\nBayangkan garis waktu. Ask yourself three questions for each verb:\n1. Is this the scene or an action in progress? → **past continuous**\n2. Is this the next thing that happened in the story? → **past simple**\n3. Did this happen before the story time? → **past perfect**\n\n### Typical problems\n- Memakai past continuous untuk aksi pendek: *When I was arriving* ✗ → *When I arrived* ✓.\n- Lupa past perfect untuk kejadian sebelumnya: *My plane already left* ✗ → *My plane had already left* ✓.\n- Berpindah ke present tense di tengah cerita lampau: *Then he says...* — in your written stories, stay in the past: *Then he said...*\n\n### Mixing in one sentence\nYou can use all three in one sentence: *When I **arrived**, my friends **were dancing** — they **had started** the party without me!* Kalimat seperti ini menunjukkan kemampuan level B1 yang kuat. Jangan takut membuat kalimat panjang, asalkan setiap kata kerja punya fungsi yang jelas pada garis waktu.",
+        "examples": [
+          { "en": "When I arrived, my friends were dancing — they had started the party without me!", "id": "Ketika saya tiba, teman-teman saya sedang berdansa — mereka sudah memulai pesta tanpa saya!", "note": "Ketiga tense dalam satu kalimat." },
+          { "en": "It was getting dark and the traffic was moving slowly.", "id": "Hari mulai gelap dan lalu lintas bergerak pelan.", "note": "Latar: past continuous." },
+          { "en": "Suddenly the car stopped. I had forgotten to buy petrol.", "id": "Tiba-tiba mobilnya berhenti. Saya lupa membeli bensin.", "note": "Kejadian utama + alasan sebelumnya." },
+          { "en": "We were hiking in the hills when the storm started.", "id": "Kami sedang mendaki di perbukitan ketika badai mulai.", "note": "Latar + kejadian yang memotong." },
+          { "en": "She was smiling because she had passed her exam.", "id": "Dia tersenyum karena dia sudah lulus ujian.", "note": "Past continuous + past perfect (alasan)." }
+        ],
+        "vocabulary": [
+          { "word": "break down", "pos": "phrasal verb", "ipa": "/ˌbreɪk ˈdaʊn/", "meaning": "mogok, rusak (mesin)", "example": "Our bus broke down in the middle of nowhere." },
+          { "word": "run out of", "pos": "phrasal verb", "ipa": "/ˌrʌn ˈaʊt əv/", "meaning": "kehabisan", "example": "We had run out of petrol." },
+          { "word": "storm", "pos": "noun", "ipa": "/stɔːm/", "meaning": "badai", "example": "A storm was coming from the sea." },
+          { "word": "shout", "pos": "verb", "ipa": "/ʃaʊt/", "meaning": "berteriak", "example": "Someone was shouting outside." },
+          { "word": "shelter", "pos": "noun", "ipa": "/ˈʃeltə/", "meaning": "tempat berteduh/berlindung", "example": "People were running for shelter." },
+          { "word": "petrol", "pos": "noun", "ipa": "/ˈpetrəl/", "meaning": "bensin", "example": "I had forgotten to buy petrol." }
+        ],
+        "grammar": [
+          { "pattern": "Background: was/were + V-ing", "example": "It was snowing.", "note": "Latar dan aksi yang sedang berlangsung." },
+          { "pattern": "Main events: past simple", "example": "I opened the door and looked outside.", "note": "Kejadian utama secara berurutan." },
+          { "pattern": "Earlier events: had + V3", "example": "Someone had left a box on the doorstep.", "note": "Kejadian sebelum waktu cerita." }
+        ],
+        "mistakes": [
+          { "wrong": "When I was arriving at the airport, my plane already left.", "right": "When I arrived at the airport, my plane had already left.", "why": "Arrive adalah aksi pendek (past simple); pesawat berangkat lebih dulu (past perfect)." },
+          { "wrong": "I was walking home. Then I see a dog.", "right": "I was walking home. Then I saw a dog.", "why": "Dalam cerita masa lalu, tetap gunakan past tense." },
+          { "wrong": "I was so tired because I have worked all day.", "right": "I was so tired because I had worked all day.", "why": "Alasan yang terjadi lebih dulu dalam cerita masa lalu memakai past perfect (had), bukan present perfect (have)." },
+          { "wrong": "We were having a picnic when it was starting to rain.", "right": "We were having a picnic when it started to rain.", "why": "Latar memakai past continuous; aksi pendek yang memotong memakai past simple." }
+        ],
+        "summary": "In a story, use the **past continuous** for background, the **past simple** for main events, and the **past perfect** for earlier events. Tanyakan pada diri sendiri: apakah ini latar, kejadian berikutnya, atau kejadian yang lebih dulu? Dengan begitu kamu akan memilih tense yang tepat.",
+        "reviewCards": [
+          { "front": "Tiga narrative tenses", "back": "Past continuous (latar), past simple (kejadian utama), past perfect (kejadian sebelumnya)" },
+          { "front": "run out of", "back": "kehabisan — We had run out of petrol." },
+          { "front": "break down", "back": "mogok (mesin/kendaraan)" },
+          { "front": "When I ___ (arrive), they ___ (dance).", "back": "arrived; were dancing" },
+          { "front": "Then he says... (dalam cerita lampau)", "back": "Then he said... — tetap pakai past tense" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u02-l4-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "narrative tenses",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Complete the story with the correct form of the verbs in brackets.",
+          "text": "It ___ (rain) heavily when Lina left work. She opened her bag and ___ (realise) that she ___ (leave) her umbrella at home.",
+          "answers": [["was raining"], ["realised", "realized"], ["had left", "'d left"]],
+          "explanation": "Latar → **was raining**; kejadian utama → **realised**; kejadian yang lebih dulu → **had left**.",
+          "misconception": "Kejadian yang terjadi sebelum waktu cerita memerlukan past perfect."
+        },
+        {
+          "id": "b1-u02-l4-q2",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "narrative tenses",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": ["While I was waiting for the bus,", "I noticed", "that I had forgotten", "my wallet at home."],
+          "acceptedAnswers": ["I noticed that I had forgotten my wallet at home while I was waiting for the bus."],
+          "explanation": "Latar (*was waiting*) + kejadian utama (*noticed*) + kejadian yang lebih dulu (*had forgotten*)."
+        },
+        {
+          "id": "b1-u02-l4-q3",
+          "type": "dictation",
+          "category": "listening",
+          "topic": "narrative tenses",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Listen and write what you hear.",
+          "text": "We were driving home when the car suddenly stopped. We had run out of petrol.",
+          "explanation": "Perhatikan tiga tense: *were driving* (latar), *stopped* (kejadian utama), *had run out of* (kejadian sebelumnya). In fast speech, *had* is often weak: /həd/."
+        },
+        {
+          "id": "b1-u02-l4-q4",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "narrative tenses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct verb forms.",
+          "text": "When Mr. Hartono ___ the office, his colleagues ___ a meeting. They ___ it ten minutes earlier.",
+          "choices": [["entered", "enters", "has entered"], ["were having", "are having", "have had"], ["had started", "have started", "are starting"]],
+          "answers": [0, 0, 0],
+          "explanation": "Kejadian utama → **entered**; aksi yang sedang berlangsung → **were having**; kejadian yang lebih dulu (ten minutes earlier) → **had started**."
+        },
+        {
+          "id": "b1-u02-l4-q5",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "narrative tenses",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Match each tense with its job in a story.",
+          "pairs": [
+            { "left": "past simple", "right": "the main events, in order" },
+            { "left": "past continuous", "right": "background actions in progress" },
+            { "left": "past perfect", "right": "an earlier event before the story time" }
+          ],
+          "explanation": "Past simple = kejadian utama; past continuous = latar; past perfect = kejadian yang lebih dulu."
+        },
+        {
+          "id": "b1-u02-l4-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "narrative tenses",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "The sentence has two mistakes. Write the correct sentence.",
+          "sentence": "When I was arriving at the airport, my plane already left.",
+          "answers": [
+            "When I arrived at the airport, my plane had already left.",
+            "When I arrived at the airport, my plane had left already.",
+            "When I got to the airport, my plane had already left."
+          ],
+          "explanation": "*Arrive* adalah aksi pendek → **arrived**. Pesawat berangkat lebih dulu → **had already left**."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u02-l5-telling-stories",
+      "title": "Telling a Good Story",
+      "summary": "Membuat cerita lebih hidup dengan story connectors (suddenly, luckily, eventually) dan kata sifat emosi (relieved, embarrassed, terrified).",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan story connectors untuk mengatur alur cerita",
+        "Menggunakan kata sifat emosi dengan tepat (-ed vs -ing)",
+        "Merespons cerita orang lain dengan ungkapan yang natural"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba latihan berbicara, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Struktur cerita\nCerita yang menarik biasanya punya tiga bagian: **beginning** (latar: who, where, when), **middle** (masalah atau kejadian tak terduga), dan **end** (penyelesaian dan perasaan). Use narrative tenses for the actions and connectors to guide your listener through the story.\n\n### Story connectors\n| Connector | Fungsi | Example |\n|---|---|---|\n| suddenly / all of a sudden | sesuatu yang tak terduga | *Suddenly, the lights went out.* |\n| luckily / fortunately | kabar baik | *Luckily, nobody was hurt.* |\n| unfortunately | kabar buruk | *Unfortunately, the last bus had already left.* |\n| meanwhile | sementara itu | *Meanwhile, my brother was waiting at the station.* |\n| eventually | akhirnya (setelah lama/usaha) | *We eventually found the hotel at midnight.* |\n| in the end | pada akhirnya (hasil akhir) | *In the end, everything was fine.* |\n\n### Emotion adjectives\nBerikan warna pada cerita dengan menyebut perasaan. Use strong adjectives instead of only *happy* or *sad*:\n- **relieved** — lega (setelah khawatir)\n- **embarrassed** — malu\n- **terrified** — sangat takut\n- **amazed** — takjub\n- **disappointed** — kecewa\n\nPerhatikan perbedaan **-ed** vs **-ing**: *I was bored* (perasaan saya) vs *The film was boring* (sifat filmnya). *I was amazed* vs *The view was amazing*. *-ed* describes how a person feels; *-ing* describes the thing that causes the feeling.\n\n### Reacting to a story\nPendengar yang baik memberi respons singkat: *Really? What happened next? Oh no! What did you do? Thank goodness!* These short reactions show interest and keep the conversation going.\n\n### Eventually, in the end, at the end\n*Eventually* and *in the end* both mean \"after a long time or after many problems\". *At the end* biasanya diikuti *of* dan menunjuk ke bagian akhir sesuatu: *at the end of the film*, *at the end of the street*. So say *In the end, we took a taxi home*, not *At the end, we took a taxi home*.",
+        "examples": [
+          { "en": "Suddenly, all the lights in the building went out.", "id": "Tiba-tiba, semua lampu di gedung itu padam.", "note": "suddenly = kejadian tak terduga." },
+          { "en": "Luckily, a kind woman found my passport and gave it back to me.", "id": "Untungnya, seorang wanita baik menemukan paspor saya dan mengembalikannya.", "note": "luckily = kabar baik." },
+          { "en": "We waited for three hours, and eventually the plane took off.", "id": "Kami menunggu tiga jam, dan akhirnya pesawat lepas landas.", "note": "eventually = akhirnya setelah lama." },
+          { "en": "I was so relieved when I found my phone.", "id": "Saya sangat lega ketika menemukan ponsel saya.", "note": "relieved = lega." },
+          { "en": "The ending of the film was disappointing.", "id": "Akhir film itu mengecewakan.", "note": "-ing: sifat sesuatu." }
+        ],
+        "vocabulary": [
+          { "word": "suddenly", "pos": "adverb", "ipa": "/ˈsʌdənli/", "meaning": "tiba-tiba", "example": "Suddenly, the door opened." },
+          { "word": "luckily", "pos": "adverb", "ipa": "/ˈlʌkɪli/", "meaning": "untungnya", "example": "Luckily, I had an extra key." },
+          { "word": "unfortunately", "pos": "adverb", "ipa": "/ʌnˈfɔːtʃənətli/", "meaning": "sayangnya, sialnya", "example": "Unfortunately, the museum was closed." },
+          { "word": "eventually", "pos": "adverb", "ipa": "/ɪˈventʃuəli/", "meaning": "akhirnya (setelah lama)", "example": "We eventually found the right street." },
+          { "word": "meanwhile", "pos": "adverb", "ipa": "/ˈmiːnwaɪl/", "meaning": "sementara itu", "example": "Meanwhile, my sister was waiting outside." },
+          { "word": "relieved", "pos": "adjective", "ipa": "/rɪˈliːvd/", "meaning": "lega", "example": "She was relieved to hear the good news." },
+          { "word": "embarrassed", "pos": "adjective", "ipa": "/ɪmˈbærəst/", "meaning": "malu", "example": "I was embarrassed when I fell over." },
+          { "word": "terrified", "pos": "adjective", "ipa": "/ˈterɪfaɪd/", "meaning": "sangat takut", "example": "The children were terrified of the storm." }
+        ],
+        "grammar": [
+          { "pattern": "Connector + comma + sentence", "example": "Unfortunately, it started to rain.", "note": "Connector di awal kalimat biasanya diikuti koma." },
+          { "pattern": "Subject + was/were + -ed adjective", "example": "We were amazed.", "note": "-ed untuk perasaan orang." },
+          { "pattern": "Subject + was/were + -ing adjective", "example": "The trip was amazing.", "note": "-ing untuk sifat benda/kejadian." }
+        ],
+        "mistakes": [
+          { "wrong": "At the end, we took a taxi home.", "right": "In the end, we took a taxi home.", "why": "In the end = pada akhirnya; at the end biasanya diikuti of (at the end of the film)." },
+          { "wrong": "I was very embarrassing when I fell over.", "right": "I was very embarrassed when I fell over.", "why": "Perasaan orang memakai -ed; embarrassing menggambarkan situasinya." },
+          { "wrong": "Luckily, I lost my wallet.", "right": "Unfortunately, I lost my wallet.", "why": "Kehilangan dompet adalah kabar buruk → unfortunately." },
+          { "wrong": "The film was so bored.", "right": "The film was so boring.", "why": "Sifat film memakai -ing." }
+        ],
+        "summary": "A good story has a beginning, a middle and an end. Gunakan connectors seperti **suddenly, luckily, unfortunately, meanwhile, eventually, in the end** untuk memandu pendengar, dan kata sifat emosi seperti **relieved, embarrassed, terrified** untuk menunjukkan perasaan. Remember: *-ed* for feelings, *-ing* for the cause.",
+        "reviewCards": [
+          { "front": "eventually", "back": "akhirnya (setelah lama/usaha)" },
+          { "front": "relieved", "back": "lega" },
+          { "front": "embarrassed vs embarrassing", "back": "embarrassed = perasaan malu; embarrassing = situasi yang memalukan" },
+          { "front": "In the end vs at the end", "back": "In the end = pada akhirnya; at the end of + sesuatu = di bagian akhir" },
+          { "front": "meanwhile", "back": "sementara itu" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u02-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "story connectors",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "I had lost my passport at the airport, but ___ a kind woman found it and gave it back to me.",
+          "options": ["luckily", "unfortunately", "at first", "yet"],
+          "answer": 0,
+          "explanation": "Paspor ditemukan dan dikembalikan = kabar baik → **luckily**. *Unfortunately* is for bad news.",
+          "misconception": "Unfortunately dipakai untuk kabar buruk, bukan kabar baik."
+        },
+        {
+          "id": "b1-u02-l5-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "emotion adjectives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each feeling with the situation.",
+          "pairs": [
+            { "left": "relieved", "right": "You find your lost phone after searching for an hour." },
+            { "left": "embarrassed", "right": "You call your teacher 'Mum' in front of the whole class." },
+            { "left": "terrified", "right": "A big dog runs towards you in a dark street." },
+            { "left": "disappointed", "right": "Your favourite band cancels the concert." },
+            { "left": "amazed", "right": "You see a magician make an elephant disappear." }
+          ],
+          "explanation": "*Relieved* = lega, *embarrassed* = malu, *terrified* = sangat takut, *disappointed* = kecewa, *amazed* = takjub."
+        },
+        {
+          "id": "b1-u02-l5-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "telling a story",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Tell a short story (5–7 sentences) about a day when something unexpected happened to you. Describe the background, the main events, and how you felt.",
+          "instructions": "Gunakan past continuous untuk latar, past simple untuk kejadian utama, past perfect untuk kejadian sebelumnya, dan minimal dua connectors.",
+          "targetPhrases": ["I was ...ing when", "suddenly", "I had ...", "luckily / unfortunately", "in the end", "I felt relieved / embarrassed"],
+          "sampleAnswer": "Last year I was travelling to Port Selwyn by train. It was raining and I was reading a book. Suddenly, I realised that I had left my bag on the platform. I was terrified because my laptop was in it. Luckily, a station worker found it and sent it on the next train. In the end, I got it back the same evening, and I was so relieved.",
+          "explanation": "Cerita yang baik memiliki latar (*was travelling, was raining*), kejadian utama (*realised, found*), kejadian sebelumnya (*had left*), connectors, dan perasaan."
+        },
+        {
+          "id": "b1-u02-l5-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "emotion adjectives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "I fell over in the middle of the school hall, and everyone laughed at me. I was so ___.",
+          "options": ["embarrassed", "embarrassing", "relieved", "amazed"],
+          "answer": 0,
+          "explanation": "Perasaan malu karena ditertawakan → **embarrassed**. *Embarrassing* describes the situation, not the person's feeling."
+        },
+        {
+          "id": "b1-u02-l5-q5",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "story connectors",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct connectors into the gaps.",
+          "text": "We were hiking in the hills when ___ it started to snow. ___, we had brought warm jackets, so we were fine.",
+          "bank": ["suddenly", "Luckily", "Unfortunately", "in the end"],
+          "answers": ["suddenly", "Luckily"],
+          "explanation": "Salju turun tanpa diduga → **suddenly**. Membawa jaket hangat adalah hal baik → **Luckily**."
+        },
+        {
+          "id": "b1-u02-l5-q6",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "reacting to stories",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reaction to complete the conversation.",
+          "dialogue": [
+            { "speaker": "Wira", "text": "I was walking home last night when I heard a strange noise behind me." },
+            { "speaker": "Nina", "text": null },
+            { "speaker": "Wira", "text": "Well, I turned around and saw... my neighbour's cat!" }
+          ],
+          "options": ["Oh no! What did you do?", "Oh no! What have you done?", "Oh no! What were you doing?", "Oh no! What had you done?"],
+          "answer": 0,
+          "explanation": "Nina bertanya tentang kejadian berikutnya → past simple **What did you do?** Wira already said what he was doing (walking home)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u02-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "past continuous",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "I ___ TV in the living room when I heard a loud crash in the kitchen.",
+      "options": ["was watching", "am watching", "have watched", "watch"],
+      "answer": 0,
+      "explanation": "Aksi panjang yang sedang berlangsung ketika aksi pendek terjadi → past continuous **was watching**."
+    },
+    {
+      "id": "b1-u02-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "by the time",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct form of the verbs in brackets.",
+      "text": "By the time Rina ___ (get) to the party, most of the guests ___ (leave).",
+      "answers": [["got"], ["had left", "'d left"]],
+      "explanation": "*By the time* + past simple (**got**), lalu aksi yang sudah selesai lebih dulu → past perfect **had left**."
+    },
+    {
+      "id": "b1-u02-t-q3",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "past perfect",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Correct the mistake in the sentence.",
+      "sentence": "When the teacher came in, the students already finished the test.",
+      "answers": [
+        "When the teacher came in, the students had already finished the test.",
+        "When the teacher came in, the students had finished the test already.",
+        "When the teacher came in, the students had finished the test."
+      ],
+      "explanation": "Para siswa selesai **sebelum** guru masuk → past perfect **had already finished**."
+    },
+    {
+      "id": "b1-u02-t-q4",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "past continuous and past simple",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kami sedang makan malam ketika listrik padam.",
+      "direction": "id-en",
+      "answers": [
+        "We were having dinner when the power went out",
+        "We were having dinner when the power went off",
+        "We were having dinner when the electricity went out",
+        "We were having dinner when the electricity went off",
+        "We were having dinner when the lights went out",
+        "We were having dinner when there was a power cut",
+        "We were eating dinner when the power went out",
+        "We were eating dinner when the power went off",
+        "We were eating dinner when the electricity went out",
+        "We were eating dinner when the electricity went off",
+        "We were eating dinner when the lights went out",
+        "We were eating dinner when there was a power cut",
+        "We were having supper when the power went out",
+        "We were eating supper when the power went out"
+      ],
+      "explanation": "*Sedang makan malam* = aksi yang berlangsung → **were having/eating dinner**; *listrik padam* = aksi pendek → past simple **the power went out**."
+    },
+    {
+      "id": "b1-u02-t-q5",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "past perfect for reasons",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the best answer to complete the conversation.",
+      "dialogue": [
+        { "speaker": "Manager", "text": "Why were you late for the meeting this morning?" },
+        { "speaker": "Andre", "text": null },
+        { "speaker": "Manager", "text": "Well, please set two alarms next time." }
+      ],
+      "options": [
+        "I missed the bus because I had overslept.",
+        "I miss the bus because I oversleep.",
+        "I had missed the bus because I overslept.",
+        "I was missing the bus because I had oversleep."
+      ],
+      "answer": 0,
+      "explanation": "Bangun kesiangan terjadi **lebih dulu** → past perfect **had overslept**; ketinggalan bus → past simple **missed**."
+    },
+    {
+      "id": "b1-u02-t-q6",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "past perfect for experience",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the sentence.",
+      "segments": ["Before I", "came to Port Selwyn,", "I have never", "seen the sea."],
+      "errorIndex": 2,
+      "correction": "I had never",
+      "explanation": "Pengalaman sampai titik di masa lalu (*before I came*) → past perfect **had never seen**, bukan present perfect."
+    },
+    {
+      "id": "b1-u02-t-q7",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "past perfect",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["She", "had", "never", "felt", "so", "nervous", "before"],
+      "explanation": "Pola: subject + **had never** + V3 + ... *Felt* is the past participle of *feel*."
+    },
+    {
+      "id": "b1-u02-t-q8",
+      "type": "matching",
+      "category": "vocabulary",
+      "topic": "story connectors",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Match each connector with its Indonesian meaning.",
+      "pairs": [
+        { "left": "suddenly", "right": "tiba-tiba" },
+        { "left": "luckily", "right": "untungnya" },
+        { "left": "unfortunately", "right": "sayangnya" },
+        { "left": "eventually", "right": "akhirnya (setelah lama)" },
+        { "left": "meanwhile", "right": "sementara itu" }
+      ],
+      "explanation": "Story connectors membantu pendengar mengikuti alur cerita: suddenly = tiba-tiba, luckily = untungnya, unfortunately = sayangnya, eventually = akhirnya, meanwhile = sementara itu."
+    }
+  ]
+}

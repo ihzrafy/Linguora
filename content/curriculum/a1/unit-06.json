@@ -1,0 +1,636 @@
+{
+  "slug": "a1-u06-likes-questions",
+  "number": 6,
+  "title": "Likes, Dislikes and Questions",
+  "description": "Unit ini melengkapi present simple: menyatakan suka dan tidak suka dengan like/love/hate + -ing, membuat kalimat negatif dengan don't/doesn't, pertanyaan yes/no dengan do/does, pertanyaan wh- (what, where, when, who, why, how), serta membicarakan hobi dan olahraga.",
+  "objectives": [
+    "Menyatakan suka dan tidak suka dengan like, love, hate, enjoy + -ing atau kata benda",
+    "Membuat kalimat negatif present simple dengan don't dan doesn't",
+    "Bertanya dan menjawab pertanyaan yes/no dengan do/does dan jawaban singkat",
+    "Membuat pertanyaan wh- dalam present simple",
+    "Membicarakan hobi dan olahraga dengan play, go, dan do"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u06-l1-like-love-hate",
+      "title": "Like, Love, Hate + -ing",
+      "summary": "Menyatakan kesukaan dengan love, like, enjoy, dan hate yang diikuti kata benda atau kata kerja -ing.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai love, like, enjoy, hate untuk menyatakan perasaan terhadap kegiatan",
+        "Membentuk kata kerja -ing setelah like/love/hate",
+        "Mengingat -s pada likes/loves/hates untuk he/she/it"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Skala perasaan\nUntuk menyatakan seberapa suka kita pada sesuatu, gunakan kata kerja berikut:\n\n| Kata kerja | Arti | Perasaan |\n| --- | --- | --- |\n| love | sangat suka, cinta | ❤❤❤ |\n| enjoy | menikmati, senang | ❤❤ |\n| like | suka | ❤ |\n| hate | benci, sangat tidak suka | ✗✗ |\n\n### Pola 1: + kata benda\nSetelah like/love/hate kita bisa langsung memakai **kata benda**:\n- *I love **music**.*\n- *She likes **cats**.*\n- *We hate **rainy days**.*\n\nJika kata bendanya bisa dihitung dan maknanya umum, pakai bentuk **jamak**: *I like dogs* (bukan ~~I like dog~~).\n\n### Pola 2: + kata kerja -ing\nUntuk **kegiatan**, gunakan kata kerja + **-ing** setelah like, love, enjoy, hate:\n- *I like **reading**.* (Saya suka membaca.)\n- *They love **cooking**.*\n- *He enjoys **drawing**.*\n- *My sister hates **cleaning** her room.*\n\nKata **enjoy** hampir selalu diikuti -ing atau kata benda (bukan bentuk dasar): *I enjoy **swimming*** (bukan ~~I enjoy swim~~).\n\n### Membentuk -ing (dasar)\n| Aturan | Contoh |\n| --- | --- |\n| kebanyakan kata kerja + ing | read → reading, cook → cooking, play → playing |\n| berakhiran -e: hapus e + ing | dance → dancing, ride → riding, write → writing |\n| satu vokal + satu huruf mati: gandakan | swim → swimming, run → running, shop → shopping |\n\nAturan ejaan -ing secara lengkap akan dibahas lagi di Unit 10.\n\n### Jangan lupa -s\nKata kerja like, love, hate, enjoy tetap mengikuti aturan present simple: **she likes, he loves, it hates, my mother enjoys**.\n\n### Pola percakapan\n**A:** I love watching films. And you?\n**B:** I like films, too, but I love reading more.",
+        "examples": [
+          { "en": "I love listening to music.", "id": "Saya sangat suka mendengarkan musik." },
+          { "en": "My brother likes playing video games.", "id": "Kakak/adik laki-laki saya suka bermain video game." },
+          { "en": "We enjoy cooking at the weekend.", "id": "Kami senang memasak di akhir pekan." },
+          { "en": "She hates getting up early.", "id": "Dia (perempuan) benci bangun pagi." },
+          { "en": "They like cats.", "id": "Mereka suka kucing.", "note": "Kata benda umum memakai bentuk jamak." }
+        ],
+        "vocabulary": [
+          { "word": "love", "pos": "verb", "ipa": "/lʌv/", "meaning": "sangat suka, mencintai", "example": "I love dancing." },
+          { "word": "like", "pos": "verb", "ipa": "/laɪk/", "meaning": "suka", "example": "He likes reading comics." },
+          { "word": "hate", "pos": "verb", "ipa": "/heɪt/", "meaning": "benci, sangat tidak suka", "example": "She hates washing the dishes." },
+          { "word": "enjoy", "pos": "verb", "ipa": "/ɪnˈdʒɔɪ/", "meaning": "menikmati, senang melakukan", "example": "We enjoy walking in the park." },
+          { "word": "cooking", "pos": "noun", "ipa": "/ˈkʊkɪŋ/", "meaning": "memasak (kegiatan)", "example": "My father loves cooking." },
+          { "word": "dancing", "pos": "noun", "ipa": "/ˈdɑːnsɪŋ/", "meaning": "menari (kegiatan)", "example": "Sinta enjoys dancing." },
+          { "word": "music", "pos": "noun", "ipa": "/ˈmjuːzɪk/", "meaning": "musik", "example": "They love music." }
+        ],
+        "grammar": [
+          { "pattern": "Subjek + love / like / enjoy / hate + kata benda", "example": "I like pizza." },
+          { "pattern": "Subjek + love / like / enjoy / hate + verb-ing", "example": "She enjoys swimming." },
+          { "pattern": "he / she / it + likes / loves / enjoys / hates", "example": "Ahmad likes playing chess." }
+        ],
+        "mistakes": [
+          { "wrong": "I enjoy swim in the sea.", "right": "I enjoy swimming in the sea.", "why": "Setelah enjoy, kata kerja harus berbentuk -ing." },
+          { "wrong": "Ahmad like playing chess.", "right": "Ahmad likes playing chess.", "why": "Ahmad = he, jadi like menjadi likes." },
+          { "wrong": "My sister loves danceing.", "right": "My sister loves dancing.", "why": "Kata kerja yang berakhiran -e: hapus e lalu tambahkan -ing." }
+        ],
+        "summary": "Nyatakan perasaan dengan **love** (❤❤❤), **enjoy**, **like** (❤), dan **hate** (✗✗). Setelahnya gunakan **kata benda** (*I like music*) atau **kata kerja -ing** (*I like reading*). Ingat aturan -ing dasar (*dancing, swimming*) dan -s untuk he/she/it (*she loves*).",
+        "reviewCards": [
+          { "front": "Saya suka membaca.", "back": "I like reading." },
+          { "front": "enjoy + ?", "back": "verb-ing atau kata benda: I enjoy swimming." },
+          { "front": "dance + ing", "back": "dancing (hapus e)" },
+          { "front": "swim + ing", "back": "swimming (gandakan m)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u06-l1-q1", "type": "single_choice", "category": "grammar", "topic": "like love hate + ing",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "I love ___ in the sea.",
+          "instructions": "Setelah love untuk kegiatan, gunakan kata kerja -ing.",
+          "options": ["swim", "swimming", "swims"],
+          "answer": 1,
+          "explanation": "Love + kata kerja -ing: I love swimming. Swim mendapat huruf m ganda sebelum -ing."
+        },
+        {
+          "id": "a1-u06-l1-q2", "type": "matching", "category": "vocabulary", "topic": "like love hate + ing",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the English sentences with their meanings.",
+          "pairs": [
+            { "left": "I love cooking.", "right": "Saya sangat suka memasak." },
+            { "left": "I like cooking.", "right": "Saya suka memasak." },
+            { "left": "I hate cooking.", "right": "Saya benci memasak." },
+            { "left": "I enjoy cooking.", "right": "Saya menikmati kegiatan memasak." }
+          ],
+          "explanation": "love = sangat suka, like = suka, hate = benci, enjoy = menikmati."
+        },
+        {
+          "id": "a1-u06-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "like love hate + ing",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the correct form of the verbs in brackets.",
+          "text": "My sister loves ___ (dance), and my brother ___ (like) reading comics.",
+          "answers": [["dancing"], ["likes"]],
+          "explanation": "loves + -ing: dance → dancing (hapus e). My brother = he → likes."
+        },
+        {
+          "id": "a1-u06-l1-q4", "type": "error_identification", "category": "grammar", "topic": "like love hate + ing",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Ahmad", "like", "playing chess", "with his father."],
+          "errorIndex": 1,
+          "correction": "likes",
+          "explanation": "Ahmad = he, jadi kata kerjanya likes."
+        },
+        {
+          "id": "a1-u06-l1-q5", "type": "word_order", "category": "grammar", "topic": "like love hate + ing",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["They", "love", "watching", "films", "at", "the", "weekend"],
+          "acceptedAnswers": ["At the weekend they love watching films"],
+          "explanation": "Pola: subjek + love + verb-ing + objek + keterangan waktu."
+        },
+        {
+          "id": "a1-u06-l1-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "likes and dislikes",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Nina never eats fish. She thinks it smells bad. Nina ___ fish.",
+          "options": ["loves", "likes", "hates"],
+          "answer": 2,
+          "explanation": "Nina tidak pernah makan ikan dan menganggap baunya tidak enak, jadi ia hates fish."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u06-l2-present-simple-negative",
+      "title": "Present Simple Negative: Don't and Doesn't",
+      "summary": "Membuat kalimat negatif present simple dengan don't (do not) dan doesn't (does not).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat kalimat negatif dengan don't untuk I/you/we/they",
+        "Membuat kalimat negatif dengan doesn't untuk he/she/it",
+        "Membedakan negatif to be (isn't) dan negatif kata kerja biasa (doesn't)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kata bantu do dan does\nDalam bahasa Indonesia, kita cukup menambahkan *tidak*: *Saya tidak makan daging.* Dalam bahasa Inggris, kata kerja biasa **tidak bisa** langsung diberi *not*. Kita memerlukan **kata bantu** (auxiliary) **do** atau **does**, lalu menambahkan **not**.\n\n### Rumus\n| Subjek | Negatif | Bentuk singkat | Contoh |\n| --- | --- | --- | --- |\n| I / you / we / they | do not + kata kerja dasar | **don't** | I **don't eat** meat. |\n| he / she / it | does not + kata kerja dasar | **doesn't** | She **doesn't eat** meat. |\n\nDalam percakapan, bentuk singkat **don't** dan **doesn't** jauh lebih umum.\n\n### Aturan emas: -s pindah ke does\nPada kalimat positif, he/she/it memakai -s: *He **likes** tea.* Pada kalimat negatif, -s sudah \"diambil\" oleh **does**, jadi kata kerja kembali ke **bentuk dasar**:\n- *He likes tea.* → *He **doesn't like** tea.* (bukan ~~doesn't likes~~)\n- *She has a car.* → *She **doesn't have** a car.* (bukan ~~doesn't has~~)\n- *It goes fast.* → *It **doesn't go** fast.*\n\n### to be atau do?\nIni sangat penting. Lihat kata kerjanya:\n| Kalimat positif | Negatif | Alasan |\n| --- | --- | --- |\n| I am hungry. | I**'m not** hungry. | to be → tambahkan not |\n| She is a doctor. | She **isn't** a doctor. | to be → isn't |\n| I eat rice. | I **don't eat** rice. | kata kerja biasa → don't |\n| She works here. | She **doesn't work** here. | kata kerja biasa → doesn't |\n\nJadi **jangan** menulis ~~I don't hungry~~ atau ~~She isn't work~~.\n\n### Bukan hanya untuk dislike\nKalimat negatif dipakai untuk semua fakta dan kebiasaan yang tidak terjadi:\n- *We **don't live** in the city.*\n- *My father **doesn't drink** coffee.*\n- *The shop **doesn't open** on Sundays.*\n\n### Ingat juga\n**Never** sudah bermakna negatif (Unit 5). Jangan gabungkan dengan don't: *I never eat meat* atau *I don't eat meat*, bukan ~~I don't never eat meat~~.",
+        "examples": [
+          { "en": "I don't like horror films.", "id": "Saya tidak suka film horor." },
+          { "en": "She doesn't eat meat.", "id": "Dia (perempuan) tidak makan daging." },
+          { "en": "We don't live in the city.", "id": "Kami tidak tinggal di kota." },
+          { "en": "My grandfather doesn't have a phone.", "id": "Kakek saya tidak punya telepon.", "note": "doesn't + have (bukan has)." },
+          { "en": "The bank doesn't open on Sundays.", "id": "Bank tidak buka pada hari Minggu." }
+        ],
+        "vocabulary": [
+          { "word": "don't", "pos": "auxiliary (short form)", "ipa": "/dəʊnt/", "meaning": "tidak (untuk I/you/we/they)", "example": "I don't drink coffee." },
+          { "word": "doesn't", "pos": "auxiliary (short form)", "ipa": "/ˈdʌznt/", "meaning": "tidak (untuk he/she/it)", "example": "He doesn't drive." },
+          { "word": "meat", "pos": "noun", "ipa": "/miːt/", "meaning": "daging", "example": "She doesn't eat meat." },
+          { "word": "city", "pos": "noun", "ipa": "/ˈsɪti/", "meaning": "kota", "example": "They don't live in the city." },
+          { "word": "village", "pos": "noun", "ipa": "/ˈvɪlɪdʒ/", "meaning": "desa", "example": "We live in a small village." },
+          { "word": "noise", "pos": "noun", "ipa": "/nɔɪz/", "meaning": "kebisingan, suara gaduh", "example": "My grandmother doesn't like noise." },
+          { "word": "horror film", "pos": "noun", "ipa": "/ˈhɒrə fɪlm/", "meaning": "film horor", "example": "I don't watch horror films." }
+        ],
+        "grammar": [
+          { "pattern": "I / you / we / they + don't + kata kerja dasar", "example": "They don't play tennis." },
+          { "pattern": "he / she / it + doesn't + kata kerja dasar", "example": "Lisa doesn't play tennis.", "note": "Tidak ada -s setelah doesn't." },
+          { "pattern": "to be: am not / isn't / aren't (tanpa do)", "example": "I'm not tired. / He isn't at home." }
+        ],
+        "mistakes": [
+          { "wrong": "He doesn't likes coffee.", "right": "He doesn't like coffee.", "why": "Setelah doesn't, kata kerja kembali ke bentuk dasar." },
+          { "wrong": "She don't work on Fridays.", "right": "She doesn't work on Fridays.", "why": "She memakai doesn't, bukan don't." },
+          { "wrong": "I don't hungry.", "right": "I'm not hungry.", "why": "Hungry adalah kata sifat, jadi gunakan to be + not, bukan don't." },
+          { "wrong": "I not like milk.", "right": "I don't like milk.", "why": "Kata kerja biasa memerlukan do/does sebelum not." }
+        ],
+        "summary": "Negatif present simple: **I/you/we/they + don't + kata kerja dasar**, **he/she/it + doesn't + kata kerja dasar**. Setelah doesn't **tidak ada -s** (*doesn't like, doesn't have*). Untuk kalimat dengan **to be**, gunakan **am not / isn't / aren't**, bukan don't.",
+        "reviewCards": [
+          { "front": "She ___ (not / eat) meat.", "back": "doesn't eat" },
+          { "front": "don't = ? / doesn't = ?", "back": "do not / does not" },
+          { "front": "Saya tidak lapar.", "back": "I'm not hungry. (bukan I don't hungry)" },
+          { "front": "He has a car. → negatif", "back": "He doesn't have a car." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u06-l2-q1", "type": "dropdown", "category": "grammar", "topic": "present simple negative",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose don't or doesn't.",
+          "instructions": "I/you/we/they → don't; he/she/it → doesn't.",
+          "text": "I ___ eat meat, and my brother ___ drink milk.",
+          "choices": [["don't", "doesn't"], ["don't", "doesn't"]],
+          "answers": [0, 1],
+          "explanation": "I → don't. My brother = he → doesn't."
+        },
+        {
+          "id": "a1-u06-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "present simple negative",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Make the sentence negative.",
+          "sentence": "Lisa plays tennis.",
+          "cue": "Write the negative sentence.",
+          "answers": ["Lisa doesn't play tennis.", "Lisa does not play tennis."],
+          "explanation": "Lisa = she → doesn't + bentuk dasar: plays menjadi play."
+        },
+        {
+          "id": "a1-u06-l2-q3", "type": "drag_drop", "category": "grammar", "topic": "present simple negative",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "We ___ live in the city. We live in a small village. Our grandmother ___ like noise.",
+          "bank": ["don't", "doesn't", "aren't", "isn't", "not"],
+          "answers": ["don't", "doesn't"],
+          "explanation": "We + don't + live. Our grandmother = she → doesn't + like. Aren't/isn't adalah negatif to be, tidak dipakai dengan kata kerja biasa."
+        },
+        {
+          "id": "a1-u06-l2-q4", "type": "sentence_correction", "category": "grammar", "topic": "present simple negative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "He doesn't likes coffee.",
+          "answers": ["He doesn't like coffee.", "He does not like coffee."],
+          "explanation": "Setelah doesn't, kata kerja kembali ke bentuk dasar: like (bukan likes)."
+        },
+        {
+          "id": "a1-u06-l2-q5", "type": "single_choice", "category": "grammar", "topic": "present simple negative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct sentence.",
+          "options": ["I don't hungry.", "I'm not hungry.", "I not hungry.", "I doesn't hungry."],
+          "answer": 1,
+          "explanation": "Hungry adalah kata sifat, jadi kalimatnya memakai to be: I'm not hungry."
+        },
+        {
+          "id": "a1-u06-l2-q6", "type": "translation", "category": "grammar", "topic": "present simple negative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Mereka tidak menonton TV di pagi hari.",
+          "direction": "id-en",
+          "answers": [
+            "They don't watch TV in the morning.",
+            "They do not watch TV in the morning.",
+            "They don't watch television in the morning.",
+            "They do not watch television in the morning."
+          ],
+          "explanation": "Mereka = they → don't + watch. Di pagi hari = in the morning."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u06-l3-yes-no-questions",
+      "title": "Yes/No Questions with Do and Does",
+      "summary": "Bertanya dengan Do/Does + subjek + kata kerja dasar dan menjawab dengan jawaban singkat.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat pertanyaan yes/no dengan Do dan Does",
+        "Menjawab dengan jawaban singkat: Yes, I do / No, she doesn't",
+        "Membedakan pertanyaan dengan to be dan dengan do/does"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pertanyaan yes/no\nPertanyaan yes/no adalah pertanyaan yang jawabannya *ya* atau *tidak*. Dalam bahasa Indonesia kita cukup menambahkan *apakah* atau menaikkan intonasi: *(Apakah) kamu suka kopi?* Dalam bahasa Inggris, untuk kata kerja biasa kita meletakkan **Do** atau **Does** di **awal** kalimat.\n\n### Rumus\n| Kata bantu | Subjek | Kata kerja dasar | Contoh |\n| --- | --- | --- | --- |\n| Do | I / you / we / they | like ...? | **Do** you **like** coffee? |\n| Does | he / she / it | like ...? | **Does** she **like** coffee? |\n\nSama seperti kalimat negatif, -s **pindah** ke **does**, jadi kata kerjanya kembali ke bentuk dasar: *Does he **play**...?* (bukan ~~Does he plays~~).\n\n### Jawaban singkat (short answers)\nPenutur asli jarang menjawab hanya *Yes* atau *No*. Mereka memakai **jawaban singkat** dengan kata bantu yang sama:\n\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Do you ...? | Yes, I do. | No, I don't. |\n| Do they ...? | Yes, they do. | No, they don't. |\n| Does he ...? | Yes, he does. | No, he doesn't. |\n| Does she ...? | Yes, she does. | No, she doesn't. |\n| Does it ...? | Yes, it does. | No, it doesn't. |\n\nPerhatikan: jawaban singkat **tidak** mengulang kata kerja utama. Jadi bukan ~~Yes, I like~~, tetapi **Yes, I do**. Perhatikan juga pertanyaan *Do you...?* dijawab dengan **I**.\n\n### to be atau do/does?\n| Kalimat | Pertanyaan | Jawaban |\n| --- | --- | --- |\n| You are tired. | **Are** you tired? | Yes, I am. |\n| She is a nurse. | **Is** she a nurse? | No, she isn't. |\n| You like tea. | **Do** you like tea? | Yes, I do. |\n| He works here. | **Does** he work here? | No, he doesn't. |\n\nJangan mencampur keduanya: ~~Are you like tea?~~ salah, yang benar **Do you like tea?**\n\n### Intonasi\nPertanyaan yes/no biasanya diucapkan dengan **nada naik** di akhir kalimat: *Do you like tea?* ↗",
+        "examples": [
+          { "en": "Do you like spicy food? — Yes, I do.", "id": "Kamu suka makanan pedas? — Ya." },
+          { "en": "Does your mother work on Saturdays? — No, she doesn't.", "id": "Apakah ibumu bekerja hari Sabtu? — Tidak." },
+          { "en": "Do they live near the school? — Yes, they do.", "id": "Apakah mereka tinggal dekat sekolah? — Ya." },
+          { "en": "Does the bus stop here? — Yes, it does.", "id": "Apakah bus berhenti di sini? — Ya." },
+          { "en": "Are you hungry? — No, I'm not.", "id": "Kamu lapar? — Tidak.", "note": "Pertanyaan dengan to be tidak memakai do." }
+        ],
+        "vocabulary": [
+          { "word": "spicy", "pos": "adjective", "ipa": "/ˈspaɪsi/", "meaning": "pedas", "example": "Do you like spicy food?" },
+          { "word": "speak", "pos": "verb", "ipa": "/spiːk/", "meaning": "berbicara", "example": "Does she speak English?" },
+          { "word": "near", "pos": "preposition", "ipa": "/nɪə/", "meaning": "dekat", "example": "Do you live near here?" },
+          { "word": "question", "pos": "noun", "ipa": "/ˈkwestʃən/", "meaning": "pertanyaan", "example": "I have a question." },
+          { "word": "answer", "pos": "noun/verb", "ipa": "/ˈɑːnsə/", "meaning": "jawaban; menjawab", "example": "Answer the question, please." },
+          { "word": "stop", "pos": "verb", "ipa": "/stɒp/", "meaning": "berhenti", "example": "Does the bus stop here?" }
+        ],
+        "grammar": [
+          { "pattern": "Do + I/you/we/they + kata kerja dasar ...?", "example": "Do you speak Japanese?" },
+          { "pattern": "Does + he/she/it + kata kerja dasar ...?", "example": "Does Ali speak Japanese?" },
+          { "pattern": "Yes, + subjek + do/does. / No, + subjek + don't/doesn't.", "example": "No, he doesn't." }
+        ],
+        "mistakes": [
+          { "wrong": "Does she likes music?", "right": "Does she like music?", "why": "Setelah does, kata kerja kembali ke bentuk dasar." },
+          { "wrong": "Do he play the guitar?", "right": "Does he play the guitar?", "why": "He memakai does, bukan do." },
+          { "wrong": "Are you like coffee?", "right": "Do you like coffee?", "why": "Like adalah kata kerja biasa, jadi pertanyaannya memakai do." },
+          { "wrong": "A: Do you like tea? B: Yes, I like.", "right": "A: Do you like tea? B: Yes, I do.", "why": "Jawaban singkat memakai kata bantu do, bukan kata kerja utama." }
+        ],
+        "summary": "Pertanyaan yes/no present simple: **Do + I/you/we/they + kata kerja dasar?** dan **Does + he/she/it + kata kerja dasar?** Jawab dengan jawaban singkat: **Yes, I do / No, I don't / Yes, she does / No, she doesn't**. Untuk kalimat dengan to be, balik saja posisi to be: *Are you tired?*",
+        "reviewCards": [
+          { "front": "___ your sister cook?", "back": "Does (your sister = she)" },
+          { "front": "Do you like tea? (✓)", "back": "Yes, I do." },
+          { "front": "Does Rudi drive? (✗)", "back": "No, he doesn't." },
+          { "front": "Are you like...? atau Do you like...?", "back": "Do you like...? (like = kata kerja biasa)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u06-l3-q1", "type": "single_choice", "category": "grammar", "topic": "yes/no questions",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "___ your brother play the guitar?",
+          "instructions": "Your brother = he. Pilih kata bantu yang sesuai.",
+          "options": ["Do", "Does", "Is"],
+          "answer": 1,
+          "explanation": "Your brother = he, dan play adalah kata kerja biasa, jadi memakai Does."
+        },
+        {
+          "id": "a1-u06-l3-q2", "type": "dialogue_completion", "category": "conversation", "topic": "yes/no questions",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Maria", "text": "Do you like spicy food, Joko?" },
+            { "speaker": "Joko", "text": null },
+            { "speaker": "Maria", "text": "Me too! I love chilli sauce." }
+          ],
+          "options": ["Yes, I do.", "Yes, I like.", "Yes, I am.", "Yes, I does."],
+          "answer": 0,
+          "explanation": "Pertanyaan Do you ...? dijawab dengan jawaban singkat Yes, I do."
+        },
+        {
+          "id": "a1-u06-l3-q3", "type": "word_order", "category": "grammar", "topic": "yes/no questions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Does", "your", "mother", "work", "on", "Saturdays"],
+          "explanation": "Pola: Does + subjek (your mother) + kata kerja dasar (work) + keterangan (on Saturdays)?"
+        },
+        {
+          "id": "a1-u06-l3-q4", "type": "fill_blank", "category": "grammar", "topic": "short answers",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the short answer.",
+          "text": "A: Do they live near the school? B: No, they ___.",
+          "answers": [["don't", "do not"]],
+          "explanation": "Pertanyaan Do they ...? dijawab negatif dengan No, they don't."
+        },
+        {
+          "id": "a1-u06-l3-q5", "type": "sentence_correction", "category": "grammar", "topic": "yes/no questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the question.",
+          "sentence": "Do she speak English?",
+          "answers": ["Does she speak English?"],
+          "explanation": "Subjek she memakai Does: Does she speak English?"
+        },
+        {
+          "id": "a1-u06-l3-q6", "type": "matching", "category": "grammar", "topic": "short answers",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each question with the correct short answer. (✓ = yes, ✗ = no)",
+          "pairs": [
+            { "left": "Do you like tea? (✓)", "right": "Yes, I do." },
+            { "left": "Does Ali like tea? (✗)", "right": "No, he doesn't." },
+            { "left": "Do your parents like tea? (✓)", "right": "Yes, they do." },
+            { "left": "Does Mira like tea? (✓)", "right": "Yes, she does." },
+            { "left": "Are you thirsty? (✗)", "right": "No, I'm not." }
+          ],
+          "explanation": "Jawaban singkat memakai subjek dan kata bantu yang sesuai: Do you → I do; Does Ali → he doesn't; Do your parents → they do; Does Mira → she does; Are you → I'm not."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u06-l4-wh-questions",
+      "title": "Wh- Questions: What, Where, When, Who, Why, How",
+      "summary": "Membuat pertanyaan informasi dengan kata tanya + do/does + subjek + kata kerja dasar.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Memahami arti kata tanya what, where, when, what time, who, why, how",
+        "Membuat pertanyaan wh- dalam present simple",
+        "Menjawab why dengan because"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kata tanya (question words)\nPertanyaan wh- meminta **informasi**, bukan sekadar ya/tidak.\n\n| Kata tanya | Arti | Menanyakan | Contoh jawaban |\n| --- | --- | --- | --- |\n| What | apa | benda, kegiatan | Rice and eggs. |\n| What time | jam berapa | waktu tepat | At seven o'clock. |\n| Where | di mana / ke mana | tempat | In Surabaya. |\n| When | kapan | waktu | On Mondays. |\n| Who | siapa | orang | My grandparents. |\n| Why | mengapa | alasan | Because I like it. |\n| How | bagaimana | cara | By bus. |\n| How often | seberapa sering | frekuensi | Twice a week. |\n\n### Rumus\nPolanya sama dengan pertanyaan yes/no, hanya ditambah kata tanya di depan:\n\n| Kata tanya | do/does | Subjek | Kata kerja dasar | ...? |\n| --- | --- | --- | --- | --- |\n| Where | do | you | live | ? |\n| What time | does | the class | start | ? |\n| Why | do | they | study | English? |\n| How | does | Rina | go | to school? |\n\nIngat: setelah **does**, kata kerja kembali ke **bentuk dasar**: *Where does she **work**?* (bukan ~~works~~).\n\n### Jangan hilangkan do/does\nDalam bahasa Indonesia kita berkata *Kamu tinggal di mana?* tanpa kata bantu. Dalam bahasa Inggris, ~~Where you live?~~ **salah**. Yang benar: **Where do you live?**\n\n### Wh- dengan to be\nJika kalimatnya memakai to be, **tidak** perlu do/does:\n- *Where **is** your office?* — *It's in Jalan Merdeka.*\n- *Who **is** your teacher?* — *Mr. Bell.*\n- *How **are** you?* — *I'm fine.*\n\n### Why dan because\nPertanyaan **Why** dijawab dengan **Because** (karena): *Why do you study English? — **Because** I want a good job.*\n\n### Who\nDi level ini, kita memakai **who** dengan do/does untuk menanyakan *orang yang menjadi objek*: *Who do you live with?* (Kamu tinggal dengan siapa?) — *My parents.*",
+        "examples": [
+          { "en": "Where do you live? — In Bogor.", "id": "Kamu tinggal di mana? — Di Bogor." },
+          { "en": "What time does the class start? — At nine o'clock.", "id": "Jam berapa kelasnya mulai? — Pukul sembilan." },
+          { "en": "Why do you study English? — Because I want a good job.", "id": "Mengapa kamu belajar bahasa Inggris? — Karena saya ingin pekerjaan yang bagus." },
+          { "en": "How does Rina go to school? — By bike.", "id": "Bagaimana Rina pergi ke sekolah? — Naik sepeda." },
+          { "en": "Who do you live with? — My grandparents.", "id": "Kamu tinggal dengan siapa? — Kakek dan nenek saya." }
+        ],
+        "vocabulary": [
+          { "word": "what", "pos": "question word", "ipa": "/wɒt/", "meaning": "apa", "example": "What do you eat for breakfast?" },
+          { "word": "where", "pos": "question word", "ipa": "/weə/", "meaning": "di mana, ke mana", "example": "Where does he work?" },
+          { "word": "when", "pos": "question word", "ipa": "/wen/", "meaning": "kapan", "example": "When do you go swimming?" },
+          { "word": "who", "pos": "question word", "ipa": "/huː/", "meaning": "siapa", "example": "Who do you live with?" },
+          { "word": "why", "pos": "question word", "ipa": "/waɪ/", "meaning": "mengapa, kenapa", "example": "Why do you like this song?" },
+          { "word": "how", "pos": "question word", "ipa": "/haʊ/", "meaning": "bagaimana", "example": "How do you go to work?" },
+          { "word": "because", "pos": "conjunction", "ipa": "/bɪˈkɒz/", "meaning": "karena", "example": "I like it because it's fun." }
+        ],
+        "grammar": [
+          { "pattern": "Wh- + do + I/you/we/they + kata kerja dasar?", "example": "What do you do at the weekend?" },
+          { "pattern": "Wh- + does + he/she/it + kata kerja dasar?", "example": "Where does your father work?" },
+          { "pattern": "Wh- + am/is/are + subjek?", "example": "Where is the station?", "note": "Tanpa do/does." },
+          { "pattern": "Why ...? — Because ...", "example": "Why do you get up early? — Because I start work at seven." }
+        ],
+        "mistakes": [
+          { "wrong": "Where you live?", "right": "Where do you live?", "why": "Pertanyaan dengan kata kerja biasa memerlukan do/does." },
+          { "wrong": "Where does your sister works?", "right": "Where does your sister work?", "why": "Setelah does, kata kerja tidak memakai -s." },
+          { "wrong": "What time the film starts?", "right": "What time does the film start?", "why": "Tambahkan does dan kembalikan kata kerja ke bentuk dasar." }
+        ],
+        "summary": "Pertanyaan wh-: **kata tanya + do/does + subjek + kata kerja dasar?** (*Where do you live? What time does it start?*). Dengan to be, tidak perlu do/does (*Where is the bank?*). **Why** dijawab dengan **because**. Jangan pernah menghilangkan do/does pada kata kerja biasa.",
+        "reviewCards": [
+          { "front": "Kamu tinggal di mana?", "back": "Where do you live?" },
+          { "front": "What time vs When", "back": "What time = jam berapa (tepat); When = kapan (umum)" },
+          { "front": "Why ...? dijawab dengan?", "back": "Because ..." },
+          { "front": "Where does she ___ (work)?", "back": "work (tanpa -s setelah does)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u06-l4-q1", "type": "dropdown", "category": "grammar", "topic": "wh- questions",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct question word.",
+          "instructions": "Jawabannya adalah nama tempat.",
+          "text": "A: ___ do you live? B: In Bogor.",
+          "choices": [["What", "Where", "When"]],
+          "answers": [1],
+          "explanation": "Jawaban In Bogor adalah tempat, jadi kata tanyanya Where."
+        },
+        {
+          "id": "a1-u06-l4-q2", "type": "matching", "category": "conversation", "topic": "wh- questions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each question with the best answer.",
+          "pairs": [
+            { "left": "What do you eat for breakfast?", "right": "Rice and eggs." },
+            { "left": "Where does Tina work?", "right": "In a hospital." },
+            { "left": "What time does the class start?", "right": "At nine o'clock." },
+            { "left": "Who do you live with?", "right": "My grandparents." },
+            { "left": "Why do you study English?", "right": "Because I want a good job." },
+            { "left": "How do you go to school?", "right": "By bike." }
+          ],
+          "explanation": "What → benda/makanan; Where → tempat; What time → jam; Who → orang; Why → alasan (because); How → cara (by bike)."
+        },
+        {
+          "id": "a1-u06-l4-q3", "type": "sentence_reconstruction", "category": "grammar", "topic": "wh- questions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the parts in order to make a question.",
+          "fragments": ["What time", "does your father", "come home", "in the evening?"],
+          "explanation": "Pola: kata tanya (What time) + does + subjek (your father) + kata kerja dasar (come home) + keterangan."
+        },
+        {
+          "id": "a1-u06-l4-q4", "type": "error_identification", "category": "grammar", "topic": "wh- questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Where", "does your sister", "works?"],
+          "errorIndex": 2,
+          "correction": "work?",
+          "explanation": "Setelah does, kata kerja kembali ke bentuk dasar: Where does your sister work?"
+        },
+        {
+          "id": "a1-u06-l4-q5", "type": "single_choice", "category": "grammar", "topic": "wh- questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct question for this answer: 'She goes to school by bus.'",
+          "options": ["How does she go to school?", "Where does she go to school?", "When does she go to school?", "Who does she go to school with?"],
+          "answer": 0,
+          "explanation": "By bus menjelaskan cara (bagaimana), jadi pertanyaannya How does she go to school?"
+        },
+        {
+          "id": "a1-u06-l4-q6", "type": "short_answer", "category": "grammar", "topic": "wh- questions",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Write the missing question word: '___ do you get up early? — Because I start work at seven.'",
+          "answers": ["Why"],
+          "explanation": "Jawaban dimulai dengan Because (alasan), jadi kata tanyanya Why."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u06-l5-hobbies-sports",
+      "title": "Hobbies and Sports: Play, Go, Do",
+      "summary": "Membicarakan hobi dan olahraga dengan play, go, dan do, serta bertanya tentang kebiasaan di waktu luang.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih play, go, atau do dengan nama olahraga dan kegiatan",
+        "Bertanya dan menjawab tentang hobi dan waktu luang",
+        "Menggabungkan like/love, adverbs of frequency, dan pertanyaan present simple"
+      ],
+      "completionCriteria": "Baca semua bagian materi, berlatih berbicara tentang hobi Anda, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Play, go, atau do?\nDalam bahasa Indonesia, kita sering memakai *main* atau *ber-* (*bermain bola, berenang, berlatih yoga*). Dalam bahasa Inggris, ada tiga kata kerja yang dipasangkan dengan olahraga dan kegiatan:\n\n| Kata kerja | Dipakai untuk | Contoh |\n| --- | --- | --- |\n| **play** | permainan dengan bola atau lawan, permainan | play football, play badminton, play tennis, play basketball, play chess, play games |\n| **go** | kegiatan berakhiran **-ing** (biasanya bergerak/pergi ke suatu tempat) | go swimming, go cycling, go running, go fishing, go shopping, go hiking |\n| **do** | olahraga individu tanpa bola, seni bela diri, latihan | do yoga, do karate, do exercise, do gymnastics |\n\nCara mudah: **bola atau lawan → play**, **-ing → go**, **lainnya → do**.\n\n### Waktu luang\n- **free time** = waktu luang: *What do you do in your free time?*\n- **hobby** = hobi: *My hobby is photography.* (Kata jamaknya **hobbies**.)\n- **at the weekend** = di akhir pekan\n\n### Menggabungkan semua yang sudah dipelajari\nUnit 5 dan 6 memberi kita banyak alat untuk membicarakan kebiasaan:\n\n| Fungsi | Contoh |\n| --- | --- |\n| kebiasaan + frekuensi | I **often go** cycling on Sundays. |\n| suka/tidak suka | She **loves playing** badminton. |\n| negatif | He **doesn't do** yoga. |\n| pertanyaan yes/no | **Do** you **play** chess? — Yes, I do. |\n| pertanyaan wh- | **How often do** you **go** swimming? — Twice a week. |\n\n### Percakapan contoh\n**A:** What do you do in your free time?\n**B:** I play basketball. I love it!\n**A:** How often do you play?\n**B:** Three times a week, usually after school. And you?\n**A:** I don't like basketball. I go swimming at the weekend.\n\n### Catatan budaya dan kosakata\n*Football* (Inggris) disebut *soccer* di Amerika Serikat. Untuk alat musik dipakai **play the** + alat musik: *play the guitar*, *play the piano* — dibahas lebih lanjut di Unit 9.",
+        "examples": [
+          { "en": "I play badminton with my friends on Saturdays.", "id": "Saya bermain bulu tangkis dengan teman-teman setiap hari Sabtu." },
+          { "en": "My uncle goes fishing every Sunday.", "id": "Paman saya pergi memancing setiap hari Minggu." },
+          { "en": "She does yoga in the morning.", "id": "Dia (perempuan) berlatih yoga di pagi hari." },
+          { "en": "What do you do in your free time?", "id": "Apa yang kamu lakukan di waktu luang?" },
+          { "en": "How often do you go swimming? — Once a week.", "id": "Seberapa sering kamu berenang? — Sekali seminggu." }
+        ],
+        "vocabulary": [
+          { "word": "hobby", "pos": "noun", "ipa": "/ˈhɒbi/", "meaning": "hobi", "example": "My hobby is cooking." },
+          { "word": "free time", "pos": "noun", "ipa": "/ˌfriː ˈtaɪm/", "meaning": "waktu luang", "example": "I read in my free time." },
+          { "word": "badminton", "pos": "noun", "ipa": "/ˈbædmɪntən/", "meaning": "bulu tangkis", "example": "We play badminton after school." },
+          { "word": "football", "pos": "noun", "ipa": "/ˈfʊtbɔːl/", "meaning": "sepak bola", "example": "He plays football on Fridays." },
+          { "word": "swimming", "pos": "noun", "ipa": "/ˈswɪmɪŋ/", "meaning": "berenang (kegiatan)", "example": "They go swimming at the weekend." },
+          { "word": "cycling", "pos": "noun", "ipa": "/ˈsaɪklɪŋ/", "meaning": "bersepeda", "example": "My parents go cycling on Sundays." },
+          { "word": "fishing", "pos": "noun", "ipa": "/ˈfɪʃɪŋ/", "meaning": "memancing", "example": "Grandpa goes fishing every week." },
+          { "word": "yoga", "pos": "noun", "ipa": "/ˈjəʊɡə/", "meaning": "yoga", "example": "She does yoga at home." }
+        ],
+        "grammar": [
+          { "pattern": "play + olahraga bola / permainan", "example": "play tennis, play chess" },
+          { "pattern": "go + kegiatan -ing", "example": "go running, go shopping" },
+          { "pattern": "do + olahraga individu / bela diri", "example": "do karate, do exercise" },
+          { "pattern": "How often do/does + subjek + kata kerja?", "example": "How often does he play tennis? — Twice a week." }
+        ],
+        "mistakes": [
+          { "wrong": "I play swimming on Sundays.", "right": "I go swimming on Sundays.", "why": "Kegiatan berakhiran -ing memakai go." },
+          { "wrong": "She plays karate.", "right": "She does karate.", "why": "Seni bela diri memakai do." },
+          { "wrong": "We go football after school.", "right": "We play football after school.", "why": "Olahraga dengan bola memakai play." }
+        ],
+        "summary": "Pakai **play** untuk olahraga bola dan permainan (*play football, play chess*), **go** untuk kegiatan **-ing** (*go swimming, go fishing*), dan **do** untuk olahraga individu atau bela diri (*do yoga, do karate*). Tanyakan hobi dengan **What do you do in your free time?** dan **How often do you ...?**",
+        "reviewCards": [
+          { "front": "___ badminton / ___ swimming / ___ yoga", "back": "play / go / do" },
+          { "front": "free time", "back": "waktu luang" },
+          { "front": "What do you do in your free time?", "back": "Apa yang kamu lakukan di waktu luang?" },
+          { "front": "Saya berlatih karate.", "back": "I do karate." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u06-l5-q1", "type": "single_choice", "category": "vocabulary", "topic": "play go do sports",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "My uncle ___ fishing every Sunday.",
+          "instructions": "Kegiatan berakhiran -ing memakai go.",
+          "options": ["plays", "goes", "does"],
+          "answer": 1,
+          "explanation": "Fishing adalah kegiatan -ing, jadi memakai go. My uncle = he → goes."
+        },
+        {
+          "id": "a1-u06-l5-q2", "type": "drag_drop", "category": "vocabulary", "topic": "play go do sports",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct verbs into the gaps.",
+          "text": "On Saturdays, I ___ badminton with my friends. My sister ___ yoga, and my parents ___ cycling.",
+          "bank": ["play", "does", "go", "goes", "plays", "do"],
+          "answers": ["play", "does", "go"],
+          "explanation": "I play badminton (olahraga bola, subjek I). My sister does yoga (she → does). My parents go cycling (kegiatan -ing, they → go)."
+        },
+        {
+          "id": "a1-u06-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "hobbies",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Talk about your free time. What do you like doing? How often do you do it? What don't you like doing?",
+          "targetPhrases": ["In my free time", "I love", "I usually", "I don't like"],
+          "sampleAnswer": "In my free time, I love playing badminton. I usually play with my friends on Saturdays. I sometimes go swimming, too. I don't like running because it's boring.",
+          "explanation": "Gunakan like/love + -ing, adverb of frequency (usually, sometimes), dan kalimat negatif dengan don't."
+        },
+        {
+          "id": "a1-u06-l5-q4", "type": "multiple_select", "category": "vocabulary", "topic": "play go do sports",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which words go with 'play'? Choose all correct answers.",
+          "options": ["football", "swimming", "chess", "karate", "tennis", "shopping"],
+          "answers": [0, 2, 4],
+          "explanation": "Play dipakai untuk permainan bola atau dengan lawan: football, chess, tennis. Swimming dan shopping memakai go; karate memakai do."
+        },
+        {
+          "id": "a1-u06-l5-q5", "type": "dialogue_completion", "category": "conversation", "topic": "hobbies",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Dimas", "text": "What do you do in your free time, Sinta?" },
+            { "speaker": "Sinta", "text": null },
+            { "speaker": "Dimas", "text": "Running? Wow! Where do you run?" },
+            { "speaker": "Sinta", "text": "In the park near my house." }
+          ],
+          "options": ["I go running every morning.", "I like reading comics.", "I play badminton on Sundays.", "I don't have free time."],
+          "answer": 0,
+          "explanation": "Dimas menanggapi dengan Running?, jadi Sinta pasti menyebut kegiatan lari: I go running every morning."
+        },
+        {
+          "id": "a1-u06-l5-q6", "type": "translation", "category": "vocabulary", "topic": "play go do sports",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami bermain sepak bola setiap hari Sabtu.",
+          "direction": "id-en",
+          "answers": [
+            "We play football every Saturday.",
+            "We play football on Saturdays.",
+            "We play soccer every Saturday.",
+            "We play soccer on Saturdays.",
+            "Every Saturday we play football.",
+            "Every Saturday, we play football."
+          ],
+          "explanation": "Sepak bola = football (olahraga bola → play). Setiap hari Sabtu = every Saturday / on Saturdays."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u06-t-q1", "type": "dropdown", "category": "grammar", "topic": "yes/no questions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ your parents like jazz? B: No, they ___.",
+      "choices": [["Do", "Does", "Are"], ["don't", "doesn't", "aren't"]],
+      "answers": [0, 0],
+      "explanation": "Your parents = they → Do ... ? dan jawaban singkat No, they don't."
+    },
+    {
+      "id": "a1-u06-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "wh- questions",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Write a question that asks where Raka studies.",
+      "sentence": "Raka studies in the library.",
+      "cue": "Ask about the place. Begin with: Where ...",
+      "answers": ["Where does Raka study?"],
+      "explanation": "Where + does + Raka + study (bentuk dasar, tanpa -ies)?"
+    },
+    {
+      "id": "a1-u06-t-q3", "type": "error_identification", "category": "grammar", "topic": "yes/no questions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["Do", "Mr. Bell", "teach", "music at your school?"],
+      "errorIndex": 0,
+      "correction": "Does",
+      "explanation": "Mr. Bell = he, jadi pertanyaannya memakai Does."
+    },
+    {
+      "id": "a1-u06-t-q4", "type": "single_choice", "category": "grammar", "topic": "short answers",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "'Does Ana enjoy cooking?' The answer is yes. Choose the correct short answer.",
+      "options": ["Yes, she does.", "Yes, she do.", "Yes, she enjoys.", "Yes, she is."],
+      "answer": 0,
+      "explanation": "Does she ...? → Yes, she does."
+    },
+    {
+      "id": "a1-u06-t-q5", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "hobbies",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Every weekend, Dewi goes to the mall with her friends and buys new things. She loves ___.",
+      "options": ["shopping", "fishing", "cycling"],
+      "answer": 0,
+      "explanation": "Pergi ke mal dan membeli barang = shopping (berbelanja)."
+    },
+    {
+      "id": "a1-u06-t-q6", "type": "translation", "category": "grammar", "topic": "present simple negative",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kakak perempuan saya tidak suka berenang.",
+      "direction": "id-en",
+      "answers": [
+        "My sister doesn't like swimming.",
+        "My sister does not like swimming.",
+        "My older sister doesn't like swimming.",
+        "My older sister does not like swimming.",
+        "My big sister doesn't like swimming.",
+        "My big sister does not like swimming.",
+        "My sister doesn't like to swim.",
+        "My older sister doesn't like to swim."
+      ],
+      "explanation": "My sister = she → doesn't + like (bentuk dasar) + swimming."
+    },
+    {
+      "id": "a1-u06-t-q7", "type": "sentence_reconstruction", "category": "grammar", "topic": "wh- questions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the parts in order to make a question.",
+      "fragments": ["How often", "do you", "go swimming", "with your friends?"],
+      "explanation": "Pola: How often + do + you + go swimming + keterangan?"
+    },
+    {
+      "id": "a1-u06-t-q8", "type": "fill_blank", "category": "grammar", "topic": "wh- questions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the dialogue with one word in each gap.",
+      "text": "A: What time ___ the shop open? B: It ___ at 9 a.m.",
+      "answers": [["does"], ["opens"]],
+      "explanation": "The shop = it → What time does the shop open? Jawaban positif: It opens (dengan -s)."
+    }
+  ]
+}

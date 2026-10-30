@@ -1,0 +1,645 @@
+{
+  "slug": "b2-u04-passive-causative",
+  "number": 4,
+  "title": "Getting Things Done",
+  "description": "Describe services and report information formally using the passive in all tenses and with modals, the causative have/get something done, and passive reporting structures (it is said that..., he is believed to...). Vocabulary: services, media, crime and justice.",
+  "objectives": [
+    "Use the passive voice in all tenses and with modal verbs",
+    "Use have/get something done to talk about services",
+    "Report information formally with it is said that... and subject + is said to...",
+    "Understand and use vocabulary for crime, justice and news reporting"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u04-l1-passive-all-tenses",
+      "title": "The Passive in All Tenses",
+      "summary": "Membentuk dan menggunakan kalimat pasif dalam semua tenses.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form the passive in present, past, perfect and future tenses",
+        "Decide when to use the passive and when to include the agent (by...)",
+        "Avoid common errors with past participles and continuous passives"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Why use the passive?\nWe use the passive when the **action** or the **receiver** of the action is more important than the person who does it, when the doer is unknown or obvious, or in formal and scientific writing.\n- *My bike **has been stolen**.* (We don't know who did it.)\n- *The suspect **was arrested** last night.* (Obviously by the police.)\n\n### Form: be + past participle\nOnly the verb **be** changes tense; the main verb is always a **past participle**.\n\n| Tense | Active | Passive |\n| --- | --- | --- |\n| present simple | They **clean** the rooms daily. | The rooms **are cleaned** daily. |\n| present continuous | They **are painting** the hall. | The hall **is being painted**. |\n| past simple | They **built** it in 1925. | It **was built** in 1925. |\n| past continuous | They **were questioning** him. | He **was being questioned**. |\n| present perfect | They **have sold** the house. | The house **has been sold**. |\n| past perfect | They **had cancelled** the flight. | The flight **had been cancelled**. |\n| future (will) | They **will announce** the results. | The results **will be announced**. |\n| be going to | They**'re going to** close the road. | The road **is going to be closed**. |\n\n### The agent: by + ...\nInclude *by + agent* only when it adds important information:\n- ✓ *The novel was written **by a 17-year-old student**.* (surprising, important)\n- ✗ *The thief was arrested by the police.* (obvious — omit *by the police*)\n\n### Which verbs can be passive?\nOnly **transitive** verbs (verbs with an object). *Happen, arrive, die, seem* cannot be passive:\n- ✗ *The accident was happened at night.* → ✓ *The accident happened at night.*\n\n### Questions and negatives\n- ***Has** the parcel **been delivered** yet?*\n- *The meeting **wasn't recorded**.*\n- *When **was** the bridge **built**?*\n\n> **Catatan:** Bahasa Indonesia memakai awalan **di-** (*dibangun, dicuri*), sedangkan bahasa Inggris memakai **be + V3** dan *be* harus sesuai tense: *sedang dicat* = *is being painted*; *sudah dijual* = *has been sold*. Jangan lupa bentuk V3 yang tidak beraturan: *stolen, written, built, chosen*.",
+        "examples": [
+          { "en": "The bridge was built in 1925 and has been repaired three times since then.", "id": "Jembatan itu dibangun pada tahun 1925 dan sudah diperbaiki tiga kali sejak itu.", "note": "past simple + present perfect passive" },
+          { "en": "The hotel is being renovated, so the restaurant is closed.", "id": "Hotel itu sedang direnovasi, jadi restorannya tutup.", "note": "present continuous passive" },
+          { "en": "By the time we arrived, all the tickets had been sold.", "id": "Saat kami tiba, semua tiket sudah terjual.", "note": "past perfect passive" },
+          { "en": "The winners will be announced on Friday.", "id": "Para pemenang akan diumumkan pada hari Jumat.", "note": "future passive" }
+        ],
+        "vocabulary": [
+          { "word": "renovate", "pos": "verb", "ipa": "/ˈrenəveɪt/", "meaning": "merenovasi", "example": "The old cinema is being renovated." },
+          { "word": "deliver", "pos": "verb", "ipa": "/dɪˈlɪvə/", "meaning": "mengantarkan", "example": "Your order will be delivered within two days." },
+          { "word": "announce", "pos": "verb", "ipa": "/əˈnaʊns/", "meaning": "mengumumkan", "example": "The new policy was announced yesterday." },
+          { "word": "agent", "pos": "noun (grammar)", "ipa": "/ˈeɪdʒənt/", "meaning": "pelaku (dalam kalimat pasif)", "example": "In 'written by Ana', Ana is the agent." },
+          { "word": "question", "pos": "verb", "ipa": "/ˈkwestʃən/", "meaning": "menginterogasi, menanyai", "example": "Two men are being questioned by the police." }
+        ],
+        "grammar": [
+          { "pattern": "subject + be (any tense) + past participle (+ by agent)", "example": "The film was directed by a young woman.", "note": "Only be changes." },
+          { "pattern": "subject + is/are/was/were + being + past participle", "example": "The road is being repaired.", "note": "Continuous passive." },
+          { "pattern": "subject + has/have/had + been + past participle", "example": "The tickets have been sold.", "note": "Perfect passive." }
+        ],
+        "mistakes": [
+          { "wrong": "The letter was wrote in 1890.", "right": "The letter was written in 1890.", "why": "The passive needs the past participle (written), not the past simple." },
+          { "wrong": "The accident was happened at midnight.", "right": "The accident happened at midnight.", "why": "Happen is intransitive (no object), so it cannot be passive." },
+          { "wrong": "The house is painting at the moment.", "right": "The house is being painted at the moment.", "why": "The continuous passive is be + being + past participle." }
+        ],
+        "summary": "Passive = **be + past participle**; only *be* changes for tense (*is done, is being done, was done, has been done, had been done, will be done*). Use it when the action or receiver matters more than the doer, and add *by + agent* only when it is important. *Ringkasan: di- dalam bahasa Indonesia = be + V3 dalam bahasa Inggris.*",
+        "reviewCards": [
+          { "front": "is being + V3", "back": "present continuous passive (sedang di-...)" },
+          { "front": "has been + V3", "back": "present perfect passive (sudah di-...)" },
+          { "front": "When do we include 'by + agent'?", "back": "Only when the doer is important or surprising." },
+          { "front": "happen, arrive, die", "back": "Intransitive verbs: never passive." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u04-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "passive voice",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the passive form of the verb in brackets.",
+          "instructions": "Hint: past simple passive = was/were + past participle.",
+          "text": "The old bridge ___ (build) in 1925.",
+          "answers": [["was built"]],
+          "explanation": "A finished past action with the focus on the bridge → past simple passive: **was built** (build – built – built)."
+        },
+        {
+          "id": "b2-u04-l1-q2", "type": "dropdown", "category": "grammar", "topic": "passive voice",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct form.",
+          "text": "The hotel ___ at the moment, so the restaurant is closed.",
+          "choices": [["is being renovated", "is renovated", "has renovated"]],
+          "answers": [0],
+          "explanation": "*At the moment* → an action in progress → present continuous passive: **is being renovated**."
+        },
+        {
+          "id": "b2-u04-l1-q3", "type": "sentence_transformation", "category": "grammar", "topic": "passive voice",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence in the passive. Don't include the agent.",
+          "sentence": "Someone has stolen my bike.",
+          "cue": "Begin with: My bike ...",
+          "answers": ["My bike has been stolen."],
+          "explanation": "Present perfect active (*has stolen*) → present perfect passive (**has been stolen**). *Someone* is unknown, so we omit the agent."
+        },
+        {
+          "id": "b2-u04-l1-q4", "type": "multiple_select", "category": "grammar", "topic": "passive voice",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the correct sentences.",
+          "options": [
+            "The results will be announced tomorrow.",
+            "The letter was wrote by my grandfather.",
+            "The suspects were being questioned when the lawyer arrived.",
+            "The museum has been opened since 1990.",
+            "This film was directed by Ana Reyes."
+          ],
+          "answers": [0, 2, 4],
+          "explanation": "Correct: future passive, past continuous passive, past simple passive with an important agent. Wrong: *wrote* should be *written*; and for a state since 1990 we say *The museum has been open since 1990* (open = adjective)."
+        },
+        {
+          "id": "b2-u04-l1-q5", "type": "error_identification", "category": "grammar", "topic": "passive voice",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["By the time", "the police arrived,", "the money had already", "been stole."],
+          "errorIndex": 3,
+          "correction": "been stolen.",
+          "explanation": "The past perfect passive is **had been + past participle**: *had already been stolen* (steal – stole – stolen)."
+        },
+        {
+          "id": "b2-u04-l1-q6", "type": "word_order", "category": "grammar", "topic": "passive voice",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "new", "stadium", "is", "being", "built", "by", "a", "local", "company"],
+          "explanation": "Present continuous passive: **is being built**, with the agent *by a local company* at the end."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u04-l2-passive-modals",
+      "title": "Passive with Modals and Infinitives",
+      "summary": "Kalimat pasif dengan modal (must be done) serta infinitive dan gerund pasif (to be done, being done).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use modal + be + past participle (must be done, can be found)",
+        "Use passive infinitives (needs to be signed) and passive gerunds (being told)",
+        "Write rules and instructions in a formal passive style"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Modal + be + past participle\nAfter a modal verb, the passive is always **be + past participle**.\n\n| Modal | Example | Meaning |\n| --- | --- | --- |\n| can / can't | Tickets **can be bought** online. | possibility |\n| must | All bags **must be checked**. | obligation |\n| should | Plants **should be watered** twice a week. | advice |\n| might / may | The match **might be cancelled**. | possibility |\n| will | The road **will be closed** tomorrow. | future |\n| have to | The form **has to be signed**. | obligation |\n\nPassive with modals is very common in **rules, notices and instructions**:\n- *Phones **must be switched off** during the exam.*\n- *This medicine **shouldn't be taken** on an empty stomach.*\n\n### Passive infinitive: to be + past participle\nUse it after verbs and adjectives that take *to*:\n- *The report **needs to be finished** by Monday.*\n- *I **expect to be told** the results soon.*\n- *She **wants to be promoted**.*\n- *This task is **easy to be done*** ✗ → *This task is easy to do* ✓ (after *easy, hard, difficult*, use the active infinitive).\n\n### Passive gerund: being + past participle\nUse it after verbs and prepositions that take *-ing*:\n- *I hate **being told** what to do.*\n- *He **avoided being seen**.*\n- *She's afraid of **being criticised**.*\n\n### need + -ing (British English)\n*The car **needs washing*** = *The car **needs to be washed***. Both are passive in meaning.\n\n### Common errors\n| Wrong | Right |\n| --- | --- |\n| must be finish | must **be finished** |\n| can found | can **be found** |\n| hate to told | hate **being told** / hate **to be told** |\n\n> **Catatan:** Setelah modal (*can, must, should, might*), pasif selalu **be + V3**: *harus diisi* = *must be filled in*; *bisa ditemukan* = *can be found*. Untuk *suka/benci diperlakukan...*, pakai **being + V3**: *Saya tidak suka disuruh-suruh* = *I don't like being told what to do.*",
+        "examples": [
+          { "en": "Application forms can be downloaded from our website.", "id": "Formulir pendaftaran dapat diunduh dari situs web kami.", "note": "can + be + V3" },
+          { "en": "All luggage must be labelled with your name.", "id": "Semua bagasi harus diberi label nama Anda.", "note": "Rule / obligation." },
+          { "en": "The contract needs to be signed by both parties.", "id": "Kontrak itu perlu ditandatangani oleh kedua pihak.", "note": "Passive infinitive." },
+          { "en": "Nobody likes being ignored.", "id": "Tidak ada yang suka diabaikan.", "note": "Passive gerund." }
+        ],
+        "vocabulary": [
+          { "word": "label", "pos": "verb / noun", "ipa": "/ˈleɪbl/", "meaning": "memberi label; label", "example": "Each box should be clearly labelled." },
+          { "word": "fill in", "pos": "phrasal verb", "ipa": "/ˌfɪl ˈɪn/", "meaning": "mengisi (formulir)", "example": "The form must be filled in using black ink." },
+          { "word": "submit", "pos": "verb", "ipa": "/səbˈmɪt/", "meaning": "menyerahkan, mengajukan", "example": "Essays must be submitted by noon." },
+          { "word": "criticise", "pos": "verb", "ipa": "/ˈkrɪtɪsaɪz/", "meaning": "mengkritik", "example": "Nobody enjoys being criticised in public." },
+          { "word": "ignore", "pos": "verb", "ipa": "/ɪɡˈnɔː/", "meaning": "mengabaikan", "example": "Customer complaints shouldn't be ignored." }
+        ],
+        "grammar": [
+          { "pattern": "modal + be + past participle", "example": "The tickets can't be refunded.", "note": "Rules, possibility, obligation." },
+          { "pattern": "verb + to be + past participle", "example": "The report needs to be checked.", "note": "Passive infinitive." },
+          { "pattern": "verb/preposition + being + past participle", "example": "She's tired of being asked the same question.", "note": "Passive gerund." }
+        ],
+        "mistakes": [
+          { "wrong": "The essay must be finish by Friday.", "right": "The essay must be finished by Friday.", "why": "After modal + be, use the past participle." },
+          { "wrong": "More information can found on our website.", "right": "More information can be found on our website.", "why": "The passive after a modal needs be." },
+          { "wrong": "I don't like to being told what to do.", "right": "I don't like being told what to do.", "why": "Use the passive gerund being + past participle (or to be told)." }
+        ],
+        "summary": "Passive with modals: **modal + be + past participle** (*must be done, can be found*). Passive infinitive: **to be + past participle** (*needs to be signed*). Passive gerund: **being + past participle** (*hate being told*). These forms are typical of rules, notices and formal instructions. *Ringkasan: setelah modal selalu be + V3.*",
+        "reviewCards": [
+          { "front": "must be + V3", "back": "harus di-... (rules and obligations)" },
+          { "front": "needs to be + V3", "back": "perlu di-... (passive infinitive)" },
+          { "front": "being + V3 (I hate being told...)", "back": "Passive gerund after verbs/prepositions" },
+          { "front": "can be found", "back": "dapat ditemukan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u04-l2-q1", "type": "fill_blank", "category": "grammar", "topic": "passive with modals",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Complete the rule with ONE word.",
+          "instructions": "Hint: modal + ___ + past participle.",
+          "text": "All phones must ___ switched off during the exam.",
+          "answers": [["be"]],
+          "explanation": "Passive with a modal: **must be + past participle** → *must be switched off*."
+        },
+        {
+          "id": "b2-u04-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "passive with modals",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence in the passive.",
+          "sentence": "You should water these plants twice a week.",
+          "cue": "Begin with: These plants ...",
+          "answers": ["These plants should be watered twice a week."],
+          "explanation": "*should + verb* → **should be + past participle**: *These plants should be watered twice a week.*"
+        },
+        {
+          "id": "b2-u04-l2-q3", "type": "single_choice", "category": "grammar", "topic": "passive gerund",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "context": "I'm an adult. I really hate ___ what to do by my older brother.",
+          "options": ["being told", "be told", "telling", "to tell"],
+          "answer": 0,
+          "explanation": "The speaker receives the action, so we need a passive form after *hate*: **being told** (passive gerund). *Telling* and *to tell* are active; *be told* cannot follow *hate*."
+        },
+        {
+          "id": "b2-u04-l2-q4", "type": "drag_drop", "category": "grammar", "topic": "passive with modals",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the school notice with words from the bank.",
+          "text": "The trip form can be ___ from the school website. It needs to be ___ by a parent, and it must be ___ to the school office by Friday.",
+          "bank": ["downloaded", "signed", "returned", "signing", "return"],
+          "answers": ["downloaded", "signed", "returned"],
+          "explanation": "After *can be / needs to be / must be* we need past participles: **downloaded, signed, returned**. *Signing* and *return* are not past participles."
+        },
+        {
+          "id": "b2-u04-l2-q5", "type": "dropdown", "category": "grammar", "topic": "passive with modals",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct option for this medicine label.",
+          "text": "This medicine ___ taken on an empty stomach.",
+          "choices": [["shouldn't be", "shouldn't", "isn't be"]],
+          "answers": [0],
+          "explanation": "The medicine receives the action → modal passive: **shouldn't be taken**."
+        },
+        {
+          "id": "b2-u04-l2-q6", "type": "error_identification", "category": "grammar", "topic": "passive voice",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The new rules", "will be introduce", "at the start", "of next year."],
+          "errorIndex": 1,
+          "correction": "will be introduced",
+          "explanation": "Future passive: **will be + past participle** → *will be introduced*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u04-l3-causative-have-get",
+      "title": "Causative: Have/Get Something Done",
+      "summary": "Menggunakan have/get something done untuk layanan yang dikerjakan orang lain, serta have someone do / get someone to do.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use have/get + object + past participle for services",
+        "Use have something done for unpleasant experiences (I had my phone stolen)",
+        "Use have someone do and get someone to do something"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Services: someone else does the job\nCompare:\n- *I **cut** my hair.* → I did it myself.\n- *I **had** my hair **cut**.* → A hairdresser did it for me.\n\n### Form: have/get + object + past participle\n| Tense | Example |\n| --- | --- |\n| present simple | I **have** my car **serviced** every year. |\n| present continuous | We**'re having** the kitchen **redecorated**. |\n| past simple | She **got** her phone screen **replaced**. |\n| present perfect | Have you **had** your eyes **tested** recently? |\n| future | I**'ll get** the documents **translated**. |\n| modal | You should **have** that tooth **checked**. |\n\n⚠️ Word order matters: **have + object + past participle**.\n- ✓ *I had the house painted.* (someone painted it for me)\n- ✗ *I had painted the house.* (= past perfect: I painted it myself, earlier)\n\n*Get* is slightly more informal than *have*, and can suggest effort: *I finally **got** the printer **fixed**.*\n\n### Unpleasant experiences\nThe same structure describes something bad that **happened to** you (no arrangement!):\n- *Ana **had her car stolen** last week.*\n- *He **had his nose broken** in a football match.*\n\n### Making someone do something\n| Structure | Meaning | Example |\n| --- | --- | --- |\n| have + person + infinitive (no to) | ask/arrange (often in a work context) | I'll **have my assistant call** you. |\n| get + person + to-infinitive | persuade | I **got my brother to help** me move. |\n\n### Quick comparison\n| Sentence | Who did the action? |\n| --- | --- |\n| I fixed the bike. | me |\n| I had/got the bike fixed. | a mechanic (a service) |\n| I got my dad to fix the bike. | my dad (I persuaded him) |\n\n> **Catatan:** Bahasa Indonesia sering memakai kata kerja aktif untuk layanan: *Saya potong rambut kemarin* — padahal tukang cukur yang memotong. Dalam bahasa Inggris gunakan **I had my hair cut** (bukan *I cut my hair*, kecuali Anda memotongnya sendiri).",
+        "examples": [
+          { "en": "I've just had my hair cut at a salon near the station.", "id": "Saya baru saja potong rambut di salon dekat stasiun.", "note": "A service." },
+          { "en": "We're having solar panels installed next week.", "id": "Kami akan dipasangi panel surya minggu depan.", "note": "Arranged future service." },
+          { "en": "She had her bag stolen on the train.", "id": "Tasnya dicuri di kereta.", "note": "Unpleasant experience." },
+          { "en": "I finally got my landlord to repair the heating.", "id": "Akhirnya saya berhasil membujuk pemilik rumah untuk memperbaiki pemanas.", "note": "get + person + to-infinitive" }
+        ],
+        "vocabulary": [
+          { "word": "service (a car)", "pos": "verb", "ipa": "/ˈsɜːvɪs/", "meaning": "menyervis (kendaraan)", "example": "I have my car serviced every six months." },
+          { "word": "install", "pos": "verb", "ipa": "/ɪnˈstɔːl/", "meaning": "memasang", "example": "We had a new air conditioner installed." },
+          { "word": "landlord", "pos": "noun", "ipa": "/ˈlændlɔːd/", "meaning": "pemilik rumah/kos yang disewakan", "example": "Our landlord had the roof repaired." },
+          { "word": "dry-clean", "pos": "verb", "ipa": "/ˌdraɪ ˈkliːn/", "meaning": "mencuci kering (dry cleaning)", "example": "I need to get this suit dry-cleaned." },
+          { "word": "translate", "pos": "verb", "ipa": "/trænsˈleɪt/", "meaning": "menerjemahkan", "example": "I had my certificates translated into English." }
+        ],
+        "grammar": [
+          { "pattern": "have/get + object + past participle", "example": "We had the windows cleaned.", "note": "Someone else did the job." },
+          { "pattern": "have + person + infinitive (without to)", "example": "I'll have the technician check it.", "note": "Arranging for someone to act." },
+          { "pattern": "get + person + to-infinitive", "example": "She got her friend to proofread her essay.", "note": "Persuading someone." }
+        ],
+        "mistakes": [
+          { "wrong": "I cut my hair at the hairdresser's yesterday.", "right": "I had my hair cut at the hairdresser's yesterday.", "why": "When a professional does it, use the causative have/get + object + past participle." },
+          { "wrong": "We had painted the house by a local company.", "right": "We had the house painted by a local company.", "why": "The object comes between have and the past participle." },
+          { "wrong": "I got my brother help me.", "right": "I got my brother to help me.", "why": "Get + person is followed by to-infinitive." }
+        ],
+        "summary": "Use **have/get + object + past participle** when someone else does a job for you (*I had my car serviced*) or when something bad happens to you (*I had my phone stolen*). Use **have + person + infinitive** and **get + person + to-infinitive** to talk about making or persuading someone to do something. *Ringkasan: perhatikan urutan: have + benda + V3.*",
+        "reviewCards": [
+          { "front": "I had my hair cut.", "back": "Orang lain (tukang cukur) yang memotong rambut saya." },
+          { "front": "She had her bag stolen.", "back": "Unpleasant experience: tasnya dicuri." },
+          { "front": "get + person + to + verb", "back": "membujuk seseorang melakukan sesuatu" },
+          { "front": "have + person + verb (no to)", "back": "menyuruh/mengatur seseorang melakukan sesuatu" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u04-l3-q1", "type": "fill_blank", "category": "grammar", "topic": "causative",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the correct forms.",
+          "instructions": "Hint: have/get + object + past participle.",
+          "text": "I don't cut my own hair. I ___ it ___ at a salon every month.",
+          "answers": [["have", "get"], ["cut"]],
+          "explanation": "A professional cuts it → causative: **I have (get) it cut**. *Cut* has the same form in the base, past and past participle."
+        },
+        {
+          "id": "b2-u04-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "causative",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using the causative with have.",
+          "sentence": "A mechanic is repairing my car at the moment.",
+          "cue": "Begin with: I'm ...",
+          "answers": [
+            "I'm having my car repaired at the moment.",
+            "I'm having my car repaired.",
+            "I'm having my car repaired by a mechanic at the moment.",
+            "I'm having my car repaired by a mechanic."
+          ],
+          "explanation": "Present continuous of *have* + object + past participle: **I'm having my car repaired.**"
+        },
+        {
+          "id": "b2-u04-l3-q3", "type": "matching", "category": "grammar", "topic": "causative",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Match each structure with an example.",
+          "pairs": [
+            { "left": "have + object + past participle", "right": "We had the roof repaired." },
+            { "left": "get + object + past participle", "right": "She got her nails done." },
+            { "left": "have + person + infinitive", "right": "I'll have my assistant call you." },
+            { "left": "get + person + to-infinitive", "right": "I got my sister to lend me her car." }
+          ],
+          "explanation": "Look at the verb (*have/get*) and what follows: an object + past participle (a service) or a person + infinitive (making/persuading someone)."
+        },
+        {
+          "id": "b2-u04-l3-q4", "type": "single_choice", "category": "grammar", "topic": "causative",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct option.",
+          "context": "Ana couldn't drive to work last week because she ___ outside her flat.",
+          "options": ["had her car stolen", "stole her car", "had stolen her car", "got stolen her car"],
+          "answer": 0,
+          "explanation": "An unpleasant experience → **had her car stolen**. *Had stolen her car* is the past perfect (she stole it herself!), and *got stolen her car* has the wrong word order."
+        },
+        {
+          "id": "b2-u04-l3-q5", "type": "error_identification", "category": "grammar", "topic": "causative",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error. (The family are paying painters to do the job.)",
+          "segments": ["We're going to", "have painted the house", "before the wedding", "next month."],
+          "errorIndex": 1,
+          "correction": "have the house painted",
+          "explanation": "The causative word order is **have + object + past participle**: *have the house painted*. *Have painted the house* means they paint it themselves (perfect infinitive)."
+        },
+        {
+          "id": "b2-u04-l3-q6", "type": "translation", "category": "grammar", "topic": "causative",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya baru saja potong rambut di salon.",
+          "direction": "id-en",
+          "answers": [
+            "I've just had my hair cut at the salon.",
+            "I have just had my hair cut at the salon.",
+            "I just had my hair cut at the salon.",
+            "I've just had my hair cut at a salon.",
+            "I have just had my hair cut at a salon.",
+            "I just had my hair cut at a salon.",
+            "I've just got my hair cut at the salon.",
+            "I just got my hair cut at the salon.",
+            "I've just got my hair cut at a salon.",
+            "I just got my hair cut at a salon."
+          ],
+          "explanation": "The hairdresser cut the hair, so use the causative: **I've just had my hair cut at the salon.** *I've just cut my hair* means you did it yourself."
+        },
+        {
+          "id": "b2-u04-l3-q7", "type": "word_order", "category": "grammar", "topic": "causative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["I", "got", "my", "brother", "to", "fix", "my", "bike"],
+          "explanation": "**get + person + to-infinitive** = persuade someone: *I got my brother to fix my bike.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u04-l4-reporting-passive",
+      "title": "It Is Said That... / He Is Said To...",
+      "summary": "Melaporkan informasi secara formal dengan pasif dan kata kerja pelaporan (say, believe, think, report).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use It + passive reporting verb + that-clause",
+        "Use subject + passive reporting verb + to-infinitive (present and past)",
+        "Recognise this distancing style in news reports"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Why journalists use it\nNews reports often contain information that is not 100% confirmed or whose source is general (*people, experts, the police*). Passive reporting structures let the writer **report without taking responsibility**.\n\nCommon verbs: *say, believe, think, report, know, expect, consider, estimate, allege, understand*.\n\n### Pattern 1: It + passive verb + that-clause\n| Active | Passive |\n| --- | --- |\n| People say that the house is haunted. | **It is said that** the house is haunted. |\n| Experts believe that prices will rise. | **It is believed that** prices will rise. |\n| They reported that two people were injured. | **It was reported that** two people were injured. |\n\n### Pattern 2: Subject + passive verb + to-infinitive\nThe subject of the that-clause becomes the subject of the sentence. The infinitive form depends on **time**:\n\n| Time of the action | Infinitive | Example |\n| --- | --- | --- |\n| same time / general | **to + verb** | The house **is said to be** haunted. |\n| in progress now | **to be + -ing** | The minister **is thought to be hiding** something. |\n| earlier (past) | **to have + past participle** | The thieves **are believed to have escaped** through the window. |\n| future (with expect) | **to + verb** | Prices **are expected to rise**. |\n\n### How to transform\n*People believe that the thieves escaped through the window.*\n1. Subject of the that-clause → *The thieves*\n2. Passive reporting verb → *are believed*\n3. The escape happened before the believing → **to have escaped**\n→ ***The thieves are believed to have escaped through the window.***\n\n### Passive actions inside the infinitive\n*The painting **is thought to have been stolen** in 1990.* (to have been + past participle)\n\n### Watch out\n- ✗ *It is said the house to be haunted.* — don't mix the patterns.\n- ✗ *He is said to escaping.* — use the infinitive.\n\n> **Catatan:** Struktur ini setara dengan *konon*, *diyakini*, *dilaporkan*, *diperkirakan* dalam berita: *Diperkirakan dua ribu orang hadir* → *It is estimated that two thousand people attended.* Jika aksi terjadi lebih dulu dari pelaporan, gunakan **to have + V3**.",
+        "examples": [
+          { "en": "It is believed that the castle was built in the 12th century.", "id": "Diyakini bahwa kastil itu dibangun pada abad ke-12.", "note": "Pattern 1." },
+          { "en": "The castle is believed to have been built in the 12th century.", "id": "Kastil itu diyakini dibangun pada abad ke-12.", "note": "Pattern 2 with a past passive infinitive." },
+          { "en": "The suspect is thought to be hiding in the mountains.", "id": "Tersangka diduga sedang bersembunyi di pegunungan.", "note": "Action in progress now." },
+          { "en": "The new stadium is expected to open in 2028.", "id": "Stadion baru itu diperkirakan dibuka pada tahun 2028.", "note": "Future expectation." }
+        ],
+        "vocabulary": [
+          { "word": "allegedly", "pos": "adverb", "ipa": "/əˈledʒɪdli/", "meaning": "konon, diduga (belum terbukti)", "example": "The man allegedly stole the documents." },
+          { "word": "estimate", "pos": "verb", "ipa": "/ˈestɪmeɪt/", "meaning": "memperkirakan", "example": "It is estimated that 5,000 people attended." },
+          { "word": "haunted", "pos": "adjective", "ipa": "/ˈhɔːntɪd/", "meaning": "berhantu", "example": "The old hotel is said to be haunted." },
+          { "word": "source", "pos": "noun", "ipa": "/sɔːs/", "meaning": "sumber (informasi)", "example": "The source of the report is unclear." },
+          { "word": "confirm", "pos": "verb", "ipa": "/kənˈfɜːm/", "meaning": "mengonfirmasi, memastikan", "example": "The police have not confirmed the report." }
+        ],
+        "grammar": [
+          { "pattern": "It + is/was + said/believed/reported + that + clause", "example": "It is reported that the president is ill.", "note": "Impersonal pattern." },
+          { "pattern": "subject + is/are + said/believed + to + verb / to be + -ing", "example": "She is said to be very rich.", "note": "Present or ongoing." },
+          { "pattern": "subject + is/are + said/believed + to have + past participle", "example": "He is believed to have left the country.", "note": "Earlier action." }
+        ],
+        "mistakes": [
+          { "wrong": "The thieves are believed to escape last night.", "right": "The thieves are believed to have escaped last night.", "why": "The escape happened before the belief, so use to have + past participle." },
+          { "wrong": "It is said the house to be haunted.", "right": "The house is said to be haunted.", "why": "Don't mix the patterns: use either It is said that... or Subject + is said to..." },
+          { "wrong": "The singer is reported earning millions.", "right": "The singer is reported to earn millions.", "why": "After a passive reporting verb, use the to-infinitive." }
+        ],
+        "summary": "Report information formally with **It is said/believed/reported that + clause** or **Subject + is said/believed + to-infinitive**. Use *to + verb* for present states, *to be + -ing* for actions in progress and *to have + past participle* for earlier actions. *Ringkasan: struktur ini = konon / diyakini / dilaporkan dalam bahasa berita.*",
+        "reviewCards": [
+          { "front": "It is said that ...", "back": "Konon / dikatakan bahwa ..." },
+          { "front": "He is believed to have left.", "back": "Dia diyakini sudah pergi (earlier action → to have + V3)." },
+          { "front": "She is thought to be hiding.", "back": "Ongoing action → to be + -ing" },
+          { "front": "allegedly", "back": "konon, diduga (belum terbukti)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u04-l4-q1", "type": "dropdown", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "instructions": "Hint: It + be + past participle + that...",
+          "text": "It ___ that the castle was built in the 12th century.",
+          "choices": [["is believed", "believes", "is believing"]],
+          "answers": [0],
+          "explanation": "The impersonal passive pattern is **It is believed that...** (diyakini bahwa...)."
+        },
+        {
+          "id": "b2-u04-l4-q2", "type": "sentence_transformation", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "People say that the old house on Kenari Street is haunted.",
+          "cue": "Begin with: The old house on Kenari Street ...",
+          "answers": ["The old house on Kenari Street is said to be haunted."],
+          "explanation": "Subject + **is said to + verb** (same time): *The old house on Kenari Street is said to be haunted.*"
+        },
+        {
+          "id": "b2-u04-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "People believe that the thieves escaped through the bathroom window.",
+          "cue": "Begin with: The thieves ...",
+          "answers": ["The thieves are believed to have escaped through the bathroom window."],
+          "explanation": "The escape happened before the believing → **to have + past participle**: *are believed to have escaped*."
+        },
+        {
+          "id": "b2-u04-l4-q4", "type": "fill_blank", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the news sentence with the correct infinitive form of the verb in brackets.",
+          "text": "The company's director is reported ___ (resign) last week.",
+          "answers": [["to have resigned"]],
+          "explanation": "*Last week* shows an earlier action → **to have resigned**."
+        },
+        {
+          "id": "b2-u04-l4-q5", "type": "single_choice", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence means 'People think that the minister is hiding something at the moment'?",
+          "options": [
+            "The minister is thought to be hiding something.",
+            "The minister is thought to have hidden something.",
+            "The minister thinks he is hiding something.",
+            "It thinks that the minister hides something."
+          ],
+          "answer": 0,
+          "explanation": "An action in progress now → **to be + -ing**: *The minister is thought to be hiding something.* Option 2 refers to an earlier action."
+        },
+        {
+          "id": "b2-u04-l4-q6", "type": "error_identification", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The suspect", "is said", "to escaping", "from prison last night."],
+          "errorIndex": 2,
+          "correction": "to have escaped",
+          "explanation": "After a passive reporting verb, use the infinitive. The escape was earlier (*last night*), so: **to have escaped**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u04-l5-crime-justice-media",
+      "title": "Vocabulary: Crime, Justice and the News",
+      "summary": "Kosakata tentang kejahatan, hukum, dan berita, digabung dengan kalimat pasif khas laporan berita.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use vocabulary for the stages of a criminal case (arrest, charge, trial, verdict, sentence)",
+        "Use the correct prepositions (arrested for, charged with, accused of, sentenced to)",
+        "Understand and write short news reports in a passive style"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### From crime to sentence\n| Stage | Vocabulary | Example (often passive!) |\n| --- | --- | --- |\n| 1. The crime | burglary, robbery, fraud, shoplifting | A shop **was robbed** on Main Street. |\n| 2. Investigation | witness, evidence, suspect | A **suspect** is being questioned. |\n| 3. Arrest | arrest sb **for** sth | A man **was arrested for** burglary. |\n| 4. Charge | charge sb **with** sth | He **was charged with** fraud. |\n| 5. Trial | stand trial, court, jury, judge | She will **stand trial** in May. |\n| 6. Verdict | guilty / not guilty, convict, acquit | He **was found guilty**. |\n| 7. Sentence | sentence sb **to** ..., fine | She **was sentenced to** three years. |\n\n### Prepositions to remember\n| Verb | Preposition | Example |\n| --- | --- | --- |\n| arrest | for | arrested **for** theft |\n| charge | with | charged **with** theft |\n| accuse | of | accused **of** theft |\n| convict | of | convicted **of** theft |\n| sentence | to | sentenced **to** five years |\n| fine | (amount) for | fined $500 **for** speeding |\n\n### The language of news reports\nNews writers often use the passive and distancing language because:\n- the victim or event matters more than the criminal;\n- the facts are not yet proven.\n\n| Feature | Example |\n| --- | --- |\n| passive | *Three people **have been injured** in an attack.* |\n| reporting passive | *The man **is believed to have entered** through a window.* |\n| allegedly / reportedly | *He **allegedly** stole €2 million.* |\n| present perfect for news | *A 34-year-old man **has been arrested**.* |\n\n### Media vocabulary\n*headline* (title of a news story), *coverage* (how much the media reports something), *press conference*, *eyewitness account*, *breaking news*.\n\n### Services connection\nSome crime vocabulary is connected to services: you can **have your locks changed** after a burglary, or **get a document certified** by a lawyer.\n\n> **Catatan:** Perhatikan preposisi yang berbeda: *arrested **for***, *charged **with***, *accused **of***, *sentenced **to***. *Suspect* = tersangka; *witness* = saksi; *verdict* = putusan; *sentence* = hukuman/vonis (juga berarti 'kalimat' dalam konteks bahasa).",
+        "examples": [
+          { "en": "A 34-year-old man has been arrested in connection with the robbery.", "id": "Seorang pria berusia 34 tahun telah ditangkap terkait perampokan itu.", "note": "Typical news opening." },
+          { "en": "The former manager was charged with fraud and will stand trial next month.", "id": "Mantan manajer itu didakwa melakukan penipuan dan akan diadili bulan depan.", "note": "charge with; stand trial" },
+          { "en": "She was found not guilty and was released immediately.", "id": "Dia dinyatakan tidak bersalah dan langsung dibebaskan.", "note": "verdict" },
+          { "en": "The driver was fined 300 dollars for speeding.", "id": "Pengemudi itu didenda 300 dolar karena ngebut.", "note": "fine for" }
+        ],
+        "vocabulary": [
+          { "word": "suspect", "pos": "noun", "ipa": "/ˈsʌspekt/", "meaning": "tersangka", "example": "The suspect was questioned for six hours." },
+          { "word": "witness", "pos": "noun", "ipa": "/ˈwɪtnəs/", "meaning": "saksi", "example": "Police are asking witnesses to come forward." },
+          { "word": "charge (with)", "pos": "verb", "ipa": "/tʃɑːdʒ/", "meaning": "mendakwa", "example": "He was charged with theft." },
+          { "word": "verdict", "pos": "noun", "ipa": "/ˈvɜːdɪkt/", "meaning": "putusan (pengadilan)", "example": "The jury reached a verdict after two days." },
+          { "word": "sentence (to)", "pos": "verb / noun", "ipa": "/ˈsentəns/", "meaning": "menjatuhkan hukuman; hukuman", "example": "She was sentenced to two years in prison." },
+          { "word": "evidence", "pos": "noun (uncountable)", "ipa": "/ˈevɪdəns/", "meaning": "bukti", "example": "There wasn't enough evidence to convict him." }
+        ],
+        "grammar": [
+          { "pattern": "be arrested for / charged with / accused of + noun or -ing", "example": "She was accused of lying to the court.", "note": "Fixed prepositions." },
+          { "pattern": "be sentenced to + punishment", "example": "He was sentenced to 200 hours of community service.", "note": "sentence to" },
+          { "pattern": "has/have been + past participle (news opening)", "example": "Two men have been arrested after a break-in.", "note": "Present perfect passive for new information." }
+        ],
+        "mistakes": [
+          { "wrong": "He was charged of robbery.", "right": "He was charged with robbery.", "why": "Charge takes with; accuse and convict take of." },
+          { "wrong": "The police found many evidences.", "right": "The police found a lot of evidence.", "why": "Evidence is uncountable." },
+          { "wrong": "She was sentenced for five years.", "right": "She was sentenced to five years.", "why": "The preposition after sentence is to." }
+        ],
+        "summary": "A criminal case moves from **crime → investigation → arrest → charge → trial → verdict → sentence**. Learn the prepositions: *arrested for, charged with, accused/convicted of, sentenced to, fined for*. News reports use the passive, the present perfect and distancing words such as *allegedly*. *Ringkasan: perhatikan preposisi dan bentuk pasif dalam berita.*",
+        "reviewCards": [
+          { "front": "charged with", "back": "didakwa (melakukan ...)" },
+          { "front": "accused of / convicted of", "back": "dituduh / dinyatakan bersalah atas" },
+          { "front": "sentenced to", "back": "dijatuhi hukuman ..." },
+          { "front": "evidence", "back": "bukti (uncountable: not evidences)" },
+          { "front": "witness vs suspect", "back": "saksi vs tersangka" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u04-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "crime and justice",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word.",
+          "instructions": "Hint: this person saw what happened.",
+          "context": "A ___ told the police that she had seen two men running away from the shop.",
+          "options": ["witness", "suspect", "judge", "jury"],
+          "answer": 0,
+          "explanation": "A **witness** (saksi) is someone who saw an event. A *suspect* is a person believed to have committed the crime; a *judge* and a *jury* decide the case in court."
+        },
+        {
+          "id": "b2-u04-l5-q2", "type": "matching", "category": "vocabulary", "topic": "crime and justice",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "suspect", "right": "a person the police think may have committed a crime" },
+            { "left": "verdict", "right": "the decision of a court: guilty or not guilty" },
+            { "left": "sentence", "right": "the punishment given by a judge" },
+            { "left": "trial", "right": "the process of examining a case in court" },
+            { "left": "fine", "right": "money paid as a punishment" }
+          ],
+          "explanation": "These words describe different stages of a criminal case. Note that *sentence* also means *kalimat* in grammar."
+        },
+        {
+          "id": "b2-u04-l5-q3", "type": "sentence_reconstruction", "category": "writing", "topic": "news reports",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Put the fragments in order to make the first sentence of a news report.",
+          "fragments": ["A 34-year-old man", "has been arrested", "in connection with", "the robbery,", "which took place on Friday night."],
+          "explanation": "A typical news opening: subject → present perfect passive (**has been arrested**) → *in connection with* + event → extra information."
+        },
+        {
+          "id": "b2-u04-l5-q4", "type": "drag_drop", "category": "vocabulary", "topic": "crime and justice",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the news report with words from the bank.",
+          "text": "The man was ___ with burglary and will stand ___ next month. If he is found guilty, he could be ___ to five years in prison.",
+          "bank": ["charged", "trial", "sentenced", "accused", "verdict"],
+          "answers": ["charged", "trial", "sentenced"],
+          "explanation": "**charged with** (didakwa), **stand trial** (diadili), **sentenced to** (dijatuhi hukuman). *Accused* takes *of*, not *with*."
+        },
+        {
+          "id": "b2-u04-l5-q5", "type": "dropdown", "category": "vocabulary", "topic": "dependent prepositions",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct prepositions.",
+          "text": "The teenager was arrested ___ shoplifting and later charged ___ theft.",
+          "choices": [["for", "of", "with"], ["with", "of", "for"]],
+          "answers": [0, 0],
+          "explanation": "**arrested for** + crime; **charged with** + crime."
+        },
+        {
+          "id": "b2-u04-l5-q6", "type": "single_choice", "category": "vocabulary", "topic": "news language",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which word in a news report shows that a crime has NOT been proved yet?",
+          "options": ["allegedly", "definitely", "guilty", "convicted"],
+          "answer": 0,
+          "explanation": "**Allegedly** (konon/diduga) shows that something is claimed but not proved. *Guilty* and *convicted* mean it has been proved in court."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u04-t-q1", "type": "single_choice", "category": "grammar", "topic": "passive voice",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "When the inspectors finally arrived, the documents ___.",
+      "options": ["had been destroyed", "have been destroyed", "were destroying", "had destroyed"],
+      "answer": 0,
+      "explanation": "The destruction happened before a past moment, and the documents received the action → past perfect passive: **had been destroyed**."
+    },
+    {
+      "id": "b2-u04-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "passive voice",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence in the passive.",
+      "sentence": "They are going to announce the winners on Friday.",
+      "cue": "Begin with: The winners ...",
+      "answers": ["The winners are going to be announced on Friday."],
+      "explanation": "*be going to + verb* → **be going to be + past participle**."
+    },
+    {
+      "id": "b2-u04-t-q3", "type": "fill_blank", "category": "grammar", "topic": "causative",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the sentence with the causative. Use the verb in brackets.",
+      "text": "My laptop wasn't working, so I ___ it ___ (repair) at a shop near the station.",
+      "answers": [["had", "got"], ["repaired"]],
+      "explanation": "Someone at the shop repaired it → **had/got + object + past participle**: *I had it repaired.*"
+    },
+    {
+      "id": "b2-u04-t-q4", "type": "error_identification", "category": "grammar", "topic": "passive reporting verbs",
+      "difficulty": 4, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["The painting", "is thought", "to be stolen", "during the festival last year."],
+      "errorIndex": 2,
+      "correction": "to have been stolen",
+      "explanation": "The theft happened earlier (*last year*) and the painting received the action → past passive infinitive: **to have been stolen**."
+    },
+    {
+      "id": "b2-u04-t-q5", "type": "translation", "category": "grammar", "topic": "passive voice",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Jembatan itu sedang diperbaiki.",
+      "direction": "id-en",
+      "answers": [
+        "The bridge is being repaired.",
+        "The bridge is being fixed.",
+        "The bridge is currently being repaired.",
+        "The bridge is currently being fixed.",
+        "That bridge is being repaired.",
+        "That bridge is being fixed."
+      ],
+      "explanation": "*Sedang di-...* = present continuous passive: **is being + past participle** → *The bridge is being repaired.*"
+    },
+    {
+      "id": "b2-u04-t-q6", "type": "dialogue_completion", "category": "conversation", "topic": "causative",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        { "speaker": "Nina", "text": "Your hair looks great!" },
+        { "speaker": "Tasya", "text": null }
+      ],
+      "options": [
+        "Thanks, I had it cut yesterday.",
+        "Thanks, I cut it by a hairdresser yesterday.",
+        "Thanks, I had cut it yesterday.",
+        "Thanks, I have it cut yesterday."
+      ],
+      "answer": 0,
+      "explanation": "A hairdresser did it → causative past simple: **I had it cut yesterday.** *I had cut it* is the past perfect (I cut it myself), and *have* doesn't match *yesterday*."
+    },
+    {
+      "id": "b2-u04-t-q7", "type": "matching", "category": "vocabulary", "topic": "crime and justice",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Match the verbs with the correct prepositions and examples.",
+      "pairs": [
+        { "left": "He was arrested", "right": "for drink-driving." },
+        { "left": "She was accused", "right": "of stealing the money." },
+        { "left": "They were charged", "right": "with fraud." },
+        { "left": "He was sentenced", "right": "to six months in prison." }
+      ],
+      "explanation": "Fixed prepositions: **arrested for, accused of, charged with, sentenced to**."
+    },
+    {
+      "id": "b2-u04-t-q8", "type": "word_order", "category": "grammar", "topic": "passive reporting verbs",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["It", "is", "estimated", "that", "two", "thousand", "people", "attended", "the", "protest"],
+      "explanation": "Impersonal reporting passive: **It is estimated that** + clause."
+    }
+  ]
+}

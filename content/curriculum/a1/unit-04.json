@@ -1,0 +1,622 @@
+{
+  "slug": "a1-u04-things",
+  "number": 4,
+  "title": "Things Around Me",
+  "description": "Menyebut dan mendeskripsikan benda di sekitar kita: artikel a/an/the, bentuk jamak beraturan dan tidak beraturan, this/that/these/those, serta warna dan kata sifat sebelum kata benda.",
+  "objectives": [
+    "Memilih a atau an berdasarkan bunyi awal kata",
+    "Menggunakan the untuk benda yang spesifik atau sudah diketahui",
+    "Membentuk kata benda jamak beraturan dan tidak beraturan",
+    "Menunjuk benda dengan this, that, these, those",
+    "Mendeskripsikan benda dengan warna dan kata sifat sederhana"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u04-l1-articles-a-an",
+      "title": "Articles: A and An",
+      "summary": "Memakai a dan an untuk satu benda atau orang, berdasarkan bunyi awal kata berikutnya.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Memilih a atau an berdasarkan bunyi, bukan huruf",
+        "Memakai a/an untuk pekerjaan dan benda tunggal",
+        "Tidak memakai a/an dengan kata benda jamak"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu a dan an?\n**A** dan **an** berarti *sebuah, seorang, seekor* — artinya **satu**. Kita memakainya sebelum kata benda **tunggal** yang bisa dihitung, terutama saat menyebutnya **pertama kali** atau saat bendanya **tidak spesifik**.\n\nBahasa Indonesia sering tidak memakai kata *sebuah/seorang*: *Dia guru.* Tetapi bahasa Inggris **wajib** memakai a/an: *She is **a** teacher.*\n\n### A atau an? Dengarkan bunyinya\nPilihannya ditentukan oleh **bunyi pertama** kata berikutnya, **bukan hurufnya**.\n\n| Aturan | Contoh |\n| --- | --- |\n| **a** + bunyi konsonan | a book, a pen, a chair, a teacher |\n| **an** + bunyi vokal (a, e, i, o, u) | an apple, an egg, an umbrella, an orange |\n\n### Jebakan: huruf vs bunyi\n| Kata | Bunyi awal | Artikel |\n| --- | --- | --- |\n| hour | /aʊ/ (h tidak dibaca) | **an** hour |\n| honest | /ɒ/ (h tidak dibaca) | **an** honest man |\n| university | /juː/ (bunyi *y*) | **a** university |\n| uniform | /juː/ (bunyi *y*) | **a** uniform |\n| umbrella | /ʌ/ (vokal) | **an** umbrella |\n\n### Kata sifat mengubah artikel\nJika ada kata sifat sebelum kata benda, a/an mengikuti **kata sifat**:\n- *an apple* → *a big apple*\n- *a bag* → *an old bag*\n\n### Kapan memakai a/an?\n1. **Pekerjaan**: *I'm a nurse. He's an actor.*\n2. **Satu benda yang tidak spesifik**: *It's an eraser.* (sebuah penghapus)\n3. **Mendeskripsikan**: *Jakarta is a big city.*\n\n### Kapan tidak memakai a/an?\n- Dengan kata benda **jamak**: *They're pens.* (bukan ~~a pens~~)\n- Dengan **nama orang** atau **possessive adjective**: *She's my friend.* (bukan ~~a my friend~~)",
+        "examples": [
+          { "en": "It's a book.", "id": "Itu sebuah buku." },
+          { "en": "It's an umbrella.", "id": "Itu sebuah payung.", "note": "umbrella diawali bunyi vokal." },
+          { "en": "My uncle is an engineer.", "id": "Paman saya seorang insinyur." },
+          { "en": "The class is an hour long.", "id": "Kelasnya satu jam.", "note": "h pada hour tidak dibaca." },
+          { "en": "Green Hill is a university in Bandung.", "id": "Green Hill adalah sebuah universitas di Bandung.", "note": "university berbunyi /juː/." }
+        ],
+        "vocabulary": [
+          { "word": "apple", "pos": "noun", "ipa": "/ˈæpl/", "meaning": "apel", "example": "It's an apple." },
+          { "word": "egg", "pos": "noun", "ipa": "/eɡ/", "meaning": "telur", "example": "It's an egg." },
+          { "word": "umbrella", "pos": "noun", "ipa": "/ʌmˈbrelə/", "meaning": "payung", "example": "It's an umbrella." },
+          { "word": "hour", "pos": "noun", "ipa": "/ˈaʊə/", "meaning": "jam (60 menit)", "example": "The film is an hour long." },
+          { "word": "book", "pos": "noun", "ipa": "/bʊk/", "meaning": "buku", "example": "It's a good book." },
+          { "word": "actor", "pos": "noun", "ipa": "/ˈæktə/", "meaning": "aktor", "example": "He's an actor." },
+          { "word": "university", "pos": "noun", "ipa": "/ˌjuːnɪˈvɜːsəti/", "meaning": "universitas", "example": "It's a big university." }
+        ],
+        "grammar": [
+          { "pattern": "a + bunyi konsonan", "example": "a pen, a university, a uniform" },
+          { "pattern": "an + bunyi vokal", "example": "an egg, an hour, an orange" },
+          { "pattern": "a/an + kata sifat + kata benda", "example": "an old car, a big apple", "note": "Artikel mengikuti kata sesudahnya." }
+        ],
+        "mistakes": [
+          { "wrong": "She is doctor.", "right": "She is a doctor.", "why": "Pekerjaan memerlukan a/an dalam bahasa Inggris." },
+          { "wrong": "a hour", "right": "an hour", "why": "Huruf h pada hour tidak dibaca, jadi bunyi awalnya vokal." },
+          { "wrong": "an university", "right": "a university", "why": "University diawali bunyi /j/ (konsonan)." },
+          { "wrong": "They are a students.", "right": "They are students.", "why": "A/an tidak dipakai dengan kata benda jamak." }
+        ],
+        "summary": "**A/an** = satu (sebuah/seorang), untuk kata benda **tunggal**. Pakai **a** sebelum **bunyi konsonan** (*a book, a university*) dan **an** sebelum **bunyi vokal** (*an apple, an hour*). Pekerjaan selalu memakai a/an: *I'm a student.* Jangan pakai a/an dengan kata benda jamak.",
+        "reviewCards": [
+          { "front": "___ hour / ___ university", "back": "an hour / a university (lihat bunyinya)" },
+          { "front": "Dia seorang insinyur.", "back": "He's/She's an engineer." },
+          { "front": "___ old bag", "back": "an old bag (old diawali vokal)" },
+          { "front": "a/an + jamak?", "back": "Tidak boleh: They're pens (bukan a pens)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u04-l1-q1", "type": "single_choice", "category": "grammar", "topic": "articles a an",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "My aunt is ___ engineer.",
+          "instructions": "Lihat bunyi pertama kata engineer.",
+          "options": ["a", "an"],
+          "answer": 1,
+          "explanation": "Engineer diawali bunyi vokal /e/, jadi memakai an: an engineer."
+        },
+        {
+          "id": "a1-u04-l1-q2", "type": "drag_drop", "category": "grammar", "topic": "articles a an",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Drag the correct articles into the gaps.",
+          "text": "My sister is ___ nurse and my brother is ___ actor.",
+          "bank": ["a", "an", "the"],
+          "answers": ["a", "an"],
+          "explanation": "Nurse diawali bunyi konsonan → a nurse. Actor diawali bunyi vokal → an actor."
+        },
+        {
+          "id": "a1-u04-l1-q3", "type": "multiple_select", "category": "grammar", "topic": "articles a an",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Which words need 'an'? Choose all correct answers.",
+          "options": ["hour", "uniform", "egg", "house", "orange", "university"],
+          "answers": [0, 2, 4],
+          "explanation": "an hour (h tidak dibaca), an egg, an orange (bunyi vokal). Uniform dan university diawali bunyi /j/, house diawali bunyi /h/ → a."
+        },
+        {
+          "id": "a1-u04-l1-q4", "type": "fill_blank", "category": "grammar", "topic": "articles a an",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Write a or an.",
+          "text": "It's ___ old bag. It's ___ big umbrella.",
+          "answers": [["an"], ["a"]],
+          "explanation": "Artikel mengikuti kata sesudahnya: old diawali vokal → an old bag; big diawali konsonan → a big umbrella."
+        },
+        {
+          "id": "a1-u04-l1-q5", "type": "error_identification", "category": "grammar", "topic": "articles a an",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["My father", "is", "a", "honest man."],
+          "errorIndex": 2,
+          "correction": "an",
+          "explanation": "Huruf h pada honest tidak dibaca, jadi bunyi awalnya vokal: an honest man."
+        },
+        {
+          "id": "a1-u04-l1-q6", "type": "sentence_correction", "category": "grammar", "topic": "articles a an",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "She is doctor.",
+          "answers": ["She is a doctor.", "She's a doctor."],
+          "explanation": "Pekerjaan memerlukan a/an: She is a doctor."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u04-l2-the-article",
+      "title": "The Definite Article: The",
+      "summary": "Memakai the untuk benda yang spesifik, sudah disebut sebelumnya, atau hanya ada satu.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Membedakan a/an (tidak spesifik) dan the (spesifik)",
+        "Memakai the untuk benda yang hanya ada satu",
+        "Mengucapkan the dengan /ðə/ dan /ði/"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### The = itu, yang tadi, yang kita tahu\n**The** dipakai untuk benda yang **spesifik** — pembicara dan pendengar tahu benda **yang mana**. Dalam bahasa Indonesia, artinya mirip dengan *-nya* atau *itu*: *bukunya*, *guru itu*.\n\n### Kapan memakai the?\n| Situasi | Contoh |\n| --- | --- |\n| Benda yang **sudah disebut** sebelumnya | It's a cake. **The** cake is for my mother. |\n| Benda yang **jelas** dari situasi | **The** door is open. (pintu di ruangan ini) |\n| Benda yang **hanya ada satu** | **the** sun, **the** moon, **the** sky |\n| Dengan keterangan yang membuatnya spesifik | **The** teacher in Class 3B is Ms. Bell. |\n\n### A/an vs the\nBandingkan:\n- *Mr. Lee is **a** teacher.* → salah satu dari banyak guru.\n- *Mr. Lee is **the** teacher of Class 3B.* → guru yang spesifik.\n- *It's **a** cat. **The** cat is hungry.* → pertama kali: a; setelah itu: the.\n\n**The** bisa dipakai untuk kata benda **tunggal dan jamak**: *the book*, *the books*.\n\n### Cara mengucapkan the\n| Sebelum | Bunyi | Contoh |\n| --- | --- | --- |\n| bunyi konsonan | /ðə/ | the book, the pen |\n| bunyi vokal | /ði/ | the egg, the apple, the hour |\n\nBunyi /ð/ dibuat dengan **ujung lidah di antara gigi** sambil bergetar. Jangan ucapkan *de* atau *te*.\n\n### Kapan tidak memakai the?\n- Sebelum **nama orang**: *Rina is here.* (bukan ~~The Rina~~)\n- Sebelum kebanyakan **nama kota dan negara**: *Jakarta, Indonesia* (tetapi *the UK, the USA* — lihat Unit 1)\n- Sebelum **possessive adjective**: *my book* (bukan ~~the my book~~)\n- Dalam ungkapan tetap: *at home, at school, at work*",
+        "examples": [
+          { "en": "It's a cake. The cake is for Grandma.", "id": "Itu sebuah kue. Kuenya untuk Nenek.", "note": "Disebut kedua kali → the." },
+          { "en": "The sun is very hot today.", "id": "Matahari sangat panas hari ini.", "note": "Hanya ada satu matahari." },
+          { "en": "The door is open.", "id": "Pintunya terbuka." },
+          { "en": "The teacher in Room 5 is Mr. Hall.", "id": "Guru di Ruang 5 adalah Pak Hall." },
+          { "en": "The books are new.", "id": "Buku-bukunya baru.", "note": "The juga dipakai untuk jamak." }
+        ],
+        "vocabulary": [
+          { "word": "the", "pos": "article", "ipa": "/ðə/, /ði/", "meaning": "(artikel tertentu) -nya, itu", "example": "The window is big." },
+          { "word": "sun", "pos": "noun", "ipa": "/sʌn/", "meaning": "matahari", "example": "The sun is hot." },
+          { "word": "moon", "pos": "noun", "ipa": "/muːn/", "meaning": "bulan (di langit)", "example": "The moon is beautiful tonight." },
+          { "word": "door", "pos": "noun", "ipa": "/dɔː/", "meaning": "pintu", "example": "The door is open." },
+          { "word": "window", "pos": "noun", "ipa": "/ˈwɪndəʊ/", "meaning": "jendela", "example": "The window is closed." },
+          { "word": "table", "pos": "noun", "ipa": "/ˈteɪbl/", "meaning": "meja", "example": "The table is new." },
+          { "word": "board", "pos": "noun", "ipa": "/bɔːd/", "meaning": "papan tulis", "example": "The board is clean." }
+        ],
+        "grammar": [
+          { "pattern": "a/an (pertama kali) → the (selanjutnya)", "example": "It's a dog. The dog is friendly." },
+          { "pattern": "the + benda yang hanya satu", "example": "the sun, the moon, the sky" },
+          { "pattern": "the + kata benda + keterangan", "example": "the girl in the red dress" }
+        ],
+        "mistakes": [
+          { "wrong": "Moon is beautiful.", "right": "The moon is beautiful.", "why": "Benda yang hanya ada satu memakai the." },
+          { "wrong": "The Rina is my friend.", "right": "Rina is my friend.", "why": "Nama orang tidak memakai the." },
+          { "wrong": "It's a cat. A cat is black.", "right": "It's a cat. The cat is black.", "why": "Saat disebut kedua kali, benda sudah spesifik → the." }
+        ],
+        "summary": "Pakai **the** untuk benda yang **spesifik**: sudah disebut sebelumnya, jelas dari situasi, atau hanya ada satu (*the sun*). **A/an** untuk benda yang belum spesifik. **The** dipakai untuk tunggal dan jamak, dan diucapkan **/ðə/** sebelum konsonan, **/ði/** sebelum vokal. Jangan pakai the dengan nama orang.",
+        "reviewCards": [
+          { "front": "It's a cake. ___ cake is for you.", "back": "The (disebut kedua kali)" },
+          { "front": "___ sun / ___ moon", "back": "the sun / the moon (hanya ada satu)" },
+          { "front": "the egg diucapkan?", "back": "/ði eɡ/ (sebelum bunyi vokal)" },
+          { "front": "The Rina?", "back": "Salah — nama orang tanpa the." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u04-l2-q1", "type": "single_choice", "category": "grammar", "topic": "the article",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "___ sun is very hot today.",
+          "instructions": "Berapa banyak matahari di langit kita?",
+          "options": ["A", "An", "The"],
+          "answer": 2,
+          "explanation": "Hanya ada satu matahari, jadi memakai The: The sun is very hot today."
+        },
+        {
+          "id": "a1-u04-l2-q2", "type": "dropdown", "category": "grammar", "topic": "the article",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct articles.",
+          "text": "It's ___ cake. ___ cake is for my mother.",
+          "choices": [["a", "an", "the"], ["A", "An", "The"]],
+          "answers": [0, 2],
+          "explanation": "Pertama kali disebut → a cake. Disebut kedua kali (sudah spesifik) → The cake."
+        },
+        {
+          "id": "a1-u04-l2-q3", "type": "translation", "category": "grammar", "topic": "the article",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Guru itu sangat baik.",
+          "direction": "id-en",
+          "answers": ["The teacher is very kind.", "The teacher is very nice.", "That teacher is very kind.", "That teacher is very nice.", "The teacher is very good."],
+          "explanation": "Guru itu = guru yang spesifik → The teacher. Jangan lupa is: The teacher is very kind."
+        },
+        {
+          "id": "a1-u04-l2-q4", "type": "fill_blank", "category": "grammar", "topic": "the article",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Write a, an or the.",
+          "text": "Mr. Lee is ___ teacher at my school. ___ teacher in Class 3B is Ms. Bell.",
+          "answers": [["a"], ["The"]],
+          "explanation": "Mr. Lee adalah salah satu dari banyak guru → a teacher. Guru Kelas 3B adalah guru yang spesifik → The teacher."
+        },
+        {
+          "id": "a1-u04-l2-q5", "type": "single_choice", "category": "pronunciation", "topic": "the article",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "In which phrase is 'the' pronounced /ði/?",
+          "options": ["the book", "the egg", "the door", "the pen"],
+          "answer": 1,
+          "explanation": "The diucapkan /ði/ sebelum bunyi vokal: the egg. Sebelum konsonan diucapkan /ðə/."
+        },
+        {
+          "id": "a1-u04-l2-q6", "type": "error_identification", "category": "grammar", "topic": "the article",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["The Jakarta", "is", "a big city", "in Indonesia."],
+          "errorIndex": 0,
+          "correction": "Jakarta (tanpa The)",
+          "explanation": "Nama kota seperti Jakarta tidak memakai the."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u04-l3-plurals",
+      "title": "Plural Nouns: Regular and Irregular",
+      "summary": "Membentuk kata benda jamak dengan -s, -es, -ies, -ves, dan bentuk tidak beraturan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menambahkan -s atau -es dengan ejaan yang benar",
+        "Mengubah -y menjadi -ies dan -f/-fe menjadi -ves",
+        "Menghafal kata jamak tidak beraturan (children, people, men...)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Jamak dalam bahasa Inggris\nBahasa Indonesia membuat jamak dengan **mengulang kata** (*buku-buku*) atau memakai kata seperti *dua, banyak*: *dua buku*. Bahasa Inggris **mengubah kata bendanya**, walaupun sudah ada angka: *two book**s*** (bukan ~~two book~~).\n\n### Jamak beraturan\n| Aturan | Tunggal → Jamak |\n| --- | --- |\n| kebanyakan kata: + **s** | book → books, pen → pens, key → keys |\n| berakhiran **s, ss, sh, ch, x**: + **es** | bus → buses, glass → glasses, dish → dishes, watch → watches, box → boxes |\n| konsonan + **y** → **ies** | city → cities, baby → babies |\n| vokal + **y**: + **s** | boy → boys, day → days, key → keys |\n| berakhiran **f / fe** → **ves** | knife → knives, leaf → leaves, wife → wives |\n| beberapa kata berakhiran **o**: + **es** | tomato → tomatoes, potato → potatoes (tetapi photo → photos, piano → pianos) |\n\n### Jamak tidak beraturan\n| Tunggal | Jamak | Arti |\n| --- | --- | --- |\n| man | men | laki-laki |\n| woman | women | perempuan |\n| child | children | anak |\n| person | people | orang |\n| foot | feet | kaki |\n| tooth | teeth | gigi |\n| mouse | mice | tikus |\n| fish | fish | ikan (sama) |\n| sheep | sheep | domba (sama) |\n\nIngat: **children, people, men, women** sudah jamak — jangan tambahkan -s (~~childrens~~, ~~peoples~~).\n\n### Pengucapan akhiran -s/-es\n- /s/ setelah bunyi p, t, k, f: *books, cats*\n- /z/ setelah bunyi lain: *pens, keys, boys*\n- /ɪz/ setelah bunyi s, z, sh, ch, x: *buses, boxes, watches* — ada **tambahan suku kata**.\n\n### Jamak dan to be\nKata benda jamak memakai **are** dan pronoun **they**: *The boxes **are** heavy. **They** are new.* Ingat, a/an tidak dipakai untuk jamak.",
+        "examples": [
+          { "en": "The boxes are heavy.", "id": "Kotak-kotak itu berat." },
+          { "en": "Two children are in the garden.", "id": "Dua anak ada di taman." },
+          { "en": "The knives are in the kitchen.", "id": "Pisau-pisaunya di dapur." },
+          { "en": "Bandung and Bogor are cities in West Java.", "id": "Bandung dan Bogor adalah kota di Jawa Barat." },
+          { "en": "The people in the room are my neighbours.", "id": "Orang-orang di ruangan itu tetangga saya." }
+        ],
+        "vocabulary": [
+          { "word": "box", "pos": "noun", "ipa": "/bɒks/", "meaning": "kotak, kardus", "example": "The boxes are big." },
+          { "word": "child (children)", "pos": "noun", "ipa": "/tʃaɪld/ (/ˈtʃɪldrən/)", "meaning": "anak (anak-anak)", "example": "The children are at school." },
+          { "word": "person (people)", "pos": "noun", "ipa": "/ˈpɜːsn/ (/ˈpiːpl/)", "meaning": "orang (orang-orang)", "example": "Ten people are here." },
+          { "word": "woman (women)", "pos": "noun", "ipa": "/ˈwʊmən/ (/ˈwɪmɪn/)", "meaning": "perempuan", "example": "Two women are at the door." },
+          { "word": "knife (knives)", "pos": "noun", "ipa": "/naɪf/ (/naɪvz/)", "meaning": "pisau", "example": "The knives are sharp." },
+          { "word": "tooth (teeth)", "pos": "noun", "ipa": "/tuːθ/ (/tiːθ/)", "meaning": "gigi", "example": "Her teeth are white." },
+          { "word": "key", "pos": "noun", "ipa": "/kiː/", "meaning": "kunci", "example": "The keys are in my bag." },
+          { "word": "watch", "pos": "noun", "ipa": "/wɒtʃ/", "meaning": "jam tangan", "example": "The watches are expensive." }
+        ],
+        "grammar": [
+          { "pattern": "noun + s / es", "example": "pen → pens, bus → buses" },
+          { "pattern": "konsonan + y → ies; f/fe → ves", "example": "baby → babies, leaf → leaves" },
+          { "pattern": "jamak + are / they", "example": "The women are doctors. They're kind." }
+        ],
+        "mistakes": [
+          { "wrong": "two book", "right": "two books", "why": "Setelah angka lebih dari satu, kata benda harus jamak." },
+          { "wrong": "The childrens are happy.", "right": "The children are happy.", "why": "Children sudah jamak; jangan tambah -s." },
+          { "wrong": "citys, boxs", "right": "cities, boxes", "why": "Konsonan + y → ies; kata berakhiran x → es." }
+        ],
+        "summary": "Jamak beraturan: **+s** (books), **+es** setelah s/sh/ch/x (boxes, watches), **konsonan+y → ies** (cities), **f/fe → ves** (knives). Jamak tidak beraturan: **men, women, children, people, feet, teeth, mice**; **fish** dan **sheep** tidak berubah. Kata benda jamak memakai **are** dan **they**.",
+        "reviewCards": [
+          { "front": "child / person → jamak", "back": "children / people" },
+          { "front": "city / boy → jamak", "back": "cities / boys" },
+          { "front": "knife → jamak", "back": "knives" },
+          { "front": "box / watch → jamak", "back": "boxes / watches (dibaca /ɪz/)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u04-l3-q1", "type": "single_choice", "category": "grammar", "topic": "plurals",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "What is the plural of 'box'?",
+          "instructions": "Kata berakhiran x mendapat -es.",
+          "options": ["boxs", "boxes", "boxies", "box"],
+          "answer": 1,
+          "explanation": "Kata yang berakhiran x mendapat -es: box → boxes."
+        },
+        {
+          "id": "a1-u04-l3-q2", "type": "matching", "category": "grammar", "topic": "irregular plurals",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match the singular nouns with their plurals.",
+          "pairs": [
+            { "left": "child", "right": "children" },
+            { "left": "man", "right": "men" },
+            { "left": "woman", "right": "women" },
+            { "left": "person", "right": "people" },
+            { "left": "tooth", "right": "teeth" },
+            { "left": "foot", "right": "feet" }
+          ],
+          "explanation": "Ini adalah jamak tidak beraturan yang harus dihafal."
+        },
+        {
+          "id": "a1-u04-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "plurals",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the plural forms.",
+          "text": "two ___ (city), three ___ (baby), four ___ (key)",
+          "answers": [["cities"], ["babies"], ["keys"]],
+          "explanation": "Konsonan + y → ies: cities, babies. Vokal + y → tambah s saja: keys."
+        },
+        {
+          "id": "a1-u04-l3-q4", "type": "error_identification", "category": "grammar", "topic": "irregular plurals",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["The", "childs", "are", "at school."],
+          "errorIndex": 1,
+          "correction": "children",
+          "explanation": "Jamak dari child adalah children (tidak beraturan)."
+        },
+        {
+          "id": "a1-u04-l3-q5", "type": "multiple_select", "category": "grammar", "topic": "plurals",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which plural forms are correct? Choose all correct answers.",
+          "options": ["knives", "tomatos", "watches", "boys", "sheeps"],
+          "answers": [0, 2, 3],
+          "explanation": "Benar: knives (fe → ves), watches (ch + es), boys (vokal + y → s). Salah: tomatoes harus memakai -es, dan sheep tidak berubah."
+        },
+        {
+          "id": "a1-u04-l3-q6", "type": "sentence_transformation", "category": "grammar", "topic": "plurals",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Make the sentence plural.",
+          "sentence": "The woman is happy.",
+          "cue": "Mulai dengan: The women ...",
+          "answers": ["The women are happy."],
+          "explanation": "woman → women (tidak beraturan), dan jamak memakai are: The women are happy."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u04-l4-this-that-these-those",
+      "title": "This, That, These, Those",
+      "summary": "Menunjuk benda dekat dan jauh, tunggal dan jamak, serta bertanya What is this? / What are these?",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih this/that/these/those berdasarkan jarak dan jumlah",
+        "Bertanya dan menjawab What's this? / What are those?",
+        "Menjawab dengan it atau they"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dekat atau jauh? Satu atau banyak?\nBahasa Indonesia memakai **ini** (dekat) dan **itu** (jauh) untuk tunggal dan jamak. Bahasa Inggris membedakan juga **jumlahnya**:\n\n| | Dekat (ini) | Jauh (itu) |\n| --- | --- | --- |\n| **Tunggal** | this | that |\n| **Jamak** | these | those |\n\n- *This is my pen.* (Ini pulpen saya — di tangan saya.)\n- *That is my car.* (Itu mobil saya — di seberang jalan.)\n- *These are my keys.* (Ini kunci-kunci saya.)\n- *Those are my friends.* (Itu teman-teman saya — di sana.)\n\n### To be harus sesuai\n**This/that** → **is**; **these/those** → **are**. Bentuk singkat yang umum hanya **that's**: *That's my bag.* (Bentuk ~~this's~~ tidak dipakai dalam tulisan.)\n\n### Bertanya tentang benda\n| Pertanyaan | Jawaban |\n| --- | --- |\n| What's this? / What's that? | **It's** a pen. / **It's** an eraser. |\n| What are these? / What are those? | **They're** keys. / **They're** pencils. |\n\nPerhatikan: dalam jawaban, kita memakai **it** (tunggal) atau **they** (jamak), bukan *this* atau *these* lagi.\n\n### Sebelum kata benda\n*This, that, these, those* juga bisa diletakkan langsung sebelum kata benda:\n- ***this** book* (buku ini), ***that** chair* (kursi itu)\n- ***these** shoes* (sepatu-sepatu ini), ***those** people* (orang-orang itu)\n\nUrutannya kebalikan dari bahasa Indonesia: *buku **ini*** → ***this** book*.\n\n### Memperkenalkan orang\n**This is ...** juga dipakai untuk memperkenalkan orang: *Mum, this is Dina. Dina, this is my mum.*\n\n### Pengucapan\n**this** /ðɪs/ (i pendek) vs **these** /ðiːz/ (i panjang, akhiran *z*). Bedakan dengan jelas agar pendengar tahu tunggal atau jamak.",
+        "examples": [
+          { "en": "What's this? — It's an eraser.", "id": "Apa ini? — Ini penghapus." },
+          { "en": "What are those? — They're bikes.", "id": "Apa itu? — Itu sepeda-sepeda." },
+          { "en": "These shoes are new.", "id": "Sepatu-sepatu ini baru." },
+          { "en": "That's my teacher over there.", "id": "Itu guru saya di sana." },
+          { "en": "Mum, this is my friend Tari.", "id": "Bu, ini teman saya, Tari.", "note": "This is untuk memperkenalkan orang." }
+        ],
+        "vocabulary": [
+          { "word": "this", "pos": "determiner/pronoun", "ipa": "/ðɪs/", "meaning": "ini (tunggal)", "example": "This is my desk." },
+          { "word": "that", "pos": "determiner/pronoun", "ipa": "/ðæt/", "meaning": "itu (tunggal)", "example": "That is a bus." },
+          { "word": "these", "pos": "determiner/pronoun", "ipa": "/ðiːz/", "meaning": "ini (jamak)", "example": "These are my books." },
+          { "word": "those", "pos": "determiner/pronoun", "ipa": "/ðəʊz/", "meaning": "itu (jamak)", "example": "Those are my cousins." },
+          { "word": "eraser", "pos": "noun", "ipa": "/ɪˈreɪzə/", "meaning": "penghapus", "example": "It's an eraser." },
+          { "word": "pencil", "pos": "noun", "ipa": "/ˈpensl/", "meaning": "pensil", "example": "These pencils are new." },
+          { "word": "chair", "pos": "noun", "ipa": "/tʃeə/", "meaning": "kursi", "example": "That chair is old." },
+          { "word": "wallet", "pos": "noun", "ipa": "/ˈwɒlɪt/", "meaning": "dompet", "example": "This is my wallet." }
+        ],
+        "grammar": [
+          { "pattern": "This / That + is + benda tunggal", "example": "That is a chair." },
+          { "pattern": "These / Those + are + benda jamak", "example": "These are pencils." },
+          { "pattern": "What's this/that? → It's ... ; What are these/those? → They're ...", "example": "What are those? — They're keys." }
+        ],
+        "mistakes": [
+          { "wrong": "These is my bag.", "right": "This is my bag.", "why": "Bag tunggal → this is." },
+          { "wrong": "Those is my friends.", "right": "Those are my friends.", "why": "Those (jamak) memakai are." },
+          { "wrong": "What are these? — These are pens.", "right": "What are these? — They're pens.", "why": "Dalam jawaban, gunakan they (atau it untuk tunggal)." },
+          { "wrong": "book this", "right": "this book", "why": "This/that/these/those diletakkan sebelum kata benda." }
+        ],
+        "summary": "**This** (dekat, tunggal), **that** (jauh, tunggal), **these** (dekat, jamak), **those** (jauh, jamak). This/that + **is**; these/those + **are**. Tanya **What's this?** → **It's ...**; **What are these?** → **They're ...**. Letakkan sebelum kata benda: *this book, those people*.",
+        "reviewCards": [
+          { "front": "ini (jamak) / itu (jamak)", "back": "these / those" },
+          { "front": "What are these?", "back": "They're + benda jamak (They're pens.)" },
+          { "front": "buku ini", "back": "this book" },
+          { "front": "this vs these (bunyi)", "back": "/ðɪs/ (pendek) vs /ðiːz/ (panjang)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u04-l4-q1", "type": "single_choice", "category": "grammar", "topic": "demonstratives",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "The bag is in your hand. ___ is my bag.",
+          "instructions": "Satu benda, dekat dengan pembicara.",
+          "options": ["This", "That", "These", "Those"],
+          "answer": 0,
+          "explanation": "Satu benda (tunggal) dan dekat → This."
+        },
+        {
+          "id": "a1-u04-l4-q2", "type": "drag_drop", "category": "grammar", "topic": "demonstratives",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "The books are in your hands. The cars are far away, across the street. Complete the sentences.",
+          "text": "___ are my books. ___ cars are very old.",
+          "bank": ["These", "Those", "This", "That"],
+          "answers": ["These", "Those"],
+          "explanation": "Buku-buku jamak dan dekat → These. Mobil-mobil jamak dan jauh → Those."
+        },
+        {
+          "id": "a1-u04-l4-q3", "type": "dialogue_completion", "category": "conversation", "topic": "demonstratives",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Kiki", "text": "What are these?" },
+            { "speaker": "Mr. Bell", "text": null }
+          ],
+          "options": ["They're keys.", "It's a key.", "These is keys.", "This are keys."],
+          "answer": 0,
+          "explanation": "What are these? (jamak) dijawab dengan They're + benda jamak: They're keys."
+        },
+        {
+          "id": "a1-u04-l4-q4", "type": "sentence_transformation", "category": "grammar", "topic": "demonstratives",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Make the sentence plural.",
+          "sentence": "This is a pen.",
+          "cue": "Ubah ke bentuk jamak.",
+          "answers": ["These are pens."],
+          "explanation": "This → These, is → are, a pen → pens (tanpa a)."
+        },
+        {
+          "id": "a1-u04-l4-q5", "type": "error_identification", "category": "grammar", "topic": "demonstratives",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Those", "is", "my cousins", "over there."],
+          "errorIndex": 1,
+          "correction": "are",
+          "explanation": "Those (jamak) memakai are: Those are my cousins."
+        },
+        {
+          "id": "a1-u04-l4-q6", "type": "word_order", "category": "grammar", "topic": "demonstratives",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Put the words in order to make a question.",
+          "words": ["What", "is", "that", "over", "there?"],
+          "explanation": "Pertanyaan: What + is + that + keterangan tempat (over there)?"
+        }
+      ]
+    },
+    {
+      "slug": "a1-u04-l5-colours-describing",
+      "title": "Colours and Describing Things",
+      "summary": "Menyebut warna dan mendeskripsikan benda dengan kata sifat sebelum kata benda.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyebut warna-warna dasar dalam bahasa Inggris",
+        "Meletakkan kata sifat sebelum kata benda",
+        "Bertanya dan menjawab What colour is it?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Warna (colours)\n| Bahasa Inggris | Arti | Bahasa Inggris | Arti |\n| --- | --- | --- | --- |\n| red | merah | black | hitam |\n| blue | biru | white | putih |\n| green | hijau | grey (gray) | abu-abu |\n| yellow | kuning | brown | cokelat |\n| orange | oranye | pink | merah muda |\n| purple | ungu | | |\n\nTambahkan **light** (muda) atau **dark** (tua): *light blue* (biru muda), *dark green* (hijau tua).\n\n### Kata sifat sebelum kata benda\nIni perbedaan paling penting dengan bahasa Indonesia. Dalam bahasa Indonesia, kata sifat **setelah** kata benda: *mobil **merah***. Dalam bahasa Inggris, kata sifat **sebelum** kata benda: *a **red** car*.\n\n| Bahasa Indonesia | Bahasa Inggris |\n| --- | --- |\n| tas hitam | a black bag |\n| rumah besar | a big house |\n| sepatu baru | new shoes |\n| tas kecil yang biru | a small blue bag |\n\nJika ada ukuran dan warna, urutannya biasanya **ukuran → warna**: *a **big red** apple*.\n\n### Kata sifat tidak berubah\nKata sifat **tidak** mendapat -s untuk jamak: *two **red** cars* (bukan ~~reds cars~~). Kata sifat juga bisa diletakkan setelah to be: *The car is **red**. The shoes are **new**.*\n\n### A/an mengikuti kata sifat\nIngat dari pelajaran 1: *an apple* → *a **red** apple*; *a bag* → *an **orange** bag*.\n\n### Bertanya tentang warna\n- **What colour is it?** — *It's blue.*\n- **What colour are they?** — *They're black.*\n- **What colour is your bag?** — *It's brown.*\n\n*Colour* adalah ejaan British; ejaan Amerika adalah *color*. Keduanya benar.\n\n### Kata sifat lain yang berguna\n**big** (besar) ↔ **small** (kecil), **new** (baru) ↔ **old** (lama/tua), **long** (panjang) ↔ **short** (pendek), **clean** (bersih) ↔ **dirty** (kotor).",
+        "examples": [
+          { "en": "It's a red car.", "id": "Itu mobil merah.", "note": "Kata sifat sebelum kata benda." },
+          { "en": "What colour is your bag? — It's dark blue.", "id": "Tasmu warna apa? — Biru tua." },
+          { "en": "These are new black shoes.", "id": "Ini sepatu hitam yang baru." },
+          { "en": "The walls are white and the door is green.", "id": "Dindingnya putih dan pintunya hijau." },
+          { "en": "It's an orange umbrella.", "id": "Itu payung oranye.", "note": "orange diawali vokal → an." }
+        ],
+        "vocabulary": [
+          { "word": "colour", "pos": "noun", "ipa": "/ˈkʌlə/", "meaning": "warna", "example": "What colour is it?" },
+          { "word": "red", "pos": "adjective", "ipa": "/red/", "meaning": "merah", "example": "a red pen" },
+          { "word": "blue", "pos": "adjective", "ipa": "/bluː/", "meaning": "biru", "example": "The sky is blue." },
+          { "word": "yellow", "pos": "adjective", "ipa": "/ˈjeləʊ/", "meaning": "kuning", "example": "a yellow taxi" },
+          { "word": "grey", "pos": "adjective", "ipa": "/ɡreɪ/", "meaning": "abu-abu", "example": "My cat is grey." },
+          { "word": "brown", "pos": "adjective", "ipa": "/braʊn/", "meaning": "cokelat", "example": "a brown table" },
+          { "word": "big", "pos": "adjective", "ipa": "/bɪɡ/", "meaning": "besar", "example": "a big house" },
+          { "word": "small", "pos": "adjective", "ipa": "/smɔːl/", "meaning": "kecil", "example": "a small bag" },
+          { "word": "new", "pos": "adjective", "ipa": "/njuː/", "meaning": "baru", "example": "These shoes are new." }
+        ],
+        "grammar": [
+          { "pattern": "a/an + adjective + noun", "example": "a green bag, an old chair" },
+          { "pattern": "noun + to be + adjective", "example": "The bag is green." },
+          { "pattern": "What colour is it? / What colour are they?", "example": "What colour are your shoes? — They're white." }
+        ],
+        "mistakes": [
+          { "wrong": "a car red", "right": "a red car", "why": "Kata sifat diletakkan sebelum kata benda." },
+          { "wrong": "two blues pens", "right": "two blue pens", "why": "Kata sifat tidak memakai -s." },
+          { "wrong": "What colour it is?", "right": "What colour is it?", "why": "Dalam pertanyaan, to be (is) diletakkan sebelum subjek." }
+        ],
+        "summary": "Warna dasar: **red, blue, green, yellow, orange, purple, pink, black, white, grey, brown**. Kata sifat diletakkan **sebelum** kata benda (*a red car*) atau **setelah to be** (*The car is red*), dan **tidak** pernah memakai -s. Tanyakan warna dengan **What colour is it?** / **What colour are they?**",
+        "reviewCards": [
+          { "front": "mobil merah", "back": "a red car" },
+          { "front": "What colour is it?", "back": "Warnanya apa? → It's + warna." },
+          { "front": "two ___ (blue) pens", "back": "two blue pens (tanpa -s)" },
+          { "front": "biru muda / hijau tua", "back": "light blue / dark green" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u04-l5-q1", "type": "single_choice", "category": "grammar", "topic": "adjective order",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Which phrase is correct?",
+          "instructions": "Kata sifat diletakkan sebelum kata benda.",
+          "options": ["a car red", "a red car", "a reds car", "red a car"],
+          "answer": 1,
+          "explanation": "Dalam bahasa Inggris, kata sifat (red) diletakkan sebelum kata benda (car): a red car."
+        },
+        {
+          "id": "a1-u04-l5-q2", "type": "matching", "category": "vocabulary", "topic": "colours",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the Indonesian colour words with the English words.",
+          "pairs": [
+            { "left": "merah", "right": "red" },
+            { "left": "biru", "right": "blue" },
+            { "left": "hijau", "right": "green" },
+            { "left": "kuning", "right": "yellow" },
+            { "left": "hitam", "right": "black" },
+            { "left": "putih", "right": "white" }
+          ],
+          "explanation": "merah = red, biru = blue, hijau = green, kuning = yellow, hitam = black, putih = white."
+        },
+        {
+          "id": "a1-u04-l5-q3", "type": "word_order", "category": "grammar", "topic": "adjective order",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["This", "is", "a", "small", "blue", "bag"],
+          "explanation": "Pola: This is + a + ukuran (small) + warna (blue) + kata benda (bag)."
+        },
+        {
+          "id": "a1-u04-l5-q4", "type": "translation", "category": "grammar", "topic": "adjective order",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Ini mobil merah.",
+          "direction": "id-en",
+          "answers": ["This is a red car.", "It's a red car.", "It is a red car."],
+          "explanation": "Ini = This is; mobil merah = a red car (kata sifat sebelum kata benda, ditambah a)."
+        },
+        {
+          "id": "a1-u04-l5-q5", "type": "error_identification", "category": "grammar", "topic": "adjective order",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["They are", "blues", "pens."],
+          "errorIndex": 1,
+          "correction": "blue",
+          "explanation": "Kata sifat tidak memakai -s walaupun kata bendanya jamak: blue pens."
+        },
+        {
+          "id": "a1-u04-l5-q6", "type": "dialogue_completion", "category": "conversation", "topic": "colours",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Nina", "text": "What colour is your new phone?" },
+            { "speaker": "Rafi", "text": null }
+          ],
+          "options": ["It's white.", "It's a phone.", "They're white.", "Yes, it is."],
+          "answer": 0,
+          "explanation": "Pertanyaan tentang warna satu benda dijawab It's + warna: It's white."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u04-t-q1", "type": "multiple_select", "category": "grammar", "topic": "articles a an",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which phrases are correct? Choose all correct answers.",
+      "options": ["an hour", "a umbrella", "an university", "a uniform", "an orange"],
+      "answers": [0, 3, 4],
+      "explanation": "Benar: an hour (h tidak dibaca), a uniform (bunyi /j/), an orange (bunyi vokal). Salah: an umbrella dan a university yang benar."
+    },
+    {
+      "id": "a1-u04-t-q2", "type": "dropdown", "category": "grammar", "topic": "demonstratives",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "The keys are in your hand. The wallet is on a table across the room. Choose the correct words.",
+      "text": "___ are my keys, and ___ is my wallet.",
+      "choices": [["This", "These", "Those"], ["this", "those", "that"]],
+      "answers": [1, 2],
+      "explanation": "Kunci: jamak dan dekat → These. Dompet: tunggal dan jauh → that."
+    },
+    {
+      "id": "a1-u04-t-q3", "type": "fill_blank", "category": "grammar", "topic": "irregular plurals",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Write the plural forms.",
+      "text": "Three ___ (woman) and two ___ (child) are in the waiting room.",
+      "answers": [["women"], ["children"]],
+      "explanation": "woman → women, child → children (jamak tidak beraturan)."
+    },
+    {
+      "id": "a1-u04-t-q4", "type": "sentence_correction", "category": "grammar", "topic": "the article",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "Moon is very bright tonight.",
+      "answers": ["The moon is very bright tonight."],
+      "explanation": "Hanya ada satu bulan di langit, jadi memakai the: The moon."
+    },
+    {
+      "id": "a1-u04-t-q5", "type": "error_identification", "category": "grammar", "topic": "articles a an",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["These", "are", "a", "red pens."],
+      "errorIndex": 2,
+      "correction": "(hapus a) These are red pens.",
+      "explanation": "A/an tidak dipakai dengan kata benda jamak (pens)."
+    },
+    {
+      "id": "a1-u04-t-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "colours",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Grass and leaves are usually this colour. It's ___.",
+      "options": ["green", "red", "grey", "pink"],
+      "answer": 0,
+      "explanation": "Rumput dan daun berwarna hijau = green."
+    },
+    {
+      "id": "a1-u04-t-q7", "type": "sentence_reconstruction", "category": "writing", "topic": "describing things",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the parts in order to make one sentence.",
+      "fragments": ["These are", "my new", "black shoes,", "and that is", "my old bag."],
+      "explanation": "Kata sifat (new, black, old) diletakkan sebelum kata benda; these + are untuk jamak, that + is untuk tunggal."
+    },
+    {
+      "id": "a1-u04-t-q8", "type": "translation", "category": "grammar", "topic": "demonstratives",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English. (Buku-bukunya jauh dari pembicara.)",
+      "source": "Itu buku-buku saya.",
+      "direction": "id-en",
+      "answers": ["Those are my books.", "They are my books.", "They're my books."],
+      "explanation": "Itu (jauh) + jamak = Those; Those + are: Those are my books."
+    },
+    {
+      "id": "a1-u04-t-q9", "type": "single_choice", "category": "conversation", "topic": "demonstratives",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "A: What's this? B: ___",
+      "options": ["It's an eraser.", "This is an eraser it.", "It's a eraser.", "Its an eraser."],
+      "answer": 0,
+      "explanation": "What's this? dijawab It's + a/an + benda. Eraser diawali bunyi vokal → an. Its tanpa apostrof adalah possessive."
+    }
+  ]
+}

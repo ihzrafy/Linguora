@@ -1,0 +1,534 @@
+{
+  "slug": "a2-u08-experiences",
+  "number": 8,
+  "title": "Have You Ever...?",
+  "description": "Membicarakan pengalaman hidup dengan present perfect: bentuk have/has + past participle, ever/never, perbedaan been dan gone, serta beralih ke past simple untuk memberi detail.",
+  "objectives": [
+    "Membentuk present perfect dengan have/has + past participle",
+    "Menghafal past participle kata kerja umum",
+    "Bertanya dan menjawab dengan Have you ever...? dan never",
+    "Membedakan been dan gone serta present perfect dan past simple"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u08-l1-present-perfect-form",
+      "title": "Present Perfect: Have/Has + Past Participle",
+      "summary": "Membentuk present perfect untuk membicarakan pengalaman tanpa waktu yang spesifik.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk kalimat positif dan negatif present perfect",
+        "Memahami bahwa present perfect dipakai untuk pengalaman tanpa waktu yang spesifik"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu present perfect?\n**Present perfect** dipakai untuk membicarakan **pengalaman** dalam hidup seseorang **sampai sekarang**, ketika **waktunya tidak penting** atau tidak disebutkan.\n\n*I **have visited** Singapore three times.* (Saya sudah pernah mengunjungi Singapura tiga kali.)\n\nKita tidak tahu kapan — yang penting adalah **pengalamannya**.\n\n### Pola\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Positif | subject + **have/has** + past participle | *She **has worked** in a bank.* |\n| Negatif | subject + **haven't/hasn't** + past participle | *We **haven't tried** Thai food.* |\n\n| Subjek | have/has | Bentuk singkat |\n| --- | --- | --- |\n| I / you / we / they | have | I**'ve**, you**'ve**, we**'ve**, they**'ve** |\n| he / she / it | has | he**'s**, she**'s**, it**'s** |\n\nHati-hati: **he's** bisa berarti *he is* atau *he has*. Lihat kata setelahnya: *He's tired* (is), *He's worked here* (has + participle).\n\n### Past participle kata kerja beraturan\nUntuk kata kerja beraturan, past participle **sama dengan** past simple (berakhiran **-ed**): *visit → visited → **visited***, *try → tried → **tried***, *study → studied → **studied***. Aturan ejaannya sama dengan Unit 2.\n\nKata kerja tidak beraturan punya bentuk sendiri (*eat → ate → **eaten***). Kamu akan mempelajarinya di Lesson 2.\n\n### Perbedaan dengan bahasa Indonesia\nPresent perfect sering diterjemahkan dengan *sudah pernah* atau *pernah*:\n- *I have cooked rendang.* = Saya pernah memasak rendang.\n- *I haven't tried it.* = Saya belum pernah mencobanya.\n\n### Jangan pakai waktu spesifik\nPresent perfect **tidak** dipakai dengan keterangan waktu lampau yang spesifik seperti *yesterday, last year, in 2019, two days ago*. Untuk itu, gunakan past simple (akan dibahas di Lesson 5).\n- ✗ *I have visited Bali last year.*\n- ✓ *I have visited Bali.* (pengalaman)\n- ✓ *I visited Bali last year.* (waktu spesifik)",
+        "examples": [
+          { "en": "I've visited Singapore three times.", "id": "Saya sudah pernah ke Singapura tiga kali.", "note": "pengalaman, tanpa waktu spesifik" },
+          { "en": "My mother has worked in three different hospitals.", "id": "Ibu saya pernah bekerja di tiga rumah sakit yang berbeda.", "note": "has + worked" },
+          { "en": "We haven't tried Ethiopian food.", "id": "Kami belum pernah mencoba makanan Etiopia.", "note": "negatif: haven't + participle" },
+          { "en": "She's studied Japanese and Korean.", "id": "Dia pernah belajar bahasa Jepang dan Korea.", "note": "she's = she has" }
+        ],
+        "vocabulary": [
+          { "word": "experience", "pos": "noun", "ipa": "/ɪkˈspɪəriəns/", "meaning": "pengalaman", "example": "Working abroad was a great experience." },
+          { "word": "abroad", "pos": "adverb", "ipa": "/əˈbrɔːd/", "meaning": "ke/di luar negeri", "example": "My brother hasn't travelled abroad." },
+          { "word": "try", "pos": "verb", "ipa": "/traɪ/", "meaning": "mencoba", "example": "Have you tried this cake?" },
+          { "word": "different", "pos": "adjective", "ipa": "/ˈdɪfrənt/", "meaning": "berbeda", "example": "I've lived in four different cities." },
+          { "word": "times", "pos": "noun", "ipa": "/taɪmz/", "meaning": "kali (frekuensi)", "example": "She has visited Bali many times." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + have/has + past participle", "example": "They've travelled to many countries.", "note": "Pengalaman sampai sekarang." },
+          { "pattern": "Subject + haven't/hasn't + past participle", "example": "He hasn't cooked dinner before.", "note": "Belum pernah." }
+        ],
+        "mistakes": [
+          { "wrong": "He have worked in a hotel.", "right": "He has worked in a hotel.", "why": "He/she/it memakai has." },
+          { "wrong": "I have visit Lombok.", "right": "I have visited Lombok.", "why": "Setelah have/has, pakai past participle (visited)." },
+          { "wrong": "I have visited Bali last year.", "right": "I visited Bali last year.", "why": "Waktu spesifik di masa lalu (last year) memakai past simple." }
+        ],
+        "summary": "**Present perfect = have/has + past participle.** Dipakai untuk **pengalaman** tanpa waktu spesifik (*I've visited Japan*). Negatif: **haven't/hasn't**. Kata kerja beraturan: participle = bentuk -ed. Jangan gabungkan dengan *yesterday, last year, in 2019*.",
+        "reviewCards": [
+          { "front": "Saya pernah bekerja di hotel.", "back": "I've worked in a hotel." },
+          { "front": "he/she/it + ___ + participle", "back": "has" },
+          { "front": "Dia belum pernah mencoba sushi.", "back": "She hasn't tried sushi." },
+          { "front": "Present perfect + last year?", "back": "Tidak! Pakai past simple: I visited Bali last year." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u08-l1-q1", "type": "single_choice", "category": "grammar", "topic": "present perfect", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: My aunt ___ visited Japan twice.",
+          "options": ["has", "have", "is", "did"], "answer": 0,
+          "explanation": "My aunt = she → has + past participle.",
+          "misconception": "Memakai have untuk semua subjek."
+        },
+        {
+          "id": "a2-u08-l1-q2", "type": "fill_blank", "category": "grammar", "topic": "present perfect", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the present perfect of the verbs in brackets.",
+          "text": "I ___ (visit) Singapore three times, but my brother ___ (not / travel) abroad.",
+          "answers": [["have visited", "'ve visited"], ["hasn't travelled", "has not travelled", "hasn't traveled", "has not traveled"]],
+          "explanation": "I → have visited. My brother (he) → hasn't travelled."
+        },
+        {
+          "id": "a2-u08-l1-q3", "type": "word_order", "category": "grammar", "topic": "present perfect", "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["My", "parents", "have", "lived", "in", "three", "different", "countries."],
+          "explanation": "Subjek + have + past participle (lived) + keterangan."
+        },
+        {
+          "id": "a2-u08-l1-q4", "type": "error_identification", "category": "grammar", "topic": "present perfect", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["He", "have", "worked", "in a hotel before."],
+          "errorIndex": 1, "correction": "has",
+          "explanation": "He memakai has: He has worked..."
+        },
+        {
+          "id": "a2-u08-l1-q5", "type": "sentence_transformation", "category": "grammar", "topic": "present perfect", "difficulty": 2, "stage": "quiz",
+          "prompt": "Rewrite the sentence in the negative form.",
+          "sentence": "I have tried durian.",
+          "cue": "Make it negative.",
+          "answers": ["I haven't tried durian.", "I have not tried durian."],
+          "explanation": "Negatif present perfect: haven't + past participle."
+        },
+        {
+          "id": "a2-u08-l1-q6", "type": "multiple_select", "category": "grammar", "topic": "present perfect", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["We've climbed that hill.", "She has play tennis for her school.", "They haven't cooked Thai food.", "He's danced on TV.", "I has studied Korean."],
+          "answers": [0, 2, 3],
+          "explanation": "She has play → She has played. I has → I have. Kalimat 1, 3, dan 4 sudah benar (He's = He has)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u08-l2-past-participles",
+      "title": "Past Participles of Common Verbs",
+      "summary": "Menghafal past participle kata kerja tidak beraturan yang paling umum.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan past participle kata kerja tidak beraturan yang umum",
+        "Membedakan past simple dan past participle (ate vs eaten)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tiga bentuk kata kerja\nSetiap kata kerja punya tiga bentuk utama: **base form – past simple – past participle**. Untuk present perfect, kita butuh bentuk **ketiga**.\n\n### Kelompok 1: past simple = past participle\nKabar baik: banyak kata kerja tidak beraturan punya bentuk 2 dan 3 yang **sama**.\n\n| Base | Past simple | Past participle |\n| --- | --- | --- |\n| buy | bought | **bought** |\n| make | made | **made** |\n| have | had | **had** |\n| meet | met | **met** |\n| lose | lost | **lost** |\n| win | won | **won** |\n| read | read /red/ | **read** /red/ |\n\n### Kelompok 2: bentuk ketiga berbeda\nKelompok ini harus dihafal dengan teliti.\n\n| Base | Past simple | Past participle |\n| --- | --- | --- |\n| be | was/were | **been** |\n| go | went | **gone / been** |\n| see | saw | **seen** |\n| eat | ate | **eaten** |\n| do | did | **done** |\n| take | took | **taken** |\n| write | wrote | **written** |\n| give | gave | **given** |\n| drive | drove | **driven** |\n| ride | rode | **ridden** |\n| fly | flew | **flown** |\n| swim | swam | **swum** |\n| break | broke | **broken** |\n\n### Pola bunyi yang membantu\n- Banyak participle berakhiran **-en/-n**: *eaten, taken, written, given, driven, ridden, broken, seen, flown*.\n- Pola vokal **i – a – u**: *swim – swam – **swum***, *drink – drank – **drunk***, *begin – began – **begun***.\n\n### Kesalahan paling umum\nMemakai past simple setelah *have/has*:\n- ✗ *I have ate sushi.* → ✓ *I have **eaten** sushi.*\n- ✗ *She has went to Bali.* → ✓ *She has **been** to Bali.*\n- ✗ *They have saw the film.* → ✓ *They have **seen** the film.*\n\n### Tips menghafal\nUcapkan tiga bentuk dengan ritme: *see – saw – seen, eat – ate – eaten, write – wrote – written*. Buat kalimat tentang dirimu: *I've written a poem. I've eaten frog legs. I've never ridden a horse.*",
+        "examples": [
+          { "en": "I've seen that film three times.", "id": "Saya sudah menonton film itu tiga kali.", "note": "see – saw – seen" },
+          { "en": "She has written two books about cooking.", "id": "Dia sudah menulis dua buku tentang memasak.", "note": "write – wrote – written" },
+          { "en": "We've eaten at that restaurant before.", "id": "Kami pernah makan di restoran itu sebelumnya.", "note": "eat – ate – eaten" },
+          { "en": "My uncle has driven a bus and flown a small plane.", "id": "Paman saya pernah mengemudikan bus dan menerbangkan pesawat kecil.", "note": "driven, flown" }
+        ],
+        "vocabulary": [
+          { "word": "seen", "pos": "past participle (see)", "ipa": "/siːn/", "meaning": "dilihat, ditonton (bentuk ke-3)", "example": "Have you seen my keys?" },
+          { "word": "eaten", "pos": "past participle (eat)", "ipa": "/ˈiːtn/", "meaning": "dimakan (bentuk ke-3)", "example": "I've eaten too much." },
+          { "word": "written", "pos": "past participle (write)", "ipa": "/ˈrɪtn/", "meaning": "ditulis (bentuk ke-3)", "example": "He has written a song." },
+          { "word": "flown", "pos": "past participle (fly)", "ipa": "/fləʊn/", "meaning": "diterbangkan, terbang (bentuk ke-3)", "example": "Have you flown with this airline?" },
+          { "word": "won", "pos": "past participle (win)", "ipa": "/wʌn/", "meaning": "memenangkan (bentuk ke-2 dan ke-3)", "example": "Our school has won the trophy." },
+          { "word": "prize", "pos": "noun", "ipa": "/praɪz/", "meaning": "hadiah (lomba)", "example": "She has won a prize for her photos." }
+        ],
+        "grammar": [
+          { "pattern": "have/has + past participle (3rd form)", "example": "I've taken a lot of photos.", "note": "Bukan past simple (took)." },
+          { "pattern": "base – past – participle", "example": "drive – drove – driven", "note": "Hafalkan tiga bentuk sekaligus." }
+        ],
+        "mistakes": [
+          { "wrong": "I have ate sushi.", "right": "I have eaten sushi.", "why": "Setelah have, pakai past participle: eaten." },
+          { "wrong": "They have saw the new film.", "right": "They have seen the new film.", "why": "Past participle dari see adalah seen." },
+          { "wrong": "He has swimmed in the sea.", "right": "He has swum in the sea.", "why": "Swim adalah kata kerja tidak beraturan: swim – swam – swum." }
+        ],
+        "summary": "Present perfect butuh **past participle** (bentuk ke-3). Sebagian sama dengan past simple (*bought, made, met, won*), sebagian berbeda (*seen, eaten, done, taken, written, flown, swum, been*). Jangan pakai past simple setelah have/has.",
+        "reviewCards": [
+          { "front": "eat – ate – ?", "back": "eaten" },
+          { "front": "write – wrote – ?", "back": "written" },
+          { "front": "swim – swam – ?", "back": "swum" },
+          { "front": "do – did – ?", "back": "done" },
+          { "front": "fly – flew – ?", "back": "flown" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u08-l2-q1", "type": "single_choice", "category": "grammar", "topic": "past participles", "difficulty": 1, "stage": "guided",
+          "prompt": "What is the past participle of eat?",
+          "options": ["eaten", "ate", "eated", "eating"], "answer": 0,
+          "explanation": "eat – ate – eaten. Ate adalah past simple, eaten adalah past participle.",
+          "misconception": "Memakai past simple sebagai past participle."
+        },
+        {
+          "id": "a2-u08-l2-q2", "type": "matching", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each verb with its past participle.",
+          "pairs": [
+            { "left": "see", "right": "seen" },
+            { "left": "write", "right": "written" },
+            { "left": "fly", "right": "flown" },
+            { "left": "swim", "right": "swum" },
+            { "left": "take", "right": "taken" }
+          ],
+          "explanation": "see – saw – seen, write – wrote – written, fly – flew – flown, swim – swam – swum, take – took – taken."
+        },
+        {
+          "id": "a2-u08-l2-q3", "type": "fill_blank", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the past participle of the verbs in brackets.",
+          "text": "My grandfather has ___ (write) two books, and he has ___ (win) a prize for one of them.",
+          "answers": [["written"], ["won"]],
+          "explanation": "write → written; win → won (bentuk ke-2 dan ke-3 sama)."
+        },
+        {
+          "id": "a2-u08-l2-q4", "type": "error_identification", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["She", "has", "ate", "sushi", "many times."],
+          "errorIndex": 2, "correction": "eaten",
+          "explanation": "Setelah has, pakai past participle: eaten."
+        },
+        {
+          "id": "a2-u08-l2-q5", "type": "dropdown", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct forms.",
+          "text": "I've ___ that film three times, and my sister has ___ it twice.",
+          "choices": [["saw", "seen", "see"], ["seen", "saw", "seeing"]],
+          "answers": [1, 0],
+          "explanation": "Setelah have/has, pakai past participle: seen."
+        },
+        {
+          "id": "a2-u08-l2-q6", "type": "single_choice", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which verb has the SAME past simple and past participle form?",
+          "options": ["buy", "go", "eat", "see"], "answer": 0,
+          "explanation": "buy – bought – bought. Yang lain berbeda: went/gone, ate/eaten, saw/seen."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u08-l3-ever-never",
+      "title": "Have You Ever...? Ever and Never",
+      "summary": "Bertanya tentang pengalaman dengan Have you ever...? dan menjawab dengan never serta short answer.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat pertanyaan Have/Has + subject + ever + past participle?",
+        "Menggunakan never dan short answers: Yes, I have / No, I haven't"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba latihan berbicara, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Have you ever...?\nUntuk menanyakan pengalaman seseorang **sepanjang hidupnya**, gunakan **ever** (pernah):\n\n**Have/Has + subject + ever + past participle?**\n\n- *Have you **ever** eaten durian?* (Apakah kamu pernah makan durian?)\n- *Has your sister **ever** ridden a horse?*\n\n### Short answers\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Have you ever...? | Yes, I **have**. | No, I **haven't**. |\n| Has she ever...? | Yes, she **has**. | No, she **hasn't**. |\n| Have they ever...? | Yes, they **have**. | No, they **haven't**. |\n\n✗ *Yes, I have eaten.* (terlalu panjang dan tidak alami sebagai short answer) — cukup *Yes, I have.*\n\n### Never = tidak pernah\n**Never** sudah bermakna negatif, jadi dipakai dengan **have/has** (positif), bukan *haven't*:\n- ✓ *I've **never** ridden a horse.* (Saya belum pernah naik kuda.)\n- ✗ *I haven't never ridden a horse.* (double negative)\n\nKamu juga bisa berkata *I haven't **ever**...*, tetapi *I've never...* jauh lebih umum.\n\n### Posisi ever dan never\nKeduanya diletakkan **di antara have/has dan past participle**:\n\n| Benar | Salah |\n| --- | --- |\n| Have you **ever** tried it? | ✗ Have you tried ever it? |\n| She has **never** flown. | ✗ She never has flown. |\n\n### Ever hanya untuk pertanyaan\nDalam kalimat positif biasa, kita **tidak** memakai *ever*:\n- ✗ *I have ever seen snow.*\n- ✓ *I have seen snow.* atau ✓ *I've never seen snow.*\n\n### Menambahkan jumlah\nUntuk menjawab dengan detail jumlah: *once* (sekali), *twice* (dua kali), *three times*, *many times*.\n- *Have you ever eaten sushi? — Yes, I have. I've eaten it **twice**.*\n\n### Tips percakapan\n*Have you ever...?* adalah cara bagus untuk memulai obrolan dan mengenal orang baru. Pertanyaan tentang tempat (*Have you ever been to...?*) akan dibahas di Lesson 4.",
+        "examples": [
+          { "en": "Have you ever eaten durian? — Yes, I have. I love it!", "id": "Kamu pernah makan durian? — Pernah. Saya suka sekali!", "note": "pertanyaan + short answer" },
+          { "en": "I've never ridden a horse.", "id": "Saya belum pernah naik kuda.", "note": "never + participle" },
+          { "en": "Has your father ever lost his wallet? — No, he hasn't.", "id": "Apakah ayahmu pernah kehilangan dompet? — Tidak pernah.", "note": "Has ... ever ...?" },
+          { "en": "We've seen a shooting star twice.", "id": "Kami pernah melihat bintang jatuh dua kali.", "note": "twice = dua kali" }
+        ],
+        "vocabulary": [
+          { "word": "ever", "pos": "adverb", "ipa": "/ˈevə/", "meaning": "pernah (dalam pertanyaan)", "example": "Have you ever met a famous singer?" },
+          { "word": "never", "pos": "adverb", "ipa": "/ˈnevə/", "meaning": "tidak pernah, belum pernah", "example": "I've never seen snow." },
+          { "word": "once", "pos": "adverb", "ipa": "/wʌns/", "meaning": "sekali", "example": "I've flown only once." },
+          { "word": "twice", "pos": "adverb", "ipa": "/twaɪs/", "meaning": "dua kali", "example": "She has visited Medan twice." },
+          { "word": "horse", "pos": "noun", "ipa": "/hɔːs/", "meaning": "kuda", "example": "Have you ever ridden a horse?" }
+        ],
+        "grammar": [
+          { "pattern": "Have/Has + subject + ever + past participle?", "example": "Have you ever broken your arm?", "note": "ever di antara subjek dan participle." },
+          { "pattern": "Subject + have/has + never + past participle", "example": "He has never driven a car.", "note": "never = tidak pernah (jangan pakai haven't)." }
+        ],
+        "mistakes": [
+          { "wrong": "I haven't never seen snow.", "right": "I've never seen snow.", "why": "Never sudah negatif; jangan gabung dengan haven't." },
+          { "wrong": "Did you ever eat durian? — Yes, I have.", "right": "Have you ever eaten durian? — Yes, I have.", "why": "Pertanyaan pengalaman sepanjang hidup memakai present perfect, dan jawabannya harus cocok." },
+          { "wrong": "I have ever met a famous person.", "right": "I have met a famous person.", "why": "Ever dipakai dalam pertanyaan, bukan dalam kalimat positif biasa." }
+        ],
+        "summary": "Tanyakan pengalaman dengan **Have/Has + subject + ever + past participle?** Jawab: **Yes, I have / No, I haven't**. Gunakan **I've never + participle** untuk tidak pernah. Jangan gabungkan *never* dengan *haven't*.",
+        "reviewCards": [
+          { "front": "Kamu pernah naik kuda?", "back": "Have you ever ridden a horse?" },
+          { "front": "Saya belum pernah melihat salju.", "back": "I've never seen snow." },
+          { "front": "Has she ever ...? (tidak)", "back": "No, she hasn't." },
+          { "front": "dua kali", "back": "twice" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u08-l3-q1", "type": "dropdown", "category": "grammar", "topic": "ever/never", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct words.",
+          "text": "A: Have you ___ eaten durian? B: No, I've ___ tried it.",
+          "choices": [["ever", "never", "yet"], ["never", "ever", "not"]],
+          "answers": [0, 0],
+          "explanation": "Pertanyaan pengalaman memakai ever. Jawaban 'belum pernah' dengan I've memakai never.",
+          "misconception": "Memakai not setelah I've: I've not tried masih mungkin, tetapi untuk 'tidak pernah' yang tepat adalah never."
+        },
+        {
+          "id": "a2-u08-l3-q2", "type": "short_answer", "category": "grammar", "topic": "ever/never", "difficulty": 2, "stage": "independent",
+          "prompt": "Write a negative short answer: Has your brother ever driven a bus?",
+          "answers": ["No, he hasn't.", "No, he has not."],
+          "explanation": "Your brother = he. Pertanyaan Has...? dijawab No, he hasn't."
+        },
+        {
+          "id": "a2-u08-l3-q3", "type": "speaking_response", "category": "speaking", "topic": "life experiences", "difficulty": 2, "stage": "independent",
+          "prompt": "Answer these questions about yourself in full sentences: Have you ever eaten something strange? Have you ever met a famous person? Have you ever won a prize? Say how many times if you can.",
+          "targetPhrases": ["Yes, I have", "No, I haven't", "I've never", "twice"],
+          "sampleAnswer": "Yes, I have. I've eaten fried insects. I tried them at a night market, and they were crunchy! No, I haven't met a famous person, but I've seen a famous singer at a concert. And yes, I've won a prize twice. I've won two drawing competitions at school.",
+          "explanation": "Mulai dengan short answer (Yes, I have / No, I haven't), lalu tambahkan kalimat present perfect dengan detail jumlah (once, twice)."
+        },
+        {
+          "id": "a2-u08-l3-q4", "type": "sentence_correction", "category": "grammar", "topic": "ever/never", "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "I haven't never seen snow.",
+          "answers": ["I have never seen snow.", "I've never seen snow.", "I haven't ever seen snow.", "I have not ever seen snow."],
+          "explanation": "Never sudah bermakna negatif, jadi gunakan I've never seen snow (atau I haven't ever seen snow)."
+        },
+        {
+          "id": "a2-u08-l3-q5", "type": "single_choice", "category": "grammar", "topic": "ever/never", "difficulty": 1, "stage": "quiz",
+          "prompt": "Choose the correct word: ___ you ever met a famous person?",
+          "options": ["Have", "Did", "Has", "Are"], "answer": 0,
+          "explanation": "Pertanyaan pengalaman: Have + you + ever + past participle (met)."
+        },
+        {
+          "id": "a2-u08-l3-q6", "type": "translation", "category": "grammar", "topic": "ever/never", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya belum pernah naik pesawat.", "direction": "id-en",
+          "answers": [
+            "I've never flown.",
+            "I have never flown.",
+            "I've never flown in a plane.",
+            "I have never flown in a plane.",
+            "I've never travelled by plane.",
+            "I have never travelled by plane.",
+            "I've never traveled by plane.",
+            "I've never taken a plane.",
+            "I have never taken a plane.",
+            "I've never been on a plane.",
+            "I have never been on a plane.",
+            "I haven't ever flown."
+          ],
+          "explanation": "Belum pernah = have never + past participle. Naik pesawat = fly / travel by plane / take a plane."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u08-l4-been-gone",
+      "title": "Been or Gone?",
+      "summary": "Membedakan has been (sudah pergi dan kembali) dan has gone (sudah pergi dan belum kembali).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan been to untuk pengalaman mengunjungi tempat",
+        "Membedakan been dan gone"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dua participle untuk go\nKata kerja **go** punya **dua** past participle dengan arti berbeda:\n\n| Bentuk | Arti | Orangnya sekarang di mana? |\n| --- | --- | --- |\n| **has/have been** to | pernah pergi **dan sudah kembali** | sudah kembali |\n| **has/have gone** to | sudah pergi **dan belum kembali** | masih di sana / dalam perjalanan |\n\n### Contoh\n- *Rina **has been** to Japan.* → Rina pernah ke Jepang (sekarang sudah pulang). Ini **pengalaman**.\n- *Rina **has gone** to Japan.* → Rina sudah berangkat ke Jepang (sekarang dia ada di sana, tidak di sini).\n\n### Have you ever been to...?\nPertanyaan paling umum tentang pengalaman bepergian memakai **been**:\n- *Have you ever **been to** Sulawesi?* — *Yes, I have. I've been there twice.*\n- *I've never **been to** a K-pop concert.*\n\nPerhatikan: dengan *there*, tidak ada *to*: ✓ *I've been **there***, ✗ *I've been to there*.\n\n### Gone untuk menjelaskan ketidakhadiran\n*Gone* sering dipakai untuk menjelaskan **mengapa seseorang tidak ada**:\n- *A: Where's Pak Budi? B: He's **gone** to a meeting.* (Dia sedang rapat — tidak di sini.)\n- *Sorry, the manager has **gone** home.* (Manajernya sudah pulang.)\n\n### Tips: siapa yang bisa berkata \"I've gone\"?\nKarena *gone* berarti orangnya **tidak di sini**, kita hampir tidak pernah berkata ✗ *I've gone to Bali* — kalau kamu sedang berbicara di sini, berarti kamu sudah kembali! Gunakan ✓ *I've been to Bali.*\n\n### Ringkasan\n| Situasi | Kalimat |\n| --- | --- |\n| pengalaman | *She's **been** to Paris three times.* |\n| orangnya sedang pergi | *She's **gone** to Paris. She's coming back next month.* |\n| tidak pernah | *She's never **been** to Paris.* |",
+        "examples": [
+          { "en": "Have you ever been to Sulawesi? — Yes, I've been there twice.", "id": "Kamu pernah ke Sulawesi? — Ya, saya sudah dua kali ke sana.", "note": "been to / been there" },
+          { "en": "Sari isn't here. She's gone to the bank.", "id": "Sari tidak di sini. Dia sedang pergi ke bank.", "note": "gone = belum kembali" },
+          { "en": "My parents have never been to a cinema.", "id": "Orang tua saya belum pernah ke bioskop.", "note": "never been to" },
+          { "en": "The children have gone to bed. The house is quiet now.", "id": "Anak-anak sudah tidur. Rumah sekarang sepi.", "note": "gone to bed" }
+        ],
+        "vocabulary": [
+          { "word": "been to", "pos": "phrase", "ipa": "/biːn tuː/", "meaning": "pernah ke (dan sudah kembali)", "example": "I've been to Lombok." },
+          { "word": "gone to", "pos": "phrase", "ipa": "/ɡɒn tuː/", "meaning": "sudah pergi ke (belum kembali)", "example": "He's gone to work." },
+          { "word": "there", "pos": "adverb", "ipa": "/ðeə/", "meaning": "ke sana, di sana", "example": "I've been there many times." },
+          { "word": "come back", "pos": "phrasal verb", "ipa": "/kʌm bæk/", "meaning": "kembali", "example": "She's coming back on Friday." },
+          { "word": "abroad", "pos": "adverb", "ipa": "/əˈbrɔːd/", "meaning": "ke luar negeri", "example": "My uncle has gone abroad for work." }
+        ],
+        "grammar": [
+          { "pattern": "have/has been to + place", "example": "We've been to that museum.", "note": "Pengalaman (sudah kembali)." },
+          { "pattern": "have/has gone to + place", "example": "Mum has gone to the market.", "note": "Belum kembali." },
+          { "pattern": "have/has been there (no to)", "example": "Have you been there?", "note": "Tanpa to sebelum there." }
+        ],
+        "mistakes": [
+          { "wrong": "I've gone to Bali three times.", "right": "I've been to Bali three times.", "why": "Pengalaman yang sudah selesai (sudah kembali) memakai been." },
+          { "wrong": "Have you ever been in there?", "right": "Have you ever been there?", "why": "Tidak memakai preposisi sebelum there." },
+          { "wrong": "Dad isn't home. He's been to the shop.", "right": "Dad isn't home. He's gone to the shop.", "why": "Ayah belum kembali, jadi memakai gone." }
+        ],
+        "summary": "**been to** = pernah pergi dan **sudah kembali** (pengalaman). **gone to** = sudah pergi dan **belum kembali**. Tanyakan pengalaman bepergian dengan *Have you ever been to...?* dan ingat: *been there* tanpa *to*.",
+        "reviewCards": [
+          { "front": "She's been to Japan.", "back": "Dia pernah ke Jepang (sudah kembali)." },
+          { "front": "She's gone to Japan.", "back": "Dia sudah berangkat ke Jepang (sekarang di sana)." },
+          { "front": "Kamu pernah ke Bali?", "back": "Have you ever been to Bali?" },
+          { "front": "been ___ there?", "back": "been there (tanpa to)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u08-l4-q1", "type": "single_choice", "category": "grammar", "topic": "been vs gone", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: Sari isn't here at the moment. She's ___ to the bank.",
+          "options": ["gone", "been"], "answer": 0,
+          "explanation": "Sari belum kembali (tidak ada di sini), jadi memakai gone.",
+          "misconception": "Memakai been untuk orang yang masih pergi."
+        },
+        {
+          "id": "a2-u08-l4-q2", "type": "fill_blank", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the dialogue with been or gone.",
+          "text": "A: Have you ever ___ to Lombok? B: Yes, twice! A: And where's your brother? B: He's ___ to Lombok again. He's there now.",
+          "answers": [["been"], ["gone"]],
+          "explanation": "Pengalaman (sudah kembali) → been. Kakaknya masih di sana → gone."
+        },
+        {
+          "id": "a2-u08-l4-q3", "type": "matching", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each sentence with its meaning.",
+          "pairs": [
+            { "left": "She has gone to Japan.", "right": "She is in Japan now." },
+            { "left": "She has been to Japan.", "right": "She visited Japan and came back." },
+            { "left": "She has never been to Japan.", "right": "She has not visited Japan in her life." }
+          ],
+          "explanation": "gone = masih di sana; been = sudah kembali; never been = tidak pernah ke sana."
+        },
+        {
+          "id": "a2-u08-l4-q4", "type": "single_choice", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct option: I've ___ to that restaurant three times. The food is great.",
+          "options": ["been", "gone", "went", "go"], "answer": 0,
+          "explanation": "Pengalaman (sudah tiga kali dan sudah kembali) → been."
+        },
+        {
+          "id": "a2-u08-l4-q5", "type": "error_identification", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["My parents", "have", "gone", "to Bali", "five times."],
+          "errorIndex": 2, "correction": "been",
+          "explanation": "Five times menunjukkan pengalaman yang sudah selesai (sudah kembali), jadi memakai been."
+        },
+        {
+          "id": "a2-u08-l4-q6", "type": "sentence_transformation", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "quiz",
+          "prompt": "Rewrite the information with the present perfect.",
+          "sentence": "Rina went to Paris once, and she came back.",
+          "cue": "Begin with: Rina has ...",
+          "answers": ["Rina has been to Paris.", "Rina has been to Paris once."],
+          "explanation": "Pergi dan sudah kembali → has been to."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u08-l5-experiences-achievements",
+      "title": "Experiences, Achievements and Adventures",
+      "summary": "Kosakata pengalaman dan petualangan, serta beralih dari present perfect ke past simple untuk memberi detail.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata pengalaman, prestasi, dan petualangan",
+        "Memakai present perfect untuk pengalaman dan past simple untuk detail (kapan, di mana)"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis tentang pengalamanmu, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kosakata petualangan dan prestasi\n| Pengalaman | Arti |\n| --- | --- |\n| climb a mountain | mendaki gunung |\n| go scuba diving | menyelam (scuba) |\n| go white-water rafting | arung jeram |\n| ride a camel / an elephant | naik unta / gajah |\n| run a marathon | lari maraton |\n| win a competition / a prize | memenangkan lomba / hadiah |\n| give a speech | berpidato |\n| learn a musical instrument | belajar alat musik |\n| try street food | mencoba jajanan kaki lima |\n\nKata sifat yang berguna: **brave** (berani), **scary** (menakutkan), **amazing** (luar biasa), **unforgettable** (tak terlupakan), **proud** (bangga).\n\n### Present perfect → past simple\nDalam percakapan, kita biasanya **memulai** dengan present perfect (pengalaman umum), lalu **beralih** ke past simple untuk memberi **detail** (kapan, di mana, bagaimana).\n\n*A: **Have** you ever **been** scuba diving?* (pengalaman — present perfect)\n*B: Yes, I **have**. I **went** diving in Wakatobi two years ago.* (detail waktu — past simple)\n*A: Wow! **Was** it scary?*\n*B: A little, but it **was** amazing. I **saw** a turtle!*\n\n### Aturan sederhana\n| Present perfect | Past simple |\n| --- | --- |\n| waktu **tidak** disebutkan | waktu **disebutkan** |\n| *I've climbed Mount Rinjani.* | *I climbed it **in 2019**.* |\n| *Have you ever won a prize?* | *When did you win it?* |\n\nKata-kata seperti *yesterday, last year, in 2019, two years ago, when I was ten* → **selalu past simple**.\n\n### Pertanyaan lanjutan\nSetelah seseorang menjawab *Yes, I have*, tanyakan detail dengan **past simple**:\n- *When **did** you **go**?*\n- *Who **did** you **go** with?*\n- *How **was** it?*\n- *What **did** you **see**?*\n\n✗ *When have you gone?* — salah, karena *when* menanyakan waktu spesifik.\n\n### Menulis tentang pengalaman\nStruktur paragraf sederhana: (1) kalimat present perfect tentang pengalaman, (2) detail past simple, (3) perasaan dengan was/were.",
+        "examples": [
+          { "en": "I've climbed Mount Rinjani. I climbed it with my cousins in 2019.", "id": "Saya pernah mendaki Gunung Rinjani. Saya mendakinya bersama sepupu pada 2019.", "note": "present perfect → past simple" },
+          { "en": "Have you ever won a competition? — Yes. I won a singing contest last year.", "id": "Kamu pernah memenangkan lomba? — Ya. Saya menang lomba menyanyi tahun lalu.", "note": "detail dengan last year" },
+          { "en": "When did you go white-water rafting? — Two years ago.", "id": "Kapan kamu arung jeram? — Dua tahun lalu.", "note": "When + past simple" },
+          { "en": "It was the most unforgettable day of my life.", "id": "Itu hari paling tak terlupakan dalam hidupku.", "note": "perasaan + superlative" }
+        ],
+        "vocabulary": [
+          { "word": "adventure", "pos": "noun", "ipa": "/ədˈventʃə/", "meaning": "petualangan", "example": "The trip was a real adventure." },
+          { "word": "achievement", "pos": "noun", "ipa": "/əˈtʃiːvmənt/", "meaning": "prestasi, pencapaian", "example": "Finishing the marathon was a big achievement." },
+          { "word": "brave", "pos": "adjective", "ipa": "/breɪv/", "meaning": "berani", "example": "You're very brave!" },
+          { "word": "scary", "pos": "adjective", "ipa": "/ˈskeəri/", "meaning": "menakutkan", "example": "The rafting trip was a bit scary." },
+          { "word": "unforgettable", "pos": "adjective", "ipa": "/ˌʌnfəˈɡetəbl/", "meaning": "tak terlupakan", "example": "Our holiday was unforgettable." },
+          { "word": "marathon", "pos": "noun", "ipa": "/ˈmærəθən/", "meaning": "maraton", "example": "My aunt has run three marathons." }
+        ],
+        "grammar": [
+          { "pattern": "Have you ever + participle? → Yes, I have. + past simple detail", "example": "Have you ever ridden a camel? Yes, I have. I rode one in Egypt.", "note": "Dari pengalaman ke detail." },
+          { "pattern": "When / Where / Who + did + subject + base verb?", "example": "Where did you stay?", "note": "Pertanyaan detail memakai past simple." }
+        ],
+        "mistakes": [
+          { "wrong": "I have climbed Mount Rinjani in 2018.", "right": "I climbed Mount Rinjani in 2018.", "why": "Waktu spesifik (in 2018) memakai past simple." },
+          { "wrong": "When have you been to Bali?", "right": "When did you go to Bali?", "why": "When menanyakan waktu spesifik, jadi memakai past simple." },
+          { "wrong": "Yes, I have. I have gone diving last year.", "right": "Yes, I have. I went diving last year.", "why": "Detail dengan last year memakai past simple." }
+        ],
+        "summary": "Mulai dengan **present perfect** untuk pengalaman (*Have you ever...? / I've...*), lalu beralih ke **past simple** untuk detail (*I went there last year. It was amazing.*). Gunakan kosakata petualangan dan prestasi: *climb, go scuba diving, win a prize, brave, unforgettable*.",
+        "reviewCards": [
+          { "front": "petualangan", "back": "adventure" },
+          { "front": "prestasi", "back": "achievement" },
+          { "front": "Present perfect atau past simple? ... in 2019", "back": "Past simple (waktu spesifik)" },
+          { "front": "Kapan kamu ke sana?", "back": "When did you go there?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u08-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "experiences", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word: My cousin is very ___. He has jumped out of a plane and swum with sharks.",
+          "options": ["brave", "lazy", "polite", "patient"], "answer": 0,
+          "explanation": "Melompat dari pesawat dan berenang dengan hiu → orang yang berani (brave).",
+          "misconception": "Memilih patient (sabar) yang tidak cocok dengan konteks."
+        },
+        {
+          "id": "a2-u08-l5-q2", "type": "dialogue_completion", "category": "conversation", "topic": "present perfect vs past simple", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the best follow-up question.",
+          "dialogue": [
+            { "speaker": "Wira", "text": "Have you ever been scuba diving?" },
+            { "speaker": "Citra", "text": "Yes, I have!" },
+            { "speaker": "Wira", "text": null },
+            { "speaker": "Citra", "text": "Two years ago, in Sulawesi." }
+          ],
+          "options": ["When did you go?", "When have you gone?", "When do you go?", "When you went?"], "answer": 0,
+          "explanation": "Pertanyaan tentang waktu spesifik memakai past simple: When did you go?"
+        },
+        {
+          "id": "a2-u08-l5-q3", "type": "essay", "category": "writing", "topic": "experiences", "difficulty": 3, "stage": "independent",
+          "prompt": "Write about two interesting experiences in your life. For each one, start with the present perfect (I've...), then give details in the past simple (when, where, who with) and say how you felt.",
+          "minWords": 60, "maxWords": 120, "rubric": "general-writing",
+          "explanation": "Contoh struktur: I've climbed a volcano. I climbed it in 2022 with my friends. It was scary but amazing."
+        },
+        {
+          "id": "a2-u08-l5-q4", "type": "dropdown", "category": "grammar", "topic": "present perfect vs past simple", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct forms.",
+          "text": "I ___ to Japan. I ___ there in 2019 with my family.",
+          "choices": [["have been", "went"], ["went", "have been"]],
+          "answers": [0, 0],
+          "explanation": "Kalimat pertama = pengalaman tanpa waktu → have been. Kalimat kedua ada waktu spesifik (in 2019) → went."
+        },
+        {
+          "id": "a2-u08-l5-q5", "type": "fill_blank", "category": "grammar", "topic": "present perfect vs past simple", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the dialogue with one word in the first gap and the correct form of win in the second gap.",
+          "text": "A: Have you ever won a prize? B: Yes, I ___. I ___ (win) a photography competition last year.",
+          "answers": [["have"], ["won"]],
+          "explanation": "Short answer: Yes, I have. Detail dengan last year → past simple: won."
+        },
+        {
+          "id": "a2-u08-l5-q6", "type": "single_choice", "category": "grammar", "topic": "present perfect vs past simple", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["I have climbed Mount Rinjani in 2018.", "I climbed Mount Rinjani in 2018.", "I have climb Mount Rinjani.", "I did climbed Mount Rinjani."], "answer": 1,
+          "explanation": "In 2018 adalah waktu spesifik, jadi memakai past simple: I climbed..."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u08-t-q1", "type": "single_choice", "category": "grammar", "topic": "past participles", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct option: Have you ever ___ a camel?",
+      "options": ["ridden", "rode", "ride", "riding"], "answer": 0,
+      "explanation": "ride – rode – ridden. Setelah have, pakai past participle."
+    },
+    {
+      "id": "a2-u08-t-q2", "type": "fill_blank", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete with the past participle of the verb in brackets.",
+      "text": "My grandmother is 80, but she has never ___ (fly) in a plane.",
+      "answers": [["flown"]],
+      "explanation": "fly – flew – flown."
+    },
+    {
+      "id": "a2-u08-t-q3", "type": "sentence_correction", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "I have went to Bandung many times.",
+      "answers": ["I have been to Bandung many times.", "I've been to Bandung many times."],
+      "explanation": "Went adalah past simple. Untuk pengalaman pergi dan kembali, pakai have been to."
+    },
+    {
+      "id": "a2-u08-t-q4", "type": "dialogue_completion", "category": "conversation", "topic": "been vs gone", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        { "speaker": "Visitor", "text": "Excuse me, is Mr. Hasan in his office?" },
+        { "speaker": "Secretary", "text": null }
+      ],
+      "options": ["No, sorry. He's gone to a meeting.", "No, sorry. He's been to a meeting.", "No, he has went home.", "Yes, he's gone."], "answer": 0,
+      "explanation": "Pak Hasan sedang tidak ada (belum kembali) → He's gone to a meeting."
+    },
+    {
+      "id": "a2-u08-t-q5", "type": "matching", "category": "grammar", "topic": "past participles", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each verb with its past participle.",
+      "pairs": [
+        { "left": "break", "right": "broken" },
+        { "left": "give", "right": "given" },
+        { "left": "do", "right": "done" },
+        { "left": "lose", "right": "lost" }
+      ],
+      "explanation": "break – broke – broken, give – gave – given, do – did – done, lose – lost – lost."
+    },
+    {
+      "id": "a2-u08-t-q6", "type": "word_order", "category": "grammar", "topic": "ever/never", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["Has", "your", "sister", "ever", "tried", "Korean", "food?"],
+      "explanation": "Has + subjek + ever + past participle + objek."
+    },
+    {
+      "id": "a2-u08-t-q7", "type": "translation", "category": "grammar", "topic": "been vs gone", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English. (Dia = a woman)",
+      "source": "Dia belum pernah ke Bali.", "direction": "id-en",
+      "answers": ["She has never been to Bali.", "She's never been to Bali.", "She hasn't ever been to Bali.", "She has not ever been to Bali.", "She hasn't been to Bali.", "She has not been to Bali."],
+      "explanation": "Belum pernah ke = has never been to."
+    }
+  ]
+}

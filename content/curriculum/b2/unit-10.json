@@ -1,0 +1,660 @@
+{
+  "slug": "b2-u10-collocations",
+  "number": 10,
+  "title": "Natural English at Work",
+  "description": "Sound natural in professional and academic situations with verb + noun collocations (make, do, take, have), phrasal verbs for work and study, adjective + preposition combinations, and common business collocations.",
+  "objectives": [
+    "Choose correctly between make, do, take and have in common collocations",
+    "Use phrasal verbs for work and study accurately, including word order with pronouns",
+    "Use adjectives with the correct dependent prepositions",
+    "Use business and career collocations in meetings, emails and interviews"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u10-l1-make-and-do",
+      "title": "Collocations with Make and Do",
+      "summary": "Membedakan kolokasi dengan make dan do.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Understand the general difference between make (create/produce) and do (activities/tasks)",
+        "Learn the most common fixed collocations with make and do",
+        "Avoid typical errors such as do a mistake and make homework"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Why collocations matter\nA **collocation** is a combination of words that native speakers naturally use together. *Make a mistake* sounds natural; *do a mistake* sounds wrong, even though the meaning is clear. Collocations are one of the main differences between B1 and B2 English.\n\n### The general rule\n| make | do |\n| --- | --- |\n| create, produce, build something new | perform an activity, task or job |\n| *make a cake, make a plan, make a film* | *do the housework, do your homework, do a course* |\n\nBut many collocations are simply **fixed** and must be learned.\n\n### Common collocations with make\n| Category | Collocations |\n| --- | --- |\n| communication | make a **phone call**, make a **complaint**, make a **suggestion**, make a **comment**, make an **excuse**, make a **promise** |\n| decisions & plans | make a **decision**, make **plans**, make an **arrangement**, make an **appointment** |\n| results | make **progress**, make a **profit/loss**, make **money**, make a **difference**, make a **mistake** |\n| effort | make an **effort**, make **sure** |\n| others | make **friends**, make **room/space**, make the **bed** |\n\n### Common collocations with do\n| Category | Collocations |\n| --- | --- |\n| work & study | do **homework**, do **research**, do a **course**, do an **exam** (BrE), do **business** |\n| housework | do the **shopping**, do the **washing-up**, do the **cleaning**, do the **laundry** |\n| general | do **your best**, do **someone a favour**, do **harm/good**, do **damage**, do **well/badly** |\n| *-ing* activities | do **some reading/writing/exercise** |\n\n### Tricky pairs\n| ✓ | ✗ |\n| --- | --- |\n| make a mistake | do a mistake |\n| do homework | make homework |\n| make progress | do progress |\n| do research | make research |\n| do someone a favour | make someone a favour |\n| make an effort | do an effort |\n\n### Learning tip\nRecord collocations as chunks in sentences, not single words: *We've made a lot of progress, but we still need to do more research.*\n\n> **Catatan:** Bahasa Indonesia memakai *membuat* dan *melakukan* dengan cara yang berbeda, jadi jangan menerjemahkan langsung. *Membuat kesalahan* = **make** a mistake (cocok), tetapi *mengerjakan PR* = **do** homework, dan *melakukan penelitian* = **do** research. Hafalkan sebagai paket.",
+        "examples": [
+          { "en": "Could you do me a favour and check this report?", "id": "Bisakah kamu membantu saya dan memeriksa laporan ini?", "note": "do someone a favour" },
+          { "en": "We need to make a decision by Friday.", "id": "Kita harus mengambil keputusan paling lambat Jumat.", "note": "make a decision" },
+          { "en": "She's doing research on renewable energy.", "id": "Dia sedang melakukan penelitian tentang energi terbarukan.", "note": "do research" },
+          { "en": "The new manager has really made a difference.", "id": "Manajer baru itu benar-benar membawa perubahan.", "note": "make a difference" }
+        ],
+        "vocabulary": [
+          { "word": "collocation", "pos": "noun", "ipa": "/ˌkɒləˈkeɪʃn/", "meaning": "kolokasi (kata yang lazim berpasangan)", "example": "'Make a mistake' is a common collocation." },
+          { "word": "make an effort", "pos": "phrase", "ipa": "/ˌmeɪk ən ˈefət/", "meaning": "berusaha", "example": "Please make an effort to arrive on time." },
+          { "word": "do a favour", "pos": "phrase", "ipa": "/ˌduː ə ˈfeɪvə/", "meaning": "membantu (seseorang)", "example": "Can you do me a favour?" },
+          { "word": "make a profit", "pos": "phrase", "ipa": "/ˌmeɪk ə ˈprɒfɪt/", "meaning": "mendapat keuntungan", "example": "The café made a profit in its first year." },
+          { "word": "do harm", "pos": "phrase", "ipa": "/ˌduː ˈhɑːm/", "meaning": "merugikan, membahayakan", "example": "A short break won't do any harm." }
+        ],
+        "grammar": [
+          { "pattern": "make + a decision / a mistake / an effort / progress / a difference", "example": "Small changes can make a big difference.", "note": "Results, decisions, effort." },
+          { "pattern": "do + homework / research / a course / the shopping / your best", "example": "I'm doing an online course.", "note": "Tasks and activities." },
+          { "pattern": "do + someone + a favour", "example": "Could you do me a favour?", "note": "Fixed expression." }
+        ],
+        "mistakes": [
+          { "wrong": "I did a mistake in the report.", "right": "I made a mistake in the report.", "why": "The collocation is make a mistake." },
+          { "wrong": "Have you made your homework?", "right": "Have you done your homework?", "why": "We do homework." },
+          { "wrong": "They are making a research on climate change.", "right": "They are doing research on climate change.", "why": "We do research (and research is usually uncountable)." }
+        ],
+        "summary": "**make** = create/produce and many fixed chunks (*a decision, a mistake, progress, an effort, a difference, a complaint, a phone call*). **do** = tasks and activities (*homework, research, a course, the shopping, your best, someone a favour*). Learn them as chunks. *Ringkasan: jangan terjemahkan langsung; hafalkan kolokasinya.*",
+        "reviewCards": [
+          { "front": "make or do: ___ a mistake", "back": "make a mistake" },
+          { "front": "make or do: ___ research", "back": "do research" },
+          { "front": "make or do: ___ progress", "back": "make progress" },
+          { "front": "make or do: ___ someone a favour", "back": "do someone a favour" },
+          { "front": "make or do: ___ an effort", "back": "make an effort" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u10-l1-q1", "type": "dropdown", "category": "vocabulary", "topic": "make and do",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct verb.",
+          "instructions": "Hint: this is a fixed expression for asking for help.",
+          "text": "Could you ___ me a favour and close the window?",
+          "choices": [["do", "make", "take"]],
+          "answers": [0],
+          "explanation": "The fixed collocation is **do someone a favour**."
+        },
+        {
+          "id": "b2-u10-l1-q2", "type": "multiple_select", "category": "vocabulary", "topic": "make and do",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which nouns collocate with MAKE? Select all that apply.",
+          "options": ["a mistake", "an effort", "the housework", "a complaint", "your best"],
+          "answers": [0, 1, 3],
+          "explanation": "**make a mistake, make an effort, make a complaint**. We say *do the housework* and *do your best*."
+        },
+        {
+          "id": "b2-u10-l1-q3", "type": "fill_blank", "category": "vocabulary", "topic": "make and do",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct form of make or do.",
+          "text": "I'm so sorry. I ___ a mistake on your invoice. I'll send you a corrected one today.",
+          "answers": [["made", "have made"]],
+          "explanation": "The collocation is **make a mistake** → *I made (have made) a mistake*."
+        },
+        {
+          "id": "b2-u10-l1-q4", "type": "error_identification", "category": "vocabulary", "topic": "make and do",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Our design team", "did a lot of progress", "on the new website", "this month."],
+          "errorIndex": 1,
+          "correction": "made a lot of progress",
+          "explanation": "We **make progress**, not *do progress*."
+        },
+        {
+          "id": "b2-u10-l1-q5", "type": "dropdown", "category": "vocabulary", "topic": "make and do",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct verbs.",
+          "text": "Before the guests arrive, I have to ___ the shopping and ___ the beds.",
+          "choices": [["do", "make", "take"], ["make", "do", "take"]],
+          "answers": [0, 0],
+          "explanation": "**do the shopping** (a household task) and **make the beds** (a fixed collocation)."
+        },
+        {
+          "id": "b2-u10-l1-q6", "type": "translation", "category": "vocabulary", "topic": "make and do",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya sudah berusaha sebaik mungkin.",
+          "direction": "id-en",
+          "answers": [
+            "I've done my best.",
+            "I have done my best.",
+            "I did my best.",
+            "I've tried my best.",
+            "I have tried my best.",
+            "I tried my best.",
+            "I've done the best I can.",
+            "I've done the best I could."
+          ],
+          "explanation": "*Berusaha sebaik mungkin* = **do your best** (not *make my best*): *I've done my best.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u10-l2-take-and-have",
+      "title": "Collocations with Take and Have",
+      "summary": "Kolokasi umum dengan take dan have dalam konteks kerja dan belajar.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use common collocations with take (take part in, take place, take into account)",
+        "Use common collocations with have (have a look, have a word with, have difficulty)",
+        "Avoid errors such as make a photo and do part in"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Collocations with take\n| Collocation | Meaning | Example |\n| --- | --- | --- |\n| take a break | rest for a short time | Let's **take a** ten-minute **break**. |\n| take a photo | photograph | Can you **take a photo** of us? |\n| take part (in) | participate | Twenty teams **took part in** the competition. |\n| take place | happen (planned events) | The conference **takes place** in March. |\n| take notes | write notes | Please **take notes** during the meeting. |\n| take responsibility (for) | accept that you are responsible | She **took responsibility for** the error. |\n| take advantage of | use an opportunity | **Take advantage of** the free training. |\n| take something into account | consider | We must **take the cost into account**. |\n| take a risk / a chance | do something risky | He **took a risk** and started a company. |\n\n### Collocations with have\n| Collocation | Meaning | Example |\n| --- | --- | --- |\n| have a look (at) | look | Can I **have a look at** your notes? |\n| have a go / a try | try | **Have a go** — it's easy! |\n| have a word (with sb) | speak briefly, often privately | Could I **have a word with** you? |\n| have a chat | talk informally | We **had a** quick **chat** after the meeting. |\n| have a meeting | meet formally | We're **having a meeting** at 3. |\n| have an argument | argue | They **had an argument** about money. |\n| have difficulty / trouble (in) + -ing | find it hard | I'm **having difficulty understanding** the software. |\n\n### take a break or have a break?\nBoth are correct. *Have a break* is slightly more British; *take a break* is common everywhere.\n\n### Watch the grammar\n- *take place* is **intransitive** and never passive: ✗ *The meeting was taken place.*\n- *have difficulty* + **-ing** (not *to*): ✗ *I have difficulty to understand.*\n- *take part* **in** (not *at* or *on*).\n- *take into account*: with a short object, put it in the middle: *take **the cost** into account*.\n\n> **Catatan:** *Ambil foto* = **take** a photo (bukan *make a photo*). *Ikut serta* = **take part in**. *Berlangsung* (acara) = **take place**. *Saya kesulitan memahami ...* = **I'm having difficulty understanding ...** (pakai -ing).",
+        "examples": [
+          { "en": "The conference will take place in Surabaya next March.", "id": "Konferensi itu akan berlangsung di Surabaya Maret mendatang.", "note": "take place" },
+          { "en": "More than two hundred students took part in the debate.", "id": "Lebih dari dua ratus mahasiswa ikut serta dalam debat itu.", "note": "take part in" },
+          { "en": "Could I have a word with you after the meeting?", "id": "Bisakah saya bicara sebentar dengan Anda setelah rapat?", "note": "have a word with" },
+          { "en": "I'm having difficulty understanding the new software.", "id": "Saya kesulitan memahami perangkat lunak baru itu.", "note": "have difficulty + -ing" }
+        ],
+        "vocabulary": [
+          { "word": "take part in", "pos": "phrase", "ipa": "/ˌteɪk ˈpɑːt ɪn/", "meaning": "ikut serta dalam", "example": "Everyone should take part in the discussion." },
+          { "word": "take place", "pos": "phrase", "ipa": "/ˌteɪk ˈpleɪs/", "meaning": "berlangsung", "example": "The ceremony took place outdoors." },
+          { "word": "take into account", "pos": "phrase", "ipa": "/ˌteɪk ˌɪntu əˈkaʊnt/", "meaning": "mempertimbangkan", "example": "Please take my experience into account." },
+          { "word": "take advantage of", "pos": "phrase", "ipa": "/ˌteɪk ədˈvɑːntɪdʒ əv/", "meaning": "memanfaatkan", "example": "Take advantage of the discount." },
+          { "word": "have a word with", "pos": "phrase", "ipa": "/ˌhæv ə ˈwɜːd wɪð/", "meaning": "berbicara sebentar dengan", "example": "I'll have a word with the manager." }
+        ],
+        "grammar": [
+          { "pattern": "take part in + noun / -ing", "example": "She took part in organising the event.", "note": "Preposition in." },
+          { "pattern": "take + object + into account", "example": "We took the weather into account.", "note": "Object usually in the middle." },
+          { "pattern": "have difficulty / trouble + (in) + -ing", "example": "He had trouble finding a job.", "note": "Not to-infinitive." }
+        ],
+        "mistakes": [
+          { "wrong": "She made a photo of the sunset.", "right": "She took a photo of the sunset.", "why": "We take a photo." },
+          { "wrong": "The meeting was taken place in Room 4.", "right": "The meeting took place in Room 4.", "why": "Take place is intransitive and cannot be passive." },
+          { "wrong": "I have difficulty to understand his accent.", "right": "I have difficulty understanding his accent.", "why": "Have difficulty is followed by -ing." }
+        ],
+        "summary": "**take**: a break, a photo, part in, place, notes, responsibility, advantage of, into account, a risk. **have**: a look, a go, a word with, a chat, a meeting, an argument, difficulty + -ing. *Take place* is never passive. *Ringkasan: ambil foto = take a photo; ikut serta = take part in.*",
+        "reviewCards": [
+          { "front": "take place", "back": "berlangsung (never passive)" },
+          { "front": "take part in", "back": "ikut serta dalam" },
+          { "front": "have a word with someone", "back": "berbicara sebentar (sering secara pribadi)" },
+          { "front": "have difficulty + ?", "back": "-ing (I have difficulty understanding...)" },
+          { "front": "take something into account", "back": "mempertimbangkan sesuatu" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u10-l2-q1", "type": "dropdown", "category": "vocabulary", "topic": "take and have",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct verb.",
+          "instructions": "Hint: '___ place' means 'happen'.",
+          "text": "The conference will ___ place in Surabaya next March.",
+          "choices": [["take", "have", "make"]],
+          "answers": [0],
+          "explanation": "**take place** = happen (for planned events)."
+        },
+        {
+          "id": "b2-u10-l2-q2", "type": "matching", "category": "vocabulary", "topic": "take and have",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "take part in", "right": "participate in" },
+            { "left": "take advantage of", "right": "make good use of an opportunity" },
+            { "left": "have a word with", "right": "speak briefly with someone" },
+            { "left": "take into account", "right": "consider something when deciding" },
+            { "left": "have a go", "right": "try to do something" }
+          ],
+          "explanation": "These are high-frequency collocations in workplace English."
+        },
+        {
+          "id": "b2-u10-l2-q3", "type": "fill_blank", "category": "grammar", "topic": "have difficulty",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct form of the verb in brackets.",
+          "text": "I'm having difficulty ___ (understand) the new accounting software.",
+          "answers": [["understanding"]],
+          "explanation": "**have difficulty + -ing**: *I'm having difficulty understanding...*"
+        },
+        {
+          "id": "b2-u10-l2-q4", "type": "multiple_select", "category": "vocabulary", "topic": "take and have",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Select ALL the natural, correct sentences.",
+          "options": [
+            "Let's take a short break.",
+            "Can I have a look at your notes?",
+            "She made a photo of the sunset.",
+            "We need to take responsibility for our mistakes.",
+            "They did part in the competition."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "Correct: **take a break, have a look, take responsibility**. We say *take a photo* and *take part in*."
+        },
+        {
+          "id": "b2-u10-l2-q5", "type": "error_identification", "category": "vocabulary", "topic": "take part in",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["During the meeting,", "everyone", "made part", "in the discussion."],
+          "errorIndex": 2,
+          "correction": "took part",
+          "explanation": "The collocation is **take part in** (ikut serta)."
+        },
+        {
+          "id": "b2-u10-l2-q6", "type": "sentence_transformation", "category": "vocabulary", "topic": "take into account",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence using take ... into account.",
+          "sentence": "We should consider the cost.",
+          "cue": "Begin with: We should take ...",
+          "answers": [
+            "We should take the cost into account.",
+            "We should take into account the cost."
+          ],
+          "explanation": "*Consider* = **take ... into account**. With a short object, the most natural position is in the middle: *take the cost into account*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u10-l3-phrasal-verbs-work-study",
+      "title": "Phrasal Verbs for Work and Study",
+      "summary": "Phrasal verb yang sering dipakai di tempat kerja dan dunia akademik, termasuk urutan kata dengan pronoun.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use common phrasal verbs for work and study (carry out, set up, take on, put off, hand in)",
+        "Distinguish separable and inseparable phrasal verbs",
+        "Place object pronouns correctly (put it off, not put off it)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Key phrasal verbs\n| Phrasal verb | Meaning | Example |\n| --- | --- | --- |\n| carry out | do (research, a survey, a task) | We **carried out** a survey of 500 customers. |\n| set up | start (a company, a meeting) | She **set up** her own business in 2022. |\n| take on | employ; accept work | We're **taking on** three new staff. / Don't **take on** too much. |\n| put off | postpone | The meeting has been **put off** until Friday. |\n| hand in | submit (work) | Please **hand in** your essays by Monday. |\n| come up with | think of (an idea) | He **came up with** a brilliant solution. |\n| look into | investigate | We'll **look into** your complaint. |\n| deal with | handle | Who's **dealing with** this client? |\n| run out of | have none left | We've **run out of** paper. |\n| catch up on | do things you didn't have time for | I need to **catch up on** my emails. |\n| follow up (on) | take further action | I'll **follow up on** our conversation. |\n| fill in | complete (a form) | **Fill in** the application form. |\n\n### Separable or inseparable?\n**Separable** phrasal verbs (verb + particle) can have the object in the middle or at the end:\n- *Hand **your essays** in.* / *Hand in **your essays**.*\n- With a **pronoun**, the object MUST go in the middle: *Hand **them** in.* (✗ *Hand in them.*)\n- Examples: *carry out, set up, put off, hand in, fill in, take on*.\n\n**Inseparable** phrasal verbs keep the verb and particle together:\n- *Look **into** it.* (✗ *Look it into.*)\n- *Deal **with** them.* / *Come up **with** an idea.* / *Run out **of** time.*\n- Three-part phrasal verbs (*come up with, run out of, catch up on*) are always inseparable.\n\n### Formal alternatives\nIn formal writing, you can often use a one-word verb: *carry out → conduct*, *put off → postpone*, *look into → investigate*, *set up → establish*, *hand in → submit*. Both are correct; choose according to style.\n\n> **Catatan:** Phrasal verb sulit karena maknanya tidak bisa ditebak dari kata per kata. *Put off* = menunda (bukan 'menaruh mati'). Ingat aturan pronoun: **put it off** ✓, **put off it** ✗. Untuk tulisan formal, gunakan padanan satu kata (*postpone, submit, investigate*).",
+        "examples": [
+          { "en": "The meeting has been put off until next week because the director is ill.", "id": "Rapat itu ditunda sampai minggu depan karena direkturnya sakit.", "note": "put off = postpone" },
+          { "en": "Researchers carried out interviews with 300 teachers.", "id": "Para peneliti melakukan wawancara dengan 300 guru.", "note": "carry out" },
+          { "en": "She came up with a great idea for the campaign.", "id": "Dia mendapat ide hebat untuk kampanye itu.", "note": "come up with (inseparable)" },
+          { "en": "Your essays are due tomorrow. Please hand them in before nine.", "id": "Esai kalian harus dikumpulkan besok. Tolong serahkan sebelum jam sembilan.", "note": "Pronoun in the middle." }
+        ],
+        "vocabulary": [
+          { "word": "carry out", "pos": "phrasal verb", "ipa": "/ˌkæri ˈaʊt/", "meaning": "melaksanakan, melakukan", "example": "The tests were carried out in a lab." },
+          { "word": "put off", "pos": "phrasal verb", "ipa": "/ˌpʊt ˈɒf/", "meaning": "menunda", "example": "Don't put off important decisions." },
+          { "word": "take on", "pos": "phrasal verb", "ipa": "/ˌteɪk ˈɒn/", "meaning": "merekrut; menerima (tugas)", "example": "The firm took on ten graduates." },
+          { "word": "come up with", "pos": "phrasal verb", "ipa": "/ˌkʌm ˈʌp wɪð/", "meaning": "menemukan/menghasilkan (ide)", "example": "We need to come up with a new slogan." },
+          { "word": "catch up on", "pos": "phrasal verb", "ipa": "/ˌkætʃ ˈʌp ɒn/", "meaning": "mengejar ketertinggalan", "example": "I spent Sunday catching up on work." },
+          { "word": "run out of", "pos": "phrasal verb", "ipa": "/ˌrʌn ˈaʊt əv/", "meaning": "kehabisan", "example": "We ran out of time." }
+        ],
+        "grammar": [
+          { "pattern": "separable verb + object + particle / verb + particle + object", "example": "Fill in the form. / Fill the form in.", "note": "Both orders with nouns." },
+          { "pattern": "separable verb + pronoun + particle", "example": "Fill it in.", "note": "Pronoun must go in the middle." },
+          { "pattern": "inseparable verb + particle(s) + object", "example": "We'll look into it.", "note": "Never separate." }
+        ],
+        "mistakes": [
+          { "wrong": "Please hand your essays and don't put off it.", "right": "Please hand in your essays and don't put it off.", "why": "Separable phrasal verbs need the pronoun in the middle: put it off." },
+          { "wrong": "We will look it into.", "right": "We will look into it.", "why": "Look into is inseparable." },
+          { "wrong": "We've run out paper.", "right": "We've run out of paper.", "why": "The three-part phrasal verb is run out of." }
+        ],
+        "summary": "Key phrasal verbs: **carry out, set up, take on, put off, hand in, come up with, look into, deal with, run out of, catch up on, follow up, fill in**. With separable verbs, pronouns go in the middle (*put it off*); inseparable verbs never split (*look into it*). *Ringkasan: put it off ✓, put off it ✗.*",
+        "reviewCards": [
+          { "front": "put off", "back": "menunda (= postpone)" },
+          { "front": "carry out", "back": "melaksanakan (= conduct)" },
+          { "front": "come up with", "back": "menemukan ide (inseparable)" },
+          { "front": "hand it in / hand in it?", "back": "hand it in ✓ (pronoun in the middle)" },
+          { "front": "take on", "back": "merekrut; menerima tugas" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u10-l3-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "phrasal verbs",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct phrasal verb.",
+          "instructions": "Hint: the meeting will happen later than planned.",
+          "context": "The meeting has been ___ until next week because the director is ill.",
+          "options": ["put off", "carried out", "set up", "handed in"],
+          "answer": 0,
+          "explanation": "**Put off** = postpone (menunda)."
+        },
+        {
+          "id": "b2-u10-l3-q2", "type": "matching", "category": "vocabulary", "topic": "phrasal verbs",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each phrasal verb with its formal one-word equivalent.",
+          "pairs": [
+            { "left": "carry out", "right": "conduct" },
+            { "left": "put off", "right": "postpone" },
+            { "left": "look into", "right": "investigate" },
+            { "left": "hand in", "right": "submit" },
+            { "left": "set up", "right": "establish" }
+          ],
+          "explanation": "Phrasal verbs are common in speech; their one-word equivalents are often preferred in formal writing."
+        },
+        {
+          "id": "b2-u10-l3-q3", "type": "fill_blank", "category": "vocabulary", "topic": "phrasal verbs",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with ONE word.",
+          "text": "We've run ___ of printer paper. Could you order some more?",
+          "answers": [["out"]],
+          "explanation": "**run out of** = have no more left (kehabisan)."
+        },
+        {
+          "id": "b2-u10-l3-q4", "type": "drag_drop", "category": "vocabulary", "topic": "phrasal verbs",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "Two years ago, Dewi ___ up her own design company. At first she ___ on too many projects, but she soon ___ up with a better system for managing her time.",
+          "bank": ["set", "took", "came", "carried", "put"],
+          "answers": ["set", "took", "came"],
+          "explanation": "**set up** a company (start); **took on** too many projects (accepted); **came up with** a system (thought of)."
+        },
+        {
+          "id": "b2-u10-l3-q5", "type": "error_identification", "category": "grammar", "topic": "separable phrasal verbs",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Please hand", "your essays in", "by Friday,", "and don't put off it."],
+          "errorIndex": 3,
+          "correction": "and don't put it off.",
+          "explanation": "*Put off* is separable, and a pronoun must go in the middle: **put it off**. *Hand your essays in* is correct."
+        },
+        {
+          "id": "b2-u10-l3-q6", "type": "single_choice", "category": "vocabulary", "topic": "phrasal verbs",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "\"I need to catch up on my emails.\" What does this mean?",
+          "options": [
+            "I need to deal with the emails I haven't had time to read.",
+            "I need to delete all my emails.",
+            "I need to send emails faster than my colleagues.",
+            "I need to stop reading emails."
+          ],
+          "answer": 0,
+          "explanation": "**Catch up on** = do things you didn't have time to do earlier (mengejar ketertinggalan)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u10-l4-adjective-preposition",
+      "title": "Adjective + Preposition",
+      "summary": "Kata sifat yang diikuti preposisi tertentu (good at, responsible for, aware of, familiar with).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use common adjective + preposition combinations for work and study",
+        "Use -ing after these prepositions",
+        "Describe your skills and experience accurately in applications and interviews"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Dependent prepositions\nMany adjectives are followed by a **fixed preposition**. The choice is not logical, so learn them in groups.\n\n| Preposition | Adjectives | Example |\n| --- | --- | --- |\n| **at** | good, bad, skilled, brilliant, hopeless | She's **good at** solving problems. |\n| **in** | interested, involved, experienced, skilled | I'm **experienced in** project management. |\n| **of** | aware, capable, proud, afraid, fond, tired | He's **capable of** working under pressure. |\n| **for** | responsible, famous, eligible, suitable, grateful | She's **responsible for** the budget. |\n| **with** | familiar, satisfied, pleased, bored, fed up | Are you **familiar with** this software? |\n| **on** | keen, dependent, based | I'm **keen on** learning new skills. |\n| **to** | used, committed, similar, accustomed | I'm **used to** working late. |\n| **about** | worried, excited, enthusiastic, concerned | We're **excited about** the launch. |\n\n### Preposition + -ing\nAfter all these prepositions, use a **noun** or the **-ing form**:\n- ✓ *I'm interested **in applying** for the position.*\n- ✗ *I'm interested to apply...* (possible in some contexts, but *in applying* is the standard pattern for job applications)\n- ✓ *I'm used **to working** late.* (*to* is a preposition here!)\n\n### Same adjective, different preposition\n| Combination | Meaning |\n| --- | --- |\n| good **at** (a skill) | *good at maths* |\n| good **for** (benefit) | *Exercise is good for you.* |\n| good **with** (people/tools) | *good with children / good with numbers* |\n| responsible **for** (a task) | *responsible for training* |\n| responsible **to** (a person) | *responsible to the director* |\n\n### Useful for job applications\n*I am **experienced in** customer service, **familiar with** most design programs and **keen on** developing my leadership skills. I am also **capable of** working independently.*\n\n> **Catatan:** Preposisi setelah kata sifat sering berbeda dari bahasa Indonesia: *tertarik **pada*** = interested **in**; *bertanggung jawab **atas*** = responsible **for**; *puas **dengan*** = satisfied **with** (sama), *sadar **akan*** = aware **of**. Setelah preposisi selalu pakai **-ing**.",
+        "examples": [
+          { "en": "She's very good at solving problems under pressure.", "id": "Dia sangat pandai memecahkan masalah di bawah tekanan.", "note": "good at + -ing" },
+          { "en": "Mr. Hartono is responsible for training new staff.", "id": "Pak Hartono bertanggung jawab atas pelatihan staf baru.", "note": "responsible for" },
+          { "en": "Are you familiar with the new booking system?", "id": "Apakah kamu sudah mengenal sistem pemesanan yang baru?", "note": "familiar with" },
+          { "en": "I'm interested in applying for the marketing position.", "id": "Saya tertarik untuk melamar posisi pemasaran.", "note": "interested in + -ing" }
+        ],
+        "vocabulary": [
+          { "word": "responsible (for)", "pos": "adjective", "ipa": "/rɪˈspɒnsəbl/", "meaning": "bertanggung jawab (atas)", "example": "Who is responsible for this project?" },
+          { "word": "familiar (with)", "pos": "adjective", "ipa": "/fəˈmɪliə/", "meaning": "mengenal, terbiasa dengan", "example": "I'm familiar with spreadsheets." },
+          { "word": "capable (of)", "pos": "adjective", "ipa": "/ˈkeɪpəbl/", "meaning": "mampu", "example": "She's capable of leading a team." },
+          { "word": "eligible (for)", "pos": "adjective", "ipa": "/ˈelɪdʒəbl/", "meaning": "memenuhi syarat", "example": "Staff are eligible for a bonus after a year." },
+          { "word": "aware (of)", "pos": "adjective", "ipa": "/əˈweə/", "meaning": "sadar, mengetahui", "example": "Are you aware of the risks?" },
+          { "word": "keen (on)", "pos": "adjective", "ipa": "/kiːn/", "meaning": "berminat, antusias", "example": "He's keen on photography." }
+        ],
+        "grammar": [
+          { "pattern": "be + adjective + preposition + noun", "example": "She's aware of the problem.", "note": "Fixed preposition." },
+          { "pattern": "be + adjective + preposition + -ing", "example": "I'm capable of working alone.", "note": "Use -ing after prepositions." },
+          { "pattern": "be used to + -ing", "example": "I'm used to working with deadlines.", "note": "to = preposition." }
+        ],
+        "mistakes": [
+          { "wrong": "Our clients are very satisfied of the new service.", "right": "Our clients are very satisfied with the new service.", "why": "The preposition after satisfied is with." },
+          { "wrong": "She is very capable to manage a large team.", "right": "She is very capable of managing a large team.", "why": "Capable is followed by of + -ing." },
+          { "wrong": "I'm interested on the position.", "right": "I'm interested in the position.", "why": "Interested takes in." }
+        ],
+        "summary": "Learn adjectives with their prepositions: **good at, interested/experienced in, aware/capable of, responsible/eligible for, familiar/satisfied with, keen/dependent on, used to, excited about**. Use a noun or **-ing** after the preposition. *Ringkasan: hafalkan pasangan kata sifat + preposisi.*",
+        "reviewCards": [
+          { "front": "responsible ___", "back": "for" },
+          { "front": "capable ___ + -ing", "back": "of (capable of working)" },
+          { "front": "familiar ___ / satisfied ___", "back": "with" },
+          { "front": "keen ___", "back": "on" },
+          { "front": "aware ___", "back": "of" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u10-l4-q1", "type": "dropdown", "category": "grammar", "topic": "adjective + preposition",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct preposition.",
+          "instructions": "Hint: good ___ a skill.",
+          "text": "She's very good ___ solving problems under pressure.",
+          "choices": [["at", "in", "on"]],
+          "answers": [0],
+          "explanation": "For skills, we say **good at** + noun/-ing."
+        },
+        {
+          "id": "b2-u10-l4-q2", "type": "matching", "category": "grammar", "topic": "adjective + preposition",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each adjective with the correct continuation.",
+          "pairs": [
+            { "left": "responsible", "right": "for managing the budget" },
+            { "left": "familiar", "right": "with the new software" },
+            { "left": "capable", "right": "of working under pressure" },
+            { "left": "keen", "right": "on learning new skills" },
+            { "left": "aware", "right": "of the safety rules" }
+          ],
+          "explanation": "responsible **for**, familiar **with**, capable **of**, keen **on**, aware **of**."
+        },
+        {
+          "id": "b2-u10-l4-q3", "type": "fill_blank", "category": "grammar", "topic": "adjective + preposition",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with ONE word.",
+          "text": "Are you aware ___ the new safety rules in the warehouse?",
+          "answers": [["of"]],
+          "explanation": "**aware of** = knowing about (sadar akan)."
+        },
+        {
+          "id": "b2-u10-l4-q4", "type": "error_identification", "category": "grammar", "topic": "adjective + preposition",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Our clients", "are very satisfied", "of", "the new delivery service."],
+          "errorIndex": 2,
+          "correction": "with",
+          "explanation": "**satisfied with** (puas dengan)."
+        },
+        {
+          "id": "b2-u10-l4-q5", "type": "drag_drop", "category": "grammar", "topic": "adjective + preposition",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the job application with prepositions from the bank.",
+          "text": "I am interested ___ the position of design assistant. I am familiar ___ all the main design programs, and I am keen ___ developing my leadership skills.",
+          "bank": ["in", "with", "on", "at", "for"],
+          "answers": ["in", "with", "on"],
+          "explanation": "**interested in**, **familiar with**, **keen on** (+ -ing)."
+        },
+        {
+          "id": "b2-u10-l4-q6", "type": "translation", "category": "grammar", "topic": "adjective + preposition",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Bu Lestari bertanggung jawab atas tim penjualan.",
+          "direction": "id-en",
+          "answers": [
+            "Mrs. Lestari is responsible for the sales team.",
+            "Mrs Lestari is responsible for the sales team.",
+            "Ms. Lestari is responsible for the sales team.",
+            "Ms Lestari is responsible for the sales team.",
+            "Mrs. Lestari is in charge of the sales team.",
+            "Ms. Lestari is in charge of the sales team."
+          ],
+          "explanation": "*Bertanggung jawab atas* = **responsible for** (or *in charge of*)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u10-l5-business-career-collocations",
+      "title": "Business and Career Collocations",
+      "summary": "Kolokasi bisnis dan karier untuk rapat, email, dan wawancara kerja.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use business collocations (meet a target, launch a product, strike a deal, chair a meeting)",
+        "Use career collocations (apply for a position, gain experience, climb the career ladder)",
+        "Sound natural and polite in meetings and interviews"
+      ],
+      "completionCriteria": "Complete the speaking task and score at least 70% on the mini quiz. (Selesaikan tugas berbicara dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Business collocations\n| Collocation | Meaning | Example |\n| --- | --- | --- |\n| meet / miss a target | reach / not reach a goal | We **met our sales target** in June. |\n| launch a product | introduce it to the market | They **launched** a new app last month. |\n| run a business | manage a business | She **runs** a small catering **business**. |\n| strike / close a deal | reach a business agreement | We **struck a deal** with a supplier. |\n| chair / hold a meeting | lead / organise a meeting | Who's **chairing** the **meeting**? |\n| raise an issue | mention a problem for discussion | I'd like to **raise** an **issue**. |\n| reach / make a decision | decide | We need to **reach a decision** today. |\n| draw up a contract / plan | prepare a document | The lawyer **drew up** the **contract**. |\n| cut costs | reduce spending | The firm had to **cut costs**. |\n\n### Career collocations\n| Collocation | Meaning |\n| --- | --- |\n| apply **for** a job / position | ask formally for a job |\n| gain / get experience | get experience |\n| climb the career ladder | get promoted step by step |\n| be offered / turn down a job | receive / refuse a job offer |\n| hand in your notice | tell your employer you are leaving |\n| work flexible hours / work remotely | (see Unit 1) |\n\n### Natural meeting language\n| Function | Natural phrases |\n| --- | --- |\n| opening | *Shall we get started? / The main aim of today's meeting is...* |\n| raising an issue | *I'd like to raise the issue of... / Can I bring up something?* |\n| agreeing | *I'm with you on that. / That makes sense.* |\n| disagreeing politely | *I see your point, but... / I'm not sure that's the best option.* |\n| concluding | *So, to sum up, we've agreed to... / Let's follow up on this next week.* |\n\n### Interview language\n*I have **gained** a lot of **experience** in customer service. I'm **responsible for** a team of five. I'm **keen on taking on** new challenges, and I'd like to **climb the career ladder** in a company like yours.*\n\n### raise vs rise\n**raise** (transitive: raise *something*): *raise an issue, raise prices*. **rise** (intransitive): *Prices rose.* ✗ *rise an issue*.\n\n> **Catatan:** Kolokasi bisnis membuat bahasa Inggris Anda terdengar profesional. *Mencapai target* = **meet** a target (bukan *reach* — walaupun *reach a target* juga dipakai, *meet a target* paling umum). *Mengajukan masalah* = **raise** an issue. *Melamar pekerjaan* = **apply for** a job.",
+        "examples": [
+          { "en": "Our team met its sales target for the third month in a row.", "id": "Tim kami mencapai target penjualan untuk bulan ketiga berturut-turut.", "note": "meet a target" },
+          { "en": "The company is launching a new range of eco-friendly products.", "id": "Perusahaan itu meluncurkan rangkaian produk ramah lingkungan yang baru.", "note": "launch a product" },
+          { "en": "I'd like to raise the issue of delivery times.", "id": "Saya ingin mengangkat masalah waktu pengiriman.", "note": "raise an issue" },
+          { "en": "After five years in sales, she applied for a management position.", "id": "Setelah lima tahun di bagian penjualan, dia melamar posisi manajer.", "note": "apply for a position" }
+        ],
+        "vocabulary": [
+          { "word": "target", "pos": "noun", "ipa": "/ˈtɑːɡɪt/", "meaning": "target, sasaran", "example": "We missed the target by 2%." },
+          { "word": "launch", "pos": "verb / noun", "ipa": "/lɔːntʃ/", "meaning": "meluncurkan; peluncuran", "example": "The launch is planned for May." },
+          { "word": "strike a deal", "pos": "phrase", "ipa": "/ˌstraɪk ə ˈdiːl/", "meaning": "mencapai kesepakatan bisnis", "example": "They struck a deal after long talks." },
+          { "word": "chair", "pos": "verb", "ipa": "/tʃeə/", "meaning": "memimpin (rapat)", "example": "Ms. Lim will chair the meeting." },
+          { "word": "raise an issue", "pos": "phrase", "ipa": "/ˌreɪz ən ˈɪʃuː/", "meaning": "mengangkat masalah", "example": "Does anyone want to raise an issue?" },
+          { "word": "career ladder", "pos": "noun", "ipa": "/kəˈrɪə ˌlædə/", "meaning": "jenjang karier", "example": "He climbed the career ladder quickly." }
+        ],
+        "grammar": [
+          { "pattern": "apply for + job/position; apply to + company", "example": "I applied to Delta Bank for a position in IT.", "note": "Different prepositions." },
+          { "pattern": "I'd like to raise the issue of + noun / -ing", "example": "I'd like to raise the issue of training new staff.", "note": "Meeting language." },
+          { "pattern": "meet / miss + a target / a deadline", "example": "We met every deadline this year.", "note": "Same verbs for both." }
+        ],
+        "mistakes": [
+          { "wrong": "I'd like to rise the issue of overtime.", "right": "I'd like to raise the issue of overtime.", "why": "Raise takes an object; rise does not." },
+          { "wrong": "We need to do a decision about the budget.", "right": "We need to make a decision about the budget.", "why": "We make (or reach/take) a decision, not do." },
+          { "wrong": "She applied to the position of manager.", "right": "She applied for the position of manager.", "why": "Apply for a job/position; apply to a company/organisation." }
+        ],
+        "summary": "Business: **meet a target, launch a product, run a business, strike a deal, chair a meeting, raise an issue, reach a decision, draw up a contract, cut costs**. Career: **apply for a position, gain experience, climb the career ladder, turn down an offer, hand in your notice**. *Ringkasan: kolokasi yang tepat membuat Anda terdengar profesional.*",
+        "reviewCards": [
+          { "front": "meet a target", "back": "mencapai target" },
+          { "front": "raise an issue (not rise)", "back": "mengangkat masalah untuk dibahas" },
+          { "front": "strike a deal", "back": "mencapai kesepakatan bisnis" },
+          { "front": "apply for a job / apply to a company", "back": "melamar pekerjaan / melamar ke perusahaan" },
+          { "front": "climb the career ladder", "back": "naik jenjang karier" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u10-l5-q1", "type": "contextual_vocabulary", "category": "business", "topic": "business collocations",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the best verb.",
+          "instructions": "Hint: the usual verb with 'target' when you reach it.",
+          "context": "Our sales team worked hard and ___ its target for the third month in a row.",
+          "options": ["met", "did", "took", "won"],
+          "answer": 0,
+          "explanation": "The collocation is **meet a target** (mencapai target)."
+        },
+        {
+          "id": "b2-u10-l5-q2", "type": "matching", "category": "business", "topic": "business collocations",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each verb with the noun it collocates with.",
+          "pairs": [
+            { "left": "chair", "right": "a meeting" },
+            { "left": "launch", "right": "a new product" },
+            { "left": "strike", "right": "a deal" },
+            { "left": "draw up", "right": "a contract" },
+            { "left": "gain", "right": "work experience" }
+          ],
+          "explanation": "**chair a meeting, launch a product, strike a deal, draw up a contract, gain experience**."
+        },
+        {
+          "id": "b2-u10-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "job interviews",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Job interview: answer the question \"Tell me about your experience and why you're interested in this position.\" Speak for about one minute and use at least five collocations from this unit.",
+          "targetPhrases": ["gain experience", "responsible for", "keen on", "meet targets", "take on", "apply for"],
+          "sampleAnswer": "I've gained five years of experience in customer service, and for the last two years I've been responsible for a team of six people. We've met our targets every quarter, and last year I came up with a new system for dealing with complaints that cut response times by half. I'm keen on taking on new challenges, which is why I'm applying for this position. I'm familiar with your products, and I'd like to climb the career ladder in a company that values innovation.",
+          "explanation": "A strong answer uses natural collocations, perfect tenses for experience, and adjective + preposition combinations."
+        },
+        {
+          "id": "b2-u10-l5-q4", "type": "dialogue_completion", "category": "business", "topic": "meeting language",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct reply.",
+          "dialogue": [
+            { "speaker": "Chair", "text": "Before we finish, does anyone want to raise any other issues?" },
+            { "speaker": "Rina", "text": null }
+          ],
+          "options": [
+            "Yes, I'd like to raise the issue of our delivery times.",
+            "Yes, I'd like to rise the issue of our delivery times.",
+            "Yes, I'd like to make up the issue of our delivery times.",
+            "Yes, I'd like to take the issue our delivery times."
+          ],
+          "answer": 0,
+          "explanation": "**raise the issue of + noun** is the natural collocation. *Rise* has no object, and the other options are not natural."
+        },
+        {
+          "id": "b2-u10-l5-q5", "type": "sentence_correction", "category": "business", "topic": "business collocations",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the collocation.",
+          "sentence": "We need to do a decision about the budget by Friday.",
+          "answers": [
+            "We need to make a decision about the budget by Friday.",
+            "We need to reach a decision about the budget by Friday.",
+            "We need to come to a decision about the budget by Friday.",
+            "We need to take a decision about the budget by Friday."
+          ],
+          "explanation": "We **make** (or *reach / come to / take*) a decision, never *do* a decision."
+        },
+        {
+          "id": "b2-u10-l5-q6", "type": "drag_drop", "category": "business", "topic": "career collocations",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "After five years in sales, Lina decided to ___ for a management position. She had ___ a lot of experience, and the company was planning to ___ a new branch in Makassar.",
+          "bank": ["apply", "gained", "open", "climb", "done"],
+          "answers": ["apply", "gained", "open"],
+          "explanation": "**apply for** a position; **gain experience**; **open a branch**."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u10-t-q1", "type": "single_choice", "category": "vocabulary", "topic": "make and do",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct verb.",
+      "context": "I'll ___ some research on our competitors before the meeting.",
+      "options": ["do", "make", "take", "have"],
+      "answer": 0,
+      "explanation": "We **do research**."
+    },
+    {
+      "id": "b2-u10-t-q2", "type": "fill_blank", "category": "vocabulary", "topic": "phrasal verbs",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete with ONE word.",
+      "text": "The survey was carried ___ by a team of university students.",
+      "answers": [["out"]],
+      "explanation": "**carry out** a survey = conduct it."
+    },
+    {
+      "id": "b2-u10-t-q3", "type": "error_identification", "category": "grammar", "topic": "adjective + preposition",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["She is", "very capable", "to manage", "a large team."],
+      "errorIndex": 2,
+      "correction": "of managing",
+      "explanation": "**capable of + -ing**: *She is very capable of managing a large team.*"
+    },
+    {
+      "id": "b2-u10-t-q4", "type": "matching", "category": "vocabulary", "topic": "make do take have",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each noun with the verb it collocates with.",
+      "pairs": [
+        { "left": "a complaint", "right": "make" },
+        { "left": "the washing-up", "right": "do" },
+        { "left": "a photo", "right": "take" },
+        { "left": "a chat", "right": "have" }
+      ],
+      "explanation": "**make a complaint, do the washing-up, take a photo, have a chat**."
+    },
+    {
+      "id": "b2-u10-t-q5", "type": "dropdown", "category": "business", "topic": "phrasal verbs and adjectives",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct options.",
+      "text": "Can we ___ the meeting until Thursday? I'm not ___ with the new figures yet.",
+      "choices": [["put off", "put up", "set off"], ["familiar", "aware", "keen"]],
+      "answers": [0, 0],
+      "explanation": "**put off** = postpone; **familiar with** = know well. (*aware of*, *keen on*)"
+    },
+    {
+      "id": "b2-u10-t-q6", "type": "translation", "category": "business", "topic": "business collocations",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kami harus mengambil keputusan hari ini.",
+      "direction": "id-en",
+      "answers": [
+        "We have to make a decision today.",
+        "We must make a decision today.",
+        "We need to make a decision today.",
+        "We have to take a decision today.",
+        "We must take a decision today.",
+        "We need to take a decision today.",
+        "We have to reach a decision today.",
+        "We have to decide today.",
+        "We must decide today.",
+        "We need to decide today."
+      ],
+      "explanation": "*Mengambil keputusan* = **make a decision** (BrE also *take a decision*), not *do a decision*."
+    },
+    {
+      "id": "b2-u10-t-q7", "type": "sentence_transformation", "category": "business", "topic": "phrasal verbs",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence using the phrasal verb take on.",
+      "sentence": "The company employed fifty new staff last year.",
+      "cue": "Begin with: The company ...",
+      "answers": ["The company took on fifty new staff last year."],
+      "explanation": "**take on** = employ (merekrut): *The company took on fifty new staff.*"
+    }
+  ]
+}

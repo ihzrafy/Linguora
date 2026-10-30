@@ -1,0 +1,612 @@
+{
+  "slug": "a1-u09-abilities",
+  "number": 9,
+  "title": "Abilities and Free Time",
+  "description": "Unit ini membahas kata kerja bantu can / can't untuk kemampuan, pertanyaan dengan can, cara meminta tolong dan meminta izin dengan sopan, object pronouns (me, him, her, us, them), serta kegiatan waktu luang dan alat musik.",
+  "objectives": [
+    "Menyatakan kemampuan dengan can dan can't",
+    "Bertanya dan menjawab tentang kemampuan (Can you ...? Yes, I can.)",
+    "Meminta izin dan meminta tolong dengan Can I ...? / Can you ...?",
+    "Menggunakan object pronouns setelah kata kerja dan preposisi",
+    "Membicarakan kegiatan waktu luang dan alat musik"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u09-l1-can-ability",
+      "title": "Can and Can't for Ability",
+      "summary": "Menyatakan apa yang bisa dan tidak bisa kita lakukan dengan can / can't + kata kerja dasar.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat kalimat positif dan negatif dengan can / can't",
+        "Memakai kata kerja dasar setelah can (tanpa to dan tanpa -s)",
+        "Mengucapkan can dan can't dengan jelas"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Can = bisa, dapat\n**Can** adalah *modal verb* (kata kerja bantu) yang berarti **bisa** atau **dapat**. Di pelajaran ini kita memakainya untuk menyatakan **kemampuan**: *I **can** swim.* (Saya bisa berenang.)\n\n### Pola kalimat\n| Jenis | Pola | Contoh |\n| --- | --- | --- |\n| Positif | Subjek + can + kata kerja dasar | She can speak Japanese. |\n| Negatif | Subjek + can't / cannot + kata kerja dasar | He can't drive. |\n\n**Can't** adalah bentuk singkat dari **cannot** (ditulis menjadi satu kata). Dalam percakapan, *can't* jauh lebih umum.\n\n### Tiga aturan emas\n1. **Can sama untuk semua subjek.** Tidak ada ~~cans~~: *I can, you can, **she can**, they can.*\n2. **Setelah can, kata kerja selalu bentuk dasar** — tanpa *-s*: ~~She can sings~~ → *She can **sing**.*\n3. **Tidak ada to setelah can**: ~~I can to swim~~ → *I can **swim**.*\n\nIngat perbedaannya dengan present simple: *She **sings** every day* (kebiasaan) tetapi *She **can sing*** (kemampuan).\n\n### Pengucapan\nDalam kalimat positif, **can** biasanya diucapkan pendek dan lemah: /kən/. Sebaliknya **can't** diucapkan jelas dan panjang: /kɑːnt/ (British) atau /kænt/ (American). Jadi, dengarkan **panjang-pendek vokal** dan **bunyi t** untuk membedakan keduanya.\n\n| Kalimat | Bunyi |\n| --- | --- |\n| I can swim. | ai-kən-SWIM |\n| I can't swim. | ai-KAANT-swim |\n\n### Kemampuan sehari-hari\n| Kata kerja | Arti |\n| --- | --- |\n| swim | berenang |\n| cook | memasak |\n| drive (a car) | menyetir (mobil) |\n| ride (a bike / a horse) | mengendarai (sepeda / kuda) |\n| speak (English) | berbicara (bahasa Inggris) |\n| sing / dance / draw | menyanyi / menari / menggambar |\n\nJangan menerjemahkan *tidak bisa* menjadi ~~not can~~ atau ~~don't can~~. Bentuk yang benar hanya **can't** atau **cannot**.",
+        "examples": [
+          { "en": "I can swim, but I can't dive.", "id": "Saya bisa berenang, tetapi saya tidak bisa menyelam." },
+          { "en": "My grandmother can cook delicious soup.", "id": "Nenek saya bisa memasak sup yang lezat." },
+          { "en": "Leo can't drive. He's only fifteen.", "id": "Leo tidak bisa menyetir. Dia baru lima belas tahun." },
+          { "en": "We can speak English and Indonesian.", "id": "Kami bisa berbicara bahasa Inggris dan bahasa Indonesia." },
+          { "en": "Penguins can't fly, but they can swim very well.", "id": "Penguin tidak bisa terbang, tetapi mereka bisa berenang dengan sangat baik." }
+        ],
+        "vocabulary": [
+          { "word": "swim", "pos": "verb", "ipa": "/swɪm/", "meaning": "berenang", "example": "Fish can swim." },
+          { "word": "cook", "pos": "verb", "ipa": "/kʊk/", "meaning": "memasak", "example": "My dad can cook fried rice." },
+          { "word": "drive", "pos": "verb", "ipa": "/draɪv/", "meaning": "menyetir, mengemudi", "example": "She can drive a car." },
+          { "word": "ride", "pos": "verb", "ipa": "/raɪd/", "meaning": "mengendarai (sepeda, motor, kuda)", "example": "Can you ride a horse?" },
+          { "word": "sing", "pos": "verb", "ipa": "/sɪŋ/", "meaning": "menyanyi", "example": "Nina can sing very well." },
+          { "word": "dance", "pos": "verb", "ipa": "/dɑːns/", "meaning": "menari", "example": "I can't dance." },
+          { "word": "draw", "pos": "verb", "ipa": "/drɔː/", "meaning": "menggambar", "example": "He can draw animals." },
+          { "word": "fly", "pos": "verb", "ipa": "/flaɪ/", "meaning": "terbang", "example": "Birds can fly." }
+        ],
+        "grammar": [
+          { "pattern": "Subjek + can + kata kerja dasar", "example": "They can play tennis.", "note": "Sama untuk semua subjek." },
+          { "pattern": "Subjek + can't / cannot + kata kerja dasar", "example": "I can't sing.", "note": "cannot ditulis satu kata." },
+          { "pattern": "... can ..., but ... can't ...", "example": "Ana can ski, but she can't skate." }
+        ],
+        "mistakes": [
+          { "wrong": "She cans swim.", "right": "She can swim.", "why": "Can tidak pernah mendapat -s." },
+          { "wrong": "I can to drive.", "right": "I can drive.", "why": "Setelah can tidak memakai to." },
+          { "wrong": "He can speaks French.", "right": "He can speak French.", "why": "Setelah can, kata kerja selalu bentuk dasar." },
+          { "wrong": "I not can dance.", "right": "I can't dance. / I cannot dance.", "why": "Bentuk negatif can adalah can't/cannot." }
+        ],
+        "summary": "**Can + kata kerja dasar** menyatakan kemampuan (*I can swim*). Bentuk negatif: **can't / cannot** (*He can't drive*). Can sama untuk semua subjek, tidak memakai *-s*, dan tidak diikuti *to*. Ucapkan **can** pendek /kən/ dan **can't** panjang /kɑːnt/.",
+        "reviewCards": [
+          { "front": "Dia (perempuan) bisa menyanyi.", "back": "She can sing. (bukan cans / can sings)" },
+          { "front": "Bentuk negatif can", "back": "can't = cannot (satu kata)" },
+          { "front": "I can to swim — salah di mana?", "back": "Tidak ada to: I can swim." },
+          { "front": "Pengucapan can vs can't", "back": "can = /kən/ (pendek), can't = /kɑːnt/ (panjang)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u09-l1-q1", "type": "dropdown", "category": "grammar", "topic": "can for ability",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct words.",
+          "instructions": "Ingat: can/can't + kata kerja dasar, tanpa -s dan tanpa to.",
+          "text": "My brother ___ swim very well, but he ___ cook.",
+          "choices": [["can", "cans", "can to"], ["can't", "doesn't can", "not can"]],
+          "answers": [0, 0],
+          "explanation": "can tidak berubah untuk he (bukan cans), dan bentuk negatifnya can't."
+        },
+        {
+          "id": "a1-u09-l1-q2", "type": "sentence_correction", "category": "grammar", "topic": "can for ability",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "Nadia cans speak three languages.",
+          "answers": ["Nadia can speak three languages."],
+          "explanation": "Can tidak mendapat -s, meskipun subjeknya she/Nadia."
+        },
+        {
+          "id": "a1-u09-l1-q3", "type": "word_order", "category": "grammar", "topic": "can for ability",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["My", "grandfather", "can't", "ride", "a", "motorbike"],
+          "explanation": "Subjek (My grandfather) + can't + kata kerja dasar (ride) + objek (a motorbike)."
+        },
+        {
+          "id": "a1-u09-l1-q4", "type": "single_choice", "category": "grammar", "topic": "can for ability",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["Mrs. Lin can draws very well.", "Mrs. Lin can draw very well.", "Mrs. Lin can to draw very well.", "Mrs. Lin cans draw very well."],
+          "answer": 1,
+          "explanation": "Pola yang benar: can + kata kerja dasar (draw), tanpa -s dan tanpa to."
+        },
+        {
+          "id": "a1-u09-l1-q5", "type": "translation", "category": "grammar", "topic": "can for ability",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami tidak bisa menyetir.",
+          "direction": "id-en",
+          "answers": ["We can't drive.", "We cannot drive.", "We can not drive.", "We can't drive a car.", "We cannot drive a car."],
+          "explanation": "tidak bisa = can't / cannot; menyetir = drive."
+        },
+        {
+          "id": "a1-u09-l1-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "abilities",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Rudi is a great artist. He can ___ beautiful pictures of animals and people.",
+          "options": ["draw", "drive", "swim", "fly"],
+          "answer": 0,
+          "explanation": "Seorang seniman menggambar (draw) gambar-gambar."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u09-l2-can-questions",
+      "title": "Can You...? Questions and Short Answers",
+      "summary": "Bertanya tentang kemampuan dengan Can you ...?, menjawab singkat, dan menjelaskan seberapa baik kemampuan itu.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat pertanyaan Yes/No dengan can",
+        "Menjawab dengan Yes, I can. / No, I can't.",
+        "Menjelaskan tingkat kemampuan dengan very well, quite well, a little, not at all"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membuat pertanyaan dengan can\nUntuk bertanya, cukup **pindahkan can ke depan subjek**. Kita **tidak** memakai *do/does* dengan can.\n\n| Pernyataan | Pertanyaan |\n| --- | --- |\n| You can swim. | **Can you** swim? |\n| She can play chess. | **Can she** play chess? |\n| They can speak Korean. | **Can they** speak Korean? |\n\nKesalahan umum: ~~Do you can swim?~~ atau ~~Can you swims?~~\n\n### Jawaban singkat\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Can you cook? | Yes, I can. | No, I can't. |\n| Can he drive? | Yes, he can. | No, he can't. |\n| Can they dance? | Yes, they can. | No, they can't. |\n\nDalam jawaban singkat, **jangan mengulang kata kerja utama**: cukup *Yes, I can*, bukan ~~Yes, I can cook~~ (ini tidak salah, tetapi tidak alami sebagai jawaban singkat). Jawaban ~~Yes, I do~~ salah karena pertanyaannya memakai *can*.\n\n### Pertanyaan dengan kata tanya\nKita juga bisa memakai kata tanya (Unit 6) sebelum can:\n- *What **can** you cook?* — *I can cook fried rice and soup.*\n- *What languages **can** she speak?* — *She can speak Thai and English.*\n- *How well **can** you swim?* — *Very well.*\n\n### Seberapa baik?\n| Ungkapan | Arti |\n| --- | --- |\n| very well | sangat baik |\n| quite well | cukup baik |\n| a little | sedikit |\n| not very well | tidak begitu baik |\n| not at all | sama sekali tidak |\n\nUngkapan ini diletakkan di **akhir kalimat**: *I can sing **quite well**.* / *I can't swim **at all**.* (Perhatikan: *at all* dipakai dengan kalimat negatif.)\n\n### Tips sopan\nSaat ditanya tentang kemampuan, jawaban yang lebih lengkap terdengar ramah: *Yes, I can. I play every weekend.* atau *No, I can't, but I want to learn.*",
+        "examples": [
+          { "en": "Can you play the guitar? — Yes, I can.", "id": "Kamu bisa main gitar? — Ya, bisa." },
+          { "en": "Can your dad cook? — No, he can't.", "id": "Ayahmu bisa memasak? — Tidak, dia tidak bisa." },
+          { "en": "What languages can you speak?", "id": "Bahasa apa saja yang bisa kamu bicarakan?" },
+          { "en": "I can speak Japanese a little.", "id": "Saya bisa berbicara bahasa Jepang sedikit." },
+          { "en": "Sara can't ski at all.", "id": "Sara sama sekali tidak bisa bermain ski." }
+        ],
+        "vocabulary": [
+          { "word": "very well", "pos": "phrase", "ipa": "/ˌveri ˈwel/", "meaning": "sangat baik", "example": "He can dance very well." },
+          { "word": "quite", "pos": "adverb", "ipa": "/kwaɪt/", "meaning": "cukup", "example": "I can cook quite well." },
+          { "word": "a little", "pos": "phrase", "ipa": "/ə ˈlɪtl/", "meaning": "sedikit", "example": "I can speak Korean a little." },
+          { "word": "at all", "pos": "phrase", "ipa": "/ət ˈɔːl/", "meaning": "sama sekali (dalam kalimat negatif)", "example": "I can't sing at all." },
+          { "word": "language", "pos": "noun", "ipa": "/ˈlæŋɡwɪdʒ/", "meaning": "bahasa", "example": "She can speak four languages." },
+          { "word": "chess", "pos": "noun", "ipa": "/tʃes/", "meaning": "catur", "example": "Can you play chess?" },
+          { "word": "learn", "pos": "verb", "ipa": "/lɜːn/", "meaning": "belajar (mempelajari)", "example": "I want to learn the piano." }
+        ],
+        "grammar": [
+          { "pattern": "Can + subjek + kata kerja dasar ...?", "example": "Can your sister swim?" },
+          { "pattern": "Yes, + subjek + can. / No, + subjek + can't.", "example": "Yes, she can. / No, she can't." },
+          { "pattern": "What / How well + can + subjek + kata kerja?", "example": "How well can you cook? — Quite well." }
+        ],
+        "mistakes": [
+          { "wrong": "Do you can swim?", "right": "Can you swim?", "why": "Pertanyaan dengan can tidak memakai do/does." },
+          { "wrong": "Can you swim? — Yes, I do.", "right": "Can you swim? — Yes, I can.", "why": "Jawaban singkat mengikuti kata kerja bantu di pertanyaan (can)." },
+          { "wrong": "Can she speaks English?", "right": "Can she speak English?", "why": "Setelah can, kata kerja selalu bentuk dasar." }
+        ],
+        "summary": "Pertanyaan: **Can + subjek + kata kerja dasar?** (*Can you swim?*). Jawaban singkat: **Yes, I can. / No, I can't.** Gunakan **What / How well + can ...?** untuk pertanyaan terbuka, dan jelaskan kemampuan dengan **very well, quite well, a little, not at all**.",
+        "reviewCards": [
+          { "front": "Kamu bisa memasak? (bahasa Inggris)", "back": "Can you cook?" },
+          { "front": "Can he drive? (jawaban tidak)", "back": "No, he can't." },
+          { "front": "a little / not at all", "back": "sedikit / sama sekali tidak" },
+          { "front": "Do you can ...? — benar atau salah?", "back": "Salah. Yang benar: Can you ...?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u09-l2-q1", "type": "single_choice", "category": "grammar", "topic": "can questions",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Can your sister ride a horse? — No, ___.",
+          "instructions": "Jawaban singkat mengikuti kata kerja bantu dalam pertanyaan.",
+          "options": ["she can't", "she doesn't", "she isn't", "she not can"],
+          "answer": 0,
+          "explanation": "Pertanyaan memakai can, jadi jawaban singkatnya No, she can't."
+        },
+        {
+          "id": "a1-u09-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "can questions",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Make a Yes/No question.",
+          "sentence": "Ben can play chess.",
+          "cue": "Ubah menjadi pertanyaan Yes/No.",
+          "answers": ["Can Ben play chess?"],
+          "explanation": "Pindahkan can ke depan subjek: Can Ben play chess?"
+        },
+        {
+          "id": "a1-u09-l2-q3", "type": "matching", "category": "conversation", "topic": "can questions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match the questions with the answers.",
+          "pairs": [
+            { "left": "Can you speak Japanese?", "right": "Yes, I can, but only a little." },
+            { "left": "What can you cook?", "right": "Fried rice and chicken soup." },
+            { "left": "Can your parents swim?", "right": "No, they can't." },
+            { "left": "How well can Toni sing?", "right": "Very well. He's in a band." }
+          ],
+          "explanation": "Pertanyaan Yes/No dijawab Yes/No; What ...? dijawab dengan benda; How well ...? dijawab dengan tingkat kemampuan; your parents = they."
+        },
+        {
+          "id": "a1-u09-l2-q4", "type": "fill_blank", "category": "grammar", "topic": "can questions",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the dialogue with one word in each gap.",
+          "text": "A: ___ you play the guitar? B: No, I ___. But I can play the piano.",
+          "answers": [["Can"], ["can't", "cannot"]],
+          "explanation": "Pertanyaan kemampuan: Can you ...? Jawaban negatif singkat: No, I can't."
+        },
+        {
+          "id": "a1-u09-l2-q5", "type": "error_identification", "category": "grammar", "topic": "can questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Can", "your brother", "speaks", "English?"],
+          "errorIndex": 2,
+          "correction": "speak",
+          "explanation": "Setelah can, gunakan kata kerja dasar: Can your brother speak English?"
+        },
+        {
+          "id": "a1-u09-l2-q6", "type": "dialogue_completion", "category": "conversation", "topic": "can questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the job interview.",
+          "dialogue": [
+            { "speaker": "Manager", "text": "Can you use a computer?" },
+            { "speaker": "Ana", "text": null },
+            { "speaker": "Manager", "text": "Great. And can you speak English?" }
+          ],
+          "options": ["Yes, I can. I use one every day.", "Yes, I do.", "No, I can't use.", "Yes, I am."],
+          "answer": 0,
+          "explanation": "Pertanyaan Can you ...? dijawab Yes, I can. Manajer berkata Great, jadi jawabannya positif."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u09-l3-requests-permission",
+      "title": "Can I...? Can You...? Requests and Permission",
+      "summary": "Meminta izin dengan Can I ...? dan meminta tolong dengan Can you ...?, serta menjawab dengan sopan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan Can I ...? (meminta izin) dan Can you ...? (meminta tolong)",
+        "Menambahkan please agar terdengar sopan",
+        "Menjawab permintaan dengan Sure, Of course, atau Sorry ..."
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Can untuk izin dan permintaan\nSelain untuk kemampuan, **can** juga sangat sering dipakai untuk **meminta izin** dan **meminta tolong**. Bedanya ada pada **subjek**:\n\n| Pola | Fungsi | Contoh | Arti |\n| --- | --- | --- | --- |\n| Can I + verb ...? | meminta izin (saya yang melakukan) | Can I open the window? | Boleh saya membuka jendela? |\n| Can you + verb ...? | meminta tolong (orang lain yang melakukan) | Can you open the window? | Bisakah kamu membuka jendela? |\n\n### Jangan lupa please\nDalam bahasa Inggris, permintaan tanpa **please** bisa terdengar kasar. Letakkan **please** di akhir (setelah koma) atau setelah subjek:\n- *Can I use your phone, **please**?*\n- *Can you **please** help me?*\n\n### Menjawab permintaan\n| Menerima | Menolak dengan sopan |\n| --- | --- |\n| Sure. | Sorry, you can't. |\n| Of course. | Sorry, I'm busy right now. |\n| Yes, here you are. (saat memberi barang) | I'm sorry, but ... |\n| No problem. | Sorry, it isn't mine. |\n\n**Here you are** dipakai ketika kita **memberikan** sesuatu kepada orang lain: *Can I borrow your pen? — Sure, here you are.*\n\nSaat menolak, sebaiknya beri alasan singkat: *Sorry, you can't. The room is for teachers only.*\n\n### Can I have ...? untuk memesan\nDi kafe atau toko, **Can I have ...?** adalah cara sederhana untuk meminta sesuatu, mirip dengan *I'd like ...* (Unit 7): *Can I have a glass of water, please?*\n\n### borrow vs lend\nIngat: **borrow** = meminjam (mengambil dari orang lain). *Can I borrow your book?* = Boleh saya pinjam bukumu? Jangan berkata ~~Can you borrow me your book?~~\n\n### Catatan\nAda juga **Could I/you ...?** dan **May I ...?** yang terdengar lebih formal. Di level A1, **Can** sudah cukup sopan jika memakai **please**.",
+        "examples": [
+          { "en": "Can I sit here, please? — Sure.", "id": "Boleh saya duduk di sini? — Tentu." },
+          { "en": "Can you help me with this box, please?", "id": "Bisakah kamu membantu saya dengan kotak ini?" },
+          { "en": "Can I borrow your dictionary? — Of course. Here you are.", "id": "Boleh saya pinjam kamusmu? — Tentu. Ini dia." },
+          { "en": "Can you close the door, please? — No problem.", "id": "Tolong tutup pintunya, ya? — Tidak masalah." },
+          { "en": "Can I have the bill, please?", "id": "Boleh saya minta tagihannya?", "note": "Dipakai di restoran." }
+        ],
+        "vocabulary": [
+          { "word": "borrow", "pos": "verb", "ipa": "/ˈbɒrəʊ/", "meaning": "meminjam", "example": "Can I borrow your pen?" },
+          { "word": "help", "pos": "verb", "ipa": "/help/", "meaning": "membantu, menolong", "example": "Can you help me, please?" },
+          { "word": "open", "pos": "verb", "ipa": "/ˈəʊpən/", "meaning": "membuka", "example": "Can I open the window?" },
+          { "word": "close", "pos": "verb", "ipa": "/kləʊz/", "meaning": "menutup", "example": "Can you close the door?" },
+          { "word": "sure", "pos": "adverb", "ipa": "/ʃɔː/", "meaning": "tentu, boleh", "example": "Can I sit here? — Sure." },
+          { "word": "of course", "pos": "phrase", "ipa": "/əv ˈkɔːs/", "meaning": "tentu saja", "example": "Of course you can." },
+          { "word": "here you are", "pos": "phrase", "ipa": "/ˈhɪə juː ɑː/", "meaning": "ini dia (saat memberi sesuatu)", "example": "Here you are. Your coffee." }
+        ],
+        "grammar": [
+          { "pattern": "Can I + kata kerja dasar ..., please?", "example": "Can I use the bathroom, please?", "note": "Meminta izin." },
+          { "pattern": "Can you + kata kerja dasar ..., please?", "example": "Can you repeat that, please?", "note": "Meminta tolong." },
+          { "pattern": "Sure. / Of course. / No problem. / Sorry, ...", "example": "Can you help me? — Sorry, I'm busy." }
+        ],
+        "mistakes": [
+          { "wrong": "Can you borrow me your pen?", "right": "Can I borrow your pen?", "why": "borrow = meminjam (dari orang lain), jadi subjeknya I." },
+          { "wrong": "Can I use your phone? — Yes, I can.", "right": "Can I use your phone? — Sure. / Yes, of course.", "why": "Saat memberi izin, jawab Sure / Of course, bukan Yes, I can." },
+          { "wrong": "Give me the salt.", "right": "Can you pass me the salt, please?", "why": "Perintah langsung tanpa please terdengar kasar; gunakan Can you ..., please?" }
+        ],
+        "summary": "**Can I ...?** = meminta izin (*Can I open the window?*). **Can you ...?** = meminta tolong (*Can you help me?*). Tambahkan **please** agar sopan. Terima dengan **Sure / Of course / No problem / Here you are**, dan tolak dengan **Sorry, ...** plus alasan singkat.",
+        "reviewCards": [
+          { "front": "Can I ...? vs Can you ...?", "back": "Can I = minta izin; Can you = minta tolong" },
+          { "front": "Here you are.", "back": "Ini dia (saat memberikan barang)" },
+          { "front": "Boleh saya pinjam bukumu?", "back": "Can I borrow your book, please?" },
+          { "front": "Cara sopan menolak", "back": "Sorry, I'm busy. / Sorry, you can't. + alasan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u09-l3-q1", "type": "single_choice", "category": "conversation", "topic": "permission",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "You are in class. It is hot, and you want to open the window yourself. How do you ask the teacher for permission?",
+          "instructions": "Meminta izin = Can I ...?",
+          "options": ["Can I open the window, please?", "I can open the window.", "Can I opening the window?", "You can open the window."],
+          "answer": 0,
+          "explanation": "Untuk meminta izin, gunakan Can I + kata kerja dasar + please?"
+        },
+        {
+          "id": "a1-u09-l3-q2", "type": "matching", "category": "conversation", "topic": "requests",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match the requests with the best replies.",
+          "pairs": [
+            { "left": "Can I use your phone?", "right": "Sure, here you are." },
+            { "left": "Can you carry my bag, please?", "right": "Of course. Wow, it's heavy!" },
+            { "left": "Can I sit here?", "right": "Sorry, this seat is for my friend." },
+            { "left": "Can you close the door, please?", "right": "OK, no problem." }
+          ],
+          "explanation": "Here you are dipakai saat memberi barang (telepon); it's heavy cocok untuk tas; this seat cocok untuk tempat duduk; close the door → OK, no problem."
+        },
+        {
+          "id": "a1-u09-l3-q3", "type": "dialogue_completion", "category": "conversation", "topic": "requests",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue in a café.",
+          "dialogue": [
+            { "speaker": "Customer", "text": "Can I have the menu, please?" },
+            { "speaker": "Waiter", "text": null },
+            { "speaker": "Customer", "text": "Thank you." }
+          ],
+          "options": ["Yes, here you are.", "Yes, I can.", "No, you aren't.", "Yes, you have."],
+          "answer": 0,
+          "explanation": "Pelayan memberikan menu, jadi ia berkata Here you are."
+        },
+        {
+          "id": "a1-u09-l3-q4", "type": "fill_blank", "category": "conversation", "topic": "permission",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the question with one word.",
+          "text": "A: ___ I borrow your pen, please? B: Sure. Here you are.",
+          "answers": [["Can", "Could", "May"]],
+          "explanation": "Meminta izin: Can I borrow ...? (Could/May juga benar dan lebih formal)."
+        },
+        {
+          "id": "a1-u09-l3-q5", "type": "sentence_transformation", "category": "grammar", "topic": "requests",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Make the instruction into a polite request.",
+          "sentence": "Turn off the TV.",
+          "cue": "Mulai dengan: Can you ...",
+          "answers": ["Can you turn off the TV, please?", "Can you turn off the TV?", "Can you please turn off the TV?", "Can you turn the TV off, please?", "Can you turn the TV off?"],
+          "explanation": "Permintaan sopan: Can you + kata kerja dasar ..., please?"
+        },
+        {
+          "id": "a1-u09-l3-q6", "type": "multiple_select", "category": "conversation", "topic": "requests",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Your friend asks: 'Can you help me with my homework?' Which replies mean YES? Choose all correct answers.",
+          "options": ["Sure.", "Of course.", "No problem.", "Sorry, I'm busy.", "I'm sorry, but I can't."],
+          "answers": [0, 1, 2],
+          "explanation": "Sure, Of course, dan No problem berarti ya. Sorry, I'm busy dan I'm sorry, but I can't adalah penolakan sopan."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u09-l4-object-pronouns",
+      "title": "Object Pronouns: Me, Him, Her, Us, Them",
+      "summary": "Menggunakan kata ganti objek setelah kata kerja dan preposisi.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengenal tujuh object pronouns dan pasangan subject pronoun-nya",
+        "Memakai object pronoun setelah kata kerja dan preposisi",
+        "Membedakan he/him dan she/her"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Subjek dan objek\nDi Unit 1 kita belajar **subject pronouns** (I, you, he ...) yang berada **sebelum** kata kerja. Sekarang kita belajar **object pronouns** yang berada **setelah** kata kerja atau preposisi.\n\n*__She__ likes __him__.* → *she* = pelaku (subjek), *him* = yang disukai (objek).\n\n### Tabel pronoun\n| Subject | Object | Arti | Contoh |\n| --- | --- | --- | --- |\n| I | me | saya/aku (objek) | Can you help **me**? |\n| you | you | kamu/kalian | I love **you**. |\n| he | him | dia (laki-laki) | I know **him**. |\n| she | her | dia (perempuan) | We visit **her** on Sundays. |\n| it | it | itu (benda/hewan) | I like **it**. |\n| we | us | kami/kita | Call **us** tonight. |\n| they | them | mereka | I see **them** every day. |\n\n### Kapan memakai object pronoun?\n1. **Setelah kata kerja**: *I call **her** every evening.*\n2. **Setelah preposisi** (with, for, to, at, about): *Come with **me**. This gift is for **them**. Look at **us**!*\n3. **Sebagai jawaban pendek**: *Who wants coffee? — **Me**!*\n\n### Kesulitan bagi pelajar Indonesia\nDalam bahasa Indonesia, kata *saya, dia, mereka* tidak berubah di posisi subjek atau objek: *Dia suka **dia***. Dalam bahasa Inggris, bentuknya **berubah**:\n- *Saya membantu **dia** (laki-laki).* → *I help **him**.* (bukan ~~he~~)\n- *Dia membantu **saya**.* → *She helps **me**.* (bukan ~~I~~)\n\nPerhatikan juga bahwa **her** punya dua fungsi: object pronoun (*I like **her**.*) dan possessive adjective dari Unit 2 (*This is **her** bag.*).\n\n### Pola dengan can\nObject pronoun sering muncul dalam permintaan: *Can you help **me**? Can I call **you** later? Can you give **us** the key?*\n\n### Tips\nTanyakan pada diri sendiri: kata ini **melakukan** sesuatu (subjek) atau **dikenai** sesuatu (objek)? Jika dikenai, gunakan **me, you, him, her, it, us, them**.",
+        "examples": [
+          { "en": "Can you help me, please?", "id": "Bisakah kamu membantu saya?" },
+          { "en": "Mr. Hasan is our teacher. We like him a lot.", "id": "Pak Hasan guru kami. Kami sangat menyukainya." },
+          { "en": "I call my grandma every Sunday. I love her.", "id": "Saya menelepon nenek setiap Minggu. Saya menyayanginya." },
+          { "en": "These cookies are for them.", "id": "Kue-kue ini untuk mereka." },
+          { "en": "Come to the park with us!", "id": "Ayo ke taman bersama kami!" }
+        ],
+        "vocabulary": [
+          { "word": "me", "pos": "pronoun", "ipa": "/miː/", "meaning": "saya, aku (sebagai objek)", "example": "Please call me." },
+          { "word": "him", "pos": "pronoun", "ipa": "/hɪm/", "meaning": "dia (laki-laki, objek)", "example": "I know him." },
+          { "word": "her", "pos": "pronoun", "ipa": "/hɜː/", "meaning": "dia (perempuan, objek)", "example": "We help her." },
+          { "word": "us", "pos": "pronoun", "ipa": "/ʌs/", "meaning": "kami, kita (objek)", "example": "Can you show us the way?" },
+          { "word": "them", "pos": "pronoun", "ipa": "/ðem/", "meaning": "mereka (objek)", "example": "I visit them on holidays." },
+          { "word": "call", "pos": "verb", "ipa": "/kɔːl/", "meaning": "menelepon, memanggil", "example": "Call me at 8 p.m." },
+          { "word": "visit", "pos": "verb", "ipa": "/ˈvɪzɪt/", "meaning": "mengunjungi", "example": "We visit our grandparents every month." }
+        ],
+        "grammar": [
+          { "pattern": "Subjek + kata kerja + object pronoun", "example": "Lina loves them." },
+          { "pattern": "Preposisi + object pronoun", "example": "Sit next to me. / This is for her." },
+          { "pattern": "Can you + verb + object pronoun ...?", "example": "Can you help us, please?" }
+        ],
+        "mistakes": [
+          { "wrong": "Can you help I?", "right": "Can you help me?", "why": "Setelah kata kerja gunakan object pronoun me." },
+          { "wrong": "I play football with they.", "right": "I play football with them.", "why": "Setelah preposisi with gunakan them." },
+          { "wrong": "Nina is my friend. I like she.", "right": "Nina is my friend. I like her.", "why": "Sebagai objek, she berubah menjadi her." }
+        ],
+        "summary": "Object pronouns: **me, you, him, her, it, us, them**. Gunakan setelah **kata kerja** (*I like him*) dan setelah **preposisi** (*with us, for them*). Subject pronoun (I, he, she, we, they) hanya untuk pelaku sebelum kata kerja.",
+        "reviewCards": [
+          { "front": "I → ? / we → ? / they → ?", "back": "me / us / them" },
+          { "front": "he → ? / she → ?", "back": "him / her" },
+          { "front": "Bisakah kamu membantu saya?", "back": "Can you help me?" },
+          { "front": "with + they → ?", "back": "with them" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u09-l4-q1", "type": "single_choice", "category": "grammar", "topic": "object pronouns",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "This is my friend Maya. I see ___ every day at school.",
+          "instructions": "Kata yang dikenai pekerjaan (objek) memakai object pronoun.",
+          "options": ["she", "her", "him", "them"],
+          "answer": 1,
+          "explanation": "Maya adalah perempuan dan berada di posisi objek (setelah see), jadi her."
+        },
+        {
+          "id": "a1-u09-l4-q2", "type": "drag_drop", "category": "grammar", "topic": "object pronouns",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct pronouns into the gaps.",
+          "text": "Rina is my best friend. I like ___ very much. My cousins live in Bali, and I visit ___ every holiday.",
+          "bank": ["her", "them", "she", "they", "him"],
+          "answers": ["her", "them"],
+          "explanation": "Rina (perempuan, objek) → her. My cousins (jamak, objek) → them."
+        },
+        {
+          "id": "a1-u09-l4-q3", "type": "sentence_correction", "category": "grammar", "topic": "object pronouns",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "Can you help I with my homework, please?",
+          "answers": ["Can you help me with my homework, please?", "Can you help me with my homework?"],
+          "explanation": "Setelah kata kerja help, gunakan object pronoun me, bukan I."
+        },
+        {
+          "id": "a1-u09-l4-q4", "type": "fill_blank", "category": "grammar", "topic": "object pronouns",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Write the correct object pronoun.",
+          "text": "Mr. Hasan is our teacher. We like ___ a lot. He often helps ___ with our English.",
+          "answers": [["him"], ["us"]],
+          "explanation": "Mr. Hasan (laki-laki, objek) → him. we sebagai objek → us."
+        },
+        {
+          "id": "a1-u09-l4-q5", "type": "error_identification", "category": "grammar", "topic": "object pronouns",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Lisa and Tom", "are my neighbours.", "I play tennis", "with they", "on Sundays."],
+          "errorIndex": 3,
+          "correction": "with them",
+          "explanation": "Setelah preposisi with, gunakan object pronoun them."
+        },
+        {
+          "id": "a1-u09-l4-q6", "type": "translation", "category": "grammar", "topic": "object pronouns",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Tolong telepon saya nanti.",
+          "direction": "id-en",
+          "answers": ["Please call me later.", "Call me later, please.", "Please phone me later.", "Phone me later, please.", "Can you call me later, please?", "Can you call me later?"],
+          "explanation": "saya sebagai objek = me: Please call me later."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u09-l5-free-time-music",
+      "title": "Free Time and Music",
+      "summary": "Membicarakan kegiatan waktu luang dengan play, go, dan do, serta alat musik dengan play the ...",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan play, go, dan do dengan kegiatan yang tepat",
+        "Menyebut alat musik dengan play the + instrument",
+        "Menceritakan kegiatan waktu luang dan kemampuan sendiri"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Waktu luang (free time)\nUntuk membicarakan hobi, kita memakai present simple (Unit 5–6) dan **can** (unit ini): *In my free time, I play badminton. I can play the guitar, too.*\n\n### play, go, atau do?\nBahasa Indonesia sering memakai *main* atau *pergi* untuk banyak kegiatan, tetapi bahasa Inggris memakai tiga kata kerja berbeda:\n\n| Kata kerja | Dipakai untuk | Contoh |\n| --- | --- | --- |\n| play | olahraga dengan bola/lawan, permainan | play football, play badminton, play chess, play video games |\n| go | kegiatan berakhiran -ing | go swimming, go hiking, go shopping, go fishing, go cycling |\n| do | kegiatan individu, bela diri, latihan | do yoga, do karate, do exercise, do puzzles |\n\n### Alat musik: play THE + instrument\nUntuk alat musik, kita memakai **play the**: *She plays **the** piano.* Bandingkan dengan olahraga yang **tanpa the**: *He plays football* (bukan ~~the football~~).\n\n| Alat musik | Arti |\n| --- | --- |\n| the guitar | gitar |\n| the piano | piano |\n| the drums | drum |\n| the violin | biola |\n| the flute | seruling |\n| the keyboard | keyboard |\n\n### Ungkapan yang berguna\n- **In my free time, I ...** — Di waktu luang, saya ...\n- **At the weekend, I usually ...** — Di akhir pekan, saya biasanya ...\n- **I'm in a band.** — Saya ikut sebuah band.\n- **I love/like/hate + -ing** (Unit 6): *I love going hiking.*\n\n### Menggabungkan dengan can\n*Can you play the drums? — Yes, I can, but not very well.*\n*My sister can't play chess, but she can do karate!*\n\n### Ingat\n**Hiking** berarti mendaki/berjalan jauh di alam, dan **go camping** berarti berkemah. Kata **hobby** (jamak: **hobbies**) berarti hobi: *My hobbies are reading and cycling.*",
+        "examples": [
+          { "en": "In my free time, I play the guitar.", "id": "Di waktu luang, saya bermain gitar." },
+          { "en": "We often go swimming at the weekend.", "id": "Kami sering pergi berenang di akhir pekan." },
+          { "en": "My mother does yoga every morning.", "id": "Ibu saya melakukan yoga setiap pagi." },
+          { "en": "Dika is in a band. He plays the drums.", "id": "Dika ikut sebuah band. Dia bermain drum." },
+          { "en": "They play badminton on Fridays.", "id": "Mereka bermain bulu tangkis setiap hari Jumat.", "note": "Olahraga tanpa the." }
+        ],
+        "vocabulary": [
+          { "word": "free time", "pos": "noun", "ipa": "/ˌfriː ˈtaɪm/", "meaning": "waktu luang", "example": "What do you do in your free time?" },
+          { "word": "guitar", "pos": "noun", "ipa": "/ɡɪˈtɑː/", "meaning": "gitar", "example": "He plays the guitar." },
+          { "word": "piano", "pos": "noun", "ipa": "/piˈænəʊ/", "meaning": "piano", "example": "Can you play the piano?" },
+          { "word": "drums", "pos": "noun", "ipa": "/drʌmz/", "meaning": "drum", "example": "The drums are very loud." },
+          { "word": "violin", "pos": "noun", "ipa": "/ˌvaɪəˈlɪn/", "meaning": "biola", "example": "Sari plays the violin in the school band." },
+          { "word": "band", "pos": "noun", "ipa": "/bænd/", "meaning": "band, kelompok musik", "example": "My brother is in a rock band." },
+          { "word": "hiking", "pos": "noun", "ipa": "/ˈhaɪkɪŋ/", "meaning": "mendaki, lintas alam", "example": "We go hiking in the mountains." },
+          { "word": "chess", "pos": "noun", "ipa": "/tʃes/", "meaning": "catur", "example": "My grandpa plays chess every evening." }
+        ],
+        "grammar": [
+          { "pattern": "play + olahraga/permainan (tanpa the)", "example": "We play volleyball on Saturdays." },
+          { "pattern": "play the + alat musik", "example": "She plays the violin." },
+          { "pattern": "go + kegiatan -ing / do + yoga, karate, exercise", "example": "I go cycling and do yoga." }
+        ],
+        "mistakes": [
+          { "wrong": "My brother can play piano very well.", "right": "My brother can play the piano very well.", "why": "Alat musik memakai play the." },
+          { "wrong": "We play the football after school.", "right": "We play football after school.", "why": "Olahraga tidak memakai the." },
+          { "wrong": "I play swimming on Sundays.", "right": "I go swimming on Sundays.", "why": "Kegiatan berakhiran -ing memakai go." }
+        ],
+        "summary": "Gunakan **play** untuk olahraga dan permainan (*play football, play chess*), **go** untuk kegiatan *-ing* (*go swimming, go hiking*), dan **do** untuk yoga, karate, dan exercise. Alat musik memakai **play the** (*play the guitar*). Ceritakan hobimu dengan **In my free time, I ...**",
+        "reviewCards": [
+          { "front": "main gitar", "back": "play the guitar (dengan the)" },
+          { "front": "main sepak bola", "back": "play football (tanpa the)" },
+          { "front": "pergi berenang", "back": "go swimming" },
+          { "front": "do + ?", "back": "yoga, karate, exercise" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u09-l5-q1", "type": "dropdown", "category": "grammar", "topic": "free time",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option for each gap. ( — means no word.)",
+          "instructions": "Alat musik → the; olahraga → tanpa the.",
+          "text": "I play ___ guitar, and my sister plays ___ football.",
+          "choices": [["the", "a", "—"], ["the", "a", "—"]],
+          "answers": [0, 2],
+          "explanation": "Alat musik memakai the (play the guitar); olahraga tanpa the (play football)."
+        },
+        {
+          "id": "a1-u09-l5-q2", "type": "multiple_select", "category": "vocabulary", "topic": "free time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which activities go with the verb 'go'? Choose all correct answers.",
+          "options": ["swimming", "chess", "shopping", "the piano", "hiking", "yoga"],
+          "answers": [0, 2, 4],
+          "explanation": "go + kegiatan -ing: go swimming, go shopping, go hiking. play chess, play the piano, do yoga."
+        },
+        {
+          "id": "a1-u09-l5-q3", "type": "essay", "category": "writing", "topic": "free time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write about your free time. What do you do at the weekend? What can you do well? What can't you do?",
+          "instructions": "Tulis 3–6 kalimat. Gunakan play/go/do dan can/can't.",
+          "minWords": 25,
+          "maxWords": 80,
+          "rubric": "general-writing",
+          "explanation": "Contoh: In my free time, I play badminton with my friends. At the weekend, I usually go cycling. I can play the guitar quite well, but I can't play the piano."
+        },
+        {
+          "id": "a1-u09-l5-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "musical instruments",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Sari is in the school band. Her instrument is small and has four strings. She holds it under her chin. She plays the ___.",
+          "options": ["violin", "drums", "piano", "flute"],
+          "answer": 0,
+          "explanation": "Alat musik kecil dengan empat senar yang diletakkan di bawah dagu adalah biola = violin."
+        },
+        {
+          "id": "a1-u09-l5-q5", "type": "sentence_reconstruction", "category": "writing", "topic": "free time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": ["In my free time,", "I go hiking with my friends", "or play the guitar", "at home."],
+          "explanation": "Mulai dengan keterangan waktu (In my free time,), lalu subjek + kegiatan, dan tutup dengan tempat."
+        },
+        {
+          "id": "a1-u09-l5-q6", "type": "error_identification", "category": "grammar", "topic": "musical instruments",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["My brother", "can play", "piano", "very well."],
+          "errorIndex": 2,
+          "correction": "the piano",
+          "explanation": "Alat musik memakai the: play the piano."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u09-t-q1", "type": "single_choice", "category": "grammar", "topic": "can for ability",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Fish ___ walk, but they can swim.",
+      "options": ["can't", "can", "don't can", "aren't"],
+      "answer": 0,
+      "explanation": "Ikan tidak bisa berjalan: can't + kata kerja dasar. but menunjukkan kontras dengan can swim."
+    },
+    {
+      "id": "a1-u09-t-q2", "type": "dialogue_completion", "category": "conversation", "topic": "permission",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the dialogue.",
+      "dialogue": [
+        { "speaker": "Dani", "text": "Can I borrow your bike this afternoon?" },
+        { "speaker": "Ari", "text": null },
+        { "speaker": "Dani", "text": "Thanks a lot!" }
+      ],
+      "options": ["Sure. Here's the key.", "No, I can't.", "Yes, I do.", "Sorry, it isn't."],
+      "answer": 0,
+      "explanation": "Dani berterima kasih, jadi Ari memberi izin: Sure. Here's the key."
+    },
+    {
+      "id": "a1-u09-t-q3", "type": "fill_blank", "category": "grammar", "topic": "can for ability",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Complete with can or can't.",
+      "text": "My little sister is two years old. She ___ walk and talk, but she ___ read.",
+      "answers": [["can"], ["can't", "cannot"]],
+      "explanation": "Anak dua tahun bisa berjalan dan bicara (can), tetapi belum bisa membaca (can't)."
+    },
+    {
+      "id": "a1-u09-t-q4", "type": "drag_drop", "category": "grammar", "topic": "object pronouns",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Drag the correct pronouns into the gaps.",
+      "text": "Mr. and Mrs. Tan are our neighbours. We often visit ___, and they sometimes visit ___.",
+      "bank": ["them", "us", "they", "we", "him"],
+      "answers": ["them", "us"],
+      "explanation": "Mr. and Mrs. Tan sebagai objek → them; we sebagai objek → us."
+    },
+    {
+      "id": "a1-u09-t-q5", "type": "word_order", "category": "grammar", "topic": "can questions",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["Can", "your", "sister", "play", "the", "drums"],
+      "explanation": "Pertanyaan: Can + subjek (your sister) + kata kerja dasar (play) + the drums?"
+    },
+    {
+      "id": "a1-u09-t-q6", "type": "translation", "category": "grammar", "topic": "can for ability",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Dia (perempuan) bisa berbicara bahasa Inggris dengan sangat baik.",
+      "direction": "id-en",
+      "answers": ["She can speak English very well.", "She speaks English very well."],
+      "explanation": "bisa = can; dengan sangat baik = very well (di akhir kalimat)."
+    },
+    {
+      "id": "a1-u09-t-q7", "type": "sentence_correction", "category": "vocabulary", "topic": "free time",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "We play the badminton on Saturdays.",
+      "answers": ["We play badminton on Saturdays."],
+      "explanation": "Olahraga tidak memakai the: play badminton."
+    },
+    {
+      "id": "a1-u09-t-q8", "type": "short_answer", "category": "grammar", "topic": "object pronouns",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Ana says: 'My bag is very heavy. Can you help ___, please?' Write the missing word.",
+      "answers": ["me"],
+      "explanation": "Ana berbicara tentang dirinya sendiri; setelah help gunakan object pronoun me."
+    }
+  ]
+}

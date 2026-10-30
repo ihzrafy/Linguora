@@ -1,0 +1,858 @@
+{
+  "slug": "b1-u06-modals",
+  "number": 6,
+  "title": "Rules, Advice and Deduction",
+  "description": "Menjelaskan aturan, memberi saran, dan membuat kesimpulan logis. Kamu akan belajar must / have to / need to, perbedaan mustn't dan don't have to, should / ought to / had better, serta must / might / can't untuk deduction tentang masa sekarang.",
+  "objectives": [
+    "Menyatakan kewajiban dengan must, have to dan need to dalam present, past dan future",
+    "Membedakan larangan (mustn't) dari ketiadaan kewajiban (don't have to / don't need to)",
+    "Memberi saran dan peringatan dengan should, ought to dan had better",
+    "Membuat deduction tentang masa sekarang dengan must, might/may/could dan can't, serta menjelaskan aturan di sekolah dan tempat kerja"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u06-l1-must-have-to",
+      "title": "Must and Have To: Obligation",
+      "summary": "Menyatakan kewajiban dengan must dan have to, termasuk bentuk past (had to), future (will have to) dan pertanyaan (Do I have to...?).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai must dan have to untuk menyatakan kewajiban",
+        "Memahami perbedaan nuansa antara must (dari pembicara/tulisan resmi) dan have to (dari luar)",
+        "Memakai had to dan will have to untuk kewajiban di masa lalu dan masa depan",
+        "Membuat pertanyaan dengan Do/Does ... have to ...?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Must dan have to = kewajiban\nKita memakai **must** dan **have to** untuk menyatakan bahwa sesuatu *wajib* atau *perlu sekali* dilakukan. In many positive present sentences, both are correct: *I must leave now.* / *I have to leave now.*\n\n| | must | have to |\n|---|---|---|\n| Positive | I/you/she **must** go | I/you **have to** go; she **has to** go |\n| Past | — (tidak ada) | I **had to** go |\n| Future | — (jarang) | I **will have to** go |\n| Question | Must I go? (formal, jarang) | **Do** I **have to** go? / **Does** she **have to** go? |\n\n### Perbedaan nuansa\n- **must** often shows the speaker's own feeling: *I must call my mum tonight* (saya sendiri merasa itu penting). Must juga dipakai dalam **aturan tertulis** dan tanda resmi: *Passengers must show their tickets.*\n- **have to** usually shows an obligation from outside — aturan, hukum, atau situasi: *I have to wear a helmet at work* (perusahaan yang mewajibkan).\n\nDalam percakapan sehari-hari, **have to** lebih sering dipakai daripada must.\n\n### Must tidak punya bentuk past\nMust only works for the present and the near future. Untuk masa lalu, selalu pakai **had to**:\n- ✗ *Yesterday I must work late.*\n- ✓ *Yesterday I **had to** work late.*\n\nFor the future, use **will have to**: *Next year you'll have to pay for the course.*\n\n### Have to adalah verb biasa\nKarena *have to* berperilaku seperti verb biasa, pertanyaan dan negative-nya memakai **do/does/did**:\n- *Do you have to work on Saturdays?* — *Yes, I do.*\n- *Did she have to wait long?* — *No, she didn't.*\n- Perhatikan **has to** untuk he/she/it: *My brother has to get up at 5 a.m.*\n\n### Hati-hati\n- Setelah **must** langsung V1, tanpa *to*: ✗ *must to go* → ✓ *must go*.\n- Jangan pakai *-s* setelah must: ✗ *She musts* → ✓ *She must*.\n- Untuk negative, *mustn't* dan *don't have to* punya arti yang **sangat berbeda** — kita pelajari di lesson berikutnya.",
+        "examples": [
+          { "en": "I must remember to buy a birthday card for Sinta.", "id": "Aku harus ingat membeli kartu ulang tahun untuk Sinta.", "note": "must: kewajiban yang dirasakan pembicara sendiri." },
+          { "en": "Nurses at Cedar Hill Hospital have to work night shifts.", "id": "Perawat di Rumah Sakit Cedar Hill harus bekerja shift malam.", "note": "have to: kewajiban dari luar (pekerjaan)." },
+          { "en": "We had to stand for the whole journey because the train was full.", "id": "Kami harus berdiri sepanjang perjalanan karena keretanya penuh.", "note": "had to: kewajiban di masa lalu." },
+          { "en": "Does your sister have to wear a uniform at work?", "id": "Apakah kakakmu harus memakai seragam di tempat kerja?", "note": "Pertanyaan: Does + subject + have to + V1." },
+          { "en": "You'll have to show your passport at the gate.", "id": "Kamu harus menunjukkan paspormu di gerbang.", "note": "will have to: kewajiban di masa depan." }
+        ],
+        "vocabulary": [
+          { "word": "obligation", "pos": "noun", "ipa": "/ˌɒblɪˈɡeɪʃn/", "meaning": "kewajiban", "example": "Paying taxes is a legal obligation." },
+          { "word": "rule", "pos": "noun", "ipa": "/ruːl/", "meaning": "aturan", "example": "The school has a strict rule about mobile phones." },
+          { "word": "uniform", "pos": "noun", "ipa": "/ˈjuːnɪfɔːm/", "meaning": "seragam", "example": "The waiters have to wear a black uniform." },
+          { "word": "shift", "pos": "noun", "ipa": "/ʃɪft/", "meaning": "giliran kerja; shift", "example": "Dimas works the early shift this week." },
+          { "word": "necessary", "pos": "adjective", "ipa": "/ˈnesəsəri/", "meaning": "perlu; diperlukan", "example": "Is it necessary to bring my own laptop?" },
+          { "word": "sign", "pos": "noun", "ipa": "/saɪn/", "meaning": "tanda; papan petunjuk", "example": "The sign says that drivers must slow down." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + must + V1", "example": "You must be careful with that knife.", "note": "Tanpa to, tanpa -s." },
+          { "pattern": "Subject + have to / has to + V1", "example": "She has to finish the report today.", "note": "has to untuk he/she/it." },
+          { "pattern": "Subject + had to + V1 (past) / will have to + V1 (future)", "example": "We had to leave early. / You'll have to wait.", "note": "Must tidak punya bentuk past." },
+          { "pattern": "Do/Does/Did + subject + have to + V1?", "example": "Did you have to pay for the course?", "note": "Pertanyaan memakai do/does/did." }
+        ],
+        "mistakes": [
+          { "wrong": "Yesterday I must work until nine.", "right": "Yesterday I had to work until nine.", "why": "Must tidak punya bentuk past; pakai had to untuk masa lalu." },
+          { "wrong": "You must to show your ticket.", "right": "You must show your ticket.", "why": "Setelah must langsung V1, tanpa to." },
+          { "wrong": "My father have to travel a lot.", "right": "My father has to travel a lot.", "why": "Subject he/she/it memakai has to." },
+          { "wrong": "Have you to wear a tie at work?", "right": "Do you have to wear a tie at work?", "why": "Have to adalah verb biasa, jadi pertanyaannya memakai do/does." }
+        ],
+        "summary": "**Must** and **have to** both express obligation. *Must* sering menunjukkan perasaan pembicara atau aturan tertulis; *have to* menunjukkan kewajiban dari luar. Untuk masa lalu pakai **had to**, untuk masa depan **will have to**, dan untuk pertanyaan **Do/Does ... have to ...?**",
+        "reviewCards": [
+          { "front": "Past form of must (obligation)", "back": "had to — Yesterday I had to work late." },
+          { "front": "She ___ get up at 5 a.m. (have to)", "back": "has to" },
+          { "front": "Kamu harus menunggu besok. (future)", "back": "You'll have to wait tomorrow." },
+          { "front": "Pertanyaan dengan have to", "back": "Do you have to ...? / Does he have to ...? / Did they have to ...?" },
+          { "front": "must vs have to (nuansa)", "back": "must = dari pembicara / aturan tertulis; have to = dari luar (aturan, situasi)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u06-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "had to for past obligation",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Yesterday the buses weren't running, so I ___ walk to work.",
+          "instructions": "Perhatikan kata *yesterday*.",
+          "options": ["had to", "must", "have to", "musted"],
+          "answer": 0,
+          "explanation": "*Yesterday* menunjukkan masa lalu. Must tidak punya bentuk past, jadi kita pakai **had to**. *Musted* bukan kata dalam bahasa Inggris.",
+          "misconception": "Must bisa dipakai untuk masa lalu."
+        },
+        {
+          "id": "b1-u06-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "have to / has to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the correct form of have to.",
+          "text": "My aunt is a pilot, so she ___ spend a lot of time away from home.",
+          "answers": [["has to"]],
+          "explanation": "Subject *she* (third person singular) → **has to** + V1. The sentence is about a general situation, so we use the present simple."
+        },
+        {
+          "id": "b1-u06-l1-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "must / have to",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Kami harus memakai seragam di sekolah.",
+          "direction": "id-en",
+          "answers": [
+            "We have to wear a uniform at school.",
+            "We must wear a uniform at school.",
+            "We have to wear uniforms at school.",
+            "We must wear uniforms at school.",
+            "We have to wear a school uniform.",
+            "We must wear a school uniform.",
+            "We have to wear school uniforms.",
+            "We must wear school uniforms.",
+            "We have got to wear a uniform at school.",
+            "We've got to wear a uniform at school.",
+            "At school we have to wear a uniform.",
+            "At school we must wear a uniform."
+          ],
+          "explanation": "*Harus* = **have to** atau **must**. Aturan sekolah adalah kewajiban dari luar, jadi *have to* paling umum, tetapi *must* juga benar. *Memakai seragam* = *wear a uniform*."
+        },
+        {
+          "id": "b1-u06-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "had to for past obligation",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["When I was at university,", "I must", "share a small room", "with two other students."],
+          "errorIndex": 1,
+          "correction": "I had to",
+          "explanation": "Kalimat ini tentang masa lalu (*When I was at university*). Must tidak punya bentuk past, jadi harus **I had to share**."
+        },
+        {
+          "id": "b1-u06-l1-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "have to questions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct words to complete the question.",
+          "text": "A: ___ your brother ___ work on Sundays? B: No, he doesn't. He's free at weekends.",
+          "choices": [["Does", "Do", "Has"], ["have to", "has to", "must"]],
+          "answers": [0, 0],
+          "explanation": "Pertanyaan dengan have to memakai **Does** untuk he/she/it, lalu **have to** (bentuk dasar, karena -s sudah ada di *does*). Jawaban *No, he doesn't* juga menunjukkan auxiliary *does*."
+        },
+        {
+          "id": "b1-u06-l1-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "will have to for future obligation",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it has the same meaning.",
+          "sentence": "Next month it will be necessary for us to move to a new office.",
+          "cue": "Use will have to. Begin with: Next month we ...",
+          "answers": [
+            "Next month we will have to move to a new office.",
+            "Next month we'll have to move to a new office."
+          ],
+          "explanation": "Kewajiban di masa depan → **will have to + V1**. Kita tidak bisa berkata *will must*. Contraction *we'll* juga benar."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u06-l2-dont-have-to-need-to",
+      "title": "Mustn't vs Don't Have To",
+      "summary": "Membedakan larangan (mustn't) dari 'tidak perlu' (don't have to / don't need to / needn't), serta memakai need to untuk kebutuhan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai mustn't untuk larangan",
+        "Memakai don't have to, don't need to dan needn't untuk menyatakan 'tidak perlu'",
+        "Memakai need to dan Do I need to ...? untuk menanyakan kebutuhan",
+        "Menghindari kesalahan karena terjemahan 'tidak harus'"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dua negative yang sangat berbeda\nIn positive sentences, *must* and *have to* are often similar. But in **negative** sentences they have completely different meanings. Ini salah satu kesalahan paling umum bagi pelajar Indonesia.\n\n| Bentuk | Arti | Contoh |\n|---|---|---|\n| **mustn't** (must not) | dilarang; tidak boleh | You **mustn't** use your phone in the exam. |\n| **don't have to** | tidak perlu (boleh kalau mau) | You **don't have to** bring a pen — we have plenty. |\n| **don't need to** | tidak perlu | You **don't need to** print the ticket. |\n| **needn't** | tidak perlu (lebih formal/British) | You **needn't** wait for me. |\n\n### Mustn't = prohibition\n**Mustn't** means *it is not allowed* or *it is a bad idea*. Ada larangan atau bahaya: *Children mustn't play near the river.* Dalam bahasa Indonesia biasanya diterjemahkan **tidak boleh** atau **dilarang**.\n\n### Don't have to / don't need to = no obligation\n**Don't have to** means *it is not necessary, but you can if you want*. Tidak ada larangan, hanya tidak wajib: *It's a holiday tomorrow, so I don't have to get up early.* (Kalau mau bangun pagi, boleh saja.)\n\n**Don't need to** dan **needn't** artinya sama. For he/she/it: *She doesn't have to... / She doesn't need to...*\n\n### Need to = it is necessary\n**Need to** works like a normal verb: *I need to renew my passport.* Questions: *Do I need to book in advance?* — *No, you don't (need to).*\n\nIn the past: *We **didn't have to** pay* / *We **didn't need to** pay* = tidak perlu membayar.\n\n### Awas terjemahan 'tidak harus'\nKalimat *Kamu tidak harus datang* biasanya berarti *tidak perlu datang* → **You don't have to come.** Bukan *You mustn't come* (= kamu dilarang datang). Selalu tanyakan: **apakah ini larangan, atau hanya tidak wajib?**\n- Larangan → *mustn't* / *can't*\n- Tidak wajib → *don't have to* / *don't need to* / *needn't*\n\n### Hati-hati dengan bentuk\n- ✗ *You don't need bring* → ✓ *You don't need **to** bring* (need to).\n- ✓ *You needn't bring* (needn't langsung V1, tanpa to).\n- ✗ *She don't have to* → ✓ *She **doesn't** have to*.",
+        "examples": [
+          { "en": "You mustn't park here. It's an emergency exit.", "id": "Kamu tidak boleh parkir di sini. Ini pintu darurat.", "note": "Larangan." },
+          { "en": "You don't have to pay to enter the museum on Mondays.", "id": "Kamu tidak perlu membayar untuk masuk museum pada hari Senin.", "note": "Tidak wajib; masuk gratis." },
+          { "en": "Do I need to register before the workshop?", "id": "Apakah saya perlu mendaftar sebelum lokakarya?", "note": "Pertanyaan dengan need to." },
+          { "en": "Raka doesn't need to cook tonight because we're ordering food.", "id": "Raka tidak perlu memasak malam ini karena kita akan memesan makanan.", "note": "doesn't need to untuk he." },
+          { "en": "We didn't have to queue because we had booked our tickets online.", "id": "Kami tidak perlu antre karena kami sudah memesan tiket secara online.", "note": "Past: didn't have to." }
+        ],
+        "vocabulary": [
+          { "word": "optional", "pos": "adjective", "ipa": "/ˈɒpʃənl/", "meaning": "opsional; boleh dipilih, tidak wajib", "example": "The Saturday class is optional." },
+          { "word": "register", "pos": "verb", "ipa": "/ˈredʒɪstə(r)/", "meaning": "mendaftar", "example": "You need to register online before Friday." },
+          { "word": "in advance", "pos": "phrase", "ipa": "/ɪn ədˈvɑːns/", "meaning": "sebelumnya; di muka", "example": "You don't have to book in advance." },
+          { "word": "free of charge", "pos": "phrase", "ipa": "/friː əv ˈtʃɑːdʒ/", "meaning": "gratis; tanpa biaya", "example": "Parking is free of charge after 6 p.m." },
+          { "word": "emergency exit", "pos": "noun", "ipa": "/iˈmɜːdʒənsi ˈeksɪt/", "meaning": "pintu darurat", "example": "You mustn't block the emergency exit." },
+          { "word": "queue", "pos": "verb / noun", "ipa": "/kjuː/", "meaning": "antre; antrean", "example": "We had to queue for an hour." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + mustn't + V1", "example": "You mustn't touch the paintings.", "note": "Larangan: tidak boleh." },
+          { "pattern": "Subject + don't/doesn't have to + V1", "example": "He doesn't have to wear a suit.", "note": "Tidak perlu, tapi boleh." },
+          { "pattern": "Subject + don't/doesn't need to + V1 / needn't + V1", "example": "You don't need to call. / You needn't call.", "note": "Needn't tanpa to." },
+          { "pattern": "Do/Does + subject + need to + V1?", "example": "Do we need to bring our ID cards?", "note": "Menanyakan apakah sesuatu perlu." }
+        ],
+        "mistakes": [
+          { "wrong": "You don't have to smoke in the hospital. It's forbidden.", "right": "You mustn't smoke in the hospital. It's forbidden.", "why": "Ini larangan, jadi pakai mustn't, bukan don't have to (tidak perlu)." },
+          { "wrong": "You mustn't come to the party if you're busy.", "right": "You don't have to come to the party if you're busy.", "why": "Maksudnya 'tidak perlu datang', bukan 'dilarang datang'." },
+          { "wrong": "You don't need bring anything.", "right": "You don't need to bring anything.", "why": "Need dalam pola ini memakai to + V1. Bentuk tanpa to hanya needn't." },
+          { "wrong": "She don't have to work tomorrow.", "right": "She doesn't have to work tomorrow.", "why": "Subject she memakai doesn't." }
+        ],
+        "summary": "**Mustn't** = prohibition (dilarang, tidak boleh). **Don't have to / don't need to / needn't** = no obligation (tidak perlu, tapi boleh kalau mau). Jangan menerjemahkan *tidak harus* secara langsung menjadi *mustn't*; tanyakan dulu apakah itu larangan atau hanya tidak wajib.",
+        "reviewCards": [
+          { "front": "mustn't", "back": "dilarang / tidak boleh — You mustn't park here." },
+          { "front": "don't have to", "back": "tidak perlu (tapi boleh) — You don't have to come early." },
+          { "front": "needn't + ...?", "back": "needn't + V1 tanpa to — You needn't wait." },
+          { "front": "Kamu tidak perlu membawa makanan.", "back": "You don't have to / don't need to bring food." },
+          { "front": "Past of don't have to", "back": "didn't have to — We didn't have to pay." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u06-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "mustn't vs don't have to",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "It's Sunday tomorrow, so I ___ get up early. I can sleep until nine.",
+          "instructions": "Apakah ini larangan atau hanya tidak perlu?",
+          "options": ["don't have to", "mustn't", "have to", "must"],
+          "answer": 0,
+          "explanation": "Bangun pagi tidak dilarang, hanya **tidak perlu** → *don't have to*. *Mustn't* berarti dilarang, dan *have to/must* berlawanan dengan *I can sleep until nine*.",
+          "misconception": "Mustn't berarti 'tidak perlu'."
+        },
+        {
+          "id": "b1-u06-l2-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "mustn't vs don't have to",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Welcome to Ridgeway Zoo! Visitors ___ feed the animals because human food can make them sick. You ___ pay for parking — it's free of charge.",
+          "bank": ["mustn't", "don't have to", "must", "has to"],
+          "answers": ["mustn't", "don't have to"],
+          "explanation": "Memberi makan hewan adalah **larangan** → *mustn't*. Parkir gratis, jadi **tidak perlu** membayar → *don't have to*."
+        },
+        {
+          "id": "b1-u06-l2-q3",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "mustn't meaning",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into Indonesian.",
+          "source": "You mustn't smoke here.",
+          "direction": "en-id",
+          "answers": [
+            "Kamu tidak boleh merokok di sini.",
+            "Anda tidak boleh merokok di sini.",
+            "Kau tidak boleh merokok di sini.",
+            "Dilarang merokok di sini.",
+            "Kamu dilarang merokok di sini.",
+            "Anda dilarang merokok di sini.",
+            "Kamu jangan merokok di sini.",
+            "Jangan merokok di sini."
+          ],
+          "explanation": "**Mustn't** = *tidak boleh* / *dilarang*. Bukan *tidak perlu* — itu artinya *don't have to*."
+        },
+        {
+          "id": "b1-u06-l2-q4",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "no obligation",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentences mean 'it is not necessary to come early'? Choose all correct answers.",
+          "options": [
+            "You don't have to come early.",
+            "You mustn't come early.",
+            "You don't need to come early.",
+            "You needn't come early.",
+            "You must come early."
+          ],
+          "answers": [0, 2, 3],
+          "explanation": "**Don't have to**, **don't need to** dan **needn't** semuanya berarti *tidak perlu*. *Mustn't* berarti dilarang, dan *must* berarti wajib."
+        },
+        {
+          "id": "b1-u06-l2-q5",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "need to questions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Fajar", "text": "Do I need to print my concert ticket?" },
+            { "speaker": "Staff", "text": null },
+            { "speaker": "Fajar", "text": "Great, that saves paper." }
+          ],
+          "options": [
+            "No, you don't need to. You can show it on your phone.",
+            "No, you mustn't. You can show it on your phone.",
+            "Yes, you mustn't print it.",
+            "No, you don't need print it."
+          ],
+          "answer": 0,
+          "explanation": "Fajar senang karena tidak perlu mencetak → **No, you don't need to**. *You mustn't* berarti dilarang (tidak logis di sini), dan *don't need print* salah bentuk (harus *need to*)."
+        },
+        {
+          "id": "b1-u06-l2-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "mustn't for prohibition",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence. Use mustn't.",
+          "sentence": "You don't have to touch that wire. It's dangerous!",
+          "answers": [
+            "You mustn't touch that wire. It's dangerous!",
+            "You must not touch that wire. It's dangerous!",
+            "You mustn't touch that wire. It is dangerous!",
+            "You must not touch that wire. It is dangerous!"
+          ],
+          "explanation": "Kabel itu berbahaya, jadi ini **larangan** → *mustn't touch*. *Don't have to touch* berarti 'tidak perlu menyentuh', yang tidak cocok dengan peringatan *It's dangerous!*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u06-l3-should-ought-to-had-better",
+      "title": "Should, Ought To and Had Better",
+      "summary": "Memberi saran dengan should dan ought to, serta saran kuat atau peringatan dengan had better ('d better).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai should dan ought to untuk memberi saran umum",
+        "Memakai had better / had better not untuk saran kuat dengan peringatan",
+        "Menghindari kesalahan bentuk seperti had better to atau ought + V1"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Should dan ought to\nYou already know **should** from A2: *You should drink more water.* **Ought to** has almost the same meaning — memberi saran atau mengatakan apa yang benar/baik dilakukan. *Ought to* sedikit lebih formal dan lebih jarang dipakai dalam percakapan.\n\n| Bentuk | Positive | Negative | Question |\n|---|---|---|---|\n| should | You **should** rest. | You **shouldn't** worry. | **Should** I call him? |\n| ought to | You **ought to** rest. | (biasanya: shouldn't) | (biasanya: Should I ...?) |\n| had better | You**'d better** hurry. | You**'d better not** be late. | (jarang) |\n\nPerhatikan: *ought* selalu diikuti **to**: *You ought **to** see a doctor.* Untuk negative dan pertanyaan, penutur biasanya memilih *should*.\n\n### Had better = strong advice + warning\n**Had better** (contraction **'d better**) is stronger than should. Kita memakainya untuk situasi **spesifik dan mendesak**, sering dengan konsekuensi buruk jika saran tidak diikuti:\n- *We'd better leave now, or we'll miss the train.*\n- *You'd better not tell Mum — she'll be angry.*\n\nMeskipun memakai *had*, artinya **bukan past**. It refers to now or the near future.\n\n### Bentuk had better\n- **had better + V1** (tanpa *to*): ✗ *You'd better to go* → ✓ *You'd better go*.\n- Negative: **had better not + V1**: ✗ *You hadn't better* → ✓ *You'd better not*.\n- Jangan pakai had better untuk saran umum: *People should eat vegetables* (umum) — bukan *People had better eat vegetables*.\n\n### Memilih yang tepat\n| Situasi | Pilihan terbaik |\n|---|---|\n| Saran umum, opini | should / ought to |\n| Saran mendesak, ada risiko | had better |\n| Aturan/kewajiban | must / have to (lesson 1) |\n\nUseful responses to advice: *Good idea, I will.* / *You're right.* / *Thanks, but I don't think that will work.*",
+        "examples": [
+          { "en": "You should try the noodle stall near the station. It's excellent.", "id": "Kamu sebaiknya mencoba kedai mi dekat stasiun. Enak sekali.", "note": "Saran umum." },
+          { "en": "We ought to visit Grandma more often.", "id": "Kita seharusnya lebih sering mengunjungi Nenek.", "note": "ought to + V1." },
+          { "en": "You'd better take a jacket. It's going to be cold tonight.", "id": "Sebaiknya kamu bawa jaket. Malam ini akan dingin.", "note": "had better: saran kuat untuk situasi spesifik." },
+          { "en": "We'd better not make any noise. The baby is sleeping.", "id": "Sebaiknya kita tidak berisik. Bayinya sedang tidur.", "note": "had better not + V1." },
+          { "en": "Should I apologise to Wulan?", "id": "Apakah sebaiknya aku minta maaf kepada Wulan?", "note": "Pertanyaan meminta saran." }
+        ],
+        "vocabulary": [
+          { "word": "recommend", "pos": "verb", "ipa": "/ˌrekəˈmend/", "meaning": "merekomendasikan; menyarankan", "example": "Can you recommend a good dentist?" },
+          { "word": "warn", "pos": "verb", "ipa": "/wɔːn/", "meaning": "memperingatkan", "example": "I warned him about the traffic." },
+          { "word": "exhausted", "pos": "adjective", "ipa": "/ɪɡˈzɔːstɪd/", "meaning": "sangat lelah; kelelahan", "example": "You look exhausted. You should get some rest." },
+          { "word": "suggestion", "pos": "noun", "ipa": "/səˈdʒestʃən/", "meaning": "usul; saran", "example": "That's a great suggestion." },
+          { "word": "on time", "pos": "phrase", "ipa": "/ɒn taɪm/", "meaning": "tepat waktu", "example": "We'd better leave now if we want to arrive on time." },
+          { "word": "get some rest", "pos": "phrase", "ipa": "/ɡet səm rest/", "meaning": "beristirahat", "example": "You ought to get some rest before the trip." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + should / shouldn't + V1", "example": "You shouldn't skip breakfast.", "note": "Saran umum." },
+          { "pattern": "Subject + ought to + V1", "example": "She ought to check her emails.", "note": "Ought selalu dengan to." },
+          { "pattern": "Subject + had better ('d better) + V1", "example": "You'd better hurry.", "note": "Saran kuat, situasi spesifik, bukan past." },
+          { "pattern": "Subject + had better not + V1", "example": "You'd better not forget your passport.", "note": "Not setelah better." }
+        ],
+        "mistakes": [
+          { "wrong": "You'd better to call the bank.", "right": "You'd better call the bank.", "why": "Had better diikuti V1 tanpa to." },
+          { "wrong": "You hadn't better be late.", "right": "You'd better not be late.", "why": "Negative had better adalah had better not." },
+          { "wrong": "You ought see a doctor.", "right": "You ought to see a doctor.", "why": "Ought selalu diikuti to." },
+          { "wrong": "People had better eat vegetables every day.", "right": "People should eat vegetables every day.", "why": "Ini saran umum, jadi pakai should. Had better hanya untuk situasi spesifik dan mendesak." }
+        ],
+        "summary": "**Should** and **ought to** give general advice (*ought* always takes *to*). **Had better ('d better) + V1** memberi saran kuat atau peringatan untuk situasi spesifik; bentuk negative-nya **'d better not**. Meskipun ada *had*, artinya tentang sekarang atau masa depan.",
+        "reviewCards": [
+          { "front": "You'd better ___ (hurry).", "back": "hurry — had better + V1 tanpa to" },
+          { "front": "Negative of had better", "back": "had better not — You'd better not be late." },
+          { "front": "ought ___ see a doctor", "back": "ought to see a doctor" },
+          { "front": "should vs had better", "back": "should = saran umum; had better = saran kuat/peringatan untuk situasi spesifik" },
+          { "front": "Sebaiknya kita berangkat sekarang, atau kita akan ketinggalan bus.", "back": "We'd better leave now, or we'll miss the bus." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u06-l3-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "had better",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "instructions": "Had better diikuti V1 tanpa to. Pikirkan juga artinya.",
+          "text": "Look at those dark clouds! You ___ take an umbrella, or you'll get wet.",
+          "choices": [["'d better", "'d better to", "'d better not"]],
+          "answers": [0],
+          "explanation": "Saran kuat untuk situasi spesifik → **'d better + V1**: *You'd better take an umbrella.* *'d better to* salah bentuk, dan *'d better not* berlawanan dengan maksudnya."
+        },
+        {
+          "id": "b1-u06-l3-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "ought to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["You", "ought", "to", "apologise", "to", "your", "sister"],
+          "explanation": "Pola: **subject + ought to + V1**: *You ought to apologise to your sister.* Kata *to* kedua adalah preposition setelah *apologise* (minta maaf kepada)."
+        },
+        {
+          "id": "b1-u06-l3-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "giving advice",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Your friend Galih has an important job interview tomorrow morning and he is very nervous. Give him at least three pieces of advice. Use should, ought to and had better.",
+          "targetPhrases": ["You should", "You ought to", "You'd better", "You'd better not"],
+          "sampleAnswer": "Don't worry, Galih. You should prepare answers to some common questions tonight. You ought to read about the company, too, so you can ask good questions. You'd better go to bed early, and you'd better not be late, so leave home with plenty of time. Good luck!",
+          "explanation": "Gunakan *should* dan *ought to* untuk saran umum, dan *'d better / 'd better not* untuk saran kuat yang mendesak (misalnya tidak boleh terlambat)."
+        },
+        {
+          "id": "b1-u06-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "had better not",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["The boss is in a bad mood,", "so you", "had better not to", "ask for a day off today."],
+          "errorIndex": 2,
+          "correction": "had better not",
+          "explanation": "Pola negative-nya adalah **had better not + V1** tanpa *to*: *you had better not ask...*"
+        },
+        {
+          "id": "b1-u06-l3-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "had better not",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the sentence with the correct form of had better (positive or negative).",
+          "text": "The roads are very icy tonight. We ___ drive. Let's take the train instead.",
+          "answers": [["had better not", "'d better not"]],
+          "explanation": "Mengemudi di jalan licin itu berbahaya, dan kalimat berikutnya menyarankan naik kereta. Jadi kita butuh saran negative: **had better not** (*We'd better not drive*)."
+        },
+        {
+          "id": "b1-u06-l3-q6",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "advice vocabulary",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "\"You look exhausted. You should get some rest before your night shift.\" What does 'exhausted' mean?",
+          "options": ["very tired", "very bored", "very angry", "very hungry"],
+          "answer": 0,
+          "explanation": "**Exhausted** = sangat lelah. Konteks *get some rest* (beristirahat) menunjukkan bahwa orang itu sangat capek."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u06-l4-deduction",
+      "title": "Must, Might and Can't: Deduction",
+      "summary": "Membuat kesimpulan logis tentang masa sekarang: must (pasti), might/may/could (mungkin), can't (pasti tidak).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai must untuk kesimpulan yang hampir pasti benar",
+        "Memakai can't untuk kesimpulan yang hampir pasti tidak benar",
+        "Memakai might, may dan could untuk kemungkinan",
+        "Memakai must be + -ing untuk deduction tentang aksi yang sedang terjadi"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Modals untuk deduction\nSo far in this unit, *must* meant obligation. But modals have a second use: **deduction** — membuat kesimpulan logis berdasarkan bukti (*evidence*). Kita tidak tahu pasti, tetapi kita menebak dengan alasan.\n\n| Seberapa yakin? | Modal | Contoh |\n|---|---|---|\n| ~95% yakin **benar** | **must** | The lights are on. They **must** be at home. |\n| ~50% mungkin | **might / may / could** | He **might** be at the gym, or he **could** be at work. |\n| ~95% yakin **tidak benar** | **can't** | She **can't** be hungry — she's just had lunch. |\n\n### Must = I'm sure it's true\n*Ari has been working for twelve hours. He **must** be exhausted.* Kita tidak bertanya kepada Ari, tetapi buktinya kuat.\n\n### Can't = I'm sure it's not true\nThe opposite of deduction *must* is **can't**, NOT *mustn't*. Ini penting:\n- ✓ *That **can't** be Lina. She's in Singapore this week.*\n- ✗ *That mustn't be Lina.* (mustn't = larangan, bukan deduction)\n\n### Might / may / could = it's possible\nYou learned *might* and *may* in Unit 3 for future possibility. They also work for **present** possibility: *The phone is ringing. It **might** be the delivery driver.* **Could** juga bisa dipakai dalam kalimat positive: *It **could** be my neighbour.* Untuk negative kemungkinan, pakai **might not / may not**: *She might not know about the meeting.*\n\n### Struktur\n- **modal + be + adjective/noun**: *He must be tired. / It can't be true.*\n- **modal + V1**: *They must live nearby. / She might know the answer.*\n- **modal + be + V-ing** (aksi yang sedang berlangsung): *Rudi isn't answering. He **must be driving**.*\n\n### Tips\nDeduction selalu butuh **bukti**. Saat menjawab soal, cari petunjuk dalam kalimat: angka, tempat, waktu, kebiasaan. Then decide: sure it's true (*must*), possible (*might/may/could*), or sure it's impossible (*can't*).",
+        "examples": [
+          { "en": "Sari's car is outside. She must be at home.", "id": "Mobil Sari ada di luar. Dia pasti ada di rumah.", "note": "must: hampir pasti benar." },
+          { "en": "This can't be the right address. There's no café here.", "id": "Ini tidak mungkin alamat yang benar. Tidak ada kafe di sini.", "note": "can't: hampir pasti tidak benar." },
+          { "en": "I'm not sure where Doni is. He might be in the library.", "id": "Aku tidak yakin di mana Doni. Dia mungkin di perpustakaan.", "note": "might: mungkin." },
+          { "en": "Listen to that music! The neighbours must be having a party.", "id": "Dengar musik itu! Tetangga pasti sedang mengadakan pesta.", "note": "must be + -ing untuk aksi yang sedang terjadi." },
+          { "en": "Maya isn't replying. She may not have her phone with her.", "id": "Maya tidak membalas. Mungkin dia tidak membawa ponselnya.", "note": "may not: kemungkinan negative." }
+        ],
+        "vocabulary": [
+          { "word": "evidence", "pos": "noun (uncountable)", "ipa": "/ˈevɪdəns/", "meaning": "bukti", "example": "There's no evidence that he was here." },
+          { "word": "certain", "pos": "adjective", "ipa": "/ˈsɜːtn/", "meaning": "yakin; pasti", "example": "I'm not certain, but she might be his sister." },
+          { "word": "recognise", "pos": "verb", "ipa": "/ˈrekəɡnaɪz/", "meaning": "mengenali", "example": "I don't recognise this number." },
+          { "word": "accent", "pos": "noun", "ipa": "/ˈæksent/", "meaning": "logat; aksen", "example": "He has a strong northern accent." },
+          { "word": "fluent", "pos": "adjective", "ipa": "/ˈfluːənt/", "meaning": "fasih; lancar", "example": "She can't be fluent yet; she started last month." },
+          { "word": "nearby", "pos": "adverb / adjective", "ipa": "/ˌnɪəˈbaɪ/", "meaning": "di dekat sini; terdekat", "example": "They walk to school, so they must live nearby." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + must + be / V1 (sure it's true)", "example": "You must be Mrs. Lestari's son.", "note": "Deduction positif." },
+          { "pattern": "Subject + can't + be / V1 (sure it's not true)", "example": "He can't be twenty. He looks about fifteen.", "note": "Bukan mustn't." },
+          { "pattern": "Subject + might / may / could + be / V1 (possible)", "example": "It might be in your bag.", "note": "Negative: might not / may not." },
+          { "pattern": "Subject + must / might / can't + be + V-ing", "example": "She can't be sleeping; I can hear her voice.", "note": "Aksi yang sedang berlangsung." }
+        ],
+        "mistakes": [
+          { "wrong": "That mustn't be Kevin. He's on holiday in Bali.", "right": "That can't be Kevin. He's on holiday in Bali.", "why": "Lawan deduction must adalah can't; mustn't berarti larangan." },
+          { "wrong": "She must to be at work now.", "right": "She must be at work now.", "why": "Setelah modal langsung V1/be, tanpa to." },
+          { "wrong": "He might is at the gym.", "right": "He might be at the gym.", "why": "Setelah modal pakai bentuk dasar be, bukan is." },
+          { "wrong": "They must watching TV.", "right": "They must be watching TV.", "why": "Untuk aksi yang sedang berlangsung: must + be + V-ing." }
+        ],
+        "summary": "For deduction about the present: **must** = I'm sure it's true, **might/may/could** = it's possible, **can't** = I'm sure it's not true. Lawan dari *must* dalam deduction adalah **can't**, bukan *mustn't*. Gunakan **modal + be + V-ing** untuk aksi yang sedang terjadi.",
+        "reviewCards": [
+          { "front": "Opposite of deduction must", "back": "can't — It can't be true." },
+          { "front": "Dia pasti lelah. (deduction)", "back": "He must be tired." },
+          { "front": "Mungkin dia sedang di perpustakaan.", "back": "She might / may / could be in the library." },
+          { "front": "They aren't answering. They must ___ (sleep).", "back": "be sleeping — must + be + V-ing" },
+          { "front": "Negative possibility", "back": "might not / may not — She might not know." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u06-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "can't for negative deduction",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Dina's lights are off, her car isn't in the garage, and she isn't answering her phone. She ___ be at home.",
+          "instructions": "Bukti menunjukkan sesuatu yang hampir pasti TIDAK benar.",
+          "options": ["can't", "must", "mustn't", "has to"],
+          "answer": 0,
+          "explanation": "Semua bukti menunjukkan Dina tidak di rumah → kita yakin itu tidak benar → **can't**. *Mustn't* adalah larangan, bukan deduction.",
+          "misconception": "Mustn't adalah lawan dari deduction must."
+        },
+        {
+          "id": "b1-u06-l4-q2",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "deduction",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Match each situation with the most logical deduction.",
+          "pairs": [
+            { "left": "Tomi has just won first prize in the competition.", "right": "He must be very happy." },
+            { "left": "Lisa only started learning Japanese last week.", "right": "She can't be fluent yet." },
+            { "left": "The phone is ringing, but I don't recognise the number.", "right": "It might be the delivery driver." },
+            { "left": "The Golden Spoon restaurant is full every night.", "right": "The food must be good." }
+          ],
+          "explanation": "Menang lomba → pasti senang (**must**). Baru belajar seminggu → tidak mungkin fasih (**can't**). Nomor tidak dikenal → mungkin kurir (**might**). Restoran selalu penuh → makanannya pasti enak (**must**)."
+        },
+        {
+          "id": "b1-u06-l4-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "must for deduction",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence using a modal of deduction.",
+          "sentence": "I'm sure this is Kevin's bag. It has his name on it.",
+          "cue": "Use must. Begin with: This ...",
+          "answers": [
+            "This must be Kevin's bag.",
+            "This must be Kevin's bag. It has his name on it.",
+            "This must be Kevin's bag because it has his name on it."
+          ],
+          "explanation": "*I'm sure ... is* (yakin benar) → **must be**: *This must be Kevin's bag.*"
+        },
+        {
+          "id": "b1-u06-l4-q4",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "must vs can't deduction",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct modals into the gaps.",
+          "text": "Arif has worked for twelve hours today, so he ___ be exhausted. And he ___ be at the office now — look, he's standing at the bus stop!",
+          "bank": ["must", "can't", "mustn't", "has to"],
+          "answers": ["must", "can't"],
+          "explanation": "Bekerja 12 jam → pasti sangat lelah (**must**). Dia terlihat di halte bus → tidak mungkin di kantor (**can't**). *Mustn't* dan *has to* menyatakan larangan/kewajiban, bukan deduction."
+        },
+        {
+          "id": "b1-u06-l4-q5",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "might / may / could for possibility",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write ONE modal verb that shows possibility (not certainty): 'Someone is knocking at the door. I'm not sure who it is. It ___ be the postman.'",
+          "answers": ["might", "may", "could"],
+          "explanation": "Pembicara tidak yakin (*I'm not sure*), jadi kita butuh modal kemungkinan: **might**, **may** atau **could**. *Must* (yakin) dan *can't* (yakin tidak) tidak cocok."
+        },
+        {
+          "id": "b1-u06-l4-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "can't for negative deduction",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "She mustn't be from Ireland. She has an Australian accent.",
+          "answers": [
+            "She can't be from Ireland. She has an Australian accent.",
+            "She cannot be from Ireland. She has an Australian accent.",
+            "She can't be from Ireland because she has an Australian accent.",
+            "She cannot be from Ireland because she has an Australian accent."
+          ],
+          "explanation": "Kita yakin itu tidak benar, jadi deduction negative memakai **can't**, bukan *mustn't* (larangan)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u06-l5-rules-and-regulations",
+      "title": "Rules at School and Work",
+      "summary": "Menjelaskan aturan di sekolah dan tempat kerja dengan kosakata seperti compulsory, deadline, fine dan dress code, serta be allowed to.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Memahami dan memakai kosakata tentang aturan di sekolah dan tempat kerja",
+        "Memakai be allowed to / not allowed to untuk izin dan larangan",
+        "Menggabungkan semua modal di unit ini untuk menjelaskan aturan secara lengkap"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menjelaskan aturan\nWhen you start a new job or join a new school, someone usually explains the rules. Dalam lesson ini kita menggabungkan semua modal dari unit ini dan menambah kosakata penting tentang **rules and regulations**.\n\n| Arti | Bahasa Inggris | Contoh |\n|---|---|---|\n| wajib | must / have to / it's compulsory | Wearing a helmet is compulsory. |\n| tidak wajib | don't have to / it's optional | The training on Saturday is optional. |\n| dilarang | mustn't / not allowed to / it's forbidden | You aren't allowed to eat in the lab. |\n| boleh | can / be allowed to | Staff are allowed to use the gym. |\n| sebaiknya | should / had better | You'd better not miss the deadline. |\n\n### Be allowed to\n**Be allowed to + V1** means *have permission*. Kata *be* berubah sesuai subject dan waktu:\n- *Students **are allowed to** use the library until 9 p.m.*\n- *We **aren't allowed to** wear jeans on weekdays.*\n- ***Are** we **allowed to** bring guests?*\n- Past: *When I was a child, I **wasn't allowed to** stay up late.*\n\nThink of *be allowed to* as a fixed phrase. Dalam percakapan, **can / can't** juga sering dipakai untuk izin: *You can't park here.*\n\n### Kata-kata penting\n- **compulsory** (wajib) ↔ **optional** (tidak wajib)\n- **forbidden** (dilarang keras) — sering dipakai dalam tanda: *Smoking is forbidden.*\n- **deadline** — batas waktu: *The deadline for the project is Friday.*\n- **fine** — denda: *If you park here, you might get a fine.*\n- **permit** — surat izin resmi: *You need a permit to fish in this lake.*\n- **dress code** — aturan berpakaian; **badge** — tanda pengenal; **overtime** — lembur.\n\n### Menjelaskan aturan dengan lengkap\nA good explanation often has three parts: **the rule**, **the reason**, and **the consequence**.\n- *You must wear your ID badge at all times **because** the building is very secure. **If** you forget it, security won't let you in.*\n\nMenambahkan alasan membuat penjelasanmu lebih jelas dan sopan. Use *because*, *so*, and first conditional *if* sentences (Unit 4) to explain consequences.",
+        "examples": [
+          { "en": "Attending the safety training is compulsory for all new employees.", "id": "Mengikuti pelatihan keselamatan wajib bagi semua karyawan baru.", "note": "compulsory = wajib." },
+          { "en": "You aren't allowed to use your phone during the meeting.", "id": "Kamu tidak diizinkan menggunakan ponsel selama rapat.", "note": "not allowed to = dilarang." },
+          { "en": "If you return a book late, you have to pay a small fine.", "id": "Jika kamu mengembalikan buku terlambat, kamu harus membayar denda kecil.", "note": "fine = denda." },
+          { "en": "The deadline for applications is 15 March, so you'd better hurry.", "id": "Batas waktu pendaftaran adalah 15 Maret, jadi sebaiknya kamu bergegas.", "note": "deadline = tenggat." },
+          { "en": "There's no dress code on Fridays, so we can wear jeans.", "id": "Tidak ada aturan berpakaian pada hari Jumat, jadi kami boleh memakai jeans.", "note": "dress code = aturan berpakaian." }
+        ],
+        "vocabulary": [
+          { "word": "compulsory", "pos": "adjective", "ipa": "/kəmˈpʌlsəri/", "meaning": "wajib", "example": "English is a compulsory subject at our school." },
+          { "word": "forbidden", "pos": "adjective", "ipa": "/fəˈbɪdn/", "meaning": "dilarang", "example": "Swimming in the lake is forbidden." },
+          { "word": "deadline", "pos": "noun", "ipa": "/ˈdedlaɪn/", "meaning": "tenggat; batas waktu", "example": "We have to meet the deadline." },
+          { "word": "fine", "pos": "noun", "ipa": "/faɪn/", "meaning": "denda", "example": "He got a fine for parking in the wrong place." },
+          { "word": "permit", "pos": "noun", "ipa": "/ˈpɜːmɪt/", "meaning": "surat izin", "example": "You need a work permit to work here." },
+          { "word": "dress code", "pos": "noun", "ipa": "/ˈdres kəʊd/", "meaning": "aturan berpakaian", "example": "The office has a strict dress code." },
+          { "word": "overtime", "pos": "noun", "ipa": "/ˈəʊvətaɪm/", "meaning": "lembur", "example": "I don't have to work overtime this week." },
+          { "word": "badge", "pos": "noun", "ipa": "/bædʒ/", "meaning": "tanda pengenal; lencana", "example": "Please wear your badge at all times." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + am/is/are (not) allowed to + V1", "example": "Visitors aren't allowed to take photos.", "note": "Izin / larangan." },
+          { "pattern": "Subject + was/were (not) allowed to + V1", "example": "We weren't allowed to leave early.", "note": "Bentuk past." },
+          { "pattern": "V-ing + is compulsory / optional / forbidden", "example": "Wearing a helmet is compulsory.", "note": "Gerund sebagai subject." },
+          { "pattern": "Rule + because + reason / If + consequence", "example": "You must sign in because of security. If you don't, you can't enter.", "note": "Menjelaskan aturan secara lengkap." }
+        ],
+        "mistakes": [
+          { "wrong": "We don't allowed to eat here.", "right": "We aren't allowed to eat here.", "why": "Be allowed to memakai be (am/is/are), bukan do." },
+          { "wrong": "Students are allowed use the gym.", "right": "Students are allowed to use the gym.", "why": "Allowed diikuti to + V1." },
+          { "wrong": "The deadline of the essay is Monday, so I have to finish it.", "right": "The deadline for the essay is Monday, so I have to finish it.", "why": "Kolokasi yang benar: deadline for something." },
+          { "wrong": "He paid a fee because he drove too fast.", "right": "He paid a fine because he drove too fast.", "why": "Fine = denda (hukuman); fee = biaya layanan." }
+        ],
+        "summary": "To explain rules, combine **must / have to** (wajib), **don't have to** (tidak wajib), **mustn't / not allowed to** (dilarang), **can / be allowed to** (boleh) and **should / had better** (saran). Kosakata penting: *compulsory, optional, forbidden, deadline, fine, permit, dress code*. Tambahkan alasan dan konsekuensi agar penjelasanmu jelas.",
+        "reviewCards": [
+          { "front": "compulsory ↔ ?", "back": "optional (tidak wajib)" },
+          { "front": "fine vs fee", "back": "fine = denda; fee = biaya (untuk layanan)" },
+          { "front": "Kami tidak diizinkan memakai jeans.", "back": "We aren't allowed to wear jeans." },
+          { "front": "deadline ___ the project", "back": "deadline for the project" },
+          { "front": "Past of be allowed to", "back": "was/were allowed to — I wasn't allowed to stay up late." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u06-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "rules vocabulary",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "\"At Brightfield School, wearing the school uniform is compulsory, but the extra art class is optional.\" What does 'compulsory' mean?",
+          "options": [
+            "something you must do",
+            "something you can choose to do",
+            "something you are not allowed to do",
+            "something that costs a lot of money"
+          ],
+          "answer": 0,
+          "explanation": "**Compulsory** = wajib. Kalimat ini membandingkannya dengan *optional* (boleh dipilih), jadi artinya adalah sesuatu yang harus dilakukan."
+        },
+        {
+          "id": "b1-u06-l5-q2",
+          "type": "essay",
+          "category": "writing",
+          "topic": "explaining rules",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "A new student or employee is joining your school, office or a café you know. Write a short message explaining the most important rules. Use at least five of these: must, have to, don't have to, mustn't, should, had better, be allowed to. Give a reason for some of the rules.",
+          "minWords": 60,
+          "maxWords": 120,
+          "rubric": "general-writing",
+          "explanation": "Contoh kalimat: *You have to arrive by 8 a.m. because the café opens at 8.30. You don't have to wear a uniform, but you mustn't wear shorts. You're allowed to have a free drink during your break.* Periksa bahwa kamu memakai mustn't untuk larangan dan don't have to untuk hal yang tidak wajib."
+        },
+        {
+          "id": "b1-u06-l5-q3",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "workplace rules",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the parts of the sentence in the correct order.",
+          "fragments": ["All employees", "have to wear", "their ID badges", "at all times", "in the building."],
+          "acceptedAnswers": ["All employees have to wear their ID badges in the building at all times."],
+          "explanation": "Urutan dasar: **subject + have to + V1 + object + keterangan**: *All employees have to wear their ID badges at all times in the building.*"
+        },
+        {
+          "id": "b1-u06-l5-q4",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "rules vocabulary",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "deadline", "right": "the latest time by which you must finish something" },
+            { "left": "fine", "right": "money you pay as a punishment for breaking a rule" },
+            { "left": "permit", "right": "an official document that gives you permission to do something" },
+            { "left": "dress code", "right": "rules about what clothes people should wear" },
+            { "left": "overtime", "right": "extra hours of work after your normal working hours" }
+          ],
+          "explanation": "**Deadline** = tenggat, **fine** = denda, **permit** = surat izin, **dress code** = aturan berpakaian, **overtime** = lembur."
+        },
+        {
+          "id": "b1-u06-l5-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "be allowed to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the sentence with the negative form of be allowed to.",
+          "text": "At Elmwood Library, visitors ___ eat near the computers, but they can drink water in the reading room.",
+          "answers": [["aren't allowed to", "are not allowed to"]],
+          "explanation": "Subject *visitors* (jamak) → **are not allowed to / aren't allowed to + V1**. Be allowed to memakai *be*, bukan *don't*."
+        },
+        {
+          "id": "b1-u06-l5-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "obligation and no obligation",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kamu tidak perlu memakai dasi, tetapi kamu harus memakai sepatu hitam.",
+          "direction": "id-en",
+          "answers": [
+            "You don't have to wear a tie, but you have to wear black shoes.",
+            "You don't have to wear a tie, but you must wear black shoes.",
+            "You don't need to wear a tie, but you have to wear black shoes.",
+            "You don't need to wear a tie, but you must wear black shoes.",
+            "You needn't wear a tie, but you have to wear black shoes.",
+            "You needn't wear a tie, but you must wear black shoes.",
+            "You do not have to wear a tie, but you have to wear black shoes.",
+            "You do not have to wear a tie, but you must wear black shoes.",
+            "You do not need to wear a tie, but you have to wear black shoes.",
+            "You do not need to wear a tie, but you must wear black shoes."
+          ],
+          "explanation": "*Tidak perlu* = **don't have to / don't need to / needn't** (bukan *mustn't*). *Harus* = **have to / must**."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u06-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "had to for past obligation",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "When my grandfather was young, he ___ walk five kilometres to school every day.",
+      "options": ["had to", "must", "has to", "mustn't"],
+      "answer": 0,
+      "explanation": "Kebiasaan di masa lalu (*When my grandfather was young*) → **had to**. Must tidak punya bentuk past."
+    },
+    {
+      "id": "b1-u06-t-q2",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "mustn't vs don't have to",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the correct option for each gap.",
+      "text": "Employees ___ smoke anywhere inside the building — it's against the law. But they ___ stay late on Fridays; it's optional.",
+      "choices": [["mustn't", "don't have to"], ["mustn't", "don't have to"]],
+      "answers": [0, 1],
+      "explanation": "Merokok di dalam gedung dilarang → **mustn't**. Pulang larut pada hari Jumat bersifat *optional* → **don't have to**."
+    },
+    {
+      "id": "b1-u06-t-q3",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "can't for negative deduction",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Complete the reply with a modal of deduction.",
+      "text": "A: Whose jacket is this? It's enormous! B: It ___ be Nadia's. She's very small.",
+      "answers": [["can't", "cannot", "couldn't", "could not"]],
+      "explanation": "Nadia sangat kecil, jadi kita yakin jaket besar itu bukan miliknya → **can't** (deduction negative). *Mustn't* tidak dipakai untuk deduction."
+    },
+    {
+      "id": "b1-u06-t-q4",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "had better",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it has a similar meaning.",
+      "sentence": "It's a good idea for us to book a table. The restaurant is always busy on Saturdays.",
+      "cue": "Use had better. Begin with: We ...",
+      "answers": [
+        "We had better book a table.",
+        "We'd better book a table.",
+        "We had better book a table. The restaurant is always busy on Saturdays.",
+        "We'd better book a table. The restaurant is always busy on Saturdays.",
+        "We had better book a table because the restaurant is always busy on Saturdays.",
+        "We'd better book a table because the restaurant is always busy on Saturdays."
+      ],
+      "explanation": "Saran kuat untuk situasi spesifik → **had better / 'd better + V1** (tanpa to): *We'd better book a table.*"
+    },
+    {
+      "id": "b1-u06-t-q5",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "mustn't vs don't have to",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["Students", "don't have to", "use their phones", "during exams", "because it's against the rules."],
+      "errorIndex": 1,
+      "correction": "mustn't",
+      "explanation": "*Against the rules* menunjukkan larangan, jadi harus **mustn't** (atau *aren't allowed to*). *Don't have to* hanya berarti 'tidak perlu'."
+    },
+    {
+      "id": "b1-u06-t-q6",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "deduction",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Mira has three cats and two dogs, and she volunteers at an animal shelter every weekend. Which deductions are logical? Choose all correct answers.",
+      "options": [
+        "She must love animals.",
+        "She can't like animals.",
+        "She might want to adopt another pet one day.",
+        "She must hate dogs."
+      ],
+      "answers": [0, 2],
+      "explanation": "Bukti menunjukkan Mira sangat suka hewan → **must love animals** logis, dan mungkin dia ingin hewan lain (**might**). *Can't like animals* dan *must hate dogs* berlawanan dengan bukti."
+    },
+    {
+      "id": "b1-u06-t-q7",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "don't need to",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["You", "don't", "need", "to", "bring", "your", "own", "laptop"],
+      "explanation": "Pola: **subject + don't need to + V1**: *You don't need to bring your own laptop.* (Tidak perlu membawa laptop sendiri.)"
+    },
+    {
+      "id": "b1-u06-t-q8",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "explaining rules",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the best reply from the manager.",
+      "dialogue": [
+        { "speaker": "New employee", "text": "Is it OK if I wear jeans to work?" },
+        { "speaker": "Manager", "text": null },
+        { "speaker": "New employee", "text": "OK, I'll wear trousers on Monday, then." }
+      ],
+      "options": [
+        "Only on Fridays. From Monday to Thursday you have to dress formally.",
+        "Only on Fridays. From Monday to Thursday you don't have to dress formally.",
+        "Yes, you must wear jeans every day.",
+        "Only on Fridays. From Monday to Thursday you'd better to dress formally."
+      ],
+      "answer": 0,
+      "explanation": "Karyawan baru memutuskan memakai celana formal pada hari Senin, jadi pada hari Senin–Kamis berpakaian formal itu **wajib** → *you have to dress formally*. *'d better to* salah bentuk."
+    }
+  ]
+}

@@ -1,0 +1,1423 @@
+{
+  "slug": "a2-u07-travel",
+  "number": 7,
+  "title": "Travel and Transport",
+  "description": "Membicarakan transportasi dan perjalanan, menceritakan pengalaman dengan past continuous dan past simple (when/while), memakai preposisi gerak, serta memesan hotel dan menjelaskan masalah perjalanan.",
+  "objectives": [
+    "Menggunakan kosakata transportasi, bandara, dan hotel",
+    "Membentuk past continuous untuk kegiatan yang sedang berlangsung di masa lalu",
+    "Menggabungkan past continuous dan past simple dengan when dan while",
+    "Menggunakan preposisi gerak: across, along, through, past, into, out of"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u07-l1-transport-airport",
+      "title": "Transport and Airports",
+      "summary": "Kosakata transportasi dan bandara serta kolokasi seperti catch a bus dan check in.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan by + kendaraan dan on foot",
+        "Menggunakan kosakata bandara: check in, boarding pass, gate, delayed"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Cara bepergian\nUntuk menyebutkan **cara** bepergian, gunakan **by + kendaraan** tanpa *a/the*:\n\n| Pola | Contoh |\n| --- | --- |\n| by bus / train / plane / car / taxi / boat | *I go to work by train.* |\n| **on foot** (jalan kaki) | *She goes to school on foot.* |\n\nPerhatikan: ✗ *by the taxi*, ✗ *by foot*. Jika ada kata kepemilikan, gunakan *in/on*: *in my car*, *on the 7:15 bus*.\n\n### Kata kerja transportasi\n| Kata kerja | Arti | Past |\n| --- | --- | --- |\n| **catch** a bus/train | naik, mengejar (bus/kereta) | caught |\n| **miss** a bus/flight | ketinggalan | missed |\n| **get on / get off** a bus, train, plane | naik / turun | got on / got off |\n| **get into / get out of** a car, taxi | masuk / keluar (mobil) | got into / got out of |\n| **take** a taxi / the bus | naik (taksi/bus) | took |\n\nGunakan **get on/off** untuk kendaraan besar (bus, kereta, pesawat) dan **get into/out of** untuk mobil dan taksi.\n\n### Di bandara\n| English | Indonesia |\n| --- | --- |\n| check in | lapor diri, check-in |\n| boarding pass | pas naik pesawat |\n| passport | paspor |\n| luggage / baggage | bagasi, barang bawaan |\n| gate | gerbang keberangkatan |\n| departures / arrivals | keberangkatan / kedatangan |\n| delayed | tertunda, terlambat |\n| cancelled | dibatalkan |\n| land / take off | mendarat / lepas landas |\n\n### Urutan di bandara\n*First, we **checked in** and dropped off our luggage. Then we went through security. After that, we waited at **gate** 12. Finally, we **got on** the plane. Our flight was **delayed** by an hour, but we **landed** safely.*\n\n### Catatan\n*Luggage* dan *baggage* adalah kata benda **tak terhitung**: *a lot of luggage*, *two pieces of luggage* — bukan ✗ *two luggages*.",
+        "examples": [
+          {
+            "en": "We went to the station by taxi.",
+            "id": "Kami pergi ke stasiun naik taksi.",
+            "note": "by + kendaraan, tanpa the"
+          },
+          {
+            "en": "I missed the 7:00 bus, so I caught the next one.",
+            "id": "Saya ketinggalan bus jam 7, jadi saya naik bus berikutnya.",
+            "note": "miss / catch"
+          },
+          {
+            "en": "Please check in two hours before your flight.",
+            "id": "Silakan check-in dua jam sebelum penerbangan Anda.",
+            "note": "check in"
+          },
+          {
+            "en": "Our flight was delayed because of the bad weather.",
+            "id": "Penerbangan kami tertunda karena cuaca buruk.",
+            "note": "delayed = tertunda"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "catch",
+            "pos": "verb",
+            "ipa": "/kætʃ/",
+            "meaning": "naik/mengejar (kendaraan) (past: caught)",
+            "example": "I caught the last train home."
+          },
+          {
+            "word": "boarding pass",
+            "pos": "noun",
+            "ipa": "/ˈbɔːdɪŋ pɑːs/",
+            "meaning": "pas naik pesawat",
+            "example": "Show your boarding pass at the gate."
+          },
+          {
+            "word": "luggage",
+            "pos": "noun (uncountable)",
+            "ipa": "/ˈlʌɡɪdʒ/",
+            "meaning": "bagasi, barang bawaan",
+            "example": "My luggage was very heavy."
+          },
+          {
+            "word": "delayed",
+            "pos": "adjective",
+            "ipa": "/dɪˈleɪd/",
+            "meaning": "tertunda, terlambat",
+            "example": "The train was delayed by twenty minutes."
+          },
+          {
+            "word": "gate",
+            "pos": "noun",
+            "ipa": "/ɡeɪt/",
+            "meaning": "gerbang (keberangkatan)",
+            "example": "Flight 207 is boarding at gate 5."
+          },
+          {
+            "word": "land",
+            "pos": "verb",
+            "ipa": "/lænd/",
+            "meaning": "mendarat",
+            "example": "We landed in Medan at noon."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "by + transport (no article) / on foot",
+            "example": "They travelled by boat.",
+            "note": "Tanpa a/the."
+          },
+          {
+            "pattern": "get on/off + bus, train, plane; get into/out of + car, taxi",
+            "example": "She got out of the taxi.",
+            "note": "Kendaraan besar vs kecil."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "We went to the airport by the taxi.",
+            "right": "We went to the airport by taxi.",
+            "why": "By + kendaraan tidak memakai the."
+          },
+          {
+            "wrong": "I go to school by foot.",
+            "right": "I go to school on foot.",
+            "why": "Jalan kaki = on foot."
+          },
+          {
+            "wrong": "I have two luggages.",
+            "right": "I have two bags. / I have two pieces of luggage.",
+            "why": "Luggage tak terhitung, tidak memakai -s."
+          }
+        ],
+        "summary": "Cara bepergian: **by bus/train/plane/taxi**, **on foot**. Kata kerja: **catch, miss, get on/off, get into/out of, take**. Di bandara: **check in, boarding pass, gate, luggage, delayed, cancelled, land**.",
+        "reviewCards": [
+          {
+            "front": "jalan kaki",
+            "back": "on foot"
+          },
+          {
+            "front": "ketinggalan pesawat",
+            "back": "miss a flight"
+          },
+          {
+            "front": "catch (past)",
+            "back": "caught"
+          },
+          {
+            "front": "tertunda",
+            "back": "delayed"
+          },
+          {
+            "front": "turun dari bus",
+            "back": "get off the bus"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u07-l1-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "transport",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct word: We went to the station ___ taxi.",
+          "options": [
+            "by",
+            "on",
+            "with",
+            "in"
+          ],
+          "answer": 0,
+          "explanation": "Cara bepergian: by + kendaraan, tanpa the → by taxi.",
+          "misconception": "Menerjemahkan naik taksi menjadi with taxi."
+        },
+        {
+          "id": "a2-u07-l1-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "airport",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            {
+              "left": "boarding pass",
+              "right": "a document you need to get on the plane"
+            },
+            {
+              "left": "gate",
+              "right": "the place where you get on the plane"
+            },
+            {
+              "left": "luggage",
+              "right": "your bags and suitcases"
+            },
+            {
+              "left": "delayed",
+              "right": "later than planned"
+            },
+            {
+              "left": "check in",
+              "right": "show your ticket and give your bags at the airport"
+            }
+          ],
+          "explanation": "boarding pass = pas naik pesawat, gate = gerbang, luggage = bagasi, delayed = tertunda, check in = lapor diri."
+        },
+        {
+          "id": "a2-u07-l1-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "transport",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the past simple of the verbs in brackets.",
+          "text": "I ___ (miss) the 7:00 bus, so I ___ (catch) the next one at 7:20.",
+          "answers": [
+            [
+              "missed"
+            ],
+            [
+              "caught"
+            ]
+          ],
+          "explanation": "Miss → missed (beraturan). Catch → caught (tidak beraturan)."
+        },
+        {
+          "id": "a2-u07-l1-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "airport",
+          "difficulty": 1,
+          "stage": "quiz",
+          "prompt": "Choose the best word: Our flight was ___ because of a storm. We waited at the airport for three hours.",
+          "options": [
+            "delayed",
+            "landed",
+            "boarded",
+            "checked"
+          ],
+          "answer": 0,
+          "explanation": "Menunggu tiga jam karena badai → penerbangan delayed (tertunda)."
+        },
+        {
+          "id": "a2-u07-l1-q5",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "transport",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "We",
+            "went",
+            "to the airport",
+            "by the taxi."
+          ],
+          "errorIndex": 3,
+          "correction": "by taxi.",
+          "explanation": "By + kendaraan tidak memakai the: by taxi."
+        },
+        {
+          "id": "a2-u07-l1-q6",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "airport",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "First we ___ in at the desk. Then we went to ___ 12 and ___ the plane.",
+          "bank": [
+            "checked",
+            "gate",
+            "got on",
+            "got off",
+            "luggage"
+          ],
+          "answers": [
+            "checked",
+            "gate",
+            "got on"
+          ],
+          "explanation": "Checked in = lapor diri, gate 12 = gerbang 12, got on the plane = naik pesawat."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u07-l2-past-continuous",
+      "title": "Past Continuous: I Was Travelling",
+      "summary": "Membentuk past continuous untuk kegiatan yang sedang berlangsung pada waktu tertentu di masa lalu.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk past continuous: was/were + verb-ing",
+        "Menggunakan past continuous untuk kegiatan yang sedang berlangsung pada waktu tertentu dan untuk latar cerita"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu past continuous?\n**Past continuous** menggambarkan kegiatan yang **sedang berlangsung** pada suatu waktu di masa lalu. Dalam bahasa Indonesia biasanya memakai kata *sedang*.\n\n*At eight o'clock last night, I **was having** dinner.* (Jam delapan tadi malam, saya sedang makan malam.)\n\nKegiatan makan malam sudah dimulai sebelum jam 8 dan masih berlangsung pada jam 8.\n\n### Pola\nGabungkan **was/were** (Unit 1) dengan **verb-ing** (present continuous, A1):\n\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Positif | subject + **was/were** + verb-ing | *They were waiting for the bus.* |\n| Negatif | subject + **wasn't/weren't** + verb-ing | *I wasn't sleeping.* |\n| Pertanyaan | **Was/Were** + subject + verb-ing? | *Were you working at 9 p.m.?* |\n| Wh- | Wh- + **was/were** + subject + verb-ing? | *What were you doing?* |\n| Short answer | Yes, I was. / No, they weren't. | |\n\nAturan *was/were* sama dengan Unit 1: **I/he/she/it → was**, **you/we/they → were**. Aturan ejaan *-ing* sama dengan A1: *make → making, swim → swimming, lie → lying*.\n\n### Dua penggunaan utama\n**1. Kegiatan pada waktu tertentu di masa lalu**\n- *At 6 a.m. yesterday, I was driving to the airport.*\n- *What were you doing at midnight?*\n\n**2. Latar (background) dalam cerita**\nPenulis memakai past continuous untuk menggambarkan suasana di awal cerita:\n- *It was a beautiful morning. The sun **was shining** and the birds **were singing**. We **were sitting** on the train...*\n\n### Present continuous vs past continuous\n| Present continuous | Past continuous |\n| --- | --- |\n| *I **am** reading now.* | *I **was** reading at 10 p.m. yesterday.* |\n| *They **are** travelling.* | *They **were** travelling last week.* |\n\n### Kata kerja yang jarang memakai -ing\nKata kerja keadaan seperti *know, like, want, need, have* (= punya) biasanya **tidak** dipakai dalam bentuk continuous: ✗ *I was knowing him.* ✓ *I knew him.*",
+        "examples": [
+          {
+            "en": "At nine o'clock yesterday, I was sitting on a train to Bandung.",
+            "id": "Jam sembilan kemarin, saya sedang duduk di kereta ke Bandung.",
+            "note": "kegiatan pada waktu tertentu"
+          },
+          {
+            "en": "The sun was shining and people were swimming in the sea.",
+            "id": "Matahari bersinar dan orang-orang sedang berenang di laut.",
+            "note": "latar cerita"
+          },
+          {
+            "en": "We weren't sleeping at midnight. We were watching a film.",
+            "id": "Kami tidak sedang tidur tengah malam. Kami sedang menonton film.",
+            "note": "negatif"
+          },
+          {
+            "en": "What were you doing at 7 p.m.? — I was cooking.",
+            "id": "Kamu sedang apa jam 7 malam? — Saya sedang memasak.",
+            "note": "pertanyaan wh-"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "shine",
+            "pos": "verb",
+            "ipa": "/ʃaɪn/",
+            "meaning": "bersinar",
+            "example": "The sun was shining all day."
+          },
+          {
+            "word": "passenger",
+            "pos": "noun",
+            "ipa": "/ˈpæsɪndʒə/",
+            "meaning": "penumpang",
+            "example": "The passengers were waiting on the platform."
+          },
+          {
+            "word": "platform",
+            "pos": "noun",
+            "ipa": "/ˈplætfɔːm/",
+            "meaning": "peron",
+            "example": "The train was standing at platform 3."
+          },
+          {
+            "word": "midnight",
+            "pos": "noun",
+            "ipa": "/ˈmɪdnaɪt/",
+            "meaning": "tengah malam",
+            "example": "We were still driving at midnight."
+          },
+          {
+            "word": "journey",
+            "pos": "noun",
+            "ipa": "/ˈdʒɜːni/",
+            "meaning": "perjalanan",
+            "example": "We were talking during the whole journey."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + was/were + verb-ing",
+            "example": "She was reading a map.",
+            "note": "Sedang berlangsung di masa lalu."
+          },
+          {
+            "pattern": "Was/Were + subject + verb-ing?",
+            "example": "Were they waiting long?",
+            "note": "Short answer: Yes, they were. / No, they weren't."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "They was waiting for the train.",
+            "right": "They were waiting for the train.",
+            "why": "They memakai were."
+          },
+          {
+            "wrong": "At 8 p.m. I was cook dinner.",
+            "right": "At 8 p.m. I was cooking dinner.",
+            "why": "Past continuous butuh verb-ing."
+          },
+          {
+            "wrong": "I was knowing the answer.",
+            "right": "I knew the answer.",
+            "why": "Know adalah kata kerja keadaan, tidak dipakai dalam bentuk continuous."
+          }
+        ],
+        "summary": "**Past continuous = was/were + verb-ing.** Dipakai untuk kegiatan yang **sedang berlangsung** pada waktu tertentu di masa lalu dan untuk **latar cerita**. Pertanyaan umum: *What were you doing at ...?*",
+        "reviewCards": [
+          {
+            "front": "Kamu sedang apa jam 8 tadi malam?",
+            "back": "What were you doing at 8 o'clock last night?"
+          },
+          {
+            "front": "They ___ sleeping. (past continuous)",
+            "back": "were"
+          },
+          {
+            "front": "Pola past continuous",
+            "back": "was/were + verb-ing"
+          },
+          {
+            "front": "peron",
+            "back": "platform"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u07-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct option: At nine o'clock last night, I ___ TV.",
+          "options": [
+            "was watching",
+            "were watching",
+            "am watching",
+            "watching"
+          ],
+          "answer": 0,
+          "explanation": "I memakai was + verb-ing. Last night menunjukkan masa lalu, jadi am watching salah.",
+          "misconception": "Lupa memakai was/were sebelum verb-ing."
+        },
+        {
+          "id": "a2-u07-l2-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the past continuous of the verbs in brackets.",
+          "text": "At 7 a.m. yesterday, my parents ___ (have) breakfast and my brother ___ (sleep).",
+          "answers": [
+            [
+              "were having"
+            ],
+            [
+              "was sleeping"
+            ]
+          ],
+          "explanation": "My parents (jamak) → were having. My brother (he) → was sleeping."
+        },
+        {
+          "id": "a2-u07-l2-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence in the negative form.",
+          "sentence": "She was driving to work at 8 o'clock.",
+          "cue": "Make it negative.",
+          "answers": [
+            "She wasn't driving to work at 8 o'clock.",
+            "She was not driving to work at 8 o'clock."
+          ],
+          "explanation": "Tambahkan not setelah was: wasn't driving."
+        },
+        {
+          "id": "a2-u07-l2-q4",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": [
+            "What",
+            "were",
+            "you",
+            "doing",
+            "at",
+            "ten",
+            "o'clock?"
+          ],
+          "explanation": "What + were + you + doing + waktu."
+        },
+        {
+          "id": "a2-u07-l2-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 1,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "The passengers",
+            "was",
+            "waiting",
+            "on the platform."
+          ],
+          "errorIndex": 1,
+          "correction": "were",
+          "explanation": "The passengers jamak, jadi memakai were."
+        },
+        {
+          "id": "a2-u07-l2-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write a positive short answer: Was it raining at six o'clock this morning?",
+          "answers": [
+            "Yes, it was.",
+            "Yes it was"
+          ],
+          "explanation": "Pertanyaan Was it...? dijawab Yes, it was."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u07-l3-when-while",
+      "title": "Past Continuous and Past Simple: When and While",
+      "summary": "Menggabungkan kegiatan panjang (past continuous) dan kejadian singkat (past simple) dengan when dan while.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan past continuous untuk kegiatan panjang dan past simple untuk kejadian yang menyela",
+        "Memilih when atau while dengan tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kegiatan panjang disela kejadian singkat\nDalam cerita, sering ada kegiatan yang **sedang berlangsung** lalu **disela** oleh kejadian singkat.\n\n*I **was walking** to the station **when** I **saw** an accident.*\n\n| Bagian | Tense | Fungsi |\n| --- | --- | --- |\n| was walking | past continuous | kegiatan panjang (latar) |\n| saw | past simple | kejadian singkat yang menyela |\n\nBayangkan garis waktu: kegiatan *walking* adalah garis panjang, dan *saw* adalah titik di tengah garis itu.\n\n### When dan while\n| Kata | Biasanya diikuti | Contoh |\n| --- | --- | --- |\n| **when** | past simple (kejadian singkat) | *I was sleeping **when** the phone **rang**.* |\n| **while** | past continuous (kegiatan panjang) | ***While** I **was sleeping**, the phone rang.* |\n\nKeduanya berarti *ketika/saat*, tetapi **while** menekankan durasi (*selama sedang...*).\n\n### Urutan dan tanda koma\nKlausa when/while boleh di depan atau di belakang. Jika di **depan**, pakai **koma**:\n- *While we were waiting for the bus, it started raining.*\n- *It started raining while we were waiting for the bus.*\n\n### Dua kegiatan bersamaan\nJika dua kegiatan panjang terjadi **bersamaan**, keduanya memakai past continuous dengan **while**:\n- *While I was cooking, my husband was cleaning the car.*\n\n### Rangkaian kejadian\nJika kejadian terjadi **berurutan** (satu setelah yang lain), pakai past simple untuk semuanya:\n- *When the bus arrived, we got on.* (Bus datang, lalu kami naik.)\n\nBandingkan:\n- *When I arrived, they **were having** dinner.* (Mereka sudah mulai makan sebelum saya datang.)\n- *When I arrived, they **had** dinner.* (Saya datang, lalu mereka makan.)\n\n### Kata kerja tidak beraturan baru\n*ring → **rang***, *fall → **fell***, *break → **broke***, *hear → **heard***, *lose → **lost***.",
+        "examples": [
+          {
+            "en": "I was having a shower when the phone rang.",
+            "id": "Saya sedang mandi ketika telepon berbunyi.",
+            "note": "panjang + when + singkat"
+          },
+          {
+            "en": "While we were driving to the airport, we got a flat tyre.",
+            "id": "Saat kami sedang menyetir ke bandara, ban kami kempes.",
+            "note": "while + kegiatan panjang"
+          },
+          {
+            "en": "She fell asleep while she was reading on the train.",
+            "id": "Dia tertidur saat sedang membaca di kereta.",
+            "note": "fall → fell"
+          },
+          {
+            "en": "While I was packing, my sister was booking the taxi.",
+            "id": "Saat saya sedang berkemas, adik saya sedang memesan taksi.",
+            "note": "dua kegiatan bersamaan"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "ring",
+            "pos": "verb",
+            "ipa": "/rɪŋ/",
+            "meaning": "berbunyi, berdering (past: rang)",
+            "example": "The alarm rang at five."
+          },
+          {
+            "word": "flat tyre",
+            "pos": "noun",
+            "ipa": "/ˌflæt ˈtaɪə/",
+            "meaning": "ban kempes",
+            "example": "We got a flat tyre on the motorway."
+          },
+          {
+            "word": "pack",
+            "pos": "verb",
+            "ipa": "/pæk/",
+            "meaning": "berkemas, mengepak",
+            "example": "I was packing my suitcase when you called."
+          },
+          {
+            "word": "fall asleep",
+            "pos": "phrase",
+            "ipa": "/fɔːl əˈsliːp/",
+            "meaning": "tertidur (past: fell asleep)",
+            "example": "He fell asleep on the bus."
+          },
+          {
+            "word": "accident",
+            "pos": "noun",
+            "ipa": "/ˈæksɪdənt/",
+            "meaning": "kecelakaan",
+            "example": "We saw an accident on the way home."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Past continuous + when + past simple",
+            "example": "I was cooking when the lights went out.",
+            "note": "Kegiatan panjang disela."
+          },
+          {
+            "pattern": "While + past continuous, + past simple",
+            "example": "While she was jogging, she saw a deer.",
+            "note": "Koma jika while di depan."
+          },
+          {
+            "pattern": "While + past continuous, + past continuous",
+            "example": "While I was working, he was sleeping.",
+            "note": "Dua kegiatan bersamaan."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "While I walked home, I was finding a wallet.",
+            "right": "While I was walking home, I found a wallet.",
+            "why": "Kegiatan panjang = past continuous; kejadian singkat = past simple."
+          },
+          {
+            "wrong": "I was sleeping while the phone rang.",
+            "right": "I was sleeping when the phone rang.",
+            "why": "Kejadian singkat (rang) biasanya didahului when, bukan while."
+          },
+          {
+            "wrong": "When I was arriving, the bus left.",
+            "right": "When I arrived, the bus was leaving. / When I arrived, the bus left.",
+            "why": "Arrive adalah kejadian singkat, jadi biasanya memakai past simple."
+          }
+        ],
+        "summary": "Kegiatan **panjang** → past continuous; kejadian **singkat** yang menyela → past simple. **when** + kejadian singkat, **while** + kegiatan panjang. Pakai koma jika when/while di awal kalimat.",
+        "reviewCards": [
+          {
+            "front": "Saya sedang mandi ketika telepon berbunyi.",
+            "back": "I was having a shower when the phone rang."
+          },
+          {
+            "front": "while + ...?",
+            "back": "past continuous (kegiatan panjang)"
+          },
+          {
+            "front": "ring (past)",
+            "back": "rang"
+          },
+          {
+            "front": "fall (past)",
+            "back": "fell"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u07-l3-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "past continuous vs past simple",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct verb forms.",
+          "text": "I ___ to the station when I ___ my old teacher.",
+          "choices": [
+            [
+              "was walking",
+              "walked"
+            ],
+            [
+              "saw",
+              "was seeing"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Berjalan = kegiatan panjang → was walking. Melihat guru = kejadian singkat → saw.",
+          "misconception": "Memakai past continuous untuk kejadian singkat."
+        },
+        {
+          "id": "a2-u07-l3-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "when/while",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Drag the correct word into the gap.",
+          "text": "We were having dinner ___ the lights went out.",
+          "bank": [
+            "when",
+            "while",
+            "during",
+            "then"
+          ],
+          "answers": [
+            "when"
+          ],
+          "explanation": "Lampu padam adalah kejadian singkat (past simple), jadi pakai when."
+        },
+        {
+          "id": "a2-u07-l3-q3",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "when/while",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": [
+            "While I was waiting",
+            "for the bus,",
+            "I met",
+            "an old friend from school."
+          ],
+          "acceptedAnswers": [
+            "I met an old friend from school while I was waiting for the bus."
+          ],
+          "explanation": "While + past continuous (kegiatan panjang), lalu past simple (kejadian singkat)."
+        },
+        {
+          "id": "a2-u07-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "past continuous vs past simple",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "While",
+            "I",
+            "was walking",
+            "home, I",
+            "was finding",
+            "a wallet."
+          ],
+          "errorIndex": 4,
+          "correction": "found",
+          "explanation": "Menemukan dompet adalah kejadian singkat → past simple: found."
+        },
+        {
+          "id": "a2-u07-l3-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct option: What ___ when I called you?",
+          "options": [
+            "were you doing",
+            "did you doing",
+            "you were doing",
+            "was you doing"
+          ],
+          "answer": 0,
+          "explanation": "Pertanyaan past continuous: What + were + you + doing?"
+        },
+        {
+          "id": "a2-u07-l3-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "past continuous vs past simple",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya sedang mandi ketika telepon berbunyi.",
+          "direction": "id-en",
+          "answers": [
+            "I was having a shower when the phone rang.",
+            "I was taking a shower when the phone rang.",
+            "When the phone rang, I was having a shower.",
+            "When the phone rang, I was taking a shower.",
+            "I was showering when the phone rang.",
+            "I was having a bath when the phone rang.",
+            "I was taking a bath when the phone rang."
+          ],
+          "explanation": "Sedang mandi = was having/taking a shower (past continuous). Telepon berbunyi = the phone rang (past simple)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u07-l4-prepositions-movement",
+      "title": "Prepositions of Movement",
+      "summary": "Menjelaskan arah gerakan dengan across, along, through, over, past, into, out of, up, down.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan preposisi gerak untuk menjelaskan rute",
+        "Membedakan across, along, through, dan past"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Preposisi gerak\nDi A1 kamu belajar preposisi **tempat** (*in, on, under, next to*). Preposisi **gerak** (*movement*) menjelaskan **arah** seseorang atau sesuatu bergerak. Biasanya dipakai setelah kata kerja gerak: *go, walk, run, drive, fly, swim, jump, climb*.\n\n| Preposisi | Arti | Contoh |\n| --- | --- | --- |\n| **across** | menyeberangi (dari satu sisi ke sisi lain) | *walk across the road* |\n| **along** | menyusuri (mengikuti garis) | *walk along the beach* |\n| **through** | menembus, melewati bagian dalam | *drive through the tunnel* |\n| **over** | melewati di atas | *fly over the mountains* |\n| **under** | lewat di bawah | *swim under the bridge* |\n| **past** | melewati (tanpa berhenti) | *go past the bank* |\n| **into** | masuk ke dalam | *walk into the hotel* |\n| **out of** | keluar dari | *get out of the car* |\n| **up / down** | naik / turun | *climb up the hill*, *run down the stairs* |\n| **towards** | menuju ke arah | *walk towards the gate* |\n| **around** | mengelilingi | *walk around the lake* |\n\n### Across, through, along — apa bedanya?\n- **across** = dari satu sisi ke sisi lain permukaan datar: *across the street, across the river, across the field*.\n- **through** = masuk dari satu ujung dan keluar dari ujung lain, seperti ada **dinding/sisi** di sekitar: *through the forest, through the tunnel, through the door*.\n- **along** = mengikuti sesuatu yang panjang: *along the river, along the coast*.\n\n### In vs into\n- *in* = posisi (diam): *The cat is in the box.*\n- *into* = gerakan masuk: *The cat jumped into the box.*\n\n### Memberi petunjuk arah\nPreposisi gerak sangat berguna bersama imperatif (A1):\n*Go **out of** the station and walk **along** the river. Go **past** the post office and walk **across** the bridge. The hotel is on your left.*\n\n### Di masa lalu\n*We drove **through** a long tunnel and then **over** a high bridge.*",
+        "examples": [
+          {
+            "en": "We walked along the beach at sunset.",
+            "id": "Kami berjalan menyusuri pantai saat matahari terbenam.",
+            "note": "along = menyusuri"
+          },
+          {
+            "en": "The train went through a long tunnel.",
+            "id": "Kereta melewati terowongan panjang.",
+            "note": "through = menembus"
+          },
+          {
+            "en": "Be careful when you walk across the road.",
+            "id": "Hati-hati saat kamu menyeberang jalan.",
+            "note": "across = menyeberangi"
+          },
+          {
+            "en": "She got out of the taxi and ran into the hotel.",
+            "id": "Dia keluar dari taksi dan berlari masuk ke hotel.",
+            "note": "out of / into"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "across",
+            "pos": "preposition",
+            "ipa": "/əˈkrɒs/",
+            "meaning": "menyeberangi, melintasi",
+            "example": "We swam across the lake."
+          },
+          {
+            "word": "through",
+            "pos": "preposition",
+            "ipa": "/θruː/",
+            "meaning": "melalui, menembus",
+            "example": "The road goes through the forest."
+          },
+          {
+            "word": "along",
+            "pos": "preposition",
+            "ipa": "/əˈlɒŋ/",
+            "meaning": "menyusuri, sepanjang",
+            "example": "Walk along this street for 100 metres."
+          },
+          {
+            "word": "past",
+            "pos": "preposition",
+            "ipa": "/pɑːst/",
+            "meaning": "melewati",
+            "example": "Go past the mosque and turn right."
+          },
+          {
+            "word": "tunnel",
+            "pos": "noun",
+            "ipa": "/ˈtʌnl/",
+            "meaning": "terowongan",
+            "example": "The tunnel was very dark."
+          },
+          {
+            "word": "bridge",
+            "pos": "noun",
+            "ipa": "/brɪdʒ/",
+            "meaning": "jembatan",
+            "example": "We drove over the new bridge."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "verb of movement + preposition + place",
+            "example": "He ran up the stairs.",
+            "note": "go, walk, run, drive, fly + preposisi gerak."
+          },
+          {
+            "pattern": "into (movement) vs in (position)",
+            "example": "She walked into the room. She is in the room.",
+            "note": "into = masuk ke."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "She got out the car.",
+            "right": "She got out of the car.",
+            "why": "Keluar dari = out of."
+          },
+          {
+            "wrong": "We walked along the road to the other side.",
+            "right": "We walked across the road to the other side.",
+            "why": "Ke sisi lain jalan = across."
+          },
+          {
+            "wrong": "The train went across the tunnel.",
+            "right": "The train went through the tunnel.",
+            "why": "Terowongan punya sisi/dinding, jadi pakai through."
+          }
+        ],
+        "summary": "Preposisi gerak menjelaskan arah: **across** (menyeberang), **along** (menyusuri), **through** (menembus), **over/under**, **past** (melewati), **into/out of** (masuk/keluar), **up/down**, **towards**, **around**.",
+        "reviewCards": [
+          {
+            "front": "menyeberang jalan",
+            "back": "walk across the road"
+          },
+          {
+            "front": "menyusuri sungai",
+            "back": "walk along the river"
+          },
+          {
+            "front": "melewati terowongan",
+            "back": "go through the tunnel"
+          },
+          {
+            "front": "keluar dari mobil",
+            "back": "get out of the car"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u07-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "prepositions of movement",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct word: The cat jumped ___ the wall and ran into the garden next door.",
+          "options": [
+            "over",
+            "through",
+            "along",
+            "into"
+          ],
+          "answer": 0,
+          "explanation": "Melompat melewati bagian atas tembok → over.",
+          "misconception": "Memilih through, padahal kucing tidak menembus tembok."
+        },
+        {
+          "id": "a2-u07-l4-q2",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "prepositions of movement",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each preposition with its meaning.",
+          "pairs": [
+            {
+              "left": "across",
+              "right": "from one side to the other side of a road or river"
+            },
+            {
+              "left": "through",
+              "right": "in one end and out of the other end of a tunnel or forest"
+            },
+            {
+              "left": "along",
+              "right": "following a long line, like a river or a beach"
+            },
+            {
+              "left": "past",
+              "right": "going by something without stopping"
+            },
+            {
+              "left": "into",
+              "right": "moving to the inside of a place"
+            }
+          ],
+          "explanation": "across = menyeberang, through = menembus, along = menyusuri, past = melewati, into = masuk ke."
+        },
+        {
+          "id": "a2-u07-l4-q3",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "prepositions of movement",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Drag the correct prepositions into the gaps to complete the directions.",
+          "text": "Walk ___ the river for 200 metres, go ___ the post office without stopping, and turn left at the bank.",
+          "bank": [
+            "along",
+            "past",
+            "into",
+            "under"
+          ],
+          "answers": [
+            "along",
+            "past"
+          ],
+          "explanation": "Menyusuri sungai → along. Melewati kantor pos tanpa berhenti → past."
+        },
+        {
+          "id": "a2-u07-l4-q4",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "prepositions of movement",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Complete the sentence with prepositions of movement.",
+          "text": "She paid the driver, got ___ the taxi and walked ___ the hotel.",
+          "answers": [
+            [
+              "out of"
+            ],
+            [
+              "into",
+              "to",
+              "towards",
+              "toward"
+            ]
+          ],
+          "explanation": "Keluar dari taksi → out of. Masuk ke hotel → into (to/towards juga diterima)."
+        },
+        {
+          "id": "a2-u07-l4-q5",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "prepositions of movement",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": [
+            "We drove through the tunnel.",
+            "He walked across the road.",
+            "The plane flew over the mountains.",
+            "She got off the car.",
+            "The children ran up the hill."
+          ],
+          "answers": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Untuk mobil kita memakai get out of, bukan get off. Kalimat lainnya benar."
+        },
+        {
+          "id": "a2-u07-l4-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "prepositions of movement",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami berjalan menyeberangi jembatan.",
+          "direction": "id-en",
+          "answers": [
+            "We walked across the bridge.",
+            "We walked over the bridge.",
+            "We crossed the bridge."
+          ],
+          "explanation": "Menyeberangi = across (atau over untuk jembatan). We crossed the bridge juga benar."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u07-l5-hotels-travel-problems",
+      "title": "Hotels and Travel Problems",
+      "summary": "Memesan kamar hotel, menjelaskan masalah perjalanan, dan menceritakan pengalaman perjalanan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Memesan kamar hotel dengan ungkapan sederhana",
+        "Menjelaskan masalah perjalanan",
+        "Menceritakan pengalaman perjalanan dengan past simple dan past continuous"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis cerita perjalanan, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Memesan kamar hotel\n| Tamu | Resepsionis |\n| --- | --- |\n| *Do you have any rooms available for tonight?* | *Yes, we do. / Sorry, we're fully booked.* |\n| *Can I book a double room for three nights?* | *Of course. What's your name, please?* |\n| *How much is it per night?* | *It's 450,000 rupiah per night.* |\n| *Is breakfast included?* | *Yes, breakfast is from 6 to 10.* |\n| *What time is check-out?* | *Check-out is at 12 noon.* |\n\n### Jenis kamar\n- **single room** — untuk satu orang\n- **double room** — satu tempat tidur besar untuk dua orang\n- **twin room** — dua tempat tidur terpisah\n\n### Masalah perjalanan (travel problems)\n| Masalah | Arti |\n| --- | --- |\n| My luggage didn't arrive. | Bagasi saya tidak sampai. |\n| Our flight was cancelled. | Penerbangan kami dibatalkan. |\n| We missed our connection. | Kami ketinggalan penerbangan lanjutan. |\n| The air conditioning isn't working. | AC-nya tidak berfungsi. |\n| The room was dirty / noisy. | Kamarnya kotor / berisik. |\n| I lost my passport. | Saya kehilangan paspor. |\n\n### Menceritakan pengalaman perjalanan\nCerita perjalanan yang baik menggabungkan semua tense yang sudah dipelajari:\n1. **Latar** (past continuous): *We were travelling to Lombok for my cousin's wedding.*\n2. **Masalah** (past simple + when/while): *While we were waiting at the airport, they cancelled our flight.*\n3. **Apa yang kamu lakukan** (past simple + sequencers): *First, we went to the airline desk. Then they gave us a hotel room.*\n4. **Akhir dan perasaan** (was/were): *Finally, we arrived a day late, but we were happy.*\n\n### Mengeluh dengan sopan\nSaat ada masalah di hotel, mulai dengan **Excuse me** atau **I'm sorry, but...**:\n- *Excuse me, the shower in room 304 isn't working. Can you send someone, please?*\n- *I'm sorry, but my room is very noisy. Can I change rooms?*",
+        "examples": [
+          {
+            "en": "Can I book a twin room for two nights, please?",
+            "id": "Bisakah saya memesan kamar twin untuk dua malam?",
+            "note": "memesan kamar"
+          },
+          {
+            "en": "Is breakfast included in the price?",
+            "id": "Apakah sarapan sudah termasuk dalam harga?",
+            "note": "menanyakan fasilitas"
+          },
+          {
+            "en": "While we were waiting at the gate, they cancelled our flight.",
+            "id": "Saat kami sedang menunggu di gerbang, mereka membatalkan penerbangan kami.",
+            "note": "masalah dalam cerita"
+          },
+          {
+            "en": "Excuse me, the air conditioning in my room isn't working.",
+            "id": "Permisi, AC di kamar saya tidak berfungsi.",
+            "note": "mengeluh dengan sopan"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "available",
+            "pos": "adjective",
+            "ipa": "/əˈveɪləbl/",
+            "meaning": "tersedia",
+            "example": "Are there any rooms available?"
+          },
+          {
+            "word": "included",
+            "pos": "adjective",
+            "ipa": "/ɪnˈkluːdɪd/",
+            "meaning": "termasuk",
+            "example": "Breakfast is included."
+          },
+          {
+            "word": "cancelled",
+            "pos": "adjective",
+            "ipa": "/ˈkænsld/",
+            "meaning": "dibatalkan",
+            "example": "Our train was cancelled."
+          },
+          {
+            "word": "reception",
+            "pos": "noun",
+            "ipa": "/rɪˈsepʃn/",
+            "meaning": "meja resepsionis",
+            "example": "Please leave your key at reception."
+          },
+          {
+            "word": "fully booked",
+            "pos": "phrase",
+            "ipa": "/ˌfʊli ˈbʊkt/",
+            "meaning": "penuh (semua kamar sudah dipesan)",
+            "example": "Sorry, the hotel is fully booked."
+          },
+          {
+            "word": "double room",
+            "pos": "noun",
+            "ipa": "/ˌdʌbl ˈruːm/",
+            "meaning": "kamar dengan satu tempat tidur besar untuk dua orang",
+            "example": "We booked a double room with a sea view."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Can I book a + room type + for + number + nights?",
+            "example": "Can I book a single room for one night?",
+            "note": "Memesan kamar."
+          },
+          {
+            "pattern": "While + past continuous, + past simple (problem)",
+            "example": "While we were sleeping, the alarm went off.",
+            "note": "Menceritakan masalah perjalanan."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Is breakfast include?",
+            "right": "Is breakfast included?",
+            "why": "Gunakan bentuk adjective included."
+          },
+          {
+            "wrong": "Can I book a room for three night?",
+            "right": "Can I book a room for three nights?",
+            "why": "Lebih dari satu → nights (jamak)."
+          },
+          {
+            "wrong": "The air conditioning is not work.",
+            "right": "The air conditioning isn't working.",
+            "why": "Untuk sesuatu yang rusak sekarang, gunakan present continuous negatif: isn't working."
+          }
+        ],
+        "summary": "Memesan hotel: **Do you have any rooms available? Can I book a double room for two nights? Is breakfast included?** Jelaskan masalah: *Our flight was cancelled. The air conditioning isn't working.* Ceritakan perjalanan dengan **past continuous** untuk latar dan **past simple** untuk kejadian.",
+        "reviewCards": [
+          {
+            "front": "Apakah sarapan termasuk?",
+            "back": "Is breakfast included?"
+          },
+          {
+            "front": "penuh (hotel)",
+            "back": "fully booked"
+          },
+          {
+            "front": "dua tempat tidur terpisah",
+            "back": "twin room"
+          },
+          {
+            "front": "AC-nya tidak berfungsi.",
+            "back": "The air conditioning isn't working."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u07-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "hotels",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the best word: I'm travelling with my wife, and we want one big bed. Can I book a ___ room, please?",
+          "options": [
+            "double",
+            "single",
+            "crowded",
+            "delayed"
+          ],
+          "answer": 0,
+          "explanation": "Satu tempat tidur besar untuk dua orang → double room.",
+          "misconception": "Memilih single karena hanya satu tempat tidur."
+        },
+        {
+          "id": "a2-u07-l5-q2",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "hotels",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the best reply for the guest.",
+          "dialogue": [
+            {
+              "speaker": "Guest",
+              "text": "Good evening. Do you have any rooms available?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Yes, we do. How many nights are you staying?"
+            },
+            {
+              "speaker": "Guest",
+              "text": null
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "OK. Three nights, until Friday. Breakfast is included."
+            }
+          ],
+          "options": [
+            "Three nights. We're leaving on Friday.",
+            "Three nights ago.",
+            "I stayed three nights.",
+            "Yes, I am."
+          ],
+          "answer": 0,
+          "explanation": "Resepsionis menanyakan berapa malam, jadi tamu menjawab jumlah malam dan kapan pergi (present continuous untuk rencana)."
+        },
+        {
+          "id": "a2-u07-l5-q3",
+          "type": "essay",
+          "category": "writing",
+          "topic": "travel stories",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Write about a journey you remember (real or imaginary). Where were you going? What problem happened? What did you do? Use the past continuous at least twice and when or while at least once.",
+          "minWords": 70,
+          "maxWords": 130,
+          "rubric": "general-writing",
+          "explanation": "Gunakan past continuous untuk latar (We were travelling...), past simple untuk kejadian (the bus broke down), dan sequencers untuk urutan."
+        },
+        {
+          "id": "a2-u07-l5-q4",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "travel problems",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Read the hotel review. What happened while the writer was sleeping?",
+          "context": "We stayed at the Blue Lagoon Hotel for two nights. When we arrived, our room wasn't ready, so we waited in the café for an hour. The room was big and clean. But on the first night, while we were sleeping, the air conditioning stopped working, and it was really hot. The staff were very helpful. They gave us a new room the next morning.",
+          "options": [
+            "The air conditioning stopped working.",
+            "The room wasn't ready.",
+            "They waited in the café.",
+            "The staff gave them a new room."
+          ],
+          "answer": 0,
+          "explanation": "Teks: while we were sleeping, the air conditioning stopped working."
+        },
+        {
+          "id": "a2-u07-l5-q5",
+          "type": "matching",
+          "category": "conversation",
+          "topic": "travel problems",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Match each problem with the best solution.",
+          "pairs": [
+            {
+              "left": "My luggage didn't arrive.",
+              "right": "Go to the lost baggage desk."
+            },
+            {
+              "left": "Our flight was cancelled.",
+              "right": "Ask the airline for another flight."
+            },
+            {
+              "left": "The shower in my room isn't working.",
+              "right": "Call reception."
+            },
+            {
+              "left": "I missed the last bus.",
+              "right": "Take a taxi."
+            }
+          ],
+          "explanation": "Bagasi hilang → lost baggage desk; penerbangan batal → minta penerbangan lain; shower rusak → telepon resepsionis; ketinggalan bus → naik taksi."
+        },
+        {
+          "id": "a2-u07-l5-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "past continuous vs past simple",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Join the two sentences with when.",
+          "sentence": "We were checking in. The fire alarm rang.",
+          "cue": "Begin with: We were checking in ...",
+          "answers": [
+            "We were checking in when the fire alarm rang."
+          ],
+          "explanation": "Kegiatan panjang (were checking in) + when + kejadian singkat (rang)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u07-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "when/while",
+      "difficulty": 1,
+      "stage": "unit_test",
+      "prompt": "Choose the correct option: While I ___ along the beach, I found a beautiful shell.",
+      "options": [
+        "was walking",
+        "walked",
+        "am walking",
+        "were walking"
+      ],
+      "answer": 0,
+      "explanation": "While + kegiatan panjang → past continuous. I → was walking."
+    },
+    {
+      "id": "a2-u07-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "past continuous vs past simple",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Complete with the past simple or past continuous of the verbs in brackets.",
+      "text": "It ___ (rain) when our plane ___ (land) in Medan.",
+      "answers": [
+        [
+          "was raining"
+        ],
+        [
+          "landed"
+        ]
+      ],
+      "explanation": "Hujan sedang berlangsung → was raining. Pesawat mendarat (kejadian singkat) → landed."
+    },
+    {
+      "id": "a2-u07-t-q3",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "prepositions of movement",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the correct prepositions.",
+      "text": "The bus went ___ the long tunnel and then drove ___ the hill to the hotel at the top.",
+      "choices": [
+        [
+          "through",
+          "across",
+          "over"
+        ],
+        [
+          "up",
+          "into",
+          "out of"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "Melewati terowongan → through. Naik bukit ke hotel di puncak → up."
+    },
+    {
+      "id": "a2-u07-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "past continuous",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": [
+        "When",
+        "the plane",
+        "landed,",
+        "everyone",
+        "were clapping."
+      ],
+      "errorIndex": 4,
+      "correction": "was clapping.",
+      "explanation": "Everyone diperlakukan sebagai subjek tunggal, jadi memakai was clapping."
+    },
+    {
+      "id": "a2-u07-t-q5",
+      "type": "matching",
+      "category": "vocabulary",
+      "topic": "transport",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Match the verbs with the words that go with them.",
+      "pairs": [
+        {
+          "left": "get on",
+          "right": "the bus"
+        },
+        {
+          "left": "get out of",
+          "right": "the taxi"
+        },
+        {
+          "left": "miss",
+          "right": "a flight"
+        },
+        {
+          "left": "book",
+          "right": "a hotel room"
+        }
+      ],
+      "explanation": "get on the bus (kendaraan besar), get out of the taxi (mobil), miss a flight (ketinggalan pesawat), book a hotel room (memesan kamar)."
+    },
+    {
+      "id": "a2-u07-t-q6",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "past continuous",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kamu sedang apa jam delapan tadi malam?",
+      "direction": "id-en",
+      "answers": [
+        "What were you doing at eight o'clock last night?",
+        "What were you doing at 8 o'clock last night?",
+        "What were you doing at eight last night?",
+        "What were you doing at 8 p.m. last night?",
+        "What were you doing at 8 last night?",
+        "At eight o'clock last night, what were you doing?"
+      ],
+      "explanation": "Sedang apa (lampau) → What were you doing? Jam delapan tadi malam = at eight o'clock last night."
+    },
+    {
+      "id": "a2-u07-t-q7",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "airport",
+      "difficulty": 1,
+      "stage": "unit_test",
+      "prompt": "Choose the best word: Please show your passport and your ___ at the gate before you get on the plane.",
+      "options": [
+        "boarding pass",
+        "luggage",
+        "platform",
+        "reception"
+      ],
+      "answer": 0,
+      "explanation": "Dokumen untuk naik pesawat yang ditunjukkan di gerbang = boarding pass."
+    }
+  ]
+}

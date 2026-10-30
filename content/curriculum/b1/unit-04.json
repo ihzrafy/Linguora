@@ -1,0 +1,828 @@
+{
+  "slug": "b1-u04-real-conditionals",
+  "number": 4,
+  "title": "If and When",
+  "description": "Membicarakan fakta, kebiasaan, dan konsekuensi nyata dengan zero conditional dan first conditional. Kamu juga akan membedakan if dan when, serta memakai unless dan as long as — dengan tema lingkungan dan konsekuensi sehari-hari.",
+  "objectives": [
+    "Menggunakan zero conditional untuk fakta, kebenaran umum, dan instruksi",
+    "Menggunakan first conditional untuk kemungkinan nyata dan konsekuensinya di masa depan",
+    "Membedakan if dan when, serta memakai unless dan as long as dengan tepat",
+    "Membicarakan masalah lingkungan dan konsekuensi tindakan sehari-hari"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u04-l1-zero-conditional",
+      "title": "The Zero Conditional: Facts and Habits",
+      "summary": "Memakai If + present simple, present simple untuk fakta ilmiah, kebenaran umum, kebiasaan, dan instruksi.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk zero conditional dengan present simple di kedua klausa",
+        "Menggunakan zero conditional untuk fakta, kebenaran umum, dan kebiasaan",
+        "Memberi instruksi dengan If + present simple, imperative"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu zero conditional?\nThe **zero conditional** talks about things that are **always true**: scientific facts, general truths, and habits. Hasilnya **selalu** terjadi setiap kali kondisinya terpenuhi. Dalam bahasa Indonesia biasanya kita memakai *kalau* atau *jika*.\n\n| If-clause | Main clause |\n|---|---|\n| If + present simple | present simple |\n| If you heat ice, | it melts. |\n| If plants don't get light, | they die. |\n| If I drink coffee at night, | I can't sleep. |\n\n### Kapan dipakai?\n- **Scientific facts** (fakta ilmiah): *If you heat water to 100°C, it boils.*\n- **General truths** (kebenaran umum): *If people don't sleep enough, they feel tired.*\n- **Personal habits** (kebiasaan): *If I'm stressed, I listen to music.*\n\n### if ≈ when\nDalam zero conditional, **if** hampir sama artinya dengan **when** atau **whenever** (setiap kali). *If you mix red and white, you get pink* = *When you mix red and white, you get pink.* That is because the result happens **every time**.\n\n### Instructions\nWe can also use **if + present simple** with an **imperative** to give instructions or advice: *If the alarm rings, leave the building. If you feel sick, see a doctor.* Pola ini sering muncul di petunjuk, label produk, dan peraturan.\n\n### Koma dan urutan\nThe if-clause can come first or second. Jika *if-clause* di awal, pakai **koma**: *If it rains, the roads flood.* Jika di akhir, biasanya tanpa koma: *The roads flood if it rains.* The meaning is the same.\n\n### Hati-hati\n- Kedua klausa memakai **present simple**, jadi perhatikan **-s/-es** untuk he/she/it: *If my cat **is** hungry, she **meows** loudly.*\n- Jangan pakai past simple untuk fakta umum: ~~If you heat ice, it melted~~ → *If you heat ice, it melts.*\n- The zero conditional is about **general** situations, not one specific future event. Untuk satu situasi spesifik di masa depan (*tomorrow, next week*), kita memakai **first conditional** — you will learn it in the next lesson.",
+        "examples": [
+          { "en": "If you heat water to 100°C, it boils.", "id": "Jika kamu memanaskan air sampai 100°C, air itu mendidih.", "note": "Fakta ilmiah." },
+          { "en": "If plants don't get enough light, they die.", "id": "Jika tanaman tidak mendapat cukup cahaya, tanaman itu mati.", "note": "Kebenaran umum; negatif di if-clause." },
+          { "en": "When I'm stressed, I go for a long walk.", "id": "Kalau saya stres, saya berjalan-jalan cukup lama.", "note": "Kebiasaan pribadi; when ≈ if." },
+          { "en": "If the alarm rings, leave the building immediately.", "id": "Jika alarm berbunyi, segera tinggalkan gedung.", "note": "Instruksi: if + present simple, imperative." },
+          { "en": "Metal expands if you heat it.", "id": "Logam memuai jika dipanaskan.", "note": "If-clause di akhir → tanpa koma." }
+        ],
+        "vocabulary": [
+          { "word": "melt", "pos": "verb", "ipa": "/melt/", "meaning": "meleleh; mencair", "example": "Chocolate melts if you leave it in the sun." },
+          { "word": "boil", "pos": "verb", "ipa": "/bɔɪl/", "meaning": "mendidih; merebus", "example": "Water boils at 100°C." },
+          { "word": "freeze", "pos": "verb", "ipa": "/friːz/", "meaning": "membeku", "example": "If the temperature falls below zero, water freezes." },
+          { "word": "temperature", "pos": "noun", "ipa": "/ˈtemprətʃə(r)/", "meaning": "suhu", "example": "The temperature drops quickly at night in the mountains." },
+          { "word": "expand", "pos": "verb", "ipa": "/ɪkˈspænd/", "meaning": "memuai; mengembang", "example": "Metal expands when it gets hot." },
+          { "word": "immediately", "pos": "adverb", "ipa": "/ɪˈmiːdiətli/", "meaning": "segera", "example": "If you smell gas, call the emergency number immediately." }
+        ],
+        "grammar": [
+          { "pattern": "If + present simple, present simple", "example": "If you mix blue and yellow, you get green.", "note": "Fakta atau kebenaran umum; hasilnya selalu sama." },
+          { "pattern": "When/Whenever + present simple, present simple", "example": "Whenever I eat spicy food, I drink a lot of water.", "note": "Dalam zero conditional, when ≈ if." },
+          { "pattern": "If + present simple, imperative", "example": "If you feel dizzy, sit down.", "note": "Instruksi atau saran." }
+        ],
+        "mistakes": [
+          { "wrong": "If you heat ice, it melted.", "right": "If you heat ice, it melts.", "why": "Fakta umum memakai present simple di kedua klausa, bukan past simple." },
+          { "wrong": "If my brother feel tired, he go to bed early.", "right": "If my brother feels tired, he goes to bed early.", "why": "Present simple untuk he/she/it memakai -s/-es." },
+          { "wrong": "If it rains the roads flood.", "right": "If it rains, the roads flood.", "why": "Jika if-clause di awal kalimat, pakai koma." },
+          { "wrong": "If you will feel sick, see a doctor.", "right": "If you feel sick, see a doctor.", "why": "If-clause memakai present simple, bukan will." }
+        ],
+        "summary": "The **zero conditional** (*If + present simple, present simple*) describes facts, general truths and habits — things that happen **every time**. Dalam pola ini, *if* hampir sama dengan *when*. Gunakan *If + present simple, imperative* untuk memberi instruksi.",
+        "reviewCards": [
+          { "front": "Zero conditional: pola", "back": "If + present simple, present simple: If you heat ice, it melts." },
+          { "front": "Kapan zero conditional dipakai?", "back": "Fakta ilmiah, kebenaran umum, kebiasaan — hasilnya selalu terjadi." },
+          { "front": "If = when?", "back": "Dalam zero conditional, ya (≈ whenever / setiap kali)." },
+          { "front": "Instruksi dengan if", "back": "If + present simple, imperative: If the alarm rings, leave the building." },
+          { "front": "freeze / melt / boil", "back": "membeku / meleleh / mendidih" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u04-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "If you leave ice in a warm room, it ___.",
+          "options": ["melts", "melt", "melted", "is melting"],
+          "answer": 0,
+          "explanation": "Fakta umum → zero conditional: **present simple** di kedua klausa. Subject *it* → **melts** (+s).",
+          "misconception": "Fakta umum tidak memakai past simple, meskipun kita mungkin pernah melihatnya di masa lalu."
+        },
+        {
+          "id": "b1-u04-l1-q2",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match the beginnings and endings to make zero conditional sentences.",
+          "pairs": [
+            { "left": "If you mix red and white paint,", "right": "you get pink." },
+            { "left": "If plants don't get any water,", "right": "they die." },
+            { "left": "If you press this button,", "right": "the machine starts." },
+            { "left": "If I drink coffee late at night,", "right": "I can't sleep." },
+            { "left": "If you heat water to 100°C,", "right": "it boils." }
+          ],
+          "explanation": "Setiap kalimat menyatakan hasil yang **selalu** terjadi, jadi kedua klausa memakai present simple. These are facts or habits, not one future event."
+        },
+        {
+          "id": "b1-u04-l1-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the present simple form of the verbs in brackets.",
+          "text": "If my little brother ___ (feel) bored, he ___ (play) games on his phone.",
+          "answers": [["feels"], ["plays"]],
+          "explanation": "Kebiasaan → zero conditional. Subject *he / my little brother* butuh **-s**: *feels*, *plays*."
+        },
+        {
+          "id": "b1-u04-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["When it", "rain", "a lot,", "the streets near my house", "flood."],
+          "errorIndex": 1,
+          "correction": "rains",
+          "explanation": "Subject *it* dalam present simple → **rains**: *When it rains a lot, the streets near my house flood.* *Flood* is correct because *the streets* is plural."
+        },
+        {
+          "id": "b1-u04-l1-q5",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kalau kamu mencampur biru dan kuning, kamu mendapatkan hijau.",
+          "direction": "id-en",
+          "answers": [
+            "If you mix blue and yellow, you get green.",
+            "If you mix blue with yellow, you get green.",
+            "When you mix blue and yellow, you get green.",
+            "When you mix blue with yellow, you get green.",
+            "You get green if you mix blue and yellow.",
+            "You get green when you mix blue and yellow.",
+            "If you mix blue and yellow, you will get green.",
+            "If you mix blue and yellow, you'll get green."
+          ],
+          "explanation": "Ini fakta umum → zero conditional: *If you mix blue and yellow, you get green.* *When* is also possible because the result happens every time."
+        },
+        {
+          "id": "b1-u04-l1-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all the correct ones.",
+          "options": [
+            "If you don't water plants, they die.",
+            "If the alarm rings, leave the building immediately.",
+            "If water freezes, it turned into ice.",
+            "When people are tired, they make more mistakes.",
+            "If you heats butter, it melts."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "Benar: fakta (*they die*), instruksi (*leave the building*), kebenaran umum (*they make more mistakes*). Salah: *turned* (harus present simple *turns*) dan *you heats* (you tidak memakai -s)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u04-l2-first-conditional",
+      "title": "The First Conditional: Real Possibilities",
+      "summary": "Memakai If + present simple, will/won't + V1 untuk kemungkinan nyata di masa depan dan konsekuensinya.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk first conditional dengan present simple di if-clause dan will di main clause",
+        "Memakai might, can, dan imperative di main clause",
+        "Bertanya tentang konsekuensi dengan What will you do if ...?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### First conditional: kemungkinan nyata\nThe **first conditional** talks about a **real possibility in the future** and its result. Kondisinya mungkin terjadi, dan kita membicarakan hasilnya: *If it rains tomorrow, we'll stay at home.* Kita belum tahu besok hujan atau tidak, tetapi hal itu sangat mungkin.\n\n| If-clause | Main clause |\n|---|---|\n| If + present simple | will / won't + V1 |\n| If you leave now, | you'll catch the bus. |\n| If she doesn't study, | she won't pass. |\n\n### Tidak ada will di if-clause\nSama seperti time clauses di Unit 3, **if-clause memakai present simple**, walaupun artinya masa depan. ~~If it will rain~~ → *If it rains*. *Will* hanya ada di **main clause**. Dalam bahasa Indonesia kita bisa berkata *kalau besok akan hujan*, but in English we never say *if it will rain* in this pattern.\n\n### Pilihan di main clause\n| Main clause | Meaning | Example |\n|---|---|---|\n| will / won't | hasil yang kita yakini | If you hurry, you'll catch the train. |\n| might / may | hasil yang mungkin | If you hurry, you might catch the train. |\n| can | kemampuan/izin | If you finish early, you can go home. |\n| imperative | saran/perintah | If you see Rina, say hello from me. |\n\n### Questions\nTo ask about consequences, put the question form in the **main clause**: *What will you do if you don't get the job?* *Will you come if I invite you?* Jawabannya: *If I don't get the job, I'll look for another one.*\n\n### Zero vs first\n- **Zero**: always true → *If you don't water plants, they die.*\n- **First**: one specific future situation → *If you don't water my plants while I'm away, they'll die.*\n\n### Everyday consequences\nThe first conditional is perfect for **warnings**, **promises** and **persuasion**: *If you oversleep again, you'll lose your job.* *If you help me, I'll buy you lunch.* Perhatikan juga koma: dipakai ketika if-clause berada di awal kalimat, dan biasanya tidak dipakai ketika if-clause di akhir.",
+        "examples": [
+          { "en": "If it rains tomorrow, we'll stay at home.", "id": "Kalau besok hujan, kami akan tinggal di rumah.", "note": "If + present simple, will + V1." },
+          { "en": "If you don't hurry, you'll miss the last train.", "id": "Kalau kamu tidak bergegas, kamu akan ketinggalan kereta terakhir.", "note": "Peringatan (warning)." },
+          { "en": "If you finish your work early, you can go home.", "id": "Kalau pekerjaanmu selesai lebih awal, kamu boleh pulang.", "note": "can di main clause = izin." },
+          { "en": "What will you do if you don't get the scholarship?", "id": "Apa yang akan kamu lakukan kalau kamu tidak mendapat beasiswa?", "note": "Pertanyaan ada di main clause." },
+          { "en": "If I see Pak Darto, I'll tell him about the meeting.", "id": "Kalau saya bertemu Pak Darto, saya akan memberi tahu dia tentang rapatnya.", "note": "Situasi spesifik di masa depan." }
+        ],
+        "vocabulary": [
+          { "word": "consequence", "pos": "noun", "ipa": "/ˈkɒnsɪkwəns/", "meaning": "akibat; konsekuensi", "example": "If you don't pay the bill, there will be consequences." },
+          { "word": "oversleep", "pos": "verb", "ipa": "/ˌəʊvəˈsliːp/", "meaning": "kesiangan; tidur terlalu lama", "example": "If you oversleep, you'll be late for the exam." },
+          { "word": "fine", "pos": "noun", "ipa": "/faɪn/", "meaning": "denda", "example": "If you park here, you'll get a fine." },
+          { "word": "scholarship", "pos": "noun", "ipa": "/ˈskɒləʃɪp/", "meaning": "beasiswa", "example": "If she gets the scholarship, she'll study in Port Selwyn." },
+          { "word": "miss", "pos": "verb", "ipa": "/mɪs/", "meaning": "ketinggalan; melewatkan", "example": "Hurry up or we'll miss the start of the film." },
+          { "word": "warn", "pos": "verb", "ipa": "/wɔːn/", "meaning": "memperingatkan", "example": "The teacher warned us about the difficult test." }
+        ],
+        "grammar": [
+          { "pattern": "If + present simple, will / won't + V1", "example": "If you study hard, you'll pass.", "note": "Kemungkinan nyata di masa depan." },
+          { "pattern": "If + present simple, might / can / imperative", "example": "If you're free on Sunday, come to my house.", "note": "Variasi main clause." },
+          { "pattern": "What will you do if + present simple?", "example": "What will you do if it rains?", "note": "Menanyakan konsekuensi." }
+        ],
+        "mistakes": [
+          { "wrong": "If it will rain, we'll stay at home.", "right": "If it rains, we'll stay at home.", "why": "If-clause memakai present simple, bukan will." },
+          { "wrong": "If you don't hurry, you miss the bus tomorrow.", "right": "If you don't hurry, you'll miss the bus tomorrow.", "why": "Untuk satu situasi di masa depan, main clause memakai will." },
+          { "wrong": "If she study hard, she'll pass.", "right": "If she studies hard, she'll pass.", "why": "Present simple untuk she memakai -s/-es." },
+          { "wrong": "What you will do if you lose your job?", "right": "What will you do if you lose your job?", "why": "Urutan pertanyaan: What + will + subject + V1." }
+        ],
+        "summary": "The **first conditional** (*If + present simple, will/won't + V1*) talks about real future possibilities and their results. Jangan pakai *will* di if-clause. Di main clause kamu juga bisa memakai *might*, *can*, atau imperative.",
+        "reviewCards": [
+          { "front": "First conditional: pola", "back": "If + present simple, will/won't + V1: If it rains, we'll stay home." },
+          { "front": "If it will rain ...? benar?", "back": "Salah → If it rains ..." },
+          { "front": "Menanyakan konsekuensi", "back": "What will you do if ...?" },
+          { "front": "Zero vs first", "back": "Zero = selalu benar; first = satu situasi spesifik di masa depan." },
+          { "front": "fine (noun)", "back": "denda: If you park here, you'll get a fine." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u04-l2-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Complete with the correct form of the verbs in brackets.",
+          "text": "If it ___ (rain) tomorrow, we ___ (not / go) to the beach.",
+          "answers": [["rains"], ["won't go", "will not go"]],
+          "explanation": "If-clause → present simple: **rains**. Main clause → **won't go** / **will not go**.",
+          "misconception": "Banyak pelajar menulis 'If it will rain' karena artinya masa depan. Tetapi will hanya ada di main clause."
+        },
+        {
+          "id": "b1-u04-l2-q2",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": ["If you leave now,", "you'll catch", "the last bus", "to Kalisari."],
+          "acceptedAnswers": ["You'll catch the last bus to Kalisari if you leave now."],
+          "explanation": "Pola first conditional: *If you leave now, you'll catch the last bus to Kalisari.* The if-clause can also go at the end without a comma."
+        },
+        {
+          "id": "b1-u04-l2-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "first conditional for warnings",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Your friend wants to drive home after working a very long night shift. Warn them about the possible consequences and suggest something else. Say at least three first conditional sentences.",
+          "targetPhrases": ["If you drive now,", "you'll", "you might", "If you take a taxi,"],
+          "sampleAnswer": "Please don't drive now. If you drive now, you'll be very sleepy on the road. You might have an accident. If you take a taxi, you'll get home safely, and you can pick up your car tomorrow. If you're hungry, I'll make you some tea and a sandwich first.",
+          "explanation": "Gunakan **If + present simple** dan **will / might / can** di main clause untuk memberi peringatan dan saran. Speak slowly and stress the important words: *drive*, *sleepy*, *accident*, *safely*."
+        },
+        {
+          "id": "b1-u04-l2-q4",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct option for each gap.",
+          "text": "If you ___ the form today, we ___ your new card next week. If you have any questions, ___ our office.",
+          "choices": [
+            ["send", "will send", "sent"],
+            ["will post", "post", "posted"],
+            ["call", "will call", "called"]
+          ],
+          "answers": [0, 0, 0],
+          "explanation": "If-clause → present simple **send**. Main clause tentang masa depan → **will post**. Kalimat kedua memakai imperative di main clause → **call** our office."
+        },
+        {
+          "id": "b1-u04-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "If you will study every day, you will pass the exam.",
+          "answers": [
+            "If you study every day, you will pass the exam.",
+            "If you study every day, you'll pass the exam.",
+            "You will pass the exam if you study every day.",
+            "You'll pass the exam if you study every day."
+          ],
+          "explanation": "Hapus *will* dari if-clause: **If you study every day**, you will pass the exam. *Will* belongs only in the main clause."
+        },
+        {
+          "id": "b1-u04-l2-q6",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "first conditional",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Dimas", "text": "Do I really need a jacket tonight? It's warm now." },
+            { "speaker": "Ana", "text": null }
+          ],
+          "options": [
+            "Yes. If you don't take one, you'll be cold on the way home.",
+            "Yes. If you won't take one, you'll be cold on the way home.",
+            "Yes. If you didn't take one, you'll be cold on the way home.",
+            "Yes. If you don't take one, you were cold on the way home."
+          ],
+          "answer": 0,
+          "explanation": "Situasi spesifik malam ini → first conditional: **If + present simple (don't take), will + V1 (you'll be)**. The other options put the wrong tense in one of the clauses."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u04-l3-if-vs-when",
+      "title": "If or When?",
+      "summary": "Membedakan if (mungkin terjadi) dan when (pasti terjadi), serta memilih zero atau first conditional.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih when untuk hal yang pasti terjadi dan if untuk hal yang mungkin terjadi",
+        "Memakai present simple setelah if dan when untuk masa depan",
+        "Membedakan zero conditional (selalu benar) dan first conditional (satu situasi di masa depan)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kalau = if atau when?\nDalam bahasa Indonesia, kata **kalau** bisa berarti *if* atau *when*. In English, the choice depends on **how sure you are** that something will happen.\n\n| Word | Meaning | Example |\n|---|---|---|\n| when | kita **yakin** hal itu akan terjadi | When I get home, I'll call you. (Saya pasti pulang.) |\n| if | hal itu **mungkin** terjadi, belum pasti | If I get home before ten, I'll call you. (Belum tentu sebelum jam 10.) |\n\n### Contoh perbandingan\n- *When the film finishes, we'll have dinner.* — the film will definitely finish.\n- *If the film is boring, we'll leave early.* — maybe it will be boring, maybe not.\n- *When I see Dara at work tomorrow, I'll give her the book.* — kita tahu pasti akan bertemu di kantor.\n- *If I see Dara at the market, I'll give her the book.* — pertemuannya hanya kemungkinan.\n\n### Bentuk kata kerja sama\nBoth **if** and **when** take the **present simple** when we talk about the future. ~~When I will see her~~ dan ~~If I will see her~~ sama-sama salah. The main clause uses *will*, *might*, *can*, or an imperative.\n\n### Zero conditional: if ≈ when\nFor general truths and habits, *if* and *when* are almost the same: *If/When you press this button, the door opens.* Perbedaan if/when menjadi penting untuk **satu situasi spesifik di masa depan**.\n\n### Zero atau first?\n| Type | Situation | Example |\n|---|---|---|\n| Zero | always true, every time | If it rains heavily, this road floods. |\n| First | one future situation | If it rains heavily tonight, we'll postpone the match. |\n\n### Tiga pertanyaan untuk dirimu\n1. Is this true **every time**? → zero conditional (present + present).\n2. Is it about **one future situation**? → first conditional (present + will).\n3. Am I **sure** it will happen? → *when*. **Not sure**? → *if*.\n\nDengan tiga pertanyaan ini, kamu bisa memilih bentuk yang tepat dalam hampir semua situasi sehari-hari, misalnya saat membicarakan cuaca, jadwal, atau rencana perjalanan.",
+        "examples": [
+          { "en": "When the rain stops, we'll go for a walk.", "id": "Ketika hujan berhenti, kita akan jalan-jalan.", "note": "Hujan pasti berhenti → when." },
+          { "en": "If there's a power cut tonight, we'll use candles.", "id": "Kalau nanti malam listrik padam, kita akan memakai lilin.", "note": "Belum pasti → if." },
+          { "en": "When I finish university, I'm going to work in Kalisari.", "id": "Ketika saya lulus kuliah, saya akan bekerja di Kalisari.", "note": "Pasti terjadi → when." },
+          { "en": "If the weather is bad, they'll postpone the festival.", "id": "Kalau cuacanya buruk, mereka akan menunda festivalnya.", "note": "Mungkin terjadi → if." },
+          { "en": "If it rains heavily, this road floods.", "id": "Kalau hujan lebat, jalan ini banjir.", "note": "Zero conditional: selalu terjadi." }
+        ],
+        "vocabulary": [
+          { "word": "flood", "pos": "verb / noun", "ipa": "/flʌd/", "meaning": "banjir; membanjiri", "example": "The streets flood every rainy season." },
+          { "word": "power cut", "pos": "noun", "ipa": "/ˈpaʊə kʌt/", "meaning": "pemadaman listrik", "example": "We had a power cut during the storm." },
+          { "word": "heavy rain", "pos": "noun phrase", "ipa": "/ˌhevi ˈreɪn/", "meaning": "hujan lebat", "example": "Heavy rain is expected this weekend." },
+          { "word": "postpone", "pos": "verb", "ipa": "/pəˈspəʊn/", "meaning": "menunda", "example": "They'll postpone the match if it rains." },
+          { "word": "get wet", "pos": "phrase", "ipa": "/ˌɡet ˈwet/", "meaning": "kebasahan; menjadi basah", "example": "If you don't take an umbrella, you'll get wet." },
+          { "word": "on time", "pos": "phrase", "ipa": "/ɒn ˈtaɪm/", "meaning": "tepat waktu", "example": "If the train is on time, we'll arrive at six." }
+        ],
+        "grammar": [
+          { "pattern": "When + present simple, will + V1", "example": "When I get my results, I'll tell you.", "note": "Kita yakin hal itu akan terjadi." },
+          { "pattern": "If + present simple, will + V1", "example": "If I get good results, I'll celebrate.", "note": "Hal itu mungkin terjadi, belum pasti." },
+          { "pattern": "If/When + present simple, present simple", "example": "If/When you heat butter, it melts.", "note": "Zero conditional: if dan when hampir sama." }
+        ],
+        "mistakes": [
+          { "wrong": "When I will see her tomorrow, I'll give her the book.", "right": "When I see her tomorrow, I'll give her the book.", "why": "When untuk masa depan diikuti present simple." },
+          { "wrong": "I'm sure I'll pass. If I pass, I'll have a party.", "right": "I'm sure I'll pass. When I pass, I'll have a party.", "why": "Kalau kamu yakin hal itu terjadi, pakai when." },
+          { "wrong": "When it snows in Jakarta next week, we'll build a snowman.", "right": "If it snows in Jakarta next week, we'll build a snowman.", "why": "Salju di Jakarta sangat tidak pasti, jadi pakai if." },
+          { "wrong": "If it rains heavily, this road will flood every year.", "right": "If it rains heavily, this road floods.", "why": "Untuk sesuatu yang selalu terjadi, pakai zero conditional (present + present)." }
+        ],
+        "summary": "Use **when** for things you are sure will happen and **if** for things that might happen. Keduanya memakai **present simple** untuk masa depan. Untuk fakta yang selalu benar (zero conditional), *if* dan *when* hampir sama artinya.",
+        "reviewCards": [
+          { "front": "when vs if (masa depan)", "back": "when = pasti terjadi; if = mungkin terjadi" },
+          { "front": "When I ___ (get) home, I'll call you.", "back": "get (present simple)" },
+          { "front": "Zero atau first? 'If it rains heavily tonight, ...'", "back": "First conditional — satu situasi spesifik (tonight)." },
+          { "front": "postpone", "back": "menunda: They'll postpone the match." },
+          { "front": "power cut", "back": "pemadaman listrik" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u04-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "if vs when",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "I don't know if I'll be free tomorrow. ___ I have time, I'll help you paint the fence.",
+          "options": ["If", "When", "Until"],
+          "answer": 0,
+          "explanation": "Pembicara **tidak yakin** akan punya waktu → **If**. *When* is for things we are sure about, and *until* (sampai) does not make sense here.",
+          "misconception": "Kata 'kalau' dalam bahasa Indonesia bisa berarti if atau when; pilih berdasarkan seberapa yakin kamu."
+        },
+        {
+          "id": "b1-u04-l3-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "if vs when",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Drag If or When into the gaps.",
+          "text": "My brother is definitely coming home this weekend. ___ he arrives, we'll have a big family dinner. My cousin might come too, but she's very busy. ___ she has time, she'll join us.",
+          "bank": ["When", "If", "Will", "Until"],
+          "answers": ["When", "If"],
+          "explanation": "Kakak pasti datang → **When** he arrives. Sepupu belum pasti → **If** she has time. *Will* cannot start a time or condition clause here."
+        },
+        {
+          "id": "b1-u04-l3-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Combine the two sentences into one first conditional sentence.",
+          "sentence": "Maybe I'll finish work early. Then I'll pick you up from the station.",
+          "cue": "Use if. Begin with: If I ...",
+          "answers": [
+            "If I finish work early, I'll pick you up from the station.",
+            "If I finish work early, I will pick you up from the station.",
+            "If I finish work early I'll pick you up from the station."
+          ],
+          "explanation": "*Maybe* → belum pasti → **if**. If-clause memakai present simple (*finish*), main clause memakai **will**: *If I finish work early, I'll pick you up from the station.*"
+        },
+        {
+          "id": "b1-u04-l3-q4",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "if vs when",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["When", "the", "rain", "stops,", "we'll", "go", "for", "a", "walk"],
+          "acceptedAnswers": ["We'll go for a walk when the rain stops"],
+          "explanation": "Hujan pasti berhenti → **when** + present simple (*stops*), lalu main clause dengan *will*: *When the rain stops, we'll go for a walk.*"
+        },
+        {
+          "id": "b1-u04-l3-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["If there", "will be", "a power cut tonight,", "we'll use candles."],
+          "errorIndex": 1,
+          "correction": "is",
+          "explanation": "If-clause memakai present simple: *If there **is** a power cut tonight*. *Will* only appears in the main clause (*we'll use candles*)."
+        },
+        {
+          "id": "b1-u04-l3-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "if vs when",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write If or When. 'My flight lands at 9 p.m. tonight. ___ I land, I'll send you a message.'",
+          "answers": ["When"],
+          "explanation": "Pesawat pasti mendarat (jadwal sudah jelas) → **When** I land. *If* would suggest that the plane might not land."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u04-l4-unless-as-long-as",
+      "title": "Unless and As Long As",
+      "summary": "Memakai unless (= if ... not) dan as long as (= asalkan) untuk syarat, peringatan, dan izin.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengganti if ... not dengan unless tanpa membuat double negative",
+        "Memakai as long as untuk memberi syarat atau izin",
+        "Memakai present simple setelah unless dan as long as untuk masa depan"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### unless = if ... not\n**Unless** means *if ... not* (kecuali kalau / kalau tidak). It introduces a condition, so it works like *if*: present simple for the future, and *will / can /* imperative in the main clause.\n\n| With if ... not | With unless |\n|---|---|\n| If you don't hurry, you'll miss the bus. | Unless you hurry, you'll miss the bus. |\n| I won't go if Ari doesn't come. | I won't go unless Ari comes. |\n\nPerhatikan: setelah *unless*, kata kerjanya **positif**. *Unless* sudah mengandung arti *not*, jadi ~~unless you don't hurry~~ salah (double negative).\n\n### as long as = only if\n**As long as** means *only if* / *on the condition that* (asalkan, dengan syarat). We use it to set a condition, often when giving **permission** or making a **deal**: *You can borrow my bike as long as you bring it back by six.* Artinya: boleh pinjam, **tetapi hanya jika** sepedanya dikembalikan jam enam.\n\n| Expression | Indonesian | Example |\n|---|---|---|\n| if | jika/kalau | If you're free, call me. |\n| unless | kecuali kalau | Don't call me unless it's urgent. |\n| as long as | asalkan | You can stay as long as you're quiet. |\n\n### Bentuk kata kerja\nJust like *if* and *when*, **unless** and **as long as** take the **present simple** for future meaning: ~~as long as you will help me~~ → *as long as you help me*.\n\n### Kapan dipakai?\n- **Warnings** (peringatan): *Unless you save some money, you'll have problems later.*\n- **Rules** (aturan): *Visitors can't enter unless they have a pass.*\n- **Permission & deals** (izin & kesepakatan): *You can use the car as long as you fill it up with petrol.*\n\n### Tip: cek maknanya\nTo check a sentence with *unless*, replace it with *if ... not*. *We'll have a picnic unless it rains* = *We'll have a picnic if it doesn't rain.* If the meaning still works, your sentence is correct. Untuk *as long as*, coba ganti dengan *only if*: *You can go out only if you finish your homework.*",
+        "examples": [
+          { "en": "Don't call me after ten unless it's urgent.", "id": "Jangan telepon saya setelah jam sepuluh kecuali kalau penting/mendesak.", "note": "unless + positif." },
+          { "en": "You'll miss the bus unless you hurry.", "id": "Kamu akan ketinggalan bus kalau kamu tidak bergegas.", "note": "unless you hurry = if you don't hurry." },
+          { "en": "You can borrow my camera as long as you're careful with it.", "id": "Kamu boleh meminjam kameraku asalkan kamu berhati-hati.", "note": "as long as = asalkan." },
+          { "en": "Visitors can't enter the lab unless they wear a mask.", "id": "Pengunjung tidak boleh masuk lab kecuali kalau mereka memakai masker.", "note": "Aturan." },
+          { "en": "We'll have the picnic on Sunday as long as the weather is good.", "id": "Kita akan piknik hari Minggu asalkan cuacanya bagus.", "note": "as long as + present simple." }
+        ],
+        "vocabulary": [
+          { "word": "unless", "pos": "conjunction", "ipa": "/ənˈles/", "meaning": "kecuali kalau; kalau tidak", "example": "I won't go unless you come with me." },
+          { "word": "as long as", "pos": "conjunction", "ipa": "/əz ˈlɒŋ əz/", "meaning": "asalkan; selama", "example": "You can stay as long as you help with the cooking." },
+          { "word": "condition", "pos": "noun", "ipa": "/kənˈdɪʃn/", "meaning": "syarat; kondisi", "example": "You can borrow it on one condition: return it tomorrow." },
+          { "word": "urgent", "pos": "adjective", "ipa": "/ˈɜːdʒənt/", "meaning": "mendesak; penting sekali", "example": "Only call me if it's urgent." },
+          { "word": "borrow", "pos": "verb", "ipa": "/ˈbɒrəʊ/", "meaning": "meminjam", "example": "Can I borrow your charger?" },
+          { "word": "pass", "pos": "noun", "ipa": "/pɑːs/", "meaning": "kartu izin masuk", "example": "You need a visitor's pass to enter the building." }
+        ],
+        "grammar": [
+          { "pattern": "Unless + present simple (positive), will / can / imperative", "example": "Unless you book now, you won't get a seat.", "note": "Unless = if ... not." },
+          { "pattern": "Main clause + unless + present simple", "example": "Don't touch it unless you know how it works.", "note": "Tanpa koma jika unless di tengah kalimat." },
+          { "pattern": "Main clause + as long as + present simple", "example": "You can go as long as you're home by ten.", "note": "As long as = only if (asalkan)." }
+        ],
+        "mistakes": [
+          { "wrong": "You'll miss the bus unless you don't hurry.", "right": "You'll miss the bus unless you hurry.", "why": "Unless sudah berarti if not, jadi kata kerjanya positif." },
+          { "wrong": "You can borrow it as long as you will return it tomorrow.", "right": "You can borrow it as long as you return it tomorrow.", "why": "As long as + present simple untuk masa depan." },
+          { "wrong": "We'll go to the beach unless it doesn't rain.", "right": "We'll go to the beach unless it rains.", "why": "Double negative membuat maknanya terbalik; pakai unless + positif." },
+          { "wrong": "Unless you study, you will pass.", "right": "Unless you study, you won't pass.", "why": "Unless you study = if you don't study, jadi hasilnya negatif." }
+        ],
+        "summary": "**Unless** = *if ... not* (kecuali kalau) and is followed by a **positive** verb: *You'll be late unless you hurry.* **As long as** = *only if* (asalkan): *You can go as long as you're back by ten.* Keduanya memakai present simple untuk masa depan.",
+        "reviewCards": [
+          { "front": "unless = ?", "back": "if ... not (kecuali kalau)" },
+          { "front": "unless you don't hurry → benar?", "back": "Salah (double negative) → unless you hurry" },
+          { "front": "as long as = ?", "back": "only if / asalkan" },
+          { "front": "You can borrow it as long as you ___ (return) it tomorrow.", "back": "return (present simple)" },
+          { "front": "Cara cek kalimat unless", "back": "Ganti unless dengan if ... not; maknanya harus tetap sama." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u04-l4-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "unless",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct word.",
+          "text": "You can't enter the exam room ___ you show your student card.",
+          "choices": [["unless", "as long as", "if"]],
+          "answers": [0],
+          "explanation": "*You can't enter ... **unless** you show your card* = kamu tidak boleh masuk **kalau tidak** menunjukkan kartu. *As long as* and *if* make the meaning illogical: you can't enter if you show your card?",
+          "misconception": "Unless sudah mengandung makna 'not', jadi kata kerja setelahnya positif."
+        },
+        {
+          "id": "b1-u04-l4-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "unless",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence with the same meaning.",
+          "sentence": "If you don't hurry, you'll miss the bus.",
+          "cue": "Use unless. Begin with: You'll miss the bus ...",
+          "answers": [
+            "You'll miss the bus unless you hurry.",
+            "You will miss the bus unless you hurry."
+          ],
+          "explanation": "*If you don't hurry* = **unless you hurry** (positif). Jangan tulis *unless you don't hurry* — that is a double negative."
+        },
+        {
+          "id": "b1-u04-l4-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "conditional linking words",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each word with its meaning.",
+          "pairs": [
+            { "left": "unless", "right": "if ... not" },
+            { "left": "as long as", "right": "only on the condition that" },
+            { "left": "when", "right": "we are sure it will happen" },
+            { "left": "if", "right": "it is possible, but we aren't sure" }
+          ],
+          "explanation": "unless = kalau tidak; as long as = asalkan; when = pasti terjadi; if = mungkin terjadi. These four words all introduce a clause with the present simple when we talk about the future."
+        },
+        {
+          "id": "b1-u04-l4-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "unless",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentence has the same meaning as: 'If it doesn't rain, we'll have a barbecue.'?",
+          "options": [
+            "We'll have a barbecue unless it rains.",
+            "We'll have a barbecue unless it doesn't rain.",
+            "We won't have a barbecue unless it rains.",
+            "We'll have a barbecue as long as it rains."
+          ],
+          "answer": 0,
+          "explanation": "*If it doesn't rain* = **unless it rains**. Option 2 is a double negative, option 3 has the opposite meaning, dan option 4 berarti barbekyu hanya jika hujan."
+        },
+        {
+          "id": "b1-u04-l4-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "as long as",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete with unless or as long as.",
+          "text": "The library lets you borrow six books at a time ___ you return them within three weeks.",
+          "answers": [["as long as", "so long as"]],
+          "explanation": "Syarat untuk mendapat izin → **as long as** (asalkan): you can borrow books, but only if you return them within three weeks. *Unless* would mean the opposite."
+        },
+        {
+          "id": "b1-u04-l4-q6",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "unless",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["You won't", "pass the driving test", "unless you don't", "practise every day."],
+          "errorIndex": 2,
+          "correction": "unless you",
+          "explanation": "*Unless* sudah berarti *if ... not*, jadi kata kerjanya harus positif: *You won't pass the driving test **unless you practise** every day.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u04-l5-environment-consequences",
+      "title": "The Environment and Everyday Consequences",
+      "summary": "Membicarakan masalah lingkungan dan akibat tindakan sehari-hari dengan kosakata lingkungan dan semua jenis real conditional.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata lingkungan seperti pollution, waste, recycle, reduce, dan energy",
+        "Memakai zero/first conditional, unless, dan as long as untuk membicarakan konsekuensi",
+        "Membuat kalimat ajakan dan peringatan tentang lingkungan"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Lingkungan dan konsekuensi\nIn this lesson we use conditionals to talk about the **environment** (lingkungan) and the **consequences** of our everyday actions. Kalimat conditional sangat berguna untuk memberi peringatan, saran, dan ajakan.\n\n### Kosakata inti\n| Word | Meaning | Collocations |\n|---|---|---|\n| pollution | polusi, pencemaran | air pollution, cause pollution |\n| waste | sampah, limbah; membuang-buang | reduce waste, food waste, waste water |\n| recycle | mendaur ulang | recycle plastic / paper / glass |\n| reduce | mengurangi | reduce waste, reduce pollution |\n| energy | energi | save energy, renewable energy |\n| rubbish | sampah | throw away rubbish, a rubbish bin |\n| protect | melindungi | protect the environment, protect wildlife |\n| climate change | perubahan iklim | fight climate change |\n\nNote: *waste* can be a noun (*plastic waste*) or a verb (*Don't waste water*).\n\n### Conditionals for consequences\n| Purpose | Pattern | Example |\n|---|---|---|\n| general fact | zero | If you leave the tap running, you waste a lot of water. |\n| future consequence | first | If we recycle more, we'll reduce waste. |\n| warning | unless | Unless we protect the forests, many animals will lose their homes. |\n| condition | as long as | This beach will stay clean as long as everyone takes their rubbish home. |\n\n### Membujuk orang lain\nWhen you want to persuade people, combine a **condition** and a **positive result**: *If everyone brings a reusable bag, the town will need far fewer plastic bags.* Kalimat seperti ini lebih efektif daripada hanya berkata *Don't use plastic bags*, karena orang bisa melihat hasil nyata dari tindakannya.\n\n### Hati-hati dengan kata yang mirip\n- *environment* (lingkungan) — biasanya memakai **the**: *protect the environment*.\n- *rubbish* (British) = *trash / garbage* (American).\n- *waste* ≠ *waist* (pinggang): the pronunciation is the same, /weɪst/, but the spelling and meaning are different.\n- *reduce* (mengurangi) ≠ *recycle* (mendaur ulang) ≠ *reuse* (memakai lagi). Ketiganya sering disebut **the 3 Rs**: reduce, reuse, recycle.",
+        "examples": [
+          { "en": "If we recycle more paper, we'll cut down fewer trees.", "id": "Kalau kita mendaur ulang lebih banyak kertas, kita akan menebang lebih sedikit pohon.", "note": "First conditional: konsekuensi di masa depan." },
+          { "en": "If you leave the tap running, you waste a lot of water.", "id": "Kalau kamu membiarkan keran terbuka, kamu membuang banyak air.", "note": "Zero conditional: fakta umum." },
+          { "en": "Unless we reduce air pollution, more people will have breathing problems.", "id": "Kalau kita tidak mengurangi polusi udara, akan lebih banyak orang yang punya masalah pernapasan.", "note": "unless untuk peringatan." },
+          { "en": "The park will stay clean as long as visitors take their rubbish home.", "id": "Taman itu akan tetap bersih asalkan pengunjung membawa pulang sampah mereka.", "note": "as long as = asalkan." },
+          { "en": "Turn off the lights when you leave the room to save energy.", "id": "Matikan lampu ketika kamu meninggalkan ruangan untuk menghemat energi.", "note": "save energy = menghemat energi." }
+        ],
+        "vocabulary": [
+          { "word": "pollution", "pos": "noun", "ipa": "/pəˈluːʃn/", "meaning": "polusi; pencemaran", "example": "Air pollution is a big problem in many cities." },
+          { "word": "waste", "pos": "noun / verb", "ipa": "/weɪst/", "meaning": "sampah, limbah; membuang-buang", "example": "Don't waste food — take only what you can eat." },
+          { "word": "recycle", "pos": "verb", "ipa": "/ˌriːˈsaɪkl/", "meaning": "mendaur ulang", "example": "We recycle all our glass bottles." },
+          { "word": "reduce", "pos": "verb", "ipa": "/rɪˈdjuːs/", "meaning": "mengurangi", "example": "We need to reduce the amount of plastic we use." },
+          { "word": "energy", "pos": "noun", "ipa": "/ˈenədʒi/", "meaning": "energi", "example": "Solar panels produce clean energy." },
+          { "word": "rubbish", "pos": "noun", "ipa": "/ˈrʌbɪʃ/", "meaning": "sampah", "example": "Please put your rubbish in the bin." },
+          { "word": "protect", "pos": "verb", "ipa": "/prəˈtekt/", "meaning": "melindungi", "example": "We must protect the forests near our town." },
+          { "word": "environment", "pos": "noun", "ipa": "/ɪnˈvaɪrənmənt/", "meaning": "lingkungan (hidup)", "example": "Plastic bags are bad for the environment." }
+        ],
+        "grammar": [
+          { "pattern": "If + we/everyone + present simple, + will + V1 (positive result)", "example": "If everyone recycles, the town will produce less waste.", "note": "Pola untuk membujuk/mengajak." },
+          { "pattern": "Unless + we + present simple, + negative consequence", "example": "Unless we act now, the river will die.", "note": "Pola untuk peringatan." },
+          { "pattern": "save / waste / reduce + noun", "example": "save energy, waste water, reduce pollution", "note": "Kolokasi umum tentang lingkungan." }
+        ],
+        "mistakes": [
+          { "wrong": "We must protect environment.", "right": "We must protect the environment.", "why": "Environment (lingkungan hidup) biasanya memakai the." },
+          { "wrong": "If we will recycle more, we'll have less rubbish.", "right": "If we recycle more, we'll have less rubbish.", "why": "If-clause memakai present simple." },
+          { "wrong": "Please don't throw rubbishes on the street.", "right": "Please don't throw rubbish on the street.", "why": "Rubbish adalah uncountable noun, tidak memakai -s." },
+          { "wrong": "Unless we don't reduce plastic, the sea will get dirtier.", "right": "Unless we reduce plastic, the sea will get dirtier.", "why": "Unless + kata kerja positif." }
+        ],
+        "summary": "Use environment vocabulary (*pollution, waste, recycle, reduce, energy, rubbish, protect*) with real conditionals to talk about consequences. Gunakan **zero** untuk fakta, **first** untuk konsekuensi di masa depan, **unless** untuk peringatan, dan **as long as** untuk syarat.",
+        "reviewCards": [
+          { "front": "reduce / reuse / recycle", "back": "mengurangi / memakai lagi / mendaur ulang (the 3 Rs)" },
+          { "front": "save energy", "back": "menghemat energi" },
+          { "front": "rubbish — countable?", "back": "Tidak (uncountable): some rubbish, bukan rubbishes." },
+          { "front": "Pola peringatan tentang lingkungan", "back": "Unless we act now, ... will ...: Unless we act now, the river will die." },
+          { "front": "pollution", "back": "polusi; pencemaran: air pollution" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u04-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "environment vocabulary",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the best word. Please put the empty bottles in the green bin so the town can ___ them.",
+          "options": ["recycle", "pollute", "waste", "protect"],
+          "answer": 0,
+          "explanation": "Botol kosong dimasukkan ke tempat sampah khusus agar bisa **didaur ulang** → *recycle*. *Pollute* (mencemari) and *waste* (membuang-buang) are negative, and *protect them* does not fit."
+        },
+        {
+          "id": "b1-u04-l5-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "environment vocabulary",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "pollution", "right": "dirty or harmful substances in the air, water or soil" },
+            { "left": "recycle", "right": "to treat used things so that they can be used again" },
+            { "left": "rubbish", "right": "things that people throw away because they don't need them" },
+            { "left": "reduce", "right": "to make something smaller in amount" },
+            { "left": "renewable energy", "right": "power from sources like the sun and wind that don't run out" }
+          ],
+          "explanation": "pollution = polusi; recycle = mendaur ulang; rubbish = sampah; reduce = mengurangi; renewable energy = energi terbarukan."
+        },
+        {
+          "id": "b1-u04-l5-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "first conditional and environment",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the correct form of the verbs in brackets.",
+          "text": "If we ___ (turn) off the lights when we leave a room, we ___ (save) a lot of energy.",
+          "answers": [["turn"], ["will save", "'ll save", "save", "can save"]],
+          "explanation": "If-clause → present simple **turn**. Main clause → **will save** (konsekuensi di masa depan); *save* (zero conditional, fakta umum) juga benar."
+        },
+        {
+          "id": "b1-u04-l5-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "environment vocabulary",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best word. The river is full of ___ from the old factory, so people can't swim in it any more.",
+          "options": ["pollution", "energy", "recycling", "climate"],
+          "answer": 0,
+          "explanation": "Sungai yang kotor karena limbah pabrik → **pollution** (pencemaran). *Energy*, *recycling* and *climate* do not explain why people can't swim."
+        },
+        {
+          "id": "b1-u04-l5-q5",
+          "type": "drag_drop",
+          "category": "mixed",
+          "topic": "conditionals and environment",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Unless we ___ the amount of plastic we use, the oceans ___ get dirtier. We can all help: ___ you go shopping, take your own bag.",
+          "bank": ["reduce", "will", "When", "reduces", "won't", "Unless"],
+          "answers": ["reduce", "will", "When"],
+          "explanation": "*Unless we **reduce*** (present simple, *we* tanpa -s). Konsekuensi negatif → the oceans **will** get dirtier. Belanja adalah hal yang pasti → **When** you go shopping, take your own bag."
+        },
+        {
+          "id": "b1-u04-l5-q6",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "first conditional and environment",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Jika kita menanam lebih banyak pohon, udaranya akan lebih bersih.",
+          "direction": "id-en",
+          "answers": [
+            "If we plant more trees, the air will be cleaner.",
+            "If we plant more trees, the air'll be cleaner.",
+            "The air will be cleaner if we plant more trees.",
+            "If we plant more trees, air will be cleaner.",
+            "If we plant more trees, the air is going to be cleaner."
+          ],
+          "explanation": "First conditional: **If we plant** (present simple), **the air will be cleaner** (will + V1). Jangan menulis *If we will plant*."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u04-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "zero conditional",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Butter ___ if you leave it next to the cooker.",
+      "options": ["melts", "melted", "is melting", "melt"],
+      "answer": 0,
+      "explanation": "Fakta umum → zero conditional, present simple: *Butter **melts** if you leave it next to the cooker.* Butter is uncountable, so it takes **-s**."
+    },
+    {
+      "id": "b1-u04-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "first conditional",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct form of the verb in brackets.",
+      "text": "If you ___ (not / leave) now, you'll be late for the meeting.",
+      "answers": [["don't leave", "do not leave"]],
+      "explanation": "If-clause dalam first conditional → present simple negatif: **don't leave**. Not *won't leave*."
+    },
+    {
+      "id": "b1-u04-t-q3",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "unless",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence with the same meaning.",
+      "sentence": "If you don't book early, you won't get a ticket.",
+      "cue": "Use unless. Begin with: You won't get a ticket ...",
+      "answers": [
+        "You won't get a ticket unless you book early.",
+        "You will not get a ticket unless you book early."
+      ],
+      "explanation": "*If you don't book* = **unless you book**. Kata kerja setelah *unless* harus positif."
+    },
+    {
+      "id": "b1-u04-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "as long as",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the sentence.",
+      "segments": ["As long as", "you will return it", "by Friday,", "you can borrow my camera."],
+      "errorIndex": 1,
+      "correction": "you return it",
+      "explanation": "*As long as* + **present simple** untuk masa depan: *As long as **you return it** by Friday, you can borrow my camera.*"
+    },
+    {
+      "id": "b1-u04-t-q5",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "as long as",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        { "speaker": "Rafi", "text": "Can I use the meeting room this afternoon?" },
+        { "speaker": "Mrs. Lestari", "text": null }
+      ],
+      "options": [
+        "Yes, as long as you leave it tidy.",
+        "Yes, unless you leave it tidy.",
+        "Yes, as long as you will leave it tidy.",
+        "Yes, as long as you left it tidy."
+      ],
+      "answer": 0,
+      "explanation": "Memberi izin dengan syarat → **as long as + present simple**: *as long as you leave it tidy*. *Unless you leave it tidy* has the wrong meaning."
+    },
+    {
+      "id": "b1-u04-t-q6",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "real conditionals",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Which sentences are correct? Choose all the correct ones.",
+      "options": [
+        "When I finish university next year, I'll travel for a month.",
+        "If it will be sunny tomorrow, we'll go to the beach.",
+        "If you press this switch, the light comes on.",
+        "If you will see Maya tomorrow, tell her to call me.",
+        "If we don't hurry, we'll miss the start of the film."
+      ],
+      "answers": [0, 2, 4],
+      "explanation": "Benar: *When I finish* (pasti), zero conditional *If you press ..., the light comes on*, dan first conditional *If we don't hurry, we'll miss*. Salah: *If it will be* dan *If you will see* — if-clause memakai present simple."
+    },
+    {
+      "id": "b1-u04-t-q7",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "environment vocabulary",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the best word. We can ___ energy by turning off computers at night.",
+      "options": ["save", "spend", "waste", "pollute"],
+      "answer": 0,
+      "explanation": "**Save energy** = menghemat energi. Turning computers off uses less energy, so *waste* and *spend* have the wrong meaning, and *pollute energy* is not a collocation."
+    },
+    {
+      "id": "b1-u04-t-q8",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "unless",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["Don't", "call", "me", "unless", "it's", "urgent"],
+      "acceptedAnswers": ["Unless it's urgent don't call me"],
+      "explanation": "*Don't call me unless it's urgent* = jangan telepon saya kecuali kalau mendesak. *Unless* is followed by a positive verb (*it's urgent*)."
+    }
+  ]
+}

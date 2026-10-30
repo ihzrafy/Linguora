@@ -1,0 +1,613 @@
+{
+  "slug": "a1-u10-right-now",
+  "number": 10,
+  "title": "What Are You Doing Right Now?",
+  "description": "Unit terakhir A1 memperkenalkan present continuous untuk menceritakan apa yang sedang terjadi sekarang: bentuk positif, ejaan -ing, kalimat negatif dan pertanyaan, perbedaan dengan present simple, serta kosakata pakaian dan cuaca.",
+  "objectives": [
+    "Membentuk present continuous (am/is/are + verb-ing) dalam kalimat positif, negatif, dan pertanyaan",
+    "Menulis bentuk -ing dengan ejaan yang benar",
+    "Membedakan kebiasaan (present simple) dan kegiatan saat ini (present continuous)",
+    "Menjelaskan pakaian yang dipakai dan kondisi cuaca"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u10-l1-present-continuous-positive",
+      "title": "Present Continuous: I'm Watching TV",
+      "summary": "Membentuk kalimat positif present continuous untuk kegiatan yang sedang berlangsung sekarang.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk kalimat am/is/are + verb-ing",
+        "Menggunakan keterangan waktu now, right now, at the moment",
+        "Menghindari kesalahan menghilangkan am/is/are"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kegiatan yang sedang terjadi\nBayangkan temanmu menelepon dan bertanya *Kamu sedang apa?* Untuk menjawab, kita memakai **present continuous**. Tense ini menjelaskan kegiatan yang **sedang berlangsung sekarang**, pada saat kita berbicara. Dalam bahasa Indonesia, artinya sering ditandai dengan kata **sedang**.\n\n### Rumus\n**Subjek + am / is / are + kata kerja-ing**\n\nKamu sudah mengenal *am/is/are* sejak Unit 1. Sekarang kita tinggal menambahkan kata kerja berakhiran **-ing**.\n\n| Subjek | to be | verb-ing | Bentuk singkat |\n| --- | --- | --- | --- |\n| I | am | reading | I'm reading. |\n| you | are | working | You're working. |\n| he / she / it | is | sleeping | She's sleeping. |\n| we | are | eating | We're eating. |\n| they | are | playing | They're playing. |\n\n### Kata kunci waktu\n| Ungkapan | Arti |\n| --- | --- |\n| now | sekarang |\n| right now | saat ini juga |\n| at the moment | pada saat ini |\n| today | hari ini |\n| Look! / Listen! | Lihat! / Dengar! (menarik perhatian pada sesuatu yang sedang terjadi) |\n\nContoh: ***Look!** The children **are playing** in the garden.*\n\n### Kesalahan paling umum: lupa to be\nKarena kata *sedang* dalam bahasa Indonesia hanya satu kata, pelajar sering lupa **am/is/are**:\n- ~~I watching TV.~~ → **I'm watching TV.**\n- ~~She cooking.~~ → **She's cooking.**\n\nKesalahan lain adalah lupa **-ing**: ~~She is cook dinner.~~ → **She is cooking dinner.**\n\n### Have dalam present continuous\nUntuk makan dan minum, penutur asli sering memakai **have**: *We're having lunch.* (Kami sedang makan siang.) *She's having a shower.* (Dia sedang mandi.)\n\nDi pelajaran berikutnya kita akan belajar aturan ejaan -ing seperti *swimming* dan *making*.",
+        "examples": [
+          { "en": "I'm reading a book right now.", "id": "Saya sedang membaca buku sekarang." },
+          { "en": "Look! The children are playing in the garden.", "id": "Lihat! Anak-anak sedang bermain di kebun." },
+          { "en": "Shh! The baby is sleeping.", "id": "Ssst! Bayinya sedang tidur." },
+          { "en": "We're having lunch at the moment.", "id": "Kami sedang makan siang saat ini." },
+          { "en": "Mr. Park is washing his car.", "id": "Pak Park sedang mencuci mobilnya." }
+        ],
+        "vocabulary": [
+          { "word": "now", "pos": "adverb", "ipa": "/naʊ/", "meaning": "sekarang", "example": "I'm working now." },
+          { "word": "at the moment", "pos": "phrase", "ipa": "/ət ðə ˈməʊmənt/", "meaning": "saat ini", "example": "She's studying at the moment." },
+          { "word": "look", "pos": "verb", "ipa": "/lʊk/", "meaning": "melihat (lihat!)", "example": "Look! It's a rainbow." },
+          { "word": "listen", "pos": "verb", "ipa": "/ˈlɪsn/", "meaning": "mendengarkan", "example": "Listen! Someone is singing." },
+          { "word": "wait", "pos": "verb", "ipa": "/weɪt/", "meaning": "menunggu", "example": "We're waiting for the bus." },
+          { "word": "wash", "pos": "verb", "ipa": "/wɒʃ/", "meaning": "mencuci", "example": "Dad is washing the dishes." },
+          { "word": "sleep", "pos": "verb", "ipa": "/sliːp/", "meaning": "tidur", "example": "The cat is sleeping on the sofa." }
+        ],
+        "grammar": [
+          { "pattern": "I + am + verb-ing", "example": "I'm cooking dinner." },
+          { "pattern": "He / She / It + is + verb-ing", "example": "It's sleeping under the table." },
+          { "pattern": "You / We / They + are + verb-ing", "example": "They're watching a film." }
+        ],
+        "mistakes": [
+          { "wrong": "I watching TV now.", "right": "I'm watching TV now.", "why": "Present continuous wajib memakai am/is/are." },
+          { "wrong": "She is cook dinner.", "right": "She is cooking dinner.", "why": "Kata kerja harus berakhiran -ing." },
+          { "wrong": "They is playing football.", "right": "They are playing football.", "why": "They berpasangan dengan are." }
+        ],
+        "summary": "Present continuous = **am/is/are + verb-ing**, untuk kegiatan yang **sedang** terjadi sekarang (*I'm reading. She's sleeping. They're playing.*). Kata kunci: **now, right now, at the moment, Look!, Listen!** Jangan lupa to be **dan** -ing.",
+        "reviewCards": [
+          { "front": "Rumus present continuous", "back": "subjek + am/is/are + verb-ing" },
+          { "front": "Saya sedang menunggu.", "back": "I'm waiting. / I am waiting." },
+          { "front": "at the moment", "back": "saat ini" },
+          { "front": "I watching TV — salah di mana?", "back": "Tidak ada am: I'm watching TV." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u10-l1-q1", "type": "dropdown", "category": "grammar", "topic": "present continuous",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "instructions": "Kegiatan yang sedang terjadi = am/is/are + verb-ing.",
+          "text": "Look! The children ___ in the garden.",
+          "choices": [["is playing", "are playing", "playing"]],
+          "answers": [1],
+          "explanation": "The children = they (jamak) → are playing."
+        },
+        {
+          "id": "a1-u10-l1-q2", "type": "fill_blank", "category": "grammar", "topic": "present continuous",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete with the present continuous form of the verb in brackets.",
+          "text": "Shh! The baby ___ (sleep). Right now, I ___ (read) a story to my sister.",
+          "answers": [["is sleeping"], ["am reading"]],
+          "explanation": "The baby (it) → is sleeping. I → am reading."
+        },
+        {
+          "id": "a1-u10-l1-q3", "type": "translation", "category": "grammar", "topic": "present continuous",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Mereka sedang makan siang.",
+          "direction": "id-en",
+          "answers": ["They are having lunch.", "They're having lunch.", "They are eating lunch.", "They're eating lunch."],
+          "explanation": "sedang = am/is/are + -ing; mereka = they → are. makan siang = have/eat lunch."
+        },
+        {
+          "id": "a1-u10-l1-q4", "type": "error_identification", "category": "grammar", "topic": "present continuous",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Look!", "Mr. Park", "washing", "his car."],
+          "errorIndex": 2,
+          "correction": "is washing",
+          "explanation": "Present continuous memerlukan is: Mr. Park is washing his car."
+        },
+        {
+          "id": "a1-u10-l1-q5", "type": "word_order", "category": "grammar", "topic": "present continuous",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["We", "are", "waiting", "for", "the", "bus"],
+          "explanation": "Subjek (We) + are + waiting + for the bus."
+        },
+        {
+          "id": "a1-u10-l1-q6", "type": "single_choice", "category": "grammar", "topic": "present continuous",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Choose the correct sentence.",
+          "options": ["She is cooking dinner now.", "She cooking dinner now.", "She is cook dinner now.", "She are cooking dinner now."],
+          "answer": 0,
+          "explanation": "She + is + cooking. Pilihan lain kehilangan is, kehilangan -ing, atau memakai are."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u10-l2-ing-spelling",
+      "title": "Spelling the -ing Form",
+      "summary": "Aturan ejaan bentuk -ing: menambah -ing, menghapus -e, menggandakan huruf, dan -ie menjadi -ying.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Menerapkan empat aturan ejaan -ing",
+        "Menggandakan konsonan akhir pada kata seperti swim dan run",
+        "Menulis bentuk -ing yang benar untuk kata kerja umum"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mengapa ejaan penting?\nSaat menulis present continuous, kita perlu menambahkan **-ing** ke kata kerja. Sebagian besar kata kerja cukup ditambah *-ing*, tetapi ada beberapa aturan ejaan yang harus diingat.\n\n### Aturan 1: tambahkan -ing\nSebagian besar kata kerja: **verb + ing**.\n*read → reading, play → playing, go → going, study → studying, watch → watching*\n\n### Aturan 2: hapus -e di akhir\nJika kata kerja berakhiran **-e** yang tidak dibaca, hapus *e* lalu tambahkan *-ing*.\n*make → making, write → writing, dance → dancing, come → coming, ride → riding*\n\nPengecualian: kata berakhiran **-ee** tetap: *see → seeing*. Kata *be → being*.\n\n### Aturan 3: gandakan konsonan akhir\nJika kata kerja **satu suku kata** berakhiran **konsonan + vokal + konsonan** (KVK), gandakan konsonan terakhir.\n\n| Kata kerja | Pola | Bentuk -ing |\n| --- | --- | --- |\n| swim | s-w-**i-m** | swimming |\n| run | r-**u-n** | running |\n| sit | s-**i-t** | sitting |\n| get | g-**e-t** | getting |\n| stop | st-**o-p** | stopping |\n| shop | sh-**o-p** | shopping |\n\nTidak digandakan jika berakhiran **w, x, y**: *snow → snowing, fix → fixing, play → playing*. Juga tidak digandakan jika ada **dua vokal** sebelum konsonan akhir: *read → reading, rain → raining, eat → eating*.\n\n### Aturan 4: -ie menjadi -ying\n*lie → lying, die → dying, tie → tying*\n\n### Ringkasan cepat\n| Akhiran | Aturan | Contoh |\n| --- | --- | --- |\n| sebagian besar | + ing | cook → cooking |\n| -e | hapus e + ing | write → writing |\n| KVK (1 suku kata) | gandakan + ing | swim → swimming |\n| -ie | ie → y + ing | lie → lying |\n\n### Hati-hati\nKata kerja berakhiran **-y** **tidak berubah**: *study → studying* (bukan ~~studing~~), *cry → crying*. Kesalahan umum lainnya: ~~writting~~ (benar: *writing*), ~~comeing~~ (benar: *coming*), dan ~~runing~~ (benar: *running*).",
+        "examples": [
+          { "en": "Tom is swimming in the pool.", "id": "Tom sedang berenang di kolam.", "note": "swim → swimming (gandakan m)." },
+          { "en": "I'm writing an email to my teacher.", "id": "Saya sedang menulis email untuk guru saya.", "note": "write → writing (hapus e)." },
+          { "en": "The dog is lying on the floor.", "id": "Anjing itu sedang berbaring di lantai.", "note": "lie → lying." },
+          { "en": "She's studying for her test.", "id": "Dia sedang belajar untuk ujiannya.", "note": "study → studying (y tetap)." },
+          { "en": "They're sitting next to the window.", "id": "Mereka sedang duduk di sebelah jendela.", "note": "sit → sitting." }
+        ],
+        "vocabulary": [
+          { "word": "run", "pos": "verb", "ipa": "/rʌn/", "meaning": "berlari", "example": "He's running in the park." },
+          { "word": "sit", "pos": "verb", "ipa": "/sɪt/", "meaning": "duduk", "example": "We're sitting in the café." },
+          { "word": "make", "pos": "verb", "ipa": "/meɪk/", "meaning": "membuat", "example": "Mum is making a cake." },
+          { "word": "write", "pos": "verb", "ipa": "/raɪt/", "meaning": "menulis", "example": "I'm writing a letter." },
+          { "word": "lie", "pos": "verb", "ipa": "/laɪ/", "meaning": "berbaring", "example": "The cat is lying in the sun." },
+          { "word": "study", "pos": "verb", "ipa": "/ˈstʌdi/", "meaning": "belajar", "example": "Rani is studying English." },
+          { "word": "cut", "pos": "verb", "ipa": "/kʌt/", "meaning": "memotong", "example": "Dad is cutting the bread." }
+        ],
+        "grammar": [
+          { "pattern": "verb + ing", "example": "play → playing, read → reading" },
+          { "pattern": "verb berakhiran -e: hapus e + ing", "example": "dance → dancing" },
+          { "pattern": "KVK satu suku kata: gandakan konsonan + ing", "example": "get → getting", "note": "Kecuali w, x, y: fix → fixing." },
+          { "pattern": "-ie → -ying", "example": "tie → tying" }
+        ],
+        "mistakes": [
+          { "wrong": "The boys are runing.", "right": "The boys are running.", "why": "run berpola KVK, jadi n digandakan." },
+          { "wrong": "She is writting a story.", "right": "She is writing a story.", "why": "write: hapus e lalu tambah -ing; t tidak digandakan." },
+          { "wrong": "He is lieing on the bed.", "right": "He is lying on the bed.", "why": "Kata berakhiran -ie berubah menjadi -ying." }
+        ],
+        "summary": "Aturan -ing: (1) sebagian besar **+ ing** (*playing*), (2) **hapus -e** (*making*), (3) **gandakan konsonan** pada kata satu suku kata berpola KVK (*swimming, running*), kecuali w/x/y, (4) **-ie → -ying** (*lying*). Kata berakhiran -y tetap: *studying*.",
+        "reviewCards": [
+          { "front": "swim, run, sit → -ing", "back": "swimming, running, sitting" },
+          { "front": "make, write, dance → -ing", "back": "making, writing, dancing" },
+          { "front": "lie, tie → -ing", "back": "lying, tying" },
+          { "front": "study, play, fix → -ing", "back": "studying, playing, fixing (tidak berubah)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u10-l2-q1", "type": "single_choice", "category": "writing", "topic": "ing spelling",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "What is the -ing form of 'write'?",
+          "instructions": "Kata berakhiran -e: hapus e, lalu tambah -ing.",
+          "options": ["writing", "writting", "writeing"],
+          "answer": 0,
+          "explanation": "write → hapus e → writing. Huruf t tidak digandakan."
+        },
+        {
+          "id": "a1-u10-l2-q2", "type": "matching", "category": "writing", "topic": "ing spelling",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each verb with its -ing form.",
+          "pairs": [
+            { "left": "run", "right": "running" },
+            { "left": "dance", "right": "dancing" },
+            { "left": "lie", "right": "lying" },
+            { "left": "play", "right": "playing" },
+            { "left": "sit", "right": "sitting" },
+            { "left": "make", "right": "making" }
+          ],
+          "explanation": "run/sit → gandakan konsonan; dance/make → hapus e; lie → lying; play → + ing (y tidak berubah)."
+        },
+        {
+          "id": "a1-u10-l2-q3", "type": "fill_blank", "category": "writing", "topic": "ing spelling",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the -ing form of the verbs in brackets.",
+          "text": "Dad is ___ (cut) the bread, and Mum is ___ (make) tea.",
+          "answers": [["cutting"], ["making"]],
+          "explanation": "cut (KVK) → cutting; make (berakhiran e) → making."
+        },
+        {
+          "id": "a1-u10-l2-q4", "type": "multiple_select", "category": "writing", "topic": "ing spelling",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which -ing forms are spelled correctly? Choose all correct answers.",
+          "options": ["swimming", "comeing", "getting", "studying", "stoping", "tying"],
+          "answers": [0, 2, 3, 5],
+          "explanation": "swimming, getting, studying, dan tying benar. comeing seharusnya coming (hapus e), stoping seharusnya stopping (gandakan p)."
+        },
+        {
+          "id": "a1-u10-l2-q5", "type": "short_answer", "category": "writing", "topic": "ing spelling",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Write the -ing form of the verb 'shop'.",
+          "answers": ["shopping"],
+          "explanation": "shop berpola KVK (o-p), jadi p digandakan: shopping."
+        },
+        {
+          "id": "a1-u10-l2-q6", "type": "sentence_correction", "category": "writing", "topic": "ing spelling",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the spelling mistake.",
+          "sentence": "The boys are runing in the park.",
+          "answers": ["The boys are running in the park."],
+          "explanation": "run berpola KVK, jadi n digandakan: running."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u10-l3-continuous-negative-questions",
+      "title": "Present Continuous: Negatives and Questions",
+      "summary": "Membuat kalimat negatif, pertanyaan Yes/No, dan pertanyaan dengan kata tanya dalam present continuous.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat kalimat negatif dengan am not / isn't / aren't",
+        "Bertanya dengan Are you ...? / Is she ...? dan menjawab singkat",
+        "Bertanya What are you doing? dan pertanyaan wh- lainnya"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kalimat negatif\nUntuk membuat kalimat negatif, tambahkan **not** setelah *am/is/are* — sama seperti to be di Unit 2.\n\n| Subjek | Negatif | Bentuk singkat | Contoh |\n| --- | --- | --- | --- |\n| I | am not | I'm not | I'm not sleeping. |\n| he / she / it | is not | isn't / 's not | She isn't working today. |\n| you / we / they | are not | aren't / 're not | They aren't listening. |\n\nCatatan: tidak ada bentuk ~~amn't~~. Untuk *I*, gunakan **I'm not**.\n\n### Pertanyaan Yes/No\nPindahkan **am/is/are** ke depan subjek:\n\n| Pernyataan | Pertanyaan | Jawaban singkat |\n| --- | --- | --- |\n| You are working. | **Are you** working? | Yes, I am. / No, I'm not. |\n| She is studying. | **Is she** studying? | Yes, she is. / No, she isn't. |\n| It is raining. | **Is it** raining? | Yes, it is. / No, it isn't. |\n| They are coming. | **Are they** coming? | Yes, they are. / No, they aren't. |\n\nIngat: jawaban singkat positif **tidak disingkat**: *Yes, I am* (bukan ~~Yes, I'm~~).\n\n### Pertanyaan dengan kata tanya\n**Kata tanya + am/is/are + subjek + verb-ing?**\n- ***What are** you **doing**?* — Kamu sedang apa?\n- ***Where is** she **going**?* — Dia mau ke mana?\n- ***Who are** you **talking** to?* — Kamu sedang bicara dengan siapa?\n- ***Why is** he **crying**?* — Kenapa dia menangis?\n\n**What are you doing?** adalah pertanyaan paling penting di unit ini. Jawablah dengan present continuous: *I'm cooking.*\n\n### Jangan pakai do/does\nPresent continuous **tidak** memakai *do/does*:\n- ~~Do you watching TV?~~ → **Are you watching TV?**\n- ~~She doesn't working.~~ → **She isn't working.**\n\n### Urutan kata\nKesalahan umum lainnya adalah urutan kata pada pertanyaan wh-: ~~Where you are going?~~ → **Where are you going?** Kata kerja bantu (*are*) selalu datang **sebelum** subjek.",
+        "examples": [
+          { "en": "I'm not watching TV. I'm doing my homework.", "id": "Saya tidak sedang menonton TV. Saya sedang mengerjakan PR." },
+          { "en": "Is it raining? — No, it isn't.", "id": "Apakah sedang hujan? — Tidak." },
+          { "en": "What are you doing? — I'm making a sandwich.", "id": "Kamu sedang apa? — Saya sedang membuat roti lapis." },
+          { "en": "Where is Mira going? — She's going to the library.", "id": "Mira mau ke mana? — Dia sedang pergi ke perpustakaan." },
+          { "en": "The students aren't listening to the teacher.", "id": "Para siswa tidak sedang mendengarkan guru." }
+        ],
+        "vocabulary": [
+          { "word": "do homework", "pos": "phrase", "ipa": "/duː ˈhəʊmwɜːk/", "meaning": "mengerjakan PR", "example": "I'm doing my homework." },
+          { "word": "talk", "pos": "verb", "ipa": "/tɔːk/", "meaning": "berbicara, mengobrol", "example": "Who are you talking to?" },
+          { "word": "cry", "pos": "verb", "ipa": "/kraɪ/", "meaning": "menangis", "example": "Why is the baby crying?" },
+          { "word": "mall", "pos": "noun", "ipa": "/mɔːl/", "meaning": "mal, pusat perbelanjaan", "example": "We're at the mall." },
+          { "word": "phone", "pos": "noun", "ipa": "/fəʊn/", "meaning": "telepon", "example": "She's talking on the phone." },
+          { "word": "come", "pos": "verb", "ipa": "/kʌm/", "meaning": "datang", "example": "Are they coming?" }
+        ],
+        "grammar": [
+          { "pattern": "Subjek + am not / isn't / aren't + verb-ing", "example": "He isn't sleeping." },
+          { "pattern": "Am/Is/Are + subjek + verb-ing?", "example": "Are they playing football?" },
+          { "pattern": "Kata tanya + am/is/are + subjek + verb-ing?", "example": "What is she cooking?" }
+        ],
+        "mistakes": [
+          { "wrong": "Do you watching TV?", "right": "Are you watching TV?", "why": "Present continuous memakai am/is/are, bukan do/does." },
+          { "wrong": "Where you are going?", "right": "Where are you going?", "why": "Dalam pertanyaan, are datang sebelum subjek." },
+          { "wrong": "Are you reading? — Yes, I'm.", "right": "Are you reading? — Yes, I am.", "why": "Jawaban singkat positif tidak disingkat." }
+        ],
+        "summary": "Negatif: **I'm not / isn't / aren't + verb-ing**. Pertanyaan: **Am/Is/Are + subjek + verb-ing?** dengan jawaban **Yes, I am / No, she isn't**. Pertanyaan wh-: **What are you doing?** Present continuous tidak memakai *do/does*.",
+        "reviewCards": [
+          { "front": "Kamu sedang apa?", "back": "What are you doing?" },
+          { "front": "Is it raining? (jawaban tidak)", "back": "No, it isn't." },
+          { "front": "Negatif dari I am working", "back": "I'm not working. (tidak ada amn't)" },
+          { "front": "Do you watching ...? — benar?", "back": "Salah. Are you watching ...?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u10-l3-q1", "type": "dropdown", "category": "grammar", "topic": "present continuous questions",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct words.",
+          "instructions": "Present continuous memakai am/is/are, bukan do.",
+          "text": "A: ___ you watching TV? B: No, ___. I'm doing my homework.",
+          "choices": [["Are", "Is", "Do"], ["I'm not", "I don't", "I isn't"]],
+          "answers": [0, 0],
+          "explanation": "you → Are you watching ...? Jawaban negatif singkat: No, I'm not."
+        },
+        {
+          "id": "a1-u10-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "present continuous negative",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Make the sentence negative.",
+          "sentence": "Dina is studying in the library.",
+          "cue": "Ubah menjadi kalimat negatif.",
+          "answers": ["Dina isn't studying in the library.", "Dina is not studying in the library.", "Dina's not studying in the library."],
+          "explanation": "Tambahkan not setelah is: Dina isn't studying in the library."
+        },
+        {
+          "id": "a1-u10-l3-q3", "type": "word_order", "category": "grammar", "topic": "present continuous questions",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["What", "are", "you", "doing", "now"],
+          "acceptedAnswers": ["What are you doing now"],
+          "explanation": "Kata tanya (What) + are + subjek (you) + doing + now?"
+        },
+        {
+          "id": "a1-u10-l3-q4", "type": "dialogue_completion", "category": "conversation", "topic": "present continuous questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the phone call.",
+          "dialogue": [
+            { "speaker": "Mum", "text": "Hi, Raka. Where are you?" },
+            { "speaker": "Raka", "text": "I'm at the mall." },
+            { "speaker": "Mum", "text": null },
+            { "speaker": "Raka", "text": "I'm buying new shoes for school." }
+          ],
+          "options": ["What are you doing there?", "What do you do there?", "Are you buying shoes?", "Where are you going?"],
+          "answer": 0,
+          "explanation": "Raka menjelaskan kegiatannya saat ini (I'm buying ...), jadi pertanyaannya What are you doing there? Jawaban untuk Are you buying shoes? harus diawali Yes."
+        },
+        {
+          "id": "a1-u10-l3-q5", "type": "fill_blank", "category": "grammar", "topic": "present continuous questions",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the short answer.",
+          "text": "A: Is it raining? B: No, it ___. It's sunny!",
+          "answers": [["isn't", "is not"]],
+          "explanation": "Pertanyaan Is it ...? dijawab negatif singkat: No, it isn't."
+        },
+        {
+          "id": "a1-u10-l3-q6", "type": "error_identification", "category": "grammar", "topic": "present continuous questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Where", "you are", "going", "now?"],
+          "errorIndex": 1,
+          "correction": "are you",
+          "explanation": "Dalam pertanyaan wh-, are datang sebelum subjek: Where are you going now?"
+        }
+      ]
+    },
+    {
+      "slug": "a1-u10-l4-simple-vs-continuous",
+      "title": "Every Day or Right Now? Present Simple vs Present Continuous",
+      "summary": "Membedakan kebiasaan (present simple) dan kegiatan yang sedang terjadi (present continuous).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih present simple untuk kebiasaan dan present continuous untuk kegiatan saat ini",
+        "Mengenali kata kunci waktu untuk masing-masing tense",
+        "Mengetahui kata kerja yang biasanya tidak memakai -ing (know, like, want)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dua tense, dua fungsi\nSekarang kamu sudah mengenal dua tense untuk waktu sekarang. Keduanya penting, tetapi fungsinya berbeda.\n\n| | Present simple | Present continuous |\n| --- | --- | --- |\n| Fungsi | kebiasaan, rutinitas, fakta | kegiatan yang sedang terjadi sekarang |\n| Rumus | I work / She works | I'm working / She's working |\n| Kata kunci | every day, usually, always, often, on Mondays | now, right now, at the moment, today, Look!, Listen! |\n| Arti Indonesia | biasanya, setiap ... | sedang |\n\n### Contoh berpasangan\n- *I **usually walk** to school, but today I'**m going** by bus.*\n  (Biasanya jalan kaki — kebiasaan; hari ini naik bus — sedang terjadi.)\n- *Ken **plays** football every Saturday. Right now he'**s watching** a match on TV.*\n- *My mother **works** in a bank. At the moment she'**s having** lunch.*\n\n### Cara memilih\nTanyakan pada diri sendiri:\n1. Apakah ini terjadi **berulang-ulang / biasanya**? → **present simple**.\n2. Apakah ini terjadi **sekarang, pada saat berbicara**? → **present continuous**.\n\n### Pertanyaan yang berbeda\n- *What **do** you **do**?* = Apa pekerjaanmu? (kebiasaan/pekerjaan) → *I'm a nurse.*\n- *What **are** you **doing**?* = Kamu sedang apa? → *I'm cooking.*\n\n### Kata kerja yang biasanya tidak memakai -ing\nBeberapa kata kerja menunjukkan **keadaan** (perasaan, pikiran, kepemilikan), bukan kegiatan. Kata kerja ini biasanya **tidak** dipakai dalam present continuous, meskipun maknanya *sekarang*:\n\n| Kata kerja | Benar | Salah |\n| --- | --- | --- |\n| know | I know the answer. | ~~I'm knowing~~ |\n| like / love / hate | She likes this song. | ~~She's liking~~ |\n| want / need | I want a drink now. | ~~I'm wanting~~ |\n| understand | Do you understand? | ~~Are you understanding?~~ |\n\n### Tips\nPerhatikan kata kunci di kalimat. Jika ada **every**, **usually**, atau **always**, hampir pasti present simple. Jika ada **now**, **Look!**, atau **at the moment**, hampir pasti present continuous — kecuali kata kerjanya *know, like, want, need, understand*.",
+        "examples": [
+          { "en": "I usually walk to school, but today I'm going by bus.", "id": "Saya biasanya jalan kaki ke sekolah, tetapi hari ini saya naik bus." },
+          { "en": "Listen! Somebody is playing the piano.", "id": "Dengar! Seseorang sedang bermain piano." },
+          { "en": "My sister plays the piano every evening.", "id": "Kakak saya bermain piano setiap malam." },
+          { "en": "What do you do? — I'm a teacher.", "id": "Apa pekerjaanmu? — Saya guru." },
+          { "en": "I don't understand this word.", "id": "Saya tidak mengerti kata ini.", "note": "understand tidak memakai -ing." }
+        ],
+        "vocabulary": [
+          { "word": "usually", "pos": "adverb", "ipa": "/ˈjuːʒuəli/", "meaning": "biasanya", "example": "I usually get up at six." },
+          { "word": "today", "pos": "adverb", "ipa": "/təˈdeɪ/", "meaning": "hari ini", "example": "Today I'm working at home." },
+          { "word": "know", "pos": "verb", "ipa": "/nəʊ/", "meaning": "tahu, mengetahui", "example": "I know her name." },
+          { "word": "understand", "pos": "verb", "ipa": "/ˌʌndəˈstænd/", "meaning": "mengerti, memahami", "example": "Do you understand the question?" },
+          { "word": "want", "pos": "verb", "ipa": "/wɒnt/", "meaning": "ingin, mau", "example": "I want some water." },
+          { "word": "match", "pos": "noun", "ipa": "/mætʃ/", "meaning": "pertandingan", "example": "We're watching a football match." }
+        ],
+        "grammar": [
+          { "pattern": "Present simple + every day / usually / always", "example": "He drinks coffee every morning." },
+          { "pattern": "Present continuous + now / at the moment / Look!", "example": "He's drinking tea now." },
+          { "pattern": "know / like / want / need / understand → present simple", "example": "I need a pen now.", "note": "Kata kerja keadaan." }
+        ],
+        "mistakes": [
+          { "wrong": "I am knowing the answer.", "right": "I know the answer.", "why": "know adalah kata kerja keadaan, tidak memakai -ing." },
+          { "wrong": "She is riding her bike to school every day.", "right": "She rides her bike to school every day.", "why": "every day menunjukkan kebiasaan → present simple." },
+          { "wrong": "Look! The cat sleeps on my bed.", "right": "Look! The cat is sleeping on my bed.", "why": "Look! menunjukkan sesuatu yang sedang terjadi → present continuous." }
+        ],
+        "summary": "**Present simple** untuk kebiasaan dan fakta (*every day, usually, always*). **Present continuous** untuk kegiatan yang sedang terjadi (*now, at the moment, Look!*). Kata kerja keadaan seperti **know, like, want, need, understand** biasanya tetap present simple.",
+        "reviewCards": [
+          { "front": "What do you do? vs What are you doing?", "back": "Apa pekerjaanmu? vs Kamu sedang apa?" },
+          { "front": "Kata kunci present continuous", "back": "now, right now, at the moment, today, Look!, Listen!" },
+          { "front": "I'm knowing — benar?", "back": "Salah. I know." },
+          { "front": "Kata kunci present simple", "back": "every day, usually, always, often, on Mondays" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u10-l4-q1", "type": "single_choice", "category": "grammar", "topic": "present simple vs continuous",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "I usually ___ to school, but today I'm going by bus.",
+          "instructions": "usually = kebiasaan.",
+          "options": ["walk", "am walking", "walks"],
+          "answer": 0,
+          "explanation": "usually menunjukkan kebiasaan → present simple. Subjek I → walk."
+        },
+        {
+          "id": "a1-u10-l4-q2", "type": "dropdown", "category": "grammar", "topic": "present simple vs continuous",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct forms.",
+          "text": "Ken ___ football every Saturday. Right now he ___ a match on TV.",
+          "choices": [["plays", "is playing"], ["watches", "is watching"]],
+          "answers": [0, 1],
+          "explanation": "every Saturday → kebiasaan (plays). Right now → sedang terjadi (is watching)."
+        },
+        {
+          "id": "a1-u10-l4-q3", "type": "sentence_correction", "category": "grammar", "topic": "stative verbs",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "I am knowing the answer.",
+          "answers": ["I know the answer."],
+          "explanation": "know adalah kata kerja keadaan dan tidak dipakai dengan -ing: I know the answer."
+        },
+        {
+          "id": "a1-u10-l4-q4", "type": "drag_drop", "category": "grammar", "topic": "present simple vs continuous",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Drag the correct verb forms into the gaps.",
+          "text": "Listen! Somebody ___ the piano. My sister ___ it every evening.",
+          "bank": ["is playing", "plays", "play", "are playing"],
+          "answers": ["is playing", "plays"],
+          "explanation": "Listen! → sedang terjadi (is playing). every evening → kebiasaan (plays)."
+        },
+        {
+          "id": "a1-u10-l4-q5", "type": "multiple_select", "category": "grammar", "topic": "present simple vs continuous",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which time expressions usually go with the present continuous? Choose all correct answers.",
+          "options": ["now", "every day", "at the moment", "usually", "right now", "on Mondays"],
+          "answers": [0, 2, 4],
+          "explanation": "now, at the moment, right now → present continuous. every day, usually, on Mondays → present simple."
+        },
+        {
+          "id": "a1-u10-l4-q6", "type": "sentence_transformation", "category": "grammar", "topic": "present simple vs continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence with the new time expression.",
+          "sentence": "Tom drinks coffee every morning.",
+          "cue": "Ganti 'every morning' dengan 'right now'.",
+          "answers": ["Tom is drinking coffee right now.", "Tom's drinking coffee right now.", "Right now Tom is drinking coffee.", "Right now Tom's drinking coffee."],
+          "explanation": "right now → present continuous: Tom is drinking coffee right now."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u10-l5-clothes-weather",
+      "title": "Clothes and Weather",
+      "summary": "Menyebut pakaian, menjelaskan apa yang sedang dipakai, dan membicarakan cuaca.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyebut pakaian sehari-hari dalam bahasa Inggris",
+        "Menggunakan wear dan is wearing dengan tepat",
+        "Bertanya dan menjelaskan cuaca (It's sunny / It's raining)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pakaian (clothes)\n| Bahasa Inggris | Arti | Catatan |\n| --- | --- | --- |\n| shirt / T-shirt | kemeja / kaus | |\n| dress / skirt | gaun / rok | |\n| jacket / coat | jaket / mantel | |\n| sweater | baju hangat, sweter | |\n| trousers / jeans / shorts | celana panjang / jin / celana pendek | selalu jamak |\n| shoes / sandals / socks | sepatu / sandal / kaus kaki | biasanya jamak |\n| hat / cap | topi | |\n\n**Trousers, jeans, shorts** selalu **jamak**, jadi memakai *are*: *My jeans **are** blue.* (bukan ~~is~~). Kita tidak berkata ~~a trousers~~; gunakan **a pair of trousers** atau **some trousers**.\n\n### wear = memakai (pakaian)\nDalam bahasa Indonesia kita berkata *memakai baju*. Dalam bahasa Inggris, untuk pakaian gunakan **wear**, bukan ~~use~~.\n- Kebiasaan: *I **wear** a uniform every day.* (present simple)\n- Sekarang: *Today I'**m wearing** jeans and a red T-shirt.* (present continuous)\n\n### Cuaca (weather)\nTanyakan cuaca dengan **What's the weather like?** (Bagaimana cuacanya?). Jawab dengan **It's + kata sifat** atau **It's + verb-ing**:\n\n| Kata sifat | Arti | Sedang terjadi | Arti |\n| --- | --- | --- | --- |\n| It's sunny. | cerah | It's raining. | sedang hujan |\n| It's cloudy. | berawan | It's snowing. | sedang turun salju |\n| It's windy. | berangin | | |\n| It's hot / warm. | panas / hangat | | |\n| It's cold / cool. | dingin / sejuk | | |\n\nPerhatikan: **It's raining** adalah present continuous (*it is* + *raining*). Kesalahan umum: ~~It raining~~ atau ~~It's rain~~. Untuk kebiasaan, gunakan present simple: *It **rains** a lot in December.*\n\n### Menggabungkan pakaian dan cuaca\n*It's cold and windy today, so I'm wearing a coat and a hat.*\n*It's raining. Take your umbrella!* (imperative dari Unit 8)\n\n### Tips\nKata **it** di sini tidak merujuk pada benda apa pun — ia hanya subjek formal untuk cuaca, sama seperti *It's 5 o'clock* untuk waktu.",
+        "examples": [
+          { "en": "What's the weather like today? — It's sunny and hot.", "id": "Bagaimana cuaca hari ini? — Cerah dan panas." },
+          { "en": "Take your umbrella. It's raining.", "id": "Bawa payungmu. Sedang hujan." },
+          { "en": "Lina is wearing a yellow dress and white shoes.", "id": "Lina sedang memakai gaun kuning dan sepatu putih." },
+          { "en": "I wear a uniform at work.", "id": "Saya memakai seragam di tempat kerja.", "note": "Kebiasaan → present simple." },
+          { "en": "My new jeans are too small.", "id": "Celana jin baru saya terlalu kecil.", "note": "jeans selalu jamak." }
+        ],
+        "vocabulary": [
+          { "word": "wear", "pos": "verb", "ipa": "/weə/", "meaning": "memakai (pakaian, aksesori)", "example": "She's wearing a hat." },
+          { "word": "trousers", "pos": "noun (plural)", "ipa": "/ˈtraʊzəz/", "meaning": "celana panjang", "example": "His trousers are black." },
+          { "word": "jacket", "pos": "noun", "ipa": "/ˈdʒækɪt/", "meaning": "jaket", "example": "Wear a jacket. It's cold." },
+          { "word": "dress", "pos": "noun", "ipa": "/dres/", "meaning": "gaun", "example": "That's a beautiful dress." },
+          { "word": "sunny", "pos": "adjective", "ipa": "/ˈsʌni/", "meaning": "cerah", "example": "It's sunny today." },
+          { "word": "cloudy", "pos": "adjective", "ipa": "/ˈklaʊdi/", "meaning": "berawan", "example": "It's cloudy this morning." },
+          { "word": "windy", "pos": "adjective", "ipa": "/ˈwɪndi/", "meaning": "berangin", "example": "It's very windy at the beach." },
+          { "word": "rain", "pos": "verb/noun", "ipa": "/reɪn/", "meaning": "hujan", "example": "It's raining now." },
+          { "word": "weather", "pos": "noun", "ipa": "/ˈweðə/", "meaning": "cuaca", "example": "What's the weather like?" }
+        ],
+        "grammar": [
+          { "pattern": "What's the weather like? → It's + adjective", "example": "It's windy and cool." },
+          { "pattern": "It's + raining / snowing", "example": "It's raining in Greenhill.", "note": "Present continuous untuk cuaca saat ini." },
+          { "pattern": "Subjek + am/is/are + wearing + pakaian", "example": "Tono is wearing a blue shirt." }
+        ],
+        "mistakes": [
+          { "wrong": "It raining now.", "right": "It's raining now.", "why": "Present continuous memerlukan is: It is (It's) raining." },
+          { "wrong": "My trousers is new.", "right": "My trousers are new.", "why": "trousers selalu jamak → are." },
+          { "wrong": "I use a jacket because it's cold.", "right": "I'm wearing a jacket because it's cold.", "why": "Untuk pakaian, gunakan wear, bukan use." }
+        ],
+        "summary": "Pakaian umum: **shirt, T-shirt, dress, skirt, jacket, coat, trousers, jeans, shoes, hat**. **Trousers/jeans/shorts** selalu jamak. Gunakan **wear** (bukan *use*) untuk pakaian: *I'm wearing a jacket.* Tanyakan cuaca dengan **What's the weather like?** dan jawab **It's sunny / cloudy / windy / cold** atau **It's raining**.",
+        "reviewCards": [
+          { "front": "Bagaimana cuacanya?", "back": "What's the weather like?" },
+          { "front": "Sedang hujan.", "back": "It's raining." },
+          { "front": "memakai jaket", "back": "wear a jacket (bukan use)" },
+          { "front": "My jeans ___ blue.", "back": "are (jeans selalu jamak)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u10-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "clothes",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "It's very cold and windy today. Wear your ___.",
+          "instructions": "Pilih pakaian yang cocok untuk cuaca dingin.",
+          "options": ["coat", "shorts", "sandals", "swimsuit"],
+          "answer": 0,
+          "explanation": "Saat dingin dan berangin, kita memakai mantel (coat)."
+        },
+        {
+          "id": "a1-u10-l5-q2", "type": "matching", "category": "vocabulary", "topic": "weather",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the weather words with their meanings.",
+          "pairs": [
+            { "left": "sunny", "right": "cerah" },
+            { "left": "cloudy", "right": "berawan" },
+            { "left": "windy", "right": "berangin" },
+            { "left": "It's raining.", "right": "Sedang hujan." },
+            { "left": "cold", "right": "dingin" }
+          ],
+          "explanation": "sunny = cerah; cloudy = berawan; windy = berangin; It's raining = sedang hujan; cold = dingin."
+        },
+        {
+          "id": "a1-u10-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "clothes and weather",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Look out of the window. Describe the weather and what you are wearing right now.",
+          "targetPhrases": ["It's", "I'm wearing", "today"],
+          "sampleAnswer": "It's sunny and hot today. I'm wearing a white T-shirt, blue jeans and black sandals. My sister is wearing a yellow dress.",
+          "explanation": "Gunakan It's + cuaca, lalu I'm wearing + pakaian (present continuous karena sedang terjadi sekarang)."
+        },
+        {
+          "id": "a1-u10-l5-q4", "type": "error_identification", "category": "grammar", "topic": "weather",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Today", "it raining,", "so I'm wearing", "a raincoat."],
+          "errorIndex": 1,
+          "correction": "it's raining, / it is raining,",
+          "explanation": "Cuaca yang sedang terjadi memakai present continuous: it is (it's) raining."
+        },
+        {
+          "id": "a1-u10-l5-q5", "type": "single_choice", "category": "grammar", "topic": "clothes",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My new jeans are blue.", "My new jeans is blue.", "My new jean are blue.", "My new jeans am blue."],
+          "answer": 0,
+          "explanation": "jeans selalu jamak (dengan -s) dan memakai are."
+        },
+        {
+          "id": "a1-u10-l5-q6", "type": "sentence_correction", "category": "vocabulary", "topic": "clothes",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence. (The action is happening now.)",
+          "sentence": "I use a jacket now because it's windy.",
+          "answers": [
+            "I'm wearing a jacket now because it's windy.",
+            "I am wearing a jacket now because it's windy.",
+            "I'm wearing a jacket now because it is windy.",
+            "I am wearing a jacket now because it is windy."
+          ],
+          "explanation": "Untuk pakaian gunakan wear, dan karena terjadi sekarang (now), gunakan present continuous: I'm wearing a jacket."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u10-t-q1", "type": "single_choice", "category": "grammar", "topic": "weather",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Look outside! It ___. Take your umbrella.",
+      "options": ["is raining", "rains", "raining", "rain"],
+      "answer": 0,
+      "explanation": "Look outside! menunjukkan sesuatu yang sedang terjadi: It is raining."
+    },
+    {
+      "id": "a1-u10-t-q2", "type": "dropdown", "category": "grammar", "topic": "present simple vs continuous",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct forms.",
+      "text": "Every morning Lisa ___ the bus to work, but today she ___ to work because the weather is nice.",
+      "choices": [["takes", "is taking"], ["cycles", "is cycling"]],
+      "answers": [0, 1],
+      "explanation": "Every morning → kebiasaan (takes). today → kegiatan hari ini yang berbeda dari kebiasaan (is cycling)."
+    },
+    {
+      "id": "a1-u10-t-q3", "type": "fill_blank", "category": "grammar", "topic": "present continuous questions",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Complete with one word in each gap.",
+      "text": "A: What ___ you doing? B: I ___ writing an email to my cousin.",
+      "answers": [["are"], ["am"]],
+      "explanation": "What are you doing? — I am (I'm) writing ..."
+    },
+    {
+      "id": "a1-u10-t-q4", "type": "sentence_reconstruction", "category": "writing", "topic": "present continuous",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the parts in the correct order.",
+      "fragments": ["At the moment", "my brother is studying", "for his English test", "in his bedroom."],
+      "explanation": "Keterangan waktu (At the moment) + subjek dan kata kerja + tujuan + tempat."
+    },
+    {
+      "id": "a1-u10-t-q5", "type": "translation", "category": "grammar", "topic": "present continuous",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kami sedang menunggu taksi.",
+      "direction": "id-en",
+      "answers": ["We are waiting for a taxi.", "We're waiting for a taxi.", "We are waiting for the taxi.", "We're waiting for the taxi."],
+      "explanation": "sedang menunggu = are waiting (for); kami = we."
+    },
+    {
+      "id": "a1-u10-t-q6", "type": "error_identification", "category": "grammar", "topic": "clothes",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["My father", "is wearing", "a black trousers", "today."],
+      "errorIndex": 2,
+      "correction": "black trousers",
+      "explanation": "trousers selalu jamak, jadi tidak memakai a: My father is wearing black trousers today."
+    },
+    {
+      "id": "a1-u10-t-q7", "type": "matching", "category": "conversation", "topic": "present simple vs continuous",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match the questions with the answers.",
+      "pairs": [
+        { "left": "What's the weather like?", "right": "It's cloudy and cool." },
+        { "left": "What are you wearing?", "right": "A blue dress and white shoes." },
+        { "left": "Is Leo sleeping?", "right": "No, he isn't. He's reading." },
+        { "left": "What do you usually do on Sundays?", "right": "I usually visit my grandma." }
+      ],
+      "explanation": "Cuaca → It's ...; pakaian → nama pakaian; Is Leo ...? → No, he isn't; usually → jawaban present simple."
+    },
+    {
+      "id": "a1-u10-t-q8", "type": "sentence_transformation", "category": "grammar", "topic": "present continuous questions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Make a Yes/No question.",
+      "sentence": "The children are sleeping.",
+      "cue": "Ubah menjadi pertanyaan Yes/No.",
+      "answers": ["Are the children sleeping?"],
+      "explanation": "Pindahkan are ke depan subjek: Are the children sleeping?"
+    }
+  ]
+}

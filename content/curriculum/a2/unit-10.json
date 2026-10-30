@@ -1,0 +1,557 @@
+{
+  "slug": "a2-u10-communication",
+  "number": 10,
+  "title": "Everyday Communication",
+  "description": "Berkomunikasi dalam situasi sehari-hari: membuat permintaan sopan dengan Could you...?, menawarkan dengan Would you like...?, memakai phrasal verbs umum, berjanji dan memprediksi dengan will, serta menelepon dan menulis email informal.",
+  "objectives": [
+    "Membuat permintaan sopan dengan Could you...? dan Could I...?",
+    "Menawarkan dan mengundang dengan Would you like...?",
+    "Menggunakan phrasal verbs umum seperti turn on, look for, pick up",
+    "Menggunakan will untuk janji dan prediksi",
+    "Menelepon, mencatat pesan, dan menulis email informal singkat"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u10-l1-polite-requests",
+      "title": "Polite Requests: Could You...? Could I...?",
+      "summary": "Meminta tolong dan meminta izin dengan sopan menggunakan could.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat permintaan dengan Could you + base verb?",
+        "Meminta izin dengan Could I + base verb?",
+        "Menjawab permintaan dengan sopan"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dari can ke could\nDi A1 kamu belajar **Can you...?** dan **Can I...?** untuk permintaan. Di A2, kita menambahkan **Could you...? / Could I...?** yang terdengar **lebih sopan**, cocok untuk orang yang tidak kamu kenal, atasan, atau pelanggan.\n\n| Kurang sopan → | lebih sopan |\n| --- | --- |\n| *Give me the menu.* | *Can you give me the menu?* |\n| *Can you give me the menu?* | ***Could** you give me the menu, **please**?* |\n\nDi sini *could* **bukan** bentuk lampau — artinya tetap permintaan untuk sekarang atau nanti.\n\n### Dua jenis permintaan\n| Jenis | Pola | Contoh |\n| --- | --- | --- |\n| Meminta orang lain melakukan sesuatu | **Could you** + base verb...? | *Could you open the window, please?* |\n| Meminta izin untuk diri sendiri | **Could I** + base verb...? | *Could I borrow your charger?* |\n\nSetelah *could* langsung **bentuk dasar**: ✗ *Could you to help me?* ✗ *Could you helping me?*\n\n### Posisi please\n*Please* bisa di **akhir** (paling umum) atau setelah subjek:\n- *Could you help me, **please**?*\n- *Could you **please** help me?*\n\n### Menjawab permintaan\n| Setuju | Menolak dengan sopan |\n| --- | --- |\n| *Sure. / Of course. / No problem.* | *Sorry, I'm afraid I can't. I'm busy right now.* |\n| *Yes, of course you can.* (untuk Could I) | *I'm sorry, but you can't. It's not allowed.* |\n\nPerhatikan: jawaban **bukan** ✗ *Yes, I could.* Karena *could* di sini adalah permintaan, jawablah dengan *Sure* atau *Of course*.\n\n### Ungkapan berguna di tempat kerja dan perjalanan\n- *Could you say that again, please?* (Bisa diulang?)\n- *Could you speak more slowly, please?*\n- *Could you spell your name, please?*\n- *Could I pay by card?*\n- *Could I have the bill, please?*\n\n### Tips budaya\nDalam bahasa Inggris, perintah langsung (*Give me...*) sering terdengar kasar, bahkan di toko atau restoran. Mengubahnya menjadi pertanyaan dengan **Could you...? + please** membuat kamu terdengar ramah dan profesional.",
+        "examples": [
+          { "en": "Could you send me the report by Friday, please?", "id": "Bisakah Anda mengirimkan laporannya paling lambat Jumat?", "note": "Could you + base verb" },
+          { "en": "Could I borrow your pen for a minute?", "id": "Boleh saya pinjam pulpenmu sebentar?", "note": "Could I = meminta izin" },
+          { "en": "Could you say that again, please? — Sure.", "id": "Bisa diulang? — Tentu.", "note": "jawaban: Sure" },
+          { "en": "Could I leave early today? — I'm afraid not. We have a meeting at four.", "id": "Boleh saya pulang lebih awal hari ini? — Sayangnya tidak. Kita ada rapat jam empat.", "note": "menolak dengan sopan" }
+        ],
+        "vocabulary": [
+          { "word": "borrow", "pos": "verb", "ipa": "/ˈbɒrəʊ/", "meaning": "meminjam", "example": "Could I borrow your umbrella?" },
+          { "word": "lend", "pos": "verb", "ipa": "/lend/", "meaning": "meminjamkan", "example": "Could you lend me some money?" },
+          { "word": "repeat", "pos": "verb", "ipa": "/rɪˈpiːt/", "meaning": "mengulang", "example": "Could you repeat the question, please?" },
+          { "word": "of course", "pos": "phrase", "ipa": "/əv ˈkɔːs/", "meaning": "tentu saja", "example": "Of course I can help you." },
+          { "word": "I'm afraid", "pos": "phrase", "ipa": "/aɪm əˈfreɪd/", "meaning": "sayangnya (sopan)", "example": "I'm afraid I can't come." }
+        ],
+        "grammar": [
+          { "pattern": "Could you + base verb (+ please)?", "example": "Could you close the door, please?", "note": "Meminta orang lain melakukan sesuatu." },
+          { "pattern": "Could I + base verb?", "example": "Could I use your phone?", "note": "Meminta izin." }
+        ],
+        "mistakes": [
+          { "wrong": "Could you to help me?", "right": "Could you help me?", "why": "Setelah could langsung bentuk dasar, tanpa to." },
+          { "wrong": "Could you open the window? — Yes, I could.", "right": "Could you open the window? — Sure. / Of course.", "why": "Permintaan dijawab dengan Sure / Of course, bukan Yes, I could." },
+          { "wrong": "Could you borrow me your pen?", "right": "Could you lend me your pen? / Could I borrow your pen?", "why": "Borrow = meminjam (dari orang lain); lend = meminjamkan (kepada orang lain)." }
+        ],
+        "summary": "**Could you + base verb?** untuk meminta tolong, **Could I + base verb?** untuk meminta izin. Lebih sopan daripada *can*. Tambahkan **please** dan jawab dengan **Sure / Of course / No problem** atau tolak dengan **I'm afraid I can't**.",
+        "reviewCards": [
+          { "front": "Bisa diulang?", "back": "Could you say that again, please?" },
+          { "front": "Boleh saya pinjam pulpenmu?", "back": "Could I borrow your pen?" },
+          { "front": "borrow vs lend", "back": "borrow = meminjam; lend = meminjamkan" },
+          { "front": "Jawaban sopan untuk Could you...?", "back": "Sure. / Of course. / No problem." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u10-l1-q1", "type": "single_choice", "category": "conversation", "topic": "polite requests", "difficulty": 1, "stage": "guided",
+          "prompt": "Which request is the most polite?",
+          "options": ["Could you send me the file, please?", "Send me the file.", "You send me the file now.", "Could you sending me the file?"], "answer": 0,
+          "explanation": "Could you + base verb + please adalah bentuk paling sopan dan tata bahasanya benar.",
+          "misconception": "Mengira perintah langsung sudah cukup sopan."
+        },
+        {
+          "id": "a2-u10-l1-q2", "type": "dialogue_completion", "category": "conversation", "topic": "polite requests", "difficulty": 1, "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Mrs. Tan", "text": "Could you help me with this box, please? It's very heavy." },
+            { "speaker": "Yoga", "text": null }
+          ],
+          "options": ["Sure, no problem.", "Yes, I could.", "No, I couldn't.", "Sure, I help."], "answer": 0,
+          "explanation": "Permintaan dengan Could you...? dijawab Sure / Of course / No problem."
+        },
+        {
+          "id": "a2-u10-l1-q3", "type": "sentence_transformation", "category": "conversation", "topic": "polite requests", "difficulty": 2, "stage": "independent",
+          "prompt": "Make the sentence into a polite request.",
+          "sentence": "Open the window.",
+          "cue": "Use: Could you ... please?",
+          "answers": ["Could you open the window, please?", "Could you please open the window?"],
+          "explanation": "Could you + base verb + please?"
+        },
+        {
+          "id": "a2-u10-l1-q4", "type": "error_identification", "category": "grammar", "topic": "polite requests", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["Could", "you", "to close", "the door, please?"],
+          "errorIndex": 2, "correction": "close",
+          "explanation": "Setelah could langsung bentuk dasar tanpa to."
+        },
+        {
+          "id": "a2-u10-l1-q5", "type": "matching", "category": "conversation", "topic": "polite requests", "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each situation with the best request.",
+          "pairs": [
+            { "left": "You need a pen.", "right": "Could I borrow your pen?" },
+            { "left": "You didn't hear the question.", "right": "Could you say that again, please?" },
+            { "left": "You want to go home at 3 p.m.", "right": "Could I leave early today?" },
+            { "left": "The speaker is too fast.", "right": "Could you speak more slowly, please?" }
+          ],
+          "explanation": "Could I... untuk izin (meminjam, pulang awal); Could you... untuk meminta orang lain melakukan sesuatu."
+        },
+        {
+          "id": "a2-u10-l1-q6", "type": "word_order", "category": "conversation", "topic": "polite requests", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Could", "you", "speak", "more", "slowly,", "please?"],
+          "acceptedAnswers": ["Could you please speak more slowly?"],
+          "explanation": "Could you + base verb (speak) + adverb (more slowly) + please?"
+        }
+      ]
+    },
+    {
+      "slug": "a2-u10-l2-would-you-like",
+      "title": "Would You Like...? Offers and Invitations",
+      "summary": "Menawarkan sesuatu dan mengundang dengan Would you like + noun / to + verb.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menawarkan dengan Would you like + noun? dan mengundang dengan Would you like to + verb?",
+        "Membedakan Would you like...? dan Do you like...?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Would you like...? = Mau...?\nDi Unit 9 kamu belajar *I'd like to...* untuk menyatakan keinginan dengan sopan. Dalam bentuk pertanyaan, **Would you like...?** dipakai untuk **menawarkan** sesuatu atau **mengundang** seseorang.\n\n| Pola | Fungsi | Contoh |\n| --- | --- | --- |\n| Would you like + **noun**? | menawarkan benda | *Would you like **some tea**?* |\n| Would you like **to** + base verb? | mengundang / menawarkan kegiatan | *Would you like **to come** to my party?* |\n| What/Where... would you like (to)...? | menanyakan pilihan | *What **would you like to** drink?* |\n\n### Menjawab\n| Tawaran benda | Undangan |\n| --- | --- |\n| *Yes, please.* | *I'd love to!* |\n| *No, thank you. / No, thanks.* | *That sounds great!* |\n| *Yes, please. With sugar.* | *I'd love to, but I'm busy on Saturday.* |\n\nJangan jawab ✗ *Yes, I would like.* (tidak lengkap) atau ✗ *Yes, I like.* Pilih *Yes, please* atau *I'd love to*.\n\n### Would you like vs Do you like — sangat penting!\n| Do you like...? | Would you like...? |\n| --- | --- |\n| menanyakan **kesukaan umum** | menawarkan **sekarang/nanti** |\n| *Do you like coffee?* (Kamu suka kopi?) | *Would you like a coffee?* (Mau kopi?) |\n| *Yes, I do. I drink it every day.* | *Yes, please.* |\n\nKesalahan umum: menawarkan dengan *Do you like some tea?* ✗ — yang benar *Would you like some tea?* ✓\n\n### Some dalam tawaran\nDalam tawaran, kita memakai **some** (bukan *any*), walaupun bentuknya pertanyaan, karena kita mengharapkan jawaban *ya*: *Would you like **some** cake?*\n\n### Bandingkan dengan Unit 5\nDi Unit 5 kamu belajar mengundang dengan *Are you free...?*, *Let's...*, dan *How about...?* **Would you like to...?** adalah cara yang paling sopan dan cocok untuk situasi formal maupun informal.\n\n*Would you like to join us for dinner on Friday?* — *I'd love to. Thank you!*",
+        "examples": [
+          { "en": "Would you like some more rice? — No, thank you. I'm full.", "id": "Mau tambah nasi? — Tidak, terima kasih. Saya sudah kenyang.", "note": "menawarkan makanan" },
+          { "en": "Would you like to join us for lunch?", "id": "Mau ikut makan siang bersama kami?", "note": "Would you like to + verb" },
+          { "en": "What would you like to drink? — An iced tea, please.", "id": "Mau minum apa? — Es teh, ya.", "note": "menanyakan pilihan" },
+          { "en": "Do you like durian? — No, I don't. I hate the smell!", "id": "Kamu suka durian? — Tidak. Saya benci baunya!", "note": "bandingkan: Do you like = kesukaan umum" }
+        ],
+        "vocabulary": [
+          { "word": "offer", "pos": "verb", "ipa": "/ˈɒfə/", "meaning": "menawarkan", "example": "She offered me a cup of tea." },
+          { "word": "join", "pos": "verb", "ipa": "/dʒɔɪn/", "meaning": "bergabung, ikut", "example": "Would you like to join us?" },
+          { "word": "full", "pos": "adjective", "ipa": "/fʊl/", "meaning": "kenyang; penuh", "example": "No more, thanks. I'm full." },
+          { "word": "piece", "pos": "noun", "ipa": "/piːs/", "meaning": "potong, buah", "example": "Would you like a piece of cake?" },
+          { "word": "I'd love to", "pos": "phrase", "ipa": "/aɪd ˈlʌv tuː/", "meaning": "saya mau sekali", "example": "Dinner on Friday? I'd love to!" }
+        ],
+        "grammar": [
+          { "pattern": "Would you like + (some/a) + noun?", "example": "Would you like a sandwich?", "note": "Menawarkan benda." },
+          { "pattern": "Would you like to + base verb?", "example": "Would you like to watch a film?", "note": "Mengundang / menawarkan kegiatan." },
+          { "pattern": "Yes, please. / No, thank you. / I'd love to (, but...).", "example": "I'd love to, but I'm working.", "note": "Jawaban." }
+        ],
+        "mistakes": [
+          { "wrong": "Would you like come to my party?", "right": "Would you like to come to my party?", "why": "Would like + to + base verb." },
+          { "wrong": "Would you like some tea? — Yes, I like.", "right": "Would you like some tea? — Yes, please.", "why": "Tawaran dijawab Yes, please / No, thank you." },
+          { "wrong": "Do you like a coffee? (menawarkan)", "right": "Would you like a coffee?", "why": "Untuk menawarkan, pakai Would you like. Do you like menanyakan kesukaan umum." }
+        ],
+        "summary": "**Would you like + noun?** untuk menawarkan, **Would you like to + verb?** untuk mengundang. Jawab dengan **Yes, please / No, thank you / I'd love to (, but...)**. Jangan tertukar dengan **Do you like...?** (kesukaan umum).",
+        "reviewCards": [
+          { "front": "Mau teh?", "back": "Would you like some tea?" },
+          { "front": "Mau ikut makan malam?", "back": "Would you like to join us for dinner?" },
+          { "front": "Do you like coffee? vs Would you like a coffee?", "back": "Kesukaan umum vs menawarkan sekarang" },
+          { "front": "Jawaban untuk tawaran (ya)", "back": "Yes, please." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u10-l2-q1", "type": "single_choice", "category": "conversation", "topic": "would you like", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: Would you like ___ coffee?",
+          "options": ["some", "many", "to", "a few"], "answer": 0,
+          "explanation": "Dalam tawaran kita memakai some: Would you like some coffee?",
+          "misconception": "Memakai any atau many dalam tawaran."
+        },
+        {
+          "id": "a2-u10-l2-q2", "type": "dialogue_completion", "category": "conversation", "topic": "would you like", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Hendra", "text": "Would you like to come to the cinema with us tonight?" },
+            { "speaker": "Mila", "text": null },
+            { "speaker": "Hendra", "text": "No problem. Maybe next time!" }
+          ],
+          "options": ["I'd love to, but I'm working late tonight.", "Yes, I like.", "No, I don't like.", "Yes, I would like."], "answer": 0,
+          "explanation": "Hendra menjawab Maybe next time, jadi Mila menolak dengan sopan: I'd love to, but..."
+        },
+        {
+          "id": "a2-u10-l2-q3", "type": "matching", "category": "conversation", "topic": "would you like vs do you like", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each question with the best answer.",
+          "pairs": [
+            { "left": "Do you like coffee?", "right": "Yes, I drink it every morning." },
+            { "left": "Would you like a coffee?", "right": "Yes, please. With milk." },
+            { "left": "Would you like to join us for lunch?", "right": "I'd love to. Thanks!" },
+            { "left": "What would you like to drink?", "right": "An orange juice, please." }
+          ],
+          "explanation": "Do you like = kesukaan umum; Would you like + noun = tawaran; Would you like to = undangan; What would you like = pilihan."
+        },
+        {
+          "id": "a2-u10-l2-q4", "type": "error_identification", "category": "grammar", "topic": "would you like", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["Would", "you", "like", "come", "to my party?"],
+          "errorIndex": 3, "correction": "to come",
+          "explanation": "Would like + to + base verb: Would you like to come...?"
+        },
+        {
+          "id": "a2-u10-l2-q5", "type": "dropdown", "category": "conversation", "topic": "would you like", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct words.",
+          "text": "A: ___ you like some more rice? B: No, ___. I'm full.",
+          "choices": [["Would", "Do", "Are"], ["thank you", "please", "I wouldn't"]],
+          "answers": [0, 0],
+          "explanation": "Tawaran → Would you like...? Menolak dengan sopan → No, thank you."
+        },
+        {
+          "id": "a2-u10-l2-q6", "type": "translation", "category": "conversation", "topic": "would you like", "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English. (You are offering a drink.)",
+          "source": "Kamu mau teh?", "direction": "id-en",
+          "answers": ["Would you like some tea?", "Would you like a cup of tea?", "Would you like a tea?", "Would you like tea?", "Would you like to have some tea?", "Would you like to drink some tea?"],
+          "explanation": "Menawarkan → Would you like some tea? (bukan Do you like tea?)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u10-l3-phrasal-verbs",
+      "title": "Common Phrasal Verbs",
+      "summary": "Phrasal verbs sehari-hari: get up, turn on/off, look for, pick up, put on, call back.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Memahami dan menggunakan 12 phrasal verbs umum",
+        "Meletakkan pronoun dengan benar: turn it on (bukan turn on it)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu phrasal verb?\n**Phrasal verb** adalah kata kerja + partikel (*up, on, off, for, back, out*...) yang **artinya sering berbeda** dari kata kerjanya sendiri.\n\n*look* = melihat, tetapi *look **for*** = **mencari**.\n\nPenutur asli sangat sering memakai phrasal verbs dalam percakapan sehari-hari, jadi kamu perlu mengenalnya.\n\n### 12 phrasal verbs penting\n| Phrasal verb | Arti | Contoh |\n| --- | --- | --- |\n| **get up** | bangun (dari tempat tidur) | *I get up at six.* |\n| **wake up** | terbangun | *I woke up at 3 a.m.* |\n| **turn on / turn off** | menyalakan / mematikan | *Turn off the lights.* |\n| **look for** | mencari | *I'm looking for my keys.* |\n| **pick up** | menjemput; mengangkat (telepon) | *Can you pick me up at eight?* |\n| **put on / take off** | memakai / melepas (pakaian) | *Put on your jacket.* |\n| **call back** | menelepon balik | *I'll call you back later.* |\n| **find out** | mencari tahu | *Let's find out the train times.* |\n| **give back** | mengembalikan | *Give back my book!* |\n| **fill in** | mengisi (formulir) | *Please fill in this form.* |\n| **hang up** | menutup telepon | *Don't hang up!* |\n\n### Posisi objek: dua jenis phrasal verb\n**1. Separable (bisa dipisah)** — *turn on, turn off, pick up, put on, take off, call back, give back, fill in*.\nObjek kata benda boleh di tengah atau di belakang:\n- *Turn on **the TV**.* ✓ / *Turn **the TV** on.* ✓\n\nTetapi jika objeknya **pronoun** (*it, them, me, him, her*), pronoun **wajib di tengah**:\n- ✓ *Turn **it** on.* ✗ *Turn on it.*\n- ✓ *Pick **me** up at eight.* ✗ *Pick up me.*\n\n**2. Inseparable (tidak bisa dipisah)** — *look for, get up, wake up*.\nObjek selalu di belakang:\n- ✓ *I'm looking for **my phone**.* ✓ *I'm looking for **it**.* ✗ *I'm looking it for.*\n\n### Bentuk lampau\nHanya kata kerjanya yang berubah: *get up → **got** up*, *put on → **put** on*, *wake up → **woke** up*, *take off → **took** off*, *find out → **found** out*.\n\n### Tips belajar\nPelajari phrasal verbs dalam **pasangan** (*turn on/off, put on/take off*) dan dalam **situasi** (pagi hari: *wake up, get up, put on*; telepon: *pick up, call back, hang up*).",
+        "examples": [
+          { "en": "Could you turn off the air conditioning? It's cold.", "id": "Bisakah kamu mematikan AC-nya? Dingin.", "note": "turn off" },
+          { "en": "I'm looking for my glasses. Have you seen them?", "id": "Saya sedang mencari kacamata saya. Kamu melihatnya?", "note": "look for (inseparable)" },
+          { "en": "My phone is ringing. Can you pick it up?", "id": "Telepon saya berdering. Bisa kamu angkat?", "note": "pick it up (pronoun di tengah)" },
+          { "en": "She took off her shoes and put on her slippers.", "id": "Dia melepas sepatunya dan memakai sandal rumah.", "note": "take off / put on (lampau)" }
+        ],
+        "vocabulary": [
+          { "word": "turn on", "pos": "phrasal verb", "ipa": "/tɜːn ɒn/", "meaning": "menyalakan", "example": "Turn on the fan, please." },
+          { "word": "look for", "pos": "phrasal verb", "ipa": "/lʊk fɔː/", "meaning": "mencari", "example": "We're looking for a new flat." },
+          { "word": "pick up", "pos": "phrasal verb", "ipa": "/pɪk ʌp/", "meaning": "menjemput; mengangkat (telepon)", "example": "I'll pick you up at the station." },
+          { "word": "put on", "pos": "phrasal verb", "ipa": "/pʊt ɒn/", "meaning": "memakai (pakaian)", "example": "Put on your helmet." },
+          { "word": "find out", "pos": "phrasal verb", "ipa": "/faɪnd aʊt/", "meaning": "mencari tahu, mengetahui", "example": "I need to find out the price." },
+          { "word": "fill in", "pos": "phrasal verb", "ipa": "/fɪl ɪn/", "meaning": "mengisi (formulir)", "example": "Please fill in this form." }
+        ],
+        "grammar": [
+          { "pattern": "verb + particle + noun / verb + noun + particle", "example": "Turn on the light. / Turn the light on.", "note": "Separable dengan kata benda." },
+          { "pattern": "verb + pronoun + particle", "example": "Turn it on. Pick her up.", "note": "Pronoun wajib di tengah." },
+          { "pattern": "look for / get up + object (inseparable)", "example": "I'm looking for it.", "note": "Tidak bisa dipisah." }
+        ],
+        "mistakes": [
+          { "wrong": "Can you pick up it?", "right": "Can you pick it up?", "why": "Dengan pronoun, letakkan di tengah phrasal verb." },
+          { "wrong": "I'm looking my keys.", "right": "I'm looking for my keys.", "why": "Mencari = look for; for tidak boleh hilang." },
+          { "wrong": "Please open the light.", "right": "Please turn on the light.", "why": "Menyalakan lampu/TV = turn on, bukan open (terjemahan langsung dari 'buka')." }
+        ],
+        "summary": "Phrasal verbs penting: **get up, wake up, turn on/off, look for, pick up, put on/take off, call back, find out, give back, fill in, hang up**. Dengan pronoun, letakkan di tengah: **turn it off, pick me up**. *Look for* tidak bisa dipisah.",
+        "reviewCards": [
+          { "front": "mencari", "back": "look for" },
+          { "front": "Matikan (itu)!", "back": "Turn it off! (bukan turn off it)" },
+          { "front": "menjemput", "back": "pick up (I'll pick you up)" },
+          { "front": "nyalakan lampu", "back": "turn on the light (bukan open the light)" },
+          { "front": "mengisi formulir", "back": "fill in a form" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u10-l3-q1", "type": "single_choice", "category": "vocabulary", "topic": "phrasal verbs", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct phrasal verb: It's dark in here. Can you ___ the light?",
+          "options": ["turn on", "turn off", "look for", "get up"], "answer": 0,
+          "explanation": "Gelap → nyalakan lampu → turn on.",
+          "misconception": "Menerjemahkan 'buka lampu' menjadi open the light."
+        },
+        {
+          "id": "a2-u10-l3-q2", "type": "matching", "category": "vocabulary", "topic": "phrasal verbs", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each phrasal verb with its meaning in Indonesian.",
+          "pairs": [
+            { "left": "look for", "right": "mencari" },
+            { "left": "turn off", "right": "mematikan" },
+            { "left": "pick up", "right": "menjemput" },
+            { "left": "put on", "right": "memakai (pakaian)" },
+            { "left": "call back", "right": "menelepon balik" }
+          ],
+          "explanation": "Hafalkan arti phrasal verbs sebagai satu kesatuan, bukan kata per kata."
+        },
+        {
+          "id": "a2-u10-l3-q3", "type": "fill_blank", "category": "vocabulary", "topic": "phrasal verbs", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct particle (one word).",
+          "text": "I can't find my keys. Can you help me look ___ them? And please turn ___ your phones during the meeting.",
+          "answers": [["for"], ["off"]],
+          "explanation": "Mencari = look for. Mematikan ponsel = turn off."
+        },
+        {
+          "id": "a2-u10-l3-q4", "type": "error_identification", "category": "grammar", "topic": "phrasal verbs", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentences.",
+          "segments": ["My phone", "is ringing.", "Can you", "pick up it?"],
+          "errorIndex": 3, "correction": "pick it up?",
+          "explanation": "Dengan pronoun (it), letakkan di tengah: pick it up."
+        },
+        {
+          "id": "a2-u10-l3-q5", "type": "drag_drop", "category": "vocabulary", "topic": "phrasal verbs", "difficulty": 2, "stage": "quiz",
+          "prompt": "Drag the correct phrasal verbs into the gaps.",
+          "text": "It's cold outside, so ___ your jacket. And don't forget to ___ the lights before you leave.",
+          "bank": ["put on", "turn off", "take off", "look for", "get up"],
+          "answers": ["put on", "turn off"],
+          "explanation": "Dingin → pakai jaket (put on). Sebelum pergi → matikan lampu (turn off)."
+        },
+        {
+          "id": "a2-u10-l3-q6", "type": "word_order", "category": "grammar", "topic": "phrasal verbs", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["She", "took", "her", "shoes", "off", "at", "the", "door."],
+          "acceptedAnswers": ["She took off her shoes at the door."],
+          "explanation": "Take off bersifat separable: took her shoes off atau took off her shoes."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u10-l4-will-promises-predictions",
+      "title": "Will for Promises and Predictions",
+      "summary": "Berjanji dengan I'll / I won't dan membuat prediksi berdasarkan pendapat dengan will.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan will / won't untuk berjanji",
+        "Menggunakan I think / I don't think + will untuk prediksi berdasarkan pendapat",
+        "Membedakan prediksi dengan will dan be going to"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Will: dari keputusan spontan ke janji dan prediksi\nDi Unit 5 kamu memakai **will** untuk keputusan spontan dan tawaran. Sekarang kita menambahkan dua fungsi lagi: **janji** (*promises*) dan **prediksi** (*predictions*).\n\n### 1. Janji (promises)\n- *I'**ll call** you back in ten minutes.* (Saya akan menelepon balik.)\n- *I **won't tell** anyone. I promise.* (Saya tidak akan memberi tahu siapa pun.)\n- *I'**ll give** your book back on Monday.*\n\nUntuk menekankan janji, tambahkan **I promise** di awal atau akhir. Negatifnya **won't** (will not) /wəʊnt/ — jangan tertukar dengan *want* /wɒnt/.\n\n### 2. Prediksi berdasarkan pendapat\nKita memakai **will** untuk prediksi tentang masa depan yang didasarkan pada **pendapat, pengalaman, atau perkiraan** — bukan bukti yang terlihat sekarang.\n\n| Ungkapan | Contoh |\n| --- | --- |\n| I think + will | *I think it **will** rain tomorrow.* |\n| I don't think + will | *I **don't think** she**'ll** come.* |\n| probably | *It **will probably** be cold in the mountains.* |\n| I'm sure | *I'm sure you**'ll** pass the exam.* |\n\nPerhatikan: penutur asli lebih sering berkata ***I don't think** it will rain* daripada *I think it won't rain*.\n\n### Will vs be going to untuk prediksi\n| will | be going to |\n| --- | --- |\n| pendapat / perkiraan | ada **bukti sekarang** |\n| *I think Indonesia will be very hot in 2050.* | *Look at those clouds! It's going to rain.* |\n\n### Pola\n- Positif: subject + **will ('ll)** + base verb\n- Negatif: subject + **won't** + base verb\n- Pertanyaan: **Will** + subject + base verb? — *Will you be home tonight? — Yes, I will. / No, I won't.*\n\n### Kesalahan umum\n- ✗ *I will to call you.* → ✓ *I will call you.*\n- ✗ *I won't to forget.* → ✓ *I won't forget.*\n- ✗ *She wills come.* → ✓ *She will come.* (will tidak berubah)",
+        "examples": [
+          { "en": "I'll call you back in ten minutes, I promise.", "id": "Saya akan meneleponmu balik dalam sepuluh menit, saya janji.", "note": "janji" },
+          { "en": "Don't worry. I won't tell anyone your secret.", "id": "Jangan khawatir. Saya tidak akan memberi tahu siapa pun rahasiamu.", "note": "won't = will not" },
+          { "en": "I think people will work from home more in the future.", "id": "Menurut saya orang akan lebih banyak bekerja dari rumah di masa depan.", "note": "prediksi berdasarkan pendapat" },
+          { "en": "I don't think the shop will be open on Sunday.", "id": "Menurut saya tokonya tidak akan buka hari Minggu.", "note": "I don't think + will" }
+        ],
+        "vocabulary": [
+          { "word": "promise", "pos": "verb/noun", "ipa": "/ˈprɒmɪs/", "meaning": "berjanji; janji", "example": "I promise I'll be on time." },
+          { "word": "secret", "pos": "noun", "ipa": "/ˈsiːkrət/", "meaning": "rahasia", "example": "Can you keep a secret?" },
+          { "word": "probably", "pos": "adverb", "ipa": "/ˈprɒbəbli/", "meaning": "mungkin, kemungkinan besar", "example": "She'll probably be late." },
+          { "word": "future", "pos": "noun", "ipa": "/ˈfjuːtʃə/", "meaning": "masa depan", "example": "What will cities look like in the future?" },
+          { "word": "sure", "pos": "adjective", "ipa": "/ʃɔː/", "meaning": "yakin", "example": "I'm sure you'll love it." }
+        ],
+        "grammar": [
+          { "pattern": "I'll / I won't + base verb (+ I promise)", "example": "I won't be late, I promise.", "note": "Janji." },
+          { "pattern": "I think / I don't think + subject + will + base verb", "example": "I don't think it will snow.", "note": "Prediksi berdasarkan pendapat." },
+          { "pattern": "subject + will probably + base verb", "example": "Prices will probably go up.", "note": "probably setelah will." }
+        ],
+        "mistakes": [
+          { "wrong": "I will to call you tomorrow.", "right": "I will call you tomorrow.", "why": "Setelah will langsung bentuk dasar tanpa to." },
+          { "wrong": "I think it won't rain tomorrow.", "right": "I don't think it will rain tomorrow.", "why": "Lebih alami membuat think yang negatif: I don't think ... will." },
+          { "wrong": "I promise I don't forget.", "right": "I promise I won't forget.", "why": "Janji untuk masa depan memakai won't." }
+        ],
+        "summary": "**will / won't + base verb** untuk **janji** (*I'll call you back. I won't forget.*) dan **prediksi berdasarkan pendapat** (*I think it will rain. I don't think she'll come.*). Untuk prediksi dengan **bukti sekarang**, pakai *be going to*.",
+        "reviewCards": [
+          { "front": "Saya tidak akan memberi tahu siapa pun.", "back": "I won't tell anyone." },
+          { "front": "Menurut saya dia tidak akan datang.", "back": "I don't think she'll come." },
+          { "front": "will not (singkat)", "back": "won't /wəʊnt/" },
+          { "front": "Prediksi: pendapat vs bukti", "back": "pendapat → will; bukti sekarang → going to" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u10-l4-q1", "type": "single_choice", "category": "grammar", "topic": "will for promises", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option: Don't worry, I ___ tell anyone your secret.",
+          "options": ["won't", "don't", "am not", "willn't"], "answer": 0,
+          "explanation": "Janji untuk masa depan dalam bentuk negatif → won't (will not).",
+          "misconception": "Memakai don't untuk janji tentang masa depan."
+        },
+        {
+          "id": "a2-u10-l4-q2", "type": "fill_blank", "category": "grammar", "topic": "will for predictions", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with will or won't.",
+          "text": "I think it ___ be sunny tomorrow, but I don't think it ___ be very hot.",
+          "answers": [["will", "'ll"], ["will"]],
+          "explanation": "I think + will. Dengan I don't think, kata kerja berikutnya tetap will (bukan won't)."
+        },
+        {
+          "id": "a2-u10-l4-q3", "type": "matching", "category": "conversation", "topic": "will for promises", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each situation with the best promise.",
+          "pairs": [
+            { "left": "Your friend lent you a book.", "right": "I'll give it back on Monday, I promise." },
+            { "left": "You missed your mum's call.", "right": "I'll call you back in ten minutes." },
+            { "left": "Your boss needs the report today.", "right": "I'll send it to you before five." },
+            { "left": "Your friend told you a secret.", "right": "I won't tell anyone." }
+          ],
+          "explanation": "Setiap janji memakai I'll / I won't + base verb."
+        },
+        {
+          "id": "a2-u10-l4-q4", "type": "error_identification", "category": "grammar", "topic": "will for promises", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["I", "will", "to call", "you tomorrow."],
+          "errorIndex": 2, "correction": "call",
+          "explanation": "Setelah will langsung bentuk dasar tanpa to: will call."
+        },
+        {
+          "id": "a2-u10-l4-q5", "type": "single_choice", "category": "grammar", "topic": "will for predictions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct option: I don't think people ___ use paper money in 2060.",
+          "options": ["will", "will to", "are going", "using"], "answer": 0,
+          "explanation": "Pola prediksi pendapat: I don't think + subject + will + base verb."
+        },
+        {
+          "id": "a2-u10-l4-q6", "type": "sentence_transformation", "category": "grammar", "topic": "will for promises", "difficulty": 2, "stage": "quiz",
+          "prompt": "Rewrite the promise with won't.",
+          "sentence": "I promise to be on time.",
+          "cue": "Begin with: I promise I won't ...",
+          "answers": ["I promise I won't be late.", "I promise I will not be late."],
+          "explanation": "Tepat waktu = tidak terlambat → I promise I won't be late."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u10-l5-phone-calls-emails",
+      "title": "Phone Calls, Messages and Informal Emails",
+      "summary": "Ungkapan menelepon, mencatat pesan, dan menulis email informal singkat.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan ungkapan standar saat menelepon",
+        "Mencatat dan meninggalkan pesan",
+        "Menulis email informal singkat dengan pembuka dan penutup yang tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis email informal, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menelepon\n| Situasi | Ungkapan |\n| --- | --- |\n| Mengangkat telepon (kantor) | *Good morning, Sunrise Travel. How can I help you?* |\n| Memperkenalkan diri | *Hello, **this is** Rina from Blue Ocean Hotel.* (bukan ✗ *I am Rina*) |\n| Meminta bicara dengan seseorang | *Could I speak to Mr. Lee, please?* |\n| Meminta menunggu | *Hold on, please. / Just a moment.* |\n| Menyambungkan | *I'll put you through.* |\n| Orangnya tidak ada | *I'm sorry, he's not available. / She's in a meeting.* |\n| Menawarkan mencatat pesan | *Can I take a message?* |\n| Meninggalkan pesan | *Could you ask him to call me back, please?* |\n| Meminta mengulang | *Sorry, could you repeat that?* |\n| Menutup | *Thanks for calling. Bye!* |\n\nPerhatikan: di telepon, kita berkata **This is...** untuk memperkenalkan diri, dan **Is that...?** untuk menanyakan siapa yang bicara: *Is that Dimas?*\n\n### Mencatat pesan\nPesan yang baik berisi: **untuk siapa, dari siapa, waktu, isi pesan, nomor telepon**.\n\n*Message for: Mr. Arif — From: Ms. Linda — Time: 10:15 — The meeting on Thursday is cancelled. Please call her back before 4 p.m.*\n\n### Email informal\nEmail untuk teman atau keluarga memakai bahasa santai.\n\n| Bagian | Contoh |\n| --- | --- |\n| Salam pembuka | *Hi Tasya, / Hello Rudi,* |\n| Kalimat pembuka | *Thanks for your email. / How are you? / It was great to hear from you.* |\n| Isi | kabar, rencana, pertanyaan |\n| Kalimat penutup | *Write back soon! / See you on Saturday! / Let me know.* |\n| Salam penutup | *Love, / Best wishes, / Take care, / See you soon,* + nama |\n\n*Dear Sir or Madam* dan *Yours faithfully* hanya untuk email **formal**.\n\n### Contoh email informal\n*Hi Tasya,*\n*Thanks for your email! I'm sorry I didn't reply sooner — I was really busy at work last week. Guess what? I'm going to visit Bandung next month! Would you like to meet for lunch? I'll be there from 12 to 15 May. Let me know which day is good for you.*\n*See you soon,*\n*Maya*\n\nPerhatikan bagaimana email ini memakai banyak tata bahasa A2: past simple, be going to, Would you like to...?, dan will.",
+        "examples": [
+          { "en": "Hello, this is Rina from Blue Ocean Hotel. Could I speak to Mr. Lee, please?", "id": "Halo, ini Rina dari Hotel Blue Ocean. Bisa saya bicara dengan Pak Lee?", "note": "this is untuk memperkenalkan diri di telepon" },
+          { "en": "I'm sorry, she's in a meeting. Can I take a message?", "id": "Maaf, dia sedang rapat. Ada pesan yang ingin disampaikan?", "note": "menawarkan mencatat pesan" },
+          { "en": "Could you ask him to call me back, please?", "id": "Bisakah Anda memintanya menelepon saya balik?", "note": "meninggalkan pesan" },
+          { "en": "Thanks for your email. It was great to hear from you!", "id": "Terima kasih atas emailmu. Senang sekali mendapat kabar darimu!", "note": "pembuka email informal" }
+        ],
+        "vocabulary": [
+          { "word": "hold on", "pos": "phrasal verb", "ipa": "/həʊld ɒn/", "meaning": "tunggu sebentar (di telepon)", "example": "Hold on, please. I'll get her." },
+          { "word": "message", "pos": "noun", "ipa": "/ˈmesɪdʒ/", "meaning": "pesan", "example": "Can I take a message?" },
+          { "word": "available", "pos": "adjective", "ipa": "/əˈveɪləbl/", "meaning": "ada, bisa dihubungi", "example": "Mr. Lee isn't available right now." },
+          { "word": "reply", "pos": "verb/noun", "ipa": "/rɪˈplaɪ/", "meaning": "membalas; balasan", "example": "Sorry I didn't reply sooner." },
+          { "word": "hear from", "pos": "phrasal verb", "ipa": "/hɪə frɒm/", "meaning": "mendapat kabar dari", "example": "It was lovely to hear from you." },
+          { "word": "put through", "pos": "phrasal verb", "ipa": "/pʊt θruː/", "meaning": "menyambungkan (telepon)", "example": "Just a moment, I'll put you through." }
+        ],
+        "grammar": [
+          { "pattern": "This is + name (+ from + company)", "example": "This is Joko from Star Printing.", "note": "Memperkenalkan diri di telepon." },
+          { "pattern": "Could you ask + him/her + to + base verb?", "example": "Could you ask her to email me?", "note": "Meninggalkan pesan." }
+        ],
+        "mistakes": [
+          { "wrong": "Hello, I am Rina. (di telepon)", "right": "Hello, this is Rina.", "why": "Di telepon kita memperkenalkan diri dengan This is ..." },
+          { "wrong": "Dear Sir, how are you bro?", "right": "Hi Andi, how are you?", "why": "Jangan campur gaya formal dan informal. Untuk teman pakai Hi + nama." },
+          { "wrong": "Can you call back me?", "right": "Can you call me back?", "why": "Call back separable: pronoun di tengah (call me back)." }
+        ],
+        "summary": "Di telepon: **This is...**, **Could I speak to...?**, **Hold on, please**, **Can I take a message?**, **Could you ask him to call me back?** Email informal: **Hi + nama**, **Thanks for your email**, isi, **See you soon / Best wishes + nama**.",
+        "reviewCards": [
+          { "front": "Memperkenalkan diri di telepon", "back": "Hello, this is ..." },
+          { "front": "Tunggu sebentar (telepon)", "back": "Hold on, please. / Just a moment." },
+          { "front": "Ada pesan yang mau disampaikan?", "back": "Can I take a message?" },
+          { "front": "Penutup email informal", "back": "See you soon, / Best wishes, / Take care, + nama" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u10-l5-q1", "type": "dialogue_completion", "category": "conversation", "topic": "phone calls", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best line for the caller.",
+          "dialogue": [
+            { "speaker": "Receptionist", "text": "Good morning, Sunrise Travel. How can I help you?" },
+            { "speaker": "Caller", "text": null },
+            { "speaker": "Receptionist", "text": "Just a moment, I'll put you through." }
+          ],
+          "options": ["Hello, could I speak to Mr. Lee, please?", "Hello, this is speaking.", "Who are you?", "I'll call you back."], "answer": 0,
+          "explanation": "Resepsionis menyambungkan telepon, jadi penelepon pasti meminta bicara dengan seseorang.",
+          "misconception": "Memperkenalkan diri dengan pola yang salah."
+        },
+        {
+          "id": "a2-u10-l5-q2", "type": "essay", "category": "writing", "topic": "informal emails", "difficulty": 3, "stage": "independent",
+          "prompt": "Write a short informal email to a friend. Thank them for their last email, tell them one piece of news from last week, tell them about a plan for next month, and invite them to do something with you.",
+          "minWords": 60, "maxWords": 120, "rubric": "general-writing",
+          "explanation": "Gunakan Hi + nama, Thanks for your email, past simple untuk kabar, be going to untuk rencana, Would you like to...? untuk undangan, dan penutup seperti See you soon."
+        },
+        {
+          "id": "a2-u10-l5-q3", "type": "matching", "category": "conversation", "topic": "phone calls", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each phone phrase with its meaning.",
+          "pairs": [
+            { "left": "Hold on, please.", "right": "Please wait a moment." },
+            { "left": "Can I take a message?", "right": "Can I write down information for that person?" },
+            { "left": "I'll call you back.", "right": "I'll phone you again later." },
+            { "left": "I'll put you through.", "right": "I'll connect you to the person you want." }
+          ],
+          "explanation": "hold on = tunggu; take a message = mencatat pesan; call back = menelepon balik; put through = menyambungkan."
+        },
+        {
+          "id": "a2-u10-l5-q4", "type": "single_choice", "category": "writing", "topic": "informal emails", "difficulty": 1, "stage": "quiz",
+          "prompt": "What is the best way to start an informal email to your friend Tasya?",
+          "options": ["Hi Tasya,", "Dear Sir or Madam,", "To whom it may concern,", "Yours faithfully,"], "answer": 0,
+          "explanation": "Email informal untuk teman dimulai dengan Hi + nama. Pilihan lain untuk surat formal."
+        },
+        {
+          "id": "a2-u10-l5-q5", "type": "single_choice", "category": "reading", "topic": "phone messages", "difficulty": 2, "stage": "quiz",
+          "prompt": "Read the phone message. What does Ms. Linda want Mr. Arif to do?",
+          "context": "**Message for:** Mr. Arif\n**From:** Ms. Linda (Blue Ocean Hotel)\n**Time:** 10:15\n**Message:** The meeting on Thursday is cancelled. Please call her back before 4 p.m. on 0812-555-0198.",
+          "options": ["Call her back before 4 p.m.", "Go to the meeting on Thursday.", "Send her an email.", "Book a room at the hotel."], "answer": 0,
+          "explanation": "Pesan: Please call her back before 4 p.m. Rapat hari Kamis justru dibatalkan."
+        },
+        {
+          "id": "a2-u10-l5-q6", "type": "sentence_reconstruction", "category": "writing", "topic": "informal emails", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make two sentences from an email.",
+          "fragments": ["Thanks for your email.", "I'm sorry I didn't reply", "sooner, but I was", "very busy at work", "last week."],
+          "explanation": "Pembuka email (Thanks for your email.) lalu permintaan maaf dengan alasan dalam past simple."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u10-t-q1", "type": "single_choice", "category": "conversation", "topic": "polite requests", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct word: ___ you tell me the way to the station, please?",
+      "options": ["Could", "Would like", "Do", "Are"], "answer": 0,
+      "explanation": "Permintaan sopan: Could you + base verb + please?"
+    },
+    {
+      "id": "a2-u10-t-q2", "type": "fill_blank", "category": "vocabulary", "topic": "phrasal verbs", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Complete with the correct particle (one word).",
+      "text": "I usually get ___ at six, but on Sundays I stay in bed until nine.",
+      "answers": [["up"]],
+      "explanation": "Bangun dari tempat tidur = get up."
+    },
+    {
+      "id": "a2-u10-t-q3", "type": "dropdown", "category": "conversation", "topic": "would you like", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ you like a piece of cake? B: Yes, ___. It looks delicious.",
+      "choices": [["Would", "Do"], ["please", "I like"]],
+      "answers": [0, 0],
+      "explanation": "Tawaran → Would you like...? Jawaban → Yes, please."
+    },
+    {
+      "id": "a2-u10-t-q4", "type": "error_identification", "category": "grammar", "topic": "will for promises", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["I", "promise", "I", "won't to forget", "your birthday this year."],
+      "errorIndex": 3, "correction": "won't forget",
+      "explanation": "Setelah won't langsung bentuk dasar tanpa to."
+    },
+    {
+      "id": "a2-u10-t-q5", "type": "sentence_transformation", "category": "grammar", "topic": "phrasal verbs", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Make a polite request. Replace the TV with it.",
+      "sentence": "Turn off the TV.",
+      "cue": "Begin with: Could you turn ...",
+      "answers": ["Could you turn it off, please?", "Could you turn it off?"],
+      "explanation": "Pronoun (it) diletakkan di tengah phrasal verb: turn it off."
+    },
+    {
+      "id": "a2-u10-t-q6", "type": "dialogue_completion", "category": "conversation", "topic": "phone calls", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best line for the caller.",
+      "dialogue": [
+        { "speaker": "Caller", "text": "Hi, could I speak to Dewi, please?" },
+        { "speaker": "Dewi's brother", "text": "Sorry, she's out at the moment." },
+        { "speaker": "Caller", "text": null },
+        { "speaker": "Dewi's brother", "text": "Sure, no problem." }
+      ],
+      "options": ["Could you ask her to call me back, please?", "Could you call me back her?", "I'll take a message.", "Hold on, please."], "answer": 0,
+      "explanation": "Dewi tidak ada, jadi penelepon meninggalkan pesan: Could you ask her to call me back?"
+    },
+    {
+      "id": "a2-u10-t-q7", "type": "translation", "category": "grammar", "topic": "will for promises", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Saya akan meneleponmu nanti malam. Saya janji.", "direction": "id-en",
+      "answers": [
+        "I'll call you tonight. I promise.",
+        "I will call you tonight. I promise.",
+        "I'll phone you tonight. I promise.",
+        "I will phone you tonight. I promise.",
+        "I'll call you this evening. I promise.",
+        "I'll call you tonight, I promise.",
+        "I promise I'll call you tonight."
+      ],
+      "explanation": "Janji → I'll + base verb. Nanti malam = tonight."
+    }
+  ]
+}

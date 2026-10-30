@@ -1,0 +1,894 @@
+{
+  "slug": "c2-u07-noun-phrases",
+  "number": 7,
+  "title": "Academic Precision",
+  "description": "Build dense but readable academic noun phrases through pre- and post-modification and apposition, and report research with precise quantifiers and carefully hedged generalisations.",
+  "objectives": [
+    "Order complex premodifiers correctly and avoid over-stacked noun strings",
+    "Use prepositional phrases, reduced relatives, to-infinitives and appositive that-clauses as postmodifiers",
+    "Punctuate restrictive and non-restrictive apposition and use namely, i.e. and such as accurately",
+    "Choose quantifiers that match countability, agreement and the strength of the evidence",
+    "Formulate generalisations that are cautious, accurate and appropriately qualified"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u07-l1-premodification",
+      "title": "Complex Premodification",
+      "summary": "Pack precise information into the space before a noun by ordering adverbs, adjectives, compound modifiers and noun modifiers correctly.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Order determiners, adverbs, adjectives and noun modifiers before a head noun",
+        "Form hyphenated compound premodifiers such as a three-year, state-funded study",
+        "Recognise and unpack over-stacked noun strings"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why premodification matters in academic writing\nAcademic prose is famous for its **heavy noun phrases**. Instead of writing *a study which was large, which lasted ten years and which followed the same people over time*, a researcher writes *a large-scale, ten-year longitudinal study*. Everything before the head noun (*study*) is **premodification**. Used well, it is compact and precise; used badly, it becomes an unreadable pile of nouns.\n\n### The typical order\n| Slot | Function | Example |\n|---|---|---|\n| 1 | determiner / quantifier | *a, the, these, three* |\n| 2 | adverb modifying the next adjective | *highly, remarkably, newly* |\n| 3 | evaluative or descriptive adjective | *influential, detailed, well-preserved* |\n| 4 | size / age / period | *large-scale, nineteenth-century* |\n| 5 | origin or classifying adjective | *Roman, economic, clinical* |\n| 6 | noun modifier (purpose or type) | *trading, pilot, literacy* |\n| 7 | **head noun** | *vessel, scheme, study* |\n\n*a remarkably well-preserved Roman trading vessel* follows this order exactly. The closer a modifier is to the head, the more it **classifies** (says what kind) rather than **describes**. That is why a noun modifier such as *pilot* or *trading* must sit immediately before the head: ✗ *a pilot government-funded scheme* is wrong; ✓ *a government-funded pilot scheme* is right.\n\n### Compound premodifiers\nMany academic premodifiers are compounds, usually hyphenated before the noun:\n- **number + noun**: *a three-year project, a five-million-euro grant* – the noun stays **singular** (✗ *a three-years project*).\n- **noun/adverb + past participle**: *state-funded, peer-reviewed, well-documented*.\n- **adjective + noun**: *large-scale, long-term, low-income*.\n\nAfter the noun or a linking verb these compounds usually lose the hyphen: *a well-known author* but *The author is well known.* Adverbs ending in *-ly* are not hyphenated: *a highly influential theory*. Note also that an adverb, not an adjective, modifies a participle: *the **newly** elected governor* (✗ *the new elected governor*).\n\n### When to stop stacking\nEnglish allows noun + noun + noun, but long strings force readers to work backwards: *the university student accommodation rent increase protest committee*. A good rule is no more than **two or three** modifiers before the head; move the rest into **postmodification** (Lesson 2): *the committee organising protests against rent increases in university student accommodation*.\n\n### Checklist\n1. Is the head noun clear?\n2. Are classifying modifiers next to the head?\n3. Are number compounds singular and hyphenated?\n4. Would a reader understand the phrase on first reading? If not, unpack it.",
+        "examples": [
+          { "en": "The team published a large-scale, ten-year longitudinal study of coastal communities.", "id": "Tim itu menerbitkan studi longitudinal berskala besar selama sepuluh tahun tentang komunitas pesisir.", "note": "Size compound + number compound + classifying adjective + head noun." },
+          { "en": "Divers discovered a remarkably well-preserved Roman trading vessel.", "id": "Para penyelam menemukan kapal dagang Romawi yang terawat dengan sangat baik.", "note": "Adverb + evaluative compound + origin + noun modifier + head." },
+          { "en": "The council launched a government-funded pilot scheme for low-income tenants.", "id": "Dewan meluncurkan skema percontohan yang didanai pemerintah untuk penyewa berpenghasilan rendah.", "note": "'Pilot' classifies the scheme, so it sits next to the head noun." },
+          { "en": "The newly appointed director outlined a five-point recovery plan.", "id": "Direktur yang baru diangkat itu memaparkan rencana pemulihan lima poin.", "note": "'Newly' (adverb) modifies the participle; 'five-point' stays singular." },
+          { "en": "Her findings appeared in a peer-reviewed journal, so they are well documented.", "id": "Temuannya dimuat di jurnal yang ditelaah sejawat, sehingga terdokumentasi dengan baik.", "note": "Hyphen before the noun (peer-reviewed journal), no hyphen after a linking verb (well documented)." }
+        ],
+        "vocabulary": [
+          { "word": "longitudinal", "pos": "adjective", "ipa": "/ˌlɒŋɡɪˈtjuːdɪnl/", "meaning": "longitudinal; (studi) yang mengamati subjek yang sama dalam jangka waktu panjang", "example": "A longitudinal study followed the same 800 children for fifteen years." },
+          { "word": "large-scale", "pos": "adjective", "ipa": "/ˌlɑːdʒ ˈskeɪl/", "meaning": "berskala besar", "example": "Large-scale surveys are expensive but statistically powerful." },
+          { "word": "peer-reviewed", "pos": "adjective", "ipa": "/ˌpɪə rɪˈvjuːd/", "meaning": "ditelaah oleh sejawat (pakar sebidang)", "example": "Only peer-reviewed sources were included in the review." },
+          { "word": "cross-sectional", "pos": "adjective", "ipa": "/ˌkrɒs ˈsekʃənl/", "meaning": "potong lintang; (studi) yang mengambil data pada satu titik waktu", "example": "A cross-sectional design cannot establish cause and effect." },
+          { "word": "premodifier", "pos": "noun", "ipa": "/priːˈmɒdɪfaɪə/", "meaning": "unsur penjelas yang diletakkan sebelum kata benda inti", "example": "In 'a pilot scheme', the word 'pilot' is a noun premodifier." },
+          { "word": "head noun", "pos": "noun", "ipa": "/ˈhed naʊn/", "meaning": "kata benda inti dalam frasa nomina", "example": "Identify the head noun before you check subject–verb agreement." }
+        ],
+        "grammar": [
+          { "pattern": "determiner + adverb + adjective + classifying adjective + noun modifier + head noun", "example": "a highly influential early economic reform programme", "note": "Classifying modifiers stay closest to the head." },
+          { "pattern": "number + singular noun (hyphenated) + head noun", "example": "a six-month internship; a two-hour delay", "note": "Never pluralise the noun inside the compound." },
+          { "pattern": "-ly adverb + past participle + noun (no hyphen)", "example": "a newly elected mayor; a widely cited article", "note": "Use an adverb, not an adjective, before a participle." }
+        ],
+        "mistakes": [
+          { "wrong": "The ministry announced a ten-years plan.", "right": "The ministry announced a ten-year plan.", "why": "In a number compound used before a noun, the noun stays singular." },
+          { "wrong": "They funded a pilot government-funded scheme.", "right": "They funded a government-funded pilot scheme.", "why": "The noun modifier 'pilot' classifies the scheme and must sit directly before the head noun." },
+          { "wrong": "The new elected governor gave a speech.", "right": "The newly elected governor gave a speech.", "why": "A participle is modified by an adverb, not by an adjective." },
+          { "wrong": "the city council housing benefit application processing delay problem", "right": "the problem of delays in processing housing benefit applications at the city council", "why": "Stacks of five or more nouns are hard to decode; move information into postmodification." }
+        ],
+        "summary": "Premodification lets you compress information before a head noun: adverbs and evaluative adjectives come first, classifying adjectives and noun modifiers come last. Number compounds are hyphenated and singular (a three-year study), and participles take adverbs (newly elected). When more than about three modifiers pile up, unpack the phrase with postmodification.",
+        "reviewCards": [
+          { "front": "Correct order: pilot / government-funded / a / scheme", "back": "a government-funded pilot scheme" },
+          { "front": "a ten-years plan or a ten-year plan?", "back": "a ten-year plan – the noun in a number compound stays singular." },
+          { "front": "the new elected governor → ?", "back": "the newly elected governor (adverb + participle)" },
+          { "front": "a well-known author → after a linking verb?", "back": "The author is well known (no hyphen in predicative position)." },
+          { "front": "longitudinal study", "back": "studi longitudinal – mengamati subjek yang sama dalam jangka panjang" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u07-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "premodification",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which noun phrase is correctly formed?",
+          "instructions": "Check three things: number compounds stay singular, noun modifiers sit next to the head noun, and the participle compound keeps its passive meaning.",
+          "options": [
+            "a two-year government-funded pilot scheme",
+            "a two-years government-funded pilot scheme",
+            "a two-year pilot government-funded scheme",
+            "a two-year government-funding pilot scheme"
+          ],
+          "answer": 0,
+          "explanation": "The first option is correct: the number compound is singular (two-year), the classifying noun 'pilot' sits next to the head 'scheme', and 'government-funded' means 'funded by the government'. 'Two-years' wrongly pluralises the compound; 'pilot' cannot be separated from its head; 'government-funding' would mean the scheme funds the government.",
+          "misconception": "Learners often pluralise the noun in number compounds because the number is greater than one."
+        },
+        {
+          "id": "c2-u07-l1-q2",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "premodification",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Compress the information into a single noun phrase.",
+          "instructions": "Turn the duration and the source of funding into hyphenated premodifiers.",
+          "sentence": "The study lasted ten years. It was funded by the state. It examined rural literacy.",
+          "cue": "Write one noun phrase beginning: A ten-year ...",
+          "answers": [
+            "A ten-year, state-funded study of rural literacy",
+            "A ten-year state-funded study of rural literacy",
+            "A ten-year, state-funded study examining rural literacy",
+            "A ten-year state-funded study examining rural literacy",
+            "A ten-year, state-funded study that examined rural literacy",
+            "A ten-year state-funded study that examined rural literacy",
+            "A ten-year state-funded rural literacy study",
+            "A ten-year, state-funded rural literacy study",
+            "A ten-year state-funded study into rural literacy",
+            "A ten-year state-funded study on rural literacy"
+          ],
+          "explanation": "'Lasted ten years' becomes the number compound ten-year (singular), 'funded by the state' becomes state-funded, and the topic can follow as a postmodifier (of rural literacy) or precede the head as a noun modifier (rural literacy study)."
+        },
+        {
+          "id": "c2-u07-l1-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "compound premodifiers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete each gap with a hyphenated compound premodifier based on the information in brackets.",
+          "text": "The council approved a ___ project (a project that lasts six months) and a ___ report (a report that has 300 pages).",
+          "answers": [
+            ["six-month", "six month", "6-month", "6 month"],
+            ["300-page", "300 page", "three-hundred-page", "three hundred page", "three-hundred page"]
+          ],
+          "explanation": "Before a noun, number + noun compounds are singular: a six-month project, a 300-page report. 'Six-months' and '300-pages' are errors because the compound functions like an adjective, and adjectives do not take plural endings."
+        },
+        {
+          "id": "c2-u07-l1-q4",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "premodifier order",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Put the words in order to make a correct sentence.",
+          "words": ["Divers", "found", "a", "remarkably", "well-preserved", "Roman", "trading", "vessel"],
+          "explanation": "The adverb 'remarkably' modifies 'well-preserved'; the evaluative/condition modifier comes before the origin adjective 'Roman', and the noun modifier 'trading' (what kind of vessel) sits directly before the head noun."
+        },
+        {
+          "id": "c2-u07-l1-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "premodification",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["Supporters gathered outside", "the town hall to greet", "the new elected", "regional governor", "on Monday morning."],
+          "errorIndex": 2,
+          "correction": "the newly elected",
+          "explanation": "A past participle used as a premodifier is modified by an adverb: newly elected, recently published, widely cited. 'New elected' uses an adjective where an adverb is required. The other segments are correct; 'regional' is a classifying adjective placed next to the head 'governor'."
+        },
+        {
+          "id": "c2-u07-l1-q6",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "noun strings",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "An editor marks 'the university student accommodation rent increase protest committee' as hard to read. Which rewrite is correct and clear?",
+          "options": [
+            "the committee organising protests against rent increases in university student accommodation",
+            "the committee of protest of increase of rent of accommodation of students of the university",
+            "the university's student's accommodation's rent's increase protest committee",
+            "the protest committee that rent increase in university student accommodation"
+          ],
+          "answer": 0,
+          "explanation": "The first option keeps the head noun 'committee' up front and moves the rest into a participle phrase and prepositional phrases. The second is a clumsy chain of 'of' phrases, the third misuses possessives, and the fourth has a relative clause with no verb, so it is ungrammatical."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u07-l2-postmodification",
+      "title": "Complex Postmodification",
+      "summary": "Add precise information after a head noun with prepositional phrases, relative and reduced relative clauses, to-infinitives and appositive that-clauses.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use reduced relative clauses (-ing and -ed participles) after nouns",
+        "Use to-infinitive postmodifiers after the first, the last, the only and nouns such as decision or attempt",
+        "Distinguish appositive that-clauses (the claim that ...) from relative that-clauses"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Information after the noun\nWhere premodification is limited to a few words, **postmodification** can carry long, detailed information after the head noun. Academic writers rely on it to define exactly *which* thing they mean.\n\n| Type | Example (head noun in bold) |\n|---|---|\n| prepositional phrase | the **impact** *of tourism on coastal villages* |\n| full relative clause | the **samples** *that were collected in 2019* |\n| reduced relative (-ed) | the **samples** *collected in 2019* |\n| reduced relative (-ing) | the **researchers** *analysing the data* |\n| to-infinitive | the first **person** *to reach the summit* |\n| appositive that-clause | the **claim** *that the drug is safe* |\n\n### Reduced relative clauses\nA relative clause with a passive or progressive verb can usually be shortened:\n- *the samples **which were collected** in 2019* → *the samples **collected** in 2019* (passive meaning → -ed)\n- *the researchers **who are analysing** the data* → *the researchers **analysing** the data* (active meaning → -ing)\n\nChoose the participle by meaning: *the samples collecting in 2019* is wrong because samples do not collect anything. An -ing postmodifier can also replace a simple-tense active verb: *students **living** off campus* = students who live off campus.\n\n### To-infinitive postmodifiers\nAfter **the first, the last, the only, the next** and superlatives, English uses a to-infinitive: *She was **the only member to vote** against the motion.* Nouns derived from verbs that take a to-infinitive keep that pattern: *the **decision to suspend** the programme, an **attempt to reduce** costs, their **refusal to comment**.*\n\n### Appositive that-clauses\nSome abstract nouns – *claim, fact, belief, idea, news, notion, suggestion, assumption, evidence* – can be followed by a **that-clause that states their content**:\n- *The **news that the bridge had collapsed** spread quickly.* (the news = the bridge had collapsed)\n\nThis is not a relative clause. In a relative clause, *that* is a pronoun with a role inside the clause and can be replaced by *which*: *The news **that/which she brought** was alarming.* (she brought the news). In an appositive clause, *that* is a conjunction, cannot become *which*, and the clause is complete without the noun.\n\n### Common pitfalls\n- Do not add a resumptive pronoun: ✗ *the proposal that the board rejected **it***.\n- Keep the verb agreeing with the head noun, not the nearest noun: *The **impact** of the new regulations **has** been limited.*\n- Avoid burying the main verb under too many layers; two levels of postmodification is usually the limit for clarity.",
+        "examples": [
+          { "en": "The samples collected in the crater are now stored at Westmere University.", "id": "Sampel yang dikumpulkan di kawah itu kini disimpan di Universitas Westmere.", "note": "Reduced passive relative clause." },
+          { "en": "Researchers analysing the data have found an unexpected pattern.", "id": "Para peneliti yang menganalisis data tersebut menemukan pola yang tak terduga.", "note": "Reduced active relative clause with -ing." },
+          { "en": "She was the first scientist to map the reef in detail.", "id": "Ia adalah ilmuwan pertama yang memetakan terumbu itu secara rinci.", "note": "To-infinitive after 'the first'." },
+          { "en": "The assumption that growth will continue indefinitely is rarely questioned.", "id": "Asumsi bahwa pertumbuhan akan terus berlangsung tanpa batas jarang dipertanyakan.", "note": "Appositive that-clause stating the content of 'assumption'." },
+          { "en": "The impact of the new regulations on small farms has been limited.", "id": "Dampak peraturan baru terhadap pertanian kecil terbatas.", "note": "The verb agrees with the head 'impact', not with 'regulations' or 'farms'." }
+        ],
+        "vocabulary": [
+          { "word": "postmodifier", "pos": "noun", "ipa": "/pəʊstˈmɒdɪfaɪə/", "meaning": "unsur penjelas yang diletakkan setelah kata benda inti", "example": "In 'the decision to resign', the to-infinitive is a postmodifier." },
+          { "word": "contention", "pos": "noun", "ipa": "/kənˈtenʃn/", "meaning": "pendapat atau klaim yang dipertahankan dalam argumen", "example": "The contention that wages drive inflation is disputed." },
+          { "word": "assumption", "pos": "noun", "ipa": "/əˈsʌmpʃn/", "meaning": "asumsi, anggapan", "example": "The model rests on the assumption that prices are stable." },
+          { "word": "cohort", "pos": "noun", "ipa": "/ˈkəʊhɔːt/", "meaning": "kohort; sekelompok orang dengan karakteristik sama yang diteliti", "example": "The cohort recruited in 2015 was followed for a decade." },
+          { "word": "premise", "pos": "noun", "ipa": "/ˈpremɪs/", "meaning": "premis, dasar pemikiran", "example": "The argument starts from the premise that all citizens are equal." },
+          { "word": "refusal", "pos": "noun", "ipa": "/rɪˈfjuːzl/", "meaning": "penolakan", "example": "Their refusal to comment fuelled speculation." }
+        ],
+        "grammar": [
+          { "pattern": "noun + past participle phrase (passive meaning)", "example": "the documents leaked to the press", "note": "= the documents that were leaked" },
+          { "pattern": "noun + -ing phrase (active meaning)", "example": "families living near the airport", "note": "= families who live near the airport" },
+          { "pattern": "the first / last / only / superlative + noun + to-infinitive", "example": "the last delegate to arrive", "note": "Not 'the last delegate arriving' in this sense." },
+          { "pattern": "abstract noun + that-clause (content)", "example": "the fact that no one objected", "note": "'That' cannot be replaced by 'which' here." }
+        ],
+        "mistakes": [
+          { "wrong": "The proposal that the board rejected it last year has been revived.", "right": "The proposal that the board rejected last year has been revived.", "why": "A relative clause never repeats the antecedent with a pronoun." },
+          { "wrong": "The samples collecting in 2019 were contaminated.", "right": "The samples collected in 2019 were contaminated.", "why": "The samples were collected (passive), so the -ed participle is needed." },
+          { "wrong": "The impact of the new rules on small farms have been limited.", "right": "The impact of the new rules on small farms has been limited.", "why": "The verb agrees with the head noun 'impact', not with the nearest plural noun." },
+          { "wrong": "The fact which no one objected surprised us.", "right": "The fact that no one objected surprised us.", "why": "An appositive content clause must be introduced by 'that', not 'which'." }
+        ],
+        "summary": "Postmodifiers follow the head noun and can be prepositional phrases, relative clauses, reduced relatives (-ed for passive, -ing for active meaning), to-infinitives or appositive that-clauses. Use a to-infinitive after the first, the last and the only, and remember that a content clause after nouns such as fact or claim cannot begin with which. Always make the verb agree with the head noun.",
+        "reviewCards": [
+          { "front": "the samples (collect) in 2019", "back": "the samples collected in 2019 (passive → -ed)" },
+          { "front": "She was the only member ___ against it. (vote)", "back": "to vote – to-infinitive after 'the only'" },
+          { "front": "The news that the bridge had collapsed – relative or appositive?", "back": "Appositive: the clause states what the news was; 'which' is impossible." },
+          { "front": "The impact of the rules ___ been limited. (has/have)", "back": "has – agree with the head noun 'impact'" },
+          { "front": "contention", "back": "klaim/pendapat yang dipertahankan dalam argumen" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u07-l2-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "postmodification",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the correct postmodifier for each gap.",
+          "instructions": "Decide whether the noun does the action (-ing), receives it (-ed), or names a decision/plan (to-infinitive).",
+          "text": "The researchers ___ the data declined to comment, and the decision ___ the programme was announced the next day.",
+          "choices": [
+            ["analysing", "analysed", "who analysing"],
+            ["to suspend", "suspending of", "for suspend"]
+          ],
+          "answers": [0, 0],
+          "explanation": "The researchers analyse the data (active), so 'analysing' is correct; 'analysed' would mean the researchers were analysed, and 'who analysing' lacks an auxiliary. 'Decision' takes a to-infinitive (decide to → the decision to suspend); 'suspending of' and 'for suspend' are ungrammatical."
+        },
+        {
+          "id": "c2-u07-l2-q2",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "appositive that-clauses",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Combine the two sentences into one, using an appositive that-clause after a noun.",
+          "instructions": "The noun 'belief' should be followed directly by a that-clause stating what people believe.",
+          "sentence": "Many people believe that the treaty was signed under pressure. This belief is mistaken.",
+          "cue": "Begin with: The belief ...",
+          "answers": [
+            "The belief that the treaty was signed under pressure is mistaken.",
+            "The belief that the treaty had been signed under pressure is mistaken.",
+            "The belief that the treaty was signed under pressure is a mistaken one.",
+            "The belief, held by many people, that the treaty was signed under pressure is mistaken.",
+            "The belief held by many people that the treaty was signed under pressure is mistaken.",
+            "The belief held by many that the treaty was signed under pressure is mistaken.",
+            "The belief that the treaty was signed under pressure, held by many people, is mistaken.",
+            "The widely held belief that the treaty was signed under pressure is mistaken.",
+            "The common belief that the treaty was signed under pressure is mistaken."
+          ],
+          "explanation": "'The belief that the treaty was signed under pressure' is a single noun phrase: the that-clause states the content of the belief. It becomes the subject of 'is mistaken'. 'Which' could not replace 'that' here, because this is not a relative clause."
+        },
+        {
+          "id": "c2-u07-l2-q3",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "postmodification",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Dr. Haldane was the first person ___ the summit of Mount Kelvar, and the rock samples ___ from its crater are now on display in Port Elvan.",
+          "bank": ["to reach", "reaching", "collected", "collecting", "having collected"],
+          "answers": ["to reach", "collected"],
+          "explanation": "After 'the first person' English uses a to-infinitive: the first person to reach the summit. The samples were collected (passive meaning), so the -ed participle is required; 'collecting' and 'having collected' would wrongly make the samples the ones doing the collecting."
+        },
+        {
+          "id": "c2-u07-l2-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "relative clauses",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["The proposal", "that the board rejected it", "last spring", "has been revived", "in a revised form."],
+          "errorIndex": 1,
+          "correction": "that the board rejected",
+          "explanation": "The relative pronoun 'that' already functions as the object of 'rejected', so adding 'it' duplicates the object. The singular verb 'has been revived' correctly agrees with the head noun 'proposal'."
+        },
+        {
+          "id": "c2-u07-l2-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "appositive that-clauses",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "In which sentence is the that-clause an appositive (content) clause rather than a relative clause?",
+          "options": [
+            "The news that the bridge had collapsed spread quickly.",
+            "The news that she brought from the capital was alarming.",
+            "The report that the committee published was brief.",
+            "The theory that he defended was later abandoned."
+          ],
+          "answer": 0,
+          "explanation": "In the first sentence the clause states what the news was and is complete in itself ('the bridge had collapsed'); 'which' cannot replace 'that'. In the other sentences 'that' is the object of brought, published and defended, so it is a relative pronoun and could be replaced by 'which'.",
+          "misconception": "Learners often assume every 'noun + that' sequence is a relative clause."
+        },
+        {
+          "id": "c2-u07-l2-q6",
+          "type": "translation",
+          "category": "writing",
+          "topic": "reduced relative clauses",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into English. Use a postmodified noun phrase as the subject.",
+          "source": "Peserta yang mendaftar sebelum 1 Mei akan mendapat potongan harga.",
+          "direction": "id-en",
+          "answers": [
+            "Participants who register before 1 May will receive a discount.",
+            "Participants who register before 1 May will get a discount.",
+            "Participants registering before 1 May will receive a discount.",
+            "Participants registering before 1 May will get a discount.",
+            "Participants who registered before 1 May will receive a discount.",
+            "Participants who registered before 1 May will get a discount.",
+            "Participants who register before May 1 will receive a discount.",
+            "Participants who register before May 1 will get a discount.",
+            "Participants registering before May 1 will receive a discount.",
+            "Participants registering before May 1 will get a discount.",
+            "Participants who sign up before 1 May will receive a discount.",
+            "Participants signing up before 1 May will receive a discount.",
+            "Participants who register before 1 May will be given a discount.",
+            "Participants who have registered before 1 May will receive a discount."
+          ],
+          "explanation": "'Peserta yang mendaftar sebelum 1 Mei' is a noun with a relative clause. In English it can be a full relative clause (participants who register before 1 May) or a reduced -ing clause (participants registering before 1 May). 'Potongan harga' = a discount."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u07-l3-apposition",
+      "title": "Apposition",
+      "summary": "Place two noun phrases side by side to identify, define or exemplify, and punctuate restrictive and non-restrictive apposition correctly.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Distinguish restrictive apposition (the linguist Mara Osei) from non-restrictive apposition (Mara Osei, a linguist)",
+        "Use namely, that is, i.e., e.g., such as and or to introduce appositives precisely",
+        "Keep verb agreement with the first noun phrase, not the appositive"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is apposition?\n**Apposition** places two noun phrases next to each other so that the second identifies, describes or renames the first: *Dr. Mara Osei, **a linguist at Westmere University**, ...* It is one of the most efficient ways to add background information in academic and journalistic writing without starting a new sentence.\n\n### Restrictive vs non-restrictive\n| Type | Punctuation | Meaning | Example |\n|---|---|---|---|\n| restrictive | **no commas** | the appositive is needed to identify which one | *The linguist Mara Osei disagrees.* / *My brother Tomas lives in Port Elvan* (I have more than one brother). |\n| non-restrictive | **commas, dashes or brackets** | extra information; the reference is already clear | *Mara Osei, a linguist, disagrees.* / *My brother, Tomas, lives in Port Elvan* (I have only one brother). |\n\nThe commas come in **pairs** when the appositive is in mid-sentence: ✗ *Rana Ito, a marine biologist will lead the expedition.* A title-like descriptor before a name usually has no article and no commas: *the economist Lena Varga*, or in journalism *economist Lena Varga*.\n\n### Markers of apposition\n| Marker | Use | Example |\n|---|---|---|\n| *namely* | names exactly the items just referred to in general terms | *two factors, **namely** cost and access* |\n| *that is / i.e.* | reformulates or clarifies | *the median, **i.e.** the middle value* |\n| *such as / e.g. / for example* | gives examples from a larger set | *coastal cities **such as** Port Elvan* |\n| *or* | gives an alternative name or a definition | *lexicography, **or** dictionary-making* |\n| *notably / in particular* | singles out a prominent member | *several regions, **notably** the north* |\n\nBecause *namely* introduces a **complete** list, it fits after a number (*two factors, namely ...*), whereas *such as* signals that the list is **incomplete** and does not fit when the number already defines the whole set (✗ *two factors, such as cost and access*).\n\n### Agreement\nThe appositive does not change the subject: the verb agrees with the **first** noun phrase. *Haris Wiradi, the director of the Elvan museums, **has** announced his retirement* – singular, even though *museums* is plural and closest to the verb.\n\n### Style tips\n- Keep appositives short; a long appositive delays the main verb and tires the reader.\n- Use dashes for a dramatic or emphatic appositive: *The cause – a single faulty valve – was found within hours.*\n- Do not insert a comma between a restrictive title and a name: ✗ *the novelist, Arun Pell's latest book*.",
+        "examples": [
+          { "en": "Dr. Mara Osei, a linguist at Westmere University, has published a new grammar of Kelvani.", "id": "Dr. Mara Osei, seorang ahli linguistik di Universitas Westmere, telah menerbitkan tata bahasa Kelvani yang baru.", "note": "Non-restrictive apposition with a pair of commas." },
+          { "en": "The economist Lena Varga predicted the crash.", "id": "Ekonom Lena Varga memprediksi kejatuhan itu.", "note": "Restrictive apposition: no commas, no article before the name." },
+          { "en": "Two factors, namely cost and accessibility, explain the decline.", "id": "Dua faktor, yaitu biaya dan aksesibilitas, menjelaskan penurunan tersebut.", "note": "'Namely' introduces the complete list." },
+          { "en": "The cause – a single faulty valve – was identified within hours.", "id": "Penyebabnya – satu katup yang rusak – teridentifikasi dalam hitungan jam.", "note": "Dashes give the appositive emphasis." },
+          { "en": "She studies philology, or the history of languages as seen in texts.", "id": "Ia mempelajari filologi, atau sejarah bahasa sebagaimana terlihat dalam teks.", "note": "Appositive 'or' introduces a definition, not an alternative choice." }
+        ],
+        "vocabulary": [
+          { "word": "apposition", "pos": "noun", "ipa": "/ˌæpəˈzɪʃn/", "meaning": "aposisi; penempatan dua frasa nomina berdampingan yang merujuk hal yang sama", "example": "In 'my colleague Dr. Rao', the two noun phrases are in apposition." },
+          { "word": "namely", "pos": "adverb", "ipa": "/ˈneɪmli/", "meaning": "yaitu, yakni (untuk menyebut secara spesifik)", "example": "Only one city, namely Port Elvan, met the target." },
+          { "word": "renowned", "pos": "adjective", "ipa": "/rɪˈnaʊnd/", "meaning": "termasyhur, terkenal", "example": "The renowned architect Iva Brandt designed the library." },
+          { "word": "philology", "pos": "noun", "ipa": "/fɪˈlɒlədʒi/", "meaning": "filologi; studi bahasa dalam teks-teks sejarah", "example": "Philology was once the core of language studies." },
+          { "word": "aforementioned", "pos": "adjective", "ipa": "/əˌfɔːˈmenʃənd/", "meaning": "yang telah disebutkan sebelumnya", "example": "The aforementioned report was later withdrawn." },
+          { "word": "designation", "pos": "noun", "ipa": "/ˌdezɪɡˈneɪʃn/", "meaning": "sebutan, gelar resmi", "example": "Her designation as chief scientist was announced on Monday." }
+        ],
+        "grammar": [
+          { "pattern": "Name, + (a/the) descriptive noun phrase, + verb", "example": "Rana Ito, a marine biologist, will lead the expedition.", "note": "Non-restrictive: commas in pairs." },
+          { "pattern": "(the) descriptive noun + Name + verb", "example": "The novelist Arun Pell lives abroad.", "note": "Restrictive: no commas." },
+          { "pattern": "general noun phrase, namely / that is + specific items", "example": "three ports, namely Elvan, Dunmore and Kesh", "note": "Use namely for a complete list; such as for examples." }
+        ],
+        "mistakes": [
+          { "wrong": "Rana Ito, a marine biologist from Kelvar University will lead the expedition.", "right": "Rana Ito, a marine biologist from Kelvar University, will lead the expedition.", "why": "A mid-sentence non-restrictive appositive needs a comma on both sides." },
+          { "wrong": "Haris Wiradi, the director of the Elvan museums, have announced his retirement.", "right": "Haris Wiradi, the director of the Elvan museums, has announced his retirement.", "why": "The verb agrees with the first noun phrase (Haris Wiradi), not with 'museums'." },
+          { "wrong": "Two factors, such as cost and accessibility, explain the decline.", "right": "Two factors, namely cost and accessibility, explain the decline.", "why": "'Such as' introduces examples from a larger set, but 'two factors' already names the complete set." },
+          { "wrong": "The novelist, Arun Pell's latest book was praised.", "right": "The novelist Arun Pell's latest book was praised.", "why": "A restrictive descriptor before a name takes no comma." }
+        ],
+        "summary": "Apposition sets a second noun phrase beside the first to identify, define or exemplify it. Restrictive apposition has no commas; non-restrictive apposition is enclosed in a pair of commas, dashes or brackets. Use namely for complete lists, such as or e.g. for examples, i.e. or that is for reformulation, and keep verb agreement with the first noun phrase.",
+        "reviewCards": [
+          { "front": "My brother Tomas vs My brother, Tomas,", "back": "No commas: I have more than one brother. Commas: I have only one brother." },
+          { "front": "two factors, ___ cost and access (namely / such as)", "back": "namely – the list is complete" },
+          { "front": "i.e. vs e.g.", "back": "i.e. = that is (reformulation); e.g. = for example (examples)" },
+          { "front": "Haris, the director of the museums, (has/have) resigned", "back": "has – agreement with the first noun phrase" },
+          { "front": "aforementioned", "back": "yang telah disebutkan sebelumnya" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u07-l3-q1",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "restrictive apposition",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "The speaker has three brothers. Which sentence is correctly punctuated?",
+          "instructions": "If the name is needed to tell us WHICH brother, the apposition is restrictive and takes no commas.",
+          "options": [
+            "My brother Tomas lives in Port Elvan.",
+            "My brother, Tomas, lives in Port Elvan.",
+            "My brother, Tomas lives in Port Elvan.",
+            "My, brother Tomas, lives in Port Elvan."
+          ],
+          "answer": 0,
+          "explanation": "With three brothers, 'Tomas' identifies which brother is meant, so the apposition is restrictive and has no commas. Commas around 'Tomas' would imply the speaker has only one brother. The third option has an unpaired comma that separates the subject from its verb, and the fourth places a comma after the determiner 'My'.",
+          "misconception": "Many learners add commas around every name, without considering whether it is identifying information."
+        },
+        {
+          "id": "c2-u07-l3-q2",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "non-restrictive apposition",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Combine the sentences using a non-restrictive appositive after the name.",
+          "instructions": "Turn the first sentence into a noun phrase placed between commas after 'Dr. Mara Osei'.",
+          "sentence": "Dr. Mara Osei is a linguist at Westmere University. She has published a new grammar of Kelvani.",
+          "cue": "Begin with: Dr. Mara Osei, ...",
+          "answers": [
+            "Dr. Mara Osei, a linguist at Westmere University, has published a new grammar of Kelvani.",
+            "Dr Mara Osei, a linguist at Westmere University, has published a new grammar of Kelvani.",
+            "Dr. Mara Osei, a linguist at Westmere University, has published a new Kelvani grammar.",
+            "Dr Mara Osei, a linguist at Westmere University, has published a new Kelvani grammar.",
+            "Dr. Mara Osei, a Westmere University linguist, has published a new grammar of Kelvani."
+          ],
+          "explanation": "The first sentence becomes the appositive noun phrase 'a linguist at Westmere University', enclosed in a pair of commas because the name already identifies the person. The main verb 'has published' follows the second comma."
+        },
+        {
+          "id": "c2-u07-l3-q3",
+          "type": "dropdown",
+          "category": "writing",
+          "topic": "appositive markers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the marker that fits each gap.",
+          "text": "The report identifies two causes, ___ poor drainage and illegal construction. The median, ___ the middle value in an ordered set, is less affected by extreme values than the mean.",
+          "choices": [
+            ["namely", "such as", "for example"],
+            ["that is", "for instance", "such as"]
+          ],
+          "answers": [0, 0],
+          "explanation": "'Two causes' defines a complete set, so only 'namely' fits; 'such as' and 'for example' would suggest there are other causes too. In the second sentence the appositive defines 'the median', so a reformulating marker ('that is') is needed; 'for instance' and 'such as' introduce examples, not definitions."
+        },
+        {
+          "id": "c2-u07-l3-q4",
+          "type": "matching",
+          "category": "writing",
+          "topic": "appositive markers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each marker with its function.",
+          "pairs": [
+            { "left": "namely", "right": "names exactly the items just referred to in general terms" },
+            { "left": "i.e.", "right": "rephrases the previous expression in other words" },
+            { "left": "e.g.", "right": "introduces one or more examples from a larger set" },
+            { "left": "or (as in 'lexicography, or dictionary-making')", "right": "glosses a technical term with a plainer equivalent" },
+            { "left": "notably", "right": "singles out a prominent member of a group" }
+          ],
+          "explanation": "Namely specifies a complete set; i.e. (id est) reformulates; e.g. (exempli gratia) exemplifies; appositive 'or' provides a gloss rather than an alternative choice; notably highlights an especially important case."
+        },
+        {
+          "id": "c2-u07-l3-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "agreement with appositives",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["Haris Wiradi,", "the director of", "the Elvan museums,", "have announced", "his retirement."],
+          "errorIndex": 3,
+          "correction": "has announced",
+          "explanation": "The subject is 'Haris Wiradi' (singular); the appositive between the commas does not change it. The nearby plural noun 'museums' tempts writers into 'have', but agreement must be with the head of the subject."
+        },
+        {
+          "id": "c2-u07-l3-q6",
+          "type": "sentence_correction",
+          "category": "writing",
+          "topic": "punctuation of apposition",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Correct the punctuation of this sentence. Rana Ito is mentioned for the first time, so the description is extra information.",
+          "sentence": "Rana Ito a marine biologist from Kelvar University will lead the expedition.",
+          "ignorePunctuation": false,
+          "answers": [
+            "Rana Ito, a marine biologist from Kelvar University, will lead the expedition.",
+            "Rana Ito, a marine biologist from Kelvar University, will lead the expedition",
+            "Rana Ito – a marine biologist from Kelvar University – will lead the expedition.",
+            "Rana Ito (a marine biologist from Kelvar University) will lead the expedition."
+          ],
+          "explanation": "A non-restrictive appositive in mid-sentence must be enclosed on both sides: by a pair of commas, a pair of dashes, or brackets. A single comma would separate the subject from its verb."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u07-l4-precise-quantifiers",
+      "title": "Precise Quantifiers",
+      "summary": "Describe amounts and proportions precisely, with the right countability, agreement and degree of emphasis.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use proportion expressions such as a substantial proportion of, the vast majority of and a handful of",
+        "Contrast few/a few, little/a little, fewer/less and number/amount",
+        "Apply correct agreement with each, every, the number of and a number of"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why precision matters\nIn research reporting, the difference between *a few*, *few*, *a minority* and *a handful* is not stylistic decoration – it signals how strong the evidence is. A reader who sees *a substantial proportion of respondents* expects something like a third or more; *a handful* suggests perhaps three to ten.\n\n### A scale of proportion\n| Expression | Rough meaning | Used with |\n|---|---|---|\n| *all / every / each* | 100% | countable |\n| *the vast / overwhelming majority of* | almost all | countable (plural) |\n| *most / the majority of* | more than half | countable; *most* also uncountable |\n| *a substantial / significant proportion of* | a large share | countable or uncountable |\n| *a minority of* | fewer than half | countable |\n| *a handful of* | a very small number | countable |\n| *a fraction of* | a small part | countable or uncountable |\n| *few / little* | almost none (negative) | countable / uncountable |\n| *a negligible number / amount of* | too small to matter | countable / uncountable |\n\n### Few vs a few, little vs a little\n*A few* and *a little* are **positive**: some, enough to matter. *Few* and *little* are **negative**: not as many/much as expected or hoped. Compare: *There is **little** evidence that the drug works* (so we should be sceptical) and *There is **a little** evidence that it eases pain* (a small but encouraging amount).\n\n### Countability pairs\n| Countable | Uncountable |\n|---|---|\n| *fewer* responses | *less* time |\n| *the number of* people | *the amount of* money |\n| *many / a great many* | *much / a great deal of* |\n\n*Much of the respondents* and *a great deal of respondents* are errors because *respondents* is countable.\n\n### Agreement traps\n- ***The number of** applicants **has** risen* – the head is *number* (singular).\n- ***A number of** applicants **have** withdrawn* – *a number of* means *several*, so the verb is plural.\n- ***Each of** the proposals **has** been costed* – *each* is singular; *every* cannot be followed by *of* (✗ *every of the proposals*; ✓ *every one of the proposals*).\n- With proportion expressions, the verb usually agrees with the noun after *of*: *A third of the budget **was** spent; a third of the students **were** absent.*\n\n### So few / so little / such a ...\n*So* goes with *few, little, many, much*: *There were **so few** objections that the motion passed easily.* ✗ *such few objections*.",
+        "examples": [
+          { "en": "The vast majority of participants completed the follow-up survey.", "id": "Sebagian besar peserta menyelesaikan survei lanjutan.", "note": "'Vast majority' signals almost everyone." },
+          { "en": "Only a handful of villages still use the traditional irrigation system.", "id": "Hanya segelintir desa yang masih menggunakan sistem irigasi tradisional.", "note": "A very small number of countable items." },
+          { "en": "There is little evidence that the reform reduced poverty.", "id": "Hanya ada sedikit bukti (nyaris tidak ada) bahwa reformasi itu mengurangi kemiskinan.", "note": "'Little' without 'a' is negative." },
+          { "en": "The number of complaints has fallen, but a number of issues remain unresolved.", "id": "Jumlah keluhan telah menurun, tetapi sejumlah masalah masih belum terselesaikan.", "note": "The number of + singular verb; a number of + plural verb." },
+          { "en": "Only a fraction of the budget was spent on maintenance.", "id": "Hanya sebagian kecil anggaran yang dipakai untuk pemeliharaan.", "note": "The verb agrees with 'budget' (uncountable)." }
+        ],
+        "vocabulary": [
+          { "word": "proportion", "pos": "noun", "ipa": "/prəˈpɔːʃn/", "meaning": "proporsi, bagian dari keseluruhan", "example": "A substantial proportion of the land is unsuitable for farming." },
+          { "word": "handful", "pos": "noun", "ipa": "/ˈhændfʊl/", "meaning": "segelintir, sejumlah kecil", "example": "A handful of critics praised the film." },
+          { "word": "fraction", "pos": "noun", "ipa": "/ˈfrækʃn/", "meaning": "sebagian kecil", "example": "The new process costs a fraction of the old one." },
+          { "word": "negligible", "pos": "adjective", "ipa": "/ˈneɡlɪdʒəbl/", "meaning": "dapat diabaikan, sangat kecil", "example": "The effect on prices was negligible." },
+          { "word": "substantial", "pos": "adjective", "ipa": "/səbˈstænʃl/", "meaning": "cukup besar, substansial", "example": "A substantial number of firms reported losses." },
+          { "word": "preponderance", "pos": "noun", "ipa": "/prɪˈpɒndərəns/", "meaning": "dominasi jumlah, keunggulan jumlah", "example": "The preponderance of evidence favours the second hypothesis." }
+        ],
+        "grammar": [
+          { "pattern": "The number of + plural noun + singular verb", "example": "The number of applicants has doubled.", "note": "The head noun is 'number'." },
+          { "pattern": "A number of + plural noun + plural verb", "example": "A number of applicants have withdrawn.", "note": "'A number of' = several." },
+          { "pattern": "Each of the + plural noun + singular verb", "example": "Each of the proposals has been costed.", "note": "'Every of' is impossible; use 'every one of'." },
+          { "pattern": "so + few / little / many / much + noun + that-clause", "example": "There was so little time that we skipped the questions.", "note": "Not 'such few' or 'such little'." }
+        ],
+        "mistakes": [
+          { "wrong": "The amount of people who attended surprised everyone.", "right": "The number of people who attended surprised everyone.", "why": "'Amount' is for uncountable nouns; 'people' is countable." },
+          { "wrong": "Every of the samples was tested twice.", "right": "Each of the samples was tested twice.", "why": "'Every' cannot be followed directly by 'of'; use 'each of' or 'every one of'." },
+          { "wrong": "Much of the respondents agreed with the statement.", "right": "Many of the respondents agreed with the statement.", "why": "'Respondents' is countable plural, so 'many' is required." },
+          { "wrong": "There were such few objections that the motion passed.", "right": "There were so few objections that the motion passed.", "why": "'Few', 'little', 'many' and 'much' combine with 'so', not 'such'." }
+        ],
+        "summary": "Choose quantifiers that match both the countability of the noun and the strength of your evidence: a handful, a minority, a substantial proportion and the vast majority describe very different realities. Remember the negative meaning of few and little, the difference between the number of (singular) and a number of (plural), and that every cannot be followed by of.",
+        "reviewCards": [
+          { "front": "little evidence vs a little evidence", "back": "little = hardly any (negative); a little = some (positive)" },
+          { "front": "The number of applicants (has/have) risen.", "back": "has – the head is 'number'" },
+          { "front": "A number of applicants (has/have) withdrawn.", "back": "have – 'a number of' = several" },
+          { "front": "so few / such few?", "back": "so few (so + few/little/many/much)" },
+          { "front": "negligible", "back": "sangat kecil sehingga dapat diabaikan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u07-l4-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "quantifiers",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the correct quantifier for each gap.",
+          "instructions": "Ask yourself whether each noun is countable or uncountable, and remember that one of these words cannot be followed by 'of'.",
+          "text": "The survey received ___ responses than expected, so ___ time was needed for the analysis; ___ of the participants was interviewed twice.",
+          "choices": [
+            ["fewer", "less"],
+            ["less", "fewer"],
+            ["every", "each"]
+          ],
+          "answers": [0, 0, 1],
+          "explanation": "'Responses' is countable, so 'fewer'; 'time' is uncountable, so 'less'. 'Every' cannot be followed directly by 'of', whereas 'each of the participants' is correct and takes the singular verb 'was'."
+        },
+        {
+          "id": "c2-u07-l4-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "few / a few, little / a little",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Complete the sentence with 'little' or 'a little' so that it matches the meaning in brackets.",
+          "instructions": "Without 'a' the meaning is negative (hardly any); with 'a' it is positive (some).",
+          "text": "Sadly, there is ___ evidence that the new drug slows the disease (almost none), although there is ___ evidence that it eases pain (a small but encouraging amount).",
+          "answers": [
+            ["little", "very little"],
+            ["a little"]
+          ],
+          "explanation": "'Little evidence' means hardly any and fits the negative 'Sadly ... (almost none)'. 'A little evidence' means some evidence and fits the encouraging contrast introduced by 'although'."
+        },
+        {
+          "id": "c2-u07-l4-q3",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "the number of / a number of",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the correct pair of verbs: 'The number of applicants ___ risen sharply, and a number of them ___ already been interviewed.'",
+          "options": ["has / have", "have / has", "has / has", "have / have"],
+          "answer": 0,
+          "explanation": "In 'the number of applicants' the head noun is 'number', so the verb is singular (has). 'A number of' means 'several' and takes a plural verb (have)."
+        },
+        {
+          "id": "c2-u07-l4-q4",
+          "type": "multiple_select",
+          "category": "vocabulary",
+          "topic": "proportion expressions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which expressions can correctly begin this sentence? '___ of the respondents expressed concern about the new policy.'",
+          "options": [
+            "A substantial proportion",
+            "The vast majority",
+            "A handful",
+            "Much",
+            "A great deal",
+            "Every"
+          ],
+          "answers": [0, 1, 2],
+          "explanation": "'A substantial proportion of', 'the vast majority of' and 'a handful of' all combine with countable plural nouns. 'Much' and 'a great deal' are for uncountable nouns, and 'every' cannot be followed by 'of'."
+        },
+        {
+          "id": "c2-u07-l4-q5",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "proportion expressions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "What does 'a fraction of' mean in this sentence?",
+          "context": "The new desalination process costs a fraction of what the old one did, which is why the island council adopted it so quickly.",
+          "options": [
+            "a small part of",
+            "exactly half of",
+            "slightly more than",
+            "a carefully calculated share of"
+          ],
+          "answer": 0,
+          "explanation": "'A fraction of' in everyday and academic English means 'a small part of'. It does not refer to a specific mathematical fraction such as one half, and it never means 'more than'. The context (adopted quickly) confirms that the new process is much cheaper."
+        },
+        {
+          "id": "c2-u07-l4-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "number vs amount",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Correct the quantifier error in this sentence.",
+          "sentence": "The amount of people who attended the hearing surprised everyone.",
+          "answers": [
+            "The number of people who attended the hearing surprised everyone.",
+            "The number of people attending the hearing surprised everyone.",
+            "The number of people that attended the hearing surprised everyone."
+          ],
+          "explanation": "'People' is a countable plural noun, so the correct expression is 'the number of'. 'The amount of' is used with uncountable nouns such as money, time or evidence."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u07-l5-hedged-generalisations",
+      "title": "Hedged Generalisations",
+      "summary": "Make generalisations that are accurate and defensible by qualifying their scope, frequency and certainty.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Recognise overgeneralisations in academic writing",
+        "Qualify claims with tend to, in most cases, broadly speaking, by and large and with few exceptions",
+        "Choose reporting verbs that reflect the strength of the evidence"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The problem with sweeping claims\nA sentence such as *Students who work part-time get lower grades* sounds confident but makes a claim about **every** student, everywhere. A single counter-example undermines it. At C1 you learned to hedge with modals and adverbs (*may, arguably*). At C2 the focus is on **generalising responsibly**: stating patterns clearly while signalling their limits of scope, frequency and certainty.\n\n### Four ways to qualify a generalisation\n| Dimension | Tools | Example |\n|---|---|---|\n| **frequency / tendency** | *tend to, are inclined to, often, in most cases* | *Students who work part-time **tend to** report lower grades.* |\n| **scope** | *in this sample, among urban households, in the context of ...* | ***Among the households surveyed**, spending on education rose.* |\n| **generality** | *broadly speaking, by and large, on the whole, with few exceptions* | ***By and large**, the reforms were welcomed.* |\n| **certainty** | *it would appear that, the evidence suggests, there is reason to believe* | ***It would appear that** the decline has slowed.* |\n\nCombine them sparingly. One well-chosen hedge is precise; three in a row (*It may perhaps possibly suggest ...*) makes the writer sound evasive.\n\n### Reporting verbs and strength of evidence\n| Strong | Neutral | Tentative | Distancing |\n|---|---|---|---|\n| *demonstrate, establish, confirm* | *find, report, show* | *suggest, indicate, imply* | *claim, allege, assert* |\n\n*The data **demonstrate** a causal link* is only justified by strong experimental evidence. With a survey, *the data **suggest** an association* is more accurate. *Claim* signals that you report someone's position without necessarily accepting it. *Concede* and *acknowledge* show that someone admits a point against their own position; *speculate* indicates an idea put forward with little evidence.\n\n### Data are / data is\nIn formal academic writing *data* is often treated as plural (*the data suggest*), although singular use is widespread. Whichever you choose, be consistent.\n\n### Avoiding overgeneralisation: a checklist\n1. Replace *all, always, never, everyone* unless they are literally true.\n2. State the population: *in this cohort*, *among first-year students*.\n3. Match the verb to the method: correlation → *is associated with*; experiment → *causes / leads to*.\n4. Add a caveat where needed: *although the sample was small*, *this finding should be treated with caution*.\n5. Keep the main claim visible – hedging should qualify the message, not hide it.",
+        "examples": [
+          { "en": "Households in the district tend to spend more on education than on healthcare.", "id": "Rumah tangga di distrik itu cenderung membelanjakan lebih banyak untuk pendidikan daripada kesehatan.", "note": "Tendency + explicit scope." },
+          { "en": "By and large, the reforms were welcomed by local businesses.", "id": "Secara umum, reformasi itu disambut baik oleh pelaku usaha lokal.", "note": "'By and large' = in general, with some exceptions." },
+          { "en": "The findings suggest that remote work is associated with higher job satisfaction.", "id": "Temuan ini menunjukkan bahwa kerja jarak jauh berkaitan dengan kepuasan kerja yang lebih tinggi.", "note": "Tentative verb + correlation, not causation." },
+          { "en": "With few exceptions, the coastal villages reported a decline in fish stocks.", "id": "Dengan sedikit pengecualian, desa-desa pesisir melaporkan penurunan stok ikan.", "note": "Signals that the pattern is nearly but not entirely universal." },
+          { "en": "It would appear that the decline has slowed, although the data cover only two years.", "id": "Tampaknya penurunan tersebut telah melambat, meskipun datanya hanya mencakup dua tahun.", "note": "Certainty hedge + caveat." }
+        ],
+        "vocabulary": [
+          { "word": "generalisation", "pos": "noun", "ipa": "/ˌdʒenrəlaɪˈzeɪʃn/", "meaning": "generalisasi", "example": "The generalisation is not supported by such a small sample." },
+          { "word": "caveat", "pos": "noun", "ipa": "/ˈkæviæt/", "meaning": "peringatan atau catatan pembatas", "example": "One caveat is that all participants were volunteers." },
+          { "word": "tentative", "pos": "adjective", "ipa": "/ˈtentətɪv/", "meaning": "tentatif, belum pasti", "example": "These conclusions are tentative and need replication." },
+          { "word": "extrapolate", "pos": "verb", "ipa": "/ɪkˈstræpəleɪt/", "meaning": "mengekstrapolasi, menarik kesimpulan di luar data yang ada", "example": "It is risky to extrapolate from one city to the whole country." },
+          { "word": "concede", "pos": "verb", "ipa": "/kənˈsiːd/", "meaning": "mengakui (suatu poin yang melemahkan posisi sendiri)", "example": "The authors concede that the sample was unrepresentative." },
+          { "word": "speculate", "pos": "verb", "ipa": "/ˈspekjuleɪt/", "meaning": "berspekulasi, menduga tanpa bukti kuat", "example": "We can only speculate about the cause." }
+        ],
+        "grammar": [
+          { "pattern": "subject + tend(s) to + infinitive", "example": "Older respondents tend to favour printed newspapers.", "note": "Signals a pattern, not a rule." },
+          { "pattern": "By and large / Broadly speaking / On the whole, + clause", "example": "Broadly speaking, the results confirm earlier studies.", "note": "Fronted generality hedges." },
+          { "pattern": "The data / findings + suggest / indicate + that-clause", "example": "The findings indicate that demand is falling.", "note": "Tentative reporting verb; plural agreement with 'findings'." }
+        ],
+        "mistakes": [
+          { "wrong": "This survey proves that all teenagers prefer online news.", "right": "This survey suggests that teenagers in the sample tend to prefer online news.", "why": "A survey cannot prove a universal claim; hedge the verb and limit the scope." },
+          { "wrong": "Remote work tend to increase productivity.", "right": "Remote work tends to increase productivity.", "why": "'Tend' must agree with the singular subject 'remote work'." },
+          { "wrong": "Broad speaking, the reforms were successful.", "right": "Broadly speaking, the reforms were successful.", "why": "The fixed hedge uses the adverb 'broadly'." },
+          { "wrong": "It may possibly perhaps suggest that prices might rise.", "right": "The data suggest that prices may rise.", "why": "Stacking hedges makes the claim evasive; one or two well-placed hedges are enough." }
+        ],
+        "summary": "Responsible generalisations qualify tendency (tend to), scope (in this sample), generality (by and large, with few exceptions) and certainty (it would appear). Choose reporting verbs that match the evidence – demonstrate for strong proof, suggest for tentative findings, claim to distance yourself – and avoid both sweeping claims and piles of hedges.",
+        "reviewCards": [
+          { "front": "Sweeping: 'Students who work part-time get lower grades.' Hedge it.", "back": "Students who work part-time tend to report lower grades (in this sample)." },
+          { "front": "by and large", "back": "secara umum, pada umumnya" },
+          { "front": "demonstrate vs suggest", "back": "demonstrate = strong proof; suggest = tentative indication" },
+          { "front": "caveat", "back": "catatan pembatas / peringatan atas suatu klaim" },
+          { "front": "Remote work (tend/tends) to ...", "back": "tends – singular subject" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u07-l5-q1",
+          "type": "single_choice",
+          "category": "academic",
+          "topic": "hedged generalisations",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "A study surveyed 400 households in one district. Which sentence is the most accurate generalisation for the report?",
+          "instructions": "Look for a sentence that limits both the scope (where?) and the strength (always or usually?) of the claim, and that is grammatically correct.",
+          "options": [
+            "Households in the district tend to spend more on education than on healthcare.",
+            "All households in the country spend more on education than on healthcare.",
+            "Households always spend more on education than on healthcare.",
+            "Households in the district is tending to spend more on education than on healthcare."
+          ],
+          "answer": 0,
+          "explanation": "The first option limits the scope to the district surveyed and presents a tendency rather than a rule. The second extrapolates from one district to the whole country, the third makes an absolute claim ('always'), and the fourth has an agreement error and an unnatural progressive form."
+        },
+        {
+          "id": "c2-u07-l5-q2",
+          "type": "sentence_transformation",
+          "category": "academic",
+          "topic": "hedged generalisations",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sweeping claim as a hedged generalisation.",
+          "instructions": "Use a form of 'tend' and keep the rest of the meaning.",
+          "sentence": "Children who read at home do better at school.",
+          "cue": "Use: tend",
+          "answers": [
+            "Children who read at home tend to do better at school.",
+            "Children who read at home tend to perform better at school.",
+            "Children who read at home tend to do better in school.",
+            "Children who read at home tend to perform better in school.",
+            "Children reading at home tend to do better at school.",
+            "Children who read at home tend to achieve better results at school."
+          ],
+          "explanation": "'Tend to + infinitive' turns an absolute statement into a description of a pattern: Children who read at home tend to do better at school. The plural subject takes 'tend', not 'tends'."
+        },
+        {
+          "id": "c2-u07-l5-q3",
+          "type": "essay",
+          "category": "academic",
+          "topic": "reporting research findings",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "A survey at Westmere University asked 250 first-year students in one faculty about their study habits. Students who studied in groups reported lower stress than those who studied alone. Write a short paragraph reporting this finding for an academic article. Include at least two hedging devices, state the scope of the finding, and add one caveat.",
+          "minWords": 80,
+          "maxWords": 150,
+          "rubric": "academic-writing",
+          "explanation": "A strong answer reports the association with a tentative verb (the findings suggest / indicate), limits the scope (among first-year students in one faculty), avoids causal language (is associated with rather than causes), and adds a caveat such as the self-reported nature of the data or the single-faculty sample. For example: 'The findings suggest that, among first-year students in this faculty, studying in groups is associated with lower reported stress. However, as the data were self-reported and drawn from a single faculty, this relationship should be interpreted with caution.'"
+        },
+        {
+          "id": "c2-u07-l5-q4",
+          "type": "drag_drop",
+          "category": "academic",
+          "topic": "hedging language",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps to complete the cautious summary.",
+          "text": "The findings ___ that remote work ___ to increase productivity, although, ___ speaking, the effect is modest.",
+          "bank": ["suggest", "suggests", "tends", "tend", "broadly", "broad"],
+          "answers": ["suggest", "tends", "broadly"],
+          "explanation": "'Findings' is plural, so 'suggest'. 'Remote work' is a singular uncountable subject, so 'tends'. The fixed hedge is 'broadly speaking', with the adverb form; 'broad speaking' is not English."
+        },
+        {
+          "id": "c2-u07-l5-q5",
+          "type": "dialogue_completion",
+          "category": "academic",
+          "topic": "avoiding overgeneralisation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the supervisor's most appropriate response.",
+          "dialogue": [
+            { "speaker": "Student", "text": "Our results show that bilingual children are better at multitasking. We tested forty children at one school." },
+            { "speaker": "Supervisor", "text": null },
+            { "speaker": "Student", "text": "Fair point. I'll say the results suggest a possible advantage among the children we tested." }
+          ],
+          "options": [
+            "That's rather a strong claim for forty children at one school. Could you phrase it more cautiously?",
+            "Excellent. With forty children you can safely say this is true of all bilingual children.",
+            "Your claim is too cautious; you should say bilingual children are always better at multitasking.",
+            "You should delete the verb 'show', because academic writing avoids reporting verbs."
+          ],
+          "answer": 0,
+          "explanation": "The student's final reply ('Fair point ... suggest a possible advantage') shows the supervisor asked for more caution. The second and third options encourage overgeneralisation, and the fourth gives false advice: academic writing relies on reporting verbs, it simply chooses them carefully."
+        },
+        {
+          "id": "c2-u07-l5-q6",
+          "type": "matching",
+          "category": "academic",
+          "topic": "reporting verbs",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Match each reporting verb with what it signals about the writer's view of the evidence.",
+          "pairs": [
+            { "left": "demonstrate", "right": "the evidence proves the point conclusively" },
+            { "left": "suggest", "right": "the evidence points tentatively in this direction" },
+            { "left": "claim", "right": "someone asserts this, but the writer does not necessarily accept it" },
+            { "left": "concede", "right": "someone admits a point that weakens their own position" },
+            { "left": "speculate", "right": "someone puts forward an idea with little supporting evidence" }
+          ],
+          "explanation": "Reporting verbs carry evaluation. 'Demonstrate' is strong and factive; 'suggest' is tentative; 'claim' distances the writer; 'concede' marks a reluctant admission; 'speculate' marks a guess without solid evidence."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u07-t-q1",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "postmodification",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Put the words in order to make a correct sentence.",
+      "words": ["This", "is", "the", "first", "large-scale", "study", "to", "examine", "coastal", "erosion", "in", "Kelvar"],
+      "explanation": "The premodifier 'large-scale' precedes the head 'study', and the to-infinitive postmodifier follows it after 'the first'. 'Coastal erosion' is the object of 'examine', and 'in Kelvar' completes the phrase."
+    },
+    {
+      "id": "c2-u07-t-q2",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "quantifiers",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the correct option: 'There were ___ objections that the motion passed without a vote.'",
+      "options": ["so few", "so little", "such few", "such little"],
+      "answer": 0,
+      "explanation": "'Objections' is countable, so 'few' is needed, and 'few' combines with 'so', not 'such'. 'So little' is for uncountable nouns, and 'such few' / 'such little' are ungrammatical."
+    },
+    {
+      "id": "c2-u07-t-q3",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "agreement with complex subjects",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Find the segment that contains an error.",
+      "segments": ["The results of the survey,", "a joint project", "of three universities,", "was published", "in March."],
+      "errorIndex": 3,
+      "correction": "were published",
+      "explanation": "The head of the subject is 'results' (plural), so the verb must be 'were published'. The singular appositive 'a joint project' and the noun 'survey' do not change the agreement."
+    },
+    {
+      "id": "c2-u07-t-q4",
+      "type": "sentence_transformation",
+      "category": "academic",
+      "topic": "hedged generalisations",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence as a more cautious, impersonal generalisation.",
+      "sentence": "Everyone agrees that the policy failed.",
+      "cue": "Begin with: It is widely ...",
+      "answers": [
+        "It is widely agreed that the policy failed.",
+        "It is widely accepted that the policy failed.",
+        "It is widely acknowledged that the policy failed.",
+        "It is widely believed that the policy failed.",
+        "It is widely held that the policy failed.",
+        "It is widely thought that the policy failed.",
+        "It is widely recognised that the policy failed.",
+        "It is widely recognized that the policy failed.",
+        "It is widely agreed that the policy has failed.",
+        "It is widely accepted that the policy has failed."
+      ],
+      "explanation": "'Everyone agrees' is an overgeneralisation – one dissenter makes it false. 'It is widely agreed/accepted that ...' keeps the meaning while acknowledging that agreement is broad rather than universal."
+    },
+    {
+      "id": "c2-u07-t-q5",
+      "type": "translation",
+      "category": "writing",
+      "topic": "quantifiers and apposition",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Translate into Indonesian.",
+      "source": "A handful of residents, most of whom were farmers, opposed the plan.",
+      "direction": "en-id",
+      "answers": [
+        "Segelintir warga, yang sebagian besar petani, menentang rencana itu.",
+        "Segelintir warga, yang sebagian besar adalah petani, menentang rencana itu.",
+        "Segelintir warga, yang sebagian besar petani, menentang rencana tersebut.",
+        "Segelintir warga, yang sebagian besar adalah petani, menentang rencana tersebut.",
+        "Segelintir warga, yang kebanyakan petani, menentang rencana itu.",
+        "Segelintir warga, yang kebanyakan adalah petani, menentang rencana tersebut.",
+        "Segelintir penduduk, yang sebagian besar petani, menentang rencana itu.",
+        "Segelintir penduduk, yang sebagian besar adalah petani, menentang rencana tersebut.",
+        "Sejumlah kecil warga, yang sebagian besar petani, menentang rencana itu.",
+        "Sejumlah kecil warga, yang sebagian besar adalah petani, menentang rencana tersebut.",
+        "Segelintir warga, sebagian besar di antaranya petani, menentang rencana itu.",
+        "Beberapa warga, yang sebagian besar petani, menentang rencana itu."
+      ],
+      "explanation": "'A handful of' = segelintir / sejumlah kecil. The non-restrictive clause 'most of whom were farmers' becomes 'yang sebagian besar (adalah) petani'. 'Opposed the plan' = menentang rencana itu/tersebut."
+    },
+    {
+      "id": "c2-u07-t-q6",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "postmodification",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete the sentences with the correct form of the verbs in brackets.",
+      "text": "Ms. Arden was the last person ___ (leave) the building before the fire, and the applicants ___ (shortlist) last week will be interviewed today.",
+      "answers": [
+        ["to leave"],
+        ["shortlisted"]
+      ],
+      "explanation": "After 'the last person', English uses a to-infinitive postmodifier: the last person to leave. The applicants were shortlisted (passive), so a past-participle reduced relative clause is needed: the applicants shortlisted last week."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+-- Seed data is loaded by scripts/seed.ts (npm run db:seed).

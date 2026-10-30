@@ -1,0 +1,663 @@
+{
+  "slug": "b2-u07-past-modals",
+  "number": 7,
+  "title": "Speculating About the Past",
+  "description": "Speculate about and criticise past actions with modal perfects: must have, can't have, might/could have, should/shouldn't have, and the difference between needn't have and didn't need to. Vocabulary: mysteries, mistakes and investigation.",
+  "objectives": [
+    "Make confident deductions about the past with must have and can't have",
+    "Express past possibility with might, may and could have",
+    "Criticise past actions and express regret with should have and shouldn't have",
+    "Distinguish needn't have done from didn't need to do"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u07-l1-must-have-cant-have",
+      "title": "Must Have / Can't Have: Past Deductions",
+      "summary": "Membuat deduksi yang yakin tentang masa lalu dengan must have dan can't have.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form modal perfects: modal + have + past participle",
+        "Use must have when you are almost sure something happened",
+        "Use can't/couldn't have when you are almost sure something didn't happen"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Deduction: thinking like a detective\nWhen we look at **evidence** in the present and make a logical conclusion about the past, we use **modal + have + past participle**.\n\n| Certainty | Structure | Example |\n| --- | --- | --- |\n| ~95% yes | **must have** + past participle | *The ground is wet. It **must have rained** last night.* |\n| ~95% no | **can't have / couldn't have** + past participle | *He **can't have seen** us. He didn't wave.* |\n\n### must have\nUse it when the evidence makes you almost certain:\n- *Lina replied within minutes, so she **must have read** the email.*\n- *All the lights are off. They **must have gone** to bed.*\n\n### can't have / couldn't have\nThe opposite of *must have* is **can't have** (or *couldn't have*), **not** *mustn't have*:\n- ✓ *She **can't have forgotten** — I reminded her twice!*\n- ✗ *She mustn't have forgotten.*\n\n### Continuous form\nFor an activity in progress in the past, use **must/can't have been + -ing**:\n- *Her eyes are red. She **must have been crying**.*\n- *He **can't have been driving** — he doesn't have a licence.*\n\n### Passive form\n*The window **must have been broken** from inside.* (must have been + past participle)\n\n### Present vs past deduction\n| Present | Past |\n| --- | --- |\n| *She **must be** tired.* | *She **must have been** tired.* |\n| *He **can't be** at home.* | *He **can't have been** at home.* |\n\n### Pronunciation tip\nIn speech, *have* is weak: *must've* /ˈmʌstəv/, *can't've* /ˈkɑːntəv/. Don't write *must of* — it's a common spelling error that comes from this pronunciation.\n\n> **Catatan:** *must have + V3* ≈ *pasti (sudah) ...*; *can't have + V3* ≈ *tidak mungkin ...*. Contoh: *Tanahnya basah, pasti tadi malam hujan* → *It must have rained last night.* Ingat, kebalikan *must have* adalah **can't have**, bukan *mustn't have*.",
+        "examples": [
+          { "en": "The ground is wet. It must have rained last night.", "id": "Tanahnya basah. Pasti tadi malam hujan.", "note": "Deduction from evidence." },
+          { "en": "He can't have seen us, or he would have waved.", "id": "Dia tidak mungkin melihat kami; kalau melihat, dia pasti melambai.", "note": "Negative deduction." },
+          { "en": "Her eyes were red. She must have been crying.", "id": "Matanya merah. Dia pasti habis menangis.", "note": "Continuous form." },
+          { "en": "The window must have been broken from the inside.", "id": "Jendela itu pasti dipecahkan dari dalam.", "note": "Passive form." }
+        ],
+        "vocabulary": [
+          { "word": "deduce", "pos": "verb", "ipa": "/dɪˈdjuːs/", "meaning": "menyimpulkan (dari bukti)", "example": "From the footprints, she deduced that two people had been there." },
+          { "word": "conclusion", "pos": "noun", "ipa": "/kənˈkluːʒn/", "meaning": "kesimpulan", "example": "Don't jump to conclusions." },
+          { "word": "logical", "pos": "adjective", "ipa": "/ˈlɒdʒɪkl/", "meaning": "logis", "example": "That's the only logical explanation." },
+          { "word": "pale", "pos": "adjective", "ipa": "/peɪl/", "meaning": "pucat", "example": "He's very pale. He can't have spent much time outside." },
+          { "word": "reply", "pos": "verb", "ipa": "/rɪˈplaɪ/", "meaning": "membalas", "example": "She must have replied from her phone." }
+        ],
+        "grammar": [
+          { "pattern": "subject + must have + past participle", "example": "They must have left early.", "note": "Almost sure: yes." },
+          { "pattern": "subject + can't/couldn't have + past participle", "example": "She can't have heard the news.", "note": "Almost sure: no." },
+          { "pattern": "subject + must/can't have been + -ing", "example": "He must have been sleeping.", "note": "Activity in progress." }
+        ],
+        "mistakes": [
+          { "wrong": "She mustn't have forgotten; I reminded her.", "right": "She can't have forgotten; I reminded her.", "why": "The negative of must have (deduction) is can't have." },
+          { "wrong": "They must have went home.", "right": "They must have gone home.", "why": "After must have, use the past participle." },
+          { "wrong": "You must of been tired.", "right": "You must have been tired.", "why": "Must've sounds like must of, but the correct form is must have." }
+        ],
+        "summary": "Make past deductions with **must have + past participle** (almost certainly yes) and **can't/couldn't have + past participle** (almost certainly no). Use *been + -ing* for activities and *been + past participle* for passives. Never use *mustn't have* or *must of*. *Ringkasan: pasti sudah → must have; tidak mungkin → can't have.*",
+        "reviewCards": [
+          { "front": "must have + V3", "back": "pasti (sudah) ... — almost sure it happened" },
+          { "front": "can't have + V3", "back": "tidak mungkin ... — almost sure it didn't happen" },
+          { "front": "mustn't have ✗", "back": "Use can't have for negative deductions." },
+          { "front": "She must have been crying.", "back": "Dia pasti habis menangis (continuous)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u07-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "must have",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the deduction with must + have + past participle.",
+          "instructions": "Hint: you are almost sure it happened.",
+          "text": "The streets are wet and there are puddles everywhere. It ___ (rain) last night.",
+          "answers": [["must have rained"]],
+          "explanation": "Present evidence (wet streets) → confident deduction about the past: **must have rained**."
+        },
+        {
+          "id": "b2-u07-l1-q2", "type": "dropdown", "category": "grammar", "topic": "must have",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "Lina ___ the email. She replied within five minutes.",
+          "choices": [["must have read", "can't have read", "must read"]],
+          "answers": [0],
+          "explanation": "Her quick reply is evidence she read it → **must have read**. *Must read* is present."
+        },
+        {
+          "id": "b2-u07-l1-q3", "type": "sentence_transformation", "category": "grammar", "topic": "can't have",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using the word in brackets.",
+          "sentence": "I'm sure he didn't see us. (can't)",
+          "cue": "Begin with: He ...",
+          "answers": ["He can't have seen us.", "He cannot have seen us."],
+          "explanation": "*I'm sure ... didn't* = **can't have + past participle**: *He can't have seen us.*"
+        },
+        {
+          "id": "b2-u07-l1-q4", "type": "error_identification", "category": "grammar", "topic": "must have",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["She", "must have forget", "her keys,", "because she's waiting outside the door."],
+          "errorIndex": 1,
+          "correction": "must have forgotten",
+          "explanation": "After *must have*, use the past participle: **must have forgotten**."
+        },
+        {
+          "id": "b2-u07-l1-q5", "type": "single_choice", "category": "grammar", "topic": "can't have",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best deduction.",
+          "context": "Andi has just come back from two weeks in Bali, but he looks very pale.",
+          "options": [
+            "He can't have spent much time on the beach.",
+            "He must have spent a lot of time on the beach.",
+            "He can't spend much time on the beach.",
+            "He mustn't have spent much time on the beach."
+          ],
+          "answer": 0,
+          "explanation": "Being pale suggests he was rarely in the sun → **can't have spent** (negative deduction). *Mustn't have* is not used for deductions, and *can't spend* is present."
+        },
+        {
+          "id": "b2-u07-l1-q6", "type": "matching", "category": "grammar", "topic": "past deduction",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each situation with the most logical deduction.",
+          "pairs": [
+            { "left": "Her eyes are red and she's holding a tissue.", "right": "She must have been crying." },
+            { "left": "He passed the test without studying at all.", "right": "It must have been easy." },
+            { "left": "The shop is dark and the door is locked.", "right": "It must have closed early." },
+            { "left": "The parcel went to the wrong address.", "right": "Someone must have written the address down incorrectly." }
+          ],
+          "explanation": "Each deduction uses *must have (been)* + past participle or *-ing* to explain present evidence."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u07-l2-might-could-have",
+      "title": "Might Have / Could Have: Past Possibility",
+      "summary": "Mengungkapkan kemungkinan di masa lalu dengan might/may/could have, dan could have untuk peluang yang tidak terjadi.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use might/may/could have to say something possibly happened",
+        "Use might not/may not have for possible negatives",
+        "Use could have for possibilities that didn't happen and for criticism"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Possibility about the past\nWhen we are **not sure**, we use **might / may / could + have + past participle** (about 30–60% certain).\n- *I can't find my wallet. I **might have left** it in the taxi.*\n- *Rina isn't here yet. She **may have missed** the bus.*\n- *The noise **could have been** the wind.*\n\n### Negative possibility\nUse **might not have / may not have** (NOT *couldn't have*, which means *can't have* = impossible):\n| Sentence | Meaning |\n| --- | --- |\n| *She **might not have got** my message.* | Perhaps she didn't get it. |\n| *She **couldn't have got** my message.* | It's impossible that she got it. |\n\n### The full scale\n| Certainty | Modal perfect |\n| --- | --- |\n| almost certain: yes | must have done |\n| possible | might / may / could have done |\n| possible: no | might not / may not have done |\n| almost certain: no | can't / couldn't have done |\n\n### could have: something possible that didn't happen\n*Could have* also describes a past possibility or ability that was **not used**:\n- *That car nearly hit you! You **could have been** killed!* (luckily you weren't)\n- *She **could have become** a doctor, but she chose art.*\n\n### could have: criticism\nSaid with stress and an annoyed tone, it criticises someone:\n- *You **could have told** me you were bringing friends!* (You didn't tell me, and I'm annoyed.)\n\n### might have: unrealised danger\n*Might have* can also show something that almost happened: *You **might have broken** your leg!*\n\n### Continuous and passive forms\n- *He **might have been sleeping** when you called.*\n- *The documents **may have been lost** in the post.*\n\n> **Catatan:** *might/may/could have + V3* ≈ *mungkin (sudah) ...*. Hati-hati: *couldn't have* berarti *tidak mungkin*, sedangkan *might not have* berarti *mungkin tidak*. Kalimat *You could have told me!* adalah kritik: *Kenapa tidak bilang dari tadi!*",
+        "examples": [
+          { "en": "I can't find my wallet. I might have left it in the taxi.", "id": "Saya tidak menemukan dompet saya. Mungkin tertinggal di taksi.", "note": "Possibility." },
+          { "en": "She may not have received my email; it sometimes goes to spam.", "id": "Mungkin dia tidak menerima email saya; kadang masuk ke spam.", "note": "Negative possibility." },
+          { "en": "That car nearly hit you! You could have been killed!", "id": "Mobil itu hampir menabrakmu! Kamu bisa saja tewas!", "note": "A danger that didn't happen." },
+          { "en": "You could have told me the meeting was cancelled!", "id": "Kenapa kamu tidak bilang bahwa rapatnya dibatalkan!", "note": "Criticism." }
+        ],
+        "vocabulary": [
+          { "word": "possibility", "pos": "noun", "ipa": "/ˌpɒsəˈbɪləti/", "meaning": "kemungkinan", "example": "There's a possibility that the email was lost." },
+          { "word": "nearly", "pos": "adverb", "ipa": "/ˈnɪəli/", "meaning": "hampir", "example": "I nearly missed the train." },
+          { "word": "spam", "pos": "noun", "ipa": "/spæm/", "meaning": "pesan sampah (spam)", "example": "Your message might have gone to spam." },
+          { "word": "misplace", "pos": "verb", "ipa": "/ˌmɪsˈpleɪs/", "meaning": "salah menaruh", "example": "I may have misplaced the receipt." },
+          { "word": "annoyed", "pos": "adjective", "ipa": "/əˈnɔɪd/", "meaning": "kesal", "example": "She sounded annoyed: 'You could have called!'" }
+        ],
+        "grammar": [
+          { "pattern": "subject + might/may/could + have + past participle", "example": "They may have taken a different road.", "note": "Possibility." },
+          { "pattern": "subject + might not / may not + have + past participle", "example": "He might not have understood.", "note": "Possible negative." },
+          { "pattern": "You could have + past participle! (stress on could)", "example": "You could have asked me first!", "note": "Criticism." }
+        ],
+        "mistakes": [
+          { "wrong": "Perhaps she couldn't have got my message.", "right": "She might not have got my message.", "why": "Couldn't have means impossible; for a possible negative use might/may not have." },
+          { "wrong": "He might has missed the bus.", "right": "He might have missed the bus.", "why": "After a modal, use have, never has." },
+          { "wrong": "You could be killed yesterday!", "right": "You could have been killed yesterday!", "why": "For a past danger, use could have been + past participle." }
+        ],
+        "summary": "Use **might / may / could have + past participle** for past possibilities and **might not / may not have** for possible negatives. *Could have* also describes possibilities that didn't happen (*You could have been killed!*) and criticism (*You could have told me!*). *Ringkasan: might have = mungkin sudah; couldn't have = tidak mungkin.*",
+        "reviewCards": [
+          { "front": "might / may / could have + V3", "back": "mungkin (sudah) ..." },
+          { "front": "might not have vs couldn't have", "back": "mungkin tidak vs tidak mungkin" },
+          { "front": "You could have been killed!", "back": "Bahaya yang hampir terjadi tetapi tidak terjadi" },
+          { "front": "You could have told me!", "back": "Kritik: kenapa tidak memberi tahu?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u07-l2-q1", "type": "dropdown", "category": "grammar", "topic": "might have",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "instructions": "Hint: the speaker is not sure.",
+          "text": "I'm not sure where Rina is. She ___ the earlier train.",
+          "choices": [["might have taken", "must have taken", "can't have taken"]],
+          "answers": [0],
+          "explanation": "*I'm not sure* → possibility, not certainty → **might have taken**."
+        },
+        {
+          "id": "b2-u07-l2-q2", "type": "multiple_select", "category": "grammar", "topic": "past possibility",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which sentences say that it is POSSIBLE (but not certain) that he missed the bus? Select all that apply.",
+          "options": [
+            "He may have missed the bus.",
+            "He could have missed the bus.",
+            "He must have missed the bus.",
+            "He might have missed the bus.",
+            "He can't have missed the bus."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "*May/could/might have* = possibility. *Must have* = almost certain; *can't have* = almost impossible."
+        },
+        {
+          "id": "b2-u07-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "might not have",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using might.",
+          "sentence": "Perhaps she didn't get my message.",
+          "cue": "Begin with: She ...",
+          "answers": [
+            "She might not have got my message.",
+            "She might not have gotten my message.",
+            "She might not have received my message."
+          ],
+          "explanation": "*Perhaps ... didn't* = **might not have + past participle**."
+        },
+        {
+          "id": "b2-u07-l2-q4", "type": "fill_blank", "category": "grammar", "topic": "could have",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete with a modal perfect. Use the verb in brackets.",
+          "text": "That motorbike nearly hit you! You ___ (be) killed!",
+          "answers": [["could have been", "might have been"]],
+          "explanation": "A serious danger that luckily didn't happen → **could have been** (or *might have been*) killed."
+        },
+        {
+          "id": "b2-u07-l2-q5", "type": "single_choice", "category": "grammar", "topic": "could have criticism",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Your friend says angrily: \"You could have told me!\" What does she mean?",
+          "options": [
+            "You had the chance to tell me, but you didn't, and I'm annoyed.",
+            "Perhaps you told me, but I don't remember.",
+            "You told me, and I'm grateful.",
+            "You will tell me later."
+          ],
+          "answer": 0,
+          "explanation": "Said angrily, **could have + past participle** is a criticism: the person could have done it but didn't."
+        },
+        {
+          "id": "b2-u07-l2-q6", "type": "translation", "category": "grammar", "topic": "might have",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English using a modal perfect.",
+          "source": "Mungkin Tomi lupa tentang rapat itu.",
+          "direction": "id-en",
+          "answers": [
+            "Tomi might have forgotten about the meeting.",
+            "Tomi may have forgotten about the meeting.",
+            "Tomi could have forgotten about the meeting.",
+            "Tomi might have forgotten the meeting.",
+            "Tomi may have forgotten the meeting.",
+            "Tomi could have forgotten the meeting."
+          ],
+          "explanation": "*Mungkin* + past event → **might/may/could have + past participle**: *Tomi might have forgotten about the meeting.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u07-l3-should-have",
+      "title": "Should Have / Shouldn't Have: Criticism and Regret",
+      "summary": "Mengkritik tindakan masa lalu dan mengungkapkan penyesalan dengan should have dan shouldn't have.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use should have + past participle for things that didn't happen but were a good idea",
+        "Use shouldn't have + past participle for mistakes",
+        "Use ought to have as a more formal alternative"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Meaning\n**should have + past participle** = it was the right thing to do, but it **didn't** happen.\n**shouldn't have + past participle** = it was the wrong thing to do, but it **did** happen.\n\n| Sentence | Reality | Function |\n| --- | --- | --- |\n| *I **should have studied** harder.* | I didn't study hard. | regret |\n| *You **shouldn't have shouted** at him.* | You shouted. | criticism |\n| *We **should have booked** online.* | We didn't book. | regret / criticism |\n\n### ought to have\nA slightly more formal alternative with the same meaning:\n- *The council **ought to have repaired** the road years ago.*\n- *You **ought not to have** signed it without reading it.*\n\n### Criticising politely\nDirect criticism with *should have* can sound strong. Soften it:\n| Strong | Softer |\n| --- | --- |\n| *You should have asked me.* | *It might have been better to ask me.* / *Maybe you could have asked me?* |\n\n### Expectation that wasn't met\n*Should have* can also mean something was expected but we're not sure it happened:\n- *The parcel **should have arrived** by now.* (It was expected; I'm surprised/worried.)\n\n### Comparing past modals\n| Modal perfect | Meaning |\n| --- | --- |\n| must have done | I'm sure it happened (deduction) |\n| might have done | perhaps it happened |\n| **should have done** | it was a good idea, but it didn't happen |\n| **shouldn't have done** | it was a bad idea, but it happened |\n| could have done | it was possible, but it didn't happen |\n\nCompare: *He **must have** taken the wrong road* (deduction) vs *He **should have** taken the other road* (criticism).\n\n> **Catatan:** *should have + V3* = *seharusnya (dulu) ...* — tetapi tidak dilakukan. *shouldn't have + V3* = *seharusnya tidak ...* — tetapi dilakukan. Contoh: *Seharusnya saya belajar lebih giat* → *I should have studied harder.*",
+        "examples": [
+          { "en": "I failed the test. I should have studied harder.", "id": "Saya gagal ujian. Seharusnya saya belajar lebih giat.", "note": "Regret." },
+          { "en": "You shouldn't have told her the secret.", "id": "Seharusnya kamu tidak memberitahunya rahasia itu.", "note": "Criticism." },
+          { "en": "The government ought to have acted sooner.", "id": "Pemerintah seharusnya bertindak lebih cepat.", "note": "Formal criticism." },
+          { "en": "The bus should have arrived ten minutes ago.", "id": "Bus itu seharusnya sudah tiba sepuluh menit yang lalu.", "note": "Unmet expectation." }
+        ],
+        "vocabulary": [
+          { "word": "blame", "pos": "verb", "ipa": "/bleɪm/", "meaning": "menyalahkan", "example": "Don't blame yourself; anyone could have made that mistake." },
+          { "word": "careless", "pos": "adjective", "ipa": "/ˈkeələs/", "meaning": "ceroboh", "example": "It was careless. I should have checked." },
+          { "word": "warning", "pos": "noun", "ipa": "/ˈwɔːnɪŋ/", "meaning": "peringatan", "example": "We should have listened to the warning." },
+          { "word": "permission", "pos": "noun", "ipa": "/pəˈmɪʃn/", "meaning": "izin", "example": "You ought to have asked for permission." },
+          { "word": "regret", "pos": "verb", "ipa": "/rɪˈɡret/", "meaning": "menyesal", "example": "I regret it. I shouldn't have said that." }
+        ],
+        "grammar": [
+          { "pattern": "subject + should have + past participle", "example": "We should have left earlier.", "note": "Good idea, but it didn't happen." },
+          { "pattern": "subject + shouldn't have + past participle", "example": "I shouldn't have eaten so much.", "note": "Bad idea, but it happened." },
+          { "pattern": "subject + ought (not) to have + past participle", "example": "They ought not to have ignored the warning.", "note": "More formal." }
+        ],
+        "mistakes": [
+          { "wrong": "I should have went to the doctor.", "right": "I should have gone to the doctor.", "why": "After should have, use the past participle (gone)." },
+          { "wrong": "You should told me earlier.", "right": "You should have told me earlier.", "why": "For past criticism, use should + have + past participle." },
+          { "wrong": "I must have studied harder for the exam. (regret)", "right": "I should have studied harder for the exam.", "why": "Must have is for deduction; for regret or criticism use should have." }
+        ],
+        "summary": "Use **should have + past participle** for good actions that didn't happen (regret/criticism) and **shouldn't have + past participle** for bad actions that did happen. *Ought (not) to have* is more formal. Don't confuse *should have* (criticism) with *must have* (deduction). *Ringkasan: seharusnya (tidak) ... = should(n't) have + V3.*",
+        "reviewCards": [
+          { "front": "should have + V3", "back": "seharusnya ... (tetapi tidak dilakukan)" },
+          { "front": "shouldn't have + V3", "back": "seharusnya tidak ... (tetapi dilakukan)" },
+          { "front": "ought to have + V3", "back": "More formal version of should have" },
+          { "front": "must have vs should have", "back": "deduksi (pasti sudah) vs kritik/penyesalan (seharusnya)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u07-l3-q1", "type": "fill_blank", "category": "grammar", "topic": "should have",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence to express regret. Use the verb in brackets.",
+          "instructions": "Hint: should + have + past participle.",
+          "text": "I failed the test. I ___ (study) harder.",
+          "answers": [["should have studied", "ought to have studied"]],
+          "explanation": "Regret about something you didn't do → **should have studied**."
+        },
+        {
+          "id": "b2-u07-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "shouldn't have",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence using shouldn't.",
+          "sentence": "It was a mistake to tell her the secret.",
+          "cue": "Begin with: I ...",
+          "answers": [
+            "I shouldn't have told her the secret.",
+            "I should not have told her the secret.",
+            "I shouldn't have told her."
+          ],
+          "explanation": "A mistake that happened → **shouldn't have + past participle**: *I shouldn't have told her the secret.*"
+        },
+        {
+          "id": "b2-u07-l3-q3", "type": "dialogue_completion", "category": "conversation", "topic": "should have",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Rudi", "text": "I'm so tired today. I stayed up until 3 a.m. watching a series." },
+            { "speaker": "Sari", "text": null }
+          ],
+          "options": [
+            "You should have gone to bed earlier.",
+            "You should go to bed earlier yesterday.",
+            "You must have gone to bed earlier.",
+            "You shouldn't have gone to bed earlier."
+          ],
+          "answer": 0,
+          "explanation": "Criticism of a past action that didn't happen → **should have gone**. *Must have* is deduction, and *shouldn't have gone to bed earlier* is illogical."
+        },
+        {
+          "id": "b2-u07-l3-q4", "type": "error_identification", "category": "grammar", "topic": "should have",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["We", "should have book", "the tickets online;", "now they're sold out."],
+          "errorIndex": 1,
+          "correction": "should have booked",
+          "explanation": "After *should have*, use the past participle: **should have booked**."
+        },
+        {
+          "id": "b2-u07-l3-q5", "type": "dropdown", "category": "grammar", "topic": "should have",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "A driver went through a red light while texting. Criticise his actions.",
+          "text": "He ___ have stopped at the red light, and he ___ have been using his phone while driving.",
+          "choices": [["should", "must", "can't"], ["shouldn't", "must", "needn't"]],
+          "answers": [0, 0],
+          "explanation": "Criticism: the right action that didn't happen → **should have stopped**; the wrong action that happened → **shouldn't have been using**."
+        },
+        {
+          "id": "b2-u07-l3-q6", "type": "word_order", "category": "grammar", "topic": "ought to have",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["You", "ought", "to", "have", "asked", "for", "permission"],
+          "explanation": "**ought to have + past participle** = should have (more formal): *You ought to have asked for permission.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u07-l4-neednt-have",
+      "title": "Needn't Have vs Didn't Need To",
+      "summary": "Membedakan needn't have done (sudah dilakukan tetapi tidak perlu) dan didn't need to do (tidak perlu, jadi biasanya tidak dilakukan).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use needn't have + past participle for unnecessary actions that were done",
+        "Use didn't need to + infinitive for things that weren't necessary",
+        "Choose the correct form from the context"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Two ways to talk about past (non-)necessity\n| Form | Meaning | Did the action happen? |\n| --- | --- | --- |\n| **needn't have + past participle** | It wasn't necessary, but you did it (wasted effort). | **Yes** |\n| **didn't need to + infinitive** | It wasn't necessary. | Usually **no** (or we don't say) |\n\n### needn't have done\nThe speaker knows **now** that the action was unnecessary:\n- *I **needn't have taken** an umbrella. It didn't rain.* (I took one.)\n- *You **needn't have cooked** so much. Half of it is left!* (You cooked a lot.)\n- *Thank you for the flowers, but you really **needn't have bought** me anything!* (polite)\n\n### didn't need to do\nUsually, we knew **at the time** that it wasn't necessary, so we didn't do it:\n- *The hotel provided towels, so we **didn't need to bring** any.* (We didn't bring towels.)\n- *I **didn't need to wake** up early, so I slept until ten.*\n\nNote: *didn't need to* can sometimes be used when the action happened, if the context makes this clear (*I didn't need to hurry, but I did anyway*). *Needn't have*, however, **always** means the action happened.\n\n### Form reminders\n- *needn't* + **have** + past participle (no *to*): ✗ *needn't to have bought*\n- *didn't need* + **to** + infinitive: ✗ *didn't need buy*\n- Full form *need not have* is formal.\n\n### Related forms\n| Form | Meaning |\n| --- | --- |\n| *had to do* | it was necessary, and we did it |\n| *didn't have to do* | it wasn't necessary (like *didn't need to*) |\n| *should have done* | it was a good idea, but we didn't do it |\n\n> **Catatan:** *needn't have + V3* = *sebenarnya tidak perlu ... (tapi sudah terlanjur dilakukan)*. *didn't need to + V1* = *tidak perlu ... (jadi tidak dilakukan)*. Contoh: *Saya sebenarnya tidak perlu membawa payung — tidak hujan* → *I needn't have brought an umbrella.*",
+        "examples": [
+          { "en": "I needn't have taken an umbrella. It didn't rain at all.", "id": "Sebenarnya saya tidak perlu membawa payung. Sama sekali tidak hujan.", "note": "Done, but unnecessary." },
+          { "en": "The hotel provided towels, so we didn't need to bring any.", "id": "Hotel menyediakan handuk, jadi kami tidak perlu membawa.", "note": "Not necessary, not done." },
+          { "en": "You needn't have waited for me. I had my keys.", "id": "Kamu sebenarnya tidak perlu menungguku. Aku bawa kunci.", "note": "Done, but unnecessary." },
+          { "en": "It was a holiday, so I didn't need to go to work.", "id": "Hari itu libur, jadi saya tidak perlu bekerja.", "note": "Not necessary." }
+        ],
+        "vocabulary": [
+          { "word": "unnecessary", "pos": "adjective", "ipa": "/ʌnˈnesəsəri/", "meaning": "tidak perlu", "example": "All that worry was unnecessary." },
+          { "word": "provide", "pos": "verb", "ipa": "/prəˈvaɪd/", "meaning": "menyediakan", "example": "The school provides lunch." },
+          { "word": "stale", "pos": "adjective", "ipa": "/steɪl/", "meaning": "basi, keras (roti)", "example": "Half the bread went stale." },
+          { "word": "in advance", "pos": "phrase", "ipa": "/ɪn ədˈvɑːns/", "meaning": "sebelumnya, di muka", "example": "We needn't have booked in advance; the restaurant was empty." },
+          { "word": "waste of time", "pos": "phrase", "ipa": "/ˌweɪst əv ˈtaɪm/", "meaning": "buang-buang waktu", "example": "Queuing was a waste of time. We needn't have arrived so early." }
+        ],
+        "grammar": [
+          { "pattern": "subject + needn't have + past participle", "example": "We needn't have hurried.", "note": "Action happened, but was unnecessary." },
+          { "pattern": "subject + didn't need to + infinitive", "example": "We didn't need to hurry, so we walked.", "note": "Usually: action didn't happen." },
+          { "pattern": "subject + didn't have to + infinitive", "example": "I didn't have to pay; it was free.", "note": "Similar to didn't need to." }
+        ],
+        "mistakes": [
+          { "wrong": "We needn't to have bought so much bread.", "right": "We needn't have bought so much bread.", "why": "Needn't is followed by have + past participle without to." },
+          { "wrong": "The hotel had towels, so we needn't have brought any, and we left ours at home.", "right": "The hotel had towels, so we didn't need to bring any, and we left ours at home.", "why": "They didn't bring towels, so needn't have (which means the action happened) is wrong." },
+          { "wrong": "I didn't need wake up early.", "right": "I didn't need to wake up early.", "why": "Didn't need is followed by to + infinitive." }
+        ],
+        "summary": "**needn't have + past participle**: the action happened but was unnecessary. **didn't need to + infinitive**: it wasn't necessary, and usually it didn't happen. *Ringkasan: needn't have = terlanjur dilakukan; didn't need to = tidak perlu (dan biasanya tidak dilakukan).*",
+        "reviewCards": [
+          { "front": "I needn't have brought an umbrella.", "back": "Saya membawa payung, tapi ternyata tidak perlu." },
+          { "front": "I didn't need to bring an umbrella.", "back": "Tidak perlu membawa payung (biasanya: tidak dibawa)." },
+          { "front": "needn't to have ✗", "back": "needn't have + V3 ✓" },
+          { "front": "had to vs didn't have to", "back": "harus (dan dilakukan) vs tidak harus" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u07-l4-q1", "type": "single_choice", "category": "grammar", "topic": "needn't have",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "I took an umbrella, but it didn't rain. Which sentence describes this situation?",
+          "instructions": "Hint: the action happened, but it wasn't necessary.",
+          "options": [
+            "I needn't have taken an umbrella.",
+            "I didn't need to take an umbrella, so I left it at home.",
+            "I mustn't have taken an umbrella.",
+            "I needn't take an umbrella."
+          ],
+          "answer": 0,
+          "explanation": "The umbrella was taken, but it was unnecessary → **needn't have taken**. Option 2 says the umbrella was left at home, which contradicts the situation."
+        },
+        {
+          "id": "b2-u07-l4-q2", "type": "dropdown", "category": "grammar", "topic": "didn't need to",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "The hotel provided towels, so we ___ bring our own. We left them at home.",
+          "choices": [["didn't need to", "needn't have", "mustn't"]],
+          "answers": [0],
+          "explanation": "It wasn't necessary and they didn't bring towels → **didn't need to bring**. *Needn't have* would need a past participle and means they did bring them."
+        },
+        {
+          "id": "b2-u07-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "needn't have",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using needn't. Keep the words 'lots of food'.",
+          "sentence": "I cooked lots of food, but it wasn't necessary because everyone had already eaten.",
+          "cue": "Begin with: I needn't ...",
+          "answers": [
+            "I needn't have cooked lots of food.",
+            "I needn't have cooked lots of food because everyone had already eaten.",
+            "I needn't have cooked lots of food, because everyone had already eaten."
+          ],
+          "explanation": "The cooking happened but was unnecessary → **needn't have cooked**."
+        },
+        {
+          "id": "b2-u07-l4-q4", "type": "matching", "category": "grammar", "topic": "past necessity",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each sentence with its meaning.",
+          "pairs": [
+            { "left": "I needn't have hurried.", "right": "I hurried, but it wasn't necessary." },
+            { "left": "I didn't need to hurry, so I walked slowly.", "right": "It wasn't necessary, so I didn't hurry." },
+            { "left": "I should have hurried.", "right": "I didn't hurry, and that was a mistake." },
+            { "left": "I had to hurry.", "right": "It was necessary, so I hurried." }
+          ],
+          "explanation": "*Needn't have* = done but unnecessary; *didn't need to* = not necessary (not done); *should have* = criticism/regret; *had to* = necessary and done."
+        },
+        {
+          "id": "b2-u07-l4-q5", "type": "error_identification", "category": "grammar", "topic": "needn't have",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["We", "needn't to have bought", "so much bread;", "half of it went stale."],
+          "errorIndex": 1,
+          "correction": "needn't have bought",
+          "explanation": "*Needn't* is followed by **have + past participle**, without *to*."
+        },
+        {
+          "id": "b2-u07-l4-q6", "type": "fill_blank", "category": "grammar", "topic": "needn't have",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence using the words in brackets.",
+          "text": "Thank you so much for the flowers, but you really ___ (needn't / buy) me anything!",
+          "answers": [["needn't have bought", "need not have bought"]],
+          "explanation": "The friend bought flowers, which wasn't necessary → **needn't have bought** (a polite thank-you)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u07-l5-mysteries-investigation",
+      "title": "Vocabulary: Mysteries and Investigation",
+      "summary": "Kosakata tentang misteri dan penyelidikan, digabung dengan modal perfect untuk berspekulasi.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use vocabulary for investigations (clue, motive, alibi, rule out, track down)",
+        "Combine evidence and modal perfects to solve a mystery",
+        "Discuss theories about unexplained events"
+      ],
+      "completionCriteria": "Complete the speaking task and score at least 70% on the mini quiz. (Selesaikan tugas berbicara dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### The language of investigation\n| Word | Meaning | Example |\n| --- | --- | --- |\n| clue | a piece of information that helps solve a mystery | A muddy footprint was the first **clue**. |\n| motive | a reason for committing a crime | Nobody had a **motive** to steal the letters. |\n| alibi | proof that you were somewhere else | He has an **alibi**: he was at a wedding. |\n| fingerprints / footprints | marks from fingers / feet | No **fingerprints** were found. |\n| theory | an idea that explains something | The detective has a new **theory**. |\n\n### Useful verbs and phrasal verbs\n| Verb | Meaning |\n| --- | --- |\n| investigate | examine carefully to find the truth |\n| rule out | decide that something is not possible |\n| track down | find after a long search |\n| piece together | understand by combining information |\n| vanish / disappear | stop being visible, suddenly |\n| solve a mystery / a case | find the answer |\n\n### Speculating with evidence\nA good investigator moves from **evidence** to **conclusion** using the modals from this unit:\n\n| Evidence | Conclusion |\n| --- | --- |\n| The window was broken from inside. | The thief **can't have come in** through the window. |\n| The door wasn't damaged. | He **must have had** a key. |\n| The gardener was abroad. | We can **rule out** the gardener. |\n| The dog didn't bark. | The thief **might have been** someone the dog knew. |\n\n### Phrases for presenting a theory\n- *The evidence suggests that... / It looks as if...*\n- *One possible explanation is that...*\n- *That would explain why...*\n- *I'm not convinced. He **could have** ... instead.*\n\n### Mistakes and their consequences\nInvestigations also find **mistakes**: *The security guard **shouldn't have left** the door unlocked. The museum **should have installed** cameras.*\n\n> **Catatan:** *Clue* = petunjuk; *motive* = motif; *alibi* = alibi (bukti berada di tempat lain); *rule out* = mengesampingkan kemungkinan; *track down* = melacak sampai ketemu. Gabungkan dengan *must have / can't have / might have* untuk menyusun deduksi seperti detektif.",
+        "examples": [
+          { "en": "The detectives found a vital clue: a train ticket in the victim's coat.", "id": "Para detektif menemukan petunjuk penting: tiket kereta di mantel korban.", "note": "clue" },
+          { "en": "We can rule out robbery, because nothing was taken.", "id": "Kita bisa mengesampingkan perampokan, karena tidak ada yang diambil.", "note": "rule out" },
+          { "en": "The dog didn't bark, so the intruder must have been someone it knew.", "id": "Anjingnya tidak menggonggong, jadi penyusup itu pasti orang yang dikenalnya.", "note": "Deduction." },
+          { "en": "After months of searching, police tracked down the missing painting.", "id": "Setelah berbulan-bulan mencari, polisi berhasil melacak lukisan yang hilang itu.", "note": "track down" }
+        ],
+        "vocabulary": [
+          { "word": "clue", "pos": "noun", "ipa": "/kluː/", "meaning": "petunjuk", "example": "There were no clues at the scene." },
+          { "word": "motive", "pos": "noun", "ipa": "/ˈməʊtɪv/", "meaning": "motif", "example": "What was the motive for the crime?" },
+          { "word": "alibi", "pos": "noun", "ipa": "/ˈæləbaɪ/", "meaning": "alibi", "example": "Her alibi was confirmed by three witnesses." },
+          { "word": "rule out", "pos": "phrasal verb", "ipa": "/ˌruːl ˈaʊt/", "meaning": "mengesampingkan (kemungkinan)", "example": "Police have ruled out an accident." },
+          { "word": "track down", "pos": "phrasal verb", "ipa": "/ˌtræk ˈdaʊn/", "meaning": "melacak sampai ditemukan", "example": "They tracked down the owner of the car." },
+          { "word": "vanish", "pos": "verb", "ipa": "/ˈvænɪʃ/", "meaning": "lenyap", "example": "The ship vanished without a trace." }
+        ],
+        "grammar": [
+          { "pattern": "The evidence suggests that + subject + must/might have + past participle", "example": "The evidence suggests that he must have left in a hurry.", "note": "Presenting a theory." },
+          { "pattern": "rule out + noun / -ing", "example": "We can't rule out sabotage.", "note": "Separable: rule it out." },
+          { "pattern": "That would explain why + clause", "example": "That would explain why the door was open.", "note": "Supporting a theory." }
+        ],
+        "mistakes": [
+          { "wrong": "Nobody saw him leave, so he mustn't have left the building.", "right": "Nobody saw him leave, so he can't have left the building.", "why": "For negative deductions, use can't have (or might not have), not mustn't have." },
+          { "wrong": "The police found an important clew.", "right": "The police found an important clue.", "why": "The correct spelling is clue." },
+          { "wrong": "Police finally tracked out the thief in a small village.", "right": "Police finally tracked down the thief in a small village.", "why": "The phrasal verb meaning 'find after a long search' is track down." }
+        ],
+        "summary": "Investigation vocabulary: **clue, motive, alibi, fingerprints, theory, investigate, rule out, track down, piece together, vanish, solve**. Combine evidence with **must have / can't have / might have** to build theories, and **should(n't) have** to describe mistakes. *Ringkasan: bukti → deduksi → teori.*",
+        "reviewCards": [
+          { "front": "clue", "back": "petunjuk" },
+          { "front": "alibi", "back": "bukti bahwa seseorang berada di tempat lain" },
+          { "front": "rule out", "back": "mengesampingkan kemungkinan" },
+          { "front": "track down", "back": "melacak sampai ketemu" },
+          { "front": "That would explain why ...", "back": "Itu akan menjelaskan mengapa ..." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u07-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "investigation",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the best word.",
+          "instructions": "Hint: proof that a person was somewhere else.",
+          "context": "The suspect had an ___: he was at a wedding in another city when the crime happened.",
+          "options": ["alibi", "motive", "clue", "verdict"],
+          "answer": 0,
+          "explanation": "An **alibi** is proof that you were somewhere else when a crime happened. A *motive* is a reason; a *clue* is a piece of information; a *verdict* is a court decision."
+        },
+        {
+          "id": "b2-u07-l5-q2", "type": "matching", "category": "vocabulary", "topic": "investigation",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each word or phrase with its meaning.",
+          "pairs": [
+            { "left": "clue", "right": "information that helps to solve a mystery" },
+            { "left": "motive", "right": "a reason for doing something, especially a crime" },
+            { "left": "rule out", "right": "decide that something is not possible" },
+            { "left": "track down", "right": "find someone or something after a long search" },
+            { "left": "vanish", "right": "disappear suddenly" }
+          ],
+          "explanation": "These words appear often in detective stories and crime news."
+        },
+        {
+          "id": "b2-u07-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "speculating about the past",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Your neighbour's front door is wide open, the lights are on, a cup of hot coffee is on the table, and the car is gone. Speculate for about one minute about what might have happened. Use at least four different modal perfects.",
+          "targetPhrases": ["must have", "might have", "can't have", "could have", "should have"],
+          "sampleAnswer": "Well, the coffee is still hot, so they must have left just a few minutes ago. They can't have gone on holiday, because the lights are on and the door is open. They might have had an emergency. Maybe someone called them and they had to rush to the hospital. Or they could have just driven to the shop and forgotten to close the door. Either way, they shouldn't have left the door open. Someone could have walked in!",
+          "explanation": "A good answer moves from evidence to conclusions and shows different degrees of certainty (*must, might, can't*) plus criticism (*shouldn't have*)."
+        },
+        {
+          "id": "b2-u07-l5-q4", "type": "dropdown", "category": "grammar", "topic": "past deduction",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Read the evidence and choose the correct modals.",
+          "text": "The window was broken from the inside, so the thief ___ have come in that way. The front door wasn't damaged, so he ___ have had a key.",
+          "choices": [["can't", "must", "should"], ["must", "can't", "needn't"]],
+          "answers": [0, 0],
+          "explanation": "Broken from inside → the thief **can't have** entered through the window. The door wasn't forced → he **must have** had a key."
+        },
+        {
+          "id": "b2-u07-l5-q5", "type": "drag_drop", "category": "vocabulary", "topic": "investigation",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "Detectives found a ___: a muddy footprint near the door. They quickly ___ out the gardener, who had been abroad all week, and eventually ___ down the real thief in another city.",
+          "bank": ["clue", "ruled", "tracked", "motive", "solved"],
+          "answers": ["clue", "ruled", "tracked"],
+          "explanation": "A footprint is a **clue**; they **ruled out** the gardener (he had an alibi); they **tracked down** the thief."
+        },
+        {
+          "id": "b2-u07-l5-q6", "type": "sentence_correction", "category": "grammar", "topic": "can't have",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the modal in this sentence.",
+          "sentence": "Nobody saw him leave, so he mustn't have left the building.",
+          "answers": [
+            "Nobody saw him leave, so he can't have left the building.",
+            "Nobody saw him leave, so he couldn't have left the building.",
+            "Nobody saw him leave, so he might not have left the building.",
+            "Nobody saw him leave, so he may not have left the building."
+          ],
+          "explanation": "*Mustn't have* is not used for deductions. Use **can't have** (certain) or *might not have* (possible)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u07-t-q1", "type": "single_choice", "category": "grammar", "topic": "can't have",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "You ___ have seen Daniel in town yesterday. He's been in Tokyo all week.",
+      "options": ["can't", "must", "should", "needn't"],
+      "answer": 0,
+      "explanation": "It's impossible because he was in Tokyo → **can't have seen**."
+    },
+    {
+      "id": "b2-u07-t-q2", "type": "fill_blank", "category": "grammar", "topic": "should have",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the sentence. Use the words in brackets.",
+      "text": "We waited for ages! You ___ (should / call) to say you'd be late.",
+      "answers": [["should have called"]],
+      "explanation": "Criticism of something that didn't happen → **should have called**."
+    },
+    {
+      "id": "b2-u07-t-q3", "type": "matching", "category": "grammar", "topic": "modal perfects",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Match each modal perfect with its meaning.",
+      "pairs": [
+        { "left": "must have done", "right": "I'm almost sure it happened." },
+        { "left": "can't have done", "right": "I'm almost sure it didn't happen." },
+        { "left": "might have done", "right": "Perhaps it happened." },
+        { "left": "should have done", "right": "It was a good idea, but it didn't happen." },
+        { "left": "needn't have done", "right": "It happened, but it wasn't necessary." }
+      ],
+      "explanation": "Modal perfects express deduction (*must/can't*), possibility (*might*), criticism (*should*) and unnecessary actions (*needn't*)."
+    },
+    {
+      "id": "b2-u07-t-q4", "type": "sentence_transformation", "category": "grammar", "topic": "may have",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence using may.",
+      "sentence": "It's possible that the parcel was delivered to the wrong house.",
+      "cue": "Begin with: The parcel ...",
+      "answers": ["The parcel may have been delivered to the wrong house."],
+      "explanation": "Possibility + passive → **may have been + past participle**."
+    },
+    {
+      "id": "b2-u07-t-q5", "type": "error_identification", "category": "grammar", "topic": "should have",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["I", "should have went", "to the doctor", "much sooner."],
+      "errorIndex": 1,
+      "correction": "should have gone",
+      "explanation": "After *should have*, use the past participle: **gone** (go – went – gone)."
+    },
+    {
+      "id": "b2-u07-t-q6", "type": "dialogue_completion", "category": "conversation", "topic": "can't have",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the most logical reply.",
+      "dialogue": [
+        { "speaker": "Dimas", "text": "I thought my wallet was stolen at the market, but I've just found it in my coat pocket!" },
+        { "speaker": "Ayu", "text": null }
+      ],
+      "options": [
+        "So it can't have been stolen at the market after all.",
+        "So it must be stolen at the market.",
+        "So it needn't have been stolen.",
+        "So it should have been stolen at the market."
+      ],
+      "answer": 0,
+      "explanation": "The wallet was in his pocket, so it's impossible that it was stolen → **can't have been stolen** (passive negative deduction)."
+    },
+    {
+      "id": "b2-u07-t-q7", "type": "translation", "category": "grammar", "topic": "shouldn't have",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Seharusnya kamu tidak mengatakan itu kepadanya.",
+      "direction": "id-en",
+      "answers": [
+        "You shouldn't have said that to her.",
+        "You shouldn't have said that to him.",
+        "You should not have said that to her.",
+        "You should not have said that to him.",
+        "You shouldn't have told her that.",
+        "You shouldn't have told him that.",
+        "You ought not to have said that to her.",
+        "You ought not to have said that to him."
+      ],
+      "explanation": "*Seharusnya tidak* + past action that happened → **shouldn't have + past participle**."
+    }
+  ]
+}

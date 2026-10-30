@@ -1,0 +1,1323 @@
+{
+  "slug": "c2-u06-rhetoric",
+  "number": 6,
+  "title": "Rhetoric and Persuasion",
+  "description": "Analyse and produce persuasive texts using rhetorical questions, tricolon, parallelism, antithesis and emphatic structures, and understand how speeches and campaigns appeal to credibility, emotion and logic.",
+  "objectives": [
+    "Interpret and use rhetorical questions, including negative and answered questions",
+    "Build tricolons and keep parallel structures grammatically consistent",
+    "Use antithesis and chiasmus to sharpen contrasts",
+    "Add emphasis with emphatic do, the very, whatsoever, by far and reflexive pronouns",
+    "Analyse persuasive texts in terms of ethos, pathos and logos"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u06-l1-rhetorical-questions",
+      "title": "Who Could Disagree? Rhetorical Questions",
+      "summary": "Recognise the implied statements behind rhetorical questions and use them to engage and persuade.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Identify the implied statement behind a rhetorical question",
+        "Form negative rhetorical questions such as Isn't it time ...?",
+        "Use hypophora (asking and answering) to structure an argument"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is a rhetorical question?\nA **rhetorical question** has the form of a question but the function of a statement. The speaker does not expect an answer, because the answer is assumed to be obvious. *Who could object to cleaner air?* means *Nobody could object to cleaner air.* Rhetorical questions involve the audience, make a claim feel self-evident and add rhythm to a speech or essay.\n\n### Common patterns and their implied meanings\n| Pattern | Example | Implied statement |\n|---|---|---|\n| Who + modal ...? | Who could deny that? | Nobody could deny that. |\n| Negative yes/no question | Haven't we waited long enough? | We have waited long enough. |\n| Isn't it time (that) + past simple? | Isn't it time we acted? | We should act now. |\n| What's the point of ...? | What's the point of complaining? | Complaining is useless. |\n| How many more ... must/do ...? | How many more warnings do we need? | We have had enough warnings. |\n| Since when + present perfect? | Since when has honesty been a crime? | Honesty is not a crime. |\n\nNote the reversal of polarity: a **positive** rhetorical question often implies a **negative** statement (*Who cares?* = *Nobody cares*), while a **negative** one implies a **positive** statement (*Isn't it obvious?* = *It is obvious*).\n\n### Hypophora: asking and answering\nIn **hypophora**, the speaker asks a question and immediately answers it: *What does this mean for ordinary families? Quite simply, higher bills.* This technique anticipates the audience's question, creates a moment of suspense and lets the speaker control the answer. It is common in lectures, op-eds and political speeches, and it also works well as a paragraph opener in persuasive essays.\n\n### Grammar points\n- After *Isn't it time*, use a **past simple** verb with present meaning, or *for* + object + to-infinitive: *Isn't it time we **moved** on? / Isn't it time for us to move on?*\n- Rhetorical questions take normal question word order: *How **can we** ignore this?* (not *How we can ignore this?*).\n- In writing, they end with a question mark even though no answer is expected.\n\n### Using rhetorical questions well\nRhetorical questions are powerful in speeches, campaigns and opinion journalism. In academic writing, however, use them sparingly: one well-placed question in an introduction can frame a research problem, but a series of them sounds like a political speech. Avoid questions whose answer is **not** obvious to your audience; if listeners might answer *Yes, actually*, the device backfires.",
+        "examples": [
+          {
+            "en": "Who could possibly object to safer streets for our children?",
+            "id": "Siapa yang mungkin keberatan dengan jalanan yang lebih aman bagi anak-anak kita?",
+            "note": "Implied: nobody could object."
+          },
+          {
+            "en": "Isn't it time we stopped blaming each other and started working together?",
+            "id": "Bukankah sudah saatnya kita berhenti saling menyalahkan dan mulai bekerja sama?",
+            "note": "Isn't it time + past simple = we should do this now."
+          },
+          {
+            "en": "What does this mean for small businesses? It means higher costs and fewer customers.",
+            "id": "Apa artinya ini bagi usaha kecil? Artinya biaya lebih tinggi dan pelanggan lebih sedikit.",
+            "note": "Hypophora: the speaker answers the question."
+          },
+          {
+            "en": "How many more floods must this town endure before the council acts?",
+            "id": "Berapa banyak lagi banjir yang harus ditanggung kota ini sebelum dewan bertindak?",
+            "note": "Implied: the town has endured too many floods already."
+          },
+          {
+            "en": "Since when has asking questions been disloyal?",
+            "id": "Sejak kapan bertanya dianggap tidak setia?",
+            "note": "Implied: asking questions is not disloyal."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "rhetorical",
+            "pos": "adjective",
+            "ipa": "/rɪˈtɒrɪkl/",
+            "meaning": "retoris (tidak memerlukan jawaban; berkaitan dengan seni berbicara)",
+            "example": "It was a rhetorical question, so nobody tried to answer it."
+          },
+          {
+            "word": "hypophora",
+            "pos": "noun",
+            "ipa": "/haɪˈpɒfərə/",
+            "meaning": "hipofora (mengajukan pertanyaan lalu langsung menjawabnya)",
+            "example": "The lecturer used hypophora to introduce each section of her talk."
+          },
+          {
+            "word": "self-evident",
+            "pos": "adjective",
+            "ipa": "/ˌself ˈevɪdənt/",
+            "meaning": "sudah jelas dengan sendirinya",
+            "example": "The benefits of the scheme are self-evident."
+          },
+          {
+            "word": "endure",
+            "pos": "verb",
+            "ipa": "/ɪnˈdjʊə/",
+            "meaning": "menanggung, bertahan menghadapi",
+            "example": "The villagers have endured years of neglect."
+          },
+          {
+            "word": "backfire",
+            "pos": "verb",
+            "ipa": "/ˌbækˈfaɪə/",
+            "meaning": "menjadi bumerang, berbalik merugikan",
+            "example": "The campaign backfired when voters felt patronised."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Isn't it time (that) + subject + past simple?",
+            "example": "Isn't it time we listened to the people who actually use the service?",
+            "note": "The past form refers to the present; it implies 'we should do this now'."
+          },
+          {
+            "pattern": "Who + could/would + verb ...?",
+            "example": "Who would want to live next to a landfill?",
+            "note": "Implies 'nobody'."
+          },
+          {
+            "pattern": "Question? + immediate answer (hypophora)",
+            "example": "Why does this matter? Because every delay costs lives.",
+            "note": "Useful as a paragraph or section opener."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Isn't it time we act on the report?",
+            "right": "Isn't it time we acted on the report?",
+            "why": "In formal and standard British usage, Isn't it time we ... takes a past form with present meaning."
+          },
+          {
+            "wrong": "How we can ignore such clear evidence?",
+            "right": "How can we ignore such clear evidence?",
+            "why": "Rhetorical questions still require question word order (auxiliary before subject)."
+          },
+          {
+            "wrong": "Who doesn't want good schools? Nobody wants good schools.",
+            "right": "Who doesn't want good schools? Everybody wants good schools.",
+            "why": "A negative rhetorical question implies a positive statement: Who doesn't ...? means everybody does."
+          }
+        ],
+        "summary": "Rhetorical questions are statements in disguise: positive questions often imply negatives (Who cares? = nobody cares) and negative questions imply positives (Isn't it obvious? = it is obvious). Hypophora asks and answers a question to guide the audience. Use these devices freely in speeches and opinion pieces but sparingly in academic writing.",
+        "reviewCards": [
+          {
+            "front": "Who could deny that?",
+            "back": "Implied: nobody could deny that."
+          },
+          {
+            "front": "Isn't it time we ___ (act)?",
+            "back": "acted — past form with present meaning"
+          },
+          {
+            "front": "hypophora",
+            "back": "asking a question and immediately answering it"
+          },
+          {
+            "front": "Haven't we suffered enough?",
+            "back": "Implied: we have suffered enough."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u06-l1-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "rhetorical questions",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "A campaigner says: \"Who could possibly object to cleaner air?\" What does she imply?",
+          "instructions": "A rhetorical question is a statement in disguise. Does the speaker expect anyone to name an objector?",
+          "options": [
+            "Nobody could reasonably object to cleaner air.",
+            "She wants a list of the people who object.",
+            "Many people object to cleaner air.",
+            "She is unsure whether cleaner air is desirable."
+          ],
+          "answer": 0,
+          "explanation": "A positive 'Who could ...?' question implies 'nobody could'. The speaker is not requesting information and is certainly not expressing doubt; 'possibly' strengthens the idea that no reasonable person would object."
+        },
+        {
+          "id": "c2-u06-l1-q2",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "rhetorical questions",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the statement as a negative rhetorical question.",
+          "sentence": "We should act on this report now.",
+          "cue": "Begin with: Isn't it time ...",
+          "answers": [
+            "Isn't it time we acted on this report?",
+            "Isn't it time that we acted on this report?",
+            "Isn't it time for us to act on this report?",
+            "Isn't it time we acted on this report now?",
+            "Isn't it time that we acted on this report now?",
+            "Isn't it time for us to act on this report now?",
+            "Is it not time we acted on this report?",
+            "Is it not time that we acted on this report?",
+            "Is it not time for us to act on this report?"
+          ],
+          "explanation": "Isn't it time is followed by a past form with present meaning (we acted) or by for + object + to-infinitive (for us to act). 'Isn't it time we act' is common in informal American speech but is not the standard pattern."
+        },
+        {
+          "id": "c2-u06-l1-q3",
+          "type": "matching",
+          "category": "reading",
+          "topic": "rhetorical questions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each rhetorical question with the statement it implies.",
+          "pairs": [
+            { "left": "What's the point of arguing about it?", "right": "Arguing about it is useless." },
+            { "left": "Haven't we suffered enough?", "right": "We have suffered enough." },
+            { "left": "How many more warnings do we need?", "right": "We have already had enough warnings." },
+            { "left": "Since when has honesty been a weakness?", "right": "Honesty is not a weakness." },
+            { "left": "Who doesn't enjoy a long weekend?", "right": "Everyone enjoys a long weekend." }
+          ],
+          "explanation": "Each rhetorical question expresses a statement. Note the polarity: the negative questions (Haven't we ...? Who doesn't ...?) imply positive statements, while 'Since when has ...?' and 'What's the point ...?' imply negative ones."
+        },
+        {
+          "id": "c2-u06-l1-q4",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "rhetorical questions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the rhetorical question with one modal verb.",
+          "text": "Five years ago the club was nearly bankrupt. Who ___ have predicted such a dramatic turnaround?",
+          "answers": [["could", "would", "might"]],
+          "explanation": "Who could/would/might have predicted ...? implies that nobody could have predicted it. A perfect modal is needed because the prediction would have been made in the past."
+        },
+        {
+          "id": "c2-u06-l1-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "rhetorical questions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": [
+            "Why should taxpayers fund a stadium",
+            "that benefits only a few,",
+            "and what do they receive",
+            "in return, isn't it?"
+          ],
+          "errorIndex": 3,
+          "correction": "in return?",
+          "explanation": "A tag question such as isn't it can only follow a statement; it cannot be added to a wh-question. The rhetorical question is already complete and simply ends with in return?"
+        },
+        {
+          "id": "c2-u06-l1-q6",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "rhetorical questions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which extract uses hypophora (asking a question and immediately answering it)?",
+          "options": [
+            "What does this mean for ordinary families? Quite simply, higher bills.",
+            "Do you take milk in your coffee?",
+            "Who knows what tomorrow will bring?",
+            "Isn't it obvious that we need a change?"
+          ],
+          "answer": 0,
+          "explanation": "Only the first extract asks a question and then answers it. The second is a genuine question, and the third and fourth are rhetorical questions that the speaker does not go on to answer."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u06-l2-tricolon-parallelism",
+      "title": "The Power of Three: Tricolon and Parallelism",
+      "summary": "Build memorable lists of three and keep parallel structures grammatically consistent.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Recognise and create tricolons in speeches and persuasive writing",
+        "Keep coordinated items in the same grammatical form",
+        "Correct faulty parallelism in complex sentences"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why three?\nA **tricolon** is a series of three parallel words, phrases or clauses. Lists of three feel complete and rhythmic: two items can seem unfinished, while four or more can lose the audience. Speechwriters, advertisers and essayists rely on the pattern: *We will listen, we will learn, and we will lead.* When the three items grow in length or importance, the effect is called an **ascending tricolon** or **climax**: *It was a mistake, a scandal, a betrayal of everything we stand for.*\n\n### What is parallelism?\n**Parallelism** means giving coordinated ideas the same grammatical form. Items joined by *and*, *or*, *but*, *not only ... but also*, *either ... or*, *both ... and* and *rather than* should match: adjectives with adjectives, gerunds with gerunds, to-infinitives with to-infinitives, clauses with clauses.\n\n| Faulty | Parallel |\n|---|---|\n| She is talented, hard-working and has ambition. | She is talented, hard-working and ambitious. |\n| The course teaches you how to analyse data, writing reports and to present findings. | The course teaches you how to analyse data, write reports and present findings. |\n| He promised to cut taxes and that he would build schools. | He promised to cut taxes and (to) build schools. |\n| Not only does the plan save money but it is also good for the environment. | The plan not only saves money but also protects the environment. |\n\n### Repetition for emphasis\nParallel structures often repeat a word at the start of each item (**anaphora**): *We shall not wait, we shall not waver, we shall not fail.* Repetition makes the structure audible in speech. In writing, you may keep the repeated word or let it be understood: *to cut taxes, (to) improve transport and (to) build schools* — but be consistent: either repeat *to* before every item or only before the first.\n\n### Correlative conjunctions need balance\nWith *not only ... but also*, *either ... or*, *neither ... nor* and *both ... and*, the element after the first conjunction must match the element after the second:\n- ✗ *She not only speaks French but also Arabic.* (verb vs noun)\n- ✓ *She speaks not only French but also Arabic.* (noun vs noun)\n\n### Parallelism in academic writing\nParallel structure is not just a speech device. It makes complex academic sentences easier to process: *The study aims to identify the causes of absenteeism, to measure its impact on attainment, and to propose targeted interventions.* Readers recognise the pattern and can predict the structure of each item.",
+        "examples": [
+          {
+            "en": "We will listen to our patients, learn from our mistakes and rebuild the trust that has been lost.",
+            "id": "Kami akan mendengarkan pasien kami, belajar dari kesalahan kami, dan membangun kembali kepercayaan yang telah hilang.",
+            "note": "Tricolon of verb phrases; the last is the longest."
+          },
+          {
+            "en": "It was a mistake, a scandal, a betrayal of everything this institution stands for.",
+            "id": "Itu adalah sebuah kesalahan, sebuah skandal, sebuah pengkhianatan terhadap segala hal yang dijunjung institusi ini.",
+            "note": "Ascending tricolon (climax)."
+          },
+          {
+            "en": "She speaks not only French but also Arabic.",
+            "id": "Dia tidak hanya berbicara bahasa Prancis, tetapi juga bahasa Arab.",
+            "note": "Noun after not only, noun after but also."
+          },
+          {
+            "en": "The study aims to identify the causes, to measure the impact and to propose solutions.",
+            "id": "Penelitian ini bertujuan untuk mengidentifikasi penyebab, mengukur dampak, dan mengusulkan solusi.",
+            "note": "Parallel to-infinitives in academic writing."
+          },
+          {
+            "en": "We shall not wait, we shall not waver, we shall not fail.",
+            "id": "Kita tidak akan menunggu, kita tidak akan goyah, kita tidak akan gagal.",
+            "note": "Anaphora: repetition at the start of each clause."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "tricolon",
+            "pos": "noun",
+            "ipa": "/traɪˈkəʊlən/",
+            "meaning": "trikolon (rangkaian tiga unsur sejajar)",
+            "example": "The speech ended with a memorable tricolon."
+          },
+          {
+            "word": "parallelism",
+            "pos": "noun",
+            "ipa": "/ˈpærəlelɪzəm/",
+            "meaning": "paralelisme (kesejajaran struktur gramatikal)",
+            "example": "Faulty parallelism makes the sentence hard to follow."
+          },
+          {
+            "word": "anaphora",
+            "pos": "noun",
+            "ipa": "/əˈnæfərə/",
+            "meaning": "anafora (pengulangan kata di awal kalimat/klausa berturut-turut)",
+            "example": "The repeated 'We will' is an example of anaphora."
+          },
+          {
+            "word": "waver",
+            "pos": "verb",
+            "ipa": "/ˈweɪvə/",
+            "meaning": "goyah, ragu-ragu",
+            "example": "She never wavered in her support for the project."
+          },
+          {
+            "word": "climax",
+            "pos": "noun",
+            "ipa": "/ˈklaɪmæks/",
+            "meaning": "klimaks; susunan yang makin menguat",
+            "example": "The list builds to a climax with the most serious accusation."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "A, B and C (same grammatical form)",
+            "example": "Our goals are simple, measurable and achievable.",
+            "note": "Three adjectives; mixing in a clause would break the pattern."
+          },
+          {
+            "pattern": "not only + X + but also + X (same form)",
+            "example": "The plan not only saves money but also reduces emissions.",
+            "note": "Verb phrase + verb phrase."
+          },
+          {
+            "pattern": "Subject + will + verb, + will + verb, + and will + verb (anaphora)",
+            "example": "We will rebuild, we will recover, and we will return.",
+            "note": "Repetition makes the structure audible in speech."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The job requires patience, creativity and to be able to work under pressure.",
+            "right": "The job requires patience, creativity and the ability to work under pressure.",
+            "why": "The first two items are nouns, so the third must also be a noun phrase."
+          },
+          {
+            "wrong": "She not only writes novels but also poetry.",
+            "right": "She writes not only novels but also poetry.",
+            "why": "The items after not only and but also must match: novels / poetry (both nouns)."
+          },
+          {
+            "wrong": "We aim to reduce waste, improving recycling and to educate residents.",
+            "right": "We aim to reduce waste, improve recycling and educate residents.",
+            "why": "All three items must be bare infinitives after the first to (or all must have to)."
+          }
+        ],
+        "summary": "A tricolon groups three parallel elements for rhythm and completeness; ascending tricolons build to a climax. Parallelism requires coordinated items, especially after correlative conjunctions, to share the same grammatical form. Faulty parallelism is a common advanced error and is easy to fix once you identify the form of the first item.",
+        "reviewCards": [
+          {
+            "front": "tricolon",
+            "back": "a list of three parallel elements, e.g. We came, we listened, we acted."
+          },
+          {
+            "front": "Fix: She is clever, kind and has patience.",
+            "back": "She is clever, kind and patient."
+          },
+          {
+            "front": "not only ... but also: rule",
+            "back": "The elements after each part must have the same grammatical form."
+          },
+          {
+            "front": "anaphora",
+            "back": "repeating the same word or phrase at the start of successive clauses"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u06-l2-q1",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "parallelism",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Find the segment that breaks the parallel structure.",
+          "instructions": "Look at the form of the first item after 'promised'. Do the other items match it?",
+          "segments": [
+            "The new mayor promised",
+            "to cut taxes,",
+            "improve public transport,",
+            "and that she would build more schools."
+          ],
+          "errorIndex": 3,
+          "correction": "and build more schools.",
+          "explanation": "The first two items are infinitive phrases (to cut, improve). The third switches to a that-clause, breaking the parallelism. It should be 'and build more schools' (or 'and to build' if to is repeated throughout)."
+        },
+        {
+          "id": "c2-u06-l2-q2",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "parallelism",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Correct the faulty parallelism.",
+          "sentence": "The course teaches students how to analyse data, writing reports and to present findings.",
+          "answers": [
+            "The course teaches students how to analyse data, write reports and present findings.",
+            "The course teaches students how to analyse data, write reports, and present findings.",
+            "The course teaches students how to analyse data, how to write reports and how to present findings.",
+            "The course teaches students how to analyse data, how to write reports, and how to present findings.",
+            "The course teaches students how to analyze data, write reports and present findings.",
+            "The course teaches students how to analyze data, how to write reports and how to present findings."
+          ],
+          "explanation": "All three items depend on how to, so they must be bare infinitives: analyse, write, present (or repeat how to before each). Writing (gerund) and to present (to-infinitive) break the pattern."
+        },
+        {
+          "id": "c2-u06-l2-q3",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "tricolon",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the fragments in order to form a tricolon from a hospital director's speech.",
+          "fragments": [
+            "We will listen to our patients,",
+            "learn from our mistakes,",
+            "and rebuild the trust",
+            "that has been lost."
+          ],
+          "explanation": "The subject and modal (We will) come first, followed by three parallel verb phrases: listen, learn and rebuild. The final item is the longest, giving the tricolon an ascending rhythm, and 'and' introduces the last item."
+        },
+        {
+          "id": "c2-u06-l2-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "parallelism",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentence is correctly parallel?",
+          "options": [
+            "She is talented, hard-working and has a lot of ambition.",
+            "She is talented, hard-working and ambitious.",
+            "She is talented, works hard and ambitious.",
+            "She is talent, hard-working and ambitious."
+          ],
+          "answer": 1,
+          "explanation": "Only the second option lists three adjectives after is. The others mix adjectives with a verb phrase (has a lot of ambition, works hard) or a noun (talent)."
+        },
+        {
+          "id": "c2-u06-l2-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "parallelism",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the form that keeps each sentence parallel.",
+          "text": "The programme aims not only to reduce poverty but also ___ inequality. Whether you are a student, a parent or ___, the changes will affect you.",
+          "choices": [
+            ["to tackle", "tackling", "tackled"],
+            ["a teacher", "teaching", "teach"]
+          ],
+          "answers": [0, 0],
+          "explanation": "After not only to reduce, the matching element is but also to tackle. In the second sentence, the list a student, a parent, ... needs a third noun phrase: a teacher."
+        },
+        {
+          "id": "c2-u06-l2-q6",
+          "type": "translation",
+          "category": "writing",
+          "topic": "tricolon",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English, keeping the tricolon of three nouns.",
+          "source": "Kita membutuhkan keberanian, kesabaran, dan kerja sama.",
+          "direction": "id-en",
+          "answers": [
+            "We need courage, patience and cooperation.",
+            "We need courage, patience and co-operation.",
+            "We need courage, patience and teamwork.",
+            "We need courage, patience and collaboration.",
+            "What we need is courage, patience and cooperation.",
+            "We need bravery, patience and cooperation.",
+            "We need bravery, patience and teamwork."
+          ],
+          "explanation": "Keep the three items as nouns: courage (or bravery), patience and cooperation (or teamwork/collaboration). Mixing forms, as in 'courage, being patient and to cooperate', would break the tricolon."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u06-l3-antithesis",
+      "title": "Not This, But That: Antithesis and Chiasmus",
+      "summary": "Sharpen arguments by placing contrasting ideas in balanced structures.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Recognise antithesis and chiasmus in speeches and writing",
+        "Use not X but Y, X rather than Y and It is not ... ; it is ... structures",
+        "Keep the contrasted elements grammatically parallel"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Antithesis\n**Antithesis** places two contrasting ideas side by side in parallel grammatical form, so that the contrast becomes sharp and memorable: *The strong may win the battle, but the patient win the war.* The device depends on parallelism (Lesson 2): the two halves mirror each other, with key words contrasted.\n\n### Useful antithesis frames\n| Frame | Example |\n|---|---|\n| not X but Y | This is not an economic question but a moral one. |\n| It is not X; it is Y. | It is not a cost; it is an investment. |\n| X, not Y | We need action, not words. |\n| X rather than Y | We should judge the policy by its results rather than by its intentions. |\n| less X, more Y | Less talk, more action. |\n| Some ...; others ... | Some see a problem; others see an opportunity. |\n| The question is not whether ... but whether ... | The question is not whether we can afford to act, but whether we can afford not to. |\n\nNotice how *not merely / not just / not simply X but Y* adds weight: *This is not merely a delay but a failure of leadership.*\n\n### Chiasmus\n**Chiasmus** is a special form of antithesis in which the second half **reverses** the order of key words from the first half (A–B, B–A): *Eat to live; do not live to eat.* / *We do not stop playing because we grow old; we grow old because we stop playing.* The reversal surprises the listener and makes the line quotable. Use it rarely; one chiasmus in a speech is memorable, three are tiresome.\n\n### Keeping the contrast parallel\nThe two halves must match grammatically, just as in a tricolon:\n- ✗ *Leadership is not about giving orders but about to listen.*\n- ✓ *Leadership is not about giving orders but about listening.*\n\nAlso check the logic: the contrasted ideas should genuinely oppose each other. *It is not expensive but affordable* is weak because the two words are not opposites in this context; *It is not a cost but an investment* works because the speaker reframes the same money.\n\n### Antithesis in persuasion\nAntithesis lets a speaker **reframe** an issue: a tax becomes *not a burden but a contribution*; a delay becomes *not caution but cowardice*. When analysing persuasive texts, notice which term the speaker rejects and which they promote, and ask whether the opposition is fair or a false dichotomy.",
+        "examples": [
+          {
+            "en": "This is not merely an economic question but a moral one.",
+            "id": "Ini bukan sekadar persoalan ekonomi, melainkan persoalan moral.",
+            "note": "not merely X but Y."
+          },
+          {
+            "en": "It is not a cost; it is an investment in our children's future.",
+            "id": "Ini bukan biaya; ini adalah investasi untuk masa depan anak-anak kita.",
+            "note": "Reframing through antithesis."
+          },
+          {
+            "en": "The question is not whether we can afford to act, but whether we can afford not to.",
+            "id": "Pertanyaannya bukan apakah kita mampu bertindak, melainkan apakah kita mampu untuk tidak bertindak.",
+            "note": "Antithesis with ellipsis in the second half."
+          },
+          {
+            "en": "Eat to live; do not live to eat.",
+            "id": "Makanlah untuk hidup; jangan hidup untuk makan.",
+            "note": "Chiasmus: live / eat reversed."
+          },
+          {
+            "en": "Some see a crisis; others see an opportunity.",
+            "id": "Sebagian orang melihat krisis; yang lain melihat peluang.",
+            "note": "Some ...; others ... antithesis."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "antithesis",
+            "pos": "noun",
+            "ipa": "/ænˈtɪθəsɪs/",
+            "meaning": "antitesis (penjajaran gagasan yang berlawanan); kebalikan",
+            "example": "The speech is built on the antithesis between fear and hope."
+          },
+          {
+            "word": "chiasmus",
+            "pos": "noun",
+            "ipa": "/kaɪˈæzməs/",
+            "meaning": "kiasmus (pembalikan urutan kata kunci pada bagian kedua)",
+            "example": "'Eat to live; do not live to eat' is a classic chiasmus."
+          },
+          {
+            "word": "reframe",
+            "pos": "verb",
+            "ipa": "/ˌriːˈfreɪm/",
+            "meaning": "membingkai ulang (melihat isu dari sudut pandang lain)",
+            "example": "She reframed the tax as a contribution rather than a burden."
+          },
+          {
+            "word": "false dichotomy",
+            "pos": "noun phrase",
+            "ipa": "/ˌfɔːls daɪˈkɒtəmi/",
+            "meaning": "dikotomi palsu (seolah-olah hanya ada dua pilihan)",
+            "example": "Presenting it as 'jobs or the environment' is a false dichotomy."
+          },
+          {
+            "word": "quotable",
+            "pos": "adjective",
+            "ipa": "/ˈkwəʊtəbl/",
+            "meaning": "mudah dikutip, layak dikutip",
+            "example": "The minister's speech contained several quotable lines."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "not (merely/just/simply) + X + but + Y",
+            "example": "The delay was not merely unfortunate but avoidable.",
+            "note": "X and Y must share the same grammatical form."
+          },
+          {
+            "pattern": "It is not + X; it is + Y.",
+            "example": "It is not a setback; it is a lesson.",
+            "note": "Two independent clauses, often separated by a semicolon."
+          },
+          {
+            "pattern": "A + B ... B + A (chiasmus)",
+            "example": "We must not let our fears hold back our hopes; let our hopes hold back our fears.",
+            "note": "Key words reverse position in the second half."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Leadership is not about giving orders but about to listen.",
+            "right": "Leadership is not about giving orders but about listening.",
+            "why": "After about, both halves need a gerund."
+          },
+          {
+            "wrong": "We need action, not to talk.",
+            "right": "We need action, not talk.",
+            "why": "The contrasted items must match: noun and noun."
+          },
+          {
+            "wrong": "It is not a problem but it is an opportunity but a challenge.",
+            "right": "It is not a problem but an opportunity.",
+            "why": "Antithesis contrasts two ideas; stacking extra 'but' clauses destroys the balance."
+          }
+        ],
+        "summary": "Antithesis sets opposing ideas in parallel structures (not X but Y; It is not X, it is Y; X rather than Y) to sharpen and reframe an argument. Chiasmus reverses key words in the second half for a memorable effect. Keep both halves grammatically parallel and make sure the contrast is genuine.",
+        "reviewCards": [
+          {
+            "front": "antithesis",
+            "back": "contrasting ideas placed in parallel structure: It is not a cost; it is an investment."
+          },
+          {
+            "front": "chiasmus",
+            "back": "A–B, B–A reversal: Eat to live; do not live to eat."
+          },
+          {
+            "front": "The question is not whether ___, but whether ___",
+            "back": "a frame that reframes the issue around a different question"
+          },
+          {
+            "front": "false dichotomy",
+            "back": "presenting two options as the only possibilities when others exist"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u06-l3-q1",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "antithesis",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Rewrite the sentence as an antithesis using not merely ... but.",
+          "instructions": "Put the idea being rejected after 'not merely' and the idea being promoted after 'but'.",
+          "sentence": "This is a moral question, not merely an economic one.",
+          "cue": "Begin with: This is not merely ...",
+          "answers": [
+            "This is not merely an economic question but a moral one.",
+            "This is not merely an economic question, but a moral one.",
+            "This is not merely an economic question but a moral question.",
+            "This is not merely an economic question; it is a moral one.",
+            "This is not merely an economic question; it's a moral one.",
+            "This is not merely an economic one but a moral one.",
+            "This is not merely an economic question but also a moral one.",
+            "This is not merely an economic question; it is also a moral one."
+          ],
+          "explanation": "The rejected idea (an economic question) follows not merely, and the promoted idea (a moral one) follows but. Both halves are noun phrases, so the contrast is parallel."
+        },
+        {
+          "id": "c2-u06-l3-q2",
+          "type": "matching",
+          "category": "reading",
+          "topic": "rhetorical devices",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each rhetorical device with the example that illustrates it.",
+          "pairs": [
+            { "left": "antithesis", "right": "The strong may win the battle, but the patient win the war." },
+            { "left": "chiasmus", "right": "We do not stop playing because we grow old; we grow old because we stop playing." },
+            { "left": "tricolon", "right": "We will rebuild, we will recover, we will return." },
+            { "left": "rhetorical question", "right": "Who among us has never made a mistake?" },
+            { "left": "hypophora", "right": "Why does this matter? Because every vote counts." }
+          ],
+          "explanation": "Antithesis contrasts the strong and the patient in parallel clauses. Chiasmus reverses 'stop playing' and 'grow old'. The tricolon has three parallel clauses. The rhetorical question implies that everyone has made mistakes, and hypophora asks a question and answers it."
+        },
+        {
+          "id": "c2-u06-l3-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "antithesis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the antithesis.",
+          "text": "We must judge the policy by its results, ___ by its intentions.",
+          "answers": [["not", "rather than", "and not", "not merely", "not just", "not simply", "not only"]],
+          "explanation": "The sentence contrasts results with intentions. Not is the simplest choice; rather than and and not are also correct. Not merely/just/simply would soften the contrast (results and intentions both matter) but remain grammatical and acceptable here."
+        },
+        {
+          "id": "c2-u06-l3-q4",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "chiasmus",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence is an example of chiasmus?",
+          "options": [
+            "Eat to live; do not live to eat.",
+            "Eat well, sleep well, live well.",
+            "Is eating well really so difficult?",
+            "Eating well is not a luxury but a necessity."
+          ],
+          "answer": 0,
+          "explanation": "Chiasmus reverses key words: eat ... live / live ... eat. The second option is a tricolon, the third is a rhetorical question, and the fourth is antithesis without reversal."
+        },
+        {
+          "id": "c2-u06-l3-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "antithesis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that breaks the parallel structure of the antithesis.",
+          "segments": [
+            "Leadership is not about",
+            "giving orders",
+            "but about",
+            "to listen carefully."
+          ],
+          "errorIndex": 3,
+          "correction": "listening carefully.",
+          "explanation": "The preposition about must be followed by a gerund in both halves: giving orders ... listening carefully. A to-infinitive cannot follow a preposition."
+        },
+        {
+          "id": "c2-u06-l3-q6",
+          "type": "dialogue_completion",
+          "category": "writing",
+          "topic": "antithesis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the line that the speechwriter suggests.",
+          "dialogue": [
+            { "speaker": "Minister", "text": "This line feels flat: 'Change is hard, and it is also necessary.' Can you sharpen it with antithesis?" },
+            { "speaker": "Speechwriter", "text": null }
+          ],
+          "options": [
+            "How about: 'Change is hard; standing still is harder.'",
+            "How about: 'Change is hard, and also it is necessary.'",
+            "How about: 'Is change hard? Yes, it is hard.'",
+            "How about: 'Change, change and more change.'"
+          ],
+          "answer": 0,
+          "explanation": "'Change is hard; standing still is harder' contrasts two opposing courses of action in parallel clauses, which is antithesis. The second option only reorders the original, the third is hypophora without contrast, and the fourth is mere repetition."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u06-l4-emphatic-structures",
+      "title": "I Do Believe: Emphatic and Intensifying Structures",
+      "summary": "Add emphasis with emphatic do, the very, whatsoever, by far, reflexive pronouns and question intensifiers.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use emphatic do/does/did to contradict, insist or concede",
+        "Intensify noun phrases and negatives with the very, whatsoever and at all",
+        "Use by far, reflexive pronouns and on earth / ever for emphasis"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Emphatic do\nIn affirmative sentences in the present simple and past simple, we can add **do/does/did** before the base verb for emphasis. In speech, the auxiliary is stressed.\n\n| Function | Example |\n|---|---|\n| Contradicting | *I **did** send the email — here's the receipt.* |\n| Insisting / strong belief | *I **do** believe we can win this.* |\n| Conceding before a contrast | *The plan **does** have advantages, but the cost is too high.* |\n| Polite, warm imperatives | ***Do** sit down. / **Do** let me know if you need anything.* |\n\nAfter *do/does/did*, the main verb is always in the **base form**: *She does know* (not *does knows*); *They did warn us* (not *did warned*).\n\n### Intensifying noun phrases\n- **the very** + noun = exactly this one, emphasising identity: *That is **the very** reason we must act. / She was **the very** person I wanted to see.* Also *at **the very** least / at the very beginning*.\n- **whatsoever / whatever** after *no/none/any* + noun intensifies a negative: *There is no evidence **whatsoever**. / Do you have any doubts whatsoever?*\n- **at all** intensifies negatives and questions: *I didn't enjoy it **at all**.*\n- **by far** intensifies superlatives and comparatives: *This is **by far** the best option.* (also *far and away the best*).\n\n### Reflexive pronouns for emphasis\nA reflexive pronoun placed after a noun or at the end of a clause emphasises **who** is involved: *The mayor **herself** will present the plan.* / *I checked the figures **myself**.* This differs from the ordinary reflexive use (*She hurt herself*).\n\n### Emphatic questions\n**on earth**, **ever** and **in the world** add surprise or frustration to wh-questions: *What **on earth** were they thinking? / Why **ever** did you agree? / Where **in the world** did you find that?* In formal writing these are rare; they belong to speech and informal prose.\n\n### Combining with structures you know\nEmphatic structures from earlier units add further force: **cleft sentences** (*It was the minister who resigned*), **negative inversion** (*Never have I seen such waste*) and **fronting** (*Absurd though it sounds, ...*). In persuasive speech, a single well-placed emphatic *do* (*We **do** have a choice*) can turn a passive audience into an engaged one, because it implicitly rejects an opposing view.",
+        "examples": [
+          {
+            "en": "I know you think I forgot, but I did send the invitation.",
+            "id": "Saya tahu kamu mengira saya lupa, tetapi saya benar-benar sudah mengirim undangannya.",
+            "note": "Emphatic did contradicts an assumption."
+          },
+          {
+            "en": "The proposal does have some merit, but it is far too expensive.",
+            "id": "Usulan itu memang memiliki beberapa kelebihan, tetapi terlalu mahal.",
+            "note": "Emphatic does as concession."
+          },
+          {
+            "en": "That is the very reason we cannot afford to wait.",
+            "id": "Justru itulah alasan kita tidak boleh menunggu.",
+            "note": "the very = exactly this."
+          },
+          {
+            "en": "There is no evidence whatsoever to support the rumour.",
+            "id": "Sama sekali tidak ada bukti yang mendukung rumor itu.",
+            "note": "whatsoever after no + noun."
+          },
+          {
+            "en": "The director herself admitted that mistakes had been made.",
+            "id": "Sang direktur sendiri mengakui bahwa telah terjadi kesalahan.",
+            "note": "Emphatic reflexive pronoun."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "whatsoever",
+            "pos": "adverb",
+            "ipa": "/ˌwɒtsəʊˈevə/",
+            "meaning": "sama sekali (penguat kalimat negatif)",
+            "example": "He showed no remorse whatsoever."
+          },
+          {
+            "word": "concede",
+            "pos": "verb",
+            "ipa": "/kənˈsiːd/",
+            "meaning": "mengakui (secara enggan), mengalah",
+            "example": "She conceded that the plan did have some advantages."
+          },
+          {
+            "word": "merit",
+            "pos": "noun",
+            "ipa": "/ˈmerɪt/",
+            "meaning": "kelebihan, nilai baik",
+            "example": "The idea has considerable merit."
+          },
+          {
+            "word": "emphatic",
+            "pos": "adjective",
+            "ipa": "/ɪmˈfætɪk/",
+            "meaning": "tegas, bersifat menekankan",
+            "example": "Her answer was an emphatic no."
+          },
+          {
+            "word": "far and away",
+            "pos": "adverb phrase",
+            "ipa": "/ˌfɑːr ənd əˈweɪ/",
+            "meaning": "jauh lebih (penguat superlatif)",
+            "example": "She is far and away the strongest candidate."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "do / does / did + base verb (stressed)",
+            "example": "We do have a choice.",
+            "note": "Only in affirmative present simple and past simple, and in imperatives."
+          },
+          {
+            "pattern": "no / any + noun + whatsoever",
+            "example": "There is no reason whatsoever to panic.",
+            "note": "Whatsoever follows the noun phrase."
+          },
+          {
+            "pattern": "by far / far and away + superlative",
+            "example": "This is by far the most ambitious plan.",
+            "note": "Very cannot be used before the + superlative: not 'very the best'."
+          },
+          {
+            "pattern": "wh-word + on earth / ever / in the world",
+            "example": "Why on earth did nobody check the figures?",
+            "note": "Expresses surprise or frustration; informal."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "She does knows the answer.",
+            "right": "She does know the answer.",
+            "why": "After emphatic does, use the base form of the verb."
+          },
+          {
+            "wrong": "This is very the best solution we have.",
+            "right": "This is by far the best solution we have.",
+            "why": "Very cannot modify the + superlative; use by far, far and away or the very best."
+          },
+          {
+            "wrong": "There is whatsoever no evidence.",
+            "right": "There is no evidence whatsoever.",
+            "why": "Whatsoever comes after the noun phrase it intensifies."
+          },
+          {
+            "wrong": "I did warned them about the risks.",
+            "right": "I did warn them about the risks.",
+            "why": "Did carries the past tense; the main verb stays in the base form."
+          }
+        ],
+        "summary": "Emphatic do/does/did + base verb contradicts, insists, concedes or warmly invites. The very, whatsoever, at all and by far intensify noun phrases, negatives and superlatives; reflexive pronouns emphasise who acted; on earth and ever add surprise to questions. Combine these with clefts, inversion and fronting for powerful persuasive speech.",
+        "reviewCards": [
+          {
+            "front": "Emphatic do: I ___ (send) it yesterday!",
+            "back": "I did send it yesterday! (did + base form)"
+          },
+          {
+            "front": "no evidence ___",
+            "back": "whatsoever (or at all)"
+          },
+          {
+            "front": "___ the best option (intensify the superlative)",
+            "back": "by far / far and away / the very best"
+          },
+          {
+            "front": "The mayor ___ will open the bridge. (emphasise who)",
+            "back": "herself / himself"
+          },
+          {
+            "front": "Why ___ did you agree? (surprise)",
+            "back": "on earth / ever / in the world"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u06-l4-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "emphatic do",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Complete the sentence with one word to contradict the listener's assumption.",
+          "instructions": "The speaker is insisting on a past action. Which auxiliary adds emphasis in the past simple?",
+          "text": "I know you think I forgot, but I ___ send the email — I've got the receipt to prove it.",
+          "answers": [["did"]],
+          "explanation": "Emphatic did + base form (did send) insists that the action really happened. 'Sent' cannot follow the subject here because send is already in the base form."
+        },
+        {
+          "id": "c2-u06-l4-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "intensifiers",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Intensify the negative by adding ONE word after 'evidence'.",
+          "sentence": "There is no evidence to support this claim.",
+          "cue": "Add one word immediately after 'evidence'.",
+          "answers": [
+            "There is no evidence whatsoever to support this claim.",
+            "There is no evidence whatever to support this claim."
+          ],
+          "explanation": "Whatsoever (or the slightly less formal whatever) follows a noun phrase introduced by no and strongly intensifies the negative: there is absolutely no evidence."
+        },
+        {
+          "id": "c2-u06-l4-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "emphatic do",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": [
+            "Although she rarely speaks in meetings,",
+            "she does knows",
+            "more about the project",
+            "than anyone else."
+          ],
+          "errorIndex": 1,
+          "correction": "she does know",
+          "explanation": "After emphatic does, the main verb must be in the base form: does know. The third-person -s is already carried by does."
+        },
+        {
+          "id": "c2-u06-l4-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "intensifiers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence uses 'very' correctly for emphasis?",
+          "options": [
+            "That is the very reason we must act now.",
+            "That is very the reason we must act now.",
+            "That is the reason very we must act now.",
+            "That is a very reason we must act now."
+          ],
+          "answer": 0,
+          "explanation": "Emphatic very is an adjective placed after the (or this/that) and before the noun: the very reason. The other word orders are ungrammatical, and 'a very reason' is not used with this meaning."
+        },
+        {
+          "id": "c2-u06-l4-q5",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "intensifiers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Drag the correct intensifier into each gap.",
+          "text": "This is ___ the most ambitious plan the council has ever proposed, and the mayor ___ will present it on Monday.",
+          "bank": ["by far", "herself", "very", "whatsoever", "itself"],
+          "answers": ["by far", "herself"],
+          "explanation": "By far intensifies a superlative (by far the most ambitious). The emphatic reflexive herself after the mayor stresses who will present it. Very cannot precede the + superlative, whatsoever intensifies negatives, and itself does not refer to a person."
+        },
+        {
+          "id": "c2-u06-l4-q6",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "emphatic questions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the words in order to form an emphatic question expressing frustration.",
+          "words": ["What", "on", "earth", "were", "they", "thinking?"],
+          "explanation": "On earth follows the wh-word directly (What on earth ...?), and normal question word order follows: were they thinking?"
+        }
+      ]
+    },
+    {
+      "slug": "c2-u06-l5-persuasive-texts",
+      "title": "Speeches and Campaigns: Analysing and Producing Persuasion",
+      "summary": "Analyse how speeches and campaigns appeal to credibility, emotion and logic, and produce a persuasive appeal.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Identify ethos, pathos and logos in persuasive texts",
+        "Combine rhetorical devices from this unit in a short persuasive text",
+        "Choose between confident boosting and cautious hedging according to purpose"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Three classical appeals\nPersuasion traditionally works through three appeals:\n\n| Appeal | Basis | Typical language |\n|---|---|---|\n| **Ethos** | the speaker's credibility and character | *As a nurse with twenty years' experience ...*, *I have seen first-hand ...* |\n| **Pathos** | the audience's emotions and values | *Imagine a child who ...*, emotive adjectives (*heartbreaking, shameful*), personal stories |\n| **Logos** | logic and evidence | figures, cause–effect reasoning, *It follows that ...*, *The evidence shows ...* |\n\nStrong persuasive texts usually combine all three: a credible speaker presents evidence and connects it to values the audience cares about.\n\n### The rhetorical toolkit\nThis unit has given you the main sentence-level devices:\n- **rhetorical questions and hypophora** to involve the audience;\n- **tricolon and anaphora** for rhythm and memorability;\n- **antithesis and chiasmus** to reframe issues;\n- **emphatic structures** to insist and to concede strategically.\n\nAdd **inclusive pronouns** (*we, us, our*) to build solidarity, **direct address** (*you*) to create responsibility, and a clear **call to action** at the end: *Sign the petition today. Come to the meeting on Thursday. Vote for change.*\n\n### Boosting and hedging\nAt C1 you learned to hedge academic claims. Persuasive texts often do the opposite: they **boost** confidence with *clearly, undoubtedly, there is no question that, without doubt, it is beyond dispute that*. But over-boosting can damage ethos if the claim is obviously uncertain. Skilled persuaders boost their core message and hedge their concessions: *Admittedly, the scheme may cause some disruption; but the benefits are beyond dispute.*\n\n### Structure of a persuasive speech\n1. **Hook**: a rhetorical question, a striking fact or a short story.\n2. **Credibility**: why the audience should listen to you.\n3. **Argument**: two or three points supported by evidence, each perhaps introduced by hypophora.\n4. **Concession and rebuttal**: acknowledge the strongest objection (*It is true that ...*) and answer it (*However ...*).\n5. **Climax and call to action**: a tricolon or antithesis, then a concrete request.\n\n### Reading persuasion critically\nWhen you analyse a campaign leaflet or speech, ask: Which appeal dominates? Which words carry strong connotation? Is any antithesis a false dichotomy? Are statistics sourced? Recognising the techniques does not mean rejecting the message, but it allows you to judge the argument on its merits rather than its music.\n\n### A note on rhetoric\nThe word *rhetoric* itself has two senses: the neutral art of persuasion, and the negative sense of impressive language without substance (*empty rhetoric*). Context tells you which is meant.",
+        "examples": [
+          {
+            "en": "As a teacher who has worked in this district for twenty years, I have seen what overcrowded classrooms do to children.",
+            "id": "Sebagai guru yang telah mengajar di distrik ini selama dua puluh tahun, saya telah melihat apa dampak kelas yang terlalu padat terhadap anak-anak.",
+            "note": "Ethos: credibility through experience."
+          },
+          {
+            "en": "Imagine a seven-year-old walking five kilometres every morning just to fetch clean water.",
+            "id": "Bayangkan seorang anak berusia tujuh tahun berjalan lima kilometer setiap pagi hanya untuk mengambil air bersih.",
+            "note": "Pathos: emotional image."
+          },
+          {
+            "en": "The scheme would cost less than one per cent of the annual budget, yet it would halve waiting times.",
+            "id": "Program ini akan menelan biaya kurang dari satu persen anggaran tahunan, tetapi akan memangkas waktu tunggu hingga separuhnya.",
+            "note": "Logos: evidence and reasoning (hypothetical figures)."
+          },
+          {
+            "en": "Admittedly, the works will cause some disruption; but the long-term benefits are beyond dispute.",
+            "id": "Memang, pekerjaan itu akan menimbulkan sedikit gangguan; tetapi manfaat jangka panjangnya tidak terbantahkan.",
+            "note": "Hedged concession, boosted main claim."
+          },
+          {
+            "en": "Come to the town hall on Thursday and make your voice heard.",
+            "id": "Datanglah ke balai kota pada hari Kamis dan suarakan pendapat Anda.",
+            "note": "Call to action."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "ethos",
+            "pos": "noun",
+            "ipa": "/ˈiːθɒs/",
+            "meaning": "etos (daya persuasi berdasarkan kredibilitas pembicara)",
+            "example": "Her medical background gave her speech strong ethos."
+          },
+          {
+            "word": "pathos",
+            "pos": "noun",
+            "ipa": "/ˈpeɪθɒs/",
+            "meaning": "patos (daya persuasi melalui emosi)",
+            "example": "The campaign relied heavily on pathos."
+          },
+          {
+            "word": "logos",
+            "pos": "noun",
+            "ipa": "/ˈləʊɡɒs/",
+            "meaning": "logos (daya persuasi melalui logika dan bukti)",
+            "example": "The report's appeal is mainly to logos, with tables and statistics."
+          },
+          {
+            "word": "rhetoric",
+            "pos": "noun",
+            "ipa": "/ˈretərɪk/",
+            "meaning": "retorika; (negatif) kata-kata muluk tanpa isi",
+            "example": "Voters are tired of empty rhetoric."
+          },
+          {
+            "word": "galvanise",
+            "pos": "verb",
+            "ipa": "/ˈɡælvənaɪz/",
+            "meaning": "membangkitkan semangat untuk bertindak",
+            "example": "The speech galvanised the volunteers into action."
+          },
+          {
+            "word": "rebuttal",
+            "pos": "noun",
+            "ipa": "/rɪˈbʌtl/",
+            "meaning": "sanggahan, bantahan",
+            "example": "Her rebuttal of the main objection was devastating."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Admittedly / It is true that + concession; but / however + main claim",
+            "example": "It is true that the plan is expensive; however, doing nothing will cost far more.",
+            "note": "Concession and rebuttal structure."
+          },
+          {
+            "pattern": "Imagine + noun phrase / that-clause",
+            "example": "Imagine a city where every child can walk safely to school.",
+            "note": "A common pathos hook."
+          },
+          {
+            "pattern": "imperative + and + imperative (call to action)",
+            "example": "Sign the petition and share it with your friends.",
+            "note": "Concrete, direct requests at the end of a persuasive text."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "It is beyond dispute that the scheme might possibly help some residents.",
+            "right": "The scheme is likely to help many residents.",
+            "why": "Boosting (beyond dispute) and heavy hedging (might possibly) contradict each other; choose one stance."
+          },
+          {
+            "wrong": "Imagine that a child walks five kilometres every morning, isn't it?",
+            "right": "Imagine a child walking five kilometres every morning.",
+            "why": "Imperatives do not take the tag isn't it; the most natural pattern is Imagine + noun + -ing."
+          },
+          {
+            "wrong": "The campaign appealed to logos by telling a heartbreaking story.",
+            "right": "The campaign appealed to pathos by telling a heartbreaking story.",
+            "why": "Emotional stories appeal to pathos; logos relies on logic and evidence."
+          }
+        ],
+        "summary": "Persuasive texts appeal to credibility (ethos), emotion (pathos) and logic (logos). Combine rhetorical questions, tricolons, antithesis and emphatic structures with inclusive pronouns, a strategic concession and a concrete call to action. When reading persuasion, identify the techniques so you can judge the argument on its merits.",
+        "reviewCards": [
+          {
+            "front": "ethos / pathos / logos",
+            "back": "credibility / emotion / logic and evidence"
+          },
+          {
+            "front": "call to action",
+            "back": "a direct request at the end of a persuasive text (Sign ..., Vote ..., Join us ...)"
+          },
+          {
+            "front": "empty rhetoric",
+            "back": "impressive-sounding language without substance"
+          },
+          {
+            "front": "concession + rebuttal",
+            "back": "Admittedly, X; but Y — acknowledge an objection, then answer it"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u06-l5-q1",
+          "type": "matching",
+          "category": "reading",
+          "topic": "persuasive appeals",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Match each technique with the extract from a campaign speech that illustrates it.",
+          "instructions": "Ask yourself: does the extract rely on who the speaker is, on feelings, on figures and reasoning, on a request, or on repetition?",
+          "pairs": [
+            { "left": "ethos", "right": "As a doctor who has worked in rural clinics for twenty years, I have seen this crisis first-hand." },
+            { "left": "pathos", "right": "Imagine a child walking five kilometres every morning just to fetch clean water." },
+            { "left": "logos", "right": "The scheme costs less than one per cent of the budget, yet it would halve waiting times." },
+            { "left": "call to action", "right": "Sign the petition today and make your voice heard." },
+            { "left": "anaphora", "right": "We will not wait. We will not be silent. We will not give up." }
+          ],
+          "explanation": "The doctor's experience builds credibility (ethos); the image of the child appeals to emotion (pathos); cost versus benefit is a logical argument (logos); the imperatives form a call to action; and the repetition of 'We will not' is anaphora."
+        },
+        {
+          "id": "c2-u06-l5-q2",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "persuasive speech",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "The council of the fictional town of Linden Vale plans to close the town's only public library to save money. Give a one-minute persuasive speech at a public meeting urging residents to oppose the closure. Use at least one rhetorical question, one tricolon, one antithesis and a call to action.",
+          "targetPhrases": [
+            "Isn't it time ...",
+            "not a cost but an investment",
+            "We will ..., we will ..., we will ...",
+            "I do believe",
+            "Join us"
+          ],
+          "sampleAnswer": "Good evening, everyone. My name is Hana Prawiro, and I have been a volunteer at Linden Vale Library for twelve years. What does this library give us? It gives our children a place to read, our job-seekers a place to search, and our older neighbours a place to belong. The council calls it a cost. It is not a cost; it is an investment in everyone who walks through its doors. Who among us has not borrowed a book, used a computer or asked a librarian for help? I do understand that the budget is tight. But closing the library would save a little money and lose a great deal more. So isn't it time we told the council what this building really means to us? Sign the petition tonight, come to the council meeting on Thursday, and bring your neighbours with you. Together, we will keep our library open.",
+          "explanation": "A strong answer opens with a hook (hypophora or a rhetorical question), establishes credibility, uses a tricolon and antithesis to frame the library as an investment, concedes the budget problem with emphatic do, and ends with a concrete call to action."
+        },
+        {
+          "id": "c2-u06-l5-q3",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "boosting and hedging",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "A road-safety campaign leaflet needs a confident opening line. Which is most appropriate for its purpose?",
+          "options": [
+            "There is no doubt that protected cycle lanes save lives.",
+            "It could perhaps be argued that cycle lanes may possibly save a few lives.",
+            "Cycle lanes save lives, maybe, sort of.",
+            "Some people think cycle lanes might not be entirely useless."
+          ],
+          "answer": 0,
+          "explanation": "A campaign leaflet should boost its core message, and 'There is no doubt that ...' does so clearly. The second option is over-hedged for a campaign, the third is vague and informal, and the fourth damns cycle lanes with faint praise, undermining the campaign's purpose."
+        },
+        {
+          "id": "c2-u06-l5-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "persuasion vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "\"The minister's speech was full of rhetoric but short on detail.\" In this sentence, 'rhetoric' refers to:",
+          "options": [
+            "language that sounds impressive but lacks substance",
+            "a careful statistical analysis",
+            "a formal apology",
+            "a technical description of a policy"
+          ],
+          "answer": 0,
+          "explanation": "The contrast with 'short on detail' shows that rhetoric is used in its negative sense: impressive language without real content. A statistical analysis or technical description would provide the detail that the sentence says is missing."
+        },
+        {
+          "id": "c2-u06-l5-q5",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "persuasive speech",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the fragments in order to form the climax of a speech.",
+          "fragments": [
+            "For our children,",
+            "for our neighbours,",
+            "and for the generations still to come,",
+            "we must act now."
+          ],
+          "acceptedAnswers": [
+            "For our neighbours, for our children, and for the generations still to come, we must act now."
+          ],
+          "explanation": "The three parallel prepositional phrases (for our children, for our neighbours, and for the generations still to come) form an ascending tricolon with anaphora, building to the main clause and call to action: we must act now. The longest phrase, introduced by and, comes last."
+        },
+        {
+          "id": "c2-u06-l5-q6",
+          "type": "multiple_select",
+          "category": "reading",
+          "topic": "rhetorical devices",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Read the extract and select ALL the techniques it uses.",
+          "context": "\"Do we want a city that works for the few? Or do we want a city that works for everyone? I know my answer. Let us build it together, street by street, school by school, neighbourhood by neighbourhood.\"",
+          "options": [
+            "rhetorical questions",
+            "antithesis",
+            "tricolon",
+            "statistical evidence",
+            "an appeal to the speaker's professional expertise"
+          ],
+          "answers": [0, 1, 2],
+          "explanation": "The two questions are rhetorical, and they contrast 'the few' with 'everyone' in parallel form (antithesis). 'Street by street, school by school, neighbourhood by neighbourhood' is a tricolon. The extract contains no figures and no reference to the speaker's professional background."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u06-t-q1",
+      "type": "single_choice",
+      "category": "reading",
+      "topic": "rhetorical questions",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "A journalist writes: \"Since when has asking awkward questions been a crime?\" What is the journalist implying?",
+      "options": [
+        "Asking awkward questions is not, and should not be treated as, a crime.",
+        "The journalist wants to know the date on which a law was passed.",
+        "Asking awkward questions recently became a crime.",
+        "The journalist believes awkward questions should be punished."
+      ],
+      "answer": 0,
+      "explanation": "'Since when has X been Y?' is a rhetorical question implying that X has never been Y. The journalist is protesting against treating questioners as criminals, not asking for a date."
+    },
+    {
+      "id": "c2-u06-t-q2",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "parallelism",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Correct the faulty parallelism.",
+      "sentence": "The report criticises the council for wasting money, ignoring residents and its failure to consult experts.",
+      "answers": [
+        "The report criticises the council for wasting money, ignoring residents and failing to consult experts.",
+        "The report criticises the council for wasting money, ignoring residents, and failing to consult experts.",
+        "The report criticises the council for wasting money, ignoring residents and not consulting experts.",
+        "The report criticises the council for wasting money, for ignoring residents and for failing to consult experts.",
+        "The report criticizes the council for wasting money, ignoring residents and failing to consult experts."
+      ],
+      "explanation": "After for, the first two items are gerunds (wasting, ignoring), so the third must also be a gerund: failing to consult (or not consulting). 'Its failure' is a noun phrase and breaks the pattern."
+    },
+    {
+      "id": "c2-u06-t-q3",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "emphatic structures",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the correct option for each gap.",
+      "text": "We ___ need your support, and we need it by Friday at ___ least.",
+      "choices": [
+        ["do", "are", "have"],
+        ["the very", "very", "a very"]
+      ],
+      "answers": [0, 0],
+      "explanation": "Emphatic do + base verb (do need) insists on the need. 'At the very least' is the fixed emphatic phrase; very cannot follow at without the."
+    },
+    {
+      "id": "c2-u06-t-q4",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "antithesis",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete the antithesis with one word.",
+      "text": "The question is ___ whether we can afford to repair the bridge, but whether we can afford not to.",
+      "answers": [["not"]],
+      "explanation": "The frame 'The question is not whether ..., but whether ...' sets up an antithesis that reframes the issue."
+    },
+    {
+      "id": "c2-u06-t-q5",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "parallelism",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Find the segment that breaks the parallel structure of this tricolon.",
+      "segments": [
+        "Ask yourselves:",
+        "who benefits from this law,",
+        "who pays for it,",
+        "and who did it protect?"
+      ],
+      "errorIndex": 3,
+      "correction": "and who does it protect?",
+      "explanation": "The first two questions are in the present simple (benefits, pays), so the third should be too: who does it protect? The past tense breaks the parallelism and the logic, since the law is current."
+    },
+    {
+      "id": "c2-u06-t-q6",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "persuasion vocabulary",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "\"The candidate's rousing speech galvanised the volunteers, who spent the whole weekend knocking on doors.\" What does 'galvanised' mean here?",
+      "options": [
+        "inspired them to take energetic action",
+        "coated them with a protective metal",
+        "bored them into silence",
+        "confused them about the campaign's aims"
+      ],
+      "answer": 0,
+      "explanation": "Galvanise figuratively means to shock or excite someone into action, which explains why the volunteers spent the weekend canvassing. The literal meaning (coating metal with zinc) does not apply to people."
+    }
+  ]
+}

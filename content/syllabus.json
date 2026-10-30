@@ -1,0 +1,200 @@
+{
+  "tracks": [
+    {
+      "slug": "general-english",
+      "name": "General English",
+      "description": "Jalur inti Linguora: grammar, kosakata, dan empat keterampilan bahasa untuk komunikasi sehari-hari dari A1 hingga C2.",
+      "goals": [
+        "Berkomunikasi dengan percaya diri dalam situasi sehari-hari",
+        "Menguasai grammar inti secara bertahap sesuai CEFR",
+        "Membangun kosakata aktif yang relevan dengan kehidupan nyata"
+      ],
+      "icon": "globe"
+    },
+    {
+      "slug": "academic-english",
+      "name": "English for Academic Purposes",
+      "description": "Untuk pelajar dan calon mahasiswa: membaca teks akademik, menulis esai, presentasi, dan bahasa formal.",
+      "goals": [
+        "Membaca dan merangkum teks akademik",
+        "Menulis paragraf dan esai argumentatif yang terstruktur",
+        "Menggunakan register formal dan hedging dengan tepat"
+      ],
+      "icon": "graduation-cap"
+    },
+    {
+      "slug": "business-english",
+      "name": "Business English",
+      "description": "Bahasa Inggris untuk dunia kerja: email profesional, rapat, negosiasi, presentasi, dan small talk bisnis.",
+      "goals": [
+        "Menulis email dan laporan profesional",
+        "Berpartisipasi aktif dalam rapat dan negosiasi",
+        "Menguasai kosakata bisnis dan kolokasi umum"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "slug": "career-development",
+      "name": "English for Career Development",
+      "description": "Persiapan karier: CV, wawancara kerja, personal branding, dan komunikasi di tempat kerja internasional.",
+      "goals": [
+        "Menyusun CV dan cover letter berbahasa Inggris",
+        "Menjawab pertanyaan wawancara kerja dengan struktur yang jelas",
+        "Berkomunikasi profesional dengan rekan kerja internasional"
+      ],
+      "icon": "rocket"
+    }
+  ],
+  "levels": [
+    {
+      "code": "A1",
+      "name": "Beginner",
+      "nameId": "Pemula",
+      "description": "Mengenal dasar-dasar bahasa Inggris: memperkenalkan diri, angka, kegiatan sehari-hari, dan kalimat sederhana.",
+      "objectives": [
+        "Memperkenalkan diri dan orang lain dengan kalimat sederhana",
+        "Menggunakan to be, present simple, dan present continuous dasar",
+        "Memahami dan menggunakan sekitar 500 kata yang paling umum",
+        "Membaca teks pendek sederhana tentang topik sehari-hari"
+      ],
+      "explanationLanguage": "Penjelasan 90% bahasa Indonesia; contoh dan istilah kunci dalam bahasa Inggris.",
+      "units": [
+        { "number": 1, "slug": "a1-u01-hello", "title": "Hello! Introducing Yourself", "grammar": ["subject pronouns", "to be: am/is/are (positive)", "greetings"], "vocabulary": "greetings, countries, nationalities, alphabet & spelling names", "skills": "introduce yourself, spell your name" },
+        { "number": 2, "slug": "a1-u02-family", "title": "My Family and Me", "grammar": ["to be: negative and yes/no questions", "possessive adjectives (my, your, his, her...)", "possessive 's"], "vocabulary": "family members, personal information", "skills": "talk about family, ask personal questions" },
+        { "number": 3, "slug": "a1-u03-numbers-time", "title": "Numbers, Time and Dates", "grammar": ["cardinal and ordinal numbers", "telling the time", "prepositions of time: at/on/in"], "vocabulary": "numbers 1-1000, days, months, dates, ages", "skills": "tell the time, say dates and phone numbers" },
+        { "number": 4, "slug": "a1-u04-things", "title": "Things Around Me", "grammar": ["articles a/an/the", "regular and irregular plurals", "this/that/these/those"], "vocabulary": "classroom objects, home objects, colours", "skills": "describe objects, ask 'What is this?'" },
+        { "number": 5, "slug": "a1-u05-routines", "title": "Daily Routines", "grammar": ["present simple affirmative (I/you/we/they, he/she/it + -s)", "adverbs of frequency", "spelling of third person -s/-es"], "vocabulary": "daily activities, times of day", "skills": "describe your daily routine" },
+        { "number": 6, "slug": "a1-u06-likes-questions", "title": "Likes, Dislikes and Questions", "grammar": ["present simple negative (don't/doesn't)", "present simple questions with do/does", "wh- questions (what, where, when, who, why, how)"], "vocabulary": "hobbies, sports, likes and dislikes (like/love/hate + -ing)", "skills": "ask and answer about habits and preferences" },
+        { "number": 7, "slug": "a1-u07-food-shopping", "title": "Food and Shopping", "grammar": ["countable and uncountable nouns", "some/any", "how much / how many"], "vocabulary": "food, drinks, containers, prices, shopping phrases", "skills": "order food, buy things in a shop" },
+        { "number": 8, "slug": "a1-u08-town", "title": "Places in Town", "grammar": ["there is / there are", "prepositions of place", "imperatives for directions"], "vocabulary": "places in town, transport, directions", "skills": "describe a town, ask for and give directions" },
+        { "number": 9, "slug": "a1-u09-abilities", "title": "Abilities and Free Time", "grammar": ["can / can't for ability", "can for requests and permission", "object pronouns (me, him, her, us, them)"], "vocabulary": "free-time activities, skills, musical instruments", "skills": "talk about abilities, make simple requests" },
+        { "number": 10, "slug": "a1-u10-right-now", "title": "What Are You Doing Right Now?", "grammar": ["present continuous (positive, negative, questions)", "present simple vs present continuous (introduction)", "spelling of -ing forms"], "vocabulary": "clothes, weather, actions", "skills": "describe what is happening now, talk about the weather" }
+      ]
+    },
+    {
+      "code": "A2",
+      "name": "Elementary",
+      "nameId": "Dasar",
+      "description": "Menceritakan pengalaman masa lalu, membuat rencana, membandingkan, dan berkomunikasi dalam situasi rutin.",
+      "objectives": [
+        "Menceritakan kejadian masa lalu dengan past simple",
+        "Membicarakan rencana masa depan dengan going to dan will",
+        "Membandingkan orang, tempat, dan benda",
+        "Berinteraksi dalam situasi rutin: perjalanan, kesehatan, pekerjaan"
+      ],
+      "explanationLanguage": "Penjelasan 75% bahasa Indonesia, 25% bahasa Inggris sederhana.",
+      "units": [
+        { "number": 1, "slug": "a2-u01-was-were", "title": "Where Were You?", "grammar": ["past simple of be: was/were", "past time expressions (yesterday, last..., ago)", "there was / there were"], "vocabulary": "places, events, feelings", "skills": "talk about where you were in the past" },
+        { "number": 2, "slug": "a2-u02-past-simple", "title": "Last Weekend", "grammar": ["past simple regular verbs (-ed spelling and pronunciation)", "common irregular past forms", "past simple affirmative"], "vocabulary": "weekend and holiday activities", "skills": "describe a past weekend or holiday" },
+        { "number": 3, "slug": "a2-u03-stories", "title": "Telling Stories", "grammar": ["past simple negative and questions (did/didn't)", "sequencers: first, then, after that, finally", "conjunctions and, but, so, because"], "vocabulary": "life events, story vocabulary", "skills": "tell a simple story in order" },
+        { "number": 4, "slug": "a2-u04-comparing", "title": "Comparing Things", "grammar": ["comparative adjectives", "superlative adjectives", "as ... as / not as ... as"], "vocabulary": "adjectives for people, places and products", "skills": "compare cities, products and people" },
+        { "number": 5, "slug": "a2-u05-future-plans", "title": "Plans for the Future", "grammar": ["be going to for plans and predictions", "present continuous for arrangements", "will for instant decisions and offers"], "vocabulary": "plans, celebrations, invitations", "skills": "make plans, invite and respond to invitations" },
+        { "number": 6, "slug": "a2-u06-health", "title": "Health and Advice", "grammar": ["should / shouldn't for advice", "have to / don't have to", "must / mustn't for rules"], "vocabulary": "body parts, illnesses, healthy habits", "skills": "describe symptoms, give advice" },
+        { "number": 7, "slug": "a2-u07-travel", "title": "Travel and Transport", "grammar": ["past continuous", "past continuous vs past simple (when/while)", "prepositions of movement"], "vocabulary": "transport, airports, hotels, travel problems", "skills": "book a hotel, describe a travel experience" },
+        { "number": 8, "slug": "a2-u08-experiences", "title": "Have You Ever...?", "grammar": ["present perfect for experiences (ever/never)", "past participles of common verbs", "been vs gone"], "vocabulary": "experiences, achievements, adventure activities", "skills": "ask about and describe life experiences" },
+        { "number": 9, "slug": "a2-u09-work", "title": "Work and Jobs", "grammar": ["adverbs of manner", "verb + to-infinitive (want to, need to, would like to)", "much / many / a lot of / a little / a few"], "vocabulary": "jobs, workplaces, work activities", "skills": "describe a job, talk about work preferences" },
+        { "number": 10, "slug": "a2-u10-communication", "title": "Everyday Communication", "grammar": ["polite requests: Could you...? / Would you like...?", "common phrasal verbs (get up, turn on, look for)", "will for promises and predictions"], "vocabulary": "phone calls, messages, simple emails", "skills": "make phone calls, write a short informal email" }
+      ]
+    },
+    {
+      "code": "B1",
+      "name": "Intermediate",
+      "nameId": "Menengah",
+      "description": "Mengekspresikan pendapat, menceritakan pengalaman secara rinci, dan menangani sebagian besar situasi perjalanan dan pekerjaan.",
+      "objectives": [
+        "Menggunakan present perfect, narrative tenses, dan berbagai bentuk future dengan tepat",
+        "Menggunakan conditional pertama dan kedua, passive dasar, dan relative clauses",
+        "Memahami poin utama teks dan percakapan tentang topik yang familier",
+        "Menulis teks terhubung sederhana tentang topik yang dikenal"
+      ],
+      "explanationLanguage": "Penjelasan 50% bahasa Indonesia, 50% bahasa Inggris.",
+      "units": [
+        { "number": 1, "slug": "b1-u01-perfect-vs-past", "title": "Life Changes", "grammar": ["present perfect vs past simple", "for / since", "just / already / yet"], "vocabulary": "life changes, personal achievements", "skills": "talk about recent news and life changes" },
+        { "number": 2, "slug": "b1-u02-narratives", "title": "Stories and Narratives", "grammar": ["past continuous for background", "past perfect", "narrative tenses together"], "vocabulary": "storytelling, emotions, unexpected events", "skills": "tell a story with background and sequence" },
+        { "number": 3, "slug": "b1-u03-future-forms", "title": "Looking Ahead", "grammar": ["will vs be going to vs present continuous", "future time clauses (when, as soon as, before, after)", "might / may for possibility"], "vocabulary": "technology, the future, predictions", "skills": "make predictions and discuss future plans" },
+        { "number": 4, "slug": "b1-u04-real-conditionals", "title": "If and When", "grammar": ["zero conditional", "first conditional", "unless / as long as"], "vocabulary": "environment, everyday consequences", "skills": "discuss consequences and real possibilities" },
+        { "number": 5, "slug": "b1-u05-unreal-conditionals", "title": "Imagine That", "grammar": ["second conditional", "I wish + past simple (present wishes)", "first vs second conditional"], "vocabulary": "dreams, hypothetical situations, money", "skills": "talk about imaginary situations and wishes" },
+        { "number": 6, "slug": "b1-u06-modals", "title": "Rules, Advice and Deduction", "grammar": ["must / have to / need to / don't need to", "should / ought to / had better", "must / might / can't for present deduction"], "vocabulary": "rules, workplace and school regulations", "skills": "explain rules, make deductions" },
+        { "number": 7, "slug": "b1-u07-passive", "title": "How Things Are Made", "grammar": ["present simple passive", "past simple passive", "by + agent"], "vocabulary": "products, inventions, processes", "skills": "describe processes and historical facts" },
+        { "number": 8, "slug": "b1-u08-relative-clauses", "title": "People, Places and Things", "grammar": ["defining relative clauses: who / which / that", "where / whose / when", "omitting the relative pronoun"], "vocabulary": "describing people, objects and places", "skills": "give precise definitions and descriptions" },
+        { "number": 9, "slug": "b1-u09-reported-speech", "title": "What Did They Say?", "grammar": ["reported statements (tense backshift)", "reported questions", "say vs tell"], "vocabulary": "communication verbs, news, gossip", "skills": "report what other people said" },
+        { "number": 10, "slug": "b1-u10-verb-patterns", "title": "Habits and Verb Patterns", "grammar": ["verb + -ing vs verb + to-infinitive", "used to for past habits", "be used to / get used to (introduction)"], "vocabulary": "habits, lifestyle, change", "skills": "talk about past habits and adapting to change" }
+      ]
+    },
+    {
+      "code": "B2",
+      "name": "Upper Intermediate",
+      "nameId": "Menengah Atas",
+      "description": "Berkomunikasi dengan lancar dan spontan, memahami teks kompleks, dan menulis teks rinci dengan argumen yang jelas.",
+      "objectives": [
+        "Menguasai perfect continuous, future perfect, dan conditional ketiga/campuran",
+        "Menggunakan passive lanjutan, causative, dan reported speech dengan reporting verbs",
+        "Menulis teks argumentatif dengan linking words yang beragam",
+        "Memahami ide utama teks kompleks tentang topik konkret maupun abstrak"
+      ],
+      "explanationLanguage": "Penjelasan 70% bahasa Inggris, dengan ringkasan dan catatan bahasa Indonesia.",
+      "units": [
+        { "number": 1, "slug": "b2-u01-continuous-perfect", "title": "Ongoing Actions and Results", "grammar": ["present perfect continuous", "present perfect simple vs continuous", "past perfect continuous"], "vocabulary": "work-life balance, projects, progress", "skills": "describe ongoing situations and their results" },
+        { "number": 2, "slug": "b2-u02-future-advanced", "title": "The World in 2050", "grammar": ["future continuous", "future perfect", "be about to / be due to / be likely to"], "vocabulary": "science, cities, society", "skills": "make detailed predictions" },
+        { "number": 3, "slug": "b2-u03-third-mixed", "title": "Regrets and Alternatives", "grammar": ["third conditional", "mixed conditionals", "conditionals without if (otherwise, provided that, supposing)"], "vocabulary": "decisions, turning points, luck", "skills": "speculate about the past and its consequences" },
+        { "number": 4, "slug": "b2-u04-passive-causative", "title": "Getting Things Done", "grammar": ["passive in all tenses and with modals", "causative have / get something done", "passive with reporting verbs (it is said that...)"], "vocabulary": "services, media, crime and justice", "skills": "describe services and report information formally" },
+        { "number": 5, "slug": "b2-u05-reporting-verbs", "title": "Reporting and Persuading", "grammar": ["reporting verbs + infinitive / -ing / that-clause", "reported commands and requests", "reported speech without backshift"], "vocabulary": "negotiation, persuasion, media", "skills": "summarise conversations and arguments" },
+        { "number": 6, "slug": "b2-u06-relative-advanced", "title": "Adding Information", "grammar": ["non-defining relative clauses", "relative clauses with prepositions", "reduced relative clauses"], "vocabulary": "culture, heritage, famous people", "skills": "write richer descriptions" },
+        { "number": 7, "slug": "b2-u07-past-modals", "title": "Speculating About the Past", "grammar": ["must have / might have / can't have + past participle", "should have / shouldn't have (criticism)", "needn't have vs didn't need to"], "vocabulary": "mysteries, mistakes, investigation", "skills": "speculate and criticise past actions" },
+        { "number": 8, "slug": "b2-u08-linking", "title": "Building an Argument", "grammar": ["contrast: although / despite / in spite of / whereas", "purpose and result: so that / in order to / so ... that / such ... that", "addition and sequencing linkers"], "vocabulary": "social issues, debate language", "skills": "write a balanced argumentative essay" },
+        { "number": 9, "slug": "b2-u09-wishes", "title": "Wishes and Preferences", "grammar": ["wish / if only + past perfect", "wish + would", "would rather / it's time + past simple"], "vocabulary": "lifestyle, habits, complaints", "skills": "express regret, preferences and complaints" },
+        { "number": 10, "slug": "b2-u10-collocations", "title": "Natural English at Work", "grammar": ["verb + noun collocations (make / do / take / have)", "phrasal verbs for work and study", "adjective + preposition"], "vocabulary": "business, study, career collocations", "skills": "sound natural in professional situations" }
+      ]
+    },
+    {
+      "code": "C1",
+      "name": "Advanced",
+      "nameId": "Mahir",
+      "description": "Menggunakan bahasa secara fleksibel dan efektif untuk keperluan sosial, akademik, dan profesional dengan struktur kompleks.",
+      "objectives": [
+        "Menggunakan inversion, cleft sentences, dan participle clauses untuk penekanan dan gaya",
+        "Menulis teks akademik dengan hedging, nominalisation, dan register formal",
+        "Memahami teks panjang dan menuntut serta makna implisit",
+        "Mengekspresikan diri dengan lancar tanpa banyak mencari kata"
+      ],
+      "explanationLanguage": "Penjelasan dalam bahasa Inggris; arti kosakata dan catatan penting dalam bahasa Indonesia.",
+      "units": [
+        { "number": 1, "slug": "c1-u01-inversion", "title": "Emphasis Through Inversion", "grammar": ["negative adverbial inversion (Never have I..., Rarely does...)", "not only ... but also with inversion", "hardly / no sooner / scarcely ... when / than"], "vocabulary": "achievement, surprise, emphasis", "skills": "add emphasis in formal speech and writing" },
+        { "number": 2, "slug": "c1-u02-cleft", "title": "Focusing Information", "grammar": ["it-cleft sentences (It was ... that ...)", "wh-cleft sentences (What I need is ...)", "all / the thing / the reason ... is"], "vocabulary": "opinions, priorities, clarification", "skills": "highlight key information in arguments" },
+        { "number": 3, "slug": "c1-u03-impersonal", "title": "Distancing and Reporting", "grammar": ["it is thought / believed / reported that ...", "subject + is said / believed + to-infinitive (perfect infinitive)", "there is thought to be ..."], "vocabulary": "journalism, research, rumours", "skills": "report claims objectively" },
+        { "number": 4, "slug": "c1-u04-participle-clauses", "title": "Concise Sentences", "grammar": ["present participle clauses", "past participle clauses", "perfect participle clauses (Having finished ...)"], "vocabulary": "processes, narratives, reports", "skills": "write concise and sophisticated sentences" },
+        { "number": 5, "slug": "c1-u05-hedging", "title": "Academic Caution", "grammar": ["hedging with modals and verbs (may, appear to, tend to, suggest)", "softening with adverbs (arguably, relatively, to some extent)", "boosters vs hedges"], "vocabulary": "academic research language", "skills": "present claims with appropriate caution" },
+        { "number": 6, "slug": "c1-u06-advanced-conditionals", "title": "Beyond If", "grammar": ["inverted conditionals (Had I known..., Should you need..., Were it not for...)", "but for / if it hadn't been for", "provided / providing / on condition that / supposing"], "vocabulary": "risk, opportunity, formal agreements", "skills": "express complex conditions formally" },
+        { "number": 7, "slug": "c1-u07-nominalisation", "title": "Formal Register and Nominalisation", "grammar": ["nominalisation (decide → decision)", "complex noun phrases", "formal vs informal vocabulary choices"], "vocabulary": "economics, policy, institutions", "skills": "rewrite informal text in an academic style" },
+        { "number": 8, "slug": "c1-u08-discourse", "title": "Cohesion and Discourse", "grammar": ["discourse markers for argument (nevertheless, consequently, by contrast)", "reference and substitution (the former, the latter, this, such)", "paragraph-level cohesion"], "vocabulary": "debate, academic argument", "skills": "write a cohesive academic essay" },
+        { "number": 9, "slug": "c1-u09-idioms", "title": "Idioms and Fixed Expressions", "grammar": ["idioms in context", "binomials (pros and cons, by and large)", "fixed phrases and their register"], "vocabulary": "idioms for work, relationships and decisions", "skills": "understand and use common idioms appropriately" },
+        { "number": 10, "slug": "c1-u10-subjunctive", "title": "Nuanced Modality", "grammar": ["the subjunctive (insist that he be, it is essential that)", "modal verbs for nuanced meaning (would, could, might in polite distancing)", "be to / be supposed to / be bound to"], "vocabulary": "requirements, recommendations, obligations", "skills": "make formal recommendations and requirements" }
+      ]
+    },
+    {
+      "code": "C2",
+      "name": "Proficient",
+      "nameId": "Sangat Mahir",
+      "description": "Memahami hampir semua yang didengar dan dibaca, serta mengekspresikan diri secara spontan, sangat lancar, dan presisi.",
+      "objectives": [
+        "Menggunakan struktur stilistik (fronting, ellipsis, substitution) secara alami",
+        "Membedakan nuansa makna, konotasi, dan register dengan presisi",
+        "Menganalisis teks kompleks termasuk nada, ironi, dan argumen implisit",
+        "Menulis teks persuasif dan akademik yang canggih"
+      ],
+      "explanationLanguage": "Penjelasan sepenuhnya dalam bahasa Inggris; arti kosakata tetap disertai bahasa Indonesia.",
+      "units": [
+        { "number": 1, "slug": "c2-u01-fronting", "title": "Fronting and Stylistic Inversion", "grammar": ["fronting for emphasis (Strange as it may seem, ...)", "inversion after place adverbials (Down came the rain)", "so / such inversion (So severe was the damage that ...)"], "vocabulary": "literary and descriptive language", "skills": "write with stylistic variety" },
+        { "number": 2, "slug": "c2-u02-ellipsis", "title": "Ellipsis and Substitution", "grammar": ["ellipsis in clauses and responses", "substitution with so, not, do so, one(s)", "avoiding repetition in formal writing"], "vocabulary": "conversation and debate", "skills": "speak and write economically" },
+        { "number": 3, "slug": "c2-u03-word-formation", "title": "Advanced Word Formation", "grammar": ["prefixes with nuanced meaning (mis-, under-, over-, counter-)", "suffixes forming abstract nouns and adjectives", "compound adjectives and nouns"], "vocabulary": "science, society, innovation", "skills": "expand vocabulary through word families" },
+        { "number": 4, "slug": "c2-u04-near-synonyms", "title": "Shades of Meaning", "grammar": ["near synonyms and connotation", "collocational restrictions", "gradable vs ungradable adjectives with intensifiers"], "vocabulary": "emotion, judgement, evaluation", "skills": "choose words with precision" },
+        { "number": 5, "slug": "c2-u05-register", "title": "Shifting Register", "grammar": ["formal, neutral and informal register", "journalistic and academic style", "politeness strategies and indirectness"], "vocabulary": "media, institutions, correspondence", "skills": "adapt language to audience and purpose" },
+        { "number": 6, "slug": "c2-u06-rhetoric", "title": "Rhetoric and Persuasion", "grammar": ["rhetorical questions", "tricolon, parallelism and antithesis", "emphatic do and intensifying structures"], "vocabulary": "speeches, campaigns, persuasion", "skills": "analyse and produce persuasive texts" },
+        { "number": 7, "slug": "c2-u07-noun-phrases", "title": "Academic Precision", "grammar": ["complex pre- and post-modification", "apposition", "precise quantifiers and hedged generalisations"], "vocabulary": "academic disciplines, research reporting", "skills": "write dense yet clear academic prose" },
+        { "number": 8, "slug": "c2-u08-figurative", "title": "Figurative Language", "grammar": ["metaphor and simile in everyday English", "idiomatic phrasal verbs with abstract meaning", "proverbs and allusions"], "vocabulary": "figurative expressions, literature", "skills": "interpret and use figurative language" },
+        { "number": 9, "slug": "c2-u09-critical-reading", "title": "Reading Between the Lines", "grammar": ["implicature and implied meaning", "tone, irony and understatement", "evaluative language and stance markers"], "vocabulary": "criticism, reviews, opinion journalism", "skills": "infer attitude and purpose in complex texts" },
+        { "number": 10, "slug": "c2-u10-mastery", "title": "Precision and Accuracy Mastery", "grammar": ["common advanced errors (dangling modifiers, agreement in complex sentences)", "subtle tense and aspect choices", "precise prepositions and collocations"], "vocabulary": "integrated review of C-level vocabulary", "skills": "edit and refine advanced writing" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "slug": "a1-u03-numbers-time",
+  "number": 3,
+  "title": "Numbers, Time and Dates",
+  "description": "Angka 0–1000, usia, nomor telepon, harga sederhana, cara menyebut jam, hari, bulan, bilangan bertingkat (first, second...), tanggal, serta preposisi waktu at/on/in.",
+  "objectives": [
+    "Menyebut dan menulis angka 0–1000 serta menyatakan usia",
+    "Membaca nomor telepon dan harga sederhana",
+    "Menanyakan dan menyebut jam dengan berbagai cara",
+    "Menyebut hari, bulan, dan tanggal dengan ordinal numbers",
+    "Menggunakan at, on, in untuk keterangan waktu"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u03-l1-numbers-ages",
+      "title": "Numbers 0–100 and Ages",
+      "summary": "Mengucapkan dan menulis angka 0–100, membedakan thirteen/thirty, dan menyebut usia.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menulis angka 0–100 dengan ejaan yang benar",
+        "Membedakan bunyi -teen dan -ty",
+        "Bertanya dan menjawab How old are you?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Angka 0–20\n| Angka | Kata | Angka | Kata |\n| --- | --- | --- | --- |\n| 0 | zero | 11 | eleven |\n| 1 | one | 12 | twelve |\n| 2 | two | 13 | thirteen |\n| 3 | three | 14 | fourteen |\n| 4 | four | 15 | fifteen |\n| 5 | five | 16 | sixteen |\n| 6 | six | 17 | seventeen |\n| 7 | seven | 18 | eighteen |\n| 8 | eight | 19 | nineteen |\n| 9 | nine | 20 | twenty |\n| 10 | ten | | |\n\nAngka **11** dan **12** tidak beraturan. Angka **13–19** berakhiran **-teen**.\n\n### Puluhan dan angka gabungan\nPuluhan berakhiran **-ty**: twenty (20), thirty (30), forty (40), fifty (50), sixty (60), seventy (70), eighty (80), ninety (90), dan **one hundred** (100).\n\nUntuk angka gabungan, tulis puluhan + satuan dengan **tanda hubung (-)**: *twenty-one* (21), *forty-five* (45), *ninety-nine* (99).\n\n### Ejaan yang sering salah\n- **four → fourteen → forty** (bukan ~~fourty~~!)\n- **five → fifteen → fifty** (bukan ~~fiveteen~~)\n- **three → thirteen → thirty**\n- **eight → eighteen → eighty** (hanya satu t)\n- **nine → nineteen → ninety** (huruf e tetap ada)\n\n### -teen atau -ty?\nPelajar sering tertukar antara **thirteen** dan **thirty**. Perhatikan **tekanan suara**:\n- thir**TEEN** /ˌθɜːˈtiːn/ — tekanan di akhir, bunyi *tiin* panjang.\n- **THIR**ty /ˈθɜːti/ — tekanan di awal, akhiran pendek *ti*.\n\n### Menyatakan usia\nUntuk usia, bahasa Inggris memakai **to be**, bukan *have*:\n- **How old are you?** — Berapa umurmu?\n- **I'm twenty-five.** atau **I'm twenty-five years old.**\n- *My grandmother is eighty years old.*\n\nPilih salah satu: cukup angka (*I'm 25*) atau angka + **years old**. Bentuk ~~I'm 25 years~~ (tanpa *old*) tidak benar. Untuk umur satu tahun: *one year old* (tanpa -s).",
+        "examples": [
+          { "en": "How old are you? — I'm nineteen.", "id": "Berapa umurmu? — Sembilan belas tahun." },
+          { "en": "My father is fifty-four years old.", "id": "Ayah saya berumur lima puluh empat tahun." },
+          { "en": "Our classroom is number thirteen.", "id": "Kelas kami nomor tiga belas." },
+          { "en": "The baby is one year old.", "id": "Bayi itu berumur satu tahun.", "note": "year tanpa -s untuk angka satu." },
+          { "en": "Is she thirty or thirteen?", "id": "Apakah dia tiga puluh atau tiga belas tahun?" }
+        ],
+        "vocabulary": [
+          { "word": "number", "pos": "noun", "ipa": "/ˈnʌmbə/", "meaning": "angka, nomor", "example": "Seven is my lucky number." },
+          { "word": "thirteen", "pos": "number", "ipa": "/ˌθɜːˈtiːn/", "meaning": "tiga belas", "example": "My cousin is thirteen." },
+          { "word": "thirty", "pos": "number", "ipa": "/ˈθɜːti/", "meaning": "tiga puluh", "example": "Ms. Park is thirty." },
+          { "word": "forty", "pos": "number", "ipa": "/ˈfɔːti/", "meaning": "empat puluh", "example": "He's forty years old." },
+          { "word": "fifteen", "pos": "number", "ipa": "/ˌfɪfˈtiːn/", "meaning": "lima belas", "example": "Room fifteen is here." },
+          { "word": "fifty", "pos": "number", "ipa": "/ˈfɪfti/", "meaning": "lima puluh", "example": "My aunt is fifty." },
+          { "word": "old", "pos": "adjective", "ipa": "/əʊld/", "meaning": "tua; berumur", "example": "How old is your sister?" },
+          { "word": "age", "pos": "noun", "ipa": "/eɪdʒ/", "meaning": "usia, umur", "example": "Age: 28" }
+        ],
+        "grammar": [
+          { "pattern": "How old + am/is/are + subjek?", "example": "How old is your brother?" },
+          { "pattern": "Subjek + to be + angka (+ years old)", "example": "He's twelve. / He's twelve years old." },
+          { "pattern": "puluhan-satuan (dengan tanda hubung)", "example": "thirty-six, eighty-two" }
+        ],
+        "mistakes": [
+          { "wrong": "I'm 25 years.", "right": "I'm 25. / I'm 25 years old.", "why": "Jika memakai years, tambahkan old; atau cukup sebut angkanya." },
+          { "wrong": "fourty", "right": "forty", "why": "Forty tidak memakai huruf u, walaupun four memakai u." },
+          { "wrong": "My brother has twenty years.", "right": "My brother is twenty.", "why": "Usia dalam bahasa Inggris memakai to be, bukan have." }
+        ],
+        "summary": "Angka 13–19 berakhiran **-teen** (tekanan di akhir), puluhan berakhiran **-ty** (tekanan di awal). Perhatikan ejaan **forty, fifteen, fifty, eighty, ninety**. Angka gabungan memakai tanda hubung: *twenty-one*. Usia memakai to be: **How old are you? — I'm 25 / I'm 25 years old.**",
+        "reviewCards": [
+          { "front": "40 dalam kata", "back": "forty (bukan fourty)" },
+          { "front": "13 vs 30", "back": "thirTEEN (tekanan akhir) vs THIRty (tekanan awal)" },
+          { "front": "Berapa umurmu?", "back": "How old are you? — I'm ... (years old)." },
+          { "front": "21 dalam kata", "back": "twenty-one (dengan tanda hubung)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u03-l1-q1", "type": "single_choice", "category": "vocabulary", "topic": "numbers",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "How do you write 40 in words?",
+          "instructions": "Hati-hati: four memakai u, tetapi 40 tidak.",
+          "options": ["fourty", "forty", "fourteen", "fortty"],
+          "answer": 1,
+          "explanation": "40 ditulis forty, tanpa huruf u. Fourteen adalah 14."
+        },
+        {
+          "id": "a1-u03-l1-q2", "type": "matching", "category": "vocabulary", "topic": "numbers",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the numbers with the words.",
+          "pairs": [
+            { "left": "13", "right": "thirteen" },
+            { "left": "30", "right": "thirty" },
+            { "left": "15", "right": "fifteen" },
+            { "left": "50", "right": "fifty" },
+            { "left": "19", "right": "nineteen" },
+            { "left": "90", "right": "ninety" }
+          ],
+          "explanation": "Angka 13–19 berakhiran -teen; puluhan (30, 50, 90) berakhiran -ty."
+        },
+        {
+          "id": "a1-u03-l1-q3", "type": "fill_blank", "category": "vocabulary", "topic": "ages",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the age in words.",
+          "text": "A: How old is your brother? B: He's ___ (21). A: And your sister? B: She's ___ (17).",
+          "answers": [["twenty-one", "twenty one"], ["seventeen"]],
+          "explanation": "21 = twenty-one (dengan tanda hubung); 17 = seventeen."
+        },
+        {
+          "id": "a1-u03-l1-q4", "type": "error_identification", "category": "grammar", "topic": "ages",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["My grandmother", "is", "seventy years."],
+          "errorIndex": 2,
+          "correction": "seventy years old. / seventy.",
+          "explanation": "Jika memakai years, tambahkan old: seventy years old. Bisa juga cukup seventy."
+        },
+        {
+          "id": "a1-u03-l1-q5", "type": "short_answer", "category": "vocabulary", "topic": "numbers",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Write the answer in words: twelve + eight = ?",
+          "answers": ["twenty", "20"],
+          "explanation": "12 + 8 = 20 = twenty."
+        },
+        {
+          "id": "a1-u03-l1-q6", "type": "translation", "category": "grammar", "topic": "ages",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Umur saya tiga puluh dua tahun.",
+          "direction": "id-en",
+          "answers": [
+            "I am thirty-two years old.", "I'm thirty-two years old.", "I am thirty-two.", "I'm thirty-two.",
+            "I am thirty two years old.", "I'm thirty two years old.", "I am 32 years old.", "I'm 32 years old.", "I am 32.", "I'm 32."
+          ],
+          "explanation": "Usia memakai to be: I am / I'm thirty-two (years old). Jangan memakai have."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u03-l2-big-numbers-phone",
+      "title": "Numbers to 1,000, Phone Numbers and Prices",
+      "summary": "Menyebut angka ratusan sampai seribu, membaca nomor telepon digit demi digit, dan menyebut harga sederhana.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyebut angka 100–1000 dengan hundred dan and",
+        "Membaca nomor telepon dengan oh/zero dan double",
+        "Menyebut harga sederhana dalam dolar dan sen"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Ratusan\n| Angka | Bahasa Inggris |\n| --- | --- |\n| 100 | one hundred / a hundred |\n| 105 | one hundred and five |\n| 250 | two hundred and fifty |\n| 415 | four hundred and fifteen |\n| 999 | nine hundred and ninety-nine |\n| 1,000 | one thousand / a thousand |\n\n### Aturan penting\n1. **Hundred** dan **thousand** **tidak** memakai -s setelah angka: *two hundred* (bukan ~~two hundreds~~), *three thousand*.\n2. Dalam bahasa Inggris British, tambahkan **and** setelah hundred: *three hundred **and** forty*. Dalam bahasa Inggris Amerika, *and* sering dihilangkan: *three hundred forty*. Keduanya benar.\n3. Bahasa Inggris memakai **koma** untuk ribuan (*1,000*) dan **titik** untuk desimal (*2.50*) — kebalikan dari bahasa Indonesia (*1.000* dan *2,50*).\n\n### Nomor telepon\nNomor telepon dibaca **digit demi digit**, bukan sebagai angka besar:\n- **0** dibaca **oh** (British) atau **zero**.\n- Dua angka yang sama berurutan sering dibaca **double**: *55* = **double five**.\n- Beri jeda kecil di antara kelompok angka.\n\nContoh: *0812 4477 3905* = **oh-eight-one-two, double four-double seven, three-nine-oh-five**.\n\nPertanyaan dan jawaban:\n**A:** What's your phone number?\n**B:** It's oh-eight-five-seven, two-three-double one...\n\n### Harga sederhana\n| Tulisan | Cara membaca |\n| --- | --- |\n| $5 | five dollars |\n| $1 | one dollar (tanpa -s) |\n| $3.50 | three dollars fifty / three fifty |\n| 80¢ | eighty cents |\n| £12 | twelve pounds |\n\nUntuk menyebut harga, gunakan **It's** atau **They're**: *The pen is two dollars. — It's two dollars.*\n\n### Teen atau ty dalam harga\nKesalahan *fifteen* vs *fifty* bisa membuat kita membayar terlalu mahal! Ucapkan **fif-TEEN** dan **FIF-ty** dengan tekanan yang jelas.",
+        "examples": [
+          { "en": "The book is three hundred pages.", "id": "Buku itu tiga ratus halaman." },
+          { "en": "What's your phone number? — It's 0812 5590 3321.", "id": "Berapa nomor teleponmu? — 0812 5590 3321.", "note": "Dibaca: oh-eight-one-two, double five-nine-oh, double three-two-one." },
+          { "en": "The T-shirt is nine dollars fifty.", "id": "Kaos itu harganya sembilan dolar lima puluh sen." },
+          { "en": "Our school is one hundred and twenty years old.", "id": "Sekolah kami berumur seratus dua puluh tahun." },
+          { "en": "The tickets are fifteen pounds each.", "id": "Tiketnya masing-masing lima belas pound." }
+        ],
+        "vocabulary": [
+          { "word": "hundred", "pos": "number", "ipa": "/ˈhʌndrəd/", "meaning": "ratus", "example": "two hundred people" },
+          { "word": "thousand", "pos": "number", "ipa": "/ˈθaʊznd/", "meaning": "ribu", "example": "one thousand students" },
+          { "word": "zero", "pos": "number", "ipa": "/ˈzɪərəʊ/", "meaning": "nol", "example": "Zero, one, two, three." },
+          { "word": "phone number", "pos": "noun", "ipa": "/ˈfəʊn ˌnʌmbə/", "meaning": "nomor telepon", "example": "What's your phone number?" },
+          { "word": "price", "pos": "noun", "ipa": "/praɪs/", "meaning": "harga", "example": "The price is ten dollars." },
+          { "word": "dollar", "pos": "noun", "ipa": "/ˈdɒlə/", "meaning": "dolar", "example": "It's one dollar." },
+          { "word": "cent", "pos": "noun", "ipa": "/sent/", "meaning": "sen", "example": "It's ninety cents." }
+        ],
+        "grammar": [
+          { "pattern": "angka + hundred (+ and) + puluhan/satuan", "example": "six hundred and twelve", "note": "Tanpa -s pada hundred." },
+          { "pattern": "Nomor telepon: digit demi digit, 0 = oh/zero, 77 = double seven", "example": "0877 = oh-eight-double seven" },
+          { "pattern": "It's + angka + dollars (+ sen)", "example": "It's four dollars twenty." }
+        ],
+        "mistakes": [
+          { "wrong": "five hundreds", "right": "five hundred", "why": "Setelah angka, hundred tidak memakai -s." },
+          { "wrong": "My phone number is eight hundred and twelve...", "right": "My phone number is oh-eight-one-two...", "why": "Nomor telepon dibaca digit demi digit." },
+          { "wrong": "It's one dollars.", "right": "It's one dollar.", "why": "Untuk angka satu, kata benda tetap tunggal." }
+        ],
+        "summary": "Ratusan: **two hundred and fifty** (tanpa -s pada hundred; *and* umum di British English). **1,000 = one thousand**. Nomor telepon dibaca **digit demi digit**: 0 = **oh/zero**, dua angka sama = **double**. Harga: *It's three dollars fifty.*",
+        "reviewCards": [
+          { "front": "350", "back": "three hundred and fifty" },
+          { "front": "0 dalam nomor telepon", "back": "oh atau zero" },
+          { "front": "55 dalam nomor telepon", "back": "double five" },
+          { "front": "$7.25", "back": "seven dollars twenty-five" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u03-l2-q1", "type": "single_choice", "category": "vocabulary", "topic": "numbers",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "How do you say 350?",
+          "instructions": "Ingat: hundred tidak memakai -s.",
+          "options": ["three hundreds fifty", "three hundred and fifty", "thirty-five hundred and", "three hundred and fifteen"],
+          "answer": 1,
+          "explanation": "350 = three hundred and fifty. Hundred tanpa -s, dan 50 = fifty (bukan fifteen)."
+        },
+        {
+          "id": "a1-u03-l2-q2", "type": "dictation", "category": "listening", "topic": "phone numbers",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Listen and write the sentence. Write the phone number with digits.",
+          "text": "My phone number is 0857 3321 6640.",
+          "explanation": "Kalimatnya: My phone number is 0857 3321 6640. Perhatikan double three (33) dan double four (44)."
+        },
+        {
+          "id": "a1-u03-l2-q3", "type": "matching", "category": "vocabulary", "topic": "numbers",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match the numbers with the words.",
+          "pairs": [
+            { "left": "100", "right": "one hundred" },
+            { "left": "250", "right": "two hundred and fifty" },
+            { "left": "415", "right": "four hundred and fifteen" },
+            { "left": "990", "right": "nine hundred and ninety" },
+            { "left": "1,000", "right": "one thousand" }
+          ],
+          "explanation": "Ratusan + and + puluhan/satuan. 15 = fifteen, 50 = fifty, 90 = ninety."
+        },
+        {
+          "id": "a1-u03-l2-q4", "type": "fill_blank", "category": "vocabulary", "topic": "numbers",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the numbers in words.",
+          "text": "700 = seven ___ ; 5,000 = five ___",
+          "answers": [["hundred"], ["thousand"]],
+          "explanation": "Setelah angka, hundred dan thousand tidak memakai -s: seven hundred, five thousand."
+        },
+        {
+          "id": "a1-u03-l2-q5", "type": "single_choice", "category": "pronunciation", "topic": "phone numbers",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "A phone number begins with 044. How do you usually say this part?",
+          "options": ["forty-four oh", "oh-double four", "zero-forty-four hundred", "four hundred and forty"],
+          "answer": 1,
+          "explanation": "Nomor telepon dibaca digit demi digit: 0 = oh, 44 = double four."
+        },
+        {
+          "id": "a1-u03-l2-q6", "type": "dialogue_completion", "category": "conversation", "topic": "prices",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the dialogue in a shop.",
+          "dialogue": [
+            { "speaker": "Customer", "text": "Excuse me, is this T-shirt nine dollars?" },
+            { "speaker": "Assistant", "text": null },
+            { "speaker": "Customer", "text": "Nineteen? Oh, OK. Thank you." }
+          ],
+          "options": ["No, it isn't. It's nineteen dollars.", "Yes, it is. It's ninety dollars.", "No, it isn't. It's ninety dollars.", "No, I'm not. It's nineteen."],
+          "answer": 0,
+          "explanation": "Pelanggan mengulang Nineteen, jadi harganya nineteen dollars. Jawaban singkat untuk benda: No, it isn't."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u03-l3-telling-time",
+      "title": "Telling the Time",
+      "summary": "Menanyakan jam dan menyebutnya dengan o'clock, half past, quarter past/to, dan cara digital.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Bertanya What time is it? dan menjawab It's ...",
+        "Menggunakan o'clock, past, to, half, dan quarter",
+        "Menghindari kesalahan setengah delapan = half past seven"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menanyakan jam\n- **What time is it?** — Jam berapa sekarang?\n- **Excuse me, what's the time?** — Permisi, jam berapa?\n\nJawaban selalu diawali **It's ...**\n\n### Dua cara menyebut jam\n**1. Cara digital (paling mudah):** sebut jam lalu menit.\n- 7:15 → *It's seven fifteen.*\n- 9:40 → *It's nine forty.*\n- 6:05 → *It's six oh five.*\n\n**2. Cara tradisional (past/to):**\n| Jam | Cara tradisional |\n| --- | --- |\n| 3:00 | three o'clock |\n| 3:05 | five past three |\n| 3:15 | quarter past three |\n| 3:30 | half past three |\n| 3:40 | twenty to four |\n| 3:45 | quarter to four |\n| 3:55 | five to four |\n\n- Menit **1–30** memakai **past** (lewat) + jam sekarang.\n- Menit **31–59** memakai **to** (kurang) + jam **berikutnya**.\n- **Quarter** = 15 menit, **half** = 30 menit.\n- **O'clock** hanya untuk jam tepat: *It's five o'clock.*\n\n### Jebakan: setengah delapan\nDalam bahasa Indonesia, *setengah delapan* berarti **7:30** (setengah jam **menuju** delapan). Dalam bahasa Inggris, 7:30 adalah **half past seven** (setengah jam **lewat** tujuh). Jangan katakan ~~half past eight~~ untuk 7:30!\n\n### a.m. dan p.m.\n| Singkatan | Waktu | Contoh |\n| --- | --- | --- |\n| a.m. | tengah malam – 11:59 siang | 8 a.m. = jam 8 pagi |\n| p.m. | 12 siang – 11:59 malam | 8 p.m. = jam 8 malam |\n\nKita juga bisa berkata *in the morning*, *in the afternoon*, *in the evening*: *It's eight in the evening.* Pukul 12:00 siang disebut **noon** (atau *midday*) dan 12:00 malam disebut **midnight**.\n\n### Catatan\nDalam percakapan, *a quarter past* dan *quarter past* sama-sama benar.",
+        "examples": [
+          { "en": "What time is it? — It's ten o'clock.", "id": "Jam berapa sekarang? — Jam sepuluh tepat." },
+          { "en": "It's half past seven.", "id": "Sekarang jam setengah delapan (7:30).", "note": "Bukan half past eight!" },
+          { "en": "It's quarter to nine.", "id": "Sekarang jam sembilan kurang seperempat (8:45)." },
+          { "en": "The class is at twenty past two.", "id": "Kelasnya pukul dua lewat dua puluh (2:20)." },
+          { "en": "It's six thirty p.m.", "id": "Sekarang pukul 18.30." }
+        ],
+        "vocabulary": [
+          { "word": "time", "pos": "noun", "ipa": "/taɪm/", "meaning": "waktu, jam", "example": "What time is it?" },
+          { "word": "o'clock", "pos": "adverb", "ipa": "/əˈklɒk/", "meaning": "tepat (jam)", "example": "It's two o'clock." },
+          { "word": "half", "pos": "noun", "ipa": "/hɑːf/", "meaning": "setengah", "example": "It's half past ten." },
+          { "word": "quarter", "pos": "noun", "ipa": "/ˈkwɔːtə/", "meaning": "seperempat (15 menit)", "example": "It's quarter past six." },
+          { "word": "past", "pos": "preposition", "ipa": "/pɑːst/", "meaning": "lewat", "example": "It's ten past four." },
+          { "word": "minute", "pos": "noun", "ipa": "/ˈmɪnɪt/", "meaning": "menit", "example": "Five minutes, please." },
+          { "word": "noon", "pos": "noun", "ipa": "/nuːn/", "meaning": "tengah hari (12.00)", "example": "Lunch is at noon." },
+          { "word": "midnight", "pos": "noun", "ipa": "/ˈmɪdnaɪt/", "meaning": "tengah malam (24.00)", "example": "It's midnight." }
+        ],
+        "grammar": [
+          { "pattern": "It's + jam + o'clock", "example": "It's eleven o'clock." },
+          { "pattern": "It's + menit + past + jam (menit 1–30)", "example": "It's quarter past five. (5:15)" },
+          { "pattern": "It's + menit + to + jam berikutnya (menit 31–59)", "example": "It's ten to eight. (7:50)" }
+        ],
+        "mistakes": [
+          { "wrong": "7:30 = It's half past eight.", "right": "7:30 = It's half past seven.", "why": "Half past berarti setengah jam lewat dari jam yang disebut." },
+          { "wrong": "It's seven thirty o'clock.", "right": "It's seven thirty.", "why": "O'clock hanya untuk jam tepat." },
+          { "wrong": "8:45 = It's quarter to eight.", "right": "8:45 = It's quarter to nine.", "why": "To memakai jam berikutnya." }
+        ],
+        "summary": "Tanya jam dengan **What time is it?** dan jawab **It's ...**. Cara digital: *It's nine fifteen*. Cara tradisional: menit 1–30 memakai **past** + jam sekarang, menit 31–59 memakai **to** + jam berikutnya. **Quarter** = 15 menit, **half** = 30 menit, **o'clock** = tepat. Ingat: *setengah delapan* = **half past seven**.",
+        "reviewCards": [
+          { "front": "7:30 (setengah delapan)", "back": "half past seven / seven thirty" },
+          { "front": "9:45", "back": "quarter to ten / nine forty-five" },
+          { "front": "Kapan memakai o'clock?", "back": "Hanya untuk jam tepat: It's three o'clock." },
+          { "front": "12:00 siang / 12:00 malam", "back": "noon / midnight" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u03-l3-q1", "type": "single_choice", "category": "vocabulary", "topic": "telling the time",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "It's 7:30. How do you say it?",
+          "instructions": "7:30 = setengah jam lewat pukul tujuh.",
+          "options": ["It's half past seven.", "It's half past eight.", "It's half to eight.", "It's seven and half."],
+          "answer": 0,
+          "explanation": "7:30 = half past seven. Hati-hati: setengah delapan dalam bahasa Indonesia sama dengan half past seven."
+        },
+        {
+          "id": "a1-u03-l3-q2", "type": "matching", "category": "vocabulary", "topic": "telling the time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match the clock times with the words.",
+          "pairs": [
+            { "left": "9:15", "right": "quarter past nine" },
+            { "left": "9:45", "right": "quarter to ten" },
+            { "left": "3:00", "right": "three o'clock" },
+            { "left": "10:30", "right": "half past ten" },
+            { "left": "6:20", "right": "twenty past six" },
+            { "left": "11:50", "right": "ten to twelve" }
+          ],
+          "explanation": "Menit 1–30 memakai past + jam sekarang; menit 31–59 memakai to + jam berikutnya."
+        },
+        {
+          "id": "a1-u03-l3-q3", "type": "fill_blank", "category": "vocabulary", "topic": "telling the time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write past or to.",
+          "text": "4:45 → It's quarter ___ five. 2:10 → It's ten ___ two.",
+          "answers": [["to"], ["past"]],
+          "explanation": "4:45 = 15 menit menuju jam lima (to five). 2:10 = 10 menit lewat jam dua (past two)."
+        },
+        {
+          "id": "a1-u03-l3-q4", "type": "error_identification", "category": "vocabulary", "topic": "telling the time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "The film is at 7:30 p.m. Find the mistake.",
+          "segments": ["The film", "is at", "half past eight", "in the evening."],
+          "errorIndex": 2,
+          "correction": "half past seven",
+          "explanation": "7:30 = half past seven. Half past eight adalah 8:30."
+        },
+        {
+          "id": "a1-u03-l3-q5", "type": "short_answer", "category": "vocabulary", "topic": "telling the time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Write the time in numbers: 'quarter to six'.",
+          "answers": ["5:45", "05:45", "5.45", "05.45"],
+          "explanation": "Quarter to six = 15 menit sebelum jam enam = 5:45."
+        },
+        {
+          "id": "a1-u03-l3-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "telling the time",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Lunch at Sunny Hill School is at 12 p.m. — in the middle of the day. 12 p.m. is also called ___.",
+          "options": ["midnight", "noon", "morning", "half past twelve"],
+          "answer": 1,
+          "explanation": "Pukul 12 siang disebut noon. Midnight adalah pukul 12 malam."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u03-l4-days-months-ordinals",
+      "title": "Days, Months, Ordinal Numbers and Dates",
+      "summary": "Menyebut hari dan bulan, menggunakan ordinal numbers (first, second, third...), serta membaca dan menulis tanggal.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyebut dan menulis nama hari dan bulan dengan huruf kapital",
+        "Membentuk ordinal numbers 1st–31st",
+        "Menyebut tanggal dengan the ... of ..."
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Hari dan bulan\n**Days:** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.\n**Months:** January, February, March, April, May, June, July, August, September, October, November, December.\n\nNama hari dan bulan **selalu** diawali **huruf kapital** (bukan ~~monday~~, ~~june~~). Perhatikan pengucapan **Wednesday** /ˈwenzdeɪ/ — huruf *d* pertama tidak dibaca.\n\n### Ordinal numbers (bilangan bertingkat)\nUntuk tanggal, bahasa Inggris memakai **ordinal numbers** (pertama, kedua, ketiga...), bukan angka biasa.\n\n| Angka | Ordinal | Singkatan |\n| --- | --- | --- |\n| 1 | first | 1st |\n| 2 | second | 2nd |\n| 3 | third | 3rd |\n| 4 | fourth | 4th |\n| 5 | fifth | 5th |\n| 8 | eighth | 8th |\n| 9 | ninth | 9th |\n| 12 | twelfth | 12th |\n| 20 | twentieth | 20th |\n| 21 | twenty-first | 21st |\n| 22 | twenty-second | 22nd |\n| 31 | thirty-first | 31st |\n\nAturan umum: angka + **-th** (*sixth, tenth, seventeenth*). Yang tidak beraturan: **first, second, third, fifth, eighth, ninth, twelfth**. Puluhan berakhiran -y berubah menjadi **-ieth**: *twenty → twentieth, thirty → thirtieth*. Pada angka gabungan, hanya angka terakhir yang menjadi ordinal: *twenty-**first**, thirty-**second***.\n\n### Menulis dan menyebut tanggal\n| Tulisan | Cara menyebut |\n| --- | --- |\n| 5 May / 5th May (British) | the fifth of May |\n| May 5 / May 5th (American) | May fifth / May the fifth |\n\n**Penting:** di Amerika, *5/3* berarti **3 Mei** (bulan dulu), sedangkan di Inggris dan Indonesia berarti **5 Maret**. Untuk menghindari salah paham, tulis nama bulannya.\n\n### Bertanya tentang tanggal\n- **What's the date today?** — *It's the second of April.*\n- **What day is it today?** — *It's Wednesday.*\n- *My birthday is the twelfth of June.*",
+        "examples": [
+          { "en": "What's the date today? — It's the third of March.", "id": "Tanggal berapa hari ini? — Tanggal tiga Maret." },
+          { "en": "What day is it today? — It's Friday.", "id": "Hari apa hari ini? — Hari Jumat." },
+          { "en": "My birthday is the twenty-first of October.", "id": "Ulang tahun saya tanggal dua puluh satu Oktober." },
+          { "en": "December is the twelfth month of the year.", "id": "Desember adalah bulan kedua belas dalam setahun." },
+          { "en": "Today is Monday, the first of July.", "id": "Hari ini Senin, tanggal satu Juli." }
+        ],
+        "vocabulary": [
+          { "word": "Monday", "pos": "noun", "ipa": "/ˈmʌndeɪ/", "meaning": "Senin", "example": "Today is Monday." },
+          { "word": "Wednesday", "pos": "noun", "ipa": "/ˈwenzdeɪ/", "meaning": "Rabu", "example": "Is it Wednesday today?" },
+          { "word": "Saturday", "pos": "noun", "ipa": "/ˈsætədeɪ/", "meaning": "Sabtu", "example": "Saturday is my favourite day." },
+          { "word": "February", "pos": "noun", "ipa": "/ˈfebruəri/", "meaning": "Februari", "example": "February is short." },
+          { "word": "date", "pos": "noun", "ipa": "/deɪt/", "meaning": "tanggal", "example": "What's the date today?" },
+          { "word": "birthday", "pos": "noun", "ipa": "/ˈbɜːθdeɪ/", "meaning": "ulang tahun", "example": "Happy birthday, Rani!" },
+          { "word": "first", "pos": "ordinal number", "ipa": "/fɜːst/", "meaning": "pertama", "example": "the first of May" },
+          { "word": "third", "pos": "ordinal number", "ipa": "/θɜːd/", "meaning": "ketiga", "example": "the third day" },
+          { "word": "month", "pos": "noun", "ipa": "/mʌnθ/", "meaning": "bulan", "example": "June is my favourite month." }
+        ],
+        "grammar": [
+          { "pattern": "the + ordinal + of + bulan", "example": "the fourteenth of February" },
+          { "pattern": "angka + -th (kecuali first, second, third, fifth, eighth, ninth, twelfth)", "example": "seventh, eleventh, nineteenth" },
+          { "pattern": "-ty → -tieth", "example": "thirty → thirtieth" }
+        ],
+        "mistakes": [
+          { "wrong": "My birthday is the five of May.", "right": "My birthday is the fifth of May.", "why": "Tanggal memakai ordinal number (fifth), bukan angka biasa." },
+          { "wrong": "Today is monday.", "right": "Today is Monday.", "why": "Nama hari selalu diawali huruf kapital." },
+          { "wrong": "the twenty-oneth of June", "right": "the twenty-first of June", "why": "Hanya angka terakhir yang berubah, dan 1 menjadi first." }
+        ],
+        "summary": "Hari dan bulan selalu memakai **huruf kapital**. Tanggal memakai **ordinal numbers**: *first, second, third, fourth, fifth...* Sebut tanggal dengan **the + ordinal + of + bulan**: *the fifth of May*. Tanyakan dengan **What's the date today?** dan **What day is it today?**",
+        "reviewCards": [
+          { "front": "1st, 2nd, 3rd", "back": "first, second, third" },
+          { "front": "12th / 20th", "back": "twelfth / twentieth" },
+          { "front": "5 Mei (cara menyebut)", "back": "the fifth of May" },
+          { "front": "What's the date today?", "back": "Tanggal berapa hari ini? → It's the ... of ..." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u03-l4-q1", "type": "single_choice", "category": "vocabulary", "topic": "ordinal numbers",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "What is the ordinal number for 3?",
+          "instructions": "Ordinal 1, 2, 3 tidak beraturan.",
+          "options": ["threeth", "third", "thirdth", "three"],
+          "answer": 1,
+          "explanation": "3 → third (3rd). Ordinal 1–3: first, second, third."
+        },
+        {
+          "id": "a1-u03-l4-q2", "type": "matching", "category": "vocabulary", "topic": "ordinal numbers",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match the short forms with the words.",
+          "pairs": [
+            { "left": "1st", "right": "first" },
+            { "left": "2nd", "right": "second" },
+            { "left": "5th", "right": "fifth" },
+            { "left": "9th", "right": "ninth" },
+            { "left": "12th", "right": "twelfth" },
+            { "left": "20th", "right": "twentieth" }
+          ],
+          "explanation": "Perhatikan ejaan tidak beraturan: fifth (bukan fiveth), ninth (tanpa e), twelfth (ve → f), twentieth (y → ie)."
+        },
+        {
+          "id": "a1-u03-l4-q3", "type": "word_order", "category": "grammar", "topic": "dates",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Today", "is", "the", "second", "of", "April"],
+          "explanation": "Pola tanggal: the + ordinal (second) + of + bulan (April)."
+        },
+        {
+          "id": "a1-u03-l4-q4", "type": "drag_drop", "category": "vocabulary", "topic": "days and months",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the sequences.",
+          "text": "Monday, Tuesday, ___, Thursday. January, February, ___, April.",
+          "bank": ["Wednesday", "Friday", "March", "May", "June"],
+          "answers": ["Wednesday", "March"],
+          "explanation": "Setelah Tuesday adalah Wednesday; setelah February adalah March."
+        },
+        {
+          "id": "a1-u03-l4-q5", "type": "error_identification", "category": "grammar", "topic": "dates",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["My birthday is", "the twenty-two", "of", "August."],
+          "errorIndex": 1,
+          "correction": "the twenty-second",
+          "explanation": "Tanggal memakai ordinal number: 22nd = twenty-second."
+        },
+        {
+          "id": "a1-u03-l4-q6", "type": "multiple_select", "category": "writing", "topic": "days and months",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which words are written correctly? Choose all correct answers.",
+          "options": ["Monday", "june", "Friday", "september", "December"],
+          "answers": [0, 2, 4],
+          "explanation": "Nama hari dan bulan selalu diawali huruf kapital: June dan September harus ditulis dengan huruf besar."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u03-l5-prepositions-time",
+      "title": "Prepositions of Time: At, On, In",
+      "summary": "Memilih at, on, atau in untuk jam, hari, tanggal, bulan, tahun, dan bagian hari.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai at untuk jam dan waktu tertentu",
+        "Memakai on untuk hari dan tanggal",
+        "Memakai in untuk bulan, tahun, musim, dan bagian hari"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Satu kata Indonesia, tiga kata Inggris\nDalam bahasa Indonesia kita cukup berkata *pada* atau *pukul*: *pada hari Senin, pada bulan Mei, pukul tujuh*. Bahasa Inggris memakai tiga preposisi berbeda: **at, on, in**. Bayangkan sebuah piramida: dari waktu yang paling **sempit** (at) ke yang paling **luas** (in).\n\n| Preposisi | Dipakai untuk | Contoh |\n| --- | --- | --- |\n| **at** | jam, waktu tepat | at 7 o'clock, at half past six, at noon, at midnight, at night |\n| **on** | hari, tanggal | on Monday, on 5 May, on my birthday, on Friday morning |\n| **in** | bulan, tahun, musim, bagian hari | in June, in 2020, in summer, in the morning, in the afternoon, in the evening |\n\n### Kalimat dengan to be\nDengan to be, kita bisa menyebut **kapan** sebuah acara terjadi:\n- *The class is **at** nine.* (Kelasnya pukul sembilan.)\n- *The party is **on** Saturday.* (Pestanya hari Sabtu.)\n- *My birthday is **in** May.* (Ulang tahun saya bulan Mei.)\n- *The test is **on** the third of June.* (Ujiannya tanggal tiga Juni.)\n\n### Hal-hal yang perlu diingat\n1. **in the morning** tetapi **on Monday morning** — jika ada nama hari, gunakan **on**.\n2. **in the evening** tetapi **at night** — *night* memakai **at**.\n3. **at the weekend** (British) = **on the weekend** (American).\n4. Tanggal selalu memakai **on**, walaupun ada nama bulannya: ***on** 15 May* (bukan ~~in 15 May~~).\n5. Jangan memakai at/on/in sebelum **today, tomorrow, every, this, next**: *The meeting is **tomorrow**.* (bukan ~~on tomorrow~~)\n\n### Pertanyaan sederhana\n**A:** What time is the meeting? **B:** It's **at** ten.\n**A:** Is the exam **on** Monday? **B:** No, it isn't. It's **on** Tuesday.",
+        "examples": [
+          { "en": "The English class is at eight in the morning.", "id": "Kelas bahasa Inggris pukul delapan pagi." },
+          { "en": "The party is on Saturday evening.", "id": "Pestanya hari Sabtu malam.", "note": "Ada nama hari → on." },
+          { "en": "My birthday is in November.", "id": "Ulang tahun saya pada bulan November." },
+          { "en": "The exam is on the fifteenth of May.", "id": "Ujiannya tanggal lima belas Mei." },
+          { "en": "The streets are quiet at night.", "id": "Jalanan sepi pada malam hari." }
+        ],
+        "vocabulary": [
+          { "word": "at", "pos": "preposition", "ipa": "/æt/", "meaning": "pada, pukul (jam)", "example": "at six o'clock" },
+          { "word": "on", "pos": "preposition", "ipa": "/ɒn/", "meaning": "pada (hari, tanggal)", "example": "on Sunday" },
+          { "word": "in", "pos": "preposition", "ipa": "/ɪn/", "meaning": "pada (bulan, tahun, bagian hari)", "example": "in April" },
+          { "word": "weekend", "pos": "noun", "ipa": "/ˌwiːkˈend/", "meaning": "akhir pekan", "example": "The market is busy at the weekend." },
+          { "word": "party", "pos": "noun", "ipa": "/ˈpɑːti/", "meaning": "pesta", "example": "The party is on Friday." },
+          { "word": "meeting", "pos": "noun", "ipa": "/ˈmiːtɪŋ/", "meaning": "rapat, pertemuan", "example": "The meeting is at ten." },
+          { "word": "exam", "pos": "noun", "ipa": "/ɪɡˈzæm/", "meaning": "ujian", "example": "The exam is in June." }
+        ],
+        "grammar": [
+          { "pattern": "at + jam / noon / midnight / night", "example": "The bus is here at 6:15." },
+          { "pattern": "on + hari / tanggal / hari + bagian hari", "example": "The concert is on Friday night." },
+          { "pattern": "in + bulan / tahun / musim / the morning, afternoon, evening", "example": "The festival is in August." }
+        ],
+        "mistakes": [
+          { "wrong": "The party is in Saturday.", "right": "The party is on Saturday.", "why": "Nama hari memakai on." },
+          { "wrong": "My exam is in 15 May.", "right": "My exam is on 15 May.", "why": "Tanggal lengkap memakai on." },
+          { "wrong": "The class is on 9 o'clock.", "right": "The class is at 9 o'clock.", "why": "Jam memakai at." },
+          { "wrong": "The meeting is on tomorrow.", "right": "The meeting is tomorrow.", "why": "Tidak ada preposisi sebelum tomorrow/today." }
+        ],
+        "summary": "**at** untuk jam dan waktu tepat (*at 7, at noon, at night*); **on** untuk hari dan tanggal (*on Monday, on 5 May*); **in** untuk bulan, tahun, musim, dan bagian hari (*in May, in 2020, in the morning*). Tanpa preposisi sebelum **today, tomorrow, next, this**.",
+        "reviewCards": [
+          { "front": "___ Monday / ___ May / ___ 7 o'clock", "back": "on / in / at" },
+          { "front": "___ the morning / ___ night", "back": "in the morning / at night" },
+          { "front": "___ 15 May", "back": "on (tanggal)" },
+          { "front": "___ Friday morning", "back": "on (ada nama hari)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u03-l5-q1", "type": "dropdown", "category": "grammar", "topic": "prepositions of time",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct prepositions.",
+          "instructions": "Hari → on; jam → at.",
+          "text": "The meeting is ___ Monday ___ 10 a.m.",
+          "choices": [["at", "on", "in"], ["at", "on", "in"]],
+          "answers": [1, 0],
+          "explanation": "Monday adalah nama hari → on. 10 a.m. adalah jam → at."
+        },
+        {
+          "id": "a1-u03-l5-q2", "type": "drag_drop", "category": "grammar", "topic": "prepositions of time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct prepositions into the gaps.",
+          "text": "My birthday is ___ July. This year, the party is ___ Saturday ___ 7 p.m.",
+          "bank": ["in", "on", "at", "to", "of"],
+          "answers": ["in", "on", "at"],
+          "explanation": "Bulan → in July; hari → on Saturday; jam → at 7 p.m."
+        },
+        {
+          "id": "a1-u03-l5-q3", "type": "fill_blank", "category": "grammar", "topic": "prepositions of time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write at, on or in.",
+          "text": "Our English class is ___ the morning, and the test is ___ Friday. The library is quiet ___ night.",
+          "answers": [["in"], ["on"], ["at"]],
+          "explanation": "in the morning (bagian hari); on Friday (hari); at night (pengecualian: night memakai at)."
+        },
+        {
+          "id": "a1-u03-l5-q4", "type": "single_choice", "category": "grammar", "topic": "prepositions of time",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The concert is in Saturday.", "The concert is on Saturday.", "The concert is at Saturday.", "The concert is Saturday on."],
+          "answer": 1,
+          "explanation": "Nama hari memakai on: on Saturday."
+        },
+        {
+          "id": "a1-u03-l5-q5", "type": "sentence_correction", "category": "grammar", "topic": "prepositions of time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "My exam is in 15 May.",
+          "answers": ["My exam is on 15 May.", "My exam is on May 15.", "My exam is on the 15th of May.", "My exam is on May 15th.", "My exam is on 15th May.", "My exam is on the fifteenth of May."],
+          "explanation": "Tanggal lengkap memakai on, walaupun ada nama bulan: on 15 May."
+        },
+        {
+          "id": "a1-u03-l5-q6", "type": "translation", "category": "grammar", "topic": "prepositions of time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Ulang tahun saya pada bulan Mei.",
+          "direction": "id-en",
+          "answers": ["My birthday is in May.", "My birthday's in May."],
+          "explanation": "Bulan memakai in: My birthday is in May."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u03-t-q1", "type": "single_choice", "category": "listening", "topic": "numbers",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Ana says: 'I'm thirty.' How old is Ana?",
+      "options": ["13", "30", "33", "3"],
+      "answer": 1,
+      "explanation": "Thirty (tekanan di awal, akhiran -ty) = 30. Thirteen = 13."
+    },
+    {
+      "id": "a1-u03-t-q2", "type": "sentence_transformation", "category": "vocabulary", "topic": "telling the time",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Rewrite the time using 'quarter'.",
+      "sentence": "It's eight forty-five.",
+      "cue": "Tulis ulang dengan quarter past/to.",
+      "answers": ["It's quarter to nine.", "It's a quarter to nine.", "It is quarter to nine.", "It is a quarter to nine."],
+      "explanation": "8:45 = 15 menit sebelum jam sembilan = quarter to nine."
+    },
+    {
+      "id": "a1-u03-t-q3", "type": "dropdown", "category": "grammar", "topic": "prepositions of time",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct prepositions.",
+      "text": "The dentist appointment is ___ Tuesday, ___ the afternoon, ___ 3:30.",
+      "choices": [["at", "on", "in"], ["at", "on", "in"], ["at", "on", "in"]],
+      "answers": [1, 2, 0],
+      "explanation": "on Tuesday (hari), in the afternoon (bagian hari), at 3:30 (jam)."
+    },
+    {
+      "id": "a1-u03-t-q4", "type": "matching", "category": "vocabulary", "topic": "ordinal numbers",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match the short forms with the ordinal numbers.",
+      "pairs": [
+        { "left": "3rd", "right": "third" },
+        { "left": "8th", "right": "eighth" },
+        { "left": "11th", "right": "eleventh" },
+        { "left": "22nd", "right": "twenty-second" },
+        { "left": "31st", "right": "thirty-first" }
+      ],
+      "explanation": "Hanya angka terakhir yang menjadi ordinal: twenty-second, thirty-first. Eighth hanya memakai satu t."
+    },
+    {
+      "id": "a1-u03-t-q5", "type": "multiple_select", "category": "vocabulary", "topic": "numbers",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which are correct ways to say 250? Choose all correct answers.",
+      "options": ["two hundred and fifty", "two hundreds and fifty", "two hundred fifty", "two fifty hundred"],
+      "answers": [0, 2],
+      "explanation": "British: two hundred and fifty; American: two hundred fifty. Hundred tidak memakai -s."
+    },
+    {
+      "id": "a1-u03-t-q6", "type": "error_identification", "category": "grammar", "topic": "prepositions of time",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["Our holiday", "is", "in", "the first of August."],
+      "errorIndex": 2,
+      "correction": "on",
+      "explanation": "Tanggal (the first of August) memakai on, bukan in."
+    },
+    {
+      "id": "a1-u03-t-q7", "type": "dialogue_completion", "category": "conversation", "topic": "dates",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the dialogue.",
+      "dialogue": [
+        { "speaker": "Maya", "text": "What's the date today?" },
+        { "speaker": "Eko", "text": null },
+        { "speaker": "Maya", "text": "Really? So my birthday is tomorrow, the eleventh!" }
+      ],
+      "options": ["It's the tenth of October.", "It's ten o'clock.", "It's on Monday.", "It's in October ten."],
+      "answer": 0,
+      "explanation": "What's the date? menanyakan tanggal. Besok tanggal sebelas, jadi hari ini the tenth of October."
+    },
+    {
+      "id": "a1-u03-t-q8", "type": "translation", "category": "vocabulary", "topic": "telling the time",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Sekarang pukul setengah sembilan.",
+      "direction": "id-en",
+      "answers": ["It's half past eight.", "It is half past eight.", "It's eight thirty.", "It is eight thirty.", "It's half past eight now.", "It's eight thirty now.", "It is half past eight now.", "It is eight thirty now."],
+      "explanation": "Setengah sembilan = 8:30 = half past eight (bukan half past nine)."
+    },
+    {
+      "id": "a1-u03-t-q9", "type": "short_answer", "category": "vocabulary", "topic": "days and months",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "What is the twelfth month of the year?",
+      "answers": ["December", "It's December", "It is December"],
+      "explanation": "The twelfth month = bulan kedua belas = December."
+    }
+  ]
+}

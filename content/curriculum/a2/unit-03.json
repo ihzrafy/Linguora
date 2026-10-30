@@ -1,0 +1,529 @@
+{
+  "slug": "a2-u03-stories",
+  "number": 3,
+  "title": "Telling Stories",
+  "description": "Membuat kalimat negatif dan pertanyaan past simple dengan did/didn't, mengurutkan cerita dengan first, then, after that, finally, serta menggabungkan kalimat dengan and, but, so, because.",
+  "objectives": [
+    "Membuat kalimat negatif past simple dengan didn't + kata kerja dasar",
+    "Bertanya tentang masa lalu dengan Did...? dan pertanyaan wh-",
+    "Mengurutkan peristiwa dengan sequencers",
+    "Menceritakan kisah sederhana dengan and, but, so, dan because"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u03-l1-past-negative",
+      "title": "Past Simple Negative: didn't",
+      "summary": "Membuat kalimat negatif past simple dengan didn't + kata kerja bentuk dasar.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk kalimat negatif dengan didn't + base verb",
+        "Membedakan didn't (kata kerja biasa) dan wasn't/weren't (to be)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pola kalimat negatif\nUntuk membuat kalimat negatif past simple dengan kata kerja biasa, gunakan **didn't (did not) + kata kerja bentuk dasar** (*base form*).\n\n| Positif | Negatif |\n| --- | --- |\n| I **watched** TV. | I **didn't watch** TV. |\n| She **went** to school. | She **didn't go** to school. |\n| They **bought** a car. | They **didn't buy** a car. |\n\n### Aturan emas: hanya satu tanda lampau\n*Did* sudah menunjukkan masa lalu. Karena itu, kata kerja setelah *didn't* **kembali ke bentuk dasar**.\n- ✓ *She didn't **go***\n- ✗ *She didn't **went***\n- ✗ *She didn't **goes***\n\nIni adalah kesalahan paling umum di level A2. Ingat: **didn't + base form**, selalu.\n\n### Sama untuk semua subjek\nSeperti bentuk positif, *didn't* dipakai untuk **semua** subjek: *I didn't, you didn't, he didn't, we didn't, they didn't.*\n\n### didn't atau wasn't/weren't?\n| Jenis kalimat | Negatif | Contoh |\n| --- | --- | --- |\n| Kata kerja biasa (go, eat, see...) | **didn't** + base | *I didn't sleep well.* |\n| To be (was/were) + adjective/tempat | **wasn't / weren't** | *I wasn't tired.* |\n\nJangan gabungkan keduanya: ✗ *I didn't was tired.*\n\n### Bentuk penuh dan singkat\n*Did not* lebih formal (sering dipakai dalam tulisan resmi). Dalam percakapan sehari-hari, orang hampir selalu berkata **didn't** /ˈdɪdnt/.\n\n### Tips untuk penutur bahasa Indonesia\nDalam bahasa Indonesia kita cukup menambahkan *tidak*: *Saya tidak pergi.* Dalam bahasa Inggris, kita butuh kata bantu **didn't**, dan kata kerjanya kembali ke bentuk dasar: *I didn't go.*",
+        "examples": [
+          { "en": "I didn't sleep well last night.", "id": "Saya tidak tidur nyenyak tadi malam.", "note": "didn't + sleep (bukan slept)" },
+          { "en": "My brother didn't pass his driving test.", "id": "Kakakku tidak lulus ujian mengemudinya.", "note": "didn't + pass" },
+          { "en": "We didn't see any monkeys at the park.", "id": "Kami tidak melihat monyet sama sekali di taman.", "note": "didn't + see; any untuk negatif" },
+          { "en": "The hotel wasn't expensive, but we didn't like the food.", "id": "Hotelnya tidak mahal, tetapi kami tidak suka makanannya.", "note": "wasn't (to be) vs didn't like (kata kerja biasa)" }
+        ],
+        "vocabulary": [
+          { "word": "forget", "pos": "verb", "ipa": "/fəˈɡet/", "meaning": "lupa (past: forgot)", "example": "I forgot my umbrella yesterday." },
+          { "word": "pass", "pos": "verb", "ipa": "/pɑːs/", "meaning": "lulus (ujian)", "example": "She didn't pass the exam the first time." },
+          { "word": "miss", "pos": "verb", "ipa": "/mɪs/", "meaning": "ketinggalan (bus/kereta); rindu", "example": "We missed the last train." },
+          { "word": "answer", "pos": "verb", "ipa": "/ˈɑːnsə/", "meaning": "menjawab, mengangkat (telepon)", "example": "He didn't answer my call." },
+          { "word": "sign", "pos": "noun", "ipa": "/saɪn/", "meaning": "tanda, papan petunjuk", "example": "They didn't see the sign." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + didn't + base verb + ...", "example": "She didn't call me yesterday.", "note": "Kata kerja kembali ke bentuk dasar." },
+          { "pattern": "Subject + wasn't / weren't + adjective/place", "example": "The shops weren't open.", "note": "Untuk to be, jangan pakai didn't." }
+        ],
+        "mistakes": [
+          { "wrong": "She didn't went to work yesterday.", "right": "She didn't go to work yesterday.", "why": "Setelah didn't, kata kerja memakai bentuk dasar (go)." },
+          { "wrong": "I didn't was hungry.", "right": "I wasn't hungry.", "why": "Untuk to be, negatifnya wasn't/weren't, tanpa did." },
+          { "wrong": "He not bought anything.", "right": "He didn't buy anything.", "why": "Kalimat negatif past simple butuh didn't + base form." }
+        ],
+        "summary": "Negatif past simple: **didn't + base verb** untuk semua subjek (*I didn't go, she didn't eat*). Jangan pakai bentuk lampau setelah didn't. Untuk was/were, negatifnya **wasn't / weren't**, tanpa did.",
+        "reviewCards": [
+          { "front": "She went. (negatif)", "back": "She didn't go." },
+          { "front": "I was tired. (negatif)", "back": "I wasn't tired." },
+          { "front": "didn't + ___ form", "back": "base form (bentuk dasar): didn't see, didn't buy" },
+          { "front": "forget (past)", "back": "forgot" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u03-l1-q1", "type": "single_choice", "category": "grammar", "topic": "past simple negative", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option: We ___ the museum on Monday. It was closed.",
+          "options": ["didn't visit", "didn't visited", "not visited", "wasn't visit"], "answer": 0,
+          "explanation": "Negatif past simple: didn't + bentuk dasar (visit).",
+          "misconception": "Memakai bentuk lampau setelah didn't."
+        },
+        {
+          "id": "a2-u03-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "past simple negative", "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence in the negative form.",
+          "sentence": "Arif took the early train.",
+          "cue": "Make it negative.",
+          "answers": ["Arif didn't take the early train.", "Arif did not take the early train."],
+          "explanation": "Took → didn't take. Setelah didn't, kata kerja kembali ke bentuk dasar."
+        },
+        {
+          "id": "a2-u03-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "past simple negative", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the negative past form of the words in brackets.",
+          "text": "I ___ (not / have) breakfast this morning, and my sister ___ (not / be) at home.",
+          "answers": [["didn't have", "did not have"], ["wasn't", "was not"]],
+          "explanation": "Have adalah kata kerja biasa → didn't have. Be → wasn't (tanpa did)."
+        },
+        {
+          "id": "a2-u03-l1-q4", "type": "error_identification", "category": "grammar", "topic": "past simple negative", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["She", "didn't", "went", "to work", "yesterday."],
+          "errorIndex": 2, "correction": "go",
+          "explanation": "Setelah didn't, kata kerja memakai bentuk dasar: didn't go."
+        },
+        {
+          "id": "a2-u03-l1-q5", "type": "multiple_select", "category": "grammar", "topic": "past simple negative", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["They didn't see the sign.", "He didn't was hungry.", "I didn't bought anything.", "We didn't stay long.", "My phone wasn't on the table."],
+          "answers": [0, 3, 4],
+          "explanation": "He didn't was → He wasn't. I didn't bought → I didn't buy. Kalimat 1, 4, dan 5 sudah benar."
+        },
+        {
+          "id": "a2-u03-l1-q6", "type": "translation", "category": "grammar", "topic": "past simple negative", "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English. (Dia = a man)",
+          "source": "Dia tidak datang ke pesta tadi malam.", "direction": "id-en",
+          "answers": [
+            "He didn't come to the party last night.",
+            "He did not come to the party last night.",
+            "Last night he didn't come to the party.",
+            "Last night he did not come to the party."
+          ],
+          "explanation": "Tidak datang (lampau) → didn't come. Tadi malam = last night."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u03-l2-did-questions",
+      "title": "Did You...? Yes/No Questions",
+      "summary": "Bertanya dan menjawab pertanyaan yes/no dalam past simple.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat pertanyaan Did + subject + base verb",
+        "Menjawab dengan short answer: Yes, I did / No, I didn't"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pola pertanyaan yes/no\nUntuk bertanya tentang masa lalu dengan kata kerja biasa, letakkan **Did** di awal kalimat:\n\n**Did + subject + base verb + ...?**\n\n| Kalimat positif | Pertanyaan |\n| --- | --- |\n| You **enjoyed** the film. | **Did** you **enjoy** the film? |\n| She **went** to Bali. | **Did** she **go** to Bali? |\n| They **met** the manager. | **Did** they **meet** the manager? |\n\nSama seperti kalimat negatif, kata kerja setelah *did* **kembali ke bentuk dasar**: *Did she go?* (bukan ~~Did she went?~~)\n\n### Jawaban singkat (short answers)\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Did you...? | Yes, I **did**. | No, I **didn't**. |\n| Did he/she...? | Yes, he/she **did**. | No, he/she **didn't**. |\n| Did they...? | Yes, they **did**. | No, they **didn't**. |\n\nJawaban singkat **tidak mengulang** kata kerja utama: ✗ *Yes, I enjoyed.* ✓ *Yes, I did.*\n\n### Did atau Was/Were?\nIngat pelajaran Unit 1. Gunakan **Was/Were** untuk *to be*, dan **Did** untuk kata kerja lain:\n- *Were you tired?* — *Yes, I was.*\n- *Did you sleep well?* — *Yes, I did.*\n\n✗ *Did you tired?* — kalimat ini tidak punya kata kerja.\n\n### Intonasi\nPertanyaan yes/no biasanya diucapkan dengan nada **naik** di akhir: *Did you enjoy it? ↗*\n\n### Tips percakapan\nSetelah jawaban singkat, tambahkan informasi agar percakapan berlanjut:\n- *Did you go out last night?* — *Yes, I did. I went to a concert with my sister.*\n- *Did you finish the report?* — *No, I didn't. I was too busy.*",
+        "examples": [
+          { "en": "Did you have a good time at the wedding? — Yes, I did.", "id": "Apakah kamu senang di pernikahan itu? — Ya.", "note": "Did + you + have" },
+          { "en": "Did Ayu call you yesterday? — No, she didn't.", "id": "Apakah Ayu meneleponmu kemarin? — Tidak.", "note": "short answer dengan she" },
+          { "en": "Did they find the hotel easily?", "id": "Apakah mereka menemukan hotelnya dengan mudah?", "note": "find (bukan found) setelah did" },
+          { "en": "Were you at home? — Yes. Did you hear the news? — No!", "id": "Kamu di rumah? — Ya. Kamu dengar beritanya? — Belum!", "note": "Were untuk to be, Did untuk kata kerja lain" }
+        ],
+        "vocabulary": [
+          { "word": "finish", "pos": "verb", "ipa": "/ˈfɪnɪʃ/", "meaning": "menyelesaikan", "example": "Did you finish your homework?" },
+          { "word": "hear", "pos": "verb", "ipa": "/hɪə/", "meaning": "mendengar (past: heard)", "example": "Did you hear that noise?" },
+          { "word": "news", "pos": "noun", "ipa": "/njuːz/", "meaning": "berita, kabar", "example": "Did you hear the good news?" },
+          { "word": "driving test", "pos": "noun", "ipa": "/ˈdraɪvɪŋ test/", "meaning": "ujian mengemudi (SIM)", "example": "Did he pass his driving test?" },
+          { "word": "project", "pos": "noun", "ipa": "/ˈprɒdʒekt/", "meaning": "proyek, tugas", "example": "We finished the project on time." }
+        ],
+        "grammar": [
+          { "pattern": "Did + subject + base verb + ...?", "example": "Did you see the match?", "note": "Base form setelah did." },
+          { "pattern": "Yes, subject + did. / No, subject + didn't.", "example": "Yes, we did. / No, she didn't.", "note": "Jangan ulangi kata kerja utama." }
+        ],
+        "mistakes": [
+          { "wrong": "Did you went to the bank?", "right": "Did you go to the bank?", "why": "Setelah did, kata kerja kembali ke bentuk dasar." },
+          { "wrong": "Did you tired after the trip?", "right": "Were you tired after the trip?", "why": "Tired adalah adjective, jadi pertanyaannya memakai were." },
+          { "wrong": "Did she like it? — Yes, she liked.", "right": "Did she like it? — Yes, she did.", "why": "Short answer memakai did, bukan kata kerja utama." }
+        ],
+        "summary": "Pertanyaan yes/no past simple: **Did + subject + base verb?** Jawaban singkat: **Yes, I did / No, I didn't**. Untuk adjective atau tempat, pakai **Was/Were**. Tambahkan informasi setelah jawaban singkat agar percakapan berlanjut.",
+        "reviewCards": [
+          { "front": "Pertanyaan: She went to Bali.", "back": "Did she go to Bali?" },
+          { "front": "Did you like it? (ya)", "back": "Yes, I did." },
+          { "front": "Apakah kamu lelah? (lampau)", "back": "Were you tired? (bukan Did you tired?)" },
+          { "front": "hear (past)", "back": "heard" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u03-l2-q1", "type": "dropdown", "category": "grammar", "topic": "past simple questions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct words.",
+          "text": "A: ___ you enjoy the film last night? B: Yes, I ___. It was really funny.",
+          "choices": [["Did", "Were", "Was"], ["did", "was", "enjoyed"]],
+          "answers": [0, 0],
+          "explanation": "Enjoy adalah kata kerja biasa, jadi pertanyaannya Did you enjoy...? Jawaban singkatnya Yes, I did.",
+          "misconception": "Menjawab dengan kata kerja utama: Yes, I enjoyed."
+        },
+        {
+          "id": "a2-u03-l2-q2", "type": "word_order", "category": "grammar", "topic": "past simple questions", "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Did", "your", "brother", "pass", "his", "driving", "test?"],
+          "explanation": "Did + subjek (your brother) + kata kerja dasar (pass) + objek (his driving test)."
+        },
+        {
+          "id": "a2-u03-l2-q3", "type": "short_answer", "category": "grammar", "topic": "past simple short answers", "difficulty": 2, "stage": "independent",
+          "prompt": "Write a negative short answer: Did Lisa call you yesterday?",
+          "answers": ["No, she didn't.", "No, she did not."],
+          "explanation": "Lisa = she. Jawaban singkat negatif: No, she didn't."
+        },
+        {
+          "id": "a2-u03-l2-q4", "type": "single_choice", "category": "grammar", "topic": "past simple questions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct question.",
+          "options": ["Did you went to the bank?", "Did you go to the bank?", "Do you went to the bank?", "Went you to the bank?"], "answer": 1,
+          "explanation": "Pola yang benar: Did + subject + base verb. Did you go...?"
+        },
+        {
+          "id": "a2-u03-l2-q5", "type": "dialogue_completion", "category": "conversation", "topic": "past simple short answers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Mr. Hadi", "text": "Did you and Sari finish the project?" },
+            { "speaker": "Tari", "text": null },
+            { "speaker": "Mr. Hadi", "text": "Great work! Thank you." }
+          ],
+          "options": ["Yes, we did. We finished it at midnight.", "No, we didn't.", "Yes, we were.", "Yes, we do."], "answer": 0,
+          "explanation": "Mr. Hadi berkata Great work!, jadi jawabannya positif. Pertanyaan Did... dijawab Yes, we did."
+        },
+        {
+          "id": "a2-u03-l2-q6", "type": "sentence_transformation", "category": "grammar", "topic": "past simple questions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Make a yes/no question from the sentence.",
+          "sentence": "Ben bought a new laptop.",
+          "cue": "Begin with: Did ...",
+          "answers": ["Did Ben buy a new laptop?"],
+          "explanation": "Bought → Did ... buy. Kata kerja kembali ke bentuk dasar setelah did."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u03-l3-wh-questions-past",
+      "title": "Wh- Questions in the Past",
+      "summary": "Bertanya dengan where, when, what, who, why, dan how dalam past simple.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Membuat pertanyaan wh- dengan did",
+        "Membuat pertanyaan subjek tanpa did: Who called? What happened?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pola pertanyaan wh-\nUntuk mendapatkan informasi (bukan sekadar ya/tidak), letakkan kata tanya sebelum *did*:\n\n**Question word + did + subject + base verb + ...?**\n\n| Kata tanya | Contoh | Arti |\n| --- | --- | --- |\n| **Where** | Where did you go? | Ke mana kamu pergi? |\n| **When** | When did she arrive? | Kapan dia tiba? |\n| **What** | What did they eat? | Apa yang mereka makan? |\n| **Who** | Who did you meet? | Siapa yang kamu temui? |\n| **Why** | Why did he leave early? | Kenapa dia pulang lebih awal? |\n| **How** | How did you travel? | Bagaimana kamu bepergian? |\n| **What time** | What time did the film start? | Jam berapa filmnya mulai? |\n| **How long** | How long did you stay? | Berapa lama kamu tinggal? |\n\n### Pertanyaan subjek (tanpa did)\nJika kata tanya **who** atau **what** adalah **pelaku** (subjek) kegiatan, kita **tidak** memakai did, dan kata kerjanya tetap dalam bentuk lampau:\n\n| Pertanyaan objek (pakai did) | Pertanyaan subjek (tanpa did) |\n| --- | --- |\n| **Who did you call?** (Siapa yang *kamu* telepon?) | **Who called you?** (Siapa yang menelepon *kamu*?) |\n| **What did you see?** (Apa yang kamu lihat?) | **What happened?** (Apa yang terjadi?) |\n\nCara mudah mengingat: jika jawabannya adalah **pelaku** (*Rina called me*), jangan pakai did.\n\n### Pertanyaan dengan to be\nIngat, untuk *to be* gunakan was/were tanpa did: *Where **were** you? How **was** the trip?*\n\n### Kesalahan umum\nOrang Indonesia sering membuat pertanyaan dengan urutan kalimat biasa: ✗ *Where you went?* Dalam bahasa Inggris, **did** wajib ada dan kata kerjanya kembali ke bentuk dasar: ✓ *Where did you go?*\n\n### Tips\nSaat temanmu bercerita, tunjukkan minat dengan pertanyaan lanjutan: *Who did you go with? What did you do there? How was the food?*",
+        "examples": [
+          { "en": "Where did you go on holiday last year?", "id": "Ke mana kamu berlibur tahun lalu?", "note": "Where + did + you + go" },
+          { "en": "What time did the train leave?", "id": "Jam berapa keretanya berangkat?", "note": "What time + did" },
+          { "en": "Who told you the news? — Pak Darmo did.", "id": "Siapa yang memberitahumu kabar itu? — Pak Darmo.", "note": "Pertanyaan subjek: tanpa did" },
+          { "en": "What happened at the station?", "id": "Apa yang terjadi di stasiun?", "note": "What sebagai subjek, kata kerja lampau" }
+        ],
+        "vocabulary": [
+          { "word": "happen", "pos": "verb", "ipa": "/ˈhæpən/", "meaning": "terjadi", "example": "What happened yesterday?" },
+          { "word": "tell", "pos": "verb", "ipa": "/tel/", "meaning": "memberi tahu, menceritakan (past: told)", "example": "She told me a funny story." },
+          { "word": "travel", "pos": "verb", "ipa": "/ˈtrævl/", "meaning": "bepergian", "example": "How did you travel to Lombok?" },
+          { "word": "canteen", "pos": "noun", "ipa": "/kænˈtiːn/", "meaning": "kantin", "example": "I bought my lunch at the canteen." },
+          { "word": "stay", "pos": "verb", "ipa": "/steɪ/", "meaning": "tinggal sementara, menginap", "example": "How long did you stay there?" }
+        ],
+        "grammar": [
+          { "pattern": "Wh- word + did + subject + base verb?", "example": "Why did you leave early?", "note": "Pertanyaan objek / keterangan." },
+          { "pattern": "Who / What + past verb + ...? (subject question)", "example": "Who made this cake?", "note": "Tanpa did; kata kerja dalam bentuk lampau." }
+        ],
+        "mistakes": [
+          { "wrong": "Where you went last weekend?", "right": "Where did you go last weekend?", "why": "Pertanyaan wh- past simple butuh did + base verb." },
+          { "wrong": "What did happen at the party?", "right": "What happened at the party?", "why": "What adalah subjek, jadi tidak perlu did." },
+          { "wrong": "Why did she left early?", "right": "Why did she leave early?", "why": "Setelah did, kata kerja kembali ke bentuk dasar." }
+        ],
+        "summary": "Pertanyaan wh- past simple: **Wh- + did + subject + base verb?** (*Where did you go?*). Jika who/what adalah pelaku, **tanpa did**: *Who called you? What happened?* Untuk to be, pakai *Where were you? How was it?*",
+        "reviewCards": [
+          { "front": "Ke mana kamu pergi?", "back": "Where did you go?" },
+          { "front": "Apa yang terjadi?", "back": "What happened? (tanpa did)" },
+          { "front": "Siapa yang menelepon kamu?", "back": "Who called you?" },
+          { "front": "Berapa lama kamu tinggal di sana?", "back": "How long did you stay there?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u03-l3-q1", "type": "single_choice", "category": "grammar", "topic": "past wh- questions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: Where ___ you go on holiday last year?",
+          "options": ["did", "were", "was", "went"], "answer": 0,
+          "explanation": "Go adalah kata kerja biasa, jadi pertanyaannya Where did you go...?",
+          "misconception": "Memakai were karena mengingat Where were you?"
+        },
+        {
+          "id": "a2-u03-l3-q2", "type": "matching", "category": "conversation", "topic": "past wh- questions", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each question with the best answer.",
+          "pairs": [
+            { "left": "Where did you go?", "right": "To a small island near Flores." },
+            { "left": "Who did you go with?", "right": "With my two cousins." },
+            { "left": "How did you travel?", "right": "By plane and then by boat." },
+            { "left": "When did you come back?", "right": "Last Tuesday." },
+            { "left": "How long did you stay?", "right": "For five days." }
+          ],
+          "explanation": "Where → tempat, Who → orang, How → cara, When → waktu, How long → lama waktu."
+        },
+        {
+          "id": "a2-u03-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "past wh- questions", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the dialogue with one word in each gap.",
+          "text": "A: What ___ you have for lunch? B: Fried noodles. A: Where ___ you buy them? B: At the canteen. A: How ___ they? B: Delicious!",
+          "answers": [["did"], ["did"], ["were"]],
+          "explanation": "Have dan buy adalah kata kerja biasa → did. Pertanyaan tentang deskripsi noodles (jamak) memakai were: How were they?"
+        },
+        {
+          "id": "a2-u03-l3-q4", "type": "error_identification", "category": "grammar", "topic": "past wh- questions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the question.",
+          "segments": ["Where", "you went", "last", "weekend?"],
+          "errorIndex": 1, "correction": "did you go",
+          "explanation": "Pertanyaan wh- past simple: Where + did + you + go."
+        },
+        {
+          "id": "a2-u03-l3-q5", "type": "sentence_transformation", "category": "grammar", "topic": "subject questions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Ask a question about the event: Something happened at the station.",
+          "sentence": "Something happened at the station.",
+          "cue": "Begin with: What ...",
+          "answers": ["What happened at the station?"],
+          "explanation": "What adalah subjek (pelaku), jadi tidak perlu did: What happened...?"
+        },
+        {
+          "id": "a2-u03-l3-q6", "type": "single_choice", "category": "grammar", "topic": "subject questions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct question.",
+          "options": ["What happened last night?", "What did happened last night?", "What happen last night?", "What was happen last night?"], "answer": 0,
+          "explanation": "What sebagai subjek: tanpa did, dan kata kerjanya dalam bentuk lampau (happened)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u03-l4-life-events-sequencers",
+      "title": "Life Events and Sequencers",
+      "summary": "Kosakata peristiwa hidup dan kata pengurut first, then, after that, finally.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata peristiwa hidup: was born, grew up, got married, retired",
+        "Mengurutkan peristiwa dengan first, then, after that, later, finally"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Peristiwa hidup (life events)\nSaat menceritakan riwayat hidup seseorang, kita memakai past simple dengan kolokasi berikut:\n\n| Life event | Arti |\n| --- | --- |\n| **was born** (in 1985 / in Solo) | lahir |\n| **grew up** (in a village) | tumbuh besar |\n| **went to** school / university | bersekolah / kuliah |\n| **graduated** from university | lulus kuliah |\n| **got** a job | mendapat pekerjaan |\n| **moved** to a new city | pindah ke kota baru |\n| **got married** | menikah |\n| **had** children | punya anak |\n| **became** a manager | menjadi manajer |\n| **retired** | pensiun |\n\nKata kerja tidak beraturan baru: *grow → **grew***, *become → **became***, *begin → **began***.\n\n### Sequencers (kata pengurut)\nKata-kata ini membantu pendengar memahami **urutan** cerita:\n\n| Sequencer | Arti | Posisi |\n| --- | --- | --- |\n| **First,** | pertama-tama | awal cerita |\n| **Then** | lalu, kemudian | tengah |\n| **After that,** | setelah itu | tengah |\n| **Later,** | kemudian, belakangan | tengah |\n| **Finally,** | akhirnya | peristiwa terakhir |\n\n*First, we packed our bags. Then we took a taxi to the airport. After that, we checked in. Finally, we got on the plane.*\n\n### Tanda baca\nBiasanya ada **koma** setelah *First, After that, Later, Finally*. Setelah *Then* koma boleh dipakai atau tidak.\n\n### Jangan bingung: after that vs after\n*After that* berdiri sendiri di awal kalimat: *After that, we had lunch.* Kata *after* saja membutuhkan objek: *After lunch, we went home.* ✗ *After, we went home* terdengar kurang tepat di level ini — lebih aman pakai *After that*.\n\n### Finally vs at last\n*Finally* dipakai untuk peristiwa terakhir dalam daftar. Jangan memakai *finally* untuk peristiwa pertama atau di tengah cerita.",
+        "examples": [
+          { "en": "My mother was born in Solo and grew up in a small village.", "id": "Ibu saya lahir di Solo dan tumbuh besar di desa kecil.", "note": "was born, grew up" },
+          { "en": "First, he graduated from university. Then he got a job at a bank.", "id": "Pertama, dia lulus kuliah. Lalu dia mendapat pekerjaan di bank.", "note": "First, Then" },
+          { "en": "After that, they got married and moved to Balikpapan.", "id": "Setelah itu, mereka menikah dan pindah ke Balikpapan.", "note": "After that, + got married" },
+          { "en": "Finally, in 2020, my grandfather retired.", "id": "Akhirnya, pada tahun 2020, kakek saya pensiun.", "note": "Finally untuk peristiwa terakhir" }
+        ],
+        "vocabulary": [
+          { "word": "grow up", "pos": "phrasal verb", "ipa": "/ɡrəʊ ʌp/", "meaning": "tumbuh besar (past: grew up)", "example": "I grew up near the sea." },
+          { "word": "graduate", "pos": "verb", "ipa": "/ˈɡrædʒueɪt/", "meaning": "lulus (sekolah/kuliah)", "example": "She graduated from university in 2019." },
+          { "word": "get married", "pos": "phrase", "ipa": "/ɡet ˈmærid/", "meaning": "menikah (past: got married)", "example": "They got married in a garden." },
+          { "word": "retire", "pos": "verb", "ipa": "/rɪˈtaɪə/", "meaning": "pensiun", "example": "My uncle retired last year." },
+          { "word": "move", "pos": "verb", "ipa": "/muːv/", "meaning": "pindah (rumah/kota)", "example": "We moved to Bandung when I was ten." },
+          { "word": "become", "pos": "verb", "ipa": "/bɪˈkʌm/", "meaning": "menjadi (past: became)", "example": "He became a pilot in 2015." }
+        ],
+        "grammar": [
+          { "pattern": "First, ... Then ... After that, ... Finally, ...", "example": "First, I washed the rice. Then I cooked it.", "note": "Koma setelah First, After that, Finally." },
+          { "pattern": "was born + in + year/place", "example": "I was born in 2005 in Kediri.", "note": "Selalu memakai was/were born." }
+        ],
+        "mistakes": [
+          { "wrong": "I born in 2001.", "right": "I was born in 2001.", "why": "Lahir dalam bahasa Inggris selalu memakai was/were born." },
+          { "wrong": "They got marry last year.", "right": "They got married last year.", "why": "Setelah get, pakai married (bentuk -ed): got married." },
+          { "wrong": "Finally, I woke up. Then I had breakfast.", "right": "First, I woke up. Then I had breakfast.", "why": "Finally hanya untuk peristiwa terakhir, bukan pertama." }
+        ],
+        "summary": "Ceritakan riwayat hidup dengan **was born, grew up, graduated, got a job, moved, got married, retired**. Urutkan peristiwa dengan **First → Then → After that → Later → Finally**, dan beri koma setelah sequencer di awal kalimat.",
+        "reviewCards": [
+          { "front": "lahir", "back": "was born (I was born in ...)" },
+          { "front": "tumbuh besar (past)", "back": "grew up" },
+          { "front": "menikah (past)", "back": "got married" },
+          { "front": "Sequencer untuk peristiwa terakhir", "back": "Finally," }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u03-l4-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "life events", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word: My grandfather ___ in 2015. Now he doesn't work, and he spends his time in his garden.",
+          "options": ["retired", "graduated", "grew up", "got married"], "answer": 0,
+          "explanation": "Sudah tidak bekerja lagi karena usia → retired (pensiun).",
+          "misconception": "Memilih graduated karena mengira berarti selesai bekerja."
+        },
+        {
+          "id": "a2-u03-l4-q2", "type": "drag_drop", "category": "writing", "topic": "sequencers", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "___, we bought the tickets online. ___ we took a bus to the airport. ___, after a long wait, we got on the plane.",
+          "bank": ["First", "Then", "Finally", "Ago", "Yesterday"],
+          "answers": ["First", "Then", "Finally"],
+          "explanation": "First untuk peristiwa pertama, Then untuk peristiwa berikutnya, Finally untuk peristiwa terakhir."
+        },
+        {
+          "id": "a2-u03-l4-q3", "type": "matching", "category": "vocabulary", "topic": "life events", "difficulty": 1, "stage": "independent",
+          "prompt": "Match the verbs with the words that complete the life events.",
+          "pairs": [
+            { "left": "get", "right": "married" },
+            { "left": "grow", "right": "up in a village" },
+            { "left": "move", "right": "to a new city" },
+            { "left": "graduate", "right": "from university" },
+            { "left": "be", "right": "born in 1998" }
+          ],
+          "explanation": "Kolokasi peristiwa hidup: get married, grow up, move to, graduate from, be born."
+        },
+        {
+          "id": "a2-u03-l4-q4", "type": "sentence_reconstruction", "category": "writing", "topic": "sequencers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": ["First, she finished", "school, and after that", "she got a job", "at a bank in Medan."],
+          "explanation": "First + peristiwa pertama, lalu and after that + peristiwa berikutnya."
+        },
+        {
+          "id": "a2-u03-l4-q5", "type": "single_choice", "category": "writing", "topic": "sequencers", "difficulty": 1, "stage": "quiz",
+          "prompt": "Which word introduces the LAST event in a story?",
+          "options": ["First", "Then", "After that", "Finally"], "answer": 3,
+          "explanation": "Finally (akhirnya) dipakai untuk peristiwa terakhir dalam urutan cerita."
+        },
+        {
+          "id": "a2-u03-l4-q6", "type": "fill_blank", "category": "grammar", "topic": "life events", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with the past simple of the verbs in brackets.",
+          "text": "Rudi was born in 1990 and ___ (grow) up in a small town. He ___ (become) a doctor in 2016.",
+          "answers": [["grew"], ["became"]],
+          "explanation": "Grow → grew dan become → became adalah kata kerja tidak beraturan."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u03-l5-conjunctions-stories",
+      "title": "And, But, So, Because: Telling a Story",
+      "summary": "Menggabungkan kalimat dengan and, but, so, because untuk menceritakan kisah yang runtut.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Membedakan fungsi and, but, so, dan because",
+        "Menceritakan kisah sederhana dengan urutan yang jelas"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis cerita pendek, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Empat kata penghubung penting\nKata penghubung (*conjunctions*) membuat cerita lebih lancar dan tidak terdengar seperti daftar kalimat pendek.\n\n| Conjunction | Fungsi | Contoh |\n| --- | --- | --- |\n| **and** | menambah informasi | *I went to the market **and** bought some fish.* |\n| **but** | menunjukkan kontras/perbedaan | *The hotel was small, **but** it was clean.* |\n| **so** | menunjukkan **akibat/hasil** | *It was late, **so** we took a taxi.* |\n| **because** | menunjukkan **alasan/sebab** | *We took a taxi **because** it was late.* |\n\n### So vs because\nIni yang paling sering tertukar. Lihat arah hubungan sebab–akibat:\n- **Sebab → so → akibat**: *I was hungry, **so** I made a sandwich.* (Saya lapar, jadi saya membuat roti lapis.)\n- **Akibat → because → sebab**: *I made a sandwich **because** I was hungry.* (Saya membuat roti lapis karena saya lapar.)\n\nKedua kalimat punya arti yang sama, tetapi urutannya terbalik.\n\n### Tanda baca\n- Biasanya ada **koma** sebelum *so* dan *but*: *It rained, so we stayed inside.*\n- Biasanya **tidak ada koma** sebelum *because*: *We stayed inside because it rained.*\n\n### Pertanyaan Why? dijawab dengan Because\n*Why were you late? — **Because** I missed the bus.* Dalam percakapan, jawaban singkat dengan *because* sudah cukup.\n\n### Menyusun cerita\nGabungkan semua yang sudah kamu pelajari di unit ini:\n1. **Pembukaan**: kapan dan di mana — *Last year I went to Malang with my friends.*\n2. **Urutan peristiwa**: *First... Then... After that...*\n3. **Masalah atau kejutan**: *...but our car broke down.*\n4. **Akhir**: *Finally, we arrived at night. We were tired, but happy.*\n\nVariasikan kalimatmu dengan *and, but, so, because* — jangan semuanya memakai *and*.",
+        "examples": [
+          { "en": "The museum was closed, so we went to the park.", "id": "Museumnya tutup, jadi kami pergi ke taman.", "note": "so = akibat" },
+          { "en": "I didn't go to school because I had a fever.", "id": "Saya tidak sekolah karena saya demam.", "note": "because = alasan" },
+          { "en": "The food was cheap, but it was really delicious.", "id": "Makanannya murah, tetapi benar-benar lezat.", "note": "but = kontras" },
+          { "en": "We ordered noodles and drank iced tea.", "id": "Kami memesan mi dan minum es teh.", "note": "and = tambahan" }
+        ],
+        "vocabulary": [
+          { "word": "because", "pos": "conjunction", "ipa": "/bɪˈkɒz/", "meaning": "karena", "example": "I stayed home because it was raining hard." },
+          { "word": "so", "pos": "conjunction", "ipa": "/səʊ/", "meaning": "jadi, sehingga", "example": "I was tired, so I went to bed early." },
+          { "word": "break down", "pos": "phrasal verb", "ipa": "/breɪk daʊn/", "meaning": "mogok, rusak (past: broke down)", "example": "Our car broke down on the way home." },
+          { "word": "suddenly", "pos": "adverb", "ipa": "/ˈsʌdənli/", "meaning": "tiba-tiba", "example": "Suddenly, the lights went out." },
+          { "word": "lucky", "pos": "adjective", "ipa": "/ˈlʌki/", "meaning": "beruntung", "example": "We were lucky. There was one room left." }
+        ],
+        "grammar": [
+          { "pattern": "cause, + so + result", "example": "It was cold, so I wore a jacket.", "note": "Koma sebelum so." },
+          { "pattern": "result + because + cause", "example": "I wore a jacket because it was cold.", "note": "Biasanya tanpa koma." },
+          { "pattern": "clause, + but + contrasting clause", "example": "It was expensive, but we bought it.", "note": "Kontras." }
+        ],
+        "mistakes": [
+          { "wrong": "We stayed at home so the weather was terrible.", "right": "We stayed at home because the weather was terrible.", "why": "Cuaca buruk adalah alasan (sebab), jadi pakai because." },
+          { "wrong": "Because I was tired. I went to bed.", "right": "I went to bed because I was tired.", "why": "Dalam tulisan, klausa because tidak boleh berdiri sendiri sebagai kalimat; gabungkan dengan klausa utama." },
+          { "wrong": "The room was small, and it was very comfortable.", "right": "The room was small, but it was very comfortable.", "why": "Ada kontras (small vs comfortable), jadi pakai but." }
+        ],
+        "summary": "**and** = menambah, **but** = kontras, **so** = akibat, **because** = alasan. Ingat urutan: *sebab, so akibat* dan *akibat because sebab*. Gabungkan dengan sequencers untuk cerita yang runtut dan menarik.",
+        "reviewCards": [
+          { "front": "Kata penghubung untuk alasan", "back": "because" },
+          { "front": "Kata penghubung untuk akibat", "back": "so" },
+          { "front": "I was hungry, ___ I made a sandwich.", "back": "so" },
+          { "front": "break down (past)", "back": "broke down (mogok)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u03-l5-q1", "type": "dropdown", "category": "grammar", "topic": "conjunctions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word.",
+          "text": "I was really hungry, ___ I made a big sandwich.",
+          "choices": [["so", "because", "but"]],
+          "answers": [0],
+          "explanation": "Lapar (sebab) → membuat roti lapis (akibat). Sebab, so akibat.",
+          "misconception": "Memakai because untuk akibat."
+        },
+        {
+          "id": "a2-u03-l5-q2", "type": "fill_blank", "category": "grammar", "topic": "conjunctions", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with one conjunction.",
+          "text": "We didn't go to the beach ___ it rained all day.",
+          "answers": [["because"]],
+          "explanation": "Hujan seharian adalah alasan tidak ke pantai, jadi pakai because."
+        },
+        {
+          "id": "a2-u03-l5-q3", "type": "essay", "category": "writing", "topic": "telling stories", "difficulty": 3, "stage": "independent",
+          "prompt": "Write a short story about a day you remember (a trip, a party, or a bad day). Use First, Then, After that, Finally and at least two of: and, but, so, because.",
+          "minWords": 60, "maxWords": 120, "rubric": "general-writing",
+          "explanation": "Mulai dengan kapan dan di mana, urutkan peristiwa dengan sequencers, gunakan past simple dan was/were, lalu akhiri dengan perasaanmu."
+        },
+        {
+          "id": "a2-u03-l5-q4", "type": "matching", "category": "grammar", "topic": "conjunctions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Match the beginnings and endings of the sentences.",
+          "pairs": [
+            { "left": "I called a taxi", "right": "because it was very late." },
+            { "left": "The film was long,", "right": "but it was very good." },
+            { "left": "It started to rain,", "right": "so we went inside." },
+            { "left": "We went to the market", "right": "and bought some vegetables." }
+          ],
+          "explanation": "because = alasan, but = kontras, so = akibat, and = tambahan kegiatan."
+        },
+        {
+          "id": "a2-u03-l5-q5", "type": "error_identification", "category": "grammar", "topic": "conjunctions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["We stayed", "at home", "so", "the weather was terrible."],
+          "errorIndex": 2, "correction": "because",
+          "explanation": "Cuaca buruk adalah alasan tinggal di rumah. Untuk alasan pakai because."
+        },
+        {
+          "id": "a2-u03-l5-q6", "type": "dialogue_completion", "category": "conversation", "topic": "conjunctions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Teacher", "text": "Why were you late this morning?" },
+            { "speaker": "Andre", "text": null }
+          ],
+          "options": ["Because I missed the bus.", "So I missed the bus.", "But I missed the bus.", "Because I miss the bus."], "answer": 0,
+          "explanation": "Pertanyaan Why? dijawab dengan Because + alasan dalam past simple (missed)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u03-t-q1", "type": "single_choice", "category": "grammar", "topic": "past simple negative", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct option: I'm sorry, I ___ my homework last night. I forgot!",
+      "options": ["didn't do", "didn't did", "don't did", "wasn't do"], "answer": 0,
+      "explanation": "Negatif past simple: didn't + base form (do)."
+    },
+    {
+      "id": "a2-u03-t-q2", "type": "fill_blank", "category": "grammar", "topic": "past simple questions", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the dialogue with one word in each gap.",
+      "text": "A: ___ you see Maria at the party? B: No, I ___. She wasn't there.",
+      "answers": [["Did"], ["didn't"]],
+      "explanation": "Pertanyaan dengan kata kerja see → Did you see...? Jawaban singkat negatif: No, I didn't."
+    },
+    {
+      "id": "a2-u03-t-q3", "type": "sentence_transformation", "category": "grammar", "topic": "past wh- questions", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Ask a question about the time.",
+      "sentence": "They moved to Semarang in 2018.",
+      "cue": "Begin with: When ...",
+      "answers": ["When did they move to Semarang?"],
+      "explanation": "When + did + they + move (bentuk dasar) + ...?"
+    },
+    {
+      "id": "a2-u03-t-q4", "type": "drag_drop", "category": "writing", "topic": "sequencers", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Drag the correct words into the gaps.",
+      "text": "___, I washed the vegetables. ___ that, I cooked the soup. ___, we ate together.",
+      "bank": ["First", "After", "Finally", "Because", "So"],
+      "answers": ["First", "After", "Finally"],
+      "explanation": "First (pertama), After that (setelah itu), Finally (akhirnya)."
+    },
+    {
+      "id": "a2-u03-t-q5", "type": "sentence_correction", "category": "grammar", "topic": "past simple questions", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the question.",
+      "sentence": "Did she enjoyed the trip?",
+      "answers": ["Did she enjoy the trip?"],
+      "explanation": "Setelah did, kata kerja kembali ke bentuk dasar: enjoy."
+    },
+    {
+      "id": "a2-u03-t-q6", "type": "single_choice", "category": "grammar", "topic": "conjunctions", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best word: The tickets were expensive, ___ we bought them. We really wanted to see the show.",
+      "options": ["but", "because", "so"], "answer": 0,
+      "explanation": "Ada kontras: mahal, tetapi tetap dibeli. Kontras → but."
+    },
+    {
+      "id": "a2-u03-t-q7", "type": "translation", "category": "grammar", "topic": "past wh- questions", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kenapa kamu tidak datang kemarin?", "direction": "id-en",
+      "answers": ["Why didn't you come yesterday?", "Why did you not come yesterday?"],
+      "explanation": "Why + didn't + you + come (bentuk dasar) + yesterday?"
+    }
+  ]
+}

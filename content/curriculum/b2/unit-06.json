@@ -1,0 +1,643 @@
+{
+  "slug": "b2-u06-relative-advanced",
+  "number": 6,
+  "title": "Adding Information",
+  "description": "Write richer descriptions using non-defining relative clauses, relative clauses with prepositions, reduced relative clauses, and comment clauses with which. Vocabulary: culture, heritage and famous people.",
+  "objectives": [
+    "Use non-defining relative clauses with correct punctuation",
+    "Use prepositions in formal and informal relative clauses",
+    "Reduce relative clauses with -ing, -ed and to-infinitive forms",
+    "Describe people, places and traditions in rich detail"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u06-l1-non-defining-relative-clauses",
+      "title": "Non-Defining Relative Clauses",
+      "summary": "Menambahkan informasi tambahan dengan non-defining relative clause dan tanda koma.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Distinguish defining and non-defining relative clauses",
+        "Use who, which, whose, where and when with commas",
+        "Avoid that and omitted pronouns in non-defining clauses"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Two kinds of relative clause\n| Defining | Non-defining |\n| --- | --- |\n| tells us **which one** we mean | adds **extra** information |\n| no commas | **commas** (or brackets/dashes) |\n| *The woman **who runs the café** is my aunt.* | *My aunt, **who runs a café**, is 60.* |\n| removing it changes the meaning | removing it leaves a complete, clear sentence |\n\n### Pronouns in non-defining clauses\n| Pronoun | Used for | Example |\n| --- | --- | --- |\n| who | people | *Mr. Tan, **who** taught me art, is retiring.* |\n| which | things, animals | *The palace, **which** was built in 1820, is open daily.* |\n| whose | possession | *Ana, **whose** father is a potter, sells ceramics.* |\n| where | places | *Sukamaju, **where** I grew up, is famous for weaving.* |\n| when | times | *In 1998, **when** the museum opened, entry was free.* |\n| whom | people (object, formal) | *Dr. Lee, **whom** I met in Paris, is a historian.* |\n\n### Three strict rules\n1. **No *that***: ✗ *The festival, that takes place in August, ...* → ✓ *which*\n2. **Never omit the pronoun**: ✗ *My brother, I live with, ...* → ✓ *My brother, who I live with, ...*\n3. **Use commas on both sides** if the clause is in the middle of the sentence.\n\n### Meaning changes with commas\n- *My sister **who lives in Bali** is an architect.* → I have more than one sister; I mean the one in Bali.\n- *My sister, **who lives in Bali**, is an architect.* → I have one sister; she happens to live in Bali.\n\n### When do we use them?\nNon-defining clauses are more common in **writing** than in speech. In conversation, people often use two short sentences or *and*: *My aunt runs a café. She's 60.*\n\n> **Catatan:** Dalam bahasa Indonesia kata *yang* dipakai untuk keduanya, dan tanda koma tidak terlalu mengubah makna. Dalam bahasa Inggris, **koma itu penting**: koma = informasi tambahan, dan setelah koma **tidak boleh** memakai *that*. Nama orang atau tempat yang unik (Mr. Tan, Sukamaju) hampir selalu memakai non-defining clause.",
+        "examples": [
+          { "en": "My grandmother, who was born in Solo, still makes batik by hand.", "id": "Nenek saya, yang lahir di Solo, masih membuat batik dengan tangan.", "note": "who + extra information" },
+          { "en": "The Kenari Palace, which was built in 1820, is now a museum.", "id": "Istana Kenari, yang dibangun pada tahun 1820, sekarang menjadi museum.", "note": "which for things" },
+          { "en": "Ana, whose father is a potter, has opened a ceramics shop.", "id": "Ana, yang ayahnya seorang perajin tembikar, telah membuka toko keramik.", "note": "whose = possession" },
+          { "en": "Sukamaju, where I grew up, is famous for its handwoven cloth.", "id": "Sukamaju, tempat saya dibesarkan, terkenal dengan kain tenunnya.", "note": "where for places" }
+        ],
+        "vocabulary": [
+          { "word": "potter", "pos": "noun", "ipa": "/ˈpɒtə/", "meaning": "perajin tembikar", "example": "The potter, who is 80, still works every day." },
+          { "word": "handwoven", "pos": "adjective", "ipa": "/ˌhændˈwəʊvn/", "meaning": "ditenun dengan tangan", "example": "They sell handwoven scarves." },
+          { "word": "retire", "pos": "verb", "ipa": "/rɪˈtaɪə/", "meaning": "pensiun", "example": "Mr. Tan, who taught art for 40 years, is retiring." },
+          { "word": "palace", "pos": "noun", "ipa": "/ˈpæləs/", "meaning": "istana", "example": "The palace, which is open daily, attracts many tourists." },
+          { "word": "weaving", "pos": "noun", "ipa": "/ˈwiːvɪŋ/", "meaning": "menenun; tenun", "example": "The village is known for weaving." }
+        ],
+        "grammar": [
+          { "pattern": "noun, + who/which/whose/where/when + clause, + rest of sentence", "example": "Bandung, where my cousin lives, is cool at night.", "note": "Commas on both sides." },
+          { "pattern": "main clause, + which/who + clause.", "example": "We visited the museum, which was free on Sundays.", "note": "Clause at the end: one comma." },
+          { "pattern": "noun, + preposition + whom/which + clause,", "example": "Dr. Lee, with whom I studied, is a historian.", "note": "Formal style." }
+        ],
+        "mistakes": [
+          { "wrong": "The festival, that takes place every August, attracts many visitors.", "right": "The festival, which takes place every August, attracts many visitors.", "why": "That cannot be used in non-defining relative clauses." },
+          { "wrong": "My brother, I live with, is a chef.", "right": "My brother, who I live with, is a chef.", "why": "The relative pronoun cannot be omitted in a non-defining clause." },
+          { "wrong": "Jakarta which is the capital is very crowded.", "right": "Jakarta, which is the capital, is very crowded.", "why": "Extra information about a unique place needs commas." }
+        ],
+        "summary": "Non-defining relative clauses add **extra information** and need **commas**. Use *who, which, whose, where, when* (and formal *whom*), but **never *that***, and never omit the pronoun. Commas can change the meaning. *Ringkasan: koma = informasi tambahan; tanpa koma = informasi penentu.*",
+        "reviewCards": [
+          { "front": "non-defining clause", "back": "Informasi tambahan, diapit koma, tidak boleh memakai that" },
+          { "front": "My sister, who lives in Bali, ...", "back": "Saya hanya punya satu saudara perempuan." },
+          { "front": "whose", "back": "yang ... -nya (kepemilikan)" },
+          { "front": "where vs which", "back": "where = tempat (adverb); which = benda (subject/object)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u06-l1-q1", "type": "dropdown", "category": "grammar", "topic": "non-defining relative clauses",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct relative pronoun.",
+          "instructions": "Hint: a person + commas.",
+          "text": "My grandmother, ___ was born in Solo, still makes batik by hand.",
+          "choices": [["who", "which", "that"]],
+          "answers": [0],
+          "explanation": "A person in a non-defining clause → **who**. *That* is not possible after a comma, and *which* is for things."
+        },
+        {
+          "id": "b2-u06-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "non-defining relative clauses",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Combine the sentences using a non-defining relative clause.",
+          "sentence": "The Kenari Palace is in the old town. It was built in 1820.",
+          "cue": "Begin with: The Kenari Palace, ...",
+          "answers": [
+            "The Kenari Palace, which was built in 1820, is in the old town.",
+            "The Kenari Palace, which is in the old town, was built in 1820."
+          ],
+          "explanation": "Add the extra information with **, which ...,**: *The Kenari Palace, which was built in 1820, is in the old town.*"
+        },
+        {
+          "id": "b2-u06-l1-q3", "type": "multiple_select", "category": "grammar", "topic": "non-defining relative clauses",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Select ALL the correct sentences.",
+          "options": [
+            "My brother, who lives in Perth, is a nurse.",
+            "My brother, that lives in Perth, is a nurse.",
+            "The museum, which opened last year, is free on Sundays.",
+            "The museum, opened last year which, is free on Sundays.",
+            "Mr. Tan, whose paintings hang in the gallery, is ninety."
+          ],
+          "answers": [0, 2, 4],
+          "explanation": "Non-defining clauses use *who/which/whose* between commas. *That* is not allowed, and the fourth sentence has the wrong word order."
+        },
+        {
+          "id": "b2-u06-l1-q4", "type": "error_identification", "category": "grammar", "topic": "non-defining relative clauses",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The festival,", "that takes place every August,", "attracts thousands", "of visitors."],
+          "errorIndex": 1,
+          "correction": "which takes place every August,",
+          "explanation": "After a comma (non-defining clause), use **which**, not *that*."
+        },
+        {
+          "id": "b2-u06-l1-q5", "type": "fill_blank", "category": "grammar", "topic": "non-defining relative clauses",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the sentence with a relative word.",
+          "text": "Last summer I visited Sukamaju, ___ my grandfather grew up.",
+          "answers": [["where", "in which"]],
+          "explanation": "A place + a complete clause (*my grandfather grew up*) → **where** (= in which)."
+        },
+        {
+          "id": "b2-u06-l1-q6", "type": "single_choice", "category": "grammar", "topic": "defining vs non-defining",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence suggests that the speaker has only ONE sister?",
+          "options": [
+            "My sister, who lives in Bali, is an architect.",
+            "My sister who lives in Bali is an architect.",
+            "My sister that lives in Bali is an architect.",
+            "The sister of mine who lives in Bali is an architect."
+          ],
+          "answer": 0,
+          "explanation": "With commas, the clause is extra information, so it doesn't identify one sister among several: the speaker has **one** sister. Without commas, the clause identifies which sister (implying more than one)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u06-l2-relative-clauses-prepositions",
+      "title": "Relative Clauses with Prepositions",
+      "summary": "Menggunakan preposisi dalam relative clause: gaya formal (in which, to whom) dan informal (that I live in).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Place prepositions before whom/which in formal style",
+        "Put prepositions at the end of the clause in informal style",
+        "Avoid errors such as in where and to who"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Where does the preposition go?\nMany verbs and adjectives need a preposition (*talk about, live in, rely on, proud of*). In a relative clause, the preposition can go in two places.\n\n| Style | Pattern | Example |\n| --- | --- | --- |\n| Formal | preposition + **whom / which** | *The colleague **about whom** I told you is here.* |\n| Informal | **who / that / ∅** ... + preposition at the end | *The colleague **(who/that) I told you about** is here.* |\n\n### Formal: preposition + whom/which\n- After a preposition, use only **whom** (people) or **which** (things).\n- ✗ *to who*, ✗ *about that*\n- *The hotel **at which** we stayed was beautiful.*\n- *The artist **to whom** the prize was given thanked her family.*\n\n### Informal: preposition at the end\n- *The hotel **(that) we stayed at** was beautiful.*\n- *That's the museum **I was telling you about**.*\n- In defining clauses, the pronoun is often omitted.\n\n### where / when instead of preposition + which\n| With preposition | Simpler alternative |\n| --- | --- |\n| the town **in which** I grew up | the town **where** I grew up |\n| the year **in which** we met | the year **when** we met |\n\n⚠️ Don't combine them: ✗ *the town **in where** I grew up*.\n\n### Phrasal verbs\nPrepositions that belong to **phrasal verbs** usually stay with the verb, even in formal style: *the problem **which** we **came across*** (NOT *across which we came*).\n\n### Non-defining clauses with prepositions\nThe same patterns work with commas: *Dr. Lee, **with whom** I studied in Leiden, is now a professor.*\n\n> **Catatan:** Bahasa Indonesia biasanya cukup memakai *yang* atau *tempat*: *hotel tempat kami menginap*. Dalam bahasa Inggris, jangan lupa preposisinya: *the hotel we stayed **at*** atau *the hotel **at which** we stayed*. Setelah preposisi, hanya **whom** dan **which**.",
+        "examples": [
+          { "en": "The hotel at which we stayed had a view of the old harbour.", "id": "Hotel tempat kami menginap memiliki pemandangan pelabuhan tua.", "note": "Formal." },
+          { "en": "The hotel we stayed at had a view of the old harbour.", "id": "Hotel tempat kami menginap memiliki pemandangan pelabuhan tua.", "note": "Informal: preposition at the end." },
+          { "en": "The people with whom I work come from five different countries.", "id": "Orang-orang yang bekerja dengan saya berasal dari lima negara yang berbeda.", "note": "with whom" },
+          { "en": "Is this the book you were looking for?", "id": "Apakah ini buku yang kamu cari?", "note": "Pronoun omitted; preposition at the end." }
+        ],
+        "vocabulary": [
+          { "word": "rely on", "pos": "verb + preposition", "ipa": "/rɪˈlaɪ ɒn/", "meaning": "mengandalkan", "example": "She is someone on whom you can rely." },
+          { "word": "be proud of", "pos": "phrase", "ipa": "/bi ˈpraʊd əv/", "meaning": "bangga akan", "example": "It's a tradition of which we are very proud." },
+          { "word": "belong to", "pos": "verb + preposition", "ipa": "/bɪˈlɒŋ tə/", "meaning": "milik; termasuk", "example": "The family to which the house belonged moved away." },
+          { "word": "be devoted to", "pos": "phrase", "ipa": "/bi dɪˈvəʊtɪd tə/", "meaning": "berdedikasi pada", "example": "The cause to which she was devoted was education." },
+          { "word": "be addressed to", "pos": "phrase", "ipa": "/bi əˈdrest tə/", "meaning": "ditujukan kepada", "example": "The person to whom this letter is addressed has moved." }
+        ],
+        "grammar": [
+          { "pattern": "noun + preposition + whom/which + clause", "example": "The man to whom I spoke was very helpful.", "note": "Formal." },
+          { "pattern": "noun + (who/that) + clause + preposition", "example": "The man I spoke to was very helpful.", "note": "Informal." },
+          { "pattern": "noun + where/when + clause (= in which)", "example": "The day when we met was rainy.", "note": "Simpler alternative." }
+        ],
+        "mistakes": [
+          { "wrong": "This is the house in where the poet was born.", "right": "This is the house in which the poet was born.", "why": "Use in which or where, not both." },
+          { "wrong": "The person to who I spoke was rude.", "right": "The person to whom I spoke was rude.", "why": "After a preposition, use whom for people." },
+          { "wrong": "The book which I told you about it is here.", "right": "The book which I told you about is here.", "why": "The relative pronoun replaces it, so don't repeat it." }
+        ],
+        "summary": "Put the preposition **before whom/which** in formal English (*the town in which*), or **at the end** in informal English (*the town I grew up in*). Use *where/when* as simpler alternatives, never *in where*, and never *to who* or *about that*. *Ringkasan: setelah preposisi hanya whom/which.*",
+        "reviewCards": [
+          { "front": "the hotel at which we stayed / the hotel we stayed at", "back": "Formal vs informal" },
+          { "front": "preposition + who? ✗", "back": "After a preposition use whom (people) or which (things)." },
+          { "front": "in where ✗", "back": "in which ✓ or where ✓" },
+          { "front": "someone on whom you can rely", "back": "seseorang yang bisa diandalkan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u06-l2-q1", "type": "fill_blank", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete with ONE word.",
+          "instructions": "Hint: after a preposition, use whom (people) or which (things).",
+          "text": "The hotel at ___ we stayed was right next to the old harbour.",
+          "answers": [["which"]],
+          "explanation": "A thing after a preposition → **which**: *the hotel at which we stayed*."
+        },
+        {
+          "id": "b2-u06-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence in a more formal style.",
+          "sentence": "This is the colleague I told you about.",
+          "cue": "Begin with: This is the colleague about ...",
+          "answers": ["This is the colleague about whom I told you."],
+          "explanation": "Formal style: preposition + **whom** at the start of the clause: *the colleague about whom I told you*."
+        },
+        {
+          "id": "b2-u06-l2-q3", "type": "matching", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Match the beginnings and endings.",
+          "pairs": [
+            { "left": "The town in which", "right": "I grew up has changed a lot." },
+            { "left": "The person to whom", "right": "this letter is addressed has moved." },
+            { "left": "The year in which", "right": "the museum opened was 1998." },
+            { "left": "The topic about which", "right": "she spoke was cultural heritage." }
+          ],
+          "explanation": "Each preposition matches the verb in the clause: *grow up in, address to, open in (a year), speak about*."
+        },
+        {
+          "id": "b2-u06-l2-q4", "type": "dropdown", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct option.",
+          "text": "The artist, ___ the award was given, thanked her family in a moving speech.",
+          "choices": [["to whom", "to who", "whom to"]],
+          "answers": [0],
+          "explanation": "Preposition + **whom** for people: *to whom the award was given*."
+        },
+        {
+          "id": "b2-u06-l2-q5", "type": "error_identification", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["This is the house", "in where", "the famous poet", "was born."],
+          "errorIndex": 1,
+          "correction": "in which",
+          "explanation": "Use **in which** or **where**, but not *in where*."
+        },
+        {
+          "id": "b2-u06-l2-q6", "type": "word_order", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in order to make an informal sentence.",
+          "words": ["That", "is", "the", "museum", "I", "was", "telling", "you", "about"],
+          "explanation": "Informal style: the pronoun is omitted and the preposition goes at the end: *That is the museum I was telling you about.*"
+        },
+        {
+          "id": "b2-u06-l2-q7", "type": "short_answer", "category": "grammar", "topic": "relative clauses with prepositions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with ONE word: \"The people with ___ I work are very friendly.\"",
+          "answers": ["whom"],
+          "explanation": "After a preposition, use **whom** for people: *the people with whom I work*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u06-l3-reduced-relative-clauses",
+      "title": "Reduced Relative Clauses",
+      "summary": "Memendekkan relative clause dengan bentuk -ing, -ed (V3), dan to-infinitive.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Replace active relative clauses with -ing participles",
+        "Replace passive relative clauses with past participles",
+        "Use the to-infinitive after the first, the last, the only, etc."
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Why reduce?\nReduced relative clauses make writing **shorter and more fluent**. They are very common in news, academic texts and guidebooks.\n\n### 1. Active meaning → -ing participle\nRemove the pronoun and use **-ing**:\n| Full clause | Reduced |\n| --- | --- |\n| The woman **who is standing** next to the statue is our guide. | The woman **standing** next to the statue... |\n| Visitors **who want** to take photos must pay. | Visitors **wanting** to take photos... |\n| a road **that leads** to the temple | a road **leading** to the temple |\n\nThe -ing form can replace present or past, simple or continuous verbs: *people **who lived** here 100 years ago* → *people **living** here 100 years ago*.\n\n### 2. Passive meaning → past participle\nRemove the pronoun and *be*:\n| Full clause | Reduced |\n| --- | --- |\n| The paintings **which were stolen** in 1990 have been found. | The paintings **stolen** in 1990... |\n| a temple **that was built** in the 9th century | a temple **built** in the 9th century |\n| the languages **which are spoken** in the region | the languages **spoken** in the region |\n\n### 3. After the first / last / only / next / superlatives → to-infinitive\n- *She was **the first woman who climbed** the mountain.* → *She was **the first woman to climb** the mountain.*\n- *He's **the only person to have won** the prize twice.*\n\n### When you CAN'T reduce\n- When the relative pronoun is the **object**: *the book **that I bought*** (not *the book buying*). Here you can only omit the pronoun: *the book I bought*.\n- When the clause describes a **single completed action** in active voice: *The man **who called** yesterday* (not *the man calling yesterday*, which suggests a continuing action).\n\n### Non-defining reduced clauses\nThey also work with commas: *The palace, **built in 1820**, is now a museum.*\n\n> **Catatan:** Bentuk ini mirip dengan bahasa Indonesia yang menghilangkan *yang*: *orang **berdiri** di sana* (aktif → -ing) dan *lukisan **dicuri** tahun 1990* (pasif → V3). Pikirkan: apakah kata benda itu **melakukan** (-ing) atau **dikenai** (V3) tindakan?",
+        "examples": [
+          { "en": "The woman standing next to the statue is our guide.", "id": "Perempuan yang berdiri di samping patung itu adalah pemandu kami.", "note": "Active → -ing" },
+          { "en": "The paintings stolen in 1990 have finally been found.", "id": "Lukisan-lukisan yang dicuri pada tahun 1990 akhirnya ditemukan.", "note": "Passive → past participle" },
+          { "en": "She was the first woman to climb the mountain.", "id": "Dia adalah perempuan pertama yang mendaki gunung itu.", "note": "the first + to-infinitive" },
+          { "en": "Most of the languages spoken in the region have no written form.", "id": "Sebagian besar bahasa yang digunakan di wilayah itu tidak memiliki bentuk tulisan.", "note": "spoken = which are spoken" }
+        ],
+        "vocabulary": [
+          { "word": "statue", "pos": "noun", "ipa": "/ˈstætʃuː/", "meaning": "patung", "example": "The statue standing in the square is very old." },
+          { "word": "region", "pos": "noun", "ipa": "/ˈriːdʒən/", "meaning": "wilayah, daerah", "example": "Dishes cooked in this region are very spicy." },
+          { "word": "lead to", "pos": "verb + preposition", "ipa": "/ˈliːd tə/", "meaning": "menuju ke; mengarah ke", "example": "Take the path leading to the waterfall." },
+          { "word": "carve", "pos": "verb", "ipa": "/kɑːv/", "meaning": "mengukir", "example": "Masks carved from teak are sold here." },
+          { "word": "exhibit", "pos": "verb / noun", "ipa": "/ɪɡˈzɪbɪt/", "meaning": "memamerkan; barang pameran", "example": "Objects exhibited in the museum are over 500 years old." }
+        ],
+        "grammar": [
+          { "pattern": "noun + -ing + ... (= who/which + active verb)", "example": "Anyone wishing to leave early should tell the guide.", "note": "Active meaning." },
+          { "pattern": "noun + past participle + ... (= who/which + be + past participle)", "example": "The temple built in the 9th century is a World Heritage Site.", "note": "Passive meaning." },
+          { "pattern": "the first/last/only/next + noun + to-infinitive", "example": "He was the last person to leave the building.", "note": "After ordinals and only." }
+        ],
+        "mistakes": [
+          { "wrong": "Most of the people invited to the ceremony were artists lived in the area.", "right": "Most of the people invited to the ceremony were artists living in the area.", "why": "Reduced active clauses use -ing, not a past tense verb." },
+          { "wrong": "The masks carving from teak are expensive.", "right": "The masks carved from teak are expensive.", "why": "The masks receive the action (passive), so use the past participle." },
+          { "wrong": "She was the first person climbing the mountain.", "right": "She was the first person to climb the mountain.", "why": "After the first/last/only, use the to-infinitive." }
+        ],
+        "summary": "Shorten relative clauses: **active → -ing** (*people living here*), **passive → past participle** (*a temple built in 900*), and **the first/last/only → to-infinitive** (*the first woman to climb*). Don't reduce when the pronoun is the object. *Ringkasan: melakukan → -ing; dikenai → V3.*",
+        "reviewCards": [
+          { "front": "the man standing there", "back": "= the man who is standing there (active → -ing)" },
+          { "front": "a temple built in the 9th century", "back": "= a temple which was built... (passive → V3)" },
+          { "front": "the first woman to climb Everest", "back": "the first/last/only + to-infinitive" },
+          { "front": "the book I bought (not: the book buying)", "back": "Object clauses cannot be reduced to -ing." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u06-l3-q1", "type": "dropdown", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "instructions": "Hint: the woman is doing the action.",
+          "text": "The woman ___ next to the statue is our guide.",
+          "choices": [["standing", "stood", "to stand"]],
+          "answers": [0],
+          "explanation": "Active meaning (*who is standing*) → **standing**."
+        },
+        {
+          "id": "b2-u06-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Reduce the relative clause.",
+          "sentence": "The paintings which were stolen in 1990 have been found.",
+          "cue": "Begin with: The paintings ...",
+          "answers": ["The paintings stolen in 1990 have been found."],
+          "explanation": "Passive clause (*which were stolen*) → past participle: **The paintings stolen in 1990...**"
+        },
+        {
+          "id": "b2-u06-l3-q3", "type": "drag_drop", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the text with forms from the bank.",
+          "text": "Visitors ___ the castle must buy a ticket. The ticket, ___ online, includes a guided tour. Last year Mira was the first person ___ the new wing.",
+          "bank": ["visiting", "bought", "to visit", "visited", "buying"],
+          "answers": ["visiting", "bought", "to visit"],
+          "explanation": "Visitors **visiting** (active); the ticket, **bought** online (passive); the first person **to visit** (after *the first*)."
+        },
+        {
+          "id": "b2-u06-l3-q4", "type": "error_identification", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Most of the people", "invited to the ceremony", "were artists", "lived in the area."],
+          "errorIndex": 3,
+          "correction": "living in the area.",
+          "explanation": "*Artists who lived in the area* → reduced active clause: **artists living in the area**. *Invited* is a correct passive reduction."
+        },
+        {
+          "id": "b2-u06-l3-q5", "type": "single_choice", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Anyone wanting to join the tour should wait at the main gate.",
+            "Anyone wanted to join the tour should wait at the main gate.",
+            "Anyone to want joining the tour should wait at the main gate.",
+            "Anyone wants to join the tour should wait at the main gate."
+          ],
+          "answer": 0,
+          "explanation": "*Anyone who wants...* → reduced active clause: **Anyone wanting to join...**"
+        },
+        {
+          "id": "b2-u06-l3-q6", "type": "translation", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English. Try to use a reduced relative clause.",
+          "source": "Candi yang dibangun pada abad ke-9 itu dikunjungi jutaan orang setiap tahun.",
+          "direction": "id-en",
+          "answers": [
+            "The temple built in the 9th century is visited by millions of people every year.",
+            "The temple built in the ninth century is visited by millions of people every year.",
+            "The temple built in the 9th century is visited by millions of people each year.",
+            "The temple built in the ninth century is visited by millions of people each year.",
+            "The temple which was built in the 9th century is visited by millions of people every year.",
+            "The temple that was built in the 9th century is visited by millions of people every year.",
+            "The temple which was built in the ninth century is visited by millions of people every year.",
+            "The temple that was built in the ninth century is visited by millions of people every year.",
+            "The temple built in the 9th century is visited by millions of people a year.",
+            "The temple built in the ninth century is visited by millions of people a year."
+          ],
+          "explanation": "*Yang dibangun* = passive → **built** (reduced). *Dikunjungi* = present simple passive: **is visited by millions of people**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u06-l4-culture-heritage",
+      "title": "Vocabulary: Culture, Heritage and Famous People",
+      "summary": "Kosakata tentang budaya, warisan budaya, dan tokoh terkenal.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use vocabulary for heritage, traditions and artefacts",
+        "Use verbs such as preserve, restore and pass down accurately",
+        "Describe famous people with adjectives such as renowned and influential"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Heritage and traditions\n| Word | Meaning | Example |\n| --- | --- | --- |\n| heritage | traditions, buildings and culture from the past that a society values | Batik is part of our cultural **heritage**. |\n| tradition | a custom passed from generation to generation | It's a **tradition** to visit relatives after Eid. |\n| artefact | an object made by people long ago | The museum has 3,000 **artefacts**. |\n| monument | a building or statue that honours a person or event | a national **monument** |\n| indigenous | originally from a place | **indigenous** languages |\n| ancestor | a family member from long ago | Our **ancestors** were farmers. |\n\n### Verbs for protecting the past\n| Verb | Meaning | Example |\n| --- | --- | --- |\n| preserve | keep in its original state | The old town has been beautifully **preserved**. |\n| restore | repair to its original condition | The temple was **restored** after the earthquake. |\n| pass down / hand down | give to the next generation | The recipe was **passed down** from my grandmother. |\n| revive | bring back into use | Young artists are **reviving** traditional weaving. |\n| neglect | fail to look after | The fort was **neglected** for decades. |\n\n### Famous people\n| Word | Meaning |\n| --- | --- |\n| renowned / acclaimed | famous and admired |\n| influential | having a big effect on others |\n| legacy | what a person leaves behind for the future |\n| masterpiece | a person's best work of art |\n| pioneer | one of the first people to do something |\n| self-taught | learned without a teacher |\n\n### Easily confused words\n- **heritage** (culture of a group) vs **inheritance** (money/property you receive when someone dies) vs **heirloom** (a valuable object kept in a family for generations)\n- **historic** (important in history: *a historic day*) vs **historical** (connected with the past: *historical documents*)\n\n### With relative clauses\n*Raden Sukma, **whose masterpiece** hangs in the national gallery, was a **self-taught** painter. Her **legacy**, **which** includes over 400 paintings, has been **preserved** by her family.*\n\n> **Catatan:** *Heritage* = warisan budaya; *inheritance* = warisan harta; *heirloom* = pusaka keluarga. *Historic* = bersejarah (penting), *historical* = berkaitan dengan sejarah.",
+        "examples": [
+          { "en": "Batik is an important part of Indonesia's cultural heritage.", "id": "Batik adalah bagian penting dari warisan budaya Indonesia.", "note": "heritage" },
+          { "en": "The ancient temple, which had been neglected for years, was restored in 2015.", "id": "Candi kuno itu, yang telah terbengkalai bertahun-tahun, dipugar pada 2015.", "note": "neglect / restore" },
+          { "en": "This traditional dance has been passed down from generation to generation.", "id": "Tari tradisional ini telah diwariskan dari generasi ke generasi.", "note": "pass down" },
+          { "en": "The renowned composer left a legacy that still inspires young musicians.", "id": "Komponis terkenal itu meninggalkan warisan yang masih menginspirasi musisi muda.", "note": "renowned, legacy" }
+        ],
+        "vocabulary": [
+          { "word": "heritage", "pos": "noun", "ipa": "/ˈherɪtɪdʒ/", "meaning": "warisan (budaya)", "example": "The old quarter is a heritage site." },
+          { "word": "artefact", "pos": "noun", "ipa": "/ˈɑːtɪfækt/", "meaning": "artefak", "example": "The artefacts date back 2,000 years." },
+          { "word": "preserve", "pos": "verb", "ipa": "/prɪˈzɜːv/", "meaning": "melestarikan", "example": "We must preserve our traditions." },
+          { "word": "legacy", "pos": "noun", "ipa": "/ˈleɡəsi/", "meaning": "warisan, peninggalan (jasa/karya)", "example": "Her legacy lives on in her students." },
+          { "word": "renowned", "pos": "adjective", "ipa": "/rɪˈnaʊnd/", "meaning": "termasyhur", "example": "He is a renowned architect." },
+          { "word": "indigenous", "pos": "adjective", "ipa": "/ɪnˈdɪdʒənəs/", "meaning": "asli, pribumi", "example": "Indigenous communities protect the forest." }
+        ],
+        "grammar": [
+          { "pattern": "be passed down / handed down + from ... to ...", "example": "The ring was handed down from mother to daughter.", "note": "Often passive." },
+          { "pattern": "be renowned / famous / known + for + noun/-ing", "example": "The town is renowned for its silverwork.", "note": "Preposition for." },
+          { "pattern": "date back to + time", "example": "The temple dates back to the 9th century.", "note": "Age of an object." }
+        ],
+        "mistakes": [
+          { "wrong": "Batik is part of our cultural inheritance.", "right": "Batik is part of our cultural heritage.", "why": "Heritage is culture from the past; inheritance is money or property you receive." },
+          { "wrong": "The town is renowned with its silverwork.", "right": "The town is renowned for its silverwork.", "why": "The preposition after renowned/famous is for." },
+          { "wrong": "This is a historical day for our country.", "right": "This is a historic day for our country.", "why": "Historic means important in history." }
+        ],
+        "summary": "Use **heritage, tradition, artefact, monument, indigenous, ancestor** for culture; **preserve, restore, pass down, revive, neglect** for protecting the past; and **renowned, influential, legacy, masterpiece, pioneer** for famous people. Don't confuse *heritage/inheritance/heirloom* or *historic/historical*. *Ringkasan: hati-hati dengan kata yang mirip.*",
+        "reviewCards": [
+          { "front": "heritage / inheritance / heirloom", "back": "warisan budaya / warisan harta / pusaka keluarga" },
+          { "front": "preserve vs restore", "back": "melestarikan (menjaga) vs memugar (memperbaiki)" },
+          { "front": "pass down", "back": "mewariskan ke generasi berikutnya" },
+          { "front": "historic vs historical", "back": "bersejarah (penting) vs berkaitan dengan sejarah" },
+          { "front": "legacy", "back": "peninggalan/jasa seseorang untuk masa depan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u06-l4-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "heritage",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the best word.",
+          "instructions": "Hint: culture and buildings a society values from the past.",
+          "context": "The old fort is part of our national ___, so it has been protected for future generations.",
+          "options": ["heritage", "inheritance", "heirloom", "ancestor"],
+          "answer": 0,
+          "explanation": "**Heritage** = culture, traditions and buildings from the past that a society values. *Inheritance* is money/property; an *heirloom* is a family object; an *ancestor* is a person."
+        },
+        {
+          "id": "b2-u06-l4-q2", "type": "matching", "category": "vocabulary", "topic": "culture and famous people",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "artefact", "right": "an object made by people long ago" },
+            { "left": "legacy", "right": "what someone leaves behind for future generations" },
+            { "left": "indigenous", "right": "originally belonging to a place" },
+            { "left": "masterpiece", "right": "an artist's best work" },
+            { "left": "pioneer", "right": "one of the first people to do something new" }
+          ],
+          "explanation": "These words are common in museum guides, biographies and articles about culture."
+        },
+        {
+          "id": "b2-u06-l4-q3", "type": "fill_blank", "category": "vocabulary", "topic": "heritage",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with ONE verb.",
+          "text": "The government is spending millions to ___ the ancient temple, which was damaged in an earthquake.",
+          "answers": [["restore", "repair", "rebuild"]],
+          "explanation": "**Restore** = repair something to its original condition (memugar). *Repair* and *rebuild* are also acceptable here."
+        },
+        {
+          "id": "b2-u06-l4-q4", "type": "drag_drop", "category": "vocabulary", "topic": "famous people",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "The ___ painter Raden Sukma, whose ___ hangs in the national gallery, left a great ___ to young artists in the region.",
+          "bank": ["renowned", "masterpiece", "legacy", "ancestor", "neglected"],
+          "answers": ["renowned", "masterpiece", "legacy"],
+          "explanation": "**renowned** (famous) painter; her **masterpiece** (best work) hangs in the gallery; she left a **legacy** (something for the future)."
+        },
+        {
+          "id": "b2-u06-l4-q5", "type": "single_choice", "category": "vocabulary", "topic": "heritage",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which word means 'to keep something in its original state so that it is not lost or damaged'?",
+          "options": ["preserve", "demolish", "neglect", "modernise"],
+          "answer": 0,
+          "explanation": "**Preserve** = keep in its original state (melestarikan). *Demolish* = destroy a building; *neglect* = fail to look after; *modernise* = make modern."
+        },
+        {
+          "id": "b2-u06-l4-q6", "type": "translation", "category": "vocabulary", "topic": "traditions",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Tari tradisional ini telah diwariskan dari generasi ke generasi.",
+          "direction": "id-en",
+          "answers": [
+            "This traditional dance has been passed down from generation to generation.",
+            "This traditional dance has been handed down from generation to generation.",
+            "This traditional dance has been passed on from generation to generation.",
+            "This traditional dance was passed down from generation to generation.",
+            "This traditional dance was handed down from generation to generation.",
+            "This traditional dance has been passed down through the generations.",
+            "This traditional dance has been handed down through the generations."
+          ],
+          "explanation": "*Diwariskan* = **passed down / handed down** (passive). *Dari generasi ke generasi* = **from generation to generation**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u06-l5-richer-descriptions",
+      "title": "Writing Richer Descriptions",
+      "summary": "Menulis deskripsi yang lebih kaya dengan which untuk seluruh klausa dan kuantitas + of whom/which.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use which to comment on a whole clause",
+        "Use quantifier + of whom/which (most of whom, both of which)",
+        "Combine relative structures to write a fluent description"
+      ],
+      "completionCriteria": "Complete the writing task and score at least 70% on the mini quiz. (Selesaikan tugas menulis dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### 1. which referring to a whole clause\n*Which* can comment on the **whole previous idea**, not just one noun. A comma is always needed.\n- *The concert was cancelled, **which** disappointed everyone.* (= the cancellation disappointed everyone)\n- *She speaks five languages, **which** is impressive.*\n\n⚠️ Don't use *what* or *that* here: ✗ *..., what disappointed everyone.*\n\n### 2. Quantifier + of + whom/which\nUse this to give information about **part of a group**:\n| Pattern | Example |\n| --- | --- |\n| all/most/many/some + of whom | *She has three brothers, **all of whom** are musicians.* |\n| none/neither + of whom | *I invited ten friends, **none of whom** came.* |\n| both/several/half + of which | *The village has two temples, **both of which** are 500 years old.* |\n| the majority/a few + of which | *The museum received 200 letters, **most of which** were from children.* |\n\n⚠️ Not *of them* after a comma: ✗ *three brothers, all of them are musicians* (this creates a comma splice; use *all of whom* or start a new sentence).\n\n### 3. whose for things\n*Whose* can also be used for things and places: *a town **whose** history goes back 1,000 years*.\n\n### 4. Building a rich description\nCompare:\n- *Basic*: Raden Sukma was a painter. She was born in 1921. Her paintings are famous. She trained many students. Many of them now have studios.\n- *Rich*: *Raden Sukma, **who was born in 1921**, was a self-taught painter **whose landscapes are now famous worldwide**. She trained dozens of young artists, **many of whom now run their own studios**, **which shows how influential she was**.*\n\n### Tips for good descriptions\n| Do | Avoid |\n| --- | --- |\n| mix short and long sentences | putting four relative clauses in one sentence |\n| use reduced clauses (*built in 1820*) | repeating *which* again and again |\n| use precise vocabulary (*renowned, legacy*) | vague words (*nice, good, very famous*) |\n\n> **Catatan:** *, which* di akhir kalimat bisa merujuk ke **seluruh** klausa sebelumnya: *Konsernya dibatalkan, **dan hal itu** mengecewakan semua orang* → *The concert was cancelled, which disappointed everyone.* Untuk *sebagian besar dari mereka*, gunakan *most of whom* (orang) atau *most of which* (benda).",
+        "examples": [
+          { "en": "The festival was moved indoors, which nobody had expected.", "id": "Festival itu dipindahkan ke dalam ruangan, hal yang tidak diduga siapa pun.", "note": "which = the whole clause" },
+          { "en": "She has three brothers, all of whom are musicians.", "id": "Dia punya tiga saudara laki-laki, yang semuanya musisi.", "note": "all of whom" },
+          { "en": "The village has two temples, both of which are over 500 years old.", "id": "Desa itu memiliki dua candi, yang keduanya berusia lebih dari 500 tahun.", "note": "both of which" },
+          { "en": "It's a town whose history goes back a thousand years.", "id": "Itu adalah kota yang sejarahnya berusia seribu tahun.", "note": "whose for places" }
+        ],
+        "vocabulary": [
+          { "word": "landscape", "pos": "noun", "ipa": "/ˈlændskeɪp/", "meaning": "pemandangan; lukisan pemandangan", "example": "Her landscapes show the rice fields of her village." },
+          { "word": "self-taught", "pos": "adjective", "ipa": "/ˌself ˈtɔːt/", "meaning": "otodidak", "example": "He was a self-taught musician." },
+          { "word": "influential", "pos": "adjective", "ipa": "/ˌɪnfluˈenʃl/", "meaning": "berpengaruh", "example": "She was one of the most influential writers of her time." },
+          { "word": "go back (to)", "pos": "phrasal verb", "ipa": "/ˌɡəʊ ˈbæk/", "meaning": "berasal dari (waktu), berusia", "example": "The tradition goes back to the 15th century." },
+          { "word": "the majority", "pos": "noun", "ipa": "/ðə məˈdʒɒrəti/", "meaning": "mayoritas, sebagian besar", "example": "The visitors, the majority of whom were students, loved the show." }
+        ],
+        "grammar": [
+          { "pattern": "clause, + which + verb (comment on the whole clause)", "example": "He arrived late, which annoyed the host.", "note": "Always with a comma." },
+          { "pattern": "noun (people), + all/most/some/none + of whom + clause", "example": "We met many artists, some of whom were famous.", "note": "People." },
+          { "pattern": "noun (things), + both/many/most + of which + clause", "example": "He wrote ten novels, three of which became films.", "note": "Things." }
+        ],
+        "mistakes": [
+          { "wrong": "The village has two temples, both of them are very old.", "right": "The village has two temples, both of which are very old.", "why": "After a comma, use both of which to make one correct sentence." },
+          { "wrong": "She won the prize, what surprised everyone.", "right": "She won the prize, which surprised everyone.", "why": "Use which, not what, to comment on a whole clause." },
+          { "wrong": "I have many friends, most of who live abroad.", "right": "I have many friends, most of whom live abroad.", "why": "After of, use whom for people." }
+        ],
+        "summary": "Use **, which** to comment on a whole clause, **quantifier + of whom/which** to describe part of a group, and **whose** for people, places and things. Combine these with reduced clauses and precise vocabulary for rich, fluent descriptions. *Ringkasan: most of whom (orang), most of which (benda).*",
+        "reviewCards": [
+          { "front": "..., which surprised everyone.", "back": "which = seluruh klausa sebelumnya (hal itu)" },
+          { "front": "all of whom / most of which", "back": "semuanya (orang) / sebagian besarnya (benda)" },
+          { "front": "both of them ✗ (after a comma)", "back": "both of which / both of whom ✓" },
+          { "front": "a town whose history ...", "back": "whose can be used for places and things" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u06-l5-q1", "type": "dropdown", "category": "grammar", "topic": "sentence relative clauses",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct word.",
+          "instructions": "Hint: the word refers to the whole first clause.",
+          "text": "The concert was cancelled at the last minute, ___ disappointed everyone.",
+          "choices": [["which", "what", "that"]],
+          "answers": [0],
+          "explanation": "**, which** can refer to the whole previous clause (the cancellation). *What* and *that* are not possible here."
+        },
+        {
+          "id": "b2-u06-l5-q2", "type": "sentence_transformation", "category": "grammar", "topic": "quantifier + of whom",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Combine the sentences.",
+          "sentence": "She has three brothers. All of them are musicians.",
+          "cue": "Begin with: She has three brothers, all ...",
+          "answers": ["She has three brothers, all of whom are musicians."],
+          "explanation": "People → **all of whom**: *She has three brothers, all of whom are musicians.*"
+        },
+        {
+          "id": "b2-u06-l5-q3", "type": "essay", "category": "writing", "topic": "descriptions",
+          "difficulty": 4, "stage": "independent",
+          "prompt": "Write a description (100–150 words) of a famous person or a heritage site from your region for a tourist website. Use at least four relative structures: a non-defining clause, a reduced clause, a quantifier + of whom/which, and a comment clause with which.",
+          "minWords": 100,
+          "maxWords": 150,
+          "rubric": "general-writing",
+          "explanation": "Mix sentence lengths, use commas correctly, and include vocabulary such as *heritage, renowned, legacy, preserve, date back to*."
+        },
+        {
+          "id": "b2-u06-l5-q4", "type": "error_identification", "category": "grammar", "topic": "quantifier + of which",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The village has two temples,", "both of them", "are over", "five hundred years old."],
+          "errorIndex": 1,
+          "correction": "both of which",
+          "explanation": "After a comma, use a relative pronoun: **both of which** (things)."
+        },
+        {
+          "id": "b2-u06-l5-q5", "type": "sentence_reconstruction", "category": "writing", "topic": "descriptions",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the fragments in order to make one sentence.",
+          "fragments": ["Ibu Ratna,", "whose batik designs are sold worldwide,", "has trained dozens of young artists,", "many of whom", "now run their own studios."],
+          "explanation": "Name → non-defining *whose* clause → main verb → *many of whom* + clause."
+        },
+        {
+          "id": "b2-u06-l5-q6", "type": "fill_blank", "category": "grammar", "topic": "quantifier + of which",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with ONE word.",
+          "text": "After the exhibition, the museum received 200 letters, most of ___ were from children.",
+          "answers": [["which"]],
+          "explanation": "Things (letters) → **most of which**."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u06-t-q1", "type": "single_choice", "category": "grammar", "topic": "non-defining relative clauses",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "Mr. Hadi, ___ son is a famous chef, owns a small restaurant near the harbour.",
+      "options": ["whose", "who's", "who", "which"],
+      "answer": 0,
+      "explanation": "Possession (his son) → **whose**. *Who's* = who is."
+    },
+    {
+      "id": "b2-u06-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "non-defining relative clauses",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Combine the sentences.",
+      "sentence": "The old theatre was closed in 1995. It has now been restored.",
+      "cue": "Begin with: The old theatre, which ...",
+      "answers": ["The old theatre, which was closed in 1995, has now been restored."],
+      "explanation": "Extra information in a non-defining clause between commas: *The old theatre, which was closed in 1995, has now been restored.*"
+    },
+    {
+      "id": "b2-u06-t-q3", "type": "error_identification", "category": "grammar", "topic": "relative clauses with prepositions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["The book", "which I told you about it", "is now available", "in the library."],
+      "errorIndex": 1,
+      "correction": "which I told you about",
+      "explanation": "The relative pronoun *which* already replaces *it*, so don't repeat the object."
+    },
+    {
+      "id": "b2-u06-t-q4", "type": "word_order", "category": "grammar", "topic": "reduced relative clauses",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["The", "man", "sitting", "in", "the", "corner", "is", "a", "famous", "poet"],
+      "explanation": "Reduced active clause: *The man **sitting in the corner** is a famous poet.*"
+    },
+    {
+      "id": "b2-u06-t-q5", "type": "fill_blank", "category": "grammar", "topic": "quantifier + of whom",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete with ONE word.",
+      "text": "The guests, most of ___ had travelled from abroad, loved the performance.",
+      "answers": [["whom"]],
+      "explanation": "People after *of* → **whom**: *most of whom*."
+    },
+    {
+      "id": "b2-u06-t-q6", "type": "translation", "category": "grammar", "topic": "relative clauses",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kota tempat saya lahir terkenal dengan batiknya.",
+      "direction": "id-en",
+      "answers": [
+        "The town where I was born is famous for its batik.",
+        "The town in which I was born is famous for its batik.",
+        "The town I was born in is famous for its batik.",
+        "The town that I was born in is famous for its batik.",
+        "The city where I was born is famous for its batik.",
+        "The city in which I was born is famous for its batik.",
+        "The city I was born in is famous for its batik.",
+        "The town where I was born is known for its batik.",
+        "The city where I was born is known for its batik.",
+        "The town where I was born is well known for its batik.",
+        "The town where I was born is renowned for its batik."
+      ],
+      "explanation": "*Tempat saya lahir* = **where I was born** / *in which I was born*. *Terkenal dengan* = **famous for**."
+    },
+    {
+      "id": "b2-u06-t-q7", "type": "matching", "category": "vocabulary", "topic": "heritage",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Match the easily confused words with their meanings.",
+      "pairs": [
+        { "left": "heritage", "right": "culture and traditions from the past" },
+        { "left": "inheritance", "right": "money or property received after someone dies" },
+        { "left": "heirloom", "right": "a valuable object kept in a family for generations" },
+        { "left": "historic", "right": "important in history" }
+      ],
+      "explanation": "*Heritage* = warisan budaya; *inheritance* = warisan harta; *heirloom* = pusaka keluarga; *historic* = bersejarah."
+    }
+  ]
+}

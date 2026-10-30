@@ -1,0 +1,547 @@
+{
+  "slug": "a2-u06-health",
+  "number": 6,
+  "title": "Health and Advice",
+  "description": "Menjelaskan gejala sakit, memberi saran dengan should/shouldn't, serta membicarakan kewajiban dan aturan dengan have to, don't have to, must, dan mustn't.",
+  "objectives": [
+    "Menyebutkan bagian tubuh, penyakit ringan, dan gejala",
+    "Memberi saran dengan should dan shouldn't",
+    "Membicarakan kewajiban dengan have to / don't have to",
+    "Memahami aturan dengan must / mustn't dan membedakannya dari don't have to"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u06-l1-body-illnesses",
+      "title": "What's the Matter? Body and Illnesses",
+      "summary": "Kosakata bagian tubuh, penyakit, dan cara menjelaskan gejala.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan kosakata bagian tubuh dan penyakit umum",
+        "Menjelaskan gejala dengan I have a..., My ... hurts, dan I feel..."
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menanyakan keadaan\nUntuk menanyakan apa yang sakit, kita memakai:\n- **What's the matter?** (Ada apa? / Kenapa?)\n- **What's wrong?** (Apa yang salah?)\n- **Are you OK?**\n\n### Tiga pola untuk menjelaskan gejala\n| Pola | Contoh | Arti |\n| --- | --- | --- |\n| **I have a/an** + penyakit | *I have a headache.* | Saya sakit kepala. |\n| **My** + bagian tubuh + **hurts** | *My back hurts.* | Punggung saya sakit. |\n| **I feel** + adjective | *I feel sick / dizzy / tired.* | Saya merasa mual / pusing / lelah. |\n\nUntuk bagian tubuh jamak, pakai **hurt** tanpa -s: *My feet hurt.* Di masa lalu: *My knee hurt yesterday.* (hurt tidak berubah).\n\n### Penyakit dan gejala umum\n| English | Indonesia |\n| --- | --- |\n| a headache | sakit kepala |\n| a stomachache | sakit perut |\n| a toothache | sakit gigi |\n| a backache | sakit punggung |\n| a sore throat | sakit tenggorokan |\n| a cold | pilek, flu ringan |\n| the flu | flu (influenza) |\n| a cough | batuk |\n| a fever / a temperature | demam |\n| dizzy | pusing (berputar) |\n\n### Bagian tubuh\n*head* (kepala), *throat* (tenggorokan), *chest* (dada), *stomach* (perut), *back* (punggung), *shoulder* (bahu), *arm* (lengan), *knee* (lutut), *ankle* (pergelangan kaki), *foot/feet* (kaki/telapak kaki).\n\n### Kesalahan khas penutur Indonesia\nDalam bahasa Indonesia kita berkata *kepala saya sakit*. Dalam bahasa Inggris, jangan katakan ✗ *My head is sick*. Gunakan **I have a headache** atau **My head hurts**.\n\nKata **sick** biasanya berarti *sakit* secara umum (*I'm sick today*) atau *mual* (*I feel sick* = saya mual). Jangan pakai *sick* untuk satu bagian tubuh.\n\n### Menceritakan sakit di masa lalu\nGunakan past simple: *Last week I had the flu. I had a high temperature and I didn't go to work.*",
+        "examples": [
+          { "en": "What's the matter? — I have a terrible headache.", "id": "Kenapa? — Kepala saya sakit sekali.", "note": "I have a + penyakit" },
+          { "en": "My knee hurts after the football match.", "id": "Lutut saya sakit setelah pertandingan sepak bola.", "note": "My + bagian tubuh + hurts" },
+          { "en": "I feel dizzy. I need to sit down.", "id": "Saya pusing. Saya perlu duduk.", "note": "I feel + adjective" },
+          { "en": "Last week Doni had the flu and a high temperature.", "id": "Minggu lalu Doni terkena flu dan demam tinggi.", "note": "past simple: had" }
+        ],
+        "vocabulary": [
+          { "word": "headache", "pos": "noun", "ipa": "/ˈhedeɪk/", "meaning": "sakit kepala", "example": "I have a headache because I didn't sleep." },
+          { "word": "sore throat", "pos": "noun", "ipa": "/ˌsɔː ˈθrəʊt/", "meaning": "sakit tenggorokan", "example": "She has a sore throat and can't sing." },
+          { "word": "cough", "pos": "noun/verb", "ipa": "/kɒf/", "meaning": "batuk", "example": "My cough is worse at night." },
+          { "word": "temperature", "pos": "noun", "ipa": "/ˈtemprətʃə/", "meaning": "suhu tubuh; demam", "example": "He has a high temperature." },
+          { "word": "dizzy", "pos": "adjective", "ipa": "/ˈdɪzi/", "meaning": "pusing (seperti berputar)", "example": "I felt dizzy in the hot sun." },
+          { "word": "ankle", "pos": "noun", "ipa": "/ˈæŋkl/", "meaning": "pergelangan kaki", "example": "I hurt my ankle when I fell." }
+        ],
+        "grammar": [
+          { "pattern": "I have a/an + illness", "example": "I have a stomachache.", "note": "Untuk penyakit dan gejala." },
+          { "pattern": "My + body part + hurts / hurt (plural)", "example": "My eyes hurt.", "note": "Bagian tubuh jamak → hurt." },
+          { "pattern": "I feel + adjective", "example": "I feel sick.", "note": "sick = mual / tidak enak badan." }
+        ],
+        "mistakes": [
+          { "wrong": "My head is sick.", "right": "I have a headache. / My head hurts.", "why": "Bahasa Inggris tidak memakai sick untuk satu bagian tubuh." },
+          { "wrong": "I have headache.", "right": "I have a headache.", "why": "Headache, toothache, cough, dan cold biasanya memakai a." },
+          { "wrong": "My legs hurts.", "right": "My legs hurt.", "why": "Legs jamak, jadi kata kerjanya hurt (tanpa -s)." }
+        ],
+        "summary": "Tanyakan **What's the matter?** Jelaskan gejala dengan **I have a headache / a cold / a fever**, **My back hurts**, atau **I feel dizzy**. Jangan katakan *My head is sick*.",
+        "reviewCards": [
+          { "front": "sakit tenggorokan", "back": "a sore throat" },
+          { "front": "Kenapa? / Ada apa?", "back": "What's the matter? / What's wrong?" },
+          { "front": "Punggung saya sakit.", "back": "My back hurts." },
+          { "front": "pusing (berputar)", "back": "dizzy" },
+          { "front": "demam", "back": "a fever / a (high) temperature" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u06-l1-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "illnesses", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word: It hurts when I swallow food or talk. I have a ___.",
+          "options": ["sore throat", "headache", "backache", "stomachache"], "answer": 0,
+          "explanation": "Sakit saat menelan atau berbicara → sore throat (sakit tenggorokan).",
+          "misconception": "Memilih stomachache karena berhubungan dengan makanan."
+        },
+        {
+          "id": "a2-u06-l1-q2", "type": "matching", "category": "vocabulary", "topic": "illnesses", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each symptom with the illness.",
+          "pairs": [
+            { "left": "My temperature is 39°C.", "right": "I have a fever." },
+            { "left": "I'm coughing a lot.", "right": "I have a cough." },
+            { "left": "My nose is running and I'm sneezing.", "right": "I have a cold." },
+            { "left": "My head really hurts.", "right": "I have a headache." }
+          ],
+          "explanation": "Suhu tinggi → fever; batuk → cough; hidung meler dan bersin → cold; kepala sakit → headache."
+        },
+        {
+          "id": "a2-u06-l1-q3", "type": "fill_blank", "category": "conversation", "topic": "describing symptoms", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the dialogue with one word in each gap.",
+          "text": "A: What's the ___? B: My back ___. I carried some heavy boxes yesterday.",
+          "answers": [["matter"], ["hurts", "aches"]],
+          "explanation": "What's the matter? = Ada apa? My back hurts = punggung saya sakit (back tunggal → hurts)."
+        },
+        {
+          "id": "a2-u06-l1-q4", "type": "single_choice", "category": "grammar", "topic": "describing symptoms", "difficulty": 1, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["I have a headache.", "I have headache.", "My head is sick.", "I am headache."], "answer": 0,
+          "explanation": "Pola yang benar: I have a + penyakit. Headache memakai a."
+        },
+        {
+          "id": "a2-u06-l1-q5", "type": "dialogue_completion", "category": "conversation", "topic": "describing symptoms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Doctor", "text": "Good morning. What's the matter?" },
+            { "speaker": "Patient", "text": null },
+            { "speaker": "Doctor", "text": "I see. Let me check your temperature." }
+          ],
+          "options": ["I feel dizzy and I think I have a fever.", "I'm fine, thanks.", "Yes, I am.", "It's the matter."], "answer": 0,
+          "explanation": "Dokter bertanya apa keluhannya, jadi pasien menjelaskan gejala: I feel dizzy and I think I have a fever."
+        },
+        {
+          "id": "a2-u06-l1-q6", "type": "translation", "category": "vocabulary", "topic": "illnesses", "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya sakit gigi.", "direction": "id-en",
+          "answers": ["I have a toothache.", "I have toothache.", "My tooth hurts.", "My teeth hurt.", "I've got a toothache."],
+          "explanation": "Sakit gigi = I have a toothache atau My tooth hurts."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u06-l2-should-advice",
+      "title": "Should and Shouldn't for Advice",
+      "summary": "Memberi dan meminta saran dengan should dan shouldn't.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memberi saran dengan should / shouldn't + base verb",
+        "Meminta saran dengan Should I...? dan What should I do?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Should = sebaiknya\nKita memakai **should** untuk memberi **saran** (*advice*) — sesuatu yang menurut kita **ide yang baik**.\n\n*You **should** see a doctor.* (Sebaiknya kamu periksa ke dokter.)\n*You **shouldn't** eat so much sugar.* (Sebaiknya kamu tidak makan terlalu banyak gula.)\n\n### Pola\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Positif | subject + **should** + base verb | *You should rest.* |\n| Negatif | subject + **shouldn't** (should not) + base verb | *You shouldn't go to work.* |\n| Pertanyaan | **Should** + subject + base verb? | *Should I take this medicine?* |\n| Pertanyaan wh- | Wh- + **should** + subject + base verb? | *What should I do?* |\n\n### Aturan penting\n1. **Should** sama untuk semua subjek: *I should, she should, they should* (✗ *she shoulds*).\n2. Setelah should langsung **bentuk dasar** tanpa *to*: ✗ *You should to rest.* ✓ *You should rest.*\n3. Bentuk negatif: **shouldn't**, bukan ✗ *don't should*.\n\n### Membuat saran terdengar lebih halus\nDalam bahasa Inggris, saran langsung kadang terdengar terlalu keras. Tambahkan **I think** atau **Maybe**:\n- *I think you should stay at home today.*\n- *Maybe you should drink some warm tea.*\n- *I don't think you should go out.* (lebih natural daripada *I think you shouldn't...*)\n\n### Saran untuk masalah kesehatan\n| Masalah | Saran |\n| --- | --- |\n| I have a cold. | You should drink lots of water and rest. |\n| I have a toothache. | You should see a dentist. |\n| I can't sleep. | You shouldn't drink coffee in the evening. |\n| I have a backache. | You shouldn't carry heavy things. |\n\n### Perbedaan dengan bahasa Indonesia\n*Sebaiknya* atau *seharusnya* dalam bahasa Indonesia bisa diletakkan di awal kalimat. Dalam bahasa Inggris, **should** selalu ada **setelah subjek**: *You should...*, bukan ✗ *Should you rest* (itu pertanyaan).",
+        "examples": [
+          { "en": "You should drink lots of water when you have a fever.", "id": "Sebaiknya kamu minum banyak air saat demam.", "note": "should + base verb" },
+          { "en": "You shouldn't stay up late before an exam.", "id": "Sebaiknya kamu tidak begadang sebelum ujian.", "note": "shouldn't + base verb" },
+          { "en": "Should I call the doctor? — Yes, I think you should.", "id": "Haruskah saya menelepon dokter? — Ya, menurut saya sebaiknya begitu.", "note": "pertanyaan dan jawaban singkat" },
+          { "en": "I don't think you should go swimming with a cold.", "id": "Menurut saya kamu sebaiknya tidak berenang saat pilek.", "note": "cara halus memberi saran negatif" }
+        ],
+        "vocabulary": [
+          { "word": "advice", "pos": "noun (uncountable)", "ipa": "/ədˈvaɪs/", "meaning": "saran, nasihat", "example": "Can you give me some advice?" },
+          { "word": "rest", "pos": "verb/noun", "ipa": "/rest/", "meaning": "beristirahat; istirahat", "example": "You should rest for a few days." },
+          { "word": "stay up late", "pos": "phrase", "ipa": "/steɪ ʌp leɪt/", "meaning": "begadang, tidur larut", "example": "You shouldn't stay up late on weekdays." },
+          { "word": "dentist", "pos": "noun", "ipa": "/ˈdentɪst/", "meaning": "dokter gigi", "example": "You should see a dentist twice a year." },
+          { "word": "warm", "pos": "adjective", "ipa": "/wɔːm/", "meaning": "hangat", "example": "Drink some warm water with honey." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + should / shouldn't + base verb", "example": "He should eat more vegetables.", "note": "Sama untuk semua subjek, tanpa to." },
+          { "pattern": "Should + subject + base verb?", "example": "Should we wait here?", "note": "Short answer: Yes, you should. / No, you shouldn't." },
+          { "pattern": "I think / I don't think + subject + should ...", "example": "I don't think you should drive today.", "note": "Membuat saran lebih halus." }
+        ],
+        "mistakes": [
+          { "wrong": "You should to see a dentist.", "right": "You should see a dentist.", "why": "Setelah should langsung bentuk dasar, tanpa to." },
+          { "wrong": "She shoulds rest at home.", "right": "She should rest at home.", "why": "Should tidak berubah untuk he/she/it." },
+          { "wrong": "You don't should eat that.", "right": "You shouldn't eat that.", "why": "Negatif dari should adalah shouldn't, tanpa do." }
+        ],
+        "summary": "**should / shouldn't + base verb** untuk memberi saran. Pertanyaan: *Should I...? / What should I do?* Jangan pakai *to* atau *-s* setelah should. Tambahkan *I think* atau *Maybe* agar saran lebih halus.",
+        "reviewCards": [
+          { "front": "Sebaiknya kamu periksa ke dokter.", "back": "You should see a doctor." },
+          { "front": "Sebaiknya kamu tidak begadang.", "back": "You shouldn't stay up late." },
+          { "front": "Apa yang sebaiknya saya lakukan?", "back": "What should I do?" },
+          { "front": "should + to?", "back": "Tidak! You should rest (bukan should to rest)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u06-l2-q1", "type": "single_choice", "category": "grammar", "topic": "should", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best advice: You have a high fever. You ___ go to work today.",
+          "options": ["shouldn't", "should", "should to"], "answer": 0,
+          "explanation": "Saat demam tinggi, bekerja bukan ide yang baik → shouldn't.",
+          "misconception": "Menambahkan to setelah should."
+        },
+        {
+          "id": "a2-u06-l2-q2", "type": "drag_drop", "category": "grammar", "topic": "should", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "When you have a cold, you ___ drink lots of water, and you ___ stay up late.",
+          "bank": ["should", "shouldn't", "should to", "doesn't should"],
+          "answers": ["should", "shouldn't"],
+          "explanation": "Minum banyak air = ide baik → should. Begadang = ide buruk → shouldn't."
+        },
+        {
+          "id": "a2-u06-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "should", "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the advice with should.",
+          "sentence": "It's a good idea to wear a helmet on a motorbike.",
+          "cue": "Begin with: You ...",
+          "answers": ["You should wear a helmet on a motorbike."],
+          "explanation": "It's a good idea to... = You should + base verb."
+        },
+        {
+          "id": "a2-u06-l2-q4", "type": "error_identification", "category": "grammar", "topic": "should", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["I think", "you", "should", "to see", "a dentist."],
+          "errorIndex": 3, "correction": "see",
+          "explanation": "Setelah should langsung bentuk dasar tanpa to: should see."
+        },
+        {
+          "id": "a2-u06-l2-q5", "type": "dialogue_completion", "category": "conversation", "topic": "should", "difficulty": 1, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Fikri", "text": "I have a terrible toothache." },
+            { "speaker": "Laras", "text": null }
+          ],
+          "options": ["You should see a dentist.", "You shouldn't see a dentist.", "You should eating sweets.", "You should to rest."], "answer": 0,
+          "explanation": "Saran yang tepat untuk sakit gigi: You should see a dentist. Pilihan lain salah arti atau salah tata bahasa."
+        },
+        {
+          "id": "a2-u06-l2-q6", "type": "word_order", "category": "grammar", "topic": "should", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["What", "should", "I", "do", "about", "my", "cough?"],
+          "explanation": "What + should + I + do + about + masalah?"
+        }
+      ]
+    },
+    {
+      "slug": "a2-u06-l3-have-to",
+      "title": "Have To and Don't Have To",
+      "summary": "Membicarakan kewajiban dan hal yang tidak wajib dengan have to / don't have to.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan have to / has to untuk kewajiban",
+        "Menggunakan don't / doesn't have to untuk hal yang tidak wajib",
+        "Menggunakan had to untuk kewajiban di masa lalu"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Have to = harus (karena keadaan)\nKita memakai **have to** untuk sesuatu yang **wajib** atau **perlu** dilakukan, sering karena **aturan, pekerjaan, atau keadaan**.\n\n*I **have to** take this medicine three times a day.* (Saya harus minum obat ini tiga kali sehari — kata dokter.)\n\n### Pola\nBerbeda dengan should, **have to** berubah sesuai subjek, seperti kata kerja biasa:\n\n| Bentuk | I / you / we / they | he / she / it |\n| --- | --- | --- |\n| Positif | **have to** go | **has to** go |\n| Negatif | **don't have to** go | **doesn't have to** go |\n| Pertanyaan | **Do** you **have to** go? | **Does** she **have to** go? |\n| Lampau | **had to** go | **had to** go |\n\nKarena *have* adalah kata kerja biasa, negatif dan pertanyaannya memakai **do/does/did** (seperti di A1 dan Unit 3).\n\n### Don't have to = tidak harus / tidak perlu\n**Don't have to** berarti sesuatu **tidak wajib** — kamu boleh melakukannya atau tidak.\n\n*Tomorrow is Sunday. I **don't have to** get up early.* (Saya tidak perlu bangun pagi.)\n\nHati-hati: *don't have to* **bukan** larangan. Artinya *tidak perlu*, bukan *tidak boleh*. (Larangan akan dipelajari di Lesson 4 dengan *mustn't*.)\n\n### Had to untuk masa lalu\nBentuk lampau dari *have to* adalah **had to**:\n- *Last week I **had to** stay in bed because I had the flu.*\n- *Did you **have to** wait long at the clinic?* — *Yes, I had to wait two hours.*\n\n### Should vs have to\n| should | have to |\n| --- | --- |\n| saran — ide yang baik | kewajiban — tidak ada pilihan |\n| *You should exercise more.* | *Nurses have to wear a uniform.* |\n\n### Pelafalan\n*Have to* sering diucapkan /ˈhæftə/ dan *has to* /ˈhæstə/ dalam percakapan cepat.",
+        "examples": [
+          { "en": "My sister is a nurse, so she has to work at night sometimes.", "id": "Kakakku perawat, jadi dia kadang harus bekerja malam.", "note": "has to untuk she" },
+          { "en": "You don't have to pay. The check-up is free.", "id": "Kamu tidak perlu membayar. Pemeriksaannya gratis.", "note": "don't have to = tidak perlu" },
+          { "en": "Do I have to take this medicine before meals?", "id": "Apakah saya harus minum obat ini sebelum makan?", "note": "pertanyaan dengan do" },
+          { "en": "I had to stay in hospital for two nights.", "id": "Saya harus dirawat di rumah sakit selama dua malam.", "note": "had to = harus (lampau)" }
+        ],
+        "vocabulary": [
+          { "word": "medicine", "pos": "noun", "ipa": "/ˈmedsn/", "meaning": "obat", "example": "Take this medicine after meals." },
+          { "word": "tablet", "pos": "noun", "ipa": "/ˈtæblət/", "meaning": "tablet, pil", "example": "She has to take two tablets a day." },
+          { "word": "check-up", "pos": "noun", "ipa": "/ˈtʃek ʌp/", "meaning": "pemeriksaan kesehatan", "example": "I have a check-up every year." },
+          { "word": "uniform", "pos": "noun", "ipa": "/ˈjuːnɪfɔːm/", "meaning": "seragam", "example": "Doctors don't have to wear a uniform here." },
+          { "word": "hospital", "pos": "noun", "ipa": "/ˈhɒspɪtl/", "meaning": "rumah sakit", "example": "He had to stay in hospital for a week." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + have to / has to + base verb", "example": "He has to wear glasses.", "note": "Kewajiban." },
+          { "pattern": "Subject + don't / doesn't have to + base verb", "example": "She doesn't have to work on Fridays.", "note": "Tidak perlu (tidak wajib)." },
+          { "pattern": "Subject + had to + base verb", "example": "We had to wait an hour.", "note": "Kewajiban di masa lalu." }
+        ],
+        "mistakes": [
+          { "wrong": "She have to take two tablets a day.", "right": "She has to take two tablets a day.", "why": "Untuk he/she/it, pakai has to." },
+          { "wrong": "He doesn't has to come.", "right": "He doesn't have to come.", "why": "Setelah doesn't, have kembali ke bentuk dasar." },
+          { "wrong": "Have you to go now?", "right": "Do you have to go now?", "why": "Pertanyaan have to memakai do/does." }
+        ],
+        "summary": "**have to / has to** = wajib. **don't / doesn't have to** = tidak perlu (bukan larangan). **had to** = wajib di masa lalu. Negatif dan pertanyaan memakai **do/does/did**.",
+        "reviewCards": [
+          { "front": "Dia (perempuan) harus bekerja malam.", "back": "She has to work at night." },
+          { "front": "Kamu tidak perlu membayar.", "back": "You don't have to pay." },
+          { "front": "have to (past)", "back": "had to" },
+          { "front": "Apakah saya harus ...?", "back": "Do I have to ...?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u06-l3-q1", "type": "dropdown", "category": "grammar", "topic": "have to", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct options.",
+          "text": "My sister is a nurse, so she ___ work at night sometimes. I'm a teacher, so I ___ work at night.",
+          "choices": [["has to", "have to", "doesn't have to"], ["don't have to", "doesn't have to", "has to"]],
+          "answers": [0, 0],
+          "explanation": "She → has to. Guru tidak perlu bekerja malam → I don't have to.",
+          "misconception": "Memakai have to untuk he/she."
+        },
+        {
+          "id": "a2-u06-l3-q2", "type": "fill_blank", "category": "grammar", "topic": "have to", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with the correct form of have to.",
+          "text": "Tomorrow is a holiday, so we ___ get up early.",
+          "answers": [["don't have to", "do not have to"]],
+          "explanation": "Hari libur → tidak perlu bangun pagi → don't have to."
+        },
+        {
+          "id": "a2-u06-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "have to", "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence with have to.",
+          "sentence": "It isn't necessary for Rudi to wear a uniform.",
+          "cue": "Begin with: Rudi doesn't ...",
+          "answers": ["Rudi doesn't have to wear a uniform.", "Rudi does not have to wear a uniform."],
+          "explanation": "It isn't necessary = doesn't have to. Rudi = he → doesn't."
+        },
+        {
+          "id": "a2-u06-l3-q4", "type": "single_choice", "category": "grammar", "topic": "have to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct word: ___ you have to take this medicine every day?",
+          "options": ["Do", "Are", "Have", "Does"], "answer": 0,
+          "explanation": "Pertanyaan have to memakai do/does. You → Do."
+        },
+        {
+          "id": "a2-u06-l3-q5", "type": "error_identification", "category": "grammar", "topic": "have to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["My grandmother", "have to", "take", "two tablets a day."],
+          "errorIndex": 1, "correction": "has to",
+          "explanation": "My grandmother = she → has to."
+        },
+        {
+          "id": "a2-u06-l3-q6", "type": "translation", "category": "grammar", "topic": "have to", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kemarin saya harus menunggu dua jam di klinik.", "direction": "id-en",
+          "answers": [
+            "Yesterday I had to wait two hours at the clinic.",
+            "Yesterday I had to wait for two hours at the clinic.",
+            "I had to wait two hours at the clinic yesterday.",
+            "I had to wait for two hours at the clinic yesterday.",
+            "Yesterday I had to wait two hours in the clinic.",
+            "I had to wait two hours in the clinic yesterday."
+          ],
+          "explanation": "Harus (lampau) = had to. Menunggu dua jam = wait (for) two hours."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u06-l4-must-mustnt",
+      "title": "Must and Mustn't for Rules",
+      "summary": "Memahami aturan dan larangan dengan must / mustn't serta membedakannya dari don't have to.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan must untuk aturan dan mustn't untuk larangan",
+        "Membedakan mustn't (tidak boleh) dan don't have to (tidak perlu)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Must = wajib (aturan)\n**Must** dipakai untuk **aturan** atau kewajiban yang kuat, sering terlihat di tanda, peraturan, dan instruksi resmi.\n\n*Visitors **must** wash their hands before entering.* (Pengunjung wajib mencuci tangan.)\n\n### Mustn't = tidak boleh (larangan)\n**Mustn't** (must not) /ˈmʌsnt/ berarti **dilarang**.\n\n*You **mustn't** smoke in the hospital.* (Kamu tidak boleh merokok di rumah sakit.)\n\n### Pola\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Positif | subject + **must** + base verb | *You must wear a mask.* |\n| Negatif | subject + **mustn't** + base verb | *You mustn't run.* |\n\nSeperti should, **must** tidak berubah untuk he/she/it dan tidak memakai *to*: ✗ *He musts*, ✗ *must to wear*.\n\n### Perbedaan PALING penting: mustn't vs don't have to\n| mustn't | don't have to |\n| --- | --- |\n| **dilarang** — jangan lakukan! | **tidak perlu** — terserah kamu |\n| *You mustn't eat in the library.* | *You don't have to bring a pen. We have pens.* |\n\nDalam bahasa Indonesia keduanya bisa diterjemahkan *tidak harus*, sehingga sering tertukar. Ingat:\n- **mustn't** = *tidak boleh*\n- **don't have to** = *tidak perlu*\n\n### Must vs have to\nArtinya mirip dalam kalimat positif. Secara umum:\n- **must** sering dipakai untuk **aturan tertulis** dan perasaan pembicara sendiri: *I must call my mum tonight.*\n- **have to** untuk kewajiban dari luar (pekerjaan, jadwal): *I have to work on Saturday.*\n\nUntuk masa lalu, pakai **had to** (tidak ada *musted*).\n\n### Tanda-tanda umum\n| Tanda | Artinya |\n| --- | --- |\n| NO SMOKING | You mustn't smoke. |\n| KEEP QUIET | You must be quiet. |\n| STAFF ONLY | Visitors mustn't go in. |\n| NO ENTRY | You mustn't enter. |",
+        "examples": [
+          { "en": "Passengers must wear a seatbelt.", "id": "Penumpang wajib memakai sabuk pengaman.", "note": "aturan" },
+          { "en": "You mustn't use your phone in the operating room.", "id": "Kamu tidak boleh memakai ponsel di ruang operasi.", "note": "larangan" },
+          { "en": "You don't have to make an appointment. Just come in.", "id": "Kamu tidak perlu membuat janji. Langsung datang saja.", "note": "tidak perlu" },
+          { "en": "Children mustn't play near the pool without an adult.", "id": "Anak-anak tidak boleh bermain di dekat kolam tanpa orang dewasa.", "note": "larangan untuk keselamatan" }
+        ],
+        "vocabulary": [
+          { "word": "rule", "pos": "noun", "ipa": "/ruːl/", "meaning": "aturan", "example": "You must follow the hospital rules." },
+          { "word": "allowed", "pos": "adjective", "ipa": "/əˈlaʊd/", "meaning": "diizinkan, boleh", "example": "Smoking isn't allowed here." },
+          { "word": "seatbelt", "pos": "noun", "ipa": "/ˈsiːtbelt/", "meaning": "sabuk pengaman", "example": "You must wear a seatbelt." },
+          { "word": "visitor", "pos": "noun", "ipa": "/ˈvɪzɪtə/", "meaning": "pengunjung", "example": "Visitors mustn't enter after 8 p.m." },
+          { "word": "patient", "pos": "noun", "ipa": "/ˈpeɪʃnt/", "meaning": "pasien", "example": "Patients must rest after the operation." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + must + base verb", "example": "Staff must wear name badges.", "note": "Aturan/kewajiban kuat." },
+          { "pattern": "Subject + mustn't + base verb", "example": "You mustn't touch the paintings.", "note": "Larangan." },
+          { "pattern": "mustn't (tidak boleh) ≠ don't have to (tidak perlu)", "example": "You mustn't shout. / You don't have to come.", "note": "Jangan tertukar." }
+        ],
+        "mistakes": [
+          { "wrong": "You must to wear a seatbelt.", "right": "You must wear a seatbelt.", "why": "Setelah must langsung bentuk dasar, tanpa to." },
+          { "wrong": "It's free. You mustn't pay.", "right": "It's free. You don't have to pay.", "why": "Gratis berarti tidak perlu membayar (don't have to), bukan dilarang membayar." },
+          { "wrong": "Yesterday I musted go to the doctor.", "right": "Yesterday I had to go to the doctor.", "why": "Must tidak punya bentuk lampau. Gunakan had to." }
+        ],
+        "summary": "**must** = wajib (aturan), **mustn't** = **dilarang**. **don't have to** = **tidak perlu**. Must tidak berubah untuk he/she dan tidak memakai to. Untuk masa lalu pakai **had to**.",
+        "reviewCards": [
+          { "front": "mustn't", "back": "tidak boleh (larangan)" },
+          { "front": "don't have to", "back": "tidak perlu (terserah)" },
+          { "front": "NO SMOKING = You ___ smoke.", "back": "mustn't" },
+          { "front": "must (past)", "back": "had to" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u06-l4-q1", "type": "single_choice", "category": "grammar", "topic": "must/mustn't", "difficulty": 1, "stage": "guided",
+          "prompt": "You see a sign that says NO SMOKING. What does it mean?",
+          "options": ["You mustn't smoke here.", "You don't have to smoke here.", "You must smoke here.", "You should to smoke here."], "answer": 0,
+          "explanation": "Tanda larangan → mustn't (tidak boleh).",
+          "misconception": "Mengira don't have to juga berarti larangan."
+        },
+        {
+          "id": "a2-u06-l4-q2", "type": "matching", "category": "vocabulary", "topic": "must/mustn't", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each sign with its meaning.",
+          "pairs": [
+            { "left": "NO PHONES", "right": "You mustn't use your phone." },
+            { "left": "KEEP QUIET", "right": "You must be quiet." },
+            { "left": "STAFF ONLY", "right": "Visitors mustn't go in." },
+            { "left": "WASH YOUR HANDS", "right": "You must wash your hands." }
+          ],
+          "explanation": "Tanda larangan → mustn't; tanda perintah/aturan → must."
+        },
+        {
+          "id": "a2-u06-l4-q3", "type": "dropdown", "category": "grammar", "topic": "mustn't vs don't have to", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose mustn't or don't have to.",
+          "text": "In the hospital you ___ run in the corridors, but you ___ wear a mask in the garden. It's optional there.",
+          "choices": [["mustn't", "don't have to"], ["mustn't", "don't have to"]],
+          "answers": [0, 1],
+          "explanation": "Berlari di koridor dilarang → mustn't. Masker di taman opsional (tidak wajib) → don't have to."
+        },
+        {
+          "id": "a2-u06-l4-q4", "type": "multiple_select", "category": "grammar", "topic": "mustn't vs don't have to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences mean 'It is NOT necessary'? Choose all correct answers.",
+          "options": ["You don't have to pay. It's free.", "You mustn't park here.", "Students don't have to wear a tie on Fridays.", "You mustn't touch the paintings.", "He doesn't have to work on Sundays."],
+          "answers": [0, 2, 4],
+          "explanation": "Don't/doesn't have to = tidak perlu. Mustn't = dilarang, jadi kalimat 2 dan 4 tidak termasuk."
+        },
+        {
+          "id": "a2-u06-l4-q5", "type": "sentence_correction", "category": "grammar", "topic": "must/mustn't", "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "You must to wear a seatbelt in the car.",
+          "answers": ["You must wear a seatbelt in the car."],
+          "explanation": "Setelah must langsung bentuk dasar tanpa to."
+        },
+        {
+          "id": "a2-u06-l4-q6", "type": "fill_blank", "category": "grammar", "topic": "must/mustn't", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with must or mustn't.",
+          "text": "It's a hospital rule: patients ___ eat or drink anything for six hours before an operation.",
+          "answers": [["mustn't", "must not"]],
+          "explanation": "Aturan rumah sakit yang melarang makan/minum → mustn't."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u06-l5-healthy-habits-doctor",
+      "title": "Healthy Habits and Visiting the Doctor",
+      "summary": "Kosakata kebiasaan sehat, percakapan di klinik, dan memberi saran kesehatan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kolokasi kebiasaan sehat: get enough sleep, do exercise, take medicine",
+        "Membuat janji dan menjelaskan gejala di klinik",
+        "Memahami instruksi obat dan saran dokter"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba latihan berbicara, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kebiasaan sehat (healthy habits)\n| Kolokasi | Arti |\n| --- | --- |\n| **get** enough sleep | cukup tidur |\n| **do** exercise | berolahraga |\n| **eat** fruit and vegetables | makan buah dan sayur |\n| **drink** plenty of water | minum banyak air |\n| **avoid** junk food | menghindari makanan cepat saji/tidak sehat |\n| **stay up** late | begadang (kebiasaan buruk) |\n| **take** medicine / vitamins | minum obat / vitamin |\n\nPerhatikan: dalam bahasa Inggris kita **take** medicine, bukan ✗ *drink medicine* (kecuali obat cair).\n\n### Di klinik\n**Membuat janji (dengan resepsionis):**\n- *Can I make an appointment with Dr. Rahma, please?*\n- *Is tomorrow at ten OK?* — *Yes, that's fine.*\n\n**Menjelaskan gejala (dengan dokter):**\n- *I have a bad cough and a sore throat.*\n- *It started three days ago.* (Mulai tiga hari yang lalu.)\n- *I feel tired all the time.*\n\n**Saran dan instruksi dokter:**\n- *You should rest for two days.*\n- *You have to take these tablets three times a day.*\n- *You mustn't drive after taking this medicine.*\n- *You don't have to come back if you feel better.*\n\n### Memahami label obat\n| Instruksi | Arti |\n| --- | --- |\n| Take two tablets three times a day. | Minum 2 tablet, 3x sehari. |\n| after meals | sesudah makan |\n| before meals | sebelum makan |\n| Do not exceed the stated dose. | Jangan melebihi dosis. |\n\n### Prescription dan pharmacy\nDokter memberi **prescription** (resep), lalu kamu mengambil obat di **pharmacy** (apotek). *The doctor gave me a prescription, and I took it to the pharmacy.*\n\n### Menggabungkan semua modal\nUnit ini mengajarkan empat cara berbicara tentang kewajiban dan saran:\n\n| Modal | Fungsi |\n| --- | --- |\n| should | saran (ide baik) |\n| have to / must | wajib |\n| don't have to | tidak perlu |\n| mustn't | dilarang |",
+        "examples": [
+          { "en": "You should get at least seven hours of sleep.", "id": "Sebaiknya kamu tidur setidaknya tujuh jam.", "note": "get enough sleep" },
+          { "en": "Can I make an appointment with Dr. Rahma, please?", "id": "Bisakah saya membuat janji dengan Dr. Rahma?", "note": "membuat janji" },
+          { "en": "The cough started four days ago.", "id": "Batuknya mulai empat hari yang lalu.", "note": "menjelaskan kapan gejala mulai" },
+          { "en": "Take one tablet twice a day after meals.", "id": "Minum satu tablet dua kali sehari sesudah makan.", "note": "instruksi obat" }
+        ],
+        "vocabulary": [
+          { "word": "prescription", "pos": "noun", "ipa": "/prɪˈskrɪpʃn/", "meaning": "resep dokter", "example": "The doctor wrote a prescription for me." },
+          { "word": "pharmacy", "pos": "noun", "ipa": "/ˈfɑːməsi/", "meaning": "apotek", "example": "You can buy this at the pharmacy." },
+          { "word": "symptom", "pos": "noun", "ipa": "/ˈsɪmptəm/", "meaning": "gejala", "example": "What are your symptoms?" },
+          { "word": "junk food", "pos": "noun", "ipa": "/ˈdʒʌŋk fuːd/", "meaning": "makanan tidak sehat", "example": "You should avoid junk food." },
+          { "word": "avoid", "pos": "verb", "ipa": "/əˈvɔɪd/", "meaning": "menghindari", "example": "Avoid cold drinks when you have a sore throat." },
+          { "word": "healthy", "pos": "adjective", "ipa": "/ˈhelθi/", "meaning": "sehat", "example": "My grandfather has very healthy habits." }
+        ],
+        "grammar": [
+          { "pattern": "Can I make an appointment with + name?", "example": "Can I make an appointment with the dentist?", "note": "Membuat janji (can untuk permintaan, A1)." },
+          { "pattern": "Take + number + tablet(s) + frequency + after/before meals", "example": "Take two tablets twice a day before meals.", "note": "Instruksi obat." }
+        ],
+        "mistakes": [
+          { "wrong": "I drink medicine three times a day.", "right": "I take medicine three times a day.", "why": "Kolokasi yang benar: take medicine." },
+          { "wrong": "I go to the pharmacy to see the doctor.", "right": "I go to the clinic to see the doctor.", "why": "Pharmacy = apotek (membeli obat); dokter ada di clinic/hospital." },
+          { "wrong": "I make exercise every morning.", "right": "I do exercise every morning.", "why": "Kolokasi yang benar: do exercise." }
+        ],
+        "summary": "Kebiasaan sehat: **get enough sleep, do exercise, drink plenty of water, avoid junk food, take medicine**. Di klinik: buat janji (*Can I make an appointment...?*), jelaskan gejala, dan pahami saran dokter dengan **should, have to, must, mustn't, don't have to**.",
+        "reviewCards": [
+          { "front": "resep dokter", "back": "prescription" },
+          { "front": "apotek", "back": "pharmacy" },
+          { "front": "minum obat", "back": "take medicine" },
+          { "front": "berolahraga", "back": "do exercise" },
+          { "front": "sesudah makan", "back": "after meals" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u06-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "at the doctor's", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word: The doctor gave me a ___ for some medicine, and I took it to the pharmacy.",
+          "options": ["prescription", "appointment", "symptom", "temperature"], "answer": 0,
+          "explanation": "Kertas dari dokter yang dibawa ke apotek = prescription (resep).",
+          "misconception": "Memilih appointment (janji temu)."
+        },
+        {
+          "id": "a2-u06-l5-q2", "type": "speaking_response", "category": "speaking", "topic": "giving advice", "difficulty": 2, "stage": "independent",
+          "prompt": "Your friend says: 'I always feel tired, I have headaches, and I can't sleep well.' Give your friend advice for 30–45 seconds. Use should, shouldn't and at least one healthy-habit phrase.",
+          "targetPhrases": ["You should", "You shouldn't", "get enough sleep", "drink plenty of water"],
+          "sampleAnswer": "Oh no, I'm sorry to hear that. I think you should get enough sleep, maybe eight hours a night. You shouldn't stay up late or use your phone in bed. You should drink plenty of water and do some exercise, like walking in the morning. And you shouldn't drink coffee in the evening. If the headaches don't stop, you should see a doctor.",
+          "explanation": "Mulai dengan simpati (I'm sorry to hear that), beri beberapa saran dengan should/shouldn't, dan akhiri dengan saran ke dokter jika perlu."
+        },
+        {
+          "id": "a2-u06-l5-q3", "type": "single_choice", "category": "reading", "topic": "medicine instructions", "difficulty": 2, "stage": "independent",
+          "prompt": "Read the medicine label. Which sentence is true?",
+          "context": "**FLUAWAY tablets** — Take two tablets three times a day after meals. Do not drive after taking this medicine. Drink plenty of water. Keep away from children.",
+          "options": ["You must take the tablets after eating.", "You should take the tablets before breakfast.", "You can drive after taking the medicine.", "You have to take one tablet a day."], "answer": 0,
+          "explanation": "Label: after meals (sesudah makan). Dilarang menyetir, dan dosisnya dua tablet tiga kali sehari."
+        },
+        {
+          "id": "a2-u06-l5-q4", "type": "matching", "category": "vocabulary", "topic": "healthy habits", "difficulty": 1, "stage": "quiz",
+          "prompt": "Match the verbs with the words that go with them.",
+          "pairs": [
+            { "left": "get", "right": "enough sleep" },
+            { "left": "do", "right": "exercise" },
+            { "left": "take", "right": "medicine" },
+            { "left": "make", "right": "an appointment" },
+            { "left": "stay", "right": "up late" }
+          ],
+          "explanation": "Kolokasi: get enough sleep, do exercise, take medicine, make an appointment, stay up late."
+        },
+        {
+          "id": "a2-u06-l5-q5", "type": "fill_blank", "category": "grammar", "topic": "modals review", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the doctor's advice. Use must, mustn't or don't have to.",
+          "text": "You ___ stay in bed for two days — that's very important. You ___ go back to work before Monday. And you ___ come back next week if you feel better.",
+          "answers": [["must", "have to"], ["mustn't", "must not"], ["don't have to", "do not have to"]],
+          "explanation": "Sangat penting → must. Dilarang kembali bekerja sebelum Senin → mustn't. Tidak perlu kembali jika sudah sembuh → don't have to."
+        },
+        {
+          "id": "a2-u06-l5-q6", "type": "dialogue_completion", "category": "conversation", "topic": "at the doctor's", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best line for the patient.",
+          "dialogue": [
+            { "speaker": "Receptionist", "text": "Good morning, Green Valley Clinic." },
+            { "speaker": "Patient", "text": null },
+            { "speaker": "Receptionist", "text": "Of course. Is tomorrow at ten OK?" }
+          ],
+          "options": ["Good morning. Can I make an appointment with Dr. Rahma, please?", "I made an appointment yesterday.", "You should see a doctor.", "I have to a headache."], "answer": 0,
+          "explanation": "Resepsionis menawarkan waktu (tomorrow at ten), jadi pasien pasti meminta janji temu."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u06-t-q1", "type": "single_choice", "category": "grammar", "topic": "should", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the best option: A: I feel really tired every morning. B: You ___ go to bed earlier.",
+      "options": ["should", "shouldn't", "mustn't", "don't have to"], "answer": 0,
+      "explanation": "Saran yang baik untuk orang yang lelah: tidur lebih awal → should."
+    },
+    {
+      "id": "a2-u06-t-q2", "type": "fill_blank", "category": "grammar", "topic": "have to", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete with the correct form of have to.",
+      "text": "Last week I was ill, so I ___ stay in bed for three days.",
+      "answers": [["had to"]],
+      "explanation": "Kewajiban di masa lalu → had to."
+    },
+    {
+      "id": "a2-u06-t-q3", "type": "dropdown", "category": "grammar", "topic": "mustn't vs don't have to", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct options.",
+      "text": "In this library you ___ eat or drink, but you ___ be a member to read the books here.",
+      "choices": [["mustn't", "don't have to"], ["mustn't", "don't have to"]],
+      "answers": [0, 1],
+      "explanation": "Makan/minum dilarang → mustn't. Tidak perlu menjadi anggota → don't have to."
+    },
+    {
+      "id": "a2-u06-t-q4", "type": "error_identification", "category": "grammar", "topic": "have to", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["He", "doesn't", "has to", "wear a suit to work."],
+      "errorIndex": 2, "correction": "have to",
+      "explanation": "Setelah doesn't, gunakan bentuk dasar: doesn't have to."
+    },
+    {
+      "id": "a2-u06-t-q5", "type": "translation", "category": "grammar", "topic": "should", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Sebaiknya kamu tidak makan terlalu banyak gula.", "direction": "id-en",
+      "answers": ["You shouldn't eat too much sugar.", "You should not eat too much sugar.", "You shouldn't eat so much sugar.", "You should not eat so much sugar."],
+      "explanation": "Sebaiknya tidak = shouldn't. Terlalu banyak gula = too much sugar (sugar tak terhitung → much)."
+    },
+    {
+      "id": "a2-u06-t-q6", "type": "matching", "category": "grammar", "topic": "modals review", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each modal with its meaning.",
+      "pairs": [
+        { "left": "must", "right": "It's necessary. It's a rule." },
+        { "left": "mustn't", "right": "It's not allowed." },
+        { "left": "don't have to", "right": "It's not necessary." },
+        { "left": "should", "right": "It's a good idea." }
+      ],
+      "explanation": "must = wajib, mustn't = dilarang, don't have to = tidak perlu, should = saran."
+    },
+    {
+      "id": "a2-u06-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "illnesses", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the best word: I have a high ___. It's 39 degrees.",
+      "options": ["temperature", "cough", "prescription", "ankle"], "answer": 0,
+      "explanation": "39 derajat menunjukkan suhu tubuh tinggi → a high temperature (demam)."
+    }
+  ]
+}

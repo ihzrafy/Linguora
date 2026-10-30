@@ -1,0 +1,555 @@
+{
+  "slug": "c1-u07-nominalisation",
+  "number": 7,
+  "title": "Formal Register and Nominalisation",
+  "description": "Write in an academic, formal style by turning verbs and adjectives into nouns, building complex noun phrases and choosing formal vocabulary. Apply these skills to texts about economics, policy and institutions.",
+  "objectives": [
+    "Form nouns from verbs and adjectives using common suffixes",
+    "Rewrite clauses as noun phrases (nominalisation) to create academic style",
+    "Build and understand complex noun phrases with pre- and post-modification",
+    "Replace informal words and phrasal verbs with formal equivalents",
+    "Use key vocabulary of economics, policy and institutions"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u07-l1-noun-formation",
+      "title": "Decide → Decision: Forming Nouns",
+      "summary": "Learn the main suffixes used to form abstract nouns from verbs and adjectives, the building blocks of nominalisation.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form nouns from verbs with -tion, -ment, -al, -ance/-ence, -ure and -sis",
+        "Form nouns from adjectives with -ity, -ness, -ance/-ence and -th",
+        "Recognise spelling changes when suffixes are added"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is nominalisation?\n**Nominalisation** means expressing an action or quality as a **noun** rather than as a verb or adjective. Compare:\n- 'The company **decided** to expand.' (verb)\n- 'The company's **decision** to expand ...' (noun)\n\nAcademic, legal, scientific and official texts use many nominalisations because they make writing more **concise**, **objective** and **abstract**. Before you can nominalise sentences (Lesson 2), you need to know how nouns are formed.\n\n### Verb → noun suffixes\n| Suffix | Examples |\n|---|---|\n| -tion / -sion / -ation | decide → decision, reduce → reduction, implement → implementation, expand → expansion |\n| -ment | develop → development, assess → assessment, achieve → achievement |\n| -al | refuse → refusal, approve → approval, arrive → arrival |\n| -ance / -ence | maintain → maintenance, perform → performance, depend → dependence |\n| -ure | fail → failure, close → closure, expose → exposure |\n| -sis | analyse → analysis, emphasise → emphasis |\n| zero change | increase → (an) increase, decline → (a) decline, rise → (a) rise |\n\n### Adjective → noun suffixes\n| Suffix | Examples |\n|---|---|\n| -ity | available → availability, reliable → reliability, complex → complexity |\n| -ness | aware → awareness, effective → effectiveness |\n| -ance / -ence | important → importance, significant → significance, independent → independence |\n| -th | strong → strength, long → length, wide → width, deep → depth |\n| -cy | efficient → efficiency, accurate → accuracy |\n\n### Spelling changes\nWatch out for irregular forms: *maintain → maintenance* (not *maintainance*), *pronounce → pronunciation*, *explain → explanation*, *fail → failure*, *able → ability*, *strong → strength*.\n\n### Stress shift\nSome words change their stressed syllable: *eCONomy → ecoNOMic*, *aNAlyse → aNAlysis*, *PHOtograph → phoTOgraphy*. Checking the IPA in your dictionary helps you pronounce nominalisations correctly in presentations.\n\n### Zero-derivation nouns\nMany common verbs have identical noun forms: *increase, decrease, decline, rise, fall, change, cut, report, review, demand*. Note the stress difference in some: *to inCREASE* (verb) vs *an INcrease* (noun).\n\n### Indonesian note\nIndonesian uses affixes such as *ke-...-an* and *pe-...-an* in a similar way: *putus → keputusan* (decide → decision), *kurang → pengurangan* (reduce → reduction), *penting → kepentingan* (important → importance). Recognising this parallel makes English nominalisation easier.",
+        "examples": [
+          { "en": "The decision to close the factory was announced on Monday.", "id": "Keputusan untuk menutup pabrik itu diumumkan pada hari Senin.", "note": "decide → decision" },
+          { "en": "The failure of the scheme surprised many analysts.", "id": "Kegagalan skema itu mengejutkan banyak analis.", "note": "fail → failure" },
+          { "en": "The reliability of the data has been questioned.", "id": "Keandalan data tersebut telah dipertanyakan.", "note": "reliable → reliability" },
+          { "en": "The strength of the economy attracted foreign investors.", "id": "Kekuatan ekonomi menarik investor asing.", "note": "strong → strength" }
+        ],
+        "vocabulary": [
+          { "word": "implementation", "pos": "noun", "ipa": "/ˌɪmplɪmenˈteɪʃn/", "meaning": "pelaksanaan, penerapan", "example": "The implementation of the plan took two years." },
+          { "word": "maintenance", "pos": "noun", "ipa": "/ˈmeɪntənəns/", "meaning": "pemeliharaan, perawatan", "example": "Road maintenance is the responsibility of the province." },
+          { "word": "availability", "pos": "noun", "ipa": "/əˌveɪləˈbɪləti/", "meaning": "ketersediaan", "example": "The availability of credit has improved." },
+          { "word": "significance", "pos": "noun", "ipa": "/sɪɡˈnɪfɪkəns/", "meaning": "arti penting, signifikansi", "example": "The significance of the discovery was not immediately clear." },
+          { "word": "efficiency", "pos": "noun", "ipa": "/ɪˈfɪʃnsi/", "meaning": "efisiensi", "example": "New machines improved the efficiency of the factory." }
+        ],
+        "grammar": [
+          { "pattern": "verb + -tion / -ment / -al / -ance / -ure → noun", "example": "approve → approval: The approval of the budget was delayed.", "note": "Abstract nouns for actions." },
+          { "pattern": "adjective + -ity / -ness / -ance / -th / -cy → noun", "example": "accurate → accuracy: The accuracy of the figures is vital.", "note": "Abstract nouns for qualities." },
+          { "pattern": "the + noun + of + noun phrase", "example": "the expansion of the airport", "note": "Typical frame for a nominalisation." }
+        ],
+        "mistakes": [
+          { "wrong": "The government's decide to raise taxes caused anger.", "right": "The government's decision to raise taxes caused anger.", "why": "After a possessive, a noun is needed: 'decision'." },
+          { "wrong": "The maintainance of the building is expensive.", "right": "The maintenance of the building is expensive.", "why": "The noun is spelled 'maintenance'." },
+          { "wrong": "The strongness of the currency helped importers.", "right": "The strength of the currency helped importers.", "why": "The noun from 'strong' is 'strength'." }
+        ],
+        "summary": "Nominalisation turns verbs and adjectives into nouns (decide → decision, reliable → reliability). Learn the main suffixes (-tion, -ment, -al, -ance/-ence, -ure, -sis, -ity, -ness, -th, -cy), irregular spellings and zero-change nouns such as increase and decline.",
+        "reviewCards": [
+          { "front": "analyse → ?", "back": "analysis" },
+          { "front": "maintain → ?", "back": "maintenance" },
+          { "front": "available → ?", "back": "availability" },
+          { "front": "deep → ?", "back": "depth" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u07-l1-q1", "type": "matching", "category": "vocabulary", "topic": "noun formation", "difficulty": 2, "stage": "guided",
+          "prompt": "Match each verb with its noun form.",
+          "pairs": [
+            { "left": "decide", "right": "decision" },
+            { "left": "analyse", "right": "analysis" },
+            { "left": "fail", "right": "failure" },
+            { "left": "refuse", "right": "refusal" },
+            { "left": "maintain", "right": "maintenance" },
+            { "left": "assess", "right": "assessment" }
+          ],
+          "explanation": "Different verbs take different suffixes: -sion, -sis, -ure, -al, -ance and -ment."
+        },
+        {
+          "id": "c1-u07-l1-q2", "type": "fill_blank", "category": "vocabulary", "topic": "noun formation", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with the noun forms of the words in brackets.",
+          "text": "The ___ (fail) of the scheme surprised analysts, given the ___ (strong) of the economy and the ___ (available) of cheap credit.",
+          "answers": [["failure"], ["strength"], ["availability"]],
+          "explanation": "fail → failure, strong → strength, available → availability."
+        },
+        {
+          "id": "c1-u07-l1-q3", "type": "drag_drop", "category": "vocabulary", "topic": "noun formation", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "The ___ of the new traffic law led to a significant ___ in road accidents.",
+          "bank": ["introduction", "introduce", "reduction", "reduce", "reducing"],
+          "answers": ["introduction", "reduction"],
+          "explanation": "After 'The' and 'a significant', nouns are required: 'introduction' and 'reduction'."
+        },
+        {
+          "id": "c1-u07-l1-q4", "type": "single_choice", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which is the most academic, nominalised version of: 'The company expanded quickly, so it needed more staff'?",
+          "options": ["The rapid expansion of the company created a need for more staff.", "The company expanded quickly and so it needed more staff.", "Because the company was expanding quickly, it needed more people.", "The company quickly expanded, needing more staff."],
+          "answer": 0,
+          "explanation": "Option 1 turns 'expanded quickly' into the noun phrase 'the rapid expansion' and 'needed' into 'a need', which is typical of academic style."
+        },
+        {
+          "id": "c1-u07-l1-q5", "type": "error_identification", "category": "vocabulary", "topic": "noun formation", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The government's", "decide", "to raise fuel prices", "caused widespread anger."],
+          "errorIndex": 1,
+          "correction": "decision",
+          "explanation": "After the possessive 'The government's', a noun is required: 'decision'."
+        },
+        {
+          "id": "c1-u07-l1-q6", "type": "short_answer", "category": "vocabulary", "topic": "noun formation", "difficulty": 2, "stage": "quiz",
+          "prompt": "Write the noun form of the adjective 'reliable'.",
+          "answers": ["reliability"],
+          "explanation": "Adjectives ending in -able usually form nouns with -ability: reliable → reliability."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u07-l2-rewriting-clauses",
+      "title": "From Clauses to Noun Phrases",
+      "summary": "Rewrite verb-based sentences in a nominal style by turning verbs into nouns, adverbs into adjectives and using cause–effect verbs.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Transform clauses into noun phrases (prices rose sharply → the sharp rise in prices)",
+        "Use cause–effect verbs such as lead to, result in and contribute to",
+        "Replace conjunctions with prepositions such as due to and following"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The transformation process\nNominalising a sentence involves several small changes that work together:\n\n| Spoken / verbal style | Written / nominal style |\n|---|---|\n| verb: *prices **rose*** | noun: *the **rise** in prices* |\n| adverb: *rose **sharply*** | adjective: *the **sharp** rise* |\n| subject: ***the manager** resigned* | possessive / of-phrase: *the **manager's** resignation* / *the resignation **of the manager*** |\n| conjunction: ***because** it rained* | preposition: ***due to** heavy rainfall* |\n| two clauses: *X happened, so Y happened* | one clause with a cause verb: *X **led to** Y* |\n\n### Example\n- Verbal: 'Because prices rose sharply, consumers spent less.'\n- Nominal: '**The sharp rise in prices led to a reduction in consumer spending**.'\n\nThe nominal sentence has one main verb (*led to*); the information is packed into two noun phrases.\n\n### Cause–effect verbs\nOnce events are nouns, we need verbs to connect them:\n- *lead to, result in, cause, bring about, give rise to, contribute to, trigger* (cause → effect)\n- *result from, stem from, be due to, be attributable to* (effect → cause)\n\n'The closure of the factory **resulted in** a rise in unemployment.' / 'The rise in unemployment **stemmed from** the closure of the factory.'\n\n### Prepositions that replace conjunctions\n| Conjunction + clause | Preposition + noun phrase |\n|---|---|\n| because it rained heavily | due to / owing to / because of heavy rainfall |\n| after the manager resigned | following the manager's resignation |\n| while the building is being renovated | during the renovation of the building |\n| if they do not pay | in the event of non-payment |\n| although prices increased | despite the increase in prices |\n\n### Benefits and risks\nNominal style is concise and objective, and it lets you put the key idea at the start as the topic. However, too much nominalisation makes texts dense and hard to read ('*The implementation of the introduction of the regulation ...*'). Use it where it adds precision, and keep some active verbs.\n\n### Indonesian note\nIndonesian academic writing also uses nominal style (*Kenaikan harga yang tajam menyebabkan penurunan belanja konsumen*). Translating such sentences word by word into English often works well: *kenaikan harga* → 'the rise in prices', *penurunan* → 'a reduction / decline'.",
+        "examples": [
+          { "en": "The sharp rise in prices led to a reduction in consumer spending.", "id": "Kenaikan harga yang tajam menyebabkan penurunan belanja konsumen.", "note": "Two noun phrases linked by 'led to'." },
+          { "en": "Following the manager's resignation, the project was suspended.", "id": "Setelah pengunduran diri manajer, proyek itu ditangguhkan.", "note": "after he resigned → following his resignation." },
+          { "en": "The closure of the factory resulted in widespread unemployment.", "id": "Penutupan pabrik itu mengakibatkan pengangguran yang meluas.", "note": "Cause–effect verb." },
+          { "en": "The delay was due to the late delivery of materials.", "id": "Keterlambatan itu disebabkan oleh terlambatnya pengiriman bahan.", "note": "because materials were delivered late → due to the late delivery." }
+        ],
+        "vocabulary": [
+          { "word": "give rise to", "pos": "phrase", "ipa": "/ɡɪv raɪz tə/", "meaning": "menimbulkan, menyebabkan", "example": "The policy gave rise to considerable debate." },
+          { "word": "stem from", "pos": "phrasal verb", "ipa": "/stem frɒm/", "meaning": "berasal dari, bersumber dari", "example": "The problem stems from a lack of funding." },
+          { "word": "attributable to", "pos": "adjective phrase", "ipa": "/əˈtrɪbjətəbl tə/", "meaning": "dapat dikaitkan dengan / disebabkan oleh", "example": "The decline is largely attributable to higher costs." },
+          { "word": "suspension", "pos": "noun", "ipa": "/səˈspenʃn/", "meaning": "penangguhan, penghentian sementara", "example": "The suspension of flights affected thousands." },
+          { "word": "consumer spending", "pos": "noun phrase", "ipa": "/kənˈsjuːmə ˈspendɪŋ/", "meaning": "belanja konsumen", "example": "Consumer spending fell in the third quarter." }
+        ],
+        "grammar": [
+          { "pattern": "adjective + noun + in/of + noun phrase", "example": "a steady increase in demand / the rapid growth of cities", "note": "rise/increase/fall + in; growth/expansion + of." },
+          { "pattern": "Noun phrase + lead to / result in / cause + noun phrase", "example": "The introduction of the tax led to a fall in sales.", "note": "Cause → effect." },
+          { "pattern": "Noun phrase + stem from / be due to + noun phrase", "example": "The shortage stems from poor planning.", "note": "Effect → cause." }
+        ],
+        "mistakes": [
+          { "wrong": "The rise of prices led to protests.", "right": "The rise in prices led to protests.", "why": "We say a rise / increase / fall / drop IN something." },
+          { "wrong": "The closure of the factory resulted to unemployment.", "right": "The closure of the factory resulted in unemployment.", "why": "'Result in' expresses an effect; 'result from' expresses a cause." },
+          { "wrong": "Due to it rained heavily, the match was cancelled.", "right": "Due to heavy rain, the match was cancelled.", "why": "'Due to' is a preposition and must be followed by a noun phrase." }
+        ],
+        "summary": "To nominalise, turn verbs into nouns, adverbs into adjectives, subjects into possessives or of-phrases, and conjunctions into prepositions (due to, following, despite). Link noun phrases with cause–effect verbs such as lead to, result in and stem from. Use nominal style for concision, but avoid overloading sentences.",
+        "reviewCards": [
+          { "front": "Prices rose sharply. (noun phrase)", "back": "the sharp rise in prices" },
+          { "front": "after the manager resigned (preposition)", "back": "following the manager's resignation" },
+          { "front": "result in vs result from", "back": "result in = cause effect; result from = come from a cause" },
+          { "front": "stem from", "back": "berasal dari, bersumber dari" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u07-l2-q1", "type": "single_choice", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the best nominalised version of: 'Prices rose sharply, which worried consumers.'",
+          "options": ["The sharp rise in prices worried consumers.", "The sharply rising of prices worried consumers.", "The prices' rise sharp worried consumers.", "Prices' sharp rising was worrying the consumers."],
+          "answer": 0,
+          "explanation": "The verb 'rose' becomes the noun 'rise', the adverb 'sharply' becomes the adjective 'sharp', and 'prices' follows the preposition 'in'."
+        },
+        {
+          "id": "c1-u07-l2-q2", "type": "sentence_transformation", "category": "academic", "topic": "nominalisation", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence in a nominal, academic style.",
+          "sentence": "Because the population is ageing, healthcare costs are increasing.",
+          "cue": "Begin with: The ageing",
+          "answers": ["The ageing of the population is increasing healthcare costs.", "The ageing of the population is leading to an increase in healthcare costs.", "The ageing of the population is leading to higher healthcare costs.", "The ageing of the population is causing healthcare costs to increase.", "The ageing of the population has led to an increase in healthcare costs.", "The ageing of the population is resulting in higher healthcare costs.", "The ageing of the population is resulting in an increase in healthcare costs.", "The ageing population is increasing healthcare costs.", "The ageing population is leading to an increase in healthcare costs.", "The ageing population is leading to higher healthcare costs.", "The ageing population is causing healthcare costs to increase.", "The ageing population is driving up healthcare costs.", "The ageing population has led to an increase in healthcare costs.", "The ageing population is resulting in higher healthcare costs.", "The ageing population is resulting in an increase in healthcare costs."],
+          "explanation": "The clause 'the population is ageing' becomes the noun phrase 'the ageing of the population' (or 'the ageing population'), which becomes the subject of a cause–effect verb."
+        },
+        {
+          "id": "c1-u07-l2-q3", "type": "sentence_transformation", "category": "academic", "topic": "nominalisation", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence in a nominal style.",
+          "sentence": "The council decided to close the library, and residents protested.",
+          "cue": "Begin with: The council's decision",
+          "answers": ["The council's decision to close the library led to protests from residents.", "The council's decision to close the library led to protests by residents.", "The council's decision to close the library led to residents' protests.", "The council's decision to close the library led residents to protest.", "The council's decision to close the library caused residents to protest.", "The council's decision to close the library resulted in protests from residents.", "The council's decision to close the library resulted in protests by residents.", "The council's decision to close the library resulted in residents protesting.", "The council's decision to close the library prompted protests from residents.", "The council's decision to close the library provoked protests from residents.", "The council's decision to close the library was met with protests from residents.", "The council's decision to close the library triggered protests from residents."],
+          "explanation": "'The council decided' becomes 'The council's decision', and the second event is linked with a cause–effect verb such as 'led to' or 'resulted in'."
+        },
+        {
+          "id": "c1-u07-l2-q4", "type": "dropdown", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct words.",
+          "text": "The ___ of the factory ___ to a significant ___ in local unemployment.",
+          "choices": [["closure", "close", "closed"], ["led", "resulted", "caused"], ["increase", "increased", "increasing"]],
+          "answers": [0, 0, 0],
+          "explanation": "'The closure' is the noun form; 'led to' is the correct cause–effect verb with 'to' ('resulted in', 'caused' without 'to'); 'a significant increase in' is the noun phrase."
+        },
+        {
+          "id": "c1-u07-l2-q5", "type": "matching", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each clause with its nominalised equivalent.",
+          "pairs": [
+            { "left": "when the company was founded", "right": "at the time of the company's foundation" },
+            { "left": "because it rained heavily", "right": "owing to heavy rainfall" },
+            { "left": "after the manager resigned", "right": "following the manager's resignation" },
+            { "left": "if customers do not pay", "right": "in the event of non-payment" },
+            { "left": "while the building is being renovated", "right": "during the renovation of the building" }
+          ],
+          "explanation": "Conjunctions with clauses become prepositions with noun phrases: at the time of, owing to, following, in the event of, during."
+        },
+        {
+          "id": "c1-u07-l2-q6", "type": "multiple_select", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the sentences written in a nominal, academic style.",
+          "options": ["The implementation of the policy resulted in a decline in emissions.", "They put the policy in place and emissions went down.", "Increased investment in education is essential for economic growth.", "We need to invest more in schools so the economy can grow.", "There has been a significant reduction in poverty since 2010."],
+          "answers": [0, 2, 4],
+          "explanation": "Options 1, 3 and 5 use noun phrases (implementation, decline, investment, growth, reduction). Options 2 and 4 use informal verbal style."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u07-l3-complex-noun-phrases",
+      "title": "Building Complex Noun Phrases",
+      "summary": "Understand and build long noun phrases with pre-modifiers and post-modifiers, and keep subject–verb agreement with the head noun.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Identify the head noun in long noun phrases",
+        "Add pre-modifiers (adjectives, nouns) and post-modifiers (prepositional phrases, participles, relative clauses, infinitives)",
+        "Make the verb agree with the head noun"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The structure of a noun phrase\nAcademic and journalistic English packs a great deal of information into **noun phrases**. Every noun phrase has a **head noun**, which can be modified before and after:\n\n| Determiner | Pre-modifiers | HEAD | Post-modifiers |\n|---|---|---|---|\n| the | government's controversial | **decision** | to raise fuel prices in rural areas |\n| a | recent independent | **report** | on the long-term effects of air pollution |\n| the | rapid | **growth** | of online retail |\n\n### Pre-modifiers\nThese come **before** the head:\n- adjectives: *a **significant** increase*\n- nouns used as adjectives: *a **price** increase, **road safety** measures, a **customer satisfaction** survey*\n- participles: *a **growing** problem, **reduced** costs*\n- possessives: *the **council's** proposal*\n\nNoun + noun combinations are very compact: 'measures to improve the safety of roads' → '**road safety measures**'. Note that the first noun is usually singular: *a **ten-year** plan*, not *ten-years plan*.\n\n### Post-modifiers\nThese come **after** the head:\n- prepositional phrases: *a report **on air pollution***\n- participle phrases: *the data **collected in 2023***, *people **living in rural areas***\n- relative clauses: *the policy **which was introduced last year***\n- to-infinitives: *a decision **to raise prices***, *an attempt **to reduce costs***\n\n### Finding the head and agreeing with it\nIn long noun phrases, the verb agrees with the **head noun**, not with the nearest noun:\n- '**The number** of students who have applied this year **is** unusually high.' (head: *number*)\n- '**The effects** of the new policy on small businesses **are** still unclear.' (head: *effects*)\n\nNote also that inside the relative clause, the verb agrees with the noun it refers to: 'students who **have** applied'.\n\n### Reading strategy\nWhen you meet a very long subject in an academic text, find the **main verb** first, then the head noun of the subject. Everything else is extra information. For example: '[A recent report on the long-term effects of air pollution in major Asian cities] **has called for** stricter regulations.' Head: *report*; verb: *has called for*.\n\n### Indonesian note\nIndonesian places most modifiers **after** the head (*laporan terbaru tentang dampak polusi udara*), while English places adjectives and noun modifiers **before** it (*a recent air pollution report*) and prepositional phrases after it. Watch the order of English pre-modifiers carefully.",
+        "examples": [
+          { "en": "The rapid growth of online retail has transformed city centres.", "id": "Pertumbuhan pesat ritel daring telah mengubah pusat-pusat kota.", "note": "Head: growth." },
+          { "en": "A recent report on the long-term effects of air pollution has called for stricter regulations.", "id": "Sebuah laporan terbaru tentang dampak jangka panjang polusi udara menyerukan peraturan yang lebih ketat.", "note": "Head: report; verb: has called for." },
+          { "en": "The number of students who have applied this year is unusually high.", "id": "Jumlah mahasiswa yang mendaftar tahun ini luar biasa tinggi.", "note": "Verb agrees with 'number'." },
+          { "en": "New road safety measures will be introduced next year.", "id": "Langkah-langkah keselamatan jalan yang baru akan diterapkan tahun depan.", "note": "Noun + noun pre-modification." }
+        ],
+        "vocabulary": [
+          { "word": "measure", "pos": "noun", "ipa": "/ˈmeʒə(r)/", "meaning": "langkah, tindakan (kebijakan)", "example": "The government introduced new measures to control prices." },
+          { "word": "long-term", "pos": "adjective", "ipa": "/ˌlɒŋ ˈtɜːm/", "meaning": "jangka panjang", "example": "The long-term effects are still unknown." },
+          { "word": "retail", "pos": "noun", "ipa": "/ˈriːteɪl/", "meaning": "ritel, penjualan eceran", "example": "Online retail continues to grow." },
+          { "word": "framework", "pos": "noun", "ipa": "/ˈfreɪmwɜːk/", "meaning": "kerangka (kerja)", "example": "The new regulatory framework was approved." },
+          { "word": "call for", "pos": "phrasal verb", "ipa": "/kɔːl fɔː(r)/", "meaning": "menyerukan, menuntut", "example": "Experts have called for urgent action." }
+        ],
+        "grammar": [
+          { "pattern": "determiner + adjective(s) + noun modifier + HEAD", "example": "a major international trade agreement", "note": "Pre-modification." },
+          { "pattern": "HEAD + preposition phrase / participle / relative clause / to-infinitive", "example": "an attempt to reduce costs in the manufacturing sector", "note": "Post-modification." },
+          { "pattern": "Verb agrees with the head noun", "example": "The cost of the new buildings is high.", "note": "Head: cost (singular)." }
+        ],
+        "mistakes": [
+          { "wrong": "The number of students who has applied is high.", "right": "The number of students who have applied is high.", "why": "'Who' refers to 'students' (plural), so the relative clause verb is 'have'." },
+          { "wrong": "The effects of the new policy on small businesses is unclear.", "right": "The effects of the new policy on small businesses are unclear.", "why": "The verb agrees with the head noun 'effects' (plural)." },
+          { "wrong": "a five-years plan", "right": "a five-year plan", "why": "Nouns used as pre-modifiers are normally singular." }
+        ],
+        "summary": "Complex noun phrases have a head noun with pre-modifiers (adjectives, noun modifiers, possessives) and post-modifiers (prepositional phrases, participles, relative clauses, infinitives). Identify the head to understand long subjects and to make the verb agree correctly.",
+        "reviewCards": [
+          { "front": "Head of 'the cost of the new buildings'", "back": "cost (→ singular verb)" },
+          { "front": "measures to improve the safety of roads (compact)", "back": "road safety measures" },
+          { "front": "a ten-___ plan", "back": "year (singular)" },
+          { "front": "call for", "back": "menyerukan, menuntut" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u07-l3-q1", "type": "word_order", "category": "academic", "topic": "complex noun phrases", "difficulty": 3, "stage": "guided",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "rapid", "growth", "of", "online", "retail", "has", "transformed", "city", "centres"],
+          "explanation": "Subject noun phrase 'The rapid growth of online retail' (head: growth) + verb 'has transformed' + object 'city centres'."
+        },
+        {
+          "id": "c1-u07-l3-q2", "type": "sentence_reconstruction", "category": "academic", "topic": "complex noun phrases", "difficulty": 3, "stage": "independent",
+          "prompt": "Put the fragments in the correct order to make one sentence.",
+          "fragments": ["A recent report", "on the long-term effects", "of air pollution", "in major Asian cities", "has called for stricter regulations."],
+          "explanation": "The head noun 'report' is followed by a chain of prepositional phrases; the main verb 'has called for' comes only after the whole subject."
+        },
+        {
+          "id": "c1-u07-l3-q3", "type": "sentence_transformation", "category": "academic", "topic": "complex noun phrases", "difficulty": 4, "stage": "independent",
+          "prompt": "Combine the three sentences into one sentence with a complex noun phrase as the subject.",
+          "sentence": "The plan was proposed by the city council. It aims to reduce traffic in the city centre. It has been widely criticised.",
+          "cue": "Begin with: The plan",
+          "answers": ["The plan proposed by the city council to reduce traffic in the city centre has been widely criticised.", "The plan to reduce traffic in the city centre proposed by the city council has been widely criticised.", "The plan proposed by the city council to reduce traffic in the city centre has been criticised widely.", "The plan proposed by the city council, which aims to reduce traffic in the city centre, has been widely criticised.", "The plan proposed by the city council which aims to reduce traffic in the city centre has been widely criticised.", "The plan proposed by the city council aimed at reducing traffic in the city centre has been widely criticised.", "The plan, which was proposed by the city council and aims to reduce traffic in the city centre, has been widely criticised.", "The plan which was proposed by the city council and aims to reduce traffic in the city centre has been widely criticised.", "The plan proposed by the city council aiming to reduce traffic in the city centre has been widely criticised."],
+          "explanation": "The head 'plan' is post-modified by a participle phrase ('proposed by the city council') and an infinitive ('to reduce traffic ...'), followed by the main verb 'has been widely criticised'."
+        },
+        {
+          "id": "c1-u07-l3-q4", "type": "single_choice", "category": "academic", "topic": "complex noun phrases", "difficulty": 3, "stage": "quiz",
+          "prompt": "What is the head noun of this phrase: 'the government's controversial decision to raise fuel prices in rural areas'?",
+          "options": ["decision", "government's", "prices", "areas"],
+          "answer": 0,
+          "explanation": "'Decision' is the head: 'the government's controversial' pre-modifies it, and 'to raise fuel prices in rural areas' post-modifies it."
+        },
+        {
+          "id": "c1-u07-l3-q5", "type": "error_identification", "category": "grammar", "topic": "complex noun phrases", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The number of students", "who has applied", "this year", "is unusually high."],
+          "errorIndex": 1,
+          "correction": "who have applied",
+          "explanation": "'Who' refers to 'students' (plural), so the verb in the relative clause is 'have applied'. The main verb 'is' correctly agrees with 'the number'."
+        },
+        {
+          "id": "c1-u07-l3-q6", "type": "drag_drop", "category": "academic", "topic": "complex noun phrases", "difficulty": 3, "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Recent ___ in renewable energy ___ have significantly reduced the cost of solar panels.",
+          "bank": ["advances", "advance", "technology", "technological", "advancing"],
+          "answers": ["advances", "technology"],
+          "explanation": "The plural head noun 'advances' agrees with 'have'. 'Renewable energy technology' is a compound noun phrase after 'in'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u07-l4-formal-vocabulary",
+      "title": "Obtain, Require, Commence: Formal Vocabulary",
+      "summary": "Replace informal words, phrasal verbs and vague expressions with precise formal equivalents in academic and official writing.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Replace common phrasal verbs with single-word formal verbs",
+        "Avoid informal features such as contractions, vague quantifiers and slang",
+        "Choose register appropriate to reports, emails and essays"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What makes writing formal?\nFormal register is created by many small choices: vocabulary, grammar (nominalisation, passives), sentence length and the absence of conversational features. This lesson focuses on **vocabulary**.\n\n### Phrasal verbs → single-word verbs\nPhrasal verbs are not wrong in formal writing, but many have more precise Latin-based equivalents:\n\n| Informal | Formal |\n|---|---|\n| get | obtain, receive, acquire |\n| find out | discover, ascertain, determine |\n| look into | investigate, examine |\n| go up / go down | increase, rise / decrease, decline |\n| put off | postpone, defer |\n| set up | establish |\n| carry out | conduct, perform |\n| point out | indicate, note |\n| need | require |\n| help | assist |\n| start / begin | commence, initiate |\n| buy | purchase |\n| enough | sufficient, adequate |\n| a lot of | a large number of (countable), a considerable amount of (uncountable), many, much |\n\n### Other informal features to avoid\n- **Contractions**: *don't, it's, can't* → *do not, it is, cannot*.\n- **Vague words**: *thing, stuff, nice, good, bad, big* → precise alternatives (*factor, materials, beneficial, detrimental, substantial*).\n- **Intensifiers**: *really, very, totally, pretty* → *considerably, extremely, entirely, fairly* or remove them.\n- **Direct questions and exclamations** in essays → indirect statements ('It is worth considering whether ...').\n- **Personal pronouns** in some academic genres → impersonal structures ('It can be argued that ...').\n\n### Collocation matters\nFormal words must still collocate correctly: *conduct research* (not *make research*), *obtain permission*, *raise awareness*, *pose a threat*, *draw a conclusion*, *reach an agreement*.\n\n### Do not overdo it\nFormal does not mean complicated. 'Utilise' instead of 'use' or 'in the event that' instead of 'if' in every sentence makes writing pompous. Choose formal vocabulary when it adds precision or is expected by the genre (official letters, reports, academic essays).\n\n### Indonesian note\nIndonesian also distinguishes formal and informal vocabulary (*mendapatkan* vs *dapat*, *membeli* vs *beli*, *memulai* vs *mulai*). In English, the main contrast is often between Germanic phrasal verbs (*find out*) and Latin-based single verbs (*ascertain*).",
+        "examples": [
+          { "en": "We wish to obtain further information regarding the programme.", "id": "Kami ingin memperoleh informasi lebih lanjut mengenai program tersebut.", "note": "get → obtain; about → regarding." },
+          { "en": "The committee will commence its review in January.", "id": "Komite akan memulai peninjauannya pada bulan Januari.", "note": "start → commence." },
+          { "en": "The police are investigating the cause of the fire.", "id": "Polisi sedang menyelidiki penyebab kebakaran itu.", "note": "look into → investigate." },
+          { "en": "Sales figures declined considerably in the third quarter.", "id": "Angka penjualan menurun cukup signifikan pada kuartal ketiga.", "note": "went down a lot → declined considerably." }
+        ],
+        "vocabulary": [
+          { "word": "ascertain", "pos": "verb", "ipa": "/ˌæsəˈteɪn/", "meaning": "memastikan, mencari tahu dengan pasti", "example": "We were unable to ascertain the cause of the error." },
+          { "word": "commence", "pos": "verb", "ipa": "/kəˈmens/", "meaning": "memulai (formal)", "example": "Construction will commence in May." },
+          { "word": "sufficient", "pos": "adjective", "ipa": "/səˈfɪʃnt/", "meaning": "cukup, memadai", "example": "There is insufficient evidence to support the claim." },
+          { "word": "defer", "pos": "verb", "ipa": "/dɪˈfɜː(r)/", "meaning": "menunda", "example": "The decision has been deferred until next month." },
+          { "word": "detrimental", "pos": "adjective", "ipa": "/ˌdetrɪˈmentl/", "meaning": "merugikan, berbahaya", "example": "Lack of sleep is detrimental to health." }
+        ],
+        "grammar": [
+          { "pattern": "phrasal verb → formal single verb", "example": "carry out a survey → conduct a survey", "note": "More precise and formal." },
+          { "pattern": "a lot of → a large number of + plural / a considerable amount of + uncountable", "example": "a large number of applicants / a considerable amount of time", "note": "Formal quantifiers." },
+          { "pattern": "contraction → full form", "example": "It's unclear → It is unclear", "note": "No contractions in formal writing." }
+        ],
+        "mistakes": [
+          { "wrong": "The study found that a lot of participants preferred online learning.", "right": "The study found that many participants preferred online learning.", "why": "'A lot of' is informal; use 'many' or 'a large number of'." },
+          { "wrong": "We will make a research on consumer habits.", "right": "We will conduct research on consumer habits.", "why": "'Research' is uncountable and collocates with 'conduct' or 'carry out'." },
+          { "wrong": "The results weren't really good.", "right": "The results were disappointing.", "why": "Avoid contractions and vague evaluations; choose a precise adjective." }
+        ],
+        "summary": "Formal writing prefers precise single-word verbs (obtain, ascertain, investigate, commence), formal quantifiers (a large number of, a considerable amount of), full forms instead of contractions, and accurate collocations (conduct research). Use formal vocabulary for precision, not to sound complicated.",
+        "reviewCards": [
+          { "front": "find out (formal)", "back": "ascertain / discover / determine" },
+          { "front": "put off (formal)", "back": "postpone / defer" },
+          { "front": "a lot of applicants (formal)", "back": "a large number of applicants" },
+          { "front": "make research?", "back": "No: conduct / carry out research" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u07-l4-q1", "type": "matching", "category": "vocabulary", "topic": "formal vocabulary", "difficulty": 2, "stage": "guided",
+          "prompt": "Match each informal word or phrase with its formal equivalent.",
+          "pairs": [
+            { "left": "get", "right": "obtain" },
+            { "left": "find out", "right": "ascertain" },
+            { "left": "look into", "right": "investigate" },
+            { "left": "go up", "right": "increase" },
+            { "left": "need", "right": "require" },
+            { "left": "start", "right": "commence" }
+          ],
+          "explanation": "Formal writing often replaces common verbs and phrasal verbs with more precise Latin-based verbs."
+        },
+        {
+          "id": "c1-u07-l4-q2", "type": "dropdown", "category": "writing", "topic": "formal vocabulary", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the most appropriate words for a formal email.",
+          "text": "We wish to ___ further information regarding the ___ date of the project, as we ___ written confirmation by Friday.",
+          "choices": [["obtain", "get hold of", "grab"], ["commencement", "kick-off", "starting off"], ["require", "gotta have", "kind of need"]],
+          "answers": [0, 0, 0],
+          "explanation": "'Obtain', 'commencement' and 'require' are formal and precise; the alternatives are informal or slang."
+        },
+        {
+          "id": "c1-u07-l4-q3", "type": "error_identification", "category": "writing", "topic": "formal vocabulary", "difficulty": 2, "stage": "independent",
+          "prompt": "Find the part of the sentence that is too informal for an academic essay.",
+          "segments": ["The study", "found that", "a lot of", "participants preferred online learning."],
+          "errorIndex": 2,
+          "correction": "many",
+          "explanation": "'A lot of' is informal. In academic writing, use 'many' or 'a large number of'."
+        },
+        {
+          "id": "c1-u07-l4-q4", "type": "single_choice", "category": "writing", "topic": "formal vocabulary", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence is most appropriate for a formal report?",
+          "options": ["Sales figures declined considerably in the third quarter.", "Sales went down quite a lot in Q3.", "Sales dropped big time in the third quarter.", "Sales didn't do great in the third quarter."],
+          "answer": 0,
+          "explanation": "'Declined considerably' is precise and formal. The other sentences use informal phrasal verbs, slang or contractions."
+        },
+        {
+          "id": "c1-u07-l4-q5", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "formal vocabulary", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "The committee will **commence** its review of the regulations in January.",
+          "options": ["begin", "complete", "postpone", "cancel"],
+          "answer": 0,
+          "explanation": "'Commence' is a formal word for 'begin' or 'start'."
+        },
+        {
+          "id": "c1-u07-l4-q6", "type": "translation", "category": "writing", "topic": "formal vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into formal English using 'obtain' and 'further'.",
+          "source": "Kami ingin memperoleh informasi lebih lanjut mengenai program ini.",
+          "direction": "id-en",
+          "answers": ["We would like to obtain further information about this programme.", "We would like to obtain further information regarding this programme.", "We would like to obtain further information concerning this programme.", "We would like to obtain further information on this programme.", "We would like to obtain further information about this program.", "We would like to obtain further information regarding this program.", "We would like to obtain further information concerning this program.", "We would like to obtain further information on this program.", "We wish to obtain further information about this programme.", "We wish to obtain further information regarding this programme.", "We wish to obtain further information concerning this programme.", "We wish to obtain further information on this programme.", "We wish to obtain further information about this program.", "We wish to obtain further information regarding this program.", "We wish to obtain further information concerning this program.", "We wish to obtain further information on this program."],
+          "explanation": "'Memperoleh' = 'obtain', 'informasi lebih lanjut' = 'further information', and 'mengenai' can be 'regarding', 'concerning' or 'about'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u07-l5-economics-policy",
+      "title": "The Language of Economics and Policy",
+      "summary": "Use key vocabulary of economics, public policy and institutions, and rewrite informal texts in an academic style.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use vocabulary such as fiscal, inflation, subsidy, expenditure and legislation accurately",
+        "Use common collocations for policies and institutions",
+        "Rewrite an informal paragraph in academic style"
+      ],
+      "completionCriteria": "Read all sections, complete the writing task and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Key concepts\nTexts about economics and policy combine nominal style with specialised vocabulary. Here are some essential terms:\n\n| Term | Meaning |\n|---|---|\n| fiscal policy | government decisions about taxation and public spending |\n| monetary policy | central bank decisions about interest rates and money supply |\n| inflation | a general rise in prices over time |\n| subsidy | money paid by the government to reduce costs or prices |\n| expenditure | the amount of money spent |\n| revenue | income, especially from taxes or sales |\n| legislation | laws, considered collectively |\n| stakeholder | a person or group with an interest in a decision |\n| regulation | an official rule; the process of controlling an activity |\n\n### Policy collocations\nPolicies and institutions go with specific verbs:\n- **implement / introduce / adopt / enforce** a policy, regulation or law\n- **allocate / cut / increase** funding or expenditure\n- **curb / control / tackle** inflation\n- **raise / lower / cut** interest rates / taxes\n- **pass / repeal / amend** legislation\n- **consult** stakeholders\n\nAvoid wrong collocations such as '*make a policy into effect*' or '*do a law*'.\n\n### Rewriting informal text: a worked example\n**Informal**: 'The government spent a lot less on schools last year, so lots of teachers lost their jobs and people got really angry.'\n\n**Academic**: 'The substantial reduction in government expenditure on education last year resulted in widespread redundancies among teachers and considerable public dissatisfaction.'\n\nChanges made:\n1. *spent a lot less* → *the substantial reduction in government expenditure* (nominalisation + formal vocabulary)\n2. *on schools* → *on education* (more precise, general term)\n3. *so ... lost their jobs* → *resulted in widespread redundancies* (cause–effect verb + noun)\n4. *people got really angry* → *considerable public dissatisfaction* (nominalisation, formal intensifier)\n\n### Institutions\n*The central bank, the ministry of finance, the legislature, regulatory bodies, local authorities, non-governmental organisations (NGOs)*. In formal writing, refer to institutions by their function rather than with informal labels ('the government' rather than 'they').\n\n### Note on numbers and trends\nUse precise trend language: *rose by 3%*, *fell to 2.1%*, *remained stable*, *peaked at*, *a gradual decline*, *a sharp increase*. Remember 'rise **by**' (amount of change) vs 'rise **to**' (final level).\n\n### Indonesian note\nUseful equivalents: *kebijakan fiskal* (fiscal policy), *inflasi* (inflation), *subsidi* (subsidy), *belanja negara* (government expenditure), *pendapatan negara* (state revenue), *pemangku kepentingan* (stakeholders), *undang-undang* (legislation).",
+        "examples": [
+          { "en": "The central bank raised interest rates in an attempt to curb inflation.", "id": "Bank sentral menaikkan suku bunga dalam upaya mengendalikan inflasi.", "note": "Monetary policy collocations." },
+          { "en": "The government plans to reduce fuel subsidies gradually over three years.", "id": "Pemerintah berencana mengurangi subsidi bahan bakar secara bertahap selama tiga tahun.", "note": "subsidy." },
+          { "en": "Public expenditure on healthcare rose by 4% last year.", "id": "Belanja publik untuk layanan kesehatan naik 4% tahun lalu.", "note": "rise by = amount of change." },
+          { "en": "All stakeholders were consulted before the legislation was passed.", "id": "Semua pemangku kepentingan dikonsultasikan sebelum undang-undang itu disahkan.", "note": "Policy-making process." }
+        ],
+        "vocabulary": [
+          { "word": "fiscal", "pos": "adjective", "ipa": "/ˈfɪskl/", "meaning": "fiskal (terkait pajak dan belanja negara)", "example": "The government announced new fiscal measures." },
+          { "word": "inflation", "pos": "noun", "ipa": "/ɪnˈfleɪʃn/", "meaning": "inflasi", "example": "Inflation reached 6% last year." },
+          { "word": "expenditure", "pos": "noun", "ipa": "/ɪkˈspendɪtʃə(r)/", "meaning": "pengeluaran, belanja", "example": "Expenditure on infrastructure has doubled." },
+          { "word": "revenue", "pos": "noun", "ipa": "/ˈrevənjuː/", "meaning": "pendapatan", "example": "Tax revenue fell during the recession." },
+          { "word": "stakeholder", "pos": "noun", "ipa": "/ˈsteɪkhəʊldə(r)/", "meaning": "pemangku kepentingan", "example": "The plan was discussed with all stakeholders." },
+          { "word": "legislation", "pos": "noun", "ipa": "/ˌledʒɪsˈleɪʃn/", "meaning": "undang-undang, peraturan perundangan", "example": "New legislation protects consumers' data." }
+        ],
+        "grammar": [
+          { "pattern": "implement / introduce / enforce + a policy / regulation", "example": "The ministry will implement the new regulation in 2026.", "note": "Policy collocations." },
+          { "pattern": "rise / fall + by (amount) / to (level)", "example": "Inflation fell by 1% to 3.5%.", "note": "Trend language." },
+          { "pattern": "expenditure / investment + on + area", "example": "expenditure on education", "note": "Preposition 'on'." }
+        ],
+        "mistakes": [
+          { "wrong": "The government made the policy into effect last year.", "right": "The government implemented the policy last year.", "why": "Use the collocation 'implement a policy' (or 'put a policy into effect')." },
+          { "wrong": "Expenditure for education increased.", "right": "Expenditure on education increased.", "why": "'Expenditure' and 'spending' take 'on'." },
+          { "wrong": "Inflation rose with 2%.", "right": "Inflation rose by 2%.", "why": "Use 'by' to express the amount of change." }
+        ],
+        "summary": "Economics and policy texts use precise terms (fiscal, inflation, subsidy, expenditure, revenue, legislation, stakeholder) and fixed collocations (implement a policy, curb inflation, pass legislation). Combine them with nominalisation and formal vocabulary to rewrite informal texts in academic style.",
+        "reviewCards": [
+          { "front": "fiscal vs monetary policy", "back": "fiscal = taxes and spending (government); monetary = interest rates and money supply (central bank)" },
+          { "front": "___ inflation (control)", "back": "curb / control / tackle inflation" },
+          { "front": "pemangku kepentingan", "back": "stakeholder" },
+          { "front": "rise by vs rise to", "back": "by = amount of change; to = final level" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u07-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "economics vocabulary", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "The government's **fiscal** policy for next year focuses on lowering income tax and increasing spending on infrastructure.",
+          "options": ["relating to government taxation and spending", "relating to the protection of the environment", "relating to relations with other countries", "relating to physical health and fitness"],
+          "answer": 0,
+          "explanation": "'Fiscal' refers to government revenue (taxes) and public spending, as the examples in the sentence show."
+        },
+        {
+          "id": "c1-u07-l5-q2", "type": "essay", "category": "writing", "topic": "academic rewriting", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the following informal paragraph in an academic style. Use nominalisation, formal vocabulary and at least one cause–effect verb (lead to, result in, contribute to).\n\n'Lots of people moved from villages to big cities in the last 20 years. Because of this, cities got really crowded and houses got way more expensive. The government tried to build more cheap flats, but it didn't help much.'",
+          "minWords": 60,
+          "maxWords": 140,
+          "rubric": "academic-rewriting",
+          "explanation": "A strong answer uses noun phrases such as 'large-scale rural-to-urban migration', 'a substantial increase in housing costs' and 'the construction of affordable housing', avoids contractions and informal intensifiers, and links ideas with verbs such as 'resulted in' or 'contributed to'."
+        },
+        {
+          "id": "c1-u07-l5-q3", "type": "matching", "category": "vocabulary", "topic": "economics vocabulary", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each term with its definition.",
+          "pairs": [
+            { "left": "inflation", "right": "a general rise in prices over time" },
+            { "left": "subsidy", "right": "money paid by the government to reduce costs or prices" },
+            { "left": "expenditure", "right": "the amount of money spent" },
+            { "left": "revenue", "right": "income, especially from taxes or sales" },
+            { "left": "legislation", "right": "laws, considered collectively" },
+            { "left": "stakeholder", "right": "a person or group with an interest in a decision" }
+          ],
+          "explanation": "These terms are essential for reading and writing about economics and public policy."
+        },
+        {
+          "id": "c1-u07-l5-q4", "type": "fill_blank", "category": "vocabulary", "topic": "economics vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with the most suitable word or phrase.",
+          "text": "Prices rose by 9% last year, so the central bank raised interest rates in an attempt to curb ___.",
+          "answers": [["inflation", "rising prices", "price rises"]],
+          "explanation": "'Curb inflation' is a strong collocation: raising interest rates is a standard tool for controlling a general rise in prices."
+        },
+        {
+          "id": "c1-u07-l5-q5", "type": "sentence_transformation", "category": "academic", "topic": "academic rewriting", "difficulty": 4, "stage": "quiz",
+          "prompt": "Rewrite the sentence in an academic, nominal style.",
+          "sentence": "The government spent less on public services, and people were unhappy.",
+          "cue": "Begin with: The reduction",
+          "answers": ["The reduction in government spending on public services led to public dissatisfaction.", "The reduction in government spending on public services caused public dissatisfaction.", "The reduction in government spending on public services resulted in public dissatisfaction.", "The reduction in government expenditure on public services led to public dissatisfaction.", "The reduction in government expenditure on public services caused public dissatisfaction.", "The reduction in government expenditure on public services resulted in public dissatisfaction.", "The reduction in spending on public services led to public dissatisfaction.", "The reduction in spending on public services caused public dissatisfaction.", "The reduction in spending on public services resulted in public dissatisfaction.", "The reduction in public service spending led to public dissatisfaction.", "The reduction in government spending on public services led to dissatisfaction among the public.", "The reduction in government spending on public services resulted in dissatisfaction among the public.", "The reduction in government spending on public services led to widespread dissatisfaction.", "The reduction in government spending on public services made people unhappy.", "The reduction in spending on public services made people unhappy."],
+          "explanation": "'Spent less' becomes 'the reduction in government spending/expenditure', and the result is linked with a cause–effect verb and a noun such as 'dissatisfaction'."
+        },
+        {
+          "id": "c1-u07-l5-q6", "type": "single_choice", "category": "vocabulary", "topic": "policy collocations", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct collocation: 'The ministry plans to ___ the new regulations next year.'",
+          "options": ["implement", "perform", "do", "fulfil"],
+          "answer": 0,
+          "explanation": "We 'implement' (or introduce, enforce) regulations. 'Perform', 'do' and 'fulfil' do not collocate with 'regulations' in this meaning."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u07-t-q1", "type": "short_answer", "category": "vocabulary", "topic": "noun formation", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Write the noun form of the verb 'analyse'.",
+      "answers": ["analysis"],
+      "explanation": "analyse → analysis (plural: analyses)."
+    },
+    {
+      "id": "c1-u07-t-q2", "type": "sentence_transformation", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence in a nominal style.",
+      "sentence": "Unemployment rose sharply, which caused social unrest.",
+      "cue": "Begin with: The sharp rise",
+      "answers": ["The sharp rise in unemployment caused social unrest.", "The sharp rise in unemployment led to social unrest.", "The sharp rise in unemployment resulted in social unrest.", "The sharp rise in unemployment gave rise to social unrest.", "The sharp rise in unemployment triggered social unrest."],
+      "explanation": "'Unemployment rose sharply' becomes 'the sharp rise in unemployment', followed by a cause–effect verb."
+    },
+    {
+      "id": "c1-u07-t-q3", "type": "dropdown", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "There has been a significant ___ in the number of tourists, largely due to the ___ of visa requirements.",
+      "choices": [["increase", "increasing", "increased"], ["relaxation", "relax", "relaxing"]],
+      "answers": [0, 0],
+      "explanation": "Both gaps require nouns: 'a significant increase' and 'the relaxation of visa requirements'."
+    },
+    {
+      "id": "c1-u07-t-q4", "type": "matching", "category": "vocabulary", "topic": "formal vocabulary", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each formal word with its everyday equivalent.",
+      "pairs": [
+        { "left": "assist", "right": "help" },
+        { "left": "purchase", "right": "buy" },
+        { "left": "sufficient", "right": "enough" },
+        { "left": "inform", "right": "tell" },
+        { "left": "reside", "right": "live" }
+      ],
+      "explanation": "Formal writing often uses Latin-based words where speech uses shorter everyday words."
+    },
+    {
+      "id": "c1-u07-t-q5", "type": "error_identification", "category": "vocabulary", "topic": "noun formation", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["The implement", "of the new tax", "caused confusion", "among small businesses."],
+      "errorIndex": 0,
+      "correction": "The implementation",
+      "explanation": "A noun is required after 'The': 'implementation'."
+    },
+    {
+      "id": "c1-u07-t-q6", "type": "single_choice", "category": "writing", "topic": "formal register", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Which sentence is most appropriate in an academic report?",
+      "options": ["It is evident that the policy has had a limited impact.", "It's pretty clear the policy hasn't done much.", "Obviously, the policy didn't really work.", "So basically the policy kind of failed."],
+      "answer": 0,
+      "explanation": "Option 1 uses an impersonal structure, no contractions and precise vocabulary ('limited impact')."
+    },
+    {
+      "id": "c1-u07-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "economics vocabulary", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the meaning of the word in bold.",
+      "context": "The **stakeholders** in the new port project include local fishing communities, foreign investors and the provincial government.",
+      "options": ["people or groups with an interest in a project", "people who build wooden structures", "competitors trying to stop a project", "government inspectors only"],
+      "answer": 0,
+      "explanation": "Stakeholders are all the people or organisations affected by or interested in a decision or project."
+    }
+  ]
+}

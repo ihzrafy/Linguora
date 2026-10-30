@@ -1,0 +1,538 @@
+{
+  "slug": "a2-u09-work",
+  "number": 9,
+  "title": "Work and Jobs",
+  "description": "Mendeskripsikan pekerjaan dan tempat kerja, menjelaskan cara orang bekerja dengan adverbs of manner, membicarakan keinginan dan kebutuhan dengan verb + to-infinitive, serta memakai much, many, a lot of, a little, dan a few.",
+  "objectives": [
+    "Menggunakan kosakata pekerjaan, tempat kerja, dan kegiatan kerja",
+    "Membentuk dan memakai adverbs of manner (carefully, well, hard)",
+    "Menggunakan want to, need to, would like to, dan kata kerja lain + to-infinitive",
+    "Memilih much, many, a lot of, a little, atau a few dengan tepat"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u09-l1-jobs-workplaces",
+      "title": "Jobs and Workplaces",
+      "summary": "Kosakata pekerjaan, tempat kerja, dan kegiatan kerja serta cara menanyakan pekerjaan seseorang.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyebutkan pekerjaan, tempat kerja, dan tugas utamanya",
+        "Menanyakan dan menjelaskan pekerjaan: What do you do? I work as/in/for..."
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menanyakan pekerjaan\nPertanyaan paling umum adalah **What do you do?** (Apa pekerjaanmu?). Pertanyaan ini memakai present simple, jadi artinya *pekerjaan rutin*, bukan *sedang melakukan apa*.\n\n| Pertanyaan | Jawaban |\n| --- | --- |\n| What do you do? | *I'm **a** nurse. / I'm **an** engineer.* |\n| Where do you work? | *I work **in** a hospital. / I work **at** Sinar Bank.* |\n| Who do you work for? | *I work **for** a small IT company.* |\n| What does your job involve? | *I answer phone calls and help customers.* |\n\n### Jangan lupa a/an\nDalam bahasa Inggris, pekerjaan **selalu** memakai *a/an* setelah *I'm / He's / She's*:\n- ✗ *She is engineer.* → ✓ *She is **an** engineer.*\n\n### Preposisi penting\n- **work as** + pekerjaan: *I work **as** a receptionist.*\n- **work in** + tempat/bidang: *in an office, in a hospital, in tourism*\n- **work at** + tempat spesifik: *at the airport, at Green Valley Café*\n- **work for** + perusahaan/orang: *for a bank, for my uncle*\n\n### Pekerjaan, tempat, dan tugas\n| Job | Workplace | What they do |\n| --- | --- | --- |\n| chef | kitchen, restaurant | cooks meals |\n| nurse | hospital, clinic | looks after patients |\n| mechanic | garage | repairs cars |\n| receptionist | hotel, office | welcomes visitors, answers the phone |\n| accountant | office | manages money and taxes |\n| architect | office | designs buildings |\n| farmer | farm | grows food, keeps animals |\n| shop assistant | shop | serves customers |\n| pilot | plane, airport | flies planes |\n| factory worker | factory | makes products |\n\n### Kata kerja tugas\n*serve customers* (melayani pelanggan), *repair* (memperbaiki), *design* (merancang), *look after* (merawat), *manage* (mengelola), *deal with problems* (menangani masalah).",
+        "examples": [
+          { "en": "What do you do? — I'm an accountant. I work for a small company.", "id": "Apa pekerjaanmu? — Saya akuntan. Saya bekerja di perusahaan kecil.", "note": "an + accountant; work for" },
+          { "en": "My uncle works as a mechanic in a garage near the market.", "id": "Paman saya bekerja sebagai montir di bengkel dekat pasar.", "note": "work as / work in" },
+          { "en": "Receptionists welcome visitors and answer the phone.", "id": "Resepsionis menyambut tamu dan mengangkat telepon.", "note": "tugas pekerjaan" },
+          { "en": "She works at the airport. She's a flight attendant.", "id": "Dia bekerja di bandara. Dia pramugari.", "note": "work at + tempat spesifik" }
+        ],
+        "vocabulary": [
+          { "word": "mechanic", "pos": "noun", "ipa": "/məˈkænɪk/", "meaning": "montir", "example": "The mechanic repaired my motorbike." },
+          { "word": "accountant", "pos": "noun", "ipa": "/əˈkaʊntənt/", "meaning": "akuntan", "example": "An accountant manages money for a company." },
+          { "word": "architect", "pos": "noun", "ipa": "/ˈɑːkɪtekt/", "meaning": "arsitek", "example": "The architect designed our new school." },
+          { "word": "receptionist", "pos": "noun", "ipa": "/rɪˈsepʃənɪst/", "meaning": "resepsionis", "example": "The receptionist gave us our room key." },
+          { "word": "factory", "pos": "noun", "ipa": "/ˈfæktri/", "meaning": "pabrik", "example": "He works in a shoe factory." },
+          { "word": "serve", "pos": "verb", "ipa": "/sɜːv/", "meaning": "melayani", "example": "Shop assistants serve customers." }
+        ],
+        "grammar": [
+          { "pattern": "I'm a/an + job", "example": "I'm an engineer.", "note": "Selalu pakai a/an." },
+          { "pattern": "work as + job / in + place / at + specific place / for + company", "example": "She works as a nurse at City Hospital.", "note": "Preposisi kerja." }
+        ],
+        "mistakes": [
+          { "wrong": "My sister is engineer.", "right": "My sister is an engineer.", "why": "Pekerjaan memakai a/an." },
+          { "wrong": "What is your work? — I'm doing my work.", "right": "What do you do? — I'm a teacher.", "why": "Untuk menanyakan pekerjaan, pertanyaan yang alami adalah What do you do?" },
+          { "wrong": "I work like a waiter.", "right": "I work as a waiter.", "why": "Sebagai (pekerjaan) = as, bukan like." }
+        ],
+        "summary": "Tanyakan pekerjaan dengan **What do you do?** Jawab dengan **I'm a/an + job**. Gunakan **work as** (pekerjaan), **in/at** (tempat), dan **for** (perusahaan). Hafalkan pasangan job – workplace – tugas.",
+        "reviewCards": [
+          { "front": "Apa pekerjaanmu?", "back": "What do you do?" },
+          { "front": "Saya bekerja sebagai resepsionis.", "back": "I work as a receptionist." },
+          { "front": "montir", "back": "mechanic (works in a garage)" },
+          { "front": "She is ___ architect.", "back": "an" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u09-l1-q1", "type": "single_choice", "category": "vocabulary", "topic": "jobs", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct job: A ___ repairs cars in a garage.",
+          "options": ["mechanic", "chef", "nurse", "architect"], "answer": 0,
+          "explanation": "Orang yang memperbaiki mobil di bengkel = mechanic (montir).",
+          "misconception": "Memilih architect (arsitek) karena keduanya terdengar teknis."
+        },
+        {
+          "id": "a2-u09-l1-q2", "type": "matching", "category": "vocabulary", "topic": "workplaces", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each job with its workplace.",
+          "pairs": [
+            { "left": "chef", "right": "restaurant kitchen" },
+            { "left": "nurse", "right": "hospital" },
+            { "left": "mechanic", "right": "garage" },
+            { "left": "farmer", "right": "farm" },
+            { "left": "factory worker", "right": "factory" }
+          ],
+          "explanation": "chef → kitchen, nurse → hospital, mechanic → garage, farmer → farm, factory worker → factory."
+        },
+        {
+          "id": "a2-u09-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "talking about jobs", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct prepositions.",
+          "text": "I work ___ a nurse ___ a big hospital, and my husband works ___ an insurance company.",
+          "answers": [["as"], ["in", "at"], ["for"]],
+          "explanation": "work as + pekerjaan, work in/at + tempat, work for + perusahaan."
+        },
+        {
+          "id": "a2-u09-l1-q4", "type": "dialogue_completion", "category": "conversation", "topic": "talking about jobs", "difficulty": 1, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Tom", "text": "So, what do you do?" },
+            { "speaker": "Lestari", "text": null }
+          ],
+          "options": ["I'm an accountant. I work for a small company.", "I'm doing my homework.", "I do it every day.", "I'm fine, thanks."], "answer": 0,
+          "explanation": "What do you do? menanyakan pekerjaan, jadi jawabannya menyebutkan pekerjaan."
+        },
+        {
+          "id": "a2-u09-l1-q5", "type": "error_identification", "category": "grammar", "topic": "talking about jobs", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["My sister", "is", "engineer", "at a car factory."],
+          "errorIndex": 2, "correction": "an engineer",
+          "explanation": "Pekerjaan memakai a/an. Engineer diawali bunyi vokal → an engineer."
+        },
+        {
+          "id": "a2-u09-l1-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "work activities", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best word: In a clothes shop, a shop assistant ___ customers and answers their questions.",
+          "options": ["serves", "repairs", "designs", "grows"], "answer": 0,
+          "explanation": "Pelayan toko melayani pelanggan → serves customers."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u09-l2-adverbs-of-manner",
+      "title": "Adverbs of Manner: Carefully, Well, Hard",
+      "summary": "Menjelaskan cara seseorang melakukan sesuatu dengan adverbs of manner.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk adverb of manner dari adjective (+ -ly)",
+        "Menggunakan adverb tidak beraturan: well, fast, hard, late",
+        "Meletakkan adverb pada posisi yang benar"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Adjective vs adverb\n- **Adjective** menjelaskan **kata benda** (orang/benda): *She is a **careful** driver.* (pengemudi yang hati-hati)\n- **Adverb of manner** menjelaskan **kata kerja** — *bagaimana* sesuatu dilakukan: *She drives **carefully**.* (menyetir dengan hati-hati)\n\nDalam bahasa Indonesia kita sering memakai *dengan* + adjective (*dengan hati-hati, dengan cepat*). Dalam bahasa Inggris, adjective berubah menjadi adverb.\n\n### Pembentukan\n| Aturan | Contoh |\n| --- | --- |\n| adjective + **-ly** | quick → quick**ly**, slow → slow**ly**, careful → careful**ly**, quiet → quiet**ly** |\n| konsonan + **y** → **-ily** | easy → eas**ily**, happy → happ**ily**, angry → angr**ily** |\n| **-le** → **-ly** | gentle → gent**ly**, terrible → terrib**ly** |\n\n### Adverb tidak beraturan\n| Adjective | Adverb | Contoh |\n| --- | --- | --- |\n| good | **well** | *He speaks English **well**.* |\n| fast | **fast** | *She types **fast**.* |\n| hard | **hard** | *They work **hard**.* |\n| late | **late** | *The train arrived **late**.* |\n| early | **early** | *I got up **early**.* |\n\n**Hati-hati:** *hardly* **bukan** adverb dari *hard*. *Hardly* berarti *hampir tidak*: *I hardly slept.* (Saya hampir tidak tidur.) Begitu juga ✗ *fastly* tidak ada.\n\n### Posisi adverb\nAdverb of manner biasanya diletakkan **setelah kata kerja** atau **setelah objek**:\n- *She speaks **quietly**.* (setelah kata kerja)\n- *He finished the report **quickly**.* (setelah objek)\n\nJangan letakkan di antara kata kerja dan objek: ✗ *She speaks **well** English.* ✓ *She speaks English **well**.*\n\n### Dengan very / really\nKamu bisa menambahkan *very* atau *really*: *He works **very hard**. She sings **really beautifully**.*\n\n### Kata kerja be, look, feel\nSetelah *be, look, feel, seem*, gunakan **adjective**, bukan adverb: *You look **tired**. The food tastes **good**.* (✗ *looks tiredly*)",
+        "examples": [
+          { "en": "Please drive carefully. The road is wet.", "id": "Tolong menyetir dengan hati-hati. Jalannya basah.", "note": "careful → carefully" },
+          { "en": "Our new colleague speaks Japanese very well.", "id": "Rekan kerja baru kami berbicara bahasa Jepang dengan sangat baik.", "note": "good → well" },
+          { "en": "The nurses work hard every day.", "id": "Para perawat bekerja keras setiap hari.", "note": "hard → hard (bukan hardly)" },
+          { "en": "She answered all the questions easily.", "id": "Dia menjawab semua pertanyaan dengan mudah.", "note": "easy → easily" }
+        ],
+        "vocabulary": [
+          { "word": "carefully", "pos": "adverb", "ipa": "/ˈkeəfəli/", "meaning": "dengan hati-hati", "example": "Check the numbers carefully." },
+          { "word": "quickly", "pos": "adverb", "ipa": "/ˈkwɪkli/", "meaning": "dengan cepat", "example": "He finished the job quickly." },
+          { "word": "well", "pos": "adverb", "ipa": "/wel/", "meaning": "dengan baik", "example": "She plays the guitar well." },
+          { "word": "politely", "pos": "adverb", "ipa": "/pəˈlaɪtli/", "meaning": "dengan sopan", "example": "Always speak to customers politely." },
+          { "word": "patiently", "pos": "adverb", "ipa": "/ˈpeɪʃntli/", "meaning": "dengan sabar", "example": "The teacher explained it patiently." }
+        ],
+        "grammar": [
+          { "pattern": "verb (+ object) + adverb", "example": "He reads the contract carefully.", "note": "Adverb setelah kata kerja/objek." },
+          { "pattern": "good → well; fast → fast; hard → hard", "example": "She cooks well.", "note": "Adverb tidak beraturan." }
+        ],
+        "mistakes": [
+          { "wrong": "She speaks English very good.", "right": "She speaks English very well.", "why": "Untuk menjelaskan kata kerja (speaks), pakai adverb well." },
+          { "wrong": "He works very hardly.", "right": "He works very hard.", "why": "Adverb dari hard adalah hard; hardly berarti hampir tidak." },
+          { "wrong": "She speaks well English.", "right": "She speaks English well.", "why": "Adverb tidak diletakkan di antara kata kerja dan objek." }
+        ],
+        "summary": "**Adverb of manner** menjelaskan *bagaimana* sesuatu dilakukan: adjective + **-ly** (*carefully, easily*). Tidak beraturan: **well, fast, hard, late, early**. Letakkan setelah kata kerja atau objek. *Hardly* ≠ *hard*.",
+        "reviewCards": [
+          { "front": "good (adverb)", "back": "well" },
+          { "front": "easy (adverb)", "back": "easily" },
+          { "front": "hard (adverb)", "back": "hard (hardly = hampir tidak)" },
+          { "front": "Dia berbicara bahasa Inggris dengan baik.", "back": "She speaks English well." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u09-l2-q1", "type": "single_choice", "category": "grammar", "topic": "adverbs of manner", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: Please drive ___. The road is wet.",
+          "options": ["carefully", "careful", "carefuly", "care"], "answer": 0,
+          "explanation": "Menjelaskan cara menyetir (kata kerja) → adverb: carefully.",
+          "misconception": "Memakai adjective careful untuk menjelaskan kata kerja."
+        },
+        {
+          "id": "a2-u09-l2-q2", "type": "fill_blank", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with adverbs made from the adjectives in brackets.",
+          "text": "Rudi is a good cook. He cooks ___ (good). He is also a fast worker. He works ___ (fast).",
+          "answers": [["well"], ["fast"]],
+          "explanation": "good → well, fast → fast. Keduanya adverb tidak beraturan."
+        },
+        {
+          "id": "a2-u09-l2-q3", "type": "matching", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each adjective with its adverb.",
+          "pairs": [
+            { "left": "quiet", "right": "quietly" },
+            { "left": "easy", "right": "easily" },
+            { "left": "gentle", "right": "gently" },
+            { "left": "good", "right": "well" },
+            { "left": "hard", "right": "hard" }
+          ],
+          "explanation": "quiet → quietly; easy → easily (y → -ily); gentle → gently (-le → -ly); good → well; hard → hard."
+        },
+        {
+          "id": "a2-u09-l2-q4", "type": "error_identification", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["Our manager", "speaks", "English", "very good."],
+          "errorIndex": 3, "correction": "very well.",
+          "explanation": "Menjelaskan cara berbicara (kata kerja) → adverb well."
+        },
+        {
+          "id": "a2-u09-l2-q5", "type": "word_order", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["He", "finished", "the", "report", "quickly."],
+          "acceptedAnswers": ["He quickly finished the report."],
+          "explanation": "Adverb of manner biasanya setelah objek: finished the report quickly."
+        },
+        {
+          "id": "a2-u09-l2-q6", "type": "multiple_select", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["He works hard.", "She sings beautiful.", "They arrived late.", "He drives very fastly.", "The nurse spoke gently to the child."],
+          "answers": [0, 2, 4],
+          "explanation": "Seharusnya She sings beautifully dan He drives very fast (fastly tidak ada)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u09-l3-verb-to-infinitive",
+      "title": "Want To, Need To, Would Like To",
+      "summary": "Kata kerja yang diikuti to-infinitive untuk membicarakan keinginan, kebutuhan, dan rencana.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan want, need, would like, hope, plan, decide, learn + to + base verb",
+        "Membedakan verb + to-infinitive dan verb + -ing (like, enjoy)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Verb + to + base verb\nBeberapa kata kerja harus diikuti **to + bentuk dasar** (*to-infinitive*) jika ada kata kerja kedua.\n\n*I **want to find** a new job.* (Saya ingin mencari pekerjaan baru.)\n\n| Kata kerja | Arti | Contoh |\n| --- | --- | --- |\n| **want to** | ingin | *I want to work abroad.* |\n| **need to** | perlu | *We need to finish this today.* |\n| **would like to** ('d like to) | ingin (lebih sopan) | *I'd like to speak to the manager.* |\n| **hope to** | berharap | *She hopes to get a promotion.* |\n| **plan to** | berencana | *They plan to open a new branch.* |\n| **decide to** | memutuskan | *He decided to change jobs.* |\n| **learn to** | belajar (keterampilan) | *I learned to drive last year.* |\n| **try to** | berusaha | *Try to arrive on time.* |\n\n### Bentuk negatif dan pertanyaan\nUntuk kata kerja biasa seperti *want* dan *need*, gunakan **do/does/did**:\n- *I **don't want to** work at night.*\n- ***Does** she **need to** wear a uniform?*\n- *He **didn't plan to** stay so long.*\n\n### Would like to vs want to\n**Would like to** artinya sama dengan *want to*, tetapi **lebih sopan**. Sangat cocok untuk wawancara kerja dan situasi formal:\n- *I want to see the manager.* (terdengar menuntut)\n- *I'**d like to** see the manager, please.* (sopan)\n\nBentuk singkat: *I'd, you'd, she'd, we'd, they'd*. Negatif: *I wouldn't like to...*\n\n### Like + -ing vs would like to\n| like + -ing (A1) | would like to |\n| --- | --- |\n| kesukaan umum | keinginan tertentu |\n| *I **like working** with people.* | *I'**d like to work** in a hotel one day.* |\n\nKata kerja lain yang diikuti **-ing**: *enjoy, love, hate, finish*. ✓ *I enjoy working here.* ✗ *I enjoy to work here.*\n\n### Kesalahan umum\n- Lupa *to*: ✗ *I want work.* → ✓ *I want **to** work.*\n- Memakai -ing: ✗ *I need finishing.* → ✓ *I need **to finish**.*\n- *to* + bentuk lampau: ✗ *He decided to changed.* → ✓ *He decided **to change**.*",
+        "examples": [
+          { "en": "I want to find a job in a hotel.", "id": "Saya ingin mencari pekerjaan di hotel.", "note": "want + to + base" },
+          { "en": "We need to send the report before Friday.", "id": "Kami perlu mengirim laporan sebelum Jumat.", "note": "need + to + base" },
+          { "en": "I'd like to apply for the receptionist job.", "id": "Saya ingin melamar posisi resepsionis.", "note": "would like to = sopan" },
+          { "en": "She decided to leave her job and start a business.", "id": "Dia memutuskan keluar dari pekerjaannya dan memulai usaha.", "note": "decide + to + base" }
+        ],
+        "vocabulary": [
+          { "word": "hope", "pos": "verb", "ipa": "/həʊp/", "meaning": "berharap", "example": "I hope to get a better job next year." },
+          { "word": "decide", "pos": "verb", "ipa": "/dɪˈsaɪd/", "meaning": "memutuskan", "example": "He decided to study accounting." },
+          { "word": "promotion", "pos": "noun", "ipa": "/prəˈməʊʃn/", "meaning": "kenaikan jabatan", "example": "She hopes to get a promotion." },
+          { "word": "apply for", "pos": "phrasal verb", "ipa": "/əˈplaɪ fɔː/", "meaning": "melamar (pekerjaan)", "example": "I'd like to apply for this job." },
+          { "word": "business", "pos": "noun", "ipa": "/ˈbɪznəs/", "meaning": "usaha, bisnis", "example": "They plan to start a small business." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + want/need/hope/plan/decide + to + base verb", "example": "They want to hire two new staff.", "note": "Jangan lupa to." },
+          { "pattern": "Subject + would like ('d like) + to + base verb", "example": "I'd like to work part-time.", "note": "Lebih sopan dari want to." },
+          { "pattern": "Subject + like/enjoy/love + verb-ing", "example": "I enjoy helping customers.", "note": "Kesukaan umum." }
+        ],
+        "mistakes": [
+          { "wrong": "I want work in a bank.", "right": "I want to work in a bank.", "why": "Want diikuti to + base verb." },
+          { "wrong": "She decided change her job.", "right": "She decided to change her job.", "why": "Decide diikuti to + base verb." },
+          { "wrong": "I enjoy to work with children.", "right": "I enjoy working with children.", "why": "Enjoy diikuti verb-ing, bukan to-infinitive." }
+        ],
+        "summary": "**want, need, would like, hope, plan, decide, learn, try + to + base verb**. *Would like to* lebih sopan daripada *want to*. Bedakan dengan **like/enjoy/love + -ing** untuk kesukaan umum.",
+        "reviewCards": [
+          { "front": "Saya ingin bekerja di luar negeri.", "back": "I want to work abroad. / I'd like to work abroad." },
+          { "front": "decide + ?", "back": "to + base verb (decided to change)" },
+          { "front": "enjoy + ?", "back": "verb-ing (enjoy working)" },
+          { "front": "melamar pekerjaan", "back": "apply for a job" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u09-l3-q1", "type": "single_choice", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option: I want ___ a new job.",
+          "options": ["to find", "finding", "find", "found"], "answer": 0,
+          "explanation": "Want diikuti to + base verb: want to find.",
+          "misconception": "Menghilangkan to setelah want."
+        },
+        {
+          "id": "a2-u09-l3-q2", "type": "drag_drop", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Next year I'd like ___ abroad, so I need ___ money now.",
+          "bank": ["to work", "to save", "working", "saving", "work"],
+          "answers": ["to work", "to save"],
+          "explanation": "Would like dan need keduanya diikuti to + base verb."
+        },
+        {
+          "id": "a2-u09-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence with want.",
+          "sentence": "My dream is to become a pilot.",
+          "cue": "Begin with: I want ...",
+          "answers": ["I want to become a pilot.", "I want to be a pilot."],
+          "explanation": "Want + to + base verb: I want to become a pilot."
+        },
+        {
+          "id": "a2-u09-l3-q4", "type": "error_identification", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["She", "decided", "change", "her job last year."],
+          "errorIndex": 2, "correction": "to change",
+          "explanation": "Decide diikuti to + base verb: decided to change."
+        },
+        {
+          "id": "a2-u09-l3-q5", "type": "dropdown", "category": "grammar", "topic": "verb + to-infinitive vs -ing", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct forms.",
+          "text": "I enjoy ___ with children, and one day I'd like ___ a teacher.",
+          "choices": [["working", "to work"], ["to become", "becoming"]],
+          "answers": [0, 0],
+          "explanation": "Enjoy + verb-ing → working. Would like + to + base verb → to become."
+        },
+        {
+          "id": "a2-u09-l3-q6", "type": "translation", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya perlu menelepon klien saya sebelum jam lima.", "direction": "id-en",
+          "answers": [
+            "I need to call my client before five.",
+            "I need to call my client before five o'clock.",
+            "I need to call my client before 5.",
+            "I need to call my client before 5 o'clock.",
+            "I need to phone my client before five.",
+            "I need to phone my client before five o'clock.",
+            "I need to call my client before 5 p.m."
+          ],
+          "explanation": "Perlu = need to + base verb. Menelepon = call/phone."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u09-l4-quantifiers",
+      "title": "Much, Many, A Lot Of, A Little, A Few",
+      "summary": "Menyatakan jumlah dengan quantifier untuk kata benda terhitung dan tak terhitung.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan much/many dalam kalimat negatif dan pertanyaan",
+        "Menggunakan a lot of, a little, dan a few dengan tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Ingat: countable dan uncountable\nDi A1 kamu belajar bahwa kata benda ada yang **terhitung** (*countable*: a job, two emails, three colleagues) dan **tak terhitung** (*uncountable*: work, money, time, information, advice, experience). Quantifier yang dipakai tergantung jenis kata bendanya.\n\n### Tabel quantifier\n| Arti | Countable (jamak) | Uncountable |\n| --- | --- | --- |\n| banyak | **many** / **a lot of** | **much** / **a lot of** |\n| sedikit (tapi ada) | **a few** | **a little** |\n| berapa banyak? | **How many**...? | **How much**...? |\n\n### Much dan many\n**Much** dan **many** paling sering dipakai dalam **kalimat negatif** dan **pertanyaan**:\n- *We don't have **much** time.* (uncountable)\n- *Are there **many** jobs in your town?* (countable)\n- *How **many** people work here?*\n\nDalam kalimat **positif**, penutur asli biasanya memakai **a lot of**:\n- *She has **a lot of** experience.* (lebih alami daripada *She has much experience*)\n- *There are **a lot of** emails in my inbox.*\n\n### A few dan a little\nKeduanya berarti **sedikit, tetapi cukup/ada** (makna positif):\n- *I have **a few** questions.* (beberapa pertanyaan — countable)\n- *There's **a little** coffee left.* (sedikit kopi — uncountable)\n\n### Kata benda tak terhitung yang sering salah\nKata-kata ini **uncountable** dalam bahasa Inggris, walaupun dalam bahasa Indonesia terasa bisa dihitung:\n*information, advice, work, homework, money, equipment, furniture, news*.\n- ✗ *many informations* → ✓ *a lot of information*\n- ✗ *two advices* → ✓ *two pieces of advice*\n\n### Too much / too many\n*Too* berarti *terlalu*: *I have **too much** work and **too many** meetings this week!*\n\n### Ringkasan cepat\n- Bisa diberi angka? → **many / a few**\n- Tidak bisa diberi angka? → **much / a little**\n- Kalimat positif, banyak? → **a lot of** (keduanya)",
+        "examples": [
+          { "en": "There aren't many jobs in my village.", "id": "Tidak banyak pekerjaan di desa saya.", "note": "many + countable, negatif" },
+          { "en": "How much experience do you have?", "id": "Berapa banyak pengalamanmu?", "note": "how much + uncountable" },
+          { "en": "She has a lot of customers on Saturdays.", "id": "Dia punya banyak pelanggan pada hari Sabtu.", "note": "a lot of dalam kalimat positif" },
+          { "en": "I need a little help and a few minutes of your time.", "id": "Saya butuh sedikit bantuan dan beberapa menit waktumu.", "note": "a little + uncountable, a few + countable" }
+        ],
+        "vocabulary": [
+          { "word": "experience", "pos": "noun (uncountable)", "ipa": "/ɪkˈspɪəriəns/", "meaning": "pengalaman (kerja)", "example": "He doesn't have much experience." },
+          { "word": "information", "pos": "noun (uncountable)", "ipa": "/ˌɪnfəˈmeɪʃn/", "meaning": "informasi", "example": "Can you give me a little information?" },
+          { "word": "equipment", "pos": "noun (uncountable)", "ipa": "/ɪˈkwɪpmənt/", "meaning": "peralatan", "example": "We need a lot of new equipment." },
+          { "word": "customer", "pos": "noun", "ipa": "/ˈkʌstəmə/", "meaning": "pelanggan", "example": "We had a few customers this morning." },
+          { "word": "meeting", "pos": "noun", "ipa": "/ˈmiːtɪŋ/", "meaning": "rapat", "example": "I have too many meetings today." }
+        ],
+        "grammar": [
+          { "pattern": "not / ? + many + plural noun; not / ? + much + uncountable", "example": "Do you have many colleagues? I don't have much time.", "note": "Negatif dan pertanyaan." },
+          { "pattern": "a lot of + plural / uncountable", "example": "There's a lot of work today.", "note": "Kalimat positif." },
+          { "pattern": "a few + plural; a little + uncountable", "example": "a few emails / a little money", "note": "Sedikit tetapi ada." }
+        ],
+        "mistakes": [
+          { "wrong": "How much people work in your office?", "right": "How many people work in your office?", "why": "People adalah kata benda jamak (countable), jadi memakai many." },
+          { "wrong": "We don't have many money.", "right": "We don't have much money.", "why": "Money tak terhitung, jadi memakai much." },
+          { "wrong": "Can you give me some informations?", "right": "Can you give me some information?", "why": "Information tak terhitung dan tidak memakai -s." }
+        ],
+        "summary": "**many / a few** + countable jamak; **much / a little** + uncountable; **a lot of** untuk keduanya (terutama kalimat positif). *Much* dan *many* paling umum dalam negatif dan pertanyaan. Ingat: *information, advice, work, money* = uncountable.",
+        "reviewCards": [
+          { "front": "How ___ people? / How ___ money?", "back": "many / much" },
+          { "front": "a few vs a little", "back": "a few + countable (a few emails); a little + uncountable (a little time)" },
+          { "front": "informations?", "back": "Salah! information (uncountable)" },
+          { "front": "Saya punya terlalu banyak pekerjaan.", "back": "I have too much work." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u09-l4-q1", "type": "single_choice", "category": "grammar", "topic": "quantifiers", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: There aren't ___ jobs in my village.",
+          "options": ["many", "much", "a little"], "answer": 0,
+          "explanation": "Jobs adalah kata benda jamak (countable) dalam kalimat negatif → many.",
+          "misconception": "Memakai much untuk semua kalimat negatif."
+        },
+        {
+          "id": "a2-u09-l4-q2", "type": "dropdown", "category": "grammar", "topic": "quantifiers", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct quantifiers.",
+          "text": "I don't have ___ time today, but I can answer ___ emails before lunch.",
+          "choices": [["much", "many"], ["a few", "a little"]],
+          "answers": [0, 0],
+          "explanation": "Time tak terhitung → much. Emails terhitung → a few."
+        },
+        {
+          "id": "a2-u09-l4-q3", "type": "fill_blank", "category": "grammar", "topic": "quantifiers", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with a few or a little.",
+          "text": "We had ___ problems with the new software, but only two or three. Can you give me ___ advice?",
+          "answers": [["a few"], ["a little"]],
+          "explanation": "Problems terhitung → a few. Advice tak terhitung → a little."
+        },
+        {
+          "id": "a2-u09-l4-q4", "type": "error_identification", "category": "grammar", "topic": "quantifiers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the question.",
+          "segments": ["How", "much", "people", "work in your office?"],
+          "errorIndex": 1, "correction": "many",
+          "explanation": "People terhitung (jamak), jadi How many people...?"
+        },
+        {
+          "id": "a2-u09-l4-q5", "type": "multiple_select", "category": "grammar", "topic": "quantifiers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["There's a little milk in the fridge.", "She has a lot of experience.", "We don't have many money.", "I have a few ideas for the project.", "There isn't much informations."],
+          "answers": [0, 1, 3],
+          "explanation": "Seharusnya much money (money tak terhitung) dan much information (tanpa -s)."
+        },
+        {
+          "id": "a2-u09-l4-q6", "type": "sentence_transformation", "category": "grammar", "topic": "quantifiers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Rewrite the sentence in the negative form with much.",
+          "sentence": "I have a lot of work this week.",
+          "cue": "Begin with: I don't ...",
+          "answers": ["I don't have much work this week.", "I do not have much work this week."],
+          "explanation": "Work tak terhitung. Dalam kalimat negatif, a lot of sering diganti much."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u09-l5-describing-jobs",
+      "title": "Describing Your Job and Work Preferences",
+      "summary": "Mendeskripsikan pekerjaan, kondisi kerja, dan preferensi kerja.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata kondisi kerja: salary, colleague, part-time, shift",
+        "Mendeskripsikan pekerjaan dan preferensi kerja dengan semua tata bahasa unit ini"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba latihan berbicara, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kosakata kondisi kerja\n| English | Indonesia |\n| --- | --- |\n| salary | gaji (bulanan) |\n| colleague | rekan kerja |\n| boss / manager | atasan / manajer |\n| full-time / part-time | penuh waktu / paruh waktu |\n| shift (night shift) | giliran kerja (shift malam) |\n| work from home | bekerja dari rumah |\n| well-paid / badly paid | bergaji tinggi / bergaji rendah |\n| stressful | penuh tekanan |\n| rewarding | memuaskan, bermakna |\n| apply for a job | melamar pekerjaan |\n| job interview | wawancara kerja |\n\n### Mendeskripsikan pekerjaan\nGabungkan semua tata bahasa unit ini:\n\n*I'm a nurse. I work **in** a big hospital in Semarang. I work **long shifts** and sometimes I have to work at night. The job is **stressful**, but it's very **rewarding** because I help **a lot of** people. My colleagues are friendly and they work very **hard**. In the future, I'**d like to** become a head nurse, so I **need to** study more.*\n\n| Bagian | Tata bahasa |\n| --- | --- |\n| Pekerjaan dan tempat | I'm a/an..., I work in/at/for... |\n| Tugas | present simple: I look after patients |\n| Kondisi | adjectives: stressful, well-paid |\n| Cara bekerja | adverbs: carefully, hard |\n| Jumlah | a lot of, a few, much, many |\n| Rencana dan keinginan | want to, would like to, need to, hope to |\n\n### Membicarakan preferensi kerja\n- *I **like working** with people.* / *I **don't like working** alone.*\n- *I **enjoy** solving problems.*\n- *I'**d like to work** from home two days a week.*\n- *I **don't want to work** night shifts.*\n- *I **prefer** working outdoors.* (prefer + -ing = lebih suka)\n\n### Pertanyaan wawancara kerja sederhana\n- *Why do you want to work here?*\n- *How much experience do you have?*\n- *Can you work on weekends?*\n- *What do you want to do in five years?*\n\nJawab dengan kalimat lengkap dan berikan alasan dengan **because**.",
+        "examples": [
+          { "en": "It's a well-paid job, but it's quite stressful.", "id": "Itu pekerjaan bergaji tinggi, tetapi cukup penuh tekanan.", "note": "well-paid vs stressful" },
+          { "en": "I work part-time in a café because I'm still at university.", "id": "Saya bekerja paruh waktu di kafe karena saya masih kuliah.", "note": "part-time" },
+          { "en": "My colleagues are friendly and they help me a lot.", "id": "Rekan-rekan kerja saya ramah dan mereka banyak membantu saya.", "note": "colleague = rekan kerja" },
+          { "en": "I'd like to work from home a few days a week.", "id": "Saya ingin bekerja dari rumah beberapa hari dalam seminggu.", "note": "would like to + a few" }
+        ],
+        "vocabulary": [
+          { "word": "salary", "pos": "noun", "ipa": "/ˈsæləri/", "meaning": "gaji", "example": "The salary is good, but the hours are long." },
+          { "word": "colleague", "pos": "noun", "ipa": "/ˈkɒliːɡ/", "meaning": "rekan kerja", "example": "I have lunch with my colleagues every day." },
+          { "word": "part-time", "pos": "adjective/adverb", "ipa": "/ˌpɑːt ˈtaɪm/", "meaning": "paruh waktu", "example": "She works part-time at a bookshop." },
+          { "word": "shift", "pos": "noun", "ipa": "/ʃɪft/", "meaning": "giliran kerja", "example": "He works the night shift at the factory." },
+          { "word": "stressful", "pos": "adjective", "ipa": "/ˈstresfl/", "meaning": "penuh tekanan, membuat stres", "example": "My job is stressful at the end of the month." },
+          { "word": "rewarding", "pos": "adjective", "ipa": "/rɪˈwɔːdɪŋ/", "meaning": "memuaskan, bermakna", "example": "Teaching is a rewarding job." }
+        ],
+        "grammar": [
+          { "pattern": "The job is + adjective, but it's + adjective", "example": "The job is interesting, but it's badly paid.", "note": "Kelebihan dan kekurangan." },
+          { "pattern": "I like / enjoy / prefer + verb-ing; I'd like / want + to + verb", "example": "I enjoy meeting people. I'd like to travel for work.", "note": "Preferensi dan keinginan." }
+        ],
+        "mistakes": [
+          { "wrong": "My salary is very expensive.", "right": "My salary is very good. / My job is well-paid.", "why": "Salary dideskripsikan dengan good/high/low, bukan expensive." },
+          { "wrong": "I work in part-time.", "right": "I work part-time.", "why": "Part-time dipakai tanpa preposisi in." },
+          { "wrong": "I'd like working from home.", "right": "I'd like to work from home.", "why": "Would like diikuti to + base verb." }
+        ],
+        "summary": "Deskripsikan pekerjaan dengan **tempat, tugas, kondisi** (*well-paid, stressful, rewarding*), **cara bekerja** (adverbs), dan **rencana** (*I'd like to..., I need to...*). Kosakata kunci: **salary, colleague, part-time, shift, apply for**.",
+        "reviewCards": [
+          { "front": "gaji", "back": "salary" },
+          { "front": "rekan kerja", "back": "colleague" },
+          { "front": "giliran kerja malam", "back": "night shift" },
+          { "front": "memuaskan, bermakna (pekerjaan)", "back": "rewarding" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u09-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "working conditions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word: Nurses often work long ___, and sometimes they work at night.",
+          "options": ["shifts", "salaries", "colleagues", "careers"], "answer": 0,
+          "explanation": "Giliran kerja panjang dan di malam hari → shifts.",
+          "misconception": "Memilih salaries karena berhubungan dengan pekerjaan."
+        },
+        {
+          "id": "a2-u09-l5-q2", "type": "speaking_response", "category": "speaking", "topic": "describing jobs", "difficulty": 3, "stage": "independent",
+          "prompt": "Describe your job (or your dream job) for 45–60 seconds. Say where you work, what you do, what is good and bad about the job, and what you would like to do in the future.",
+          "targetPhrases": ["I work as", "I have to", "I'd like to", "a lot of"],
+          "sampleAnswer": "I work as a receptionist at a hotel in Yogyakarta. I welcome guests, answer the phone and deal with problems. I work full-time, and sometimes I have to work the night shift. The salary isn't very high, but I meet a lot of interesting people, and my colleagues are friendly. I speak English well, but I need to learn a little Japanese because we have many Japanese guests. In the future, I'd like to become a hotel manager.",
+          "explanation": "Gunakan work as/in, present simple untuk tugas, adjectives untuk kondisi, quantifiers, dan would like to / need to untuk rencana."
+        },
+        {
+          "id": "a2-u09-l5-q3", "type": "single_choice", "category": "reading", "topic": "job adverts", "difficulty": 2, "stage": "independent",
+          "prompt": "Read the job advert. Which sentence is true?",
+          "context": "**Part-time waiter needed — Green Valley Café**\nWe are looking for a friendly waiter to work three evenings a week (Thursday to Saturday, 5–10 p.m.). You don't need much experience, but you need to speak English well. Free meals for staff. To apply, send an email to jobs@greenvalley.example by 30 June.",
+          "options": ["The job is only on three evenings a week.", "You need a lot of experience.", "Staff have to pay for their meals.", "You can apply until the end of July."], "answer": 0,
+          "explanation": "Iklan: three evenings a week. Tidak perlu banyak pengalaman, makan gratis, dan batas lamaran 30 Juni."
+        },
+        {
+          "id": "a2-u09-l5-q4", "type": "matching", "category": "vocabulary", "topic": "working conditions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "salary", "right": "the money you get every month for your job" },
+            { "left": "colleague", "right": "a person you work with" },
+            { "left": "part-time", "right": "working only some hours or days of the week" },
+            { "left": "apply for", "right": "ask formally for a job, usually in writing" },
+            { "left": "boss", "right": "the person in charge of you at work" }
+          ],
+          "explanation": "salary = gaji, colleague = rekan kerja, part-time = paruh waktu, apply for = melamar, boss = atasan."
+        },
+        {
+          "id": "a2-u09-l5-q5", "type": "fill_blank", "category": "grammar", "topic": "unit review", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete with the correct form of the words in brackets.",
+          "text": "I'm an accountant, so I check every number ___ (careful). I'd like ___ (get) a better salary, so I need ___ (study) for a professional exam.",
+          "answers": [["carefully"], ["to get"], ["to study"]],
+          "explanation": "Menjelaskan cara memeriksa → adverb carefully. Would like dan need diikuti to + base verb."
+        },
+        {
+          "id": "a2-u09-l5-q6", "type": "sentence_reconstruction", "category": "writing", "topic": "work preferences", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": ["I'd like to work", "for a big company", "because the salary", "is better", "and I can travel."],
+          "explanation": "Keinginan (I'd like to work) + tempat + alasan dengan because."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u09-t-q1", "type": "single_choice", "category": "grammar", "topic": "adverbs of manner", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct word: Our boss speaks very ___, so it's hard to hear him in meetings.",
+      "options": ["quietly", "quiet", "quietness", "more quiet"], "answer": 0,
+      "explanation": "Menjelaskan cara berbicara → adverb quietly."
+    },
+    {
+      "id": "a2-u09-t-q2", "type": "fill_blank", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Complete with the correct form of the verb in brackets.",
+      "text": "Our company is growing fast. We need ___ (hire) two more drivers.",
+      "answers": [["to hire"]],
+      "explanation": "Need + to + base verb: need to hire."
+    },
+    {
+      "id": "a2-u09-t-q3", "type": "dropdown", "category": "grammar", "topic": "quantifiers", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct quantifiers.",
+      "text": "There are ___ applicants for the job, but only ___ of them have experience.",
+      "choices": [["a lot of", "much", "a little"], ["a few", "a little", "much"]],
+      "answers": [0, 0],
+      "explanation": "Applicants terhitung dalam kalimat positif → a lot of. Hanya sedikit dari mereka (terhitung) → a few."
+    },
+    {
+      "id": "a2-u09-t-q4", "type": "error_identification", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["He", "works", "very hardly", "every day."],
+      "errorIndex": 2, "correction": "very hard",
+      "explanation": "Adverb dari hard adalah hard. Hardly berarti hampir tidak."
+    },
+    {
+      "id": "a2-u09-t-q5", "type": "sentence_correction", "category": "grammar", "topic": "verb + to-infinitive", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "I would like work in a hospital.",
+      "answers": ["I would like to work in a hospital.", "I'd like to work in a hospital."],
+      "explanation": "Would like diikuti to + base verb."
+    },
+    {
+      "id": "a2-u09-t-q6", "type": "matching", "category": "vocabulary", "topic": "jobs", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each job with what the person does.",
+      "pairs": [
+        { "left": "architect", "right": "designs buildings" },
+        { "left": "accountant", "right": "manages money and taxes" },
+        { "left": "receptionist", "right": "welcomes visitors and answers the phone" },
+        { "left": "pilot", "right": "flies planes" }
+      ],
+      "explanation": "architect = arsitek, accountant = akuntan, receptionist = resepsionis, pilot = pilot."
+    },
+    {
+      "id": "a2-u09-t-q7", "type": "translation", "category": "grammar", "topic": "adverbs of manner", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English. (Dia = a man)",
+      "source": "Dia bekerja dengan sangat cepat.", "direction": "id-en",
+      "answers": ["He works very fast.", "He works very quickly.", "He works really fast.", "He works really quickly."],
+      "explanation": "Dengan sangat cepat = very fast / very quickly (adverb setelah kata kerja)."
+    }
+  ]
+}

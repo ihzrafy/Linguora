@@ -1,0 +1,543 @@
+{
+  "slug": "a2-u02-past-simple",
+  "number": 2,
+  "title": "Last Weekend",
+  "description": "Menceritakan kegiatan akhir pekan dan liburan dengan past simple: kata kerja beraturan (-ed), pelafalan -ed, dan kata kerja tidak beraturan yang umum.",
+  "objectives": [
+    "Menulis bentuk past simple kata kerja beraturan dengan ejaan yang benar",
+    "Melafalkan akhiran -ed sebagai /t/, /d/, atau /ɪd/",
+    "Menggunakan kata kerja tidak beraturan yang paling umum",
+    "Menceritakan akhir pekan atau liburan yang sudah lewat"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u02-l1-regular-verbs",
+      "title": "Regular Verbs: -ed Spelling",
+      "summary": "Membentuk past simple kata kerja beraturan dan aturan ejaan -ed.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk past simple kalimat positif dengan kata kerja beraturan",
+        "Menerapkan empat aturan ejaan -ed"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu past simple?\n**Past simple** dipakai untuk kegiatan yang **sudah selesai** di masa lalu, biasanya dengan keterangan waktu seperti *yesterday*, *last week*, atau *two days ago*.\n\n*I **watched** a film last night.* (Saya menonton film tadi malam.)\n\n### Kabar baik: bentuknya sama untuk semua subjek\nBerbeda dengan present simple (*he works*), past simple **tidak berubah** untuk he/she/it:\n\n| Subjek | Past simple |\n| --- | --- |\n| I / You / We / They | **worked** |\n| He / She / It | **worked** |\n\n### Aturan ejaan -ed\n| Aturan | Contoh |\n| --- | --- |\n| 1. Kebanyakan kata kerja: tambah **-ed** | work → work**ed**, play → play**ed**, clean → clean**ed** |\n| 2. Berakhiran **-e**: tambah **-d** saja | live → live**d**, dance → dance**d**, arrive → arrive**d** |\n| 3. Konsonan + **y**: ubah y menjadi **-ied** | study → stud**ied**, carry → carr**ied**, try → tr**ied** |\n| 4. Satu vokal + satu konsonan (suku kata pendek & bertekanan): **gandakan** konsonan | stop → sto**pped**, plan → pla**nned**, chat → cha**tted** |\n\n### Hati-hati dengan aturan 3\nJika sebelum **y** ada **vokal** (a, e, o, u), cukup tambah **-ed**: *play → played*, *stay → stayed*, *enjoy → enjoyed*. Jadi bukan ~~plaied~~.\n\n### Hati-hati dengan aturan 4\nKita tidak menggandakan **w**, **x**, atau **y**: *snow → snowed*, *fix → fixed*. Kata kerja dua suku kata yang tekanannya di depan juga tidak digandakan: *visit → visited*, *listen → listened*.\n\n### Perbedaan dengan bahasa Indonesia\nDalam bahasa Indonesia, *Saya menonton TV kemarin* memakai kata kerja yang sama dengan hari ini. Dalam bahasa Inggris, kata kerja **wajib** berubah: *I watch TV every day* → *I watched TV yesterday*. Jangan lupa menambahkan -ed!",
+        "examples": [
+          { "en": "We cleaned the house on Saturday morning.", "id": "Kami membersihkan rumah pada Sabtu pagi.", "note": "clean → cleaned (aturan 1)" },
+          { "en": "My aunt lived in Pontianak for ten years.", "id": "Bibi saya tinggal di Pontianak selama sepuluh tahun.", "note": "live → lived (aturan 2)" },
+          { "en": "Bayu studied for his test last night.", "id": "Bayu belajar untuk ujiannya tadi malam.", "note": "study → studied (aturan 3)" },
+          { "en": "The bus stopped in front of the school.", "id": "Bus itu berhenti di depan sekolah.", "note": "stop → stopped (aturan 4)" }
+        ],
+        "vocabulary": [
+          { "word": "chat", "pos": "verb", "ipa": "/tʃæt/", "meaning": "mengobrol", "example": "We chatted for an hour after class." },
+          { "word": "plan", "pos": "verb", "ipa": "/plæn/", "meaning": "merencanakan", "example": "They planned a small party for Dina." },
+          { "word": "arrive", "pos": "verb", "ipa": "/əˈraɪv/", "meaning": "tiba, sampai", "example": "The train arrived at six o'clock." },
+          { "word": "enjoy", "pos": "verb", "ipa": "/ɪnˈdʒɔɪ/", "meaning": "menikmati", "example": "I enjoyed the music at the festival." },
+          { "word": "carry", "pos": "verb", "ipa": "/ˈkæri/", "meaning": "membawa, mengangkat", "example": "He carried the heavy box upstairs." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + verb-ed + ...", "example": "She cooked dinner for her family.", "note": "Bentuk sama untuk semua subjek." },
+          { "pattern": "consonant + y → -ied; vowel + y → -yed", "example": "study → studied; play → played", "note": "Lihat huruf sebelum y." },
+          { "pattern": "short vowel + consonant → double + -ed", "example": "stop → stopped; plan → planned", "note": "Tidak berlaku untuk w, x, y." }
+        ],
+        "mistakes": [
+          { "wrong": "She studyed English last night.", "right": "She studied English last night.", "why": "Konsonan + y berubah menjadi -ied." },
+          { "wrong": "He watch TV yesterday.", "right": "He watched TV yesterday.", "why": "Yesterday menunjukkan masa lalu, jadi kata kerja harus memakai -ed." },
+          { "wrong": "We plaied games at the party.", "right": "We played games at the party.", "why": "Vokal + y cukup ditambah -ed." }
+        ],
+        "summary": "Past simple untuk kegiatan yang sudah selesai di masa lalu. Kata kerja beraturan memakai **-ed** untuk semua subjek. Ingat aturan ejaan: **-d** setelah e, **-ied** setelah konsonan + y, dan **gandakan** konsonan setelah satu vokal pendek (*stopped*).",
+        "reviewCards": [
+          { "front": "study (past)", "back": "studied" },
+          { "front": "stop (past)", "back": "stopped (gandakan p)" },
+          { "front": "play (past)", "back": "played (vokal + y → -ed)" },
+          { "front": "Apakah past simple berubah untuk he/she/it?", "back": "Tidak. I worked, she worked." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u02-l1-q1", "type": "single_choice", "category": "grammar", "topic": "past simple regular", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct past form of study.",
+          "options": ["studyed", "studied", "studed", "studies"], "answer": 1,
+          "explanation": "Study berakhiran konsonan (d) + y, jadi y berubah menjadi -ied: studied.",
+          "misconception": "Langsung menambahkan -ed tanpa mengubah y."
+        },
+        {
+          "id": "a2-u02-l1-q2", "type": "fill_blank", "category": "grammar", "topic": "past simple regular", "difficulty": 1, "stage": "independent",
+          "prompt": "Complete with the past simple of the verbs in brackets.",
+          "text": "Last Sunday we ___ (stay) at home and ___ (watch) a film.",
+          "answers": [["stayed"], ["watched"]],
+          "explanation": "Stay: vokal + y → stayed. Watch: tambah -ed → watched."
+        },
+        {
+          "id": "a2-u02-l1-q3", "type": "matching", "category": "grammar", "topic": "past simple spelling", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each verb with its past form.",
+          "pairs": [
+            { "left": "stop", "right": "stopped" },
+            { "left": "carry", "right": "carried" },
+            { "left": "dance", "right": "danced" },
+            { "left": "enjoy", "right": "enjoyed" },
+            { "left": "plan", "right": "planned" }
+          ],
+          "explanation": "stop/plan → gandakan konsonan; carry → -ied; dance → tambah -d; enjoy → vokal + y, tambah -ed."
+        },
+        {
+          "id": "a2-u02-l1-q4", "type": "error_identification", "category": "grammar", "topic": "past simple spelling", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["My brother", "tryed", "the new restaurant", "last Friday."],
+          "errorIndex": 1, "correction": "tried",
+          "explanation": "Try berakhiran konsonan + y, jadi bentuk lampaunya tried."
+        },
+        {
+          "id": "a2-u02-l1-q5", "type": "multiple_select", "category": "grammar", "topic": "past simple spelling", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which past forms are spelled correctly? Choose all correct answers.",
+          "options": ["played", "cryed", "stopped", "liveed", "chatted", "fixxed"],
+          "answers": [0, 2, 4],
+          "explanation": "Yang benar: played, stopped, chatted. Seharusnya cried (konsonan + y), lived (tambah -d saja), fixed (x tidak digandakan)."
+        },
+        {
+          "id": "a2-u02-l1-q6", "type": "drag_drop", "category": "grammar", "topic": "past simple regular", "difficulty": 2, "stage": "quiz",
+          "prompt": "Drag the correct verbs into the gaps.",
+          "text": "Yesterday Rina ___ her room and ___ to music in the evening.",
+          "bank": ["cleaned", "cleans", "listened", "listen", "cleaning"],
+          "answers": ["cleaned", "listened"],
+          "explanation": "Yesterday → past simple: cleaned dan listened."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u02-l2-ed-pronunciation",
+      "title": "Saying -ed: /t/, /d/ or /ɪd/",
+      "summary": "Melafalkan akhiran -ed dengan tiga bunyi yang berbeda.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengenali tiga cara melafalkan akhiran -ed",
+        "Tahu kapan -ed menambah satu suku kata (/ɪd/)"
+      ],
+      "completionCriteria": "Baca semua bagian materi, latih pelafalan, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Satu ejaan, tiga bunyi\nAkhiran **-ed** selalu ditulis sama, tetapi diucapkan dengan **tiga cara**. Banyak pelajar Indonesia mengucapkan semua -ed sebagai *ed* yang jelas (misalnya *work-ed*). Ini membuat bahasa Inggrismu terdengar kurang alami.\n\n| Bunyi | Kapan? | Contoh |\n| --- | --- | --- |\n| **/t/** | setelah bunyi *tak bersuara*: /p/, /k/, /s/, /ʃ/ (sh), /tʃ/ (ch), /f/ | worked /wɜːkt/, stopped /stɒpt/, washed /wɒʃt/, watched /wɒtʃt/, laughed /lɑːft/ |\n| **/d/** | setelah bunyi *bersuara* dan semua vokal | played /pleɪd/, lived /lɪvd/, cleaned /kliːnd/, called /kɔːld/ |\n| **/ɪd/** | setelah bunyi **/t/** atau **/d/** | wanted /ˈwɒntɪd/, needed /ˈniːdɪd/, visited /ˈvɪzɪtɪd/ |\n\n### Aturan paling penting: /ɪd/\nHanya kata kerja yang berakhir dengan bunyi **t** atau **d** yang mendapat suku kata tambahan.\n- *wait* (1 suku kata) → *wait-ed* (2 suku kata)\n- *decide* (2 suku kata) → *de-ci-ded* (3 suku kata)\n- Tetapi *work* → *worked* tetap **1 suku kata**: /wɜːkt/, bukan /wɜːk-ɪd/.\n\n### Cara mengecek bunyi bersuara\nLetakkan jarimu di leher dan ucapkan *sss* lalu *zzz*. Pada *zzz* lehermu bergetar — itu bunyi **bersuara** (voiced). Pada *sss* tidak bergetar — itu **tak bersuara** (voiceless). Setelah bunyi tak bersuara, -ed menjadi /t/.\n\n### Perhatikan bunyi, bukan huruf\nYang penting adalah **bunyi terakhir**, bukan huruf terakhir. *Dance* berakhir dengan huruf e, tetapi bunyinya /s/, jadi *danced* diucapkan /dɑːnst/ dengan /t/.\n\n### Tips latihan\nUcapkan pasangan ini dengan cepat: *I worked* /aɪ wɜːkt/, *She played* /ʃiː pleɪd/, *They waited* /ðeɪ ˈweɪtɪd/. Jangan tambah bunyi vokal ekstra pada /t/ dan /d/.",
+        "examples": [
+          { "en": "I walked to school yesterday.", "id": "Saya berjalan kaki ke sekolah kemarin.", "note": "walked = /wɔːkt/, bunyi /t/" },
+          { "en": "She opened the window.", "id": "Dia membuka jendela.", "note": "opened = /ˈəʊpənd/, bunyi /d/" },
+          { "en": "We waited for the bus for twenty minutes.", "id": "Kami menunggu bus selama dua puluh menit.", "note": "waited = /ˈweɪtɪd/, bunyi /ɪd/" },
+          { "en": "They decided on a new name for the café.", "id": "Mereka memutuskan nama baru untuk kafe itu.", "note": "decided = /dɪˈsaɪdɪd/, 3 suku kata" }
+        ],
+        "vocabulary": [
+          { "word": "laugh", "pos": "verb", "ipa": "/lɑːf/", "meaning": "tertawa", "example": "We laughed a lot at the comedy show." },
+          { "word": "wait", "pos": "verb", "ipa": "/weɪt/", "meaning": "menunggu", "example": "I waited for my friend at the gate." },
+          { "word": "decide", "pos": "verb", "ipa": "/dɪˈsaɪd/", "meaning": "memutuskan", "example": "They decided on a red car." },
+          { "word": "visit", "pos": "verb", "ipa": "/ˈvɪzɪt/", "meaning": "mengunjungi", "example": "We visited the old palace." },
+          { "word": "wash", "pos": "verb", "ipa": "/wɒʃ/", "meaning": "mencuci", "example": "Dad washed the car on Sunday." }
+        ],
+        "grammar": [
+          { "pattern": "voiceless sound (p, k, s, sh, ch, f) + -ed = /t/", "example": "helped /helpt/, kissed /kɪst/", "note": "Tidak ada suku kata tambahan." },
+          { "pattern": "voiced sound or vowel + -ed = /d/", "example": "played /pleɪd/, rained /reɪnd/", "note": "Tidak ada suku kata tambahan." },
+          { "pattern": "t or d + -ed = /ɪd/", "example": "started /ˈstɑːtɪd/, ended /ˈendɪd/", "note": "Ada satu suku kata tambahan." }
+        ],
+        "mistakes": [
+          { "wrong": "worked diucapkan /ˈwɜːkɪd/ (wor-ked)", "right": "worked diucapkan /wɜːkt/", "why": "Bunyi /ɪd/ hanya untuk kata kerja yang berakhir bunyi t atau d." },
+          { "wrong": "wanted diucapkan /wɒntd/ (satu suku kata)", "right": "wanted diucapkan /ˈwɒntɪd/ (dua suku kata)", "why": "Want berakhir bunyi t, jadi -ed diucapkan /ɪd/." },
+          { "wrong": "danced diucapkan /dɑːnsd/", "right": "danced diucapkan /dɑːnst/", "why": "Bunyi terakhir dance adalah /s/ (tak bersuara), jadi -ed menjadi /t/." }
+        ],
+        "summary": "Akhiran -ed punya tiga bunyi: **/t/** setelah bunyi tak bersuara (*worked*), **/d/** setelah bunyi bersuara dan vokal (*played*), dan **/ɪd/** setelah t atau d (*wanted*). Hanya /ɪd/ yang menambah satu suku kata. Perhatikan **bunyi** terakhir, bukan huruf terakhir.",
+        "reviewCards": [
+          { "front": "watched — bunyi -ed?", "back": "/t/ — /wɒtʃt/" },
+          { "front": "cleaned — bunyi -ed?", "back": "/d/ — /kliːnd/" },
+          { "front": "needed — bunyi -ed?", "back": "/ɪd/ — /ˈniːdɪd/ (2 suku kata)" },
+          { "front": "Kapan -ed menambah suku kata?", "back": "Setelah bunyi t atau d: waited, decided" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u02-l2-q1", "type": "single_choice", "category": "pronunciation", "topic": "-ed pronunciation", "difficulty": 1, "stage": "guided",
+          "prompt": "How do you pronounce the -ed ending in visited?",
+          "options": ["/t/", "/d/", "/ɪd/"], "answer": 2,
+          "explanation": "Visit berakhir dengan bunyi t, jadi -ed diucapkan /ɪd/: /ˈvɪzɪtɪd/.",
+          "misconception": "Mengira semua -ed diucapkan sama."
+        },
+        {
+          "id": "a2-u02-l2-q2", "type": "matching", "category": "pronunciation", "topic": "-ed pronunciation", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each verb with the sound of its -ed ending.",
+          "pairs": [
+            { "left": "watched", "right": "/t/" },
+            { "left": "cleaned", "right": "/d/" },
+            { "left": "needed", "right": "/ɪd/" }
+          ],
+          "explanation": "Watch berakhir bunyi /tʃ/ (tak bersuara) → /t/. Clean berakhir /n/ (bersuara) → /d/. Need berakhir /d/ → /ɪd/."
+        },
+        {
+          "id": "a2-u02-l2-q3", "type": "dictation", "category": "listening", "topic": "-ed pronunciation", "difficulty": 2, "stage": "independent",
+          "prompt": "Listen and write the sentence you hear.",
+          "text": "We walked to the park and waited for our friends.",
+          "explanation": "Perhatikan walked diucapkan /wɔːkt/ (bunyi /t/), sedangkan waited diucapkan /ˈweɪtɪd/ (bunyi /ɪd/)."
+        },
+        {
+          "id": "a2-u02-l2-q4", "type": "multiple_select", "category": "pronunciation", "topic": "-ed pronunciation", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which verbs end with the extra syllable /ɪd/? Choose all correct answers.",
+          "options": ["wanted", "decided", "helped", "waited", "opened"],
+          "answers": [0, 1, 3],
+          "explanation": "Wanted, decided, dan waited berakhir bunyi t/d → /ɪd/. Helped = /t/, opened = /d/."
+        },
+        {
+          "id": "a2-u02-l2-q5", "type": "single_choice", "category": "pronunciation", "topic": "-ed pronunciation", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which verb ends with a /t/ sound?",
+          "options": ["lived", "stopped", "painted", "rained"], "answer": 1,
+          "explanation": "Stop berakhir bunyi /p/ (tak bersuara), jadi stopped = /stɒpt/. Lived dan rained = /d/, painted = /ɪd/."
+        },
+        {
+          "id": "a2-u02-l2-q6", "type": "short_answer", "category": "pronunciation", "topic": "-ed pronunciation", "difficulty": 3, "stage": "quiz",
+          "prompt": "How many syllables are there in the word started? Write a number.",
+          "answers": ["2", "two"],
+          "explanation": "Start (1 suku kata) berakhir bunyi t, jadi started mendapat suku kata tambahan: star-ted = 2 suku kata."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u02-l3-irregular-verbs",
+      "title": "Common Irregular Verbs",
+      "summary": "Menghafal bentuk lampau kata kerja tidak beraturan yang paling sering dipakai.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan 15 kata kerja tidak beraturan yang paling umum",
+        "Menghindari kesalahan seperti goed atau buyed"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu irregular verbs?\nBanyak kata kerja yang paling sering dipakai dalam bahasa Inggris **tidak** memakai -ed. Bentuk lampaunya harus **dihafal**. Kata kerja ini disebut *irregular verbs* (kata kerja tidak beraturan).\n\n*I **went** to the market. She **bought** some fruit.* (bukan ~~goed~~, ~~buyed~~)\n\n### 15 kata kerja tidak beraturan yang wajib dihafal\n| Base | Past | Arti |\n| --- | --- | --- |\n| go | **went** | pergi |\n| have | **had** | punya, makan/minum |\n| see | **saw** | melihat |\n| eat | **ate** | makan |\n| drink | **drank** | minum |\n| make | **made** | membuat |\n| do | **did** | melakukan, mengerjakan |\n| get | **got** | mendapat, tiba |\n| buy | **bought** | membeli |\n| come | **came** | datang |\n| take | **took** | mengambil, membawa |\n| meet | **met** | bertemu |\n| give | **gave** | memberi |\n| find | **found** | menemukan |\n| leave | **left** | pergi meninggalkan, berangkat |\n\n### Kabar baik\nSeperti kata kerja beraturan, bentuk lampau ini **sama untuk semua subjek**: *I went, she went, they went.*\n\n### Cara menghafal\n1. **Kelompokkan bunyi yang mirip**: *buy → bought*, *bring → brought*, *think → thought* (semua berakhiran *-ought*).\n2. **Buat kalimat tentang dirimu**: *Yesterday I got up at six, had breakfast, and went to work.*\n3. **Latih sedikit setiap hari** dengan kartu review.\n\n### Have dalam past simple\n*Have* sering dipakai dalam ungkapan: *have breakfast/lunch/dinner*, *have a shower*, *have a good time*. Dalam bentuk lampau semuanya menjadi **had**: *We had a good time at the beach.*\n\n### Do sebagai kata kerja utama\n*Did* di sini adalah kata kerja utama yang berarti *mengerjakan*: *I did my homework after dinner.* (Penggunaan *did* untuk kalimat negatif dan pertanyaan akan dipelajari di unit berikutnya.)",
+        "examples": [
+          { "en": "We went to the night market on Friday.", "id": "Kami pergi ke pasar malam hari Jumat.", "note": "go → went" },
+          { "en": "I met my old classmate at the mall.", "id": "Saya bertemu teman sekelas lama di mal.", "note": "meet → met" },
+          { "en": "She bought a new bag and gave it to her mother.", "id": "Dia membeli tas baru dan memberikannya kepada ibunya.", "note": "buy → bought, give → gave" },
+          { "en": "They had dinner at a seafood restaurant.", "id": "Mereka makan malam di restoran makanan laut.", "note": "have dinner → had dinner" }
+        ],
+        "vocabulary": [
+          { "word": "went", "pos": "verb (past of go)", "ipa": "/went/", "meaning": "pergi (lampau)", "example": "Ani went to the library after school." },
+          { "word": "bought", "pos": "verb (past of buy)", "ipa": "/bɔːt/", "meaning": "membeli (lampau)", "example": "I bought two tickets online." },
+          { "word": "saw", "pos": "verb (past of see)", "ipa": "/sɔː/", "meaning": "melihat (lampau)", "example": "We saw a rainbow after the rain." },
+          { "word": "left", "pos": "verb (past of leave)", "ipa": "/left/", "meaning": "berangkat, meninggalkan (lampau)", "example": "The bus left at 7:15." },
+          { "word": "found", "pos": "verb (past of find)", "ipa": "/faʊnd/", "meaning": "menemukan (lampau)", "example": "He found his keys under the sofa." },
+          { "word": "took", "pos": "verb (past of take)", "ipa": "/tʊk/", "meaning": "mengambil, membawa, naik (lampau)", "example": "We took a taxi to the hotel." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + irregular past form + ...", "example": "My uncle came to our house last night.", "note": "Bentuk sama untuk semua subjek." },
+          { "pattern": "had + breakfast / lunch / a shower / a good time", "example": "We had a great time at the zoo.", "note": "Have dalam ungkapan menjadi had." }
+        ],
+        "mistakes": [
+          { "wrong": "Yesterday I buyed a new phone.", "right": "Yesterday I bought a new phone.", "why": "Buy adalah kata kerja tidak beraturan: bought." },
+          { "wrong": "We goed to the beach last Sunday.", "right": "We went to the beach last Sunday.", "why": "Go adalah kata kerja tidak beraturan: went." },
+          { "wrong": "She eated rice for lunch.", "right": "She ate rice for lunch.", "why": "Eat adalah kata kerja tidak beraturan: ate." }
+        ],
+        "summary": "Kata kerja tidak beraturan tidak memakai -ed dan harus dihafal: **go–went, have–had, see–saw, eat–ate, buy–bought, take–took, meet–met, make–made, get–got, come–came**, dan lainnya. Bentuknya sama untuk semua subjek.",
+        "reviewCards": [
+          { "front": "go (past)", "back": "went" },
+          { "front": "buy (past)", "back": "bought" },
+          { "front": "meet (past)", "back": "met" },
+          { "front": "leave (past)", "back": "left" },
+          { "front": "take (past)", "back": "took" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u02-l3-q1", "type": "single_choice", "category": "grammar", "topic": "past simple irregular", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: Last summer we ___ to Lombok.",
+          "options": ["goed", "went", "go", "gone"], "answer": 1,
+          "explanation": "Go adalah kata kerja tidak beraturan. Bentuk past simple-nya went.",
+          "misconception": "Menambahkan -ed pada semua kata kerja."
+        },
+        {
+          "id": "a2-u02-l3-q2", "type": "matching", "category": "grammar", "topic": "past simple irregular", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each verb with its past simple form.",
+          "pairs": [
+            { "left": "buy", "right": "bought" },
+            { "left": "eat", "right": "ate" },
+            { "left": "see", "right": "saw" },
+            { "left": "take", "right": "took" },
+            { "left": "come", "right": "came" }
+          ],
+          "explanation": "Semua ini kata kerja tidak beraturan yang harus dihafal: buy–bought, eat–ate, see–saw, take–took, come–came."
+        },
+        {
+          "id": "a2-u02-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the past simple of the verbs in brackets.",
+          "text": "On Saturday I ___ (meet) my friends and we ___ (have) lunch at a noodle bar.",
+          "answers": [["met"], ["had"]],
+          "explanation": "Meet → met dan have → had. Keduanya kata kerja tidak beraturan."
+        },
+        {
+          "id": "a2-u02-l3-q4", "type": "error_identification", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["Yesterday", "I", "buyed", "a new phone."],
+          "errorIndex": 2, "correction": "bought",
+          "explanation": "Buy adalah kata kerja tidak beraturan. Bentuk lampaunya bought."
+        },
+        {
+          "id": "a2-u02-l3-q5", "type": "sentence_transformation", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "quiz",
+          "prompt": "Rewrite the sentence in the past simple.",
+          "sentence": "I go to the gym every day.",
+          "cue": "Begin with: Yesterday I ...",
+          "answers": ["Yesterday I went to the gym.", "Yesterday, I went to the gym."],
+          "explanation": "Every day diganti yesterday, jadi go berubah menjadi went."
+        },
+        {
+          "id": "a2-u02-l3-q6", "type": "word_order", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["She", "saw", "a", "great", "film", "at", "the", "cinema."],
+          "explanation": "Pola: subjek (She) + kata kerja lampau (saw) + objek (a great film) + tempat (at the cinema)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u02-l4-weekend-holiday-activities",
+      "title": "Weekend and Holiday Activities",
+      "summary": "Kosakata kegiatan akhir pekan dan liburan beserta kata kerja tidak beraturan tambahan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kolokasi kegiatan liburan: go swimming, take photos, have a picnic",
+        "Menggunakan kata kerja tidak beraturan tambahan: swim, sleep, spend, fly, write, bring"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kolokasi kegiatan liburan\nDalam bahasa Inggris, kegiatan sering dibentuk dengan **pasangan kata tetap** (*collocations*). Bahasa Indonesia sering memakai satu kata (*berkemah*, *berfoto*), sedangkan bahasa Inggris memakai kata kerja + kata benda.\n\n| Kata kerja | Kegiatan | Past simple |\n| --- | --- | --- |\n| **go** + -ing | go swimming, go shopping, go camping, go fishing, go hiking | *We **went** camping.* |\n| **have** | have a picnic, have a barbecue, have a good time | *They **had** a picnic.* |\n| **take** | take photos, take a boat trip, take a taxi | *I **took** a lot of photos.* |\n| **stay** | stay in a hotel, stay at home, stay with friends | *We **stayed** with my aunt.* |\n| **visit** | visit relatives, visit a museum | *She **visited** her grandparents.* |\n| **spend** | spend time / money / a week | *We **spent** three days in Bali.* |\n\n### Kata kerja tidak beraturan tambahan\n| Base | Past | Arti |\n| --- | --- | --- |\n| swim | **swam** | berenang |\n| sleep | **slept** | tidur |\n| spend | **spent** | menghabiskan (waktu/uang) |\n| fly | **flew** | terbang, naik pesawat |\n| write | **wrote** | menulis |\n| read | **read** /red/ | membaca |\n| bring | **brought** | membawa |\n| sit | **sat** | duduk |\n| ride | **rode** | naik (sepeda/kuda) |\n\nPerhatikan *read*: ejaannya sama, tetapi pelafalan lampaunya /red/ (seperti warna *red*).\n\n### Go + -ing, bukan go to + -ing\nKita berkata **went swimming**, bukan ~~went to swimming~~. Tetapi untuk tempat, pakai *to*: *went to the pool*.\n\n### Do atau make?\n*Do* untuk kegiatan/pekerjaan (*did my homework, did the housework*), *make* untuk membuat sesuatu (*made a cake, made a sandcastle*).",
+        "examples": [
+          { "en": "We went hiking in the mountains last weekend.", "id": "Kami mendaki gunung akhir pekan lalu.", "note": "go hiking → went hiking" },
+          { "en": "My sister took hundreds of photos at the beach.", "id": "Kakak perempuanku mengambil ratusan foto di pantai.", "note": "take photos → took photos" },
+          { "en": "We spent a week in a small village near the lake.", "id": "Kami menghabiskan seminggu di desa kecil dekat danau.", "note": "spend → spent" },
+          { "en": "I slept until ten on Sunday and read a novel in bed.", "id": "Saya tidur sampai jam sepuluh hari Minggu dan membaca novel di tempat tidur.", "note": "sleep → slept, read → read /red/" }
+        ],
+        "vocabulary": [
+          { "word": "go camping", "pos": "phrase", "ipa": "/ɡəʊ ˈkæmpɪŋ/", "meaning": "berkemah", "example": "They went camping by the river." },
+          { "word": "picnic", "pos": "noun", "ipa": "/ˈpɪknɪk/", "meaning": "piknik", "example": "We had a picnic in the botanical garden." },
+          { "word": "relatives", "pos": "noun", "ipa": "/ˈrelətɪvz/", "meaning": "kerabat, sanak saudara", "example": "We visited our relatives in Padang." },
+          { "word": "spend", "pos": "verb", "ipa": "/spend/", "meaning": "menghabiskan (waktu/uang)", "example": "I spent all my money on souvenirs." },
+          { "word": "souvenir", "pos": "noun", "ipa": "/ˌsuːvəˈnɪə/", "meaning": "oleh-oleh, cendera mata", "example": "She brought souvenirs for her friends." },
+          { "word": "sightseeing", "pos": "noun", "ipa": "/ˈsaɪtsiːɪŋ/", "meaning": "jalan-jalan melihat tempat wisata", "example": "We went sightseeing in the old town." }
+        ],
+        "grammar": [
+          { "pattern": "went + activity-ing", "example": "They went fishing on Saturday.", "note": "Tanpa to." },
+          { "pattern": "spent + time + in/at + place", "example": "We spent two nights in Malang.", "note": "spend → spent" },
+          { "pattern": "had / took + noun", "example": "We had a barbecue and took photos.", "note": "Kolokasi tetap." }
+        ],
+        "mistakes": [
+          { "wrong": "We went to swimming in the sea.", "right": "We went swimming in the sea.", "why": "Go + -ing tidak memakai to." },
+          { "wrong": "I maked a sandcastle on the beach.", "right": "I made a sandcastle on the beach.", "why": "Make adalah kata kerja tidak beraturan: made." },
+          { "wrong": "We did a lot of photos.", "right": "We took a lot of photos.", "why": "Kolokasi yang benar adalah take photos." }
+        ],
+        "summary": "Kegiatan liburan memakai kolokasi: **went swimming/camping/shopping**, **had a picnic**, **took photos**, **stayed in a hotel**, **spent a week**. Hafalkan juga *swam, slept, spent, flew, wrote, read, brought, sat, rode*.",
+        "reviewCards": [
+          { "front": "berkemah (past)", "back": "went camping" },
+          { "front": "spend (past)", "back": "spent" },
+          { "front": "mengambil foto (past)", "back": "took photos" },
+          { "front": "fly (past)", "back": "flew" },
+          { "front": "bring (past)", "back": "brought" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u02-l4-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "holiday activities", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best word: The view was beautiful. We ___ a lot of photos of the mountains.",
+          "options": ["took", "made", "did", "went"], "answer": 0,
+          "explanation": "Kolokasi yang benar adalah take photos, bentuk lampaunya took photos.",
+          "misconception": "Menerjemahkan 'membuat foto' menjadi make photos."
+        },
+        {
+          "id": "a2-u02-l4-q2", "type": "drag_drop", "category": "vocabulary", "topic": "holiday activities", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct verbs into the gaps.",
+          "text": "On holiday we ___ camping, ___ a picnic by the lake and ___ two nights in a small village.",
+          "bank": ["went", "had", "spent", "made", "did"],
+          "answers": ["went", "had", "spent"],
+          "explanation": "Went camping (go + -ing), had a picnic, spent two nights (menghabiskan dua malam)."
+        },
+        {
+          "id": "a2-u02-l4-q3", "type": "matching", "category": "vocabulary", "topic": "holiday activities", "difficulty": 1, "stage": "independent",
+          "prompt": "Match the verbs with the words that go with them.",
+          "pairs": [
+            { "left": "go", "right": "shopping" },
+            { "left": "have", "right": "a barbecue" },
+            { "left": "take", "right": "a boat trip" },
+            { "left": "visit", "right": "my grandparents" },
+            { "left": "stay", "right": "in a hotel" }
+          ],
+          "explanation": "Kolokasi: go shopping, have a barbecue, take a boat trip, visit my grandparents, stay in a hotel."
+        },
+        {
+          "id": "a2-u02-l4-q4", "type": "single_choice", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "quiz",
+          "prompt": "On Sunday I ___ until ten o'clock. I was very tired after the trip.",
+          "options": ["slept", "sleeped", "sleep", "sleeping"], "answer": 0,
+          "explanation": "Sleep adalah kata kerja tidak beraturan: slept."
+        },
+        {
+          "id": "a2-u02-l4-q5", "type": "dropdown", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct verb forms.",
+          "text": "Last weekend my family ___ to the beach. We ___ in the sea and my dad ___ some fish for lunch.",
+          "choices": [["go", "went", "goed"], ["swam", "swimmed", "swim"], ["cooked", "cook", "cooks"]],
+          "answers": [1, 0, 0],
+          "explanation": "Last weekend → past simple: went (go), swam (swim), cooked (cook + -ed)."
+        },
+        {
+          "id": "a2-u02-l4-q6", "type": "translation", "category": "writing", "topic": "holiday activities", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Minggu lalu kami menginap di hotel kecil dekat pantai.", "direction": "id-en",
+          "answers": [
+            "Last week we stayed in a small hotel near the beach.",
+            "Last week we stayed at a small hotel near the beach.",
+            "We stayed in a small hotel near the beach last week.",
+            "We stayed at a small hotel near the beach last week.",
+            "Last week, we stayed in a small hotel near the beach.",
+            "Last week, we stayed at a small hotel near the beach."
+          ],
+          "explanation": "Menginap = stay → stayed. Hotel kecil = a small hotel (adjective sebelum noun). Dekat pantai = near the beach."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u02-l5-my-weekend",
+      "title": "Describing a Past Weekend",
+      "summary": "Menggabungkan past simple, was/were, dan keterangan waktu untuk bercerita tentang akhir pekan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menyusun cerita pendek tentang akhir pekan dengan urutan waktu",
+        "Menggabungkan kata kerja beraturan, tidak beraturan, dan was/were"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis cerita pendek, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menyusun cerita akhir pekan\nSaat bercerita tentang akhir pekan, kita biasanya menyebutkan kegiatan **berdasarkan waktu**. Gunakan keterangan waktu ini untuk mengatur ceritamu:\n\n| Keterangan waktu | Arti |\n| --- | --- |\n| on Saturday morning | Sabtu pagi |\n| in the afternoon | siang/sore harinya |\n| in the evening | malam harinya |\n| at lunchtime | saat makan siang |\n| on Sunday | hari Minggu |\n| at the weekend / last weekend | akhir pekan / akhir pekan lalu |\n\n### Contoh cerita\n*Last weekend was really nice. On Saturday morning I got up late and had breakfast with my family. In the afternoon I met my friend Tika and we went shopping. I bought a new T-shirt. In the evening we watched a film at home. On Sunday I visited my grandparents. My grandmother cooked rendang and it was delicious!*\n\n### Bagian-bagian cerita\n1. **Kalimat pembuka**: kesan umum — *Last weekend was really nice / busy / relaxing.*\n2. **Kegiatan** (past simple): *got up, had, met, went, bought, watched, visited, cooked*.\n3. **Deskripsi dan perasaan** (was/were): *It was delicious. I was tired.*\n\n### Menggabungkan kalimat dengan and\nGunakan **and** untuk menggabungkan dua kegiatan dengan subjek yang sama: *I got up late **and** had breakfast.* Kamu tidak perlu mengulang *I*.\n\n### Pertanyaan yang sering diajukan\nTeman sering bertanya **How was your weekend?** Jawaban yang baik bukan hanya *Good*, tetapi kalimat lengkap: *It was great! I went to the beach with my cousins.* Lalu temanmu bisa membalas *That sounds fun!* atau *Lucky you!*\n\n### Cek tata bahasa\n- Semua kegiatan memakai **bentuk lampau** — jangan campur dengan present (*I go* ✗ → *I went* ✓).\n- Gunakan *was/were* untuk deskripsi, bukan *did*: *The food was delicious.*\n- Kata kerja lampau **tidak berubah** setelah he/she: *She went*, bukan *She wents*.",
+        "examples": [
+          { "en": "On Saturday morning I got up late and had a big breakfast.", "id": "Sabtu pagi saya bangun siang dan sarapan banyak.", "note": "get → got, have → had" },
+          { "en": "In the afternoon we went shopping and I bought a new jacket.", "id": "Siang harinya kami berbelanja dan saya membeli jaket baru.", "note": "go → went, buy → bought" },
+          { "en": "In the evening my brother cooked fried rice for everyone.", "id": "Malam harinya kakak laki-lakiku memasak nasi goreng untuk semua orang.", "note": "cook → cooked" },
+          { "en": "Last weekend was very relaxing.", "id": "Akhir pekan lalu sangat santai.", "note": "kalimat pembuka dengan was" }
+        ],
+        "vocabulary": [
+          { "word": "get up", "pos": "phrasal verb", "ipa": "/ɡet ʌp/", "meaning": "bangun (dari tempat tidur)", "example": "I got up at nine on Sunday." },
+          { "word": "relaxing", "pos": "adjective", "ipa": "/rɪˈlæksɪŋ/", "meaning": "menenangkan, santai", "example": "The weekend was very relaxing." },
+          { "word": "delicious", "pos": "adjective", "ipa": "/dɪˈlɪʃəs/", "meaning": "lezat", "example": "The soup was delicious." },
+          { "word": "lunchtime", "pos": "noun", "ipa": "/ˈlʌntʃtaɪm/", "meaning": "waktu makan siang", "example": "At lunchtime we had noodles." },
+          { "word": "housework", "pos": "noun", "ipa": "/ˈhaʊswɜːk/", "meaning": "pekerjaan rumah tangga", "example": "I did the housework on Saturday morning." }
+        ],
+        "grammar": [
+          { "pattern": "On + day + morning/afternoon/evening, + past simple", "example": "On Sunday evening we played cards.", "note": "Keterangan waktu di awal untuk mengurutkan cerita." },
+          { "pattern": "Subject + past verb + and + past verb", "example": "I went home and slept.", "note": "Tidak perlu mengulang subjek." }
+        ],
+        "mistakes": [
+          { "wrong": "On Saturday I go to the market and buy some fruit.", "right": "On Saturday I went to the market and bought some fruit.", "why": "Cerita tentang akhir pekan yang lalu memakai past simple untuk semua kegiatan." },
+          { "wrong": "The film did very good.", "right": "The film was very good.", "why": "Untuk deskripsi dengan adjective, pakai was/were." },
+          { "wrong": "In Sunday afternoon we played football.", "right": "On Sunday afternoon we played football.", "why": "Hari + bagian hari memakai on." }
+        ],
+        "summary": "Untuk menceritakan akhir pekan: mulai dengan kesan umum (*Last weekend was great*), urutkan kegiatan dengan **on Saturday morning / in the afternoon / in the evening**, pakai **past simple** untuk kegiatan dan **was/were** untuk deskripsi.",
+        "reviewCards": [
+          { "front": "How was your weekend?", "back": "It was great! I went to ... and ..." },
+          { "front": "Sabtu pagi", "back": "on Saturday morning" },
+          { "front": "get up (past)", "back": "got up" },
+          { "front": "Deskripsi film yang bagus (past)", "back": "The film was very good." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u02-l5-q1", "type": "single_choice", "category": "reading", "topic": "weekend stories", "difficulty": 1, "stage": "guided",
+          "prompt": "Read the text. Where was Nadia on Saturday evening?",
+          "context": "Nadia's weekend was busy. On Saturday morning she cleaned her flat. In the afternoon she went to the library and studied for three hours. In the evening she met her friends at a karaoke bar. On Sunday she stayed at home and slept a lot.",
+          "options": ["At home", "At the library", "At a karaoke bar", "At her friend's flat"], "answer": 2,
+          "explanation": "Teks menyebutkan: In the evening she met her friends at a karaoke bar. In the evening = malam hari (Sabtu)."
+        },
+        {
+          "id": "a2-u02-l5-q2", "type": "essay", "category": "writing", "topic": "weekend stories", "difficulty": 2, "stage": "independent",
+          "prompt": "Write about your last weekend. Say what you did on Saturday and Sunday, where you went, and how it was. Use at least five past simple verbs.",
+          "minWords": 50, "maxWords": 100, "rubric": "general-writing",
+          "explanation": "Mulailah dengan kalimat pembuka (Last weekend was...), urutkan kegiatan dengan on Saturday morning / in the afternoon, dan akhiri dengan perasaanmu."
+        },
+        {
+          "id": "a2-u02-l5-q3", "type": "sentence_reconstruction", "category": "writing", "topic": "weekend stories", "difficulty": 2, "stage": "independent",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": ["On Sunday afternoon", "my brother and I", "played badminton", "in the park", "near our house."],
+          "acceptedAnswers": ["My brother and I played badminton in the park near our house on Sunday afternoon."],
+          "explanation": "Keterangan waktu di awal, lalu subjek (my brother and I), kata kerja lampau (played), objek, dan tempat."
+        },
+        {
+          "id": "a2-u02-l5-q4", "type": "fill_blank", "category": "grammar", "topic": "past simple", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the text with the past simple of the verbs in brackets.",
+          "text": "Last Saturday I ___ (get) up at seven. I ___ (clean) my room and ___ (do) my homework. In the afternoon I ___ (ride) my bike to the lake.",
+          "answers": [["got"], ["cleaned"], ["did"], ["rode"]],
+          "explanation": "Get → got, clean → cleaned (beraturan), do → did, ride → rode."
+        },
+        {
+          "id": "a2-u02-l5-q5", "type": "error_identification", "category": "grammar", "topic": "past simple", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["In the evening", "we", "eated", "pizza", "at home."],
+          "errorIndex": 2, "correction": "ate",
+          "explanation": "Eat adalah kata kerja tidak beraturan. Bentuk lampaunya ate, bukan eated."
+        },
+        {
+          "id": "a2-u02-l5-q6", "type": "dialogue_completion", "category": "conversation", "topic": "weekend stories", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Fajar", "text": "Hi Wulan! How was your weekend?" },
+            { "speaker": "Wulan", "text": null },
+            { "speaker": "Fajar", "text": "That sounds nice!" }
+          ],
+          "options": ["It was great. I visited my aunt in Bogor.", "I visit my aunt every weekend.", "Yes, it was.", "It's great. I'm visiting my aunt."],
+          "answer": 0,
+          "explanation": "How was...? menanyakan akhir pekan yang sudah lewat, jadi jawabannya memakai was dan past simple (visited)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u02-t-q1", "type": "single_choice", "category": "grammar", "topic": "past simple irregular", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct word: Dewi ___ a long letter to her pen friend last month.",
+      "options": ["writed", "wrote", "writes", "written"], "answer": 1,
+      "explanation": "Write adalah kata kerja tidak beraturan: wrote."
+    },
+    {
+      "id": "a2-u02-t-q2", "type": "fill_blank", "category": "grammar", "topic": "past simple", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete with the past simple of the verbs in brackets.",
+      "text": "My cousins ___ (arrive) on Friday and ___ (bring) a big chocolate cake.",
+      "answers": [["arrived"], ["brought"]],
+      "explanation": "Arrive berakhiran e → arrived. Bring tidak beraturan → brought."
+    },
+    {
+      "id": "a2-u02-t-q3", "type": "matching", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Match each verb with its past simple form.",
+      "pairs": [
+        { "left": "give", "right": "gave" },
+        { "left": "find", "right": "found" },
+        { "left": "leave", "right": "left" },
+        { "left": "drink", "right": "drank" }
+      ],
+      "explanation": "Kata kerja tidak beraturan: give–gave, find–found, leave–left, drink–drank."
+    },
+    {
+      "id": "a2-u02-t-q4", "type": "single_choice", "category": "pronunciation", "topic": "-ed pronunciation", "difficulty": 2, "stage": "unit_test",
+      "prompt": "In which verb is -ed pronounced /ɪd/?",
+      "options": ["arrived", "laughed", "danced", "ended"], "answer": 3,
+      "explanation": "End berakhir dengan bunyi d, jadi ended = /ˈendɪd/. Arrived = /d/, laughed dan danced = /t/."
+    },
+    {
+      "id": "a2-u02-t-q5", "type": "sentence_correction", "category": "grammar", "topic": "past simple irregular", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "Last year my family flyed to Makassar.",
+      "answers": ["Last year my family flew to Makassar.", "My family flew to Makassar last year.", "Last year, my family flew to Makassar."],
+      "explanation": "Fly adalah kata kerja tidak beraturan: flew."
+    },
+    {
+      "id": "a2-u02-t-q6", "type": "word_order", "category": "grammar", "topic": "past simple", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["We", "spent", "three", "days", "in", "Yogyakarta."],
+      "explanation": "Subjek + spent + jumlah waktu + in + tempat."
+    },
+    {
+      "id": "a2-u02-t-q7", "type": "translation", "category": "writing", "topic": "past simple irregular", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Saya membeli sepatu baru kemarin.", "direction": "id-en",
+      "answers": [
+        "I bought new shoes yesterday.",
+        "I bought some new shoes yesterday.",
+        "I bought a new pair of shoes yesterday.",
+        "Yesterday I bought new shoes.",
+        "Yesterday I bought some new shoes.",
+        "Yesterday I bought a new pair of shoes."
+      ],
+      "explanation": "Membeli → buy → bought (kata kerja tidak beraturan). Sepatu baru = new shoes."
+    }
+  ]
+}

@@ -1,0 +1,1335 @@
+{
+  "slug": "b1-u08-relative-clauses",
+  "number": 8,
+  "title": "People, Places and Things",
+  "description": "Mendeskripsikan orang, benda, dan tempat secara tepat dengan defining relative clauses. Kamu akan belajar who, which, that, where, whose, when, serta kapan relative pronoun boleh dihilangkan.",
+  "objectives": [
+    "Menggunakan who, which, dan that untuk menjelaskan orang dan benda",
+    "Menggunakan where, whose, dan when untuk tempat, kepemilikan, dan waktu",
+    "Menghilangkan relative pronoun ketika berfungsi sebagai object",
+    "Memberi definisi dan deskripsi tempat yang jelas dan tepat"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u08-l1-who-which-that",
+      "title": "Who, Which and That",
+      "summary": "Memakai who, which, dan that dalam defining relative clauses untuk menjelaskan orang atau benda yang kita maksud.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memahami fungsi defining relative clause",
+        "Memilih who untuk orang, which untuk benda, dan that untuk keduanya",
+        "Menggabungkan dua kalimat dengan relative pronoun"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu defining relative clause?\nA **defining relative clause** gives essential information about a noun: it tells us *which* person or thing we mean. Dalam bahasa Indonesia, fungsi ini biasanya dijalankan oleh kata **yang**:\n- *The woman **who lives next door** is a nurse.* (Perempuan **yang tinggal di sebelah** adalah perawat.)\n- *I lost the umbrella **which you gave me**.* (Saya menghilangkan payung **yang kamu berikan kepadaku**.)\n\nWithout the clause, the sentence is unclear: *The woman is a nurse* — perempuan yang mana?\n\n### Memilih relative pronoun\nBahasa Indonesia hanya punya satu kata *yang*, tetapi bahasa Inggris membedakannya:\n\n| Pronoun | Used for | Example |\n|---|---|---|\n| **who** | people (orang) | *a friend who speaks four languages* |\n| **which** | things and animals (benda, hewan) | *a bus which goes to the airport* |\n| **that** | people OR things | *a friend that... / a bus that...* |\n\n*That* is very common in everyday speech. *Who* is more usual for people in careful writing, but both are correct.\n\n### Menggabungkan dua kalimat\n1. *I have a neighbour. **She** grows her own vegetables.*\n2. Ganti *she* dengan **who** dan letakkan clause tepat setelah noun: *I have a neighbour **who** grows her own vegetables.*\n\nThe relative pronoun **replaces** the pronoun (*she, he, it, they*). Jangan menulis keduanya: ~~a neighbour who she grows~~.\n\n### Posisi clause\nThe clause comes **immediately after** the noun it describes, even in the middle of a sentence:\n- *The man **who repaired my car** was very friendly.*\n- *The phone **that I bought** is already broken.*\n\nPerhatikan: kata kerja utama (*was, is*) datang setelah clause selesai. The verb agrees with the main subject (*the man → was*).\n\n### Tanpa koma\nDefining relative clauses **never** use commas, because the information is necessary. Jangan menulis ~~The man, who repaired my car, was friendly~~ jika maksudmu adalah membedakan laki-laki itu dari laki-laki lain.\n\n### Hati-hati\n- *Which* is not used for people: ~~the teacher which~~ → *the teacher who/that*.\n- *Who* is not used for things: ~~the book who~~ → *the book which/that*.",
+        "examples": [
+          {
+            "en": "The woman who lives next door is a nurse.",
+            "id": "Perempuan yang tinggal di sebelah adalah seorang perawat.",
+            "note": "who untuk orang."
+          },
+          {
+            "en": "This is the bus which goes to the airport.",
+            "id": "Ini bus yang pergi ke bandara.",
+            "note": "which untuk benda."
+          },
+          {
+            "en": "I have a friend that speaks four languages.",
+            "id": "Saya punya teman yang bisa berbicara empat bahasa.",
+            "note": "that untuk orang juga benar."
+          },
+          {
+            "en": "The man who repaired my car was very friendly.",
+            "id": "Laki-laki yang memperbaiki mobil saya sangat ramah.",
+            "note": "Clause di tengah kalimat; verb utama = was."
+          },
+          {
+            "en": "We need a printer that works quickly.",
+            "id": "Kami butuh printer yang bekerja dengan cepat.",
+            "note": "that untuk benda."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "neighbour",
+            "pos": "noun",
+            "ipa": "/ˈneɪbə/",
+            "meaning": "tetangga",
+            "example": "I have a neighbour who grows her own vegetables."
+          },
+          {
+            "word": "colleague",
+            "pos": "noun",
+            "ipa": "/ˈkɒliːɡ/",
+            "meaning": "rekan kerja",
+            "example": "The colleague who helped me is from Lakemoor."
+          },
+          {
+            "word": "customer",
+            "pos": "noun",
+            "ipa": "/ˈkʌstəmə/",
+            "meaning": "pelanggan",
+            "example": "Customers who spend over 100,000 rupiah get a free drink."
+          },
+          {
+            "word": "device",
+            "pos": "noun",
+            "ipa": "/dɪˈvaɪs/",
+            "meaning": "perangkat; alat",
+            "example": "A smartwatch is a device that counts your steps."
+          },
+          {
+            "word": "contest",
+            "pos": "noun",
+            "ipa": "/ˈkɒntest/",
+            "meaning": "lomba; kontes",
+            "example": "She's the girl who won the singing contest."
+          },
+          {
+            "word": "repair",
+            "pos": "verb",
+            "ipa": "/rɪˈpeə/",
+            "meaning": "memperbaiki",
+            "example": "I know a shop that repairs old radios."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "noun (person) + who/that + verb",
+            "example": "The girl who won the contest is my cousin.",
+            "note": "who/that menggantikan subject (she)."
+          },
+          {
+            "pattern": "noun (thing) + which/that + verb",
+            "example": "I bought a bag which has six pockets.",
+            "note": "which/that untuk benda dan hewan."
+          },
+          {
+            "pattern": "Subject + [relative clause] + main verb",
+            "example": "The man who called you is my uncle.",
+            "note": "Clause langsung setelah noun; verb utama setelah clause."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The teacher which helped me is very kind.",
+            "right": "The teacher who helped me is very kind.",
+            "why": "Which tidak dipakai untuk orang; pakai who atau that."
+          },
+          {
+            "wrong": "I have a neighbour who she grows vegetables.",
+            "right": "I have a neighbour who grows vegetables.",
+            "why": "Who sudah menggantikan she; jangan ulangi pronoun."
+          },
+          {
+            "wrong": "The book who is on the table is mine.",
+            "right": "The book which is on the table is mine.",
+            "why": "Who hanya untuk orang; untuk benda pakai which atau that."
+          },
+          {
+            "wrong": "The man who repaired my car he was very friendly.",
+            "right": "The man who repaired my car was very friendly.",
+            "why": "Subject utama (the man) tidak perlu diulang dengan he."
+          }
+        ],
+        "summary": "Defining relative clauses tell us **which person or thing** we mean. Gunakan **who** untuk orang, **which** untuk benda, dan **that** untuk keduanya. Letakkan clause tepat setelah noun, tanpa koma, dan jangan mengulang pronoun seperti *he/she/it*.",
+        "reviewCards": [
+          {
+            "front": "who / which / that — untuk apa?",
+            "back": "who: orang; which: benda/hewan; that: orang atau benda"
+          },
+          {
+            "front": "I have a neighbour. She grows vegetables. → gabungkan",
+            "back": "I have a neighbour who grows vegetables."
+          },
+          {
+            "front": "Apakah defining relative clause memakai koma?",
+            "back": "Tidak — informasinya penting untuk mengenali noun."
+          },
+          {
+            "front": "the teacher which ... — benar?",
+            "back": "Salah. the teacher who/that ..."
+          },
+          {
+            "front": "Kata 'yang' dalam bahasa Inggris?",
+            "back": "who / which / that (tergantung noun-nya)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u08-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "who / which / that",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "A chef is a person ___ cooks food in a restaurant.",
+          "options": ["who", "which", "where", "whose"],
+          "answer": 0,
+          "explanation": "*A person* adalah orang → **who** (atau *that*). *Which* untuk benda, *where* untuk tempat, *whose* untuk kepemilikan.",
+          "misconception": "Bahasa Indonesia memakai 'yang' untuk semua, tetapi bahasa Inggris membedakan orang dan benda."
+        },
+        {
+          "id": "b1-u08-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "who / which / that",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete each gap with ONE relative pronoun.",
+          "text": "I have a friend ___ speaks four languages, and she works for a company ___ makes language-learning apps.",
+          "answers": [["who", "that"], ["which", "that"]],
+          "explanation": "Gap 1: *a friend* (orang) → **who/that**. Gap 2: *a company* (benda/organisasi) → **which/that**."
+        },
+        {
+          "id": "b1-u08-l1-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "who / which / that",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match the beginnings with the correct endings.",
+          "pairs": [
+            { "left": "A dentist is a person", "right": "who looks after your teeth." },
+            { "left": "A fridge is a machine", "right": "that keeps food cold." },
+            { "left": "A dictionary is a book", "right": "which explains the meanings of words." },
+            { "left": "A pilot is someone", "right": "who flies planes." }
+          ],
+          "explanation": "Setiap definisi memakai noun umum (*a person, a machine, a book, someone*) + relative clause yang menjelaskan fungsinya. Who untuk orang; which/that untuk benda."
+        },
+        {
+          "id": "b1-u08-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "who vs which",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["The man", "which", "repaired my car", "was very friendly."],
+          "errorIndex": 1,
+          "correction": "who",
+          "explanation": "*The man* adalah orang → **who** (atau *that*), bukan *which*."
+        },
+        {
+          "id": "b1-u08-l1-q5",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "joining sentences with who",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Join the two sentences into one.",
+          "sentence": "I met a woman. She works at the town museum.",
+          "cue": "Begin with: I met a woman ...",
+          "answers": [
+            "I met a woman who works at the town museum.",
+            "I met a woman that works at the town museum."
+          ],
+          "explanation": "Ganti *she* dengan **who** (atau *that*): *I met a woman who works at the town museum.* Jangan menulis *who she works*."
+        },
+        {
+          "id": "b1-u08-l1-q6",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "who / which",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct relative pronouns.",
+          "text": "Do you know the girl ___ won the singing contest? The song ___ made her famous is called 'Blue Rain'.",
+          "choices": [["who", "which", "where"], ["who", "which", "where"]],
+          "answers": [0, 1],
+          "explanation": "*The girl* (orang) → **who**. *The song* (benda) → **which**. *Where* hanya untuk tempat."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u08-l2-where-whose-when",
+      "title": "Where, Whose and When",
+      "summary": "Memakai where untuk tempat, whose untuk kepemilikan, dan when untuk waktu dalam defining relative clauses.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan where setelah noun tempat",
+        "Menggunakan whose + noun untuk menyatakan kepemilikan",
+        "Menggunakan when setelah noun waktu (day, year, time)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tiga relative words baru\n| Word | Used for | Example | Bahasa Indonesia |\n|---|---|---|---|\n| **where** | places | *the café where I met my husband* | kafe **tempat** saya bertemu suami |\n| **whose** | possession | *the woman whose daughter sings* | perempuan **yang** anaknya bernyanyi |\n| **when** | time | *the day when we moved* | hari **ketika/saat** kami pindah |\n\n### Where\nUse **where** after a place noun (*town, café, room, park*) when the clause has its **own subject and verb**: *This is the hospital where **I was born**.* Bandingkan dengan *which*:\n- *This is the café **where** I met him.* (I = subject baru)\n- *This is the café **which/that sells** the best cakes.* (café itu sendiri yang menjual → which/that)\n\nJadi, tidak semua tempat otomatis memakai *where*! Ask: does the place DO the action? If yes, use *which/that*.\n\nJangan menambahkan *there* di akhir: ~~the town where I grew up there~~.\n\n### Whose\n**Whose** shows possession and is always followed by a **noun**: *whose son, whose car, whose dog*. Ini menggantikan *his/her/their/its*:\n- *I have a neighbour. **Her** dog barks all night.* → *I have a neighbour **whose dog** barks all night.*\n\nHati-hati: **whose** ≠ **who's**. *Who's* = *who is / who has*. And never write *whose* + verb: ~~the boy whose broke my window~~ → *the boy who broke my window*.\n\n### When\nUse **when** after time nouns such as *day, year, month, moment, time, season*: *2010 was the year when we moved to Port Selwyn.* In everyday English, *that* is also possible here, atau kata penghubungnya dihilangkan sama sekali: *the year we moved*. Tetapi jangan pakai *where* untuk waktu: ~~the day where~~.\n\n### Ringkasan cepat\n- Tempat + subject baru → **where**\n- Pemilik + noun → **whose**\n- Waktu → **when**\n- Orang/benda sebagai subject → **who/which/that** (Lesson 1)",
+        "examples": [
+          {
+            "en": "This is the café where I first met my husband.",
+            "id": "Ini kafe tempat saya pertama kali bertemu suami saya.",
+            "note": "where + subject (I) + verb."
+          },
+          {
+            "en": "I have a neighbour whose dog barks all night.",
+            "id": "Saya punya tetangga yang anjingnya menggonggong sepanjang malam.",
+            "note": "whose + noun (dog)."
+          },
+          {
+            "en": "2010 was the year when we moved to Port Selwyn.",
+            "id": "2010 adalah tahun ketika kami pindah ke Port Selwyn.",
+            "note": "when setelah noun waktu."
+          },
+          {
+            "en": "Mrs. Ratna is the teacher whose son won the science prize.",
+            "id": "Bu Ratna adalah guru yang putranya memenangkan hadiah sains.",
+            "note": "whose menggantikan her."
+          },
+          {
+            "en": "That's the shop which sells second-hand bicycles.",
+            "id": "Itu toko yang menjual sepeda bekas.",
+            "note": "Toko itu yang menjual → which, bukan where."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "hometown",
+            "pos": "noun",
+            "ipa": "/ˈhəʊmtaʊn/",
+            "meaning": "kampung halaman; kota asal",
+            "example": "Greenhill is the hometown where my father grew up."
+          },
+          {
+            "word": "owner",
+            "pos": "noun",
+            "ipa": "/ˈəʊnə/",
+            "meaning": "pemilik",
+            "example": "I spoke to the man whose wife is the owner of the café."
+          },
+          {
+            "word": "anniversary",
+            "pos": "noun",
+            "ipa": "/ˌænɪˈvɜːsəri/",
+            "meaning": "hari jadi; ulang tahun (pernikahan, perusahaan)",
+            "example": "Today is the day when we celebrate our anniversary."
+          },
+          {
+            "word": "be born",
+            "pos": "phrase",
+            "ipa": "/bi ˈbɔːn/",
+            "meaning": "dilahirkan",
+            "example": "That's the hospital where I was born."
+          },
+          {
+            "word": "bark",
+            "pos": "verb",
+            "ipa": "/bɑːk/",
+            "meaning": "menggonggong",
+            "example": "The dog that barks every night belongs to Mr. Darma."
+          },
+          {
+            "word": "choir",
+            "pos": "noun",
+            "ipa": "/ˈkwaɪə/",
+            "meaning": "paduan suara",
+            "example": "She's the woman whose daughter sings in the town choir."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "place noun + where + subject + verb",
+            "example": "This is the room where we have our meetings.",
+            "note": "Jangan tambahkan there di akhir clause."
+          },
+          {
+            "pattern": "noun + whose + noun + verb",
+            "example": "I know a boy whose father is a pilot.",
+            "note": "whose menggantikan his/her/their/its."
+          },
+          {
+            "pattern": "time noun + when + subject + verb",
+            "example": "Saturday is the day when the market is busiest.",
+            "note": "the day/year/time/moment when..."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "That's the restaurant where we ate there.",
+            "right": "That's the restaurant where we ate.",
+            "why": "Where sudah berarti 'di sana'; jangan ulangi there."
+          },
+          {
+            "wrong": "That's the woman who daughter sings in the choir.",
+            "right": "That's the woman whose daughter sings in the choir.",
+            "why": "Kepemilikan (anaknya) membutuhkan whose + noun."
+          },
+          {
+            "wrong": "I remember the day where I started school.",
+            "right": "I remember the day when I started school.",
+            "why": "Day adalah waktu → when, bukan where."
+          },
+          {
+            "wrong": "That's the shop where sells cheap phones.",
+            "right": "That's the shop which sells cheap phones.",
+            "why": "Toko itu sendiri yang menjual (subject) → which/that."
+          }
+        ],
+        "summary": "Use **where** for places (followed by a new subject), **whose + noun** for possession, and **when** for time. Hati-hati: *where* tidak dipakai jika tempat itu sendiri melakukan aksi (*the shop which sells...*), dan *whose* berbeda dari *who's*.",
+        "reviewCards": [
+          {
+            "front": "the café ___ I met him",
+            "back": "where (tempat + subject baru)"
+          },
+          {
+            "front": "a neighbour ___ dog barks all night",
+            "back": "whose (kepemilikan + noun)"
+          },
+          {
+            "front": "the year ___ we moved",
+            "back": "when (atau that, atau dihilangkan)"
+          },
+          {
+            "front": "the shop where sells phones — benar?",
+            "back": "Salah: the shop which/that sells phones"
+          },
+          {
+            "front": "whose vs who's",
+            "back": "whose = milik siapa / yang ...-nya; who's = who is / who has"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u08-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "where",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "This is the café ___ I first met my husband.",
+          "options": ["where", "which", "who", "whose"],
+          "answer": 0,
+          "explanation": "*The café* adalah tempat dan clause punya subject baru (*I*) → **where**. *Which* would need a preposition (*the café which I met him in*), so it is wrong here.",
+          "misconception": "Which dipakai jika tempat itu sendiri melakukan aksi: the café which sells cakes."
+        },
+        {
+          "id": "b1-u08-l2-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "where / whose / when",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Drag the correct word into each gap.",
+          "text": "Mrs. Ratna is the teacher ___ son won the science prize. 2010 was the year ___ we moved to Port Selwyn. That's the hospital ___ I was born.",
+          "bank": ["whose", "when", "where", "who", "which"],
+          "answers": ["whose", "when", "where"],
+          "explanation": "*Son* milik Bu Ratna → **whose**. *The year* (waktu) → **when**. *The hospital* (tempat + subject *I*) → **where**."
+        },
+        {
+          "id": "b1-u08-l2-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "where",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Ini adalah kota tempat saya dibesarkan.",
+          "direction": "id-en",
+          "answers": [
+            "This is the town where I grew up",
+            "This is the city where I grew up",
+            "This is the town where I was brought up",
+            "This is the city where I was brought up",
+            "This is the town where I was raised",
+            "This is the city where I was raised",
+            "This is the town I grew up in",
+            "This is the city I grew up in"
+          ],
+          "explanation": "*Tempat* setelah noun tempat → **where**: *This is the town where I grew up.* *Dibesarkan* = *grew up* atau *was brought up/raised*."
+        },
+        {
+          "id": "b1-u08-l2-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "whose",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["That's the woman", "who", "daughter sings", "in the town choir."],
+          "errorIndex": 1,
+          "correction": "whose",
+          "explanation": "Anak perempuan **milik** wanita itu → **whose daughter**. *Who* tidak bisa diikuti langsung oleh noun kepemilikan."
+        },
+        {
+          "id": "b1-u08-l2-q5",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "where",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Nadia", "text": "Why do you love Sunset Beach so much?" },
+            { "speaker": "Eko", "text": null }
+          ],
+          "options": [
+            "It's the place where my parents first met.",
+            "It's the place which my parents first met.",
+            "It's the place whose my parents first met.",
+            "It's the place where my parents first met there."
+          ],
+          "answer": 0,
+          "explanation": "Tempat + subject baru (*my parents*) → **where**. Jangan menambahkan *there* di akhir, karena *where* sudah berarti 'di tempat itu'."
+        },
+        {
+          "id": "b1-u08-l2-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "where / whose / when",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Select ALL the correct sentences.",
+          "options": [
+            "Saturday is the day when the market is busiest.",
+            "I have a neighbour whose dog barks all night.",
+            "This is the room where we have our meetings.",
+            "He's the boy whose broke my window.",
+            "That's the restaurant where we ate there.",
+            "I remember the year where I started school."
+          ],
+          "answers": [0, 1, 2],
+          "explanation": "Benar: *the day when*, *whose dog*, *the room where*. Salah: *whose broke* (whose harus diikuti noun → *who broke*), *where we ate there* (hapus *there*), *the year where* (waktu → *when*)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u08-l3-omitting-relative-pronoun",
+      "title": "Leaving Out the Relative Pronoun",
+      "summary": "Memahami kapan who/which/that boleh dihilangkan (sebagai object) dan kapan wajib dipakai (sebagai subject).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan relative pronoun sebagai subject dan sebagai object",
+        "Menghilangkan relative pronoun yang berfungsi sebagai object",
+        "Menghindari pengulangan object (it/him/them) di dalam clause"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Subject atau object?\nA relative pronoun can be the **subject** or the **object** of the clause.\n\n| Role | Example | Can we leave it out? |\n|---|---|---|\n| Subject | *The man **who called you** is my uncle.* (who = dia yang menelepon) | **No** ✗ |\n| Object | *The film **that we watched** was boring.* (we = subject; that = object) | **Yes** ✓ → *The film we watched was boring.* |\n\n### Tes sederhana\nLihat kata setelah *who/which/that*:\n- Jika langsung diikuti **verb** (*who called, that sells*), pronoun itu adalah subject → **harus tetap ada**.\n- Jika diikuti **subject baru + verb** (*that we watched, who I met*), pronoun itu adalah object → **boleh dihilangkan**.\n\nIn spoken English, people usually leave out object pronouns. It sounds natural and fast: *Is this the key you lost? The teacher we met yesterday is from Port Selwyn.*\n\n### Contoh perbandingan\n- *The cake **which my mother made** was delicious.* → *The cake my mother made was delicious.* ✓\n- *The woman **who sells fruit** at the market is my aunt.* → ~~The woman sells fruit at the market is my aunt.~~ ✗ (kalimatnya jadi rusak)\n\n### Jangan mengulang object\nBecause the relative pronoun already represents the object, do **not** add *it, him, her, them* at the end:\n- ~~The shoes which I bought them are too small.~~\n- ✓ *The shoes (which) I bought are too small.*\n\nDalam bahasa Indonesia kita juga tidak bilang *sepatu yang saya beli mereka*, jadi aturan ini sebenarnya mirip.\n\n### Whose, where, when\n*Whose* can never be omitted: *the girl whose bike was stolen*. Untuk level B1, fokuslah pada penghilangan **who/which/that** sebagai object. (With *when*, it is also common to say *the day we met*, but the main rule to remember is the object rule above.)\n\n### Mengapa ini penting?\nListening and reading become much easier when you can recognise hidden clauses. When you hear *The book I'm reading is about an explorer*, you need to understand that *I'm reading* describes *the book* — there is a 'yang' that you cannot see.",
+        "examples": [
+          {
+            "en": "The film we watched last night was boring.",
+            "id": "Film yang kami tonton tadi malam membosankan.",
+            "note": "that/which dihilangkan (object)."
+          },
+          {
+            "en": "Is this the key you lost?",
+            "id": "Apakah ini kunci yang kamu hilangkan?",
+            "note": "= the key (that) you lost."
+          },
+          {
+            "en": "The teacher we met yesterday is from Port Selwyn.",
+            "id": "Guru yang kami temui kemarin berasal dari Port Selwyn.",
+            "note": "who/that dihilangkan (object)."
+          },
+          {
+            "en": "The man who called you is my uncle.",
+            "id": "Laki-laki yang meneleponmu adalah paman saya.",
+            "note": "who = subject → tidak boleh dihilangkan."
+          },
+          {
+            "en": "The book I'm reading is about a famous explorer.",
+            "id": "Buku yang sedang saya baca adalah tentang seorang penjelajah terkenal.",
+            "note": "Clause tersembunyi: the book (that) I'm reading."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "recommend",
+            "pos": "verb",
+            "ipa": "/ˌrekəˈmend/",
+            "meaning": "merekomendasikan; menyarankan",
+            "example": "The restaurant you recommended was excellent."
+          },
+          {
+            "word": "borrow",
+            "pos": "verb",
+            "ipa": "/ˈbɒrəʊ/",
+            "meaning": "meminjam",
+            "example": "Can I keep the book I borrowed from you?"
+          },
+          {
+            "word": "explorer",
+            "pos": "noun",
+            "ipa": "/ɪkˈsplɔːrə/",
+            "meaning": "penjelajah",
+            "example": "The explorer we read about sailed alone."
+          },
+          {
+            "word": "delicious",
+            "pos": "adjective",
+            "ipa": "/dɪˈlɪʃəs/",
+            "meaning": "lezat; enak",
+            "example": "The soup my grandmother makes is delicious."
+          },
+          {
+            "word": "already",
+            "pos": "adverb",
+            "ipa": "/ɔːlˈredi/",
+            "meaning": "sudah",
+            "example": "The phone I bought last week is already broken."
+          },
+          {
+            "word": "hire",
+            "pos": "verb",
+            "ipa": "/ˈhaɪə/",
+            "meaning": "mempekerjakan; menyewa",
+            "example": "The assistant we hired in May speaks three languages."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "noun + (who/which/that) + subject + verb",
+            "example": "The cake (that) my mother made was delicious.",
+            "note": "Pronoun = object → boleh dihilangkan."
+          },
+          {
+            "pattern": "noun + who/which/that + verb",
+            "example": "The bus that goes to the beach is late.",
+            "note": "Pronoun = subject → wajib ada."
+          },
+          {
+            "pattern": "noun + subject + verb (tanpa it/him/them)",
+            "example": "The shoes I bought are too small.",
+            "note": "Jangan tambahkan object lagi di akhir clause."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The woman sells fruit at the market is my aunt.",
+            "right": "The woman who sells fruit at the market is my aunt.",
+            "why": "Who adalah subject clause (diikuti verb) → tidak boleh dihilangkan."
+          },
+          {
+            "wrong": "The shoes which I bought them are too small.",
+            "right": "The shoes which I bought are too small.",
+            "why": "Which sudah mewakili object; them tidak perlu."
+          },
+          {
+            "wrong": "The film we watched it last night was funny.",
+            "right": "The film we watched last night was funny.",
+            "why": "Walaupun pronoun dihilangkan, object (it) tetap tidak boleh ditambahkan."
+          },
+          {
+            "wrong": "Is this the girl bike was stolen?",
+            "right": "Is this the girl whose bike was stolen?",
+            "why": "Whose tidak pernah boleh dihilangkan."
+          }
+        ],
+        "summary": "You can leave out **who/which/that** when it is the **object** of the clause (it is followed by a new subject): *the film (that) we watched*. Jika pronoun langsung diikuti verb, ia adalah **subject** dan wajib ada. Jangan pernah menambahkan *it/him/them* di dalam clause.",
+        "reviewCards": [
+          {
+            "front": "Kapan who/which/that boleh dihilangkan?",
+            "back": "Ketika menjadi object (diikuti subject baru + verb): the film (that) we watched"
+          },
+          {
+            "front": "The man who called you... — bisa dihilangkan?",
+            "back": "Tidak, who adalah subject (langsung diikuti verb called)."
+          },
+          {
+            "front": "The shoes which I bought them... — perbaiki",
+            "back": "The shoes (which) I bought..."
+          },
+          {
+            "front": "Is this the key you lost? — kata yang hilang?",
+            "back": "that/which: the key (that) you lost"
+          },
+          {
+            "front": "Bisakah whose dihilangkan?",
+            "back": "Tidak pernah."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u08-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "omitting the relative pronoun",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "In which sentence can you leave out the relative pronoun?",
+          "options": [
+            "The film that we watched was boring.",
+            "The man who called you is my uncle.",
+            "The bus that goes to the beach is late.",
+            "The girl who lives next door is a doctor."
+          ],
+          "answer": 0,
+          "explanation": "Hanya pada kalimat pertama pronoun diikuti subject baru (*we*) → object → boleh dihilangkan: *The film we watched was boring.* Di kalimat lain, pronoun langsung diikuti verb (subject).",
+          "misconception": "Relative pronoun yang langsung diikuti verb tidak bisa dihilangkan."
+        },
+        {
+          "id": "b1-u08-l3-q2",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "omitting the relative pronoun",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Select ALL the correct sentences.",
+          "options": [
+            "The book I'm reading is about a famous explorer.",
+            "The woman sells fruit at the market is my aunt.",
+            "Is this the key you lost?",
+            "The shoes which I bought them are too small.",
+            "The teacher we met yesterday is from Port Selwyn."
+          ],
+          "answers": [0, 2, 4],
+          "explanation": "Benar: pronoun object dihilangkan (*the book I'm reading, the key you lost, the teacher we met*). Salah: *The woman sells...* (who = subject, wajib ada) dan *which I bought them* (hapus *them*)."
+        },
+        {
+          "id": "b1-u08-l3-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "omitting the relative pronoun",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence without the relative pronoun.",
+          "sentence": "The cake which my mother made was delicious.",
+          "cue": "Remove one word.",
+          "answers": ["The cake my mother made was delicious."],
+          "explanation": "*Which* diikuti subject baru (*my mother*) → object → boleh dihilangkan: **The cake my mother made was delicious.**"
+        },
+        {
+          "id": "b1-u08-l3-q4",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "omitting the relative pronoun",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "phone", "I", "bought", "last", "week", "is", "already", "broken"],
+          "acceptedAnswers": ["The phone I bought last week is broken already"],
+          "explanation": "*The phone [that] I bought last week* adalah subject panjang, lalu verb utama *is already broken*. Pronoun *that* dihilangkan karena berfungsi sebagai object."
+        },
+        {
+          "id": "b1-u08-l3-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "no extra object in relative clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "The film we watched it last night was really funny.",
+          "answers": [
+            "The film we watched last night was really funny.",
+            "The film that we watched last night was really funny.",
+            "The film which we watched last night was really funny."
+          ],
+          "explanation": "Hapus *it*. The hidden pronoun (*that/which*) is already the object of *watched*, so *it* repeats the object."
+        },
+        {
+          "id": "b1-u08-l3-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "omitting the relative pronoun",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Which ONE word can be left out of this sentence? 'The people that we met on holiday were very kind.'",
+          "answers": ["that"],
+          "explanation": "*That* diikuti subject baru (*we*) → object → boleh dihilangkan: *The people we met on holiday were very kind.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u08-l4-definitions",
+      "title": "Explaining What Things Mean",
+      "summary": "Memberi definisi kata dengan pola a person who, a thing that, a place where, dan strategi menjelaskan kata yang tidak kamu ketahui.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat definisi dengan a person who / a thing that / a place where",
+        "Menggunakan frasa it's something you use to... dan it's a kind of...",
+        "Menjelaskan kata yang lupa atau tidak diketahui (paraphrasing)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pola definisi\nDictionaries use relative clauses all the time. A good definition has two parts: a **general word** (*person, thing, place, tool, machine*) + a **relative clause** that makes it specific.\n\n| Category | Pattern | Example |\n|---|---|---|\n| Person | a person/someone **who** ... | *A plumber is a person who repairs water pipes.* |\n| Thing | a thing/something/a tool **that/which** ... | *A ladder is a tool which you use to reach high places.* |\n| Place | a place **where** ... | *A pharmacy is a place where you can buy medicine.* |\n| Time | a time/day **when** ... | *A deadline is a time when work must be finished.* |\n\n### Strategi saat lupa kata (paraphrasing)\nIn a real conversation you will sometimes forget a word. Jangan berhenti berbicara! Jelaskan saja dengan relative clause:\n- *It's a person who...* → *It's a person who helps you at a hotel desk.* (receptionist)\n- *It's something you use to...* → *It's something you use to measure temperature.* (thermometer)\n- *It's a kind of... that...* → *It's a kind of bag that you carry on your back.* (backpack)\n- *It's a place where...* → *It's a place where planes land and take off.* (airport)\n\nPerhatikan *something you use* — pronoun *that* dihilangkan karena object (Lesson 3).\n\n### Bahasa Indonesia vs English\nDalam bahasa Indonesia kita bilang *orang yang...*, *alat yang...*, *tempat di mana...*. In English, always choose the pronoun that matches the general word: **person → who**, **thing → which/that**, **place → where** (+ subject). For example, *A pharmacy is a place where you can buy medicine* — but *A pharmacy is a shop that sells medicine* (here the shop does the action, so we use *that*).\n\n### Tips untuk definisi yang baik\n1. Start with the **closest general word**: a nurse is a *person*, a fridge is a *machine*, a bakery is a *shop*.\n2. Describe the **main function**: what does it do, or what do people do there?\n3. Keep it short — one clear relative clause is enough.\n4. Use *a/an* before the general word: *a person who*, *an instrument that*.",
+        "examples": [
+          {
+            "en": "A plumber is a person who repairs water pipes.",
+            "id": "Tukang ledeng adalah orang yang memperbaiki pipa air.",
+            "note": "person → who."
+          },
+          {
+            "en": "A thermometer is an instrument that measures temperature.",
+            "id": "Termometer adalah alat yang mengukur suhu.",
+            "note": "thing → that/which."
+          },
+          {
+            "en": "A pharmacy is a place where you can buy medicine.",
+            "id": "Apotek adalah tempat di mana kamu bisa membeli obat.",
+            "note": "place + subject baru → where."
+          },
+          {
+            "en": "It's something you use to open bottles.",
+            "id": "Itu sesuatu yang kamu pakai untuk membuka botol.",
+            "note": "Paraphrasing; pronoun object dihilangkan."
+          },
+          {
+            "en": "A receptionist is someone who welcomes visitors at a hotel or office.",
+            "id": "Resepsionis adalah orang yang menyambut tamu di hotel atau kantor.",
+            "note": "someone who ..."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "plumber",
+            "pos": "noun",
+            "ipa": "/ˈplʌmə/",
+            "meaning": "tukang ledeng; tukang pipa",
+            "example": "We called a plumber because the kitchen sink was leaking."
+          },
+          {
+            "word": "receptionist",
+            "pos": "noun",
+            "ipa": "/rɪˈsepʃənɪst/",
+            "meaning": "resepsionis",
+            "example": "The receptionist who checked us in was very helpful."
+          },
+          {
+            "word": "pharmacy",
+            "pos": "noun",
+            "ipa": "/ˈfɑːməsi/",
+            "meaning": "apotek",
+            "example": "Is there a pharmacy near here?"
+          },
+          {
+            "word": "ladder",
+            "pos": "noun",
+            "ipa": "/ˈlædə/",
+            "meaning": "tangga (yang bisa dipindah)",
+            "example": "We need a ladder to clean the windows."
+          },
+          {
+            "word": "thermometer",
+            "pos": "noun",
+            "ipa": "/θəˈmɒmɪtə/",
+            "meaning": "termometer",
+            "example": "The nurse checked my temperature with a thermometer."
+          },
+          {
+            "word": "souvenir",
+            "pos": "noun",
+            "ipa": "/ˌsuːvəˈnɪə/",
+            "meaning": "suvenir; cendera mata",
+            "example": "I bought a small souvenir for my mother."
+          },
+          {
+            "word": "measure",
+            "pos": "verb",
+            "ipa": "/ˈmeʒə/",
+            "meaning": "mengukur",
+            "example": "A ruler is a tool that measures length."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "A/An + noun + is + a person/someone + who + verb",
+            "example": "A pilot is someone who flies planes.",
+            "note": "Definisi orang."
+          },
+          {
+            "pattern": "A/An + noun + is + a thing/tool/machine + that/which + verb",
+            "example": "A fridge is a machine that keeps food cold.",
+            "note": "Definisi benda."
+          },
+          {
+            "pattern": "It's something (that) you use to + V1",
+            "example": "It's something you use to cut paper.",
+            "note": "Strategi paraphrasing saat lupa kata."
+          },
+          {
+            "pattern": "A/An + noun + is + a place + where + subject + verb",
+            "example": "A library is a place where you can borrow books.",
+            "note": "Definisi tempat."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "A plumber is a person which repairs pipes.",
+            "right": "A plumber is a person who repairs pipes.",
+            "why": "Person → who/that, bukan which."
+          },
+          {
+            "wrong": "A pharmacy is a place where sells medicine.",
+            "right": "A pharmacy is a place where you can buy medicine.",
+            "why": "Where harus diikuti subject baru; jika tempat yang melakukan aksi, pakai a shop that sells medicine."
+          },
+          {
+            "wrong": "It's something you use it to open bottles.",
+            "right": "It's something you use to open bottles.",
+            "why": "Jangan tambahkan it; something sudah menjadi object dari use."
+          },
+          {
+            "wrong": "A thermometer is instrument that measures temperature.",
+            "right": "A thermometer is an instrument that measures temperature.",
+            "why": "Kata benda tunggal yang dapat dihitung membutuhkan a/an."
+          }
+        ],
+        "summary": "A good definition = **general word + relative clause**: *a person who..., a thing that..., a place where...* Saat lupa sebuah kata, gunakan *It's someone who... / It's something you use to... / It's a place where...* supaya percakapan tetap berjalan.",
+        "reviewCards": [
+          {
+            "front": "Definisi orang",
+            "back": "a person / someone who ...: A pilot is someone who flies planes."
+          },
+          {
+            "front": "Definisi benda",
+            "back": "a thing / tool / machine that (which) ...: A fridge is a machine that keeps food cold."
+          },
+          {
+            "front": "Definisi tempat",
+            "back": "a place where + subject + verb: A library is a place where you can borrow books."
+          },
+          {
+            "front": "Lupa kata 'scissors'? Paraphrase!",
+            "back": "It's something you use to cut paper."
+          },
+          {
+            "front": "plumber",
+            "back": "tukang ledeng — a person who repairs water pipes"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u08-l4-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "definitions with relative clauses",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct word for each definition.",
+          "text": "A librarian is a person ___ works in a library. A ladder is a tool ___ you use to reach high places.",
+          "choices": [["who", "which", "where"], ["who", "which", "where"]],
+          "answers": [0, 1],
+          "explanation": "*A person* → **who**. *A tool* (benda) → **which**. *Where* hanya untuk tempat."
+        },
+        {
+          "id": "b1-u08-l4-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "definitions with relative clauses",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order to make a definition.",
+          "words": ["A", "thermometer", "is", "an", "instrument", "that", "measures", "temperature"],
+          "explanation": "Pola definisi: **A + word + is + an + general word + that + verb**. *That* adalah subject dari *measures*, jadi wajib ada."
+        },
+        {
+          "id": "b1-u08-l4-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "paraphrasing with relative clauses",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Play 'Guess the word'. Explain these four words without saying them: receptionist, passport, pharmacy, graduation day. Use a different relative clause for each one.",
+          "targetPhrases": ["It's someone who", "It's something you", "It's a place where", "It's the day when"],
+          "sampleAnswer": "It's someone who welcomes guests at a hotel and gives them their keys. It's something you need when you travel to another country — it has your photo and your name. It's a place where you can buy medicine. It's the day when students finally get their degree and wear a special hat.",
+          "explanation": "Pilih kata umum yang tepat: orang → *someone who*, benda → *something (that) you...*, tempat → *a place where*, waktu → *the day when*. Speak slowly and clearly."
+        },
+        {
+          "id": "b1-u08-l4-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "jobs and definitions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Water was coming out of the pipe under our kitchen sink, so we called a person who repairs water pipes — a ___.",
+          "options": ["plumber", "electrician", "mechanic", "receptionist"],
+          "answer": 0,
+          "explanation": "*A person who repairs water pipes* = **plumber** (tukang ledeng). An electrician repairs electrical wiring, and a mechanic repairs cars."
+        },
+        {
+          "id": "b1-u08-l4-q5",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "definitions with relative clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make a definition.",
+          "fragments": ["A souvenir is something", "that you buy on holiday", "to remind you", "of the place you visited."],
+          "explanation": "Kata umum (*something*) + relative clause (*that you buy on holiday*) + tujuan (*to remind you of...*). *The place you visited* = *the place (that) you visited*."
+        },
+        {
+          "id": "b1-u08-l4-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "definitions with relative clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Dokter gigi adalah orang yang merawat gigi kita.",
+          "direction": "id-en",
+          "answers": [
+            "A dentist is a person who looks after our teeth",
+            "A dentist is a person that looks after our teeth",
+            "A dentist is someone who looks after our teeth",
+            "A dentist is someone that looks after our teeth",
+            "A dentist is a person who takes care of our teeth",
+            "A dentist is a person that takes care of our teeth",
+            "A dentist is someone who takes care of our teeth",
+            "A dentist is someone that takes care of our teeth",
+            "A dentist is a person who cares for our teeth",
+            "A dentist is someone who cares for our teeth"
+          ],
+          "explanation": "*Orang yang* → **a person who/that** atau **someone who**. *Merawat* = *look after / take care of / care for*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u08-l5-describing-places",
+      "title": "Describing Places",
+      "summary": "Mendeskripsikan kota, desa, dan tempat favorit dengan adjectives yang tepat dan berbagai relative clauses.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan adjectives untuk mendeskripsikan tempat (lively, peaceful, crowded, historic)",
+        "Menggabungkan where, when, whose, dan that dalam deskripsi tempat",
+        "Menulis paragraf pendek tentang kampung halaman atau tempat favorit"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Adjectives untuk tempat\n| Adjective | Meaning | Example |\n|---|---|---|\n| lively | ramai dan penuh aktivitas (positif) | *a lively market* |\n| peaceful | tenang dan damai | *a peaceful village* |\n| crowded | penuh sesak | *a crowded beach* |\n| historic | bersejarah | *a historic town centre* |\n| remote | terpencil | *a remote island* |\n| tiny | sangat kecil | *a tiny village* |\n\n### Menggabungkan relative clauses\nA good description of a place uses different relative words. Lihat paragraf ini:\n\n*Greenhill is a **peaceful** village **where** my grandparents live. It's a place **where** everybody knows each other, and the people **who** live there are very friendly. There's a small café **that** serves the best fried bananas in the area. July is the month **when** the village is busiest, because that's **when** the harvest festival takes place. My favourite person there is Mr. Darma, **whose** stories about the old days always make me laugh.*\n\n### Where atau which/that? (sekali lagi)\nThis is the most common mistake when describing places:\n- *That's the market **where** I buy fish.* (I = subject baru → where)\n- *That's the market **that sells** the freshest fish.* (the market = yang menjual → that/which)\n\nAsk yourself: **Does the place do the action?** If yes → *which/that*. If a person does something *in* the place → *where*.\n\n### Frasa berguna\n- *It's the kind of place where...* — *It's the kind of place where you can relax for hours.*\n- *The thing I love most about ... is...* — *The thing I love most about my town is the food.* (object pronoun dihilangkan)\n- *It's famous for...* / *It's a good place for...*\n- *If you visit, you should...* (kamu sudah belajar conditional dan should di unit sebelumnya!)\n\n### Struktur paragraf\n1. **Introduce** the place: name, type, location.\n2. **Describe** it with 2–3 adjectives and relative clauses.\n3. **Give a personal detail**: a person, a memory, a favourite spot.\n4. **Finish** with a recommendation or feeling.\n\nDengan struktur ini, tulisanmu akan terdengar alami dan terhubung (connected), not just a list of short sentences.",
+        "examples": [
+          {
+            "en": "Greenhill is a peaceful village where my grandparents live.",
+            "id": "Greenhill adalah desa yang damai tempat kakek-nenek saya tinggal.",
+            "note": "adjective + where."
+          },
+          {
+            "en": "There's a small café that serves the best fried bananas in the area.",
+            "id": "Ada kafe kecil yang menyajikan pisang goreng terenak di daerah itu.",
+            "note": "Kafe yang menyajikan → that, bukan where."
+          },
+          {
+            "en": "July is the month when the village is busiest.",
+            "id": "Juli adalah bulan ketika desa itu paling ramai.",
+            "note": "Waktu → when."
+          },
+          {
+            "en": "The thing I love most about my town is the food.",
+            "id": "Hal yang paling saya sukai dari kota saya adalah makanannya.",
+            "note": "the thing (that) I love most."
+          },
+          {
+            "en": "It's the kind of place where you can relax for hours.",
+            "id": "Itu jenis tempat di mana kamu bisa bersantai berjam-jam.",
+            "note": "Frasa berguna untuk deskripsi."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "lively",
+            "pos": "adjective",
+            "ipa": "/ˈlaɪvli/",
+            "meaning": "ramai; semarak",
+            "example": "Port Selwyn has a lively night market."
+          },
+          {
+            "word": "peaceful",
+            "pos": "adjective",
+            "ipa": "/ˈpiːsfl/",
+            "meaning": "tenang; damai",
+            "example": "We found a peaceful beach where nobody else was swimming."
+          },
+          {
+            "word": "crowded",
+            "pos": "adjective",
+            "ipa": "/ˈkraʊdɪd/",
+            "meaning": "penuh sesak",
+            "example": "The station is always crowded on Friday evenings."
+          },
+          {
+            "word": "historic",
+            "pos": "adjective",
+            "ipa": "/hɪˈstɒrɪk/",
+            "meaning": "bersejarah",
+            "example": "The historic town centre was built in the 1800s."
+          },
+          {
+            "word": "remote",
+            "pos": "adjective",
+            "ipa": "/rɪˈməʊt/",
+            "meaning": "terpencil",
+            "example": "They live on a remote island where there are no cars."
+          },
+          {
+            "word": "tiny",
+            "pos": "adjective",
+            "ipa": "/ˈtaɪni/",
+            "meaning": "sangat kecil; mungil",
+            "example": "We stayed in a tiny village in the hills."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "It's the kind of place where + subject + verb",
+            "example": "It's the kind of place where you can relax for hours.",
+            "note": "Untuk deskripsi suasana tempat."
+          },
+          {
+            "pattern": "The thing (that) I love most about + place + is + noun",
+            "example": "The thing I love most about Lakemoor is the lake.",
+            "note": "that boleh dihilangkan (object)."
+          },
+          {
+            "pattern": "place + which/that + verb vs place + where + subject + verb",
+            "example": "the market that sells fish / the market where I buy fish",
+            "note": "Tempat sebagai pelaku → which/that."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "That's the market where sells the freshest fish.",
+            "right": "That's the market that sells the freshest fish.",
+            "why": "Pasar itu yang menjual (subject) → that/which."
+          },
+          {
+            "wrong": "This is the park where I go there every Sunday.",
+            "right": "This is the park where I go every Sunday.",
+            "why": "Where sudah berarti 'di/ke sana'; there tidak perlu."
+          },
+          {
+            "wrong": "It's a very crowd town.",
+            "right": "It's a very crowded town.",
+            "why": "Adjective-nya adalah crowded; crowd adalah noun."
+          },
+          {
+            "wrong": "July is the month where the village is busiest.",
+            "right": "July is the month when the village is busiest.",
+            "why": "Month adalah waktu → when."
+          }
+        ],
+        "summary": "To describe a place, combine **adjectives** (*lively, peaceful, historic, remote*) with **relative clauses**: *where* untuk aksi di tempat itu, *which/that* jika tempat itu sendiri yang melakukan aksi, *when* untuk waktu, dan *whose* untuk kepemilikan. Organise your paragraph: introduce, describe, personal detail, finish.",
+        "reviewCards": [
+          {
+            "front": "lively vs peaceful",
+            "back": "lively = ramai, semarak; peaceful = tenang, damai"
+          },
+          {
+            "front": "the market ___ sells fish",
+            "back": "that/which (pasar yang menjual)"
+          },
+          {
+            "front": "the market ___ I buy fish",
+            "back": "where (saya membeli di sana)"
+          },
+          {
+            "front": "remote",
+            "back": "terpencil: a remote island"
+          },
+          {
+            "front": "Frasa: It's the kind of place where ...",
+            "back": "Itu jenis tempat di mana ... (untuk menggambarkan suasana)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u08-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "describing places",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "We stayed in a ___ village where only about two hundred people live.",
+          "options": ["tiny", "crowded", "huge", "lively"],
+          "answer": 0,
+          "explanation": "Hanya sekitar 200 orang → desa yang sangat kecil → **tiny**. *Crowded* (penuh sesak), *huge* (sangat besar), and *lively* (ramai) do not match such a small population."
+        },
+        {
+          "id": "b1-u08-l5-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "relative clauses for places",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete each gap with ONE relative word.",
+          "text": "Greenhill is the village ___ my grandparents live. It's a place ___ everybody knows each other, and the people ___ live there are very friendly.",
+          "answers": [["where"], ["where"], ["who", "that"]],
+          "explanation": "Gap 1 & 2: tempat + subject baru (*my grandparents, everybody*) → **where**. Gap 3: *the people* (orang) sebagai subject *live* → **who/that**."
+        },
+        {
+          "id": "b1-u08-l5-q3",
+          "type": "essay",
+          "category": "writing",
+          "topic": "describing places",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Describe your hometown or a place you love. Introduce the place, describe it, add a personal detail, and finish with a recommendation.",
+          "instructions": "Tulis 80–120 kata. Gunakan minimal empat relative clauses yang berbeda (who, which/that, where, whose, when) dan minimal dua adjectives dari pelajaran ini.",
+          "minWords": 80,
+          "maxWords": 120,
+          "rubric": "general-writing",
+          "explanation": "Contoh awal: *Lakemoor is a peaceful town where I spent every school holiday. It's the kind of place where you can walk for hours without seeing a car. There's a tiny bakery that sells warm coconut bread...* Check that *where* is followed by a subject, and that *which/that* is used when the place does the action."
+        },
+        {
+          "id": "b1-u08-l5-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "where vs that",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "That's the market ___ sells the freshest fish in town.",
+          "options": ["that", "where", "whose", "when"],
+          "answer": 0,
+          "explanation": "Pasar itu sendiri yang **menjual** (subject dari *sells*) → **that**. *Where* membutuhkan subject baru: *the market where I buy fish*.",
+          "misconception": "Tidak semua tempat memakai where — cek apakah tempat itu yang melakukan aksi."
+        },
+        {
+          "id": "b1-u08-l5-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "where without there",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "This is the park where I go there every Sunday.",
+          "answers": [
+            "This is the park where I go every Sunday.",
+            "This is the park I go to every Sunday.",
+            "This is the park that I go to every Sunday.",
+            "This is the park which I go to every Sunday."
+          ],
+          "explanation": "*Where* sudah berarti 'ke tempat itu', jadi hapus *there*: **This is the park where I go every Sunday.**"
+        },
+        {
+          "id": "b1-u08-l5-q6",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "relative clauses for places",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct word into each gap.",
+          "text": "Lakemoor is a quiet town ___ you can really relax. Summer is the season ___ the lake is full of boats, and the hotel ___ owner is my uncle is right next to the water.",
+          "bank": ["where", "when", "whose", "which", "who"],
+          "answers": ["where", "when", "whose"],
+          "explanation": "*A quiet town* + subject baru (*you*) → **where**. *The season* (waktu) → **when**. Pemilik hotel → **whose owner**."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u08-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "whose",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Is that the girl ___ bike was stolen last week?",
+      "options": ["whose", "who's", "who", "which"],
+      "answer": 0,
+      "explanation": "Sepeda **milik** gadis itu → **whose + noun**: *whose bike*. *Who's* = *who is/has*, jadi tidak cocok."
+    },
+    {
+      "id": "b1-u08-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "who / which / that",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Complete each gap with ONE relative pronoun.",
+      "text": "The keys ___ were on the kitchen table have disappeared, and the man ___ came to fix the sink hasn't seen them.",
+      "answers": [["which", "that"], ["who", "that"]],
+      "explanation": "*The keys* (benda, subject of *were*) → **which/that**. *The man* (orang, subject of *came*) → **who/that**. Kedua pronoun adalah subject, jadi tidak boleh dihilangkan."
+    },
+    {
+      "id": "b1-u08-t-q3",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "whose",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Join the two sentences using whose.",
+      "sentence": "Sinta is a singer. Her songs are very popular with teenagers.",
+      "cue": "Begin with: Sinta is a singer ...",
+      "answers": ["Sinta is a singer whose songs are very popular with teenagers."],
+      "explanation": "*Her songs* → **whose songs**. Whose menggantikan possessive adjective (*her*) dan langsung diikuti noun."
+    },
+    {
+      "id": "b1-u08-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "when",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the sentence.",
+      "segments": ["I'll never forget the day", "where", "I passed my driving test."],
+      "errorIndex": 1,
+      "correction": "when",
+      "explanation": "*The day* adalah waktu → **when** (atau *that*), bukan *where*."
+    },
+    {
+      "id": "b1-u08-t-q5",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "who",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Translate into Indonesian.",
+      "source": "The woman who lives next door is a doctor.",
+      "direction": "en-id",
+      "answers": [
+        "Perempuan yang tinggal di sebelah adalah dokter",
+        "Perempuan yang tinggal di sebelah adalah seorang dokter",
+        "Wanita yang tinggal di sebelah adalah dokter",
+        "Wanita yang tinggal di sebelah adalah seorang dokter",
+        "Perempuan yang tinggal di sebelah rumah adalah dokter",
+        "Perempuan yang tinggal di sebelah rumah adalah seorang dokter",
+        "Wanita yang tinggal di sebelah rumah adalah dokter",
+        "Wanita yang tinggal di sebelah rumah adalah seorang dokter",
+        "Perempuan yang tinggal di sebelah itu seorang dokter",
+        "Wanita yang tinggal di sebelah itu seorang dokter"
+      ],
+      "explanation": "*Who lives next door* → *yang tinggal di sebelah (rumah)*. Kata *who* diterjemahkan sebagai **yang**."
+    },
+    {
+      "id": "b1-u08-t-q6",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "that for things",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["Do", "you", "know", "a", "shop", "that", "sells", "second-hand", "books"],
+      "explanation": "Pertanyaan *Do you know + a shop* lalu relative clause **that sells second-hand books**. *That* adalah subject dari *sells*."
+    },
+    {
+      "id": "b1-u08-t-q7",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "who",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the correct reply.",
+      "dialogue": [
+        { "speaker": "Tari", "text": "Who's Mr. Darma? Everyone keeps talking about him." },
+        { "speaker": "Yoga", "text": null }
+      ],
+      "options": [
+        "He's the man who owns the bakery on Elm Street.",
+        "He's the man which owns the bakery on Elm Street.",
+        "He's the man whose owns the bakery on Elm Street.",
+        "He's the man who he owns the bakery on Elm Street."
+      ],
+      "answer": 0,
+      "explanation": "Orang → **who**; *whose* harus diikuti noun, dan *he* tidak boleh diulang setelah *who*."
+    },
+    {
+      "id": "b1-u08-t-q8",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "no repeated subject",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "Do you remember the teacher who she taught us maths?",
+      "answers": [
+        "Do you remember the teacher who taught us maths?",
+        "Do you remember the teacher that taught us maths?"
+      ],
+      "explanation": "*Who* sudah menjadi subject dari *taught*, jadi hapus *she*: **the teacher who taught us maths**."
+    }
+  ]
+}

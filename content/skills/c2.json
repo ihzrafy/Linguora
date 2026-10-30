@@ -1,0 +1,4689 @@
+{
+  "level": "C2",
+  "grammarTopics": [
+    {
+      "slug": "c2-fronting-inversion",
+      "title": "Fronting and Stylistic Inversion",
+      "category": "sentence_structure",
+      "explanation": "### Why change word order?\nEnglish normally follows subject–verb–object order, so moving an element to the front of the sentence (**fronting**) makes it stand out. Proficient writers use fronting to add emphasis, create contrast, link to the previous sentence or produce a literary rhythm.\n\n### Three key patterns\n| Pattern | Example | Notes |\n|---|---|---|\n| Concessive fronting | *Strange as it may seem, the plan worked.* | adjective/adverb/verb + as/though + subject + verb; means *although* |\n| Place/direction inversion | *Down came the rain. / On the hill stood a castle.* | main verb before a **noun** subject; no auxiliary; not with pronouns (*Down it came*) |\n| So/such inversion | *So severe was the damage that ...* / *Such was the demand that ...* | formal; auxiliary or be before the subject |\n\n### Fronted objects and complements\nObjects and complements can be fronted without inversion for contrast: *This I cannot accept. / Gone are the days when ...* (the second pattern does invert with *be*).\n\n### Register\nThese structures are typical of literary narrative, formal speeches and quality journalism. In casual conversation they can sound theatrical, except for everyday forms such as *Here comes the bus* and *There goes my weekend*.",
+      "formulas": [
+        {
+          "label": "Concessive fronting",
+          "pattern": "Adjective / Adverb / Verb + as / though + subject + verb, + main clause"
+        },
+        {
+          "label": "Place inversion",
+          "pattern": "Adverbial of place or direction + intransitive verb + noun subject"
+        },
+        {
+          "label": "So inversion",
+          "pattern": "So + adjective / adverb + auxiliary or be + subject + that-clause"
+        },
+        {
+          "label": "Such inversion",
+          "pattern": "Such + be + noun phrase + that-clause"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "Strange as it may seem, the cheaper model lasted longer.",
+          "Down the hill rolled the empty barrel.",
+          "So severe was the storm that the harbour wall collapsed.",
+          "Such was the demand that the second edition sold out in a week."
+        ],
+        "negative": [
+          "Try as she might, she could not open the rusted gate.",
+          "So quietly did he speak that nobody at the back could hear him."
+        ],
+        "interrogative": [
+          "Was the damage really so severe that the bridge had to close?",
+          "Why is it that, odd as it may sound, the slowest route is often the quickest?"
+        ]
+      },
+      "comparison": "Negative inversion (C1: Never have I ...) uses auxiliary + subject. Place inversion uses the main verb itself and only with noun subjects (Here comes the bus / Here it comes). So/such inversion uses be or an auxiliary, like negative inversion.",
+      "mistakes": [
+        {
+          "wrong": "Here the bus comes.",
+          "right": "Here comes the bus.",
+          "why": "After here/there with a noun subject, the verb comes before the subject; with a pronoun it does not (Here it comes)."
+        },
+        {
+          "wrong": "So severe the damage was that the road closed.",
+          "right": "So severe was the damage that the road closed.",
+          "why": "Fronted so + adjective requires inversion of be/auxiliary and subject."
+        },
+        {
+          "wrong": "Much as I admire her work, but I cannot support the proposal.",
+          "right": "Much as I admire her work, I cannot support the proposal.",
+          "why": "Much as already means although; adding but creates a double connector."
+        }
+      ],
+      "keywords": [
+        "fronting",
+        "stylistic inversion",
+        "so ... that",
+        "such ... that",
+        "as / though concessive"
+      ],
+      "relatedLessons": [
+        "c2-u01-l1-fronting-emphasis",
+        "c2-u01-l2-concessive-fronting",
+        "c2-u01-l3-place-inversion",
+        "c2-u01-l4-so-such-inversion",
+        "c2-u01-l5-stylistic-variety"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-fronting-inversion-q1",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "so inversion",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence using inversion.",
+          "sentence": "The flooding was so extensive that the coastal road had to close.",
+          "cue": "Begin with: So extensive ...",
+          "answers": [
+            "So extensive was the flooding that the coastal road had to close.",
+            "So extensive was the flooding that the coastal road had to be closed."
+          ],
+          "explanation": "Fronted so + adjective triggers inversion of be and the subject: So extensive was the flooding that ..."
+        },
+        {
+          "id": "c2-gr-fronting-inversion-q2",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "place inversion",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Here comes the bus.",
+            "Here comes it.",
+            "Here does come the bus.",
+            "Here the bus does come."
+          ],
+          "answer": 0,
+          "explanation": "After here with a noun subject, the main verb comes first (Here comes the bus). With a pronoun the order is not inverted (Here it comes), and no auxiliary do is used."
+        },
+        {
+          "id": "c2-gr-fronting-inversion-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "concessive fronting",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Complete with one adjective to form a concessive clause.",
+          "text": "___ as it may sound, the slower route is often the quicker one in rush hour.",
+          "answers": [
+            [
+              "Strange",
+              "Odd",
+              "Surprising",
+              "Paradoxical",
+              "Counterintuitive",
+              "Ironic",
+              "Bizarre",
+              "Unlikely",
+              "Improbable",
+              "Implausible",
+              "Curious",
+              "Absurd",
+              "Weird",
+              "Incredible",
+              "Unbelievable",
+              "Illogical",
+              "Contradictory"
+            ]
+          ],
+          "explanation": "Adjective + as + subject + may + verb forms a concessive clause meaning 'Although it may sound strange'. Any adjective expressing surprise or contradiction fits."
+        }
+      ]
+    },
+    {
+      "slug": "c2-ellipsis-substitution",
+      "title": "Ellipsis and Substitution",
+      "category": "sentence_structure",
+      "explanation": "### Saying more with less\n**Ellipsis** leaves out words that the listener can recover from context; **substitution** replaces them with a short pro-form. Both avoid repetition and are characteristic of natural, fluent English.\n\n### Ellipsis\n- After auxiliaries and modals: *I'd like to help, but I **can't** [help].* / *She said she would finish it, and she **did** [finish it].*\n- After infinitive *to*: *I haven't read it yet, but I intend **to**.*\n- In responses: *So do I. / Neither have I. / Not yet.*\n- Gapping in formal writing: *Lina chose economics, and Raka, law.*\n\n### Substitution\n| Pro-form | Replaces | Example |\n|---|---|---|\n| so / not | a that-clause | *I think so. / I hope not. / I'm afraid so.* |\n| do so | a verb phrase (formal) | *Staff were asked to leave, and most did so.* |\n| one / ones | a countable noun | *Not the red one — the blue ones.* |\n| the same | an action or noun phrase | *I'd do the same.* |\n\n### Points of precision\n- *I don't think so* is the everyday negative; *I think not* is formal or emphatic.\n- *Hope* and *afraid* make the negative with *not*: *I hope not* (never *I don't hope so*).\n- *Do so* normally replaces actions, not states: ✗ *He resembles his father and his sister does so too.*\n- *One* replaces countable nouns only: ✗ *I prefer hot milk to cold one.* → ✓ *I prefer hot milk to cold.*",
+      "formulas": [
+        {
+          "label": "Ellipsis after auxiliary",
+          "pattern": "Subject + auxiliary / modal (+ not) [verb phrase omitted]"
+        },
+        {
+          "label": "Clausal substitution",
+          "pattern": "I think / hope / suppose / expect / 'm afraid + so / not"
+        },
+        {
+          "label": "Verb-phrase substitution",
+          "pattern": "Subject + do / does / did + so"
+        },
+        {
+          "label": "Noun substitution",
+          "pattern": "(the / this / adjective) + one / ones"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I'd like to come to the launch, but I can't.",
+          "She said she would finish the report by Friday, and she did.",
+          "Lina chose economics, and Raka, law."
+        ],
+        "negative": [
+          "\"Will the trains be delayed?\" \"I hope not.\"",
+          "\"I haven't seen the new exhibition.\" \"Neither have I.\""
+        ],
+        "interrogative": [
+          "\"Is the bridge open yet?\" \"I don't think so.\"",
+          "If the committee approves the plan, will you be able to start in May? If not, when?"
+        ]
+      },
+      "comparison": "Ellipsis omits words entirely (She did), while substitution replaces them with a pro-form (She did so). Do so is more formal than do it / do that.",
+      "mistakes": [
+        {
+          "wrong": "I'd like to go, but I can't to.",
+          "right": "I'd like to go, but I can't.",
+          "why": "Modals are not followed by to; after can't the verb phrase is simply omitted."
+        },
+        {
+          "wrong": "\"Is it going to rain?\" \"I think it.\"",
+          "right": "\"Is it going to rain?\" \"I think so.\"",
+          "why": "So, not it, replaces a that-clause after think, hope, expect and suppose."
+        },
+        {
+          "wrong": "I don't like the red jacket, but I like the blue.",
+          "right": "I don't like the red jacket, but I like the blue one.",
+          "why": "A countable noun needs one after an adjective when the noun itself is omitted."
+        }
+      ],
+      "keywords": [
+        "ellipsis",
+        "substitution",
+        "so / not",
+        "do so",
+        "one / ones",
+        "gapping"
+      ],
+      "relatedLessons": [
+        "c2-u02-l1-clausal-ellipsis",
+        "c2-u02-l2-response-ellipsis",
+        "c2-u02-l3-so-not-substitution",
+        "c2-u02-l4-do-so-one",
+        "c2-u02-l5-formal-economy"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-ellipsis-substitution-q1",
+          "type": "dialogue_completion",
+          "category": "grammar",
+          "topic": "so / not substitution",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Choose the correct reply.",
+          "dialogue": [
+            {
+              "speaker": "Arif",
+              "text": "Do you think the conference will be cancelled because of the strike?"
+            },
+            {
+              "speaker": "Celia",
+              "text": null
+            }
+          ],
+          "options": [
+            "I hope not — I've been preparing my talk for weeks.",
+            "I hope no — I've been preparing my talk for weeks.",
+            "I don't hope so — I've been preparing my talk for weeks.",
+            "I hope it not — I've been preparing my talk for weeks."
+          ],
+          "answer": 0,
+          "explanation": "Hope forms its negative substitute with not: I hope not. 'I don't hope so', 'I hope no' and 'I hope it not' are ungrammatical."
+        },
+        {
+          "id": "c2-gr-ellipsis-substitution-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "ellipsis after to",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete the sentence with one word so that the verb phrase can be omitted.",
+          "text": "I haven't read the committee's report yet, but I intend ___ this weekend.",
+          "answers": [
+            [
+              "to"
+            ]
+          ],
+          "explanation": "After verbs such as intend, want, hope and plan, we keep the infinitive marker to and omit the repeated verb phrase (to [read it])."
+        },
+        {
+          "id": "c2-gr-ellipsis-substitution-q3",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "do so",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Correct the substitution error.",
+          "sentence": "The management asked all staff to reduce their travel costs, and most of them did it so.",
+          "answers": [
+            "The management asked all staff to reduce their travel costs, and most of them did so.",
+            "The management asked all staff to reduce their travel costs, and most of them did.",
+            "The management asked all staff to reduce their travel costs, and most of them did that.",
+            "The management asked all staff to reduce their travel costs, and most of them did it."
+          ],
+          "explanation": "The substitute for a verb phrase is do so (formal), do it / do that, or simple ellipsis (did). 'Did it so' combines two pro-forms and is ungrammatical."
+        }
+      ]
+    },
+    {
+      "slug": "c2-gradable-adjectives",
+      "title": "Gradable and Ungradable Adjectives with Intensifiers",
+      "category": "parts_of_speech",
+      "explanation": "### Two classes of adjective\n**Gradable** adjectives (*cold, tired, good, angry*) describe qualities that exist in degrees. **Ungradable** adjectives are either **extreme** (*freezing, exhausted, superb, furious*) or **absolute** (*unique, impossible, perfect, unanimous*).\n\n### Matching modifiers\n| Type | Natural modifiers | Avoid |\n|---|---|---|\n| Gradable | very, extremely, fairly, rather, slightly, a bit, incredibly | absolutely, utterly |\n| Extreme | absolutely, utterly, totally, really, quite (= completely) | very, slightly, fairly |\n| Absolute | completely, entirely, almost, virtually, nearly | very, a bit |\n\n*Really* works with both classes. In British English *quite* means *fairly* with gradable adjectives (*quite good*) and *completely* with ungradable ones (*quite impossible*).\n\n### Downtoners in formal writing\nAcademic and professional writing prefers precise downtoners with gradable adjectives: *moderately successful, relatively small, marginally higher, somewhat limited*. With absolutes, *almost* and *virtually* express near-completeness: *virtually identical*.\n\n### Negatives\n*Not at all* and *not entirely* modify gradable and absolute adjectives in the negative: *It wasn't at all difficult. / The result was not entirely unexpected.*",
+      "formulas": [
+        {
+          "label": "Gradable",
+          "pattern": "very / extremely / fairly / slightly + gradable adjective"
+        },
+        {
+          "label": "Extreme",
+          "pattern": "absolutely / utterly / totally + extreme adjective"
+        },
+        {
+          "label": "Absolute",
+          "pattern": "almost / virtually / completely + absolute adjective"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "The film was absolutely brilliant.",
+          "The hotel room was very small but spotlessly clean.",
+          "The two signatures are virtually identical."
+        ],
+        "negative": [
+          "The test wasn't at all difficult.",
+          "The outcome was not entirely unexpected."
+        ],
+        "interrogative": [
+          "Wasn't the view from the summit absolutely stunning?",
+          "Is the task really impossible, or just very difficult?"
+        ]
+      },
+      "comparison": "Gradable: very cold, very tired, very good. Extreme: absolutely freezing, absolutely exhausted, absolutely superb. Really works with both.",
+      "mistakes": [
+        {
+          "wrong": "The meal was very delicious.",
+          "right": "The meal was absolutely delicious.",
+          "why": "Delicious is an extreme adjective and rejects very in careful usage."
+        },
+        {
+          "wrong": "The lecture hall was absolutely big.",
+          "right": "The lecture hall was absolutely enormous.",
+          "why": "Big is gradable; absolutely needs an extreme adjective."
+        },
+        {
+          "wrong": "Her approach is very unique.",
+          "right": "Her approach is truly unique.",
+          "why": "Unique is absolute; very is widely regarded as incorrect with it."
+        }
+      ],
+      "keywords": [
+        "gradable",
+        "ungradable",
+        "extreme adjectives",
+        "intensifiers",
+        "downtoners",
+        "quite"
+      ],
+      "relatedLessons": [
+        "c2-u04-l4-gradable-adjectives",
+        "c2-u04-l2-emotion-nuance"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-gradable-adjectives-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Choose the modifier that fits each adjective.",
+          "text": "The interview questions were ___ difficult, and by the end of the day I was ___ exhausted.",
+          "choices": [
+            [
+              "extremely",
+              "absolutely"
+            ],
+            [
+              "completely",
+              "very"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Difficult is gradable, so extremely fits and absolutely does not. Exhausted is extreme, so completely fits and very does not."
+        },
+        {
+          "id": "c2-gr-gradable-adjectives-q2",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Select ALL the natural combinations.",
+          "options": [
+            "utterly ridiculous",
+            "very freezing",
+            "extremely tired",
+            "absolutely huge",
+            "slightly perfect",
+            "fairly unique"
+          ],
+          "answers": [
+            0,
+            2,
+            3
+          ],
+          "explanation": "Ridiculous and huge are extreme, so utterly and absolutely fit; tired is gradable, so extremely fits. Freezing, perfect and unique are ungradable and reject very, slightly and fairly."
+        },
+        {
+          "id": "c2-gr-gradable-adjectives-q3",
+          "type": "short_answer",
+          "category": "vocabulary",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Write ONE extreme adjective that means 'very surprised' and can follow 'absolutely'.",
+          "answers": [
+            "astonished",
+            "astounded",
+            "amazed",
+            "stunned",
+            "flabbergasted",
+            "dumbfounded",
+            "staggered",
+            "thunderstruck",
+            "stupefied"
+          ],
+          "explanation": "Astonished, astounded, stunned and similar words are extreme forms of surprised, so they combine with absolutely; surprised itself is gradable (very surprised)."
+        }
+      ]
+    },
+    {
+      "slug": "c2-emphatic-structures",
+      "title": "Emphatic and Intensifying Structures",
+      "category": "sentence_structure",
+      "explanation": "### Emphatic do\nIn affirmative present simple and past simple clauses, a stressed *do/does/did* + base verb adds emphasis: it contradicts (*I **did** lock the door*), insists (*I **do** believe this*), concedes (*It **does** have advantages, but ...*) or makes imperatives warmer (*Do sit down*).\n\n### Intensifying noun phrases and negatives\n| Device | Example |\n|---|---|\n| the very + noun | *That is the very reason we must act.* |\n| no / any + noun + whatsoever | *There is no evidence whatsoever.* |\n| at all | *I didn't enjoy it at all.* |\n| by far / far and away + superlative | *This is by far the best option.* |\n| emphatic reflexive | *The mayor herself opened the bridge.* |\n| wh-word + on earth / ever | *What on earth happened?* |\n\n### Structural emphasis\nEmphasis can also come from word order: **cleft sentences** (*It was the minister who resigned*), **negative inversion** (*Not once did he apologise*) and **fronting** (*Gone are the days ...*). Combining a structural device with a lexical one should be done sparingly; one emphatic device per sentence is usually enough.\n\n### Form reminder\nAfter emphatic *do/does/did*, the main verb is always the base form: *she does know* (not *does knows*).",
+      "formulas": [
+        {
+          "label": "Emphatic do",
+          "pattern": "Subject + do / does / did (stressed) + base verb"
+        },
+        {
+          "label": "Intensified negative",
+          "pattern": "no / any + noun + whatsoever"
+        },
+        {
+          "label": "Superlative intensifier",
+          "pattern": "by far / far and away + the + superlative"
+        },
+        {
+          "label": "Negative inversion",
+          "pattern": "Not once / Never / At no point + auxiliary + subject + verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I did lock the door — I remember checking it twice.",
+          "This is by far the most ambitious plan the council has proposed.",
+          "The director herself admitted that mistakes had been made."
+        ],
+        "negative": [
+          "There is no evidence whatsoever to support the rumour.",
+          "Not once did the spokesperson apologise."
+        ],
+        "interrogative": [
+          "What on earth were they thinking?",
+          "Do you have any doubts whatsoever about the plan?"
+        ]
+      },
+      "comparison": "Lexical emphasis (whatsoever, the very, by far) intensifies a single phrase; structural emphasis (clefts, inversion, emphatic do) highlights a whole proposition.",
+      "mistakes": [
+        {
+          "wrong": "She does knows the answer.",
+          "right": "She does know the answer.",
+          "why": "After emphatic does the main verb is in the base form."
+        },
+        {
+          "wrong": "This is very the best solution.",
+          "right": "This is by far the best solution.",
+          "why": "Very cannot precede the + superlative; use by far or the very best."
+        },
+        {
+          "wrong": "There is whatsoever no reason to panic.",
+          "right": "There is no reason whatsoever to panic.",
+          "why": "Whatsoever follows the noun phrase it intensifies."
+        }
+      ],
+      "keywords": [
+        "emphatic do",
+        "whatsoever",
+        "the very",
+        "by far",
+        "emphatic reflexive",
+        "on earth"
+      ],
+      "relatedLessons": [
+        "c2-u06-l4-emphatic-structures",
+        "c2-u06-l5-persuasive-texts"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-emphatic-structures-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "emphatic do",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete with one word to concede a point before a contrast.",
+          "text": "The new timetable ___ have some advantages, but it leaves the evening classes far too late.",
+          "answers": [
+            [
+              "does"
+            ]
+          ],
+          "explanation": "Emphatic does + base form (does have) concedes a point before the contrast introduced by but. The subject timetable is singular, so does, not do."
+        },
+        {
+          "id": "c2-gr-emphatic-structures-q2",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "intensifiers",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Find the segment with an error in word order.",
+          "segments": [
+            "The inspectors found",
+            "whatsoever no reason",
+            "to close the factory",
+            "at this stage."
+          ],
+          "errorIndex": 1,
+          "correction": "no reason whatsoever",
+          "explanation": "Whatsoever follows the noun phrase introduced by no: no reason whatsoever."
+        },
+        {
+          "id": "c2-gr-emphatic-structures-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "negative inversion",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence for emphasis using negative inversion.",
+          "sentence": "Nobody warned us about the risks at any point.",
+          "cue": "Begin with: At no point ...",
+          "answers": [
+            "At no point did anybody warn us about the risks.",
+            "At no point did anyone warn us about the risks.",
+            "At no point were we warned about the risks.",
+            "At no point did anybody warn us of the risks.",
+            "At no point did anyone warn us of the risks.",
+            "At no point were we warned of the risks."
+          ],
+          "explanation": "After a fronted negative adverbial such as At no point, the auxiliary comes before the subject: At no point did anyone warn us (or, in the passive, were we warned)."
+        }
+      ]
+    },
+    {
+      "slug": "c2-complex-noun-phrases",
+      "title": "Complex Noun Phrases and Apposition",
+      "category": "parts_of_speech",
+      "explanation": "### Packing information into noun phrases\nAcademic and professional English condenses information into **noun phrases** built around a head noun:\n\n> *a [carefully designed three-year longitudinal] **study** [of rural schools] [funded by the Ministry]*\n\n### Pre-modification\nBefore the head: determiner → adverb + adjective → noun modifiers (often compounds). *a recently published government-funded report*. Avoid long strings of nouns (*the city council road safety awareness campaign launch event*), which overload the reader.\n\n### Post-modification\nAfter the head: prepositional phrases (*the impact **of tourism***), relative clauses (*a model **that predicts demand***), reduced relatives (*a report **criticising** the policy / data **collected** in 2020*), to-infinitives (*the decision **to withdraw***) and appositive that-clauses (*the claim **that the data was falsified***).\n\n### Apposition\nAn **appositive** renames the noun beside it. Non-restrictive appositives are separated by commas: *Dr. Mara Osei, **a linguist at Westmere University**, led the project.* Restrictive appositives have no commas: *the linguist **Mara Osei***. Use both commas when the appositive is in mid-sentence.\n\n### Precision\nComplex noun phrases are efficient, but clarity comes first: if a phrase needs re-reading, unpack part of it into a clause.",
+      "formulas": [
+        {
+          "label": "Pre-modification",
+          "pattern": "determiner + (adverb +) adjective + noun modifier + HEAD"
+        },
+        {
+          "label": "Reduced relative",
+          "pattern": "HEAD + -ing / -ed participle phrase"
+        },
+        {
+          "label": "Non-restrictive apposition",
+          "pattern": "Name, + noun phrase, + verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "The researchers published a report criticising the government's housing policy.",
+          "Dr. Mara Osei, a linguist at Westmere University, led the project.",
+          "A carefully designed three-year longitudinal study was launched in 2024."
+        ],
+        "negative": [
+          "The data collected in the first phase did not support the hypothesis.",
+          "The committee rejected the claim that the figures had been altered."
+        ],
+        "interrogative": [
+          "Who wrote the report criticising the council's housing policy?",
+          "Was the decision to withdraw funding made before the review?"
+        ]
+      },
+      "comparison": "A restrictive appositive (the novelist Tamsin Okoro) identifies which person; a non-restrictive one (Tamsin Okoro, a novelist from Port Elvan,) adds information and needs commas on both sides.",
+      "mistakes": [
+        {
+          "wrong": "Dr. Mara Osei, a linguist at Westmere University led the project.",
+          "right": "Dr. Mara Osei, a linguist at Westmere University, led the project.",
+          "why": "A mid-sentence non-restrictive appositive needs a comma on both sides."
+        },
+        {
+          "wrong": "The report criticised the policy was published yesterday.",
+          "right": "The report criticising the policy was published yesterday.",
+          "why": "A reduced relative clause uses a participle (criticising), not a finite verb."
+        },
+        {
+          "wrong": "the city council road safety awareness campaign launch event",
+          "right": "the launch of the city council's road safety campaign",
+          "why": "Over-stacked noun strings are hard to process; use post-modification to unpack them."
+        }
+      ],
+      "keywords": [
+        "head noun",
+        "pre-modification",
+        "post-modification",
+        "reduced relative clause",
+        "apposition"
+      ],
+      "relatedLessons": [
+        "c2-u07-l1-premodification",
+        "c2-u07-l2-postmodification",
+        "c2-u07-l3-apposition"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-complex-noun-phrases-q1",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "pre-modification",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Put the words in order to form a noun phrase.",
+          "words": [
+            "a",
+            "carefully",
+            "designed",
+            "three-year",
+            "longitudinal",
+            "study"
+          ],
+          "explanation": "The determiner comes first, then the adverb + participle adjective (carefully designed), then the compound adjective of measurement (three-year), then the classifying adjective closest to the noun (longitudinal), and finally the head noun (study)."
+        },
+        {
+          "id": "c2-gr-complex-noun-phrases-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "post-modification",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Combine the two sentences into one using a reduced relative (participle) clause.",
+          "sentence": "The researchers published a report. The report criticised the government's housing policy.",
+          "cue": "Begin with: The researchers published a report ...",
+          "answers": [
+            "The researchers published a report criticising the government's housing policy.",
+            "The researchers published a report criticizing the government's housing policy."
+          ],
+          "explanation": "The relative clause 'which criticised ...' is reduced to the present participle phrase criticising the government's housing policy, which post-modifies report."
+        },
+        {
+          "id": "c2-gr-complex-noun-phrases-q3",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "apposition",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Which sentence is punctuated correctly?",
+          "options": [
+            "Professor Idris Hale, the author of the report, will answer questions.",
+            "Professor Idris Hale the author of the report, will answer questions.",
+            "Professor Idris Hale, the author of the report will answer questions.",
+            "Professor Idris Hale, who the author of the report, will answer questions."
+          ],
+          "answer": 0,
+          "explanation": "A non-restrictive appositive in mid-sentence is enclosed by two commas. The second and third options each omit one comma, and the fourth inserts who without a verb."
+        }
+      ]
+    },
+    {
+      "slug": "c2-dangling-modifiers",
+      "title": "Dangling and Misplaced Modifiers",
+      "category": "common_mistakes",
+      "explanation": "### The rule\nA participle or infinitive clause at the start of a sentence has an **implied subject**. That implied subject must be the **subject of the main clause**. If it is not, the modifier *dangles* and the sentence says something unintended:\n\n> ✗ *Having lived abroad for years, the local customs seemed strange to Ana.* (The customs did not live abroad.)\n> ✓ *Having lived abroad for years, Ana found the local customs strange.*\n\n### Two repairs\n1. Make the doer the subject of the main clause.\n2. Expand the modifier into a full clause with its own subject: *Because Ana had lived abroad for years, the local customs seemed strange to her.*\n\n### Common traps\n| Trap | Example |\n|---|---|\n| passive main clause | ✗ *Using a new method, clearer results were obtained.* |\n| possessive subject | ✗ *Born in Port Elvan, Mara's novels are set by the sea.* |\n| infinitive of purpose | ✗ *To apply, a passport is required.* |\n\n### Accepted exceptions\n*Considering, given, judging by, generally speaking, assuming, provided* function as prepositions or sentence adverbs and do not dangle.\n\n### Misplaced limiting words\nPlace *only, almost, just, even* immediately before the element they limit in formal writing: *Only Tomas passed* vs *Tomas passed only the oral exam*.",
+      "formulas": [
+        {
+          "label": "Correct participle clause",
+          "pattern": "Participle clause, + subject who performed the participle + verb"
+        },
+        {
+          "label": "Repair by expansion",
+          "pattern": "Subordinator + subject + verb, + main clause"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "Having lived abroad for years, Ana found the local customs strange.",
+          "Driving through the valley, we were struck by the beauty of the landscape.",
+          "To apply for a visa, you need a valid passport."
+        ],
+        "negative": [
+          "Having missed the deadline, the students could not submit their essays.",
+          "Not having read the instructions, I made several avoidable mistakes."
+        ],
+        "interrogative": [
+          "Having read the report, what conclusions did you reach?",
+          "Before signing the contract, did you check the cancellation terms?"
+        ]
+      },
+      "comparison": "Dangling: Walking home, the rain started. Repaired: Walking home, I was caught in the rain. / As I was walking home, the rain started.",
+      "mistakes": [
+        {
+          "wrong": "Having lived abroad for years, the local customs seemed strange to Ana.",
+          "right": "Having lived abroad for years, Ana found the local customs strange.",
+          "why": "Ana, not the customs, lived abroad, so Ana must be the main subject."
+        },
+        {
+          "wrong": "To apply for a visa, a valid passport is required.",
+          "right": "To apply for a visa, you need a valid passport.",
+          "why": "A passport cannot apply for a visa; the applicant must be the subject."
+        },
+        {
+          "wrong": "Born in Port Elvan, Mara's novels are set by the sea.",
+          "right": "Born in Port Elvan, Mara sets her novels by the sea.",
+          "why": "A possessive does not supply the subject; the subject was novels."
+        }
+      ],
+      "keywords": [
+        "dangling modifier",
+        "participle clause",
+        "implied subject",
+        "misplaced modifier",
+        "only"
+      ],
+      "relatedLessons": [
+        "c2-u10-l1-dangling-modifiers",
+        "c2-u10-l5-editing-review"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-dangling-modifiers-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Having lived abroad for years, Ana found the local customs strange on her return.",
+            "Having lived abroad for years, the local customs seemed strange to Ana on her return.",
+            "Having lived abroad for years, Ana's view of local customs had changed.",
+            "Having lived abroad for years, it was strange for Ana to return."
+          ],
+          "answer": 0,
+          "explanation": "Only in the first sentence is the main subject (Ana) the person who lived abroad. In the others the main subject is the customs, Ana's view or it."
+        },
+        {
+          "id": "c2-gr-dangling-modifiers-q2",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Correct the dangling infinitive by changing the main clause.",
+          "sentence": "To apply for a visa, a valid passport is required.",
+          "answers": [
+            "To apply for a visa, you need a valid passport.",
+            "To apply for a visa, you will need a valid passport.",
+            "To apply for a visa, you must have a valid passport.",
+            "To apply for a visa, you require a valid passport.",
+            "To apply for a visa, applicants need a valid passport.",
+            "To apply for a visa, applicants must have a valid passport.",
+            "To apply for a visa, applicants require a valid passport.",
+            "To apply for a visa, applicants will need a valid passport.",
+            "To apply for a visa, one needs a valid passport.",
+            "To apply for a visa, you have to have a valid passport."
+          ],
+          "explanation": "The person applying must be the subject of the main clause: you / applicants need a valid passport. A passport cannot apply for anything."
+        },
+        {
+          "id": "c2-gr-dangling-modifiers-q3",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Choose the main clause that makes the sentence correct.",
+          "text": "Driving through the valley, ___ by the beauty of the landscape.",
+          "choices": [
+            [
+              "we were struck",
+              "the tourists' eyes were struck",
+              "it was striking"
+            ]
+          ],
+          "answers": [
+            0
+          ],
+          "explanation": "The people driving must be the subject: we were struck. Eyes do not drive, and it has no doer at all."
+        }
+      ]
+    },
+    {
+      "slug": "c2-complex-agreement",
+      "title": "Subject–Verb Agreement in Complex Sentences",
+      "category": "common_mistakes",
+      "explanation": "### Agree with the head\nThe verb agrees with the **head noun** of the subject, however long the subject is: *The **quality** of the essays submitted this term **has** improved.* Strip away the post-modifiers to check.\n\n### Rules that cause problems\n| Structure | Verb | Example |\n|---|---|---|\n| X, as well as / together with Y | agrees with X | *The director, as well as her staff, **is** here.* |\n| neither X nor Y / either X or Y | agrees with Y (nearer) | *Neither the students nor their tutor **was** told.* |\n| each / every (+ of) | singular | *Each of the rooms **has** a balcony.* |\n| a number of + plural | plural | *A number of guests **were** late.* |\n| the number of + plural | singular | *The number of guests **was** small.* |\n| inverted subject | agrees with the following noun | *Among the guests **were** two ministers.* |\n| there + be | agrees with the following noun | *There **are** several errors in it.* |\n\n### Classical plurals\n*criteria, phenomena, analyses, hypotheses, theses* are plural: *These phenomena **are** rare.* (*Data* takes either a singular or a plural verb in modern usage; follow your style guide.)\n\n### Amounts and titles\nPeriods, sums and titles are treated as single units: *Ten years **is** a long time. / 'The Glass Orchard' **is** her third novel.*",
+      "formulas": [
+        {
+          "label": "Head agreement",
+          "pattern": "HEAD + post-modifier + verb agreeing with HEAD"
+        },
+        {
+          "label": "Proximity",
+          "pattern": "neither A nor B + verb agreeing with B"
+        },
+        {
+          "label": "Number expressions",
+          "pattern": "a number of + plural verb / the number of + singular verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "The quality of the essays submitted this term has improved.",
+          "Among the guests were two former ministers.",
+          "A number of residents have objected to the plan."
+        ],
+        "negative": [
+          "Neither the students nor their tutor was told about the change.",
+          "These phenomena are not yet fully understood."
+        ],
+        "interrogative": [
+          "Has each of the candidates received the instructions?",
+          "Are the criteria for selection clear to everyone?"
+        ]
+      },
+      "comparison": "The number of applicants has risen (singular: the head is number). A number of applicants have withdrawn (plural: a number of = several).",
+      "mistakes": [
+        {
+          "wrong": "The quality of the essays have improved.",
+          "right": "The quality of the essays has improved.",
+          "why": "The head noun is quality (singular)."
+        },
+        {
+          "wrong": "These phenomena is not yet understood.",
+          "right": "These phenomena are not yet understood.",
+          "why": "Phenomena is the plural of phenomenon."
+        },
+        {
+          "wrong": "The director, as well as her staff, are attending.",
+          "right": "The director, as well as her staff, is attending.",
+          "why": "As well as does not create a plural subject."
+        }
+      ],
+      "keywords": [
+        "head noun",
+        "agreement",
+        "neither ... nor",
+        "a number of",
+        "criteria",
+        "phenomena"
+      ],
+      "relatedLessons": [
+        "c2-u10-l2-complex-agreement",
+        "c2-u07-l4-precise-quantifiers"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-complex-agreement-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Choose the correct verb for each gap.",
+          "text": "The quality of the essays submitted this term ___ improved, but neither the students nor their tutor ___ surprised by the results.",
+          "choices": [
+            [
+              "has",
+              "have"
+            ],
+            [
+              "was",
+              "were"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "The head of the first subject is quality (singular): has improved. With neither ... nor, the verb agrees with the nearer subject, tutor (singular): was."
+        },
+        {
+          "id": "c2-gr-complex-agreement-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Complete with the correct past form of 'be'.",
+          "text": "Among the guests at the opening ceremony ___ two former ministers and a famous novelist.",
+          "answers": [
+            [
+              "were"
+            ]
+          ],
+          "explanation": "In this inverted sentence, the subject follows the verb: two former ministers and a famous novelist (plural), so the verb is were."
+        },
+        {
+          "id": "c2-gr-complex-agreement-q3",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Correct the agreement error.",
+          "sentence": "These phenomena is not yet fully understood by scientists.",
+          "answers": [
+            "These phenomena are not yet fully understood by scientists.",
+            "This phenomenon is not yet fully understood by scientists."
+          ],
+          "explanation": "Phenomena is plural, so the verb must be are (or the subject must become singular: this phenomenon is)."
+        }
+      ]
+    },
+    {
+      "slug": "c2-tense-aspect",
+      "title": "Subtle Tense and Aspect Choices",
+      "category": "tense",
+      "explanation": "### Choosing, not just forming\nAt C2, the challenge is choosing the tense and aspect that express exactly what you mean.\n\n| Meaning | Form | Example |\n|---|---|---|\n| unfinished time frame (so far, since, this week) | present perfect | *I've written three chapters so far.* |\n| finished time frame (yesterday, in 2019) | past simple | *I wrote two chapters last month.* |\n| activity/duration up to now | present perfect progressive | *She's been working here since 2015.* |\n| complete before a future point | future perfect | *By June, we'll have finished.* |\n| in progress at a future point | future progressive | *This time tomorrow I'll be flying.* |\n| earlier past event | past perfect | *She realised she had left her keys.* |\n| irritation | always + progressive | *He's always interrupting.* |\n| temporariness | progressive | *I'm staying with friends this month.* |\n| tentative politeness | past progressive | *I was wondering if ...* |\n\n### Stative verbs\nStative verbs (*know, believe, belong, seem*) are not normally progressive, but some have dynamic meanings that allow it: *I think so* (opinion) vs *I'm thinking about it* (considering); *He is rude* vs *He's being rude* (behaviour now).\n\n### Narrative and news\nNews reports often open with the present perfect (*The minister has resigned*) and switch to the past simple for details (*She announced her decision at noon*).",
+      "formulas": [
+        {
+          "label": "Present perfect",
+          "pattern": "have / has + past participle (+ so far / since / yet)"
+        },
+        {
+          "label": "Future perfect",
+          "pattern": "will have + past participle (+ by / by the time)"
+        },
+        {
+          "label": "Past perfect",
+          "pattern": "had + past participle (earlier past event)"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I've lived in Port Elvan since I was a child.",
+          "By the end of this year, Lina will have taught at the academy for a decade.",
+          "When the auditors arrived, they discovered that the files had been deleted."
+        ],
+        "negative": [
+          "We haven't received any complaints so far.",
+          "By the time we arrived, the speeches hadn't started yet."
+        ],
+        "interrogative": [
+          "How long have you been studying the cello?",
+          "Will you be using the car this evening?"
+        ]
+      },
+      "comparison": "I've read the report (result: it is done) vs I've been reading the report (activity: perhaps not finished).",
+      "mistakes": [
+        {
+          "wrong": "I live here since I was a child.",
+          "right": "I've lived here since I was a child.",
+          "why": "Since + a past point leading to now requires a perfect form."
+        },
+        {
+          "wrong": "By June I will finish the thesis.",
+          "right": "By June I will have finished the thesis.",
+          "why": "By + future point expresses completion and needs the future perfect."
+        },
+        {
+          "wrong": "Ever since the factory opened, the river is becoming more polluted.",
+          "right": "Ever since the factory opened, the river has become more polluted.",
+          "why": "Ever since + past point requires the present perfect (simple or progressive)."
+        }
+      ],
+      "keywords": [
+        "present perfect",
+        "past simple",
+        "progressive aspect",
+        "future perfect",
+        "past perfect",
+        "stative verbs"
+      ],
+      "relatedLessons": [
+        "c2-u10-l3-tense-aspect"
+      ],
+      "exercises": [
+        {
+          "id": "c2-gr-tense-aspect-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "tense and aspect",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I've lived here since I was a child.",
+            "I live here since I was a child.",
+            "I'm living here since I was a child.",
+            "I lived here since I was a child."
+          ],
+          "answer": 0,
+          "explanation": "Since + a past point that leads up to now requires a present perfect form. The present simple, present progressive and past simple cannot combine with since in this way."
+        },
+        {
+          "id": "c2-gr-tense-aspect-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "future perfect",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Complete with the correct form of 'teach'.",
+          "text": "By the end of this year, Lina ___ at the academy for a decade.",
+          "answers": [
+            [
+              "will have taught",
+              "will have been teaching",
+              "'ll have taught",
+              "'ll have been teaching"
+            ]
+          ],
+          "explanation": "By + a future point, with a duration (for a decade), requires the future perfect simple or progressive: will have taught / will have been teaching."
+        },
+        {
+          "id": "c2-gr-tense-aspect-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "present perfect",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Find the segment with a tense error.",
+          "segments": [
+            "Ever since the factory",
+            "opened,",
+            "the river",
+            "is becoming more polluted."
+          ],
+          "errorIndex": 3,
+          "correction": "has become more polluted.",
+          "explanation": "Ever since + a past event introduces a period continuing to now, so the main clause needs a present perfect form (has become / has been becoming), not the present progressive."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "slug": "c2-rd-1-the-last-night-on-carrow-rock",
+      "title": "The Last Night on Carrow Rock",
+      "genre": "story",
+      "body": "Of all the nights Edmund Vale had spent on Carrow Rock, this was the one he had dreaded most, and it arrived, as dreaded things do, with indecent punctuality. The letter from the Harbour Authority had been courteous to the point of cruelty: the light would be automated on the first of November, and his services, \"so faithfully rendered\", would no longer be required.\n\nHe climbed the ninety-two steps more slowly than usual, not because his knees objected — though they did — but because he wished to count them one last time. At the top, the great lens waited, patient as a cathedral. He had polished it every morning for thirty-one years, and it had never once thanked him. That, he supposed, was the nature of the arrangement.\n\nBelow, the sea was in one of its sulking moods, grey and heaving, muttering against the rocks. Somewhere beyond the reef, a fishing boat was making for Port Elvan, its single lamp no bigger than a match-head. Edmund watched it the way he had watched thousands of others, with a proprietorial concern he had never quite been able to justify. The boat did not know he existed. It knew only the beam, sweeping round every twelve seconds like a slow, unfailing heartbeat.\n\nTomorrow a technician would arrive with a laptop and a box of sensors. The light would go on turning, as reliably as ever — more reliably, the letter had implied. No one on the boats would notice the difference. That was the part he found hardest to forgive: not that he was being replaced, but that his absence would leave no mark at all.\n\nHe lit the lamp at dusk, as always, and sat beside it until the stars came out. Then, because there was no one to see him, he said goodnight to it.",
+      "glossary": [
+        {
+          "word": "punctuality",
+          "meaning": "ketepatan waktu"
+        },
+        {
+          "word": "automate",
+          "meaning": "mengotomatisasi, menjalankan dengan mesin tanpa tenaga manusia"
+        },
+        {
+          "word": "proprietorial",
+          "meaning": "bersikap seperti pemilik; posesif"
+        },
+        {
+          "word": "heave",
+          "meaning": "naik-turun dengan kuat (ombak)"
+        },
+        {
+          "word": "reef",
+          "meaning": "terumbu karang"
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-rd-1-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-1-the-last-night-on-carrow-rock",
+          "prompt": "What is the passage mainly about?",
+          "options": [
+            "A lighthouse keeper's last night before his job is replaced by automation",
+            "The dramatic rescue of a fishing boat during a storm",
+            "A technician's attempt to repair a broken lighthouse",
+            "A dispute between a keeper and the Harbour Authority over his pay"
+          ],
+          "answer": 0,
+          "explanation": "The story follows Edmund on the night before the light is automated and explores his feelings about being replaced. There is no rescue, repair attempt or pay dispute."
+        },
+        {
+          "id": "c2-rd-1-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "independent",
+          "passageSlug": "c2-rd-1-the-last-night-on-carrow-rock",
+          "prompt": "How long had Edmund been polishing the lens?",
+          "options": [
+            "every morning for thirty-one years",
+            "every night for ninety-two days",
+            "once a week for twelve years",
+            "only since the letter arrived"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 2 states: 'He had polished it every morning for thirty-one years.' Ninety-two is the number of steps and twelve the seconds between sweeps of the beam."
+        },
+        {
+          "id": "c2-rd-1-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference and tone",
+          "difficulty": 5,
+          "stage": "independent",
+          "passageSlug": "c2-rd-1-the-last-night-on-carrow-rock",
+          "prompt": "The phrase 'courteous to the point of cruelty' suggests that the letter:",
+          "options": [
+            "was so politely worded that its politeness made the bad news more painful",
+            "was openly rude and insulting",
+            "threatened Edmund with punishment",
+            "was written by a close friend of Edmund's"
+          ],
+          "answer": 0,
+          "explanation": "The letter was courteous (polite), but its formal politeness about ending his career felt cruel. Rudeness and threats contradict 'courteous', and nothing suggests the writer knew Edmund."
+        },
+        {
+          "id": "c2-rd-1-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-1-the-last-night-on-carrow-rock",
+          "prompt": "What does Edmund find hardest to accept?",
+          "options": [
+            "that his absence will make no noticeable difference to anyone",
+            "that the automated light will be less reliable",
+            "that he will have to climb the steps again",
+            "that the technician is not properly qualified"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 4 says that what he found hardest to forgive was 'not that he was being replaced, but that his absence would leave no mark at all'. The letter implies the new light will be more, not less, reliable."
+        },
+        {
+          "id": "c2-rd-1-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 5,
+          "stage": "independent",
+          "passageSlug": "c2-rd-1-the-last-night-on-carrow-rock",
+          "prompt": "In paragraph 3, 'a proprietorial concern' most nearly means a concern that is:",
+          "options": [
+            "possessive, as if the boats were his responsibility",
+            "professional and emotionally detached",
+            "fearful and close to panic",
+            "commercial and focused on profit"
+          ],
+          "answer": 0,
+          "explanation": "Proprietorial means behaving like an owner. Edmund feels a protective, owner-like concern for the boats, one he 'had never quite been able to justify' because the boats do not know he exists."
+        },
+        {
+          "id": "c2-rd-1-q6",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "literary devices",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-1-the-last-night-on-carrow-rock",
+          "prompt": "Which device is used in 'the sea was in one of its sulking moods, grey and heaving, muttering against the rocks'?",
+          "options": [
+            "personification",
+            "oxymoron",
+            "chiasmus",
+            "hyperbole"
+          ],
+          "answer": 0,
+          "explanation": "Sulking and muttering are human behaviours attributed to the sea, which is personification. There are no contradictory terms, no reversed structure and no exaggeration."
+        }
+      ]
+    },
+    {
+      "slug": "c2-rd-2-in-praise-of-boredom",
+      "title": "In Praise of Boredom",
+      "genre": "article",
+      "body": "There was a time, not so very long ago, when waiting for a bus involved nothing more strenuous than waiting for a bus. One stared at the timetable, at the sky, at the slightly suspicious stain on the shelter roof. One was, in a word, bored. Today, of course, such idleness is unthinkable. The moment our attention threatens to wander, our hands reach for a screen, as if boredom were a draught to be sealed out at all costs.\n\nWe are told that this is progress. Never before, the argument runs, has so much information been so readily available to so many. Quite so. But it is worth asking what we have traded for it. Psychologists have long suspected — and a growing, if still modest, body of research appears to confirm — that boredom is not merely an absence of stimulation but a prompt: an uncomfortable signal that nudges the mind towards reflection, invention and, occasionally, mischief. It is in the empty minutes that we rehearse arguments, revisit memories and stumble upon ideas we did not know we were looking for.\n\nNone of this is to romanticise tedium. Nobody, least of all me, wishes to return to the endless Sunday afternoons of childhood, when the clock seemed to tick backwards. Nor is it to suggest that our devices are inherently harmful; they are, admittedly, extraordinary tools. The problem is subtler. By filling every gap, we deprive ourselves of the very conditions in which original thought tends to emerge.\n\nSo here is a modest proposal, offered with no great expectation that anyone will follow it. The next time you find yourself in a queue, leave the phone in your pocket. Look at the ceiling. Count the tiles. Let your mind drift wherever it pleases. You may find it unbearable for the first two minutes. Persist. The third minute is where things get interesting.\n\n— Nadia Reyes, columnist, The Westmere Courier",
+      "glossary": [
+        {
+          "word": "strenuous",
+          "meaning": "berat, menguras tenaga"
+        },
+        {
+          "word": "idleness",
+          "meaning": "keadaan tidak melakukan apa-apa, menganggur"
+        },
+        {
+          "word": "draught",
+          "meaning": "aliran udara dingin (yang masuk lewat celah)"
+        },
+        {
+          "word": "mischief",
+          "meaning": "kenakalan, ulah iseng"
+        },
+        {
+          "word": "tedium",
+          "meaning": "kebosanan, kejemuan"
+        },
+        {
+          "word": "romanticise",
+          "meaning": "meromantisasi, menggambarkan sesuatu lebih indah dari kenyataannya"
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-rd-2-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-2-in-praise-of-boredom",
+          "prompt": "What is the writer's main argument?",
+          "options": [
+            "Boredom has value because it creates conditions for reflection and original thought.",
+            "Smartphones are dangerous and should be banned in public places.",
+            "People were happier in the past because they owned fewer things.",
+            "Research has conclusively proved that boredom makes people more intelligent."
+          ],
+          "answer": 0,
+          "explanation": "The writer argues that filling every gap deprives us of the conditions for original thought. She explicitly denies that devices are inherently harmful, and she describes the research as 'still modest', not conclusive."
+        },
+        {
+          "id": "c2-rd-2-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-2-in-praise-of-boredom",
+          "prompt": "According to the writer, what does research suggest about boredom?",
+          "options": [
+            "It may act as a signal that pushes the mind towards reflection and invention.",
+            "It is simply an absence of stimulation.",
+            "It always leads to bad behaviour.",
+            "It has been shown beyond doubt to improve memory."
+          ],
+          "answer": 0,
+          "explanation": "The text says research 'appears to confirm' that boredom is 'not merely an absence of stimulation but a prompt' towards reflection and invention. Mischief is mentioned as occasional, not inevitable."
+        },
+        {
+          "id": "c2-rd-2-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "tone",
+          "difficulty": 5,
+          "stage": "independent",
+          "passageSlug": "c2-rd-2-in-praise-of-boredom",
+          "prompt": "What is the tone of 'We are told that this is progress ... Quite so.'?",
+          "options": [
+            "ironic, implying scepticism about the claim",
+            "enthusiastic and wholehearted agreement",
+            "angry and aggressive",
+            "neutral and purely factual"
+          ],
+          "answer": 0,
+          "explanation": "'We are told' distances the writer from the claim, and the curt 'Quite so' followed by 'But it is worth asking what we have traded' shows ironic, sceptical agreement rather than genuine enthusiasm."
+        },
+        {
+          "id": "c2-rd-2-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-2-in-praise-of-boredom",
+          "prompt": "Why does the writer mention 'the endless Sunday afternoons of childhood'?",
+          "options": [
+            "to show that she is not idealising boredom",
+            "to argue that children should be bored more often",
+            "to describe her happiest memories",
+            "to prove that clocks were less accurate in the past"
+          ],
+          "answer": 0,
+          "explanation": "The paragraph begins 'None of this is to romanticise tedium', and the childhood Sundays illustrate the kind of excessive boredom she does not want to return to."
+        },
+        {
+          "id": "c2-rd-2-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-2-in-praise-of-boredom",
+          "prompt": "In paragraph 1, 'as if boredom were a draught to be sealed out' compares boredom to:",
+          "options": [
+            "a current of cold air that people try to block",
+            "a drink that people refuse",
+            "a rough first version of a document",
+            "a piece in a board game"
+          ],
+          "answer": 0,
+          "explanation": "Draught has several meanings, but 'sealed out' only fits a current of cold air coming through gaps, which people block with seals. The comparison suggests we treat boredom as an unpleasant intrusion."
+        }
+      ]
+    },
+    {
+      "slug": "c2-rd-3-urban-heat-and-the-limits-of-greening",
+      "title": "Urban Heat Islands and the Limits of Greening",
+      "genre": "academic",
+      "body": "Cities are typically warmer than their rural surroundings, a phenomenon known as the urban heat island (UHI) effect. The difference is most pronounced at night, when heat absorbed during the day by asphalt, concrete and brick is slowly re-emitted. Its magnitude varies considerably with city size, building density, climate and the measurement methods employed, which makes generalisations from any single study problematic.\n\nAmong the mitigation strategies proposed, urban greening — the expansion of parks, street trees and vegetated roofs — has attracted particular attention, in part because it promises additional benefits such as improved air quality and mental well-being. Trees cool their surroundings through two principal mechanisms: shading, which reduces the solar radiation reaching surfaces, and evapotranspiration, the release of water vapour from leaves, which consumes heat energy.\n\nHowever, the evidence suggests that the cooling effect of green space is highly localised. Measurements in the city of Larkhaven, for instance, found that a large park lowered air temperatures noticeably within its boundaries, but that the effect diminished sharply within a few hundred metres of its edge. Moreover, evapotranspiration depends on water availability; during prolonged droughts, precisely when cooling is most needed, stressed vegetation may cool considerably less.\n\nThese findings do not imply that greening is ineffective; rather, they indicate that its benefits are contingent on the distribution, not merely the quantity, of vegetation. A network of smaller green spaces dispersed throughout a neighbourhood may therefore achieve more than a single large park of equivalent area. It would also be premature to treat greening as a substitute for other measures, such as reflective roofing materials and building designs that reduce waste heat. A combination of strategies, tailored to local conditions, appears to offer the most promising route forward.",
+      "glossary": [
+        {
+          "word": "mitigation",
+          "meaning": "mitigasi, upaya mengurangi dampak"
+        },
+        {
+          "word": "pronounced",
+          "meaning": "nyata, sangat terlihat"
+        },
+        {
+          "word": "evapotranspiration",
+          "meaning": "evapotranspirasi, pelepasan uap air dari tanah dan tumbuhan"
+        },
+        {
+          "word": "localised",
+          "meaning": "terbatas pada area tertentu"
+        },
+        {
+          "word": "premature",
+          "meaning": "terlalu dini"
+        },
+        {
+          "word": "dispersed",
+          "meaning": "tersebar"
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-rd-3-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-3-urban-heat-and-the-limits-of-greening",
+          "prompt": "Which statement best summarises the passage?",
+          "options": [
+            "Urban greening can reduce heat, but its effect is localised and works best combined with other measures.",
+            "Urban greening is ineffective and should be abandoned.",
+            "Cities are warmer than rural areas only during the day.",
+            "A single large park is the most effective way to cool a city."
+          ],
+          "answer": 0,
+          "explanation": "The writer accepts that greening cools, stresses that the effect is localised and contingent on distribution, and recommends combining strategies. The text explicitly says greening is not ineffective and favours dispersed spaces over one large park."
+        },
+        {
+          "id": "c2-rd-3-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "independent",
+          "passageSlug": "c2-rd-3-urban-heat-and-the-limits-of-greening",
+          "prompt": "According to the passage, when is the urban heat island effect most pronounced?",
+          "options": [
+            "at night",
+            "at midday",
+            "during heavy rain",
+            "only in winter"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 1 states that the difference is most pronounced at night, when heat absorbed during the day is re-emitted."
+        },
+        {
+          "id": "c2-rd-3-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-3-urban-heat-and-the-limits-of-greening",
+          "prompt": "Why might vegetation provide less cooling during droughts?",
+          "options": [
+            "Evapotranspiration depends on water, which is scarce during droughts.",
+            "Trees produce more shade when the weather is dry.",
+            "Asphalt absorbs less heat in dry weather.",
+            "Parks are closed to the public during droughts."
+          ],
+          "answer": 0,
+          "explanation": "The passage links evapotranspiration to water availability and notes that stressed vegetation may cool less in prolonged droughts. The other options are not stated or implied."
+        },
+        {
+          "id": "c2-rd-3-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "writer's stance",
+          "difficulty": 5,
+          "stage": "independent",
+          "passageSlug": "c2-rd-3-urban-heat-and-the-limits-of-greening",
+          "prompt": "The writer's attitude towards urban greening is best described as:",
+          "options": [
+            "cautiously supportive",
+            "dismissive",
+            "uncritically enthusiastic",
+            "indifferent"
+          ],
+          "answer": 0,
+          "explanation": "The writer says greening is not ineffective and can achieve more when well distributed, but warns against treating it as a substitute for other measures. Hedges such as 'may' and 'appears to' signal caution rather than enthusiasm or dismissal."
+        },
+        {
+          "id": "c2-rd-3-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-3-urban-heat-and-the-limits-of-greening",
+          "prompt": "In the final paragraph, 'contingent on' is closest in meaning to:",
+          "options": [
+            "dependent on",
+            "opposed to",
+            "unrelated to",
+            "measured by"
+          ],
+          "answer": 0,
+          "explanation": "The benefits of greening are contingent on (depend on) how vegetation is distributed. The surrounding argument about dispersed green spaces confirms this meaning."
+        }
+      ]
+    },
+    {
+      "slug": "c2-rd-4-review-the-glass-orchard",
+      "title": "Review: The Glass Orchard",
+      "genre": "article",
+      "body": "Tamsin Okoro's third novel, The Glass Orchard, arrives trailing superlatives. Its publisher calls it \"a masterpiece of quiet devastation\"; early readers have compared its author to the great family chroniclers of the last century. Such expectations would burden any book, and it is to Okoro's credit that hers survives them at all.\n\nThe premise is promising. Three sisters return to the crumbling family estate after their father's death and discover that he has left the house not to them but to his former gardener. What follows is less a plot than a slow excavation of grievances, conducted largely over meals that nobody seems to enjoy.\n\nOkoro writes beautifully, sometimes too beautifully. Her descriptions of the orchard — the \"glass\" of the title refers to an abandoned greenhouse — are luminous, and a chapter set during a hailstorm is as fine a piece of writing as anything published this year. Yet the prose occasionally becomes an end in itself: one paragraph devotes some two hundred words to a single pear. The characters, meanwhile, are drawn with uneven care. The eldest sister, Ruth, is a triumph of controlled bitterness; the youngest is little more than a collection of symptoms.\n\nThe final third, in which the gardener's secret is revealed, is not without tension, though readers who have been paying attention will have guessed it long before the sisters do.\n\nNone of this makes The Glass Orchard a bad novel. It is an accomplished, often moving and frequently exasperating one, a book that would have been considerably better at two-thirds of its length. Whether it is a masterpiece is another matter.",
+      "glossary": [
+        {
+          "word": "superlative",
+          "meaning": "pujian tertinggi; bentuk paling (ter-)"
+        },
+        {
+          "word": "grievance",
+          "meaning": "keluhan, rasa sakit hati"
+        },
+        {
+          "word": "excavation",
+          "meaning": "penggalian"
+        },
+        {
+          "word": "luminous",
+          "meaning": "bercahaya, cemerlang"
+        },
+        {
+          "word": "exasperating",
+          "meaning": "menjengkelkan"
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-rd-4-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-4-review-the-glass-orchard",
+          "prompt": "What is the reviewer's overall judgement of the novel?",
+          "options": [
+            "It is accomplished and often moving but flawed, and it does not clearly deserve to be called a masterpiece.",
+            "It is a masterpiece that fully deserves its reputation.",
+            "It is a complete failure with no redeeming features.",
+            "It is a fast-paced thriller with a shocking ending."
+          ],
+          "answer": 0,
+          "explanation": "The reviewer praises the writing and some characters but criticises the overwriting, uneven characterisation, predictable ending and length, concluding that whether it is a masterpiece 'is another matter'."
+        },
+        {
+          "id": "c2-rd-4-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "independent",
+          "passageSlug": "c2-rd-4-review-the-glass-orchard",
+          "prompt": "According to the reviewer, what does 'glass' in the title literally refer to?",
+          "options": [
+            "an abandoned greenhouse",
+            "the sisters' fragile relationships",
+            "the windows of the family house",
+            "a valuable family heirloom"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 3 states that 'the \"glass\" of the title refers to an abandoned greenhouse'. Any symbolic reading of fragility is not what the reviewer identifies as the literal reference."
+        },
+        {
+          "id": "c2-rd-4-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-4-review-the-glass-orchard",
+          "prompt": "What does the reviewer imply about the ending?",
+          "options": [
+            "It is somewhat predictable.",
+            "It is extremely shocking.",
+            "It is missing from the book.",
+            "It is too confusing to follow."
+          ],
+          "answer": 0,
+          "explanation": "The understatement 'not without tension' is followed by the remark that attentive readers 'will have guessed it long before the sisters do', which implies predictability."
+        },
+        {
+          "id": "c2-rd-4-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "tone",
+          "difficulty": 5,
+          "stage": "independent",
+          "passageSlug": "c2-rd-4-review-the-glass-orchard",
+          "prompt": "The sentence 'it is to Okoro's credit that hers survives them at all' is best described as:",
+          "options": [
+            "faint praise that hints at the book's weaknesses",
+            "an enthusiastic endorsement",
+            "a neutral summary of the plot",
+            "a direct personal insult"
+          ],
+          "answer": 0,
+          "explanation": "Saying the book merely 'survives' the high expectations, with 'at all' suggesting this was in doubt, praises it only faintly and prepares the reader for criticism. It is neither enthusiastic nor insulting, and it says nothing about the plot."
+        },
+        {
+          "id": "c2-rd-4-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 4,
+          "stage": "independent",
+          "passageSlug": "c2-rd-4-review-the-glass-orchard",
+          "prompt": "In paragraph 3, 'luminous' most nearly means:",
+          "options": [
+            "radiant and vivid",
+            "lit by electric lights",
+            "confusing and obscure",
+            "excessively long"
+          ],
+          "answer": 0,
+          "explanation": "Luminous descriptions are bright, vivid and beautiful; the word is used here as praise, matching 'Okoro writes beautifully'. The literal sense of physical light does not apply to descriptions."
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "slug": "c2-ls-1-rewilding-interview",
+      "title": "Field Notes: What Counts as Rewilding?",
+      "kind": "interview",
+      "script": [
+        {
+          "speaker": "Host",
+          "text": "Welcome back to Field Notes. My guest today is Dr. Imani Castell, an ecologist at Westmere University who has spent the last decade studying rewilding projects. Imani, let's start with the obvious question: what exactly is rewilding?"
+        },
+        {
+          "speaker": "Dr. Castell",
+          "text": "Well, it depends on whom you ask, which is rather the problem. Broadly speaking, it means stepping back and allowing natural processes to restore an ecosystem, sometimes by reintroducing species that have disappeared. But the term has been stretched to cover almost anything with a tree in it."
+        },
+        {
+          "speaker": "Host",
+          "text": "You sound a little sceptical."
+        },
+        {
+          "speaker": "Dr. Castell",
+          "text": "Not of the idea itself. I'm sceptical of the marketing. When a developer plants a few hundred saplings beside a car park and calls it rewilding, that's not ecology; that's public relations."
+        },
+        {
+          "speaker": "Host",
+          "text": "So what does a successful project look like?"
+        },
+        {
+          "speaker": "Dr. Castell",
+          "text": "The best ones I've studied share three features: they're large enough for natural processes to operate, they involve local communities from the start, and they're patient. Nature doesn't work to a five-year funding cycle."
+        },
+        {
+          "speaker": "Host",
+          "text": "And the local community part — why does that matter so much?"
+        },
+        {
+          "speaker": "Dr. Castell",
+          "text": "Because people who feel a project has been imposed on them will, quite understandably, resist it. In one valley we studied, the reintroduction of beavers was initially opposed by almost every farmer. Ten years later, after the dams had reduced flooding downstream, several of those same farmers were the project's most vocal supporters."
+        },
+        {
+          "speaker": "Host",
+          "text": "That's quite a turnaround."
+        },
+        {
+          "speaker": "Dr. Castell",
+          "text": "It is. Though I should add that it didn't happen by itself. It took years of meetings, compensation for damaged fields, and a great deal of tea."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-ls-1-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "main idea",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-1-rewilding-interview",
+          "prompt": "What is the main topic of the interview?",
+          "options": [
+            "what makes rewilding projects genuine and successful",
+            "how to build dams that prevent floods",
+            "the history of Westmere University",
+            "how developers design car parks"
+          ],
+          "answer": 0,
+          "explanation": "Dr. Castell defines rewilding, criticises its misuse and describes the features of successful projects. Dams, the university and car parks are only mentioned in passing."
+        },
+        {
+          "id": "c2-ls-1-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "speaker's attitude",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-1-rewilding-interview",
+          "prompt": "What is Dr. Castell sceptical about?",
+          "options": [
+            "the use of the word 'rewilding' as a marketing label",
+            "the basic idea of rewilding",
+            "involving local communities",
+            "the ecological value of beavers"
+          ],
+          "answer": 0,
+          "explanation": "She says she is sceptical 'not of the idea itself' but 'of the marketing', giving the example of a developer calling a few saplings rewilding. She supports community involvement and describes the beaver project positively."
+        },
+        {
+          "id": "c2-ls-1-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-1-rewilding-interview",
+          "prompt": "Which of the following is NOT one of the three features of successful projects that she mentions?",
+          "options": [
+            "generous government funding",
+            "being large enough for natural processes to operate",
+            "involving local communities from the start",
+            "being patient"
+          ],
+          "answer": 0,
+          "explanation": "The three features are size, community involvement and patience. She does not mention government funding; in fact she says nature 'doesn't work to a five-year funding cycle'."
+        },
+        {
+          "id": "c2-ls-1-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 5,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-1-rewilding-interview",
+          "prompt": "What does her final remark, 'and a great deal of tea', imply?",
+          "options": [
+            "Winning the farmers' support required many long, patient conversations.",
+            "The farmers were paid in tea instead of money.",
+            "The project was mainly concerned with agriculture.",
+            "The meetings achieved nothing useful."
+          ],
+          "answer": 0,
+          "explanation": "Drinking a great deal of tea is a humorous understatement for countless informal conversations. She has just said the turnaround 'didn't happen by itself', and compensation is mentioned separately."
+        }
+      ]
+    },
+    {
+      "slug": "c2-ls-2-language-of-apology",
+      "title": "Lecture: The Language of Public Apologies",
+      "kind": "monologue",
+      "script": [
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "Good morning. Today I want to look at a genre we all encounter but rarely analyse: the public apology."
+        },
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "Consider a statement that begins, 'We are sorry if anyone was offended.' On the surface, it is an apology. But look more closely. The conditional 'if' casts doubt on whether anyone was offended at all, and the passive construction quietly removes the company from the picture."
+        },
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "Compare that with: 'We made a serious mistake, and we apologise to the customers we let down.' Here the subject is 'we', the verb is active, and the harm is acknowledged without qualification."
+        },
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "Linguists sometimes call the first type a 'non-apology'. It has the shape of an apology but avoids its substance, namely responsibility."
+        },
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "Now, I am not suggesting that every hedged apology is cynical. Legal advisers often warn organisations that an unqualified admission may be used against them in court. So there is a genuine tension between moral and legal considerations."
+        },
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "What the research does suggest, however, is that audiences are remarkably good at detecting evasion. In several studies, statements that named the wrongdoing and the people affected were rated as more sincere, even when they offered no compensation."
+        },
+        {
+          "speaker": "Professor Lindqvist",
+          "text": "For next week, please collect three public apologies and analyse them using the criteria we've discussed: who is the subject, is the harm named, and is there any conditional language?"
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-ls-2-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "main idea",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-2-language-of-apology",
+          "prompt": "What is the lecture mainly about?",
+          "options": [
+            "how the language of public apologies can accept or avoid responsibility",
+            "how to win compensation in court",
+            "the history of corporate advertising",
+            "why organisations should never apologise"
+          ],
+          "answer": 0,
+          "explanation": "The lecturer contrasts apologies that accept responsibility with 'non-apologies' that avoid it, analysing their grammar. Courts are mentioned only as one reason for hedging."
+        },
+        {
+          "id": "c2-ls-2-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-2-language-of-apology",
+          "prompt": "According to the lecturer, what is the effect of 'if' in 'We are sorry if anyone was offended'?",
+          "options": [
+            "It casts doubt on whether any offence occurred.",
+            "It makes the apology more sincere.",
+            "It names the people who were affected.",
+            "It promises compensation."
+          ],
+          "answer": 0,
+          "explanation": "The lecturer says 'the conditional \"if\" casts doubt on whether anyone was offended at all'. This makes the apology less, not more, sincere."
+        },
+        {
+          "id": "c2-ls-2-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 5,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-2-language-of-apology",
+          "prompt": "Why does the lecturer mention legal advisers?",
+          "options": [
+            "to acknowledge that some hedged apologies may have legitimate reasons",
+            "to argue that every hedged apology is cynical",
+            "to recommend that students study law",
+            "to show that courts ignore apologies"
+          ],
+          "answer": 0,
+          "explanation": "She introduces legal advice with 'I am not suggesting that every hedged apology is cynical', presenting it as a genuine reason for caution and a tension between moral and legal considerations."
+        },
+        {
+          "id": "c2-ls-2-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-2-language-of-apology",
+          "prompt": "According to the research described, which apology would audiences most likely rate as sincere?",
+          "options": [
+            "one that names the wrongdoing and the people affected, even without compensation",
+            "one that offers compensation but uses the passive voice",
+            "one that begins 'We are sorry if ...'",
+            "one drafted by a legal adviser"
+          ],
+          "answer": 0,
+          "explanation": "The studies found that statements naming the wrongdoing and the people affected were rated as more sincere 'even when they offered no compensation'."
+        }
+      ]
+    },
+    {
+      "slug": "c2-ls-3-the-washing-up-conversation",
+      "title": "A Delicate Conversation About the Washing-up",
+      "kind": "dialogue",
+      "script": [
+        {
+          "speaker": "Priya",
+          "text": "Have you got a minute? It's about the kitchen."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Ah. That sounds ominous."
+        },
+        {
+          "speaker": "Priya",
+          "text": "It's not a big deal, exactly. It's just that the washing-up seems to have developed a life of its own."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Right. I suppose I have been a bit busy with the dissertation."
+        },
+        {
+          "speaker": "Priya",
+          "text": "I know, and I do sympathise. But the frying pan has been soaking since Tuesday. I think it's started paying rent."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Okay, fair point. That's... not ideal. What if we set up a rota?"
+        },
+        {
+          "speaker": "Priya",
+          "text": "A rota would be great. Although, to be honest, we tried that in October and it lasted about four days."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Four and a half, technically."
+        },
+        {
+          "speaker": "Priya",
+          "text": "So maybe something simpler. Whoever cooks doesn't wash up, and the other person does it the same evening. No exceptions."
+        },
+        {
+          "speaker": "Tom",
+          "text": "The same evening? Even when I've got a deadline?"
+        },
+        {
+          "speaker": "Priya",
+          "text": "Especially when you've got a deadline. That's when the pan comes out."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Fine. Same evening. And I'll deal with the pan tonight. Sorry — I hadn't realised it had got that bad."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Thanks. I really appreciate it."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-ls-3-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "main idea",
+          "difficulty": 3,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-3-the-washing-up-conversation",
+          "prompt": "What is the purpose of the conversation?",
+          "options": [
+            "Priya wants to resolve a problem about the washing-up without causing an argument.",
+            "Tom wants Priya to help him with his dissertation.",
+            "Priya is asking Tom to pay more rent.",
+            "They are planning a dinner party."
+          ],
+          "answer": 0,
+          "explanation": "Priya raises the issue of unwashed dishes using softeners and humour, and the two agree on a new system. Rent is mentioned only as a joke about the frying pan."
+        },
+        {
+          "id": "c2-ls-3-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-3-the-washing-up-conversation",
+          "prompt": "What does Priya mean when she says the frying pan has 'started paying rent'?",
+          "options": [
+            "It has been left unwashed for far too long.",
+            "Tom owes her money for the rent.",
+            "She wants to sell the frying pan.",
+            "A new flatmate has moved in."
+          ],
+          "answer": 0,
+          "explanation": "The joke is a hyperbole: the pan has been in the sink so long (since Tuesday) that it seems to live there. It is a humorous way of criticising without sounding aggressive."
+        },
+        {
+          "id": "c2-ls-3-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-3-the-washing-up-conversation",
+          "prompt": "What happened to the rota they tried in October?",
+          "options": [
+            "It lasted only a few days.",
+            "It worked well for several months.",
+            "Tom refused to agree to it.",
+            "Their landlord cancelled it."
+          ],
+          "answer": 0,
+          "explanation": "Priya says it 'lasted about four days', and Tom corrects her: 'Four and a half, technically.'"
+        },
+        {
+          "id": "c2-ls-3-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "pragmatics",
+          "difficulty": 4,
+          "stage": "independent",
+          "listeningSlug": "c2-ls-3-the-washing-up-conversation",
+          "prompt": "Tom's comment 'That's... not ideal' is an example of:",
+          "options": [
+            "understatement that acknowledges a problem",
+            "hyperbole",
+            "an angry refusal",
+            "a rhetorical question"
+          ],
+          "answer": 0,
+          "explanation": "'Not ideal' deliberately describes a bad situation in mild terms; it is an understatement that concedes Priya's point. It is not exaggerated, angry or a question."
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "slug": "c2-sp-defend-a-position",
+      "title": "Defend a Position on a Controversial Issue",
+      "kind": "guided",
+      "prompt": "Speak for about two minutes on the statement: 'City centres should be closed to private cars.' Take a clear position, acknowledge the strongest counter-argument, rebut it, and finish with a memorable conclusion. Use at least one rhetorical question, one tricolon and one concession.",
+      "targetPhrases": [
+        "Admittedly, ...",
+        "It is not a question of ... but of ...",
+        "Isn't it time we ...?",
+        "cleaner, quieter and safer",
+        "The evidence is beyond dispute"
+      ],
+      "sampleAnswer": "I firmly believe that the centre of Port Elvan should be closed to private cars. Think about what our high street is like at five o'clock: noisy, congested and frankly dangerous for anyone on foot. Admittedly, a ban would inconvenience some people, particularly older residents and those with heavy shopping, and I do take that concern seriously. But the solution is not to keep the cars; it is to provide better alternatives — frequent buses, accessible taxis and delivery services for local shops. Cities that have taken this step have generally found that footfall in shops rises rather than falls, because people linger when they are not dodging traffic. This is not a question of punishing drivers but of deciding who our streets are for. A car-free centre would be cleaner, quieter and safer for everyone. So isn't it time we stopped designing our town around machines and started designing it around people?",
+      "tips": [
+        "State your position in the first sentence so that listeners know where you stand.",
+        "Use a concession (Admittedly ..., I do take that concern seriously) before your rebuttal; it makes you sound fair and therefore more persuasive.",
+        "Hedge factual claims you cannot fully support (generally found, tend to) and boost your main conclusion.",
+        "End with a rhetorical question or tricolon rather than simply stopping."
+      ]
+    },
+    {
+      "slug": "c2-sp-chair-a-panel",
+      "title": "Chair a Panel Discussion",
+      "kind": "role_play",
+      "prompt": "You are chairing a panel at the Westmere Book Festival on the topic 'Is reading on screens changing how we think?'. Open the session, introduce two fictional panellists, ask a first question, politely interrupt a panellist who is speaking for too long, invite the other to respond, and summarise the points of agreement and disagreement.",
+      "targetPhrases": [
+        "It's my pleasure to welcome ...",
+        "If I could just come in there ...",
+        "I'm conscious of time, so ...",
+        "Would you like to respond to that?",
+        "Where you seem to agree is ...; where you differ is ..."
+      ],
+      "sampleAnswer": "Good afternoon, everyone, and welcome to this session. It's my pleasure to welcome our two panellists: Dr. Ilse Moreno, a cognitive psychologist at Westmere University, and Jonah Pike, a novelist and former bookseller. Let's begin with a simple question, Ilse: does it matter whether we read on paper or on a screen? ... Thank you, Ilse — if I could just come in there, because I'm conscious of time and I'd love to hear Jonah's view. Jonah, Ilse suggests that screen reading encourages skimming. Would you like to respond to that? ... Thank you both. Where you seem to agree is that the format matters less than the habits we bring to it; where you differ is on whether those habits can be changed by design or only by the reader. Let's open the floor to questions.",
+      "tips": [
+        "Interrupt politely by acknowledging the speaker first (Thank you, Ilse — if I could just come in there).",
+        "Use names when you hand over the floor; it keeps turn-taking clear.",
+        "Summarise neutrally: your role is to clarify, not to judge."
+      ]
+    },
+    {
+      "slug": "c2-sp-delivering-bad-news",
+      "title": "Deliver Bad News Tactfully",
+      "kind": "situation",
+      "prompt": "You manage a small team at a fictional design agency, Linden & Rowe. The client has cancelled the project your team has worked on for four months. Tell the team in a short meeting. Be honest, acknowledge their effort, avoid blaming anyone, and explain what happens next.",
+      "targetPhrases": [
+        "I'm afraid I have some disappointing news.",
+        "I want to be completely transparent with you.",
+        "This is in no way a reflection on ...",
+        "I fully appreciate how frustrating this is.",
+        "What happens next is ..."
+      ],
+      "sampleAnswer": "Thanks for making time at such short notice. I'm afraid I have some disappointing news, and I want to be completely transparent with you. This morning, the client informed us that they are cancelling the Harbourline project, with immediate effect. Their reasons are financial: they've had to cut their budget across the board. I want to stress that this is in no way a reflection on the quality of our work — in fact, their director went out of her way to say how impressed she was with the prototypes. I fully appreciate how frustrating this is after four months of late nights. What happens next is that we'll be paid for all the work completed to date, and I'm meeting the senior partners tomorrow to discuss which projects you'll move on to. My door is open if anyone wants to talk about this individually.",
+      "tips": [
+        "Signal bad news before delivering it (I'm afraid I have some disappointing news); it prepares listeners.",
+        "Be direct about the facts; indirectness is for softening tone, not for hiding information.",
+        "Separate the decision from the team's performance to protect morale.",
+        "End with concrete next steps."
+      ]
+    },
+    {
+      "slug": "c2-sp-spoken-review",
+      "title": "Give a Balanced Spoken Review",
+      "kind": "guided",
+      "prompt": "Review a book, film, series or exhibition you have experienced recently (or a fictional one) for a radio arts programme. Speak for about ninety seconds. Give a balanced evaluation that includes praise, criticism and a final recommendation, using precise evaluative vocabulary.",
+      "targetPhrases": [
+        "assured / accomplished",
+        "uneven",
+        "if somewhat ...",
+        "falls short of",
+        "well worth ... despite ..."
+      ],
+      "sampleAnswer": "This week I've been watching 'Saltmarsh', the new six-part drama set in a fictional fishing town. The first two episodes are remarkably assured: the performances are understated, the photography is luminous, and the script trusts its audience to read between the lines. Unfortunately, the series becomes increasingly uneven as it goes on. The fourth episode in particular is overwrought, piling one revelation on another until the tension becomes faintly ridiculous. The ending is moving, if somewhat predictable. Overall, 'Saltmarsh' falls short of the masterpiece its trailers promised, but it is well worth watching for its first half and for a quietly devastating central performance.",
+      "tips": [
+        "Use precise evaluative adjectives (assured, uneven, overwrought, understated) instead of good/bad.",
+        "Balance praise and criticism with concessive structures (if somewhat ..., despite ...).",
+        "Finish with a clear recommendation so listeners know what to do."
+      ]
+    },
+    {
+      "slug": "c2-sp-contrastive-stress",
+      "title": "Contrastive Stress and Emphatic Intonation",
+      "kind": "pronunciation",
+      "prompt": "Read the following sentences aloud, placing strong stress on the capitalised words. Then record yourself and check that the contrast is audible. 1) It's not a COST; it's an INVESTMENT. 2) I DID send the email. 3) She speaks not only FRENCH but also ARABIC. 4) The question is not whether we can AFFORD to act, but whether we can afford NOT to. 5) WHAT on earth were they THINKING?",
+      "targetPhrases": [
+        "It's not a COST; it's an INVESTMENT.",
+        "I DID send the email.",
+        "not only FRENCH but also ARABIC",
+        "whether we can afford NOT to"
+      ],
+      "sampleAnswer": "It's not a COST — it's an INVESTMENT. I DID send the email. She speaks not only FRENCH but also ARABIC. The question is not whether we can AFFORD to act, but whether we can afford NOT to. WHAT on earth were they THINKING?",
+      "tips": [
+        "In antithesis, stress the two contrasted words and pause briefly at the semicolon or dash.",
+        "With emphatic do/did, the auxiliary carries the main stress, often with a falling-rising tone.",
+        "Lengthen the stressed vowel slightly and raise the pitch; do not simply speak louder.",
+        "Keep unstressed words (it's, a, the, can) short and weak so that the contrast stands out."
+      ]
+    },
+    {
+      "slug": "c2-sp-explain-a-concept",
+      "title": "Explain a Complex Idea to a Non-specialist",
+      "kind": "situation",
+      "prompt": "At a family gathering, a relative asks you to explain a complex idea from your field of study or work (for example inflation, machine learning, the immune system or climate feedback loops). Explain it in about two minutes for someone with no specialist knowledge. Use at least one analogy or extended metaphor and check that your listener has understood.",
+      "targetPhrases": [
+        "Think of it as ...",
+        "In other words, ...",
+        "The crucial point is that ...",
+        "Does that make sense so far?",
+        "To put it another way, ..."
+      ],
+      "sampleAnswer": "So, you asked about the immune system. Think of it as a security service for your body. Most of the time it's on patrol: white blood cells circulate, checking everything they meet. When they find something suspicious — a virus, say — they raise the alarm, and the body sends reinforcements. The crucial point is that the system also keeps records. Once it has met a particular intruder, it remembers its face, so to speak, and the next time it can respond much faster. That's essentially what a vaccine does: it shows the security service a photograph of the criminal before the criminal ever arrives. Does that make sense so far? The tricky part is that a security service can also overreact. In other words, sometimes the immune system attacks harmless things, like pollen, and that's what an allergy is.",
+      "tips": [
+        "Choose one analogy and extend it consistently rather than mixing several images.",
+        "Signal the most important idea explicitly (The crucial point is ...).",
+        "Pause to check understanding and rephrase (In other words ...) when needed.",
+        "Avoid technical terms, or define them immediately in plain English."
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "slug": "c2-wr-discursive-essay",
+      "title": "Discursive Essay: Employability and the Purpose of University",
+      "kind": "essay",
+      "instructions": "Write a discursive essay in response to the following statement: 'Universities should prioritise employability over academic knowledge.' Discuss both sides of the issue and reach a reasoned conclusion. Use a formal academic register, appropriate hedging, cohesive devices and at least one example of fronting or inversion for emphasis.",
+      "minWords": 320,
+      "maxWords": 450,
+      "modelAnswer": "Few questions in higher education provoke as much debate as the purpose of a degree. As tuition costs rise and graduate labour markets become increasingly competitive, it is often argued that universities should prioritise employability over academic knowledge. This essay will argue that, while employability is a legitimate concern, framing the two as competing priorities is a false dichotomy.\n\nThe case for prioritising employability is not without merit. Students who invest several years and considerable sums in their education understandably expect a return on that investment, and employers frequently report that graduates lack practical skills such as project management, teamwork and professional communication. Universities that embed work placements and applied projects in their programmes appear to produce graduates who make the transition to employment more smoothly. From this perspective, an institution that ignores employability arguably fails its students.\n\nNevertheless, there are compelling reasons to resist an exclusive focus on the job market. Specific vocational skills tend to date quickly; the software a student masters in the first year may well be obsolete by graduation. By contrast, the capacities developed through rigorous academic study — the ability to evaluate evidence, construct an argument and tolerate uncertainty — are durable and transferable. Moreover, universities serve purposes beyond the economy: they preserve and extend knowledge, and they foster the informed citizens on whom democratic societies depend. Were universities to become little more than training centres, these wider functions would be seriously diminished.\n\nWhat this suggests is that the most effective approach integrates rather than ranks the two goals. Academic knowledge, taught well, is itself a foundation for employability, and practical experience can deepen theoretical understanding. A history student who curates a local exhibition, or an engineering student who works with a community group, develops both kinds of competence at once.\n\nIn conclusion, the question is not whether universities should value employability, but how they can do so without sacrificing the intellectual depth that gives a degree its lasting worth. Institutions that combine the two are likely to serve students, employers and society best."
+    },
+    {
+      "slug": "c2-wr-opinion-column",
+      "title": "Opinion Column: The Four-day Working Week",
+      "kind": "opinion",
+      "instructions": "The fictional newspaper The Westmere Courier has invited readers to contribute an opinion column on whether employers should adopt a four-day working week. Write a column with a clear stance, an engaging opening, at least two rhetorical devices (for example a rhetorical question, tricolon or antithesis), a concession and a memorable ending. Your tone may be lively but should remain credible.",
+      "minWords": 280,
+      "maxWords": 400,
+      "modelAnswer": "Ask anyone on a Thursday afternoon how productive they are feeling, and you will rarely hear the word 'very'. So why do we still insist that the working week must last five days?\n\nThe five-day week is not a law of nature; it is a habit, and a surprisingly recent one. It was introduced when most work was physical and output could be measured in hours. Today, much of our work is mental, and minds, unlike machines, do not run at a constant speed. Trials of a four-day week in a number of organisations have reported that staff were less stressed, took fewer sick days and produced as much as before — sometimes more.\n\nAdmittedly, the model does not suit every sector. A hospital cannot simply close on Fridays, and small businesses may struggle to cover shifts. These are real difficulties, and enthusiasts who dismiss them do the idea no favours. But a difficulty is not an argument for doing nothing; it is an argument for designing carefully. Rotating rotas, staggered days off and phased introduction have all been tried, with encouraging results.\n\nThe deeper question is what we think work is for. If it is to fill time, then five days — or six, or seven — will always seem better than four. If it is to produce value while leaving people the energy to raise families, care for relatives and take part in their communities, the case for change becomes hard to resist.\n\nWe do not need fewer hours of effort; we need fewer hours of pretending. A shorter week would give us more rested workers, more present parents and more engaged citizens. Surely that is worth a Thursday afternoon's thought."
+    },
+    {
+      "slug": "c2-wr-formal-complaint",
+      "title": "Formal Letter of Complaint",
+      "kind": "email_formal",
+      "instructions": "The fictional ferry company Harbourline has cancelled the 07:15 service between Port Elvan and Carrow Island three times in the past month without notice, causing you to miss two important appointments. Write a formal email to the Customer Relations Manager. Explain the problem precisely, express your dissatisfaction firmly but courteously, refer to the company's own commitments, and state clearly what action you expect.",
+      "minWords": 200,
+      "maxWords": 300,
+      "modelAnswer": "Subject: Repeated cancellation of the 07:15 Port Elvan–Carrow Island service\n\nDear Customer Relations Manager,\n\nI am writing to express my serious concern about the repeated cancellation of the 07:15 Harbourline service from Port Elvan to Carrow Island, on which I travel to work three days a week.\n\nOn 3, 11 and 24 October, the service was cancelled without any prior notice. On each occasion, passengers were informed only on arrival at the terminal, and no alternative transport was offered. As a result, I missed a medical appointment and an important client meeting, the latter of which has had financial consequences for my employer.\n\nI appreciate that operational difficulties occasionally arise. However, your Passenger Charter states that customers will be notified of cancellations 'at the earliest possible opportunity' and offered 'reasonable alternative arrangements'. Neither commitment was honoured on any of the three dates.\n\nI would therefore be grateful if you could explain the reasons for these cancellations and the steps Harbourline is taking to prevent their recurrence. I would also request a refund of the three unused journeys on my season ticket and confirmation that, in future, passengers will be informed by text message, as your registration system already permits.\n\nI look forward to your response within fourteen days, as stipulated in your complaints procedure.\n\nYours faithfully,\n\nDaniela Ferreira"
+    },
+    {
+      "slug": "c2-wr-academic-summary",
+      "title": "Summary of an Academic Text",
+      "kind": "summary",
+      "instructions": "Read the passage 'Urban Heat Islands and the Limits of Greening' in the Reading section. Summarise it in your own words for a reader who has not seen the original. Include the main claim, the key evidence and the writer's conclusion. Do not add your own opinion, and avoid copying phrases longer than three words from the text.",
+      "minWords": 90,
+      "maxWords": 140,
+      "modelAnswer": "The passage examines whether planting vegetation can counter the tendency of cities to be warmer than the surrounding countryside, a difference that is greatest after dark. Greenery is attractive as a solution because it lowers temperatures through shade and the release of moisture from leaves, while also bringing health and environmental benefits. However, the author notes that its cooling influence extends only a short distance beyond the green area itself and may weaken during dry periods, when plants lack water. The author therefore concludes that greening is useful but works best when many small green areas are spread across a district, and that it should complement, rather than replace, other measures such as reflective roofs and better building design."
+    },
+    {
+      "slug": "c2-wr-editing-task",
+      "title": "Editing Task: Refine a Draft Paragraph",
+      "kind": "correction",
+      "instructions": "The following paragraph from a student report contains seven problems: two dangling modifiers, two agreement errors, one tense error, one preposition error and one redundant expression. Rewrite the paragraph so that it is accurate and concise, changing as little as necessary.\n\n\"Having analysed the survey data, the results was clearer than expected. The number of respondents who use public transport daily have increased since 2021, when the new tram line opened. Living outside the city centre, the cost of commuting is a major concern for many participants. In the past three years, transport fares rose by an average of 12 per cent, a figure that is tantamount with a real-terms cut in income for low earners. In conclusion, the end result of the survey suggests that affordability, rather than convenience, is the main factor influencing travel choices.\"",
+      "minWords": 70,
+      "maxWords": 130,
+      "modelAnswer": "Having analysed the survey data, we found that the results were clearer than expected. The number of respondents who use public transport daily has increased since 2021, when the new tram line opened. For many participants living outside the city centre, the cost of commuting is a major concern. In the past three years, transport fares have risen by an average of 12 per cent, a figure that is tantamount to a real-terms cut in income for low earners. In conclusion, the survey suggests that affordability, rather than convenience, is the main factor influencing travel choices."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "luminous",
+      "pos": "adjective",
+      "ipa": "/ˈluːmɪnəs/",
+      "definition": "full of light; (of writing or art) bright, vivid and beautifully clear",
+      "meaning": "bercahaya; cemerlang (tentang tulisan/karya)",
+      "examples": [
+        {
+          "en": "Her prose is luminous, even when the subject is grim.",
+          "id": "Prosanya cemerlang, bahkan ketika temanya suram."
+        }
+      ],
+      "synonyms": [
+        "radiant",
+        "brilliant",
+        "vivid"
+      ],
+      "antonyms": [
+        "dull",
+        "murky"
+      ],
+      "collocations": [
+        "luminous prose",
+        "luminous colours",
+        "a luminous performance"
+      ],
+      "phrases": [],
+      "related": [
+        "luminosity",
+        "illuminate"
+      ],
+      "topic": "literary and descriptive language"
+    },
+    {
+      "word": "desolate",
+      "pos": "adjective",
+      "ipa": "/ˈdesələt/",
+      "definition": "empty, bleak and without people; also extremely sad and lonely",
+      "meaning": "sunyi, terpencil dan suram; sangat sedih",
+      "examples": [
+        {
+          "en": "The road crossed a desolate stretch of moorland.",
+          "id": "Jalan itu melintasi hamparan padang yang sunyi dan suram."
+        }
+      ],
+      "synonyms": [
+        "bleak",
+        "barren",
+        "forlorn"
+      ],
+      "antonyms": [
+        "bustling",
+        "lively"
+      ],
+      "collocations": [
+        "a desolate landscape",
+        "feel desolate",
+        "utterly desolate"
+      ],
+      "phrases": [],
+      "related": [
+        "desolation"
+      ],
+      "topic": "literary and descriptive language"
+    },
+    {
+      "word": "ephemeral",
+      "pos": "adjective",
+      "ipa": "/ɪˈfemərəl/",
+      "definition": "lasting for a very short time",
+      "meaning": "sementara, berumur pendek, fana",
+      "examples": [
+        {
+          "en": "Online fame is often ephemeral.",
+          "id": "Ketenaran daring sering kali hanya sesaat."
+        }
+      ],
+      "synonyms": [
+        "fleeting",
+        "transient",
+        "short-lived"
+      ],
+      "antonyms": [
+        "enduring",
+        "permanent",
+        "lasting"
+      ],
+      "collocations": [
+        "ephemeral pleasures",
+        "ephemeral nature",
+        "largely ephemeral"
+      ],
+      "phrases": [],
+      "related": [
+        "ephemera"
+      ],
+      "topic": "literary and descriptive language"
+    },
+    {
+      "word": "evocative",
+      "pos": "adjective",
+      "ipa": "/ɪˈvɒkətɪv/",
+      "definition": "bringing strong images, memories or feelings to mind",
+      "meaning": "menggugah (kenangan, perasaan, citra)",
+      "examples": [
+        {
+          "en": "The novel opens with an evocative description of the harbour at dawn.",
+          "id": "Novel itu dibuka dengan deskripsi pelabuhan saat fajar yang sangat menggugah."
+        }
+      ],
+      "synonyms": [
+        "suggestive",
+        "redolent",
+        "atmospheric"
+      ],
+      "antonyms": [
+        "bland",
+        "flat"
+      ],
+      "collocations": [
+        "highly evocative",
+        "evocative of",
+        "an evocative image"
+      ],
+      "phrases": [
+        "be evocative of something"
+      ],
+      "related": [
+        "evoke",
+        "evocation"
+      ],
+      "topic": "literary and descriptive language"
+    },
+    {
+      "word": "languid",
+      "pos": "adjective",
+      "ipa": "/ˈlæŋɡwɪd/",
+      "definition": "slow, relaxed and lacking energy, often pleasantly so",
+      "meaning": "lesu, lamban dan santai",
+      "examples": [
+        {
+          "en": "They spent a languid afternoon by the river.",
+          "id": "Mereka menghabiskan sore yang santai dan malas di tepi sungai."
+        }
+      ],
+      "synonyms": [
+        "leisurely",
+        "unhurried",
+        "listless"
+      ],
+      "antonyms": [
+        "energetic",
+        "brisk"
+      ],
+      "collocations": [
+        "a languid pace",
+        "languid summer days",
+        "a languid gesture"
+      ],
+      "phrases": [],
+      "related": [
+        "languor",
+        "languish"
+      ],
+      "topic": "literary and descriptive language"
+    },
+    {
+      "word": "resplendent",
+      "pos": "adjective",
+      "ipa": "/rɪˈsplendənt/",
+      "definition": "attractive and impressive through being richly colourful or splendid",
+      "meaning": "gemerlap, sangat indah dan megah",
+      "examples": [
+        {
+          "en": "The hall was resplendent in red and gold for the ceremony.",
+          "id": "Aula itu tampak megah dengan warna merah dan emas untuk upacara tersebut."
+        }
+      ],
+      "synonyms": [
+        "splendid",
+        "dazzling",
+        "magnificent"
+      ],
+      "antonyms": [
+        "drab",
+        "dowdy"
+      ],
+      "collocations": [
+        "resplendent in",
+        "look resplendent"
+      ],
+      "phrases": [],
+      "related": [
+        "splendour"
+      ],
+      "topic": "literary and descriptive language"
+    },
+    {
+      "word": "concede",
+      "pos": "verb",
+      "ipa": "/kənˈsiːd/",
+      "definition": "admit, often reluctantly, that something is true or that you have lost",
+      "meaning": "mengakui (dengan enggan); mengaku kalah",
+      "examples": [
+        {
+          "en": "The minister conceded that mistakes had been made.",
+          "id": "Menteri itu mengakui bahwa telah terjadi kesalahan."
+        }
+      ],
+      "synonyms": [
+        "acknowledge",
+        "admit",
+        "grant"
+      ],
+      "antonyms": [
+        "deny",
+        "dispute"
+      ],
+      "collocations": [
+        "concede a point",
+        "concede defeat",
+        "reluctantly concede"
+      ],
+      "phrases": [
+        "concede that ..."
+      ],
+      "related": [
+        "concession"
+      ],
+      "topic": "conversation and debate"
+    },
+    {
+      "word": "rebut",
+      "pos": "verb",
+      "ipa": "/rɪˈbʌt/",
+      "definition": "argue or prove that a statement or accusation is false",
+      "meaning": "menyanggah, membantah",
+      "examples": [
+        {
+          "en": "She rebutted each of the critics' claims with clear evidence.",
+          "id": "Dia menyanggah setiap klaim para pengkritik dengan bukti yang jelas."
+        }
+      ],
+      "synonyms": [
+        "refute",
+        "counter",
+        "disprove"
+      ],
+      "antonyms": [
+        "accept",
+        "confirm"
+      ],
+      "collocations": [
+        "rebut an argument",
+        "rebut a claim",
+        "firmly rebut"
+      ],
+      "phrases": [],
+      "related": [
+        "rebuttal"
+      ],
+      "topic": "conversation and debate"
+    },
+    {
+      "word": "contentious",
+      "pos": "adjective",
+      "ipa": "/kənˈtenʃəs/",
+      "definition": "likely to cause disagreement or argument",
+      "meaning": "kontroversial, memicu perdebatan",
+      "examples": [
+        {
+          "en": "Housing remains the most contentious issue in the election.",
+          "id": "Perumahan tetap menjadi isu yang paling diperdebatkan dalam pemilu."
+        }
+      ],
+      "synonyms": [
+        "controversial",
+        "divisive",
+        "disputed"
+      ],
+      "antonyms": [
+        "uncontroversial",
+        "agreed"
+      ],
+      "collocations": [
+        "a contentious issue",
+        "highly contentious",
+        "contentious debate"
+      ],
+      "phrases": [],
+      "related": [
+        "contention",
+        "contend"
+      ],
+      "topic": "conversation and debate"
+    },
+    {
+      "word": "tangential",
+      "pos": "adjective",
+      "ipa": "/tænˈdʒenʃl/",
+      "definition": "only slightly connected to the main subject",
+      "meaning": "hanya sedikit berkaitan, menyimpang dari pokok bahasan",
+      "examples": [
+        {
+          "en": "His comments were tangential to the main debate.",
+          "id": "Komentarnya hanya sedikit berkaitan dengan perdebatan utama."
+        }
+      ],
+      "synonyms": [
+        "peripheral",
+        "incidental",
+        "marginal"
+      ],
+      "antonyms": [
+        "central",
+        "relevant"
+      ],
+      "collocations": [
+        "tangential to",
+        "a tangential point",
+        "largely tangential"
+      ],
+      "phrases": [
+        "go off on a tangent"
+      ],
+      "related": [
+        "tangent"
+      ],
+      "topic": "conversation and debate"
+    },
+    {
+      "word": "cogent",
+      "pos": "adjective",
+      "ipa": "/ˈkəʊdʒənt/",
+      "definition": "clear, logical and convincing",
+      "meaning": "kuat, logis, dan meyakinkan",
+      "examples": [
+        {
+          "en": "She made a cogent case for reform.",
+          "id": "Dia mengajukan argumen yang kuat dan logis untuk reformasi."
+        }
+      ],
+      "synonyms": [
+        "compelling",
+        "persuasive",
+        "convincing"
+      ],
+      "antonyms": [
+        "weak",
+        "unconvincing",
+        "flawed"
+      ],
+      "collocations": [
+        "a cogent argument",
+        "a cogent case",
+        "cogent reasons"
+      ],
+      "phrases": [],
+      "related": [
+        "cogency"
+      ],
+      "topic": "conversation and debate"
+    },
+    {
+      "word": "equivocate",
+      "pos": "verb",
+      "ipa": "/ɪˈkwɪvəkeɪt/",
+      "definition": "use unclear language deliberately to avoid committing yourself",
+      "meaning": "berbicara mengelak/berbelit-belit agar tidak berkomitmen",
+      "examples": [
+        {
+          "en": "When asked about the budget, the spokesperson equivocated.",
+          "id": "Ketika ditanya tentang anggaran, juru bicara itu menjawab dengan mengelak."
+        }
+      ],
+      "synonyms": [
+        "prevaricate",
+        "hedge",
+        "dodge the question"
+      ],
+      "antonyms": [
+        "state plainly",
+        "commit"
+      ],
+      "collocations": [
+        "equivocate about",
+        "refuse to equivocate"
+      ],
+      "phrases": [],
+      "related": [
+        "equivocal",
+        "unequivocal",
+        "equivocation"
+      ],
+      "topic": "conversation and debate"
+    },
+    {
+      "word": "paradigm",
+      "pos": "noun",
+      "ipa": "/ˈpærədaɪm/",
+      "definition": "a typical model or framework of ideas within which theories and practices operate",
+      "meaning": "paradigma, kerangka berpikir",
+      "examples": [
+        {
+          "en": "The discovery forced a paradigm shift in the field.",
+          "id": "Penemuan itu memaksa terjadinya pergeseran paradigma di bidang tersebut."
+        }
+      ],
+      "synonyms": [
+        "model",
+        "framework",
+        "pattern"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "paradigm shift",
+        "dominant paradigm",
+        "a new paradigm"
+      ],
+      "phrases": [],
+      "related": [
+        "paradigmatic"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "ubiquitous",
+      "pos": "adjective",
+      "ipa": "/juːˈbɪkwɪtəs/",
+      "definition": "seeming to be everywhere at the same time",
+      "meaning": "ada di mana-mana",
+      "examples": [
+        {
+          "en": "Smartphones have become ubiquitous in the past two decades.",
+          "id": "Ponsel pintar telah ada di mana-mana dalam dua dekade terakhir."
+        }
+      ],
+      "synonyms": [
+        "omnipresent",
+        "pervasive",
+        "widespread"
+      ],
+      "antonyms": [
+        "rare",
+        "scarce"
+      ],
+      "collocations": [
+        "become ubiquitous",
+        "ubiquitous presence",
+        "almost ubiquitous"
+      ],
+      "phrases": [],
+      "related": [
+        "ubiquity"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "obsolete",
+      "pos": "adjective",
+      "ipa": "/ˈɒbsəliːt/",
+      "definition": "no longer used because something newer exists",
+      "meaning": "usang, tidak dipakai lagi",
+      "examples": [
+        {
+          "en": "The software was obsolete within three years.",
+          "id": "Perangkat lunak itu sudah usang dalam tiga tahun."
+        }
+      ],
+      "synonyms": [
+        "outdated",
+        "outmoded",
+        "defunct"
+      ],
+      "antonyms": [
+        "current",
+        "up to date",
+        "cutting-edge"
+      ],
+      "collocations": [
+        "become obsolete",
+        "render something obsolete",
+        "largely obsolete"
+      ],
+      "phrases": [],
+      "related": [
+        "obsolescence"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "disruptive",
+      "pos": "adjective",
+      "ipa": "/dɪsˈrʌptɪv/",
+      "definition": "causing trouble or interruption; (of innovation) radically changing an industry",
+      "meaning": "mengganggu; disruptif (mengubah industri secara radikal)",
+      "examples": [
+        {
+          "en": "Streaming proved a disruptive technology for the music industry.",
+          "id": "Layanan streaming terbukti menjadi teknologi disruptif bagi industri musik."
+        }
+      ],
+      "synonyms": [
+        "unsettling",
+        "transformative",
+        "radical"
+      ],
+      "antonyms": [
+        "stabilising",
+        "incremental"
+      ],
+      "collocations": [
+        "disruptive technology",
+        "disruptive behaviour",
+        "highly disruptive"
+      ],
+      "phrases": [],
+      "related": [
+        "disrupt",
+        "disruption"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "unprecedented",
+      "pos": "adjective",
+      "ipa": "/ʌnˈpresɪdentɪd/",
+      "definition": "never having happened or existed before",
+      "meaning": "belum pernah terjadi sebelumnya",
+      "examples": [
+        {
+          "en": "The region faced an unprecedented demand for water.",
+          "id": "Wilayah itu menghadapi permintaan air yang belum pernah terjadi sebelumnya."
+        }
+      ],
+      "synonyms": [
+        "unparalleled",
+        "unheard-of",
+        "record"
+      ],
+      "antonyms": [
+        "routine",
+        "commonplace"
+      ],
+      "collocations": [
+        "on an unprecedented scale",
+        "unprecedented levels",
+        "unprecedented in history"
+      ],
+      "phrases": [],
+      "related": [
+        "precedent"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "counterintuitive",
+      "pos": "adjective",
+      "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+      "definition": "seeming to contradict common sense, although it may be true",
+      "meaning": "berlawanan dengan intuisi/akal sehat",
+      "examples": [
+        {
+          "en": "Counterintuitively, adding a road can make congestion worse.",
+          "id": "Berlawanan dengan dugaan, menambah jalan justru dapat memperparah kemacetan."
+        }
+      ],
+      "synonyms": [
+        "paradoxical",
+        "unexpected"
+      ],
+      "antonyms": [
+        "intuitive",
+        "obvious"
+      ],
+      "collocations": [
+        "seem counterintuitive",
+        "a counterintuitive finding"
+      ],
+      "phrases": [],
+      "related": [
+        "intuition"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "proliferate",
+      "pos": "verb",
+      "ipa": "/prəˈlɪfəreɪt/",
+      "definition": "increase rapidly in number or spread widely",
+      "meaning": "berkembang biak/bertambah dengan cepat",
+      "examples": [
+        {
+          "en": "Delivery apps have proliferated in recent years.",
+          "id": "Aplikasi pengantaran telah menjamur dalam beberapa tahun terakhir."
+        }
+      ],
+      "synonyms": [
+        "multiply",
+        "mushroom",
+        "spread"
+      ],
+      "antonyms": [
+        "dwindle",
+        "decline"
+      ],
+      "collocations": [
+        "proliferate rapidly",
+        "begin to proliferate"
+      ],
+      "phrases": [],
+      "related": [
+        "proliferation"
+      ],
+      "topic": "science, society and innovation"
+    },
+    {
+      "word": "exasperated",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzæspəreɪtɪd/",
+      "definition": "extremely annoyed, especially because patience has run out",
+      "meaning": "jengkel karena habis kesabaran",
+      "examples": [
+        {
+          "en": "The exasperated teacher repeated the instructions for the fifth time.",
+          "id": "Guru yang habis kesabaran itu mengulangi instruksi untuk kelima kalinya."
+        }
+      ],
+      "synonyms": [
+        "infuriated",
+        "fed up"
+      ],
+      "antonyms": [
+        "patient",
+        "calm"
+      ],
+      "collocations": [
+        "exasperated by/with",
+        "increasingly exasperated",
+        "an exasperated sigh"
+      ],
+      "phrases": [],
+      "related": [
+        "exasperation",
+        "exasperating"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "indignant",
+      "pos": "adjective",
+      "ipa": "/ɪnˈdɪɡnənt/",
+      "definition": "angry because of something that seems unfair",
+      "meaning": "marah karena merasa diperlakukan tidak adil",
+      "examples": [
+        {
+          "en": "Residents were indignant at the suggestion that they had caused the problem.",
+          "id": "Warga marah atas anggapan bahwa merekalah penyebab masalah itu."
+        }
+      ],
+      "synonyms": [
+        "aggrieved",
+        "resentful",
+        "offended"
+      ],
+      "antonyms": [
+        "content",
+        "pleased"
+      ],
+      "collocations": [
+        "indignant at/about",
+        "righteously indignant"
+      ],
+      "phrases": [],
+      "related": [
+        "indignation"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "rueful",
+      "pos": "adjective",
+      "ipa": "/ˈruːfl/",
+      "definition": "expressing regret, often with a touch of humour",
+      "meaning": "menyesal (sering dengan sedikit humor)",
+      "examples": [
+        {
+          "en": "He gave a rueful smile and admitted he had forgotten.",
+          "id": "Dia tersenyum getir dan mengakui bahwa dia lupa."
+        }
+      ],
+      "synonyms": [
+        "regretful",
+        "sheepish",
+        "apologetic"
+      ],
+      "antonyms": [
+        "unrepentant"
+      ],
+      "collocations": [
+        "a rueful smile",
+        "a rueful laugh"
+      ],
+      "phrases": [],
+      "related": [
+        "ruefully",
+        "rue"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "wistful",
+      "pos": "adjective",
+      "ipa": "/ˈwɪstfl/",
+      "definition": "gently sad while longing for something lost or out of reach",
+      "meaning": "sendu karena merindukan sesuatu",
+      "examples": [
+        {
+          "en": "She cast a wistful glance at the boats leaving the harbour.",
+          "id": "Dia melempar pandangan sendu ke perahu-perahu yang meninggalkan pelabuhan."
+        }
+      ],
+      "synonyms": [
+        "yearning",
+        "melancholy",
+        "longing"
+      ],
+      "antonyms": [
+        "cheerful",
+        "contented"
+      ],
+      "collocations": [
+        "a wistful smile",
+        "a wistful look",
+        "feel wistful"
+      ],
+      "phrases": [],
+      "related": [
+        "wistfully"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "apprehensive",
+      "pos": "adjective",
+      "ipa": "/ˌæprɪˈhensɪv/",
+      "definition": "anxious that something unpleasant may happen",
+      "meaning": "cemas, khawatir (tentang hal yang akan terjadi)",
+      "examples": [
+        {
+          "en": "Staff are apprehensive about the restructuring.",
+          "id": "Para staf khawatir tentang restrukturisasi itu."
+        }
+      ],
+      "synonyms": [
+        "uneasy",
+        "anxious",
+        "nervous"
+      ],
+      "antonyms": [
+        "confident",
+        "untroubled"
+      ],
+      "collocations": [
+        "apprehensive about",
+        "slightly apprehensive",
+        "deeply apprehensive"
+      ],
+      "phrases": [],
+      "related": [
+        "apprehension"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "spurious",
+      "pos": "adjective",
+      "ipa": "/ˈspjʊəriəs/",
+      "definition": "false or invalid, although it appears genuine",
+      "meaning": "palsu, tidak sahih meskipun tampak benar",
+      "examples": [
+        {
+          "en": "The study was based on a spurious correlation.",
+          "id": "Penelitian itu didasarkan pada korelasi semu."
+        }
+      ],
+      "synonyms": [
+        "bogus",
+        "specious",
+        "false"
+      ],
+      "antonyms": [
+        "genuine",
+        "valid",
+        "authentic"
+      ],
+      "collocations": [
+        "spurious correlation",
+        "spurious claims",
+        "entirely spurious"
+      ],
+      "phrases": [],
+      "related": [
+        "spuriously"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "dubious",
+      "pos": "adjective",
+      "ipa": "/ˈdjuːbiəs/",
+      "definition": "probably not true, honest or good; also feeling doubt",
+      "meaning": "meragukan, patut dicurigai; ragu",
+      "examples": [
+        {
+          "en": "The company has a dubious record on safety.",
+          "id": "Perusahaan itu memiliki rekam jejak keselamatan yang meragukan."
+        }
+      ],
+      "synonyms": [
+        "questionable",
+        "suspect",
+        "doubtful"
+      ],
+      "antonyms": [
+        "reliable",
+        "trustworthy"
+      ],
+      "collocations": [
+        "dubious at best",
+        "of dubious quality",
+        "highly dubious"
+      ],
+      "phrases": [
+        "the dubious honour of"
+      ],
+      "related": [
+        "dubiously"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "meticulous",
+      "pos": "adjective",
+      "ipa": "/məˈtɪkjələs/",
+      "definition": "showing great, admirable attention to detail",
+      "meaning": "sangat teliti dan cermat",
+      "examples": [
+        {
+          "en": "Her meticulous notes made the audit easy.",
+          "id": "Catatannya yang sangat teliti membuat audit menjadi mudah."
+        }
+      ],
+      "synonyms": [
+        "painstaking",
+        "scrupulous",
+        "thorough"
+      ],
+      "antonyms": [
+        "careless",
+        "slapdash",
+        "sloppy"
+      ],
+      "collocations": [
+        "meticulous attention to detail",
+        "meticulous planning",
+        "meticulous research"
+      ],
+      "phrases": [],
+      "related": [
+        "meticulously"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "pedantic",
+      "pos": "adjective",
+      "ipa": "/pɪˈdæntɪk/",
+      "definition": "too concerned with small details or rules",
+      "meaning": "terlalu mempersoalkan detail atau aturan kecil",
+      "examples": [
+        {
+          "en": "It may sound pedantic, but the comma changes the meaning.",
+          "id": "Mungkin terdengar remeh-temeh, tetapi koma itu mengubah maknanya."
+        }
+      ],
+      "synonyms": [
+        "nit-picking",
+        "fussy",
+        "hair-splitting"
+      ],
+      "antonyms": [
+        "easy-going",
+        "flexible"
+      ],
+      "collocations": [
+        "a pedantic insistence on",
+        "sound pedantic"
+      ],
+      "phrases": [],
+      "related": [
+        "pedant",
+        "pedantry"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "laudable",
+      "pos": "adjective",
+      "ipa": "/ˈlɔːdəbl/",
+      "definition": "deserving praise, though not necessarily successful",
+      "meaning": "patut dipuji",
+      "examples": [
+        {
+          "en": "The scheme's aims are laudable, but its execution was poor.",
+          "id": "Tujuan program itu patut dipuji, tetapi pelaksanaannya buruk."
+        }
+      ],
+      "synonyms": [
+        "commendable",
+        "praiseworthy",
+        "admirable"
+      ],
+      "antonyms": [
+        "reprehensible",
+        "blameworthy"
+      ],
+      "collocations": [
+        "a laudable aim",
+        "laudable intentions",
+        "entirely laudable"
+      ],
+      "phrases": [],
+      "related": [
+        "laud",
+        "laudatory"
+      ],
+      "topic": "emotion and judgement"
+    },
+    {
+      "word": "scrutiny",
+      "pos": "noun",
+      "ipa": "/ˈskruːtəni/",
+      "definition": "careful and detailed examination",
+      "meaning": "pengawasan/pemeriksaan yang cermat",
+      "examples": [
+        {
+          "en": "The council's spending has come under public scrutiny.",
+          "id": "Pengeluaran dewan kota kini berada di bawah pengawasan publik."
+        }
+      ],
+      "synonyms": [
+        "examination",
+        "inspection",
+        "investigation"
+      ],
+      "antonyms": [
+        "neglect",
+        "disregard"
+      ],
+      "collocations": [
+        "come under scrutiny",
+        "close scrutiny",
+        "withstand scrutiny"
+      ],
+      "phrases": [],
+      "related": [
+        "scrutinise"
+      ],
+      "topic": "media and institutions"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "definition": "the fact of being responsible for your decisions and expected to explain them",
+      "meaning": "akuntabilitas, tanggung jawab",
+      "examples": [
+        {
+          "en": "Voters are demanding greater accountability from public officials.",
+          "id": "Para pemilih menuntut akuntabilitas yang lebih besar dari pejabat publik."
+        }
+      ],
+      "synonyms": [
+        "responsibility",
+        "answerability"
+      ],
+      "antonyms": [
+        "impunity"
+      ],
+      "collocations": [
+        "public accountability",
+        "demand accountability",
+        "lack of accountability"
+      ],
+      "phrases": [
+        "hold someone to account"
+      ],
+      "related": [
+        "accountable"
+      ],
+      "topic": "media and institutions"
+    },
+    {
+      "word": "allegation",
+      "pos": "noun",
+      "ipa": "/ˌæləˈɡeɪʃn/",
+      "definition": "a claim that someone has done something wrong, made without proof",
+      "meaning": "tuduhan (belum terbukti)",
+      "examples": [
+        {
+          "en": "The company strongly denies the allegations of fraud.",
+          "id": "Perusahaan itu dengan tegas membantah tuduhan penipuan."
+        }
+      ],
+      "synonyms": [
+        "accusation",
+        "claim",
+        "charge"
+      ],
+      "antonyms": [
+        "proof"
+      ],
+      "collocations": [
+        "deny an allegation",
+        "face allegations",
+        "serious allegations"
+      ],
+      "phrases": [],
+      "related": [
+        "allege",
+        "alleged",
+        "allegedly"
+      ],
+      "topic": "media and institutions"
+    },
+    {
+      "word": "transparency",
+      "pos": "noun",
+      "ipa": "/trænsˈpærənsi/",
+      "definition": "openness in the way an organisation operates, so that others can see what it does",
+      "meaning": "transparansi, keterbukaan",
+      "examples": [
+        {
+          "en": "The new rules aim to improve transparency in public procurement.",
+          "id": "Aturan baru itu bertujuan meningkatkan transparansi dalam pengadaan publik."
+        }
+      ],
+      "synonyms": [
+        "openness",
+        "clarity"
+      ],
+      "antonyms": [
+        "secrecy",
+        "opacity"
+      ],
+      "collocations": [
+        "greater transparency",
+        "lack of transparency",
+        "financial transparency"
+      ],
+      "phrases": [],
+      "related": [
+        "transparent"
+      ],
+      "topic": "media and institutions"
+    },
+    {
+      "word": "jurisdiction",
+      "pos": "noun",
+      "ipa": "/ˌdʒʊərɪsˈdɪkʃn/",
+      "definition": "the official power to make legal decisions; the area where this power applies",
+      "meaning": "yurisdiksi, wewenang hukum",
+      "examples": [
+        {
+          "en": "The matter falls outside the court's jurisdiction.",
+          "id": "Perkara itu berada di luar yurisdiksi pengadilan."
+        }
+      ],
+      "synonyms": [
+        "authority",
+        "competence",
+        "remit"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "have jurisdiction over",
+        "fall within/outside the jurisdiction"
+      ],
+      "phrases": [],
+      "related": [
+        "jurisdictional"
+      ],
+      "topic": "media and institutions"
+    },
+    {
+      "word": "remit",
+      "pos": "noun",
+      "ipa": "/ˈriːmɪt/",
+      "definition": "the area of activity that a person or organisation is responsible for",
+      "meaning": "lingkup tugas/wewenang",
+      "examples": [
+        {
+          "en": "Housing policy is outside the committee's remit.",
+          "id": "Kebijakan perumahan berada di luar lingkup tugas komite itu."
+        }
+      ],
+      "synonyms": [
+        "brief",
+        "responsibility",
+        "scope"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "within/outside the remit of",
+        "a broad remit",
+        "a narrow remit"
+      ],
+      "phrases": [],
+      "related": [],
+      "topic": "media and institutions"
+    },
+    {
+      "word": "rhetoric",
+      "pos": "noun",
+      "ipa": "/ˈretərɪk/",
+      "definition": "the art of persuasive speaking or writing; also impressive language that lacks substance",
+      "meaning": "retorika; kata-kata muluk tanpa isi",
+      "examples": [
+        {
+          "en": "Voters are tired of empty rhetoric about change.",
+          "id": "Para pemilih bosan dengan retorika kosong tentang perubahan."
+        }
+      ],
+      "synonyms": [
+        "oratory",
+        "eloquence",
+        "bombast"
+      ],
+      "antonyms": [
+        "plain speech"
+      ],
+      "collocations": [
+        "empty rhetoric",
+        "political rhetoric",
+        "heated rhetoric"
+      ],
+      "phrases": [],
+      "related": [
+        "rhetorical",
+        "rhetorician"
+      ],
+      "topic": "rhetoric and persuasion"
+    },
+    {
+      "word": "galvanise",
+      "pos": "verb",
+      "ipa": "/ˈɡælvənaɪz/",
+      "definition": "shock or excite someone into taking action",
+      "meaning": "membangkitkan semangat untuk bertindak",
+      "examples": [
+        {
+          "en": "The speech galvanised the volunteers into action.",
+          "id": "Pidato itu membangkitkan semangat para relawan untuk bertindak."
+        }
+      ],
+      "synonyms": [
+        "spur",
+        "rouse",
+        "mobilise"
+      ],
+      "antonyms": [
+        "discourage",
+        "deter"
+      ],
+      "collocations": [
+        "galvanise someone into action",
+        "galvanise support"
+      ],
+      "phrases": [],
+      "related": [
+        "galvanising"
+      ],
+      "topic": "rhetoric and persuasion"
+    },
+    {
+      "word": "demagogue",
+      "pos": "noun",
+      "ipa": "/ˈdeməɡɒɡ/",
+      "definition": "a political leader who wins support by appealing to people's emotions and prejudices rather than reason",
+      "meaning": "demagog, pemimpin yang memanipulasi emosi massa",
+      "examples": [
+        {
+          "en": "Critics dismissed the candidate as a demagogue who offered simple answers to complex problems.",
+          "id": "Para pengkritik menganggap kandidat itu demagog yang menawarkan jawaban sederhana untuk masalah rumit."
+        }
+      ],
+      "synonyms": [
+        "rabble-rouser",
+        "agitator",
+        "populist"
+      ],
+      "antonyms": [
+        "statesman"
+      ],
+      "collocations": [
+        "a populist demagogue"
+      ],
+      "phrases": [],
+      "related": [
+        "demagoguery"
+      ],
+      "topic": "rhetoric and persuasion"
+    },
+    {
+      "word": "eloquent",
+      "pos": "adjective",
+      "ipa": "/ˈeləkwənt/",
+      "definition": "fluent, persuasive and expressive in speaking or writing",
+      "meaning": "fasih dan memikat dalam berbicara/menulis",
+      "examples": [
+        {
+          "en": "She made an eloquent plea for tolerance.",
+          "id": "Dia menyampaikan permohonan yang fasih dan menyentuh untuk toleransi."
+        }
+      ],
+      "synonyms": [
+        "articulate",
+        "persuasive",
+        "expressive"
+      ],
+      "antonyms": [
+        "inarticulate",
+        "tongue-tied"
+      ],
+      "collocations": [
+        "an eloquent speech",
+        "eloquent testimony",
+        "speak eloquently"
+      ],
+      "phrases": [
+        "speak volumes"
+      ],
+      "related": [
+        "eloquence"
+      ],
+      "topic": "rhetoric and persuasion"
+    },
+    {
+      "word": "polemic",
+      "pos": "noun",
+      "ipa": "/pəˈlemɪk/",
+      "definition": "a strong written or spoken attack on, or defence of, an opinion",
+      "meaning": "polemik, serangan/pembelaan keras terhadap suatu pendapat",
+      "examples": [
+        {
+          "en": "The book is less a history than a polemic against globalisation.",
+          "id": "Buku itu lebih merupakan polemik melawan globalisasi daripada sebuah sejarah."
+        }
+      ],
+      "synonyms": [
+        "diatribe",
+        "tirade",
+        "critique"
+      ],
+      "antonyms": [
+        "eulogy",
+        "tribute"
+      ],
+      "collocations": [
+        "a fierce polemic",
+        "a polemic against"
+      ],
+      "phrases": [],
+      "related": [
+        "polemical"
+      ],
+      "topic": "rhetoric and persuasion"
+    },
+    {
+      "word": "sway",
+      "pos": "verb",
+      "ipa": "/sweɪ/",
+      "definition": "persuade someone to change their opinion or decision",
+      "meaning": "memengaruhi (pendapat/keputusan)",
+      "examples": [
+        {
+          "en": "The final debate swayed many undecided voters.",
+          "id": "Debat terakhir memengaruhi banyak pemilih yang belum menentukan pilihan."
+        }
+      ],
+      "synonyms": [
+        "influence",
+        "persuade",
+        "win over"
+      ],
+      "antonyms": [
+        "dissuade"
+      ],
+      "collocations": [
+        "sway public opinion",
+        "sway voters",
+        "be swayed by"
+      ],
+      "phrases": [
+        "hold sway"
+      ],
+      "related": [],
+      "topic": "rhetoric and persuasion"
+    },
+    {
+      "word": "empirical",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɪrɪkl/",
+      "definition": "based on observation or experiment rather than theory",
+      "meaning": "empiris, berdasarkan pengamatan/percobaan",
+      "examples": [
+        {
+          "en": "There is little empirical evidence for the claim.",
+          "id": "Hanya ada sedikit bukti empiris untuk klaim tersebut."
+        }
+      ],
+      "synonyms": [
+        "observational",
+        "experimental",
+        "evidence-based"
+      ],
+      "antonyms": [
+        "theoretical",
+        "speculative"
+      ],
+      "collocations": [
+        "empirical evidence",
+        "empirical research",
+        "empirical data"
+      ],
+      "phrases": [],
+      "related": [
+        "empirically",
+        "empiricism"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "corroborate",
+      "pos": "verb",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "definition": "confirm or give support to a statement or finding",
+      "meaning": "menguatkan, membenarkan (dengan bukti)",
+      "examples": [
+        {
+          "en": "Two witnesses corroborated her account.",
+          "id": "Dua saksi menguatkan keterangannya."
+        }
+      ],
+      "synonyms": [
+        "confirm",
+        "substantiate",
+        "support"
+      ],
+      "antonyms": [
+        "contradict",
+        "refute"
+      ],
+      "collocations": [
+        "corroborate evidence",
+        "independently corroborated"
+      ],
+      "phrases": [],
+      "related": [
+        "corroboration"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "caveat",
+      "pos": "noun",
+      "ipa": "/ˈkæviæt/",
+      "definition": "a warning or condition that limits a statement",
+      "meaning": "peringatan/catatan pembatas",
+      "examples": [
+        {
+          "en": "The results are promising, with one important caveat: the sample was small.",
+          "id": "Hasilnya menjanjikan, dengan satu catatan penting: sampelnya kecil."
+        }
+      ],
+      "synonyms": [
+        "proviso",
+        "qualification",
+        "reservation"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "an important caveat",
+        "add a caveat",
+        "with the caveat that"
+      ],
+      "phrases": [],
+      "related": [],
+      "topic": "academic language"
+    },
+    {
+      "word": "robust",
+      "pos": "adjective",
+      "ipa": "/rəʊˈbʌst/",
+      "definition": "strong and able to withstand challenge or testing",
+      "meaning": "kokoh, kuat (dapat diandalkan)",
+      "examples": [
+        {
+          "en": "The findings proved robust across all three samples.",
+          "id": "Temuan itu terbukti kokoh di ketiga sampel."
+        }
+      ],
+      "synonyms": [
+        "sound",
+        "rigorous",
+        "resilient"
+      ],
+      "antonyms": [
+        "fragile",
+        "weak"
+      ],
+      "collocations": [
+        "robust evidence",
+        "a robust defence",
+        "robust methodology"
+      ],
+      "phrases": [],
+      "related": [
+        "robustness"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "extrapolate",
+      "pos": "verb",
+      "ipa": "/ɪkˈstræpəleɪt/",
+      "definition": "estimate or conclude something by extending known information",
+      "meaning": "mengekstrapolasi, menyimpulkan dengan memperluas data yang ada",
+      "examples": [
+        {
+          "en": "It is risky to extrapolate from such a small sample.",
+          "id": "Berisiko untuk mengekstrapolasi dari sampel sekecil itu."
+        }
+      ],
+      "synonyms": [
+        "infer",
+        "project",
+        "generalise"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "extrapolate from",
+        "extrapolate to"
+      ],
+      "phrases": [],
+      "related": [
+        "extrapolation"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "salient",
+      "pos": "adjective",
+      "ipa": "/ˈseɪliənt/",
+      "definition": "most noticeable or important",
+      "meaning": "menonjol, paling penting",
+      "examples": [
+        {
+          "en": "The report summarises the salient points of the debate.",
+          "id": "Laporan itu merangkum poin-poin penting dari perdebatan."
+        }
+      ],
+      "synonyms": [
+        "key",
+        "prominent",
+        "chief"
+      ],
+      "antonyms": [
+        "minor",
+        "peripheral"
+      ],
+      "collocations": [
+        "salient features",
+        "salient points",
+        "the most salient"
+      ],
+      "phrases": [],
+      "related": [
+        "salience"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "nuanced",
+      "pos": "adjective",
+      "ipa": "/ˈnjuːɑːnst/",
+      "definition": "showing subtle differences of meaning or opinion",
+      "meaning": "bernuansa, mempertimbangkan perbedaan halus",
+      "examples": [
+        {
+          "en": "The issue deserves a more nuanced discussion.",
+          "id": "Isu itu layak didiskusikan dengan lebih bernuansa."
+        }
+      ],
+      "synonyms": [
+        "subtle",
+        "sophisticated",
+        "finely balanced"
+      ],
+      "antonyms": [
+        "simplistic",
+        "crude",
+        "black-and-white"
+      ],
+      "collocations": [
+        "a nuanced view",
+        "a nuanced approach",
+        "highly nuanced"
+      ],
+      "phrases": [],
+      "related": [
+        "nuance"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "tentative",
+      "pos": "adjective",
+      "ipa": "/ˈtentətɪv/",
+      "definition": "not certain or fixed; done without confidence",
+      "meaning": "tentatif, belum pasti; ragu-ragu",
+      "examples": [
+        {
+          "en": "The researchers drew only tentative conclusions.",
+          "id": "Para peneliti hanya menarik kesimpulan sementara."
+        }
+      ],
+      "synonyms": [
+        "provisional",
+        "cautious",
+        "hesitant"
+      ],
+      "antonyms": [
+        "definite",
+        "confident"
+      ],
+      "collocations": [
+        "tentative conclusions",
+        "a tentative agreement",
+        "tentative steps"
+      ],
+      "phrases": [],
+      "related": [
+        "tentatively"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "definition": "make something bad less severe or harmful",
+      "meaning": "mengurangi, meringankan (dampak buruk)",
+      "examples": [
+        {
+          "en": "Trees can help mitigate the effects of urban heat.",
+          "id": "Pepohonan dapat membantu mengurangi dampak panas perkotaan."
+        }
+      ],
+      "synonyms": [
+        "alleviate",
+        "lessen",
+        "ease"
+      ],
+      "antonyms": [
+        "aggravate",
+        "exacerbate"
+      ],
+      "collocations": [
+        "mitigate the risk",
+        "mitigate the impact",
+        "mitigating circumstances"
+      ],
+      "phrases": [],
+      "related": [
+        "mitigation"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "exacerbate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzæsəbeɪt/",
+      "definition": "make a problem or bad situation worse",
+      "meaning": "memperparah, memperburuk",
+      "examples": [
+        {
+          "en": "The drought exacerbated food shortages in the region.",
+          "id": "Kekeringan memperparah kekurangan pangan di wilayah itu."
+        }
+      ],
+      "synonyms": [
+        "aggravate",
+        "worsen",
+        "intensify"
+      ],
+      "antonyms": [
+        "mitigate",
+        "alleviate"
+      ],
+      "collocations": [
+        "exacerbate the problem",
+        "further exacerbate",
+        "greatly exacerbate"
+      ],
+      "phrases": [],
+      "related": [
+        "exacerbation"
+      ],
+      "topic": "academic language"
+    },
+    {
+      "word": "allusion",
+      "pos": "noun",
+      "ipa": "/əˈluːʒn/",
+      "definition": "an indirect reference to a well-known person, story or event",
+      "meaning": "kiasan, rujukan tidak langsung",
+      "examples": [
+        {
+          "en": "The title is an allusion to a Greek myth.",
+          "id": "Judul itu merupakan kiasan pada sebuah mitos Yunani."
+        }
+      ],
+      "synonyms": [
+        "reference",
+        "hint",
+        "mention"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "a literary allusion",
+        "an allusion to",
+        "make an allusion"
+      ],
+      "phrases": [],
+      "related": [
+        "allude"
+      ],
+      "topic": "figurative language and literature"
+    },
+    {
+      "word": "hyperbole",
+      "pos": "noun",
+      "ipa": "/haɪˈpɜːbəli/",
+      "definition": "deliberate exaggeration for emphasis or effect",
+      "meaning": "hiperbola, gaya bahasa melebih-lebihkan",
+      "examples": [
+        {
+          "en": "Calling the delay 'a catastrophe' was pure hyperbole.",
+          "id": "Menyebut keterlambatan itu 'bencana' adalah hiperbola belaka."
+        }
+      ],
+      "synonyms": [
+        "exaggeration",
+        "overstatement"
+      ],
+      "antonyms": [
+        "understatement",
+        "litotes"
+      ],
+      "collocations": [
+        "pure hyperbole",
+        "media hyperbole"
+      ],
+      "phrases": [],
+      "related": [
+        "hyperbolic"
+      ],
+      "topic": "figurative language and literature"
+    },
+    {
+      "word": "epitomise",
+      "pos": "verb",
+      "ipa": "/ɪˈpɪtəmaɪz/",
+      "definition": "be a perfect example of something",
+      "meaning": "menjadi contoh sempurna dari, melambangkan",
+      "examples": [
+        {
+          "en": "The old harbour epitomises the town's maritime past.",
+          "id": "Pelabuhan tua itu menjadi lambang sempurna masa lalu bahari kota tersebut."
+        }
+      ],
+      "synonyms": [
+        "embody",
+        "typify",
+        "exemplify"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "epitomise the spirit of",
+        "perfectly epitomise"
+      ],
+      "phrases": [],
+      "related": [
+        "epitome"
+      ],
+      "topic": "figurative language and literature"
+    },
+    {
+      "word": "quintessential",
+      "pos": "adjective",
+      "ipa": "/ˌkwɪntɪˈsenʃl/",
+      "definition": "representing the most perfect or typical example of something",
+      "meaning": "paling khas, contoh paling sempurna",
+      "examples": [
+        {
+          "en": "It was a quintessential seaside town, complete with a pier and a bandstand.",
+          "id": "Itu adalah kota pesisir yang sangat khas, lengkap dengan dermaga dan panggung musik."
+        }
+      ],
+      "synonyms": [
+        "archetypal",
+        "classic",
+        "typical"
+      ],
+      "antonyms": [
+        "atypical",
+        "unrepresentative"
+      ],
+      "collocations": [
+        "the quintessential example",
+        "quintessentially British"
+      ],
+      "phrases": [],
+      "related": [
+        "quintessence"
+      ],
+      "topic": "figurative language and literature"
+    },
+    {
+      "word": "juxtapose",
+      "pos": "verb",
+      "ipa": "/ˌdʒʌkstəˈpəʊz/",
+      "definition": "place close together to contrast or compare",
+      "meaning": "menjajarkan (untuk membandingkan/mengontraskan)",
+      "examples": [
+        {
+          "en": "The exhibition juxtaposes luxury goods with images of poverty.",
+          "id": "Pameran itu menjajarkan barang mewah dengan gambar-gambar kemiskinan."
+        }
+      ],
+      "synonyms": [
+        "contrast",
+        "set side by side"
+      ],
+      "antonyms": [
+        "separate"
+      ],
+      "collocations": [
+        "juxtapose X with Y",
+        "starkly juxtaposed"
+      ],
+      "phrases": [],
+      "related": [
+        "juxtaposition"
+      ],
+      "topic": "figurative language and literature"
+    },
+    {
+      "word": "derivative",
+      "pos": "adjective",
+      "ipa": "/dɪˈrɪvətɪv/",
+      "definition": "imitating the work of others; lacking originality",
+      "meaning": "tidak orisinal, meniru karya lain",
+      "examples": [
+        {
+          "en": "Critics found the band's second album derivative.",
+          "id": "Para kritikus menilai album kedua band itu tidak orisinal."
+        }
+      ],
+      "synonyms": [
+        "unoriginal",
+        "imitative",
+        "second-hand"
+      ],
+      "antonyms": [
+        "original",
+        "innovative",
+        "fresh"
+      ],
+      "collocations": [
+        "heavily derivative",
+        "derivative of"
+      ],
+      "phrases": [],
+      "related": [
+        "derive"
+      ],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "lacklustre",
+      "pos": "adjective",
+      "ipa": "/ˈlæklʌstə/",
+      "definition": "lacking energy, enthusiasm or brilliance",
+      "meaning": "hambar, kurang bersemangat, tidak cemerlang",
+      "examples": [
+        {
+          "en": "The team gave a lacklustre performance in the final.",
+          "id": "Tim itu tampil hambar di babak final."
+        }
+      ],
+      "synonyms": [
+        "uninspired",
+        "dull",
+        "flat"
+      ],
+      "antonyms": [
+        "brilliant",
+        "dazzling",
+        "vibrant"
+      ],
+      "collocations": [
+        "a lacklustre performance",
+        "lacklustre sales",
+        "lacklustre response"
+      ],
+      "phrases": [],
+      "related": [],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "understated",
+      "pos": "adjective",
+      "ipa": "/ˌʌndəˈsteɪtɪd/",
+      "definition": "pleasingly subtle and restrained, not showy",
+      "meaning": "bersahaja, tidak berlebihan (positif)",
+      "examples": [
+        {
+          "en": "Her understated performance is the heart of the film.",
+          "id": "Penampilannya yang bersahaja menjadi jantung film itu."
+        }
+      ],
+      "synonyms": [
+        "subtle",
+        "restrained",
+        "low-key"
+      ],
+      "antonyms": [
+        "overwrought",
+        "flamboyant",
+        "showy"
+      ],
+      "collocations": [
+        "understated elegance",
+        "an understated performance"
+      ],
+      "phrases": [],
+      "related": [
+        "understatement"
+      ],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "overwrought",
+      "pos": "adjective",
+      "ipa": "/ˌəʊvəˈrɔːt/",
+      "definition": "(of art or writing) too elaborate or emotional; (of a person) very anxious or upset",
+      "meaning": "berlebihan, terlalu dramatis; sangat gelisah",
+      "examples": [
+        {
+          "en": "The final scene is overwrought and melodramatic.",
+          "id": "Adegan terakhirnya berlebihan dan melodramatis."
+        }
+      ],
+      "synonyms": [
+        "melodramatic",
+        "overdone",
+        "histrionic"
+      ],
+      "antonyms": [
+        "understated",
+        "restrained"
+      ],
+      "collocations": [
+        "overwrought prose",
+        "become overwrought"
+      ],
+      "phrases": [],
+      "related": [],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "incisive",
+      "pos": "adjective",
+      "ipa": "/ɪnˈsaɪsɪv/",
+      "definition": "showing clear thought and sharp, direct analysis",
+      "meaning": "tajam, jernih dan langsung ke pokok persoalan",
+      "examples": [
+        {
+          "en": "Her incisive questions exposed the weaknesses in the plan.",
+          "id": "Pertanyaan-pertanyaannya yang tajam mengungkap kelemahan rencana itu."
+        }
+      ],
+      "synonyms": [
+        "penetrating",
+        "perceptive",
+        "trenchant"
+      ],
+      "antonyms": [
+        "vague",
+        "woolly"
+      ],
+      "collocations": [
+        "incisive analysis",
+        "an incisive mind",
+        "incisive commentary"
+      ],
+      "phrases": [],
+      "related": [
+        "incisively"
+      ],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "scathing",
+      "pos": "adjective",
+      "ipa": "/ˈskeɪðɪŋ/",
+      "definition": "severely and harshly critical",
+      "meaning": "sangat pedas/keras (kritik)",
+      "examples": [
+        {
+          "en": "The film received scathing reviews.",
+          "id": "Film itu menerima ulasan yang sangat pedas."
+        }
+      ],
+      "synonyms": [
+        "withering",
+        "savage",
+        "excoriating"
+      ],
+      "antonyms": [
+        "glowing",
+        "complimentary"
+      ],
+      "collocations": [
+        "a scathing attack",
+        "scathing criticism",
+        "a scathing review"
+      ],
+      "phrases": [],
+      "related": [
+        "scathingly"
+      ],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "sardonic",
+      "pos": "adjective",
+      "ipa": "/sɑːˈdɒnɪk/",
+      "definition": "mocking in a grimly humorous or cynical way",
+      "meaning": "sinis dan mengejek",
+      "examples": [
+        {
+          "en": "He greeted the announcement with a sardonic smile.",
+          "id": "Dia menyambut pengumuman itu dengan senyum sinis."
+        }
+      ],
+      "synonyms": [
+        "mocking",
+        "cynical",
+        "wry"
+      ],
+      "antonyms": [
+        "earnest",
+        "sincere"
+      ],
+      "collocations": [
+        "a sardonic smile",
+        "sardonic humour",
+        "a sardonic tone"
+      ],
+      "phrases": [],
+      "related": [
+        "sardonically"
+      ],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "disingenuous",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsɪnˈdʒenjuəs/",
+      "definition": "not sincere, especially pretending to know less than you do",
+      "meaning": "tidak tulus, pura-pura tidak tahu",
+      "examples": [
+        {
+          "en": "It is disingenuous to claim the risks were unknown.",
+          "id": "Tidak jujur jika mengklaim bahwa risikonya tidak diketahui."
+        }
+      ],
+      "synonyms": [
+        "insincere",
+        "misleading",
+        "duplicitous"
+      ],
+      "antonyms": [
+        "candid",
+        "sincere",
+        "frank"
+      ],
+      "collocations": [
+        "somewhat disingenuous",
+        "a disingenuous argument"
+      ],
+      "phrases": [],
+      "related": [
+        "ingenuous"
+      ],
+      "topic": "criticism and reviews"
+    },
+    {
+      "word": "tantamount",
+      "pos": "adjective",
+      "ipa": "/ˈtæntəmaʊnt/",
+      "definition": "equivalent in seriousness or effect to (used with to)",
+      "meaning": "sama saja dengan, setara dengan",
+      "examples": [
+        {
+          "en": "His silence was tantamount to an admission of guilt.",
+          "id": "Diamnya sama saja dengan pengakuan bersalah."
+        }
+      ],
+      "synonyms": [
+        "equivalent",
+        "equal",
+        "as good as"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "tantamount to"
+      ],
+      "phrases": [],
+      "related": [],
+      "topic": "precision and accuracy"
+    },
+    {
+      "word": "conducive",
+      "pos": "adjective",
+      "ipa": "/kənˈdjuːsɪv/",
+      "definition": "making a certain situation or outcome likely (used with to)",
+      "meaning": "mendukung, kondusif",
+      "examples": [
+        {
+          "en": "A quiet room is conducive to concentration.",
+          "id": "Ruangan yang tenang mendukung konsentrasi."
+        }
+      ],
+      "synonyms": [
+        "favourable",
+        "helpful",
+        "beneficial"
+      ],
+      "antonyms": [
+        "detrimental",
+        "unfavourable"
+      ],
+      "collocations": [
+        "conducive to learning",
+        "a conducive environment"
+      ],
+      "phrases": [],
+      "related": [],
+      "topic": "precision and accuracy"
+    },
+    {
+      "word": "redundant",
+      "pos": "adjective",
+      "ipa": "/rɪˈdʌndənt/",
+      "definition": "not needed because it repeats something already present; (of a worker) no longer employed because the job is no longer needed",
+      "meaning": "berlebihan, mubazir; diberhentikan (PHK)",
+      "examples": [
+        {
+          "en": "'Free gift' is redundant: gifts are free by definition.",
+          "id": "'Free gift' itu mubazir: hadiah pada dasarnya gratis."
+        }
+      ],
+      "synonyms": [
+        "superfluous",
+        "unnecessary",
+        "surplus"
+      ],
+      "antonyms": [
+        "necessary",
+        "essential"
+      ],
+      "collocations": [
+        "made redundant",
+        "a redundant word",
+        "largely redundant"
+      ],
+      "phrases": [],
+      "related": [
+        "redundancy"
+      ],
+      "topic": "precision and accuracy"
+    },
+    {
+      "word": "ambiguity",
+      "pos": "noun",
+      "ipa": "/ˌæmbɪˈɡjuːəti/",
+      "definition": "the quality of having more than one possible meaning",
+      "meaning": "ketaksaan, makna ganda",
+      "examples": [
+        {
+          "en": "Moving 'only' removed the ambiguity in the sentence.",
+          "id": "Memindahkan kata 'only' menghilangkan makna ganda dalam kalimat itu."
+        }
+      ],
+      "synonyms": [
+        "vagueness",
+        "equivocality"
+      ],
+      "antonyms": [
+        "clarity",
+        "precision"
+      ],
+      "collocations": [
+        "remove ambiguity",
+        "deliberate ambiguity",
+        "moral ambiguity"
+      ],
+      "phrases": [],
+      "related": [
+        "ambiguous",
+        "unambiguous"
+      ],
+      "topic": "precision and accuracy"
+    }
+  ],
+  "examQuestions": [
+    {
+      "id": "c2-exam-q1",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "concessive fronting",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Rewrite the sentence using concessive fronting.",
+      "sentence": "Although it may seem strange, the cheaper model is more durable.",
+      "cue": "Begin with: Strange ...",
+      "answers": [
+        "Strange as it may seem, the cheaper model is more durable.",
+        "Strange though it may seem, the cheaper model is more durable.",
+        "Strange as it seems, the cheaper model is more durable.",
+        "Strange though it seems, the cheaper model is more durable.",
+        "Strange as it might seem, the cheaper model is more durable.",
+        "Strange though it might seem, the cheaper model is more durable."
+      ],
+      "explanation": "Adjective + as/though + subject + (modal +) verb replaces although: Strange as it may seem, ..."
+    },
+    {
+      "id": "c2-exam-q2",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "substitution",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Choose the correct substitute for each gap.",
+      "text": "\"Will the results be published this month?\" \"I expect ___.\" \"And will they be favourable?\" \"I'm afraid ___.\"",
+      "choices": [
+        [
+          "so",
+          "it",
+          "that"
+        ],
+        [
+          "not",
+          "no",
+          "none"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "So replaces a positive that-clause after expect (I expect so). After I'm afraid, not replaces a negative clause (I'm afraid not = I'm afraid they won't be favourable)."
+    },
+    {
+      "id": "c2-exam-q3",
+      "type": "fill_blank",
+      "category": "vocabulary",
+      "topic": "word formation",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Complete with a word formed from PRODUCE.",
+      "text": "The minister's remarks proved ___: instead of calming the protesters, they provoked even larger demonstrations.",
+      "answers": [
+        [
+          "counterproductive",
+          "counter-productive"
+        ]
+      ],
+      "explanation": "Counterproductive means having the opposite of the intended effect, which matches remarks that inflamed rather than calmed the protests."
+    },
+    {
+      "id": "c2-exam-q4",
+      "type": "single_choice",
+      "category": "vocabulary",
+      "topic": "collocation",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Choose the verb that collocates with 'threat': \"The rising cost of insurance ___ a serious threat to small businesses.\"",
+      "options": [
+        "poses",
+        "makes",
+        "does",
+        "gives"
+      ],
+      "answer": 0,
+      "explanation": "Pose a threat is the standard collocation. Make, do and give do not combine with threat in this meaning."
+    },
+    {
+      "id": "c2-exam-q5",
+      "type": "error_identification",
+      "category": "writing",
+      "topic": "register",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Find the segment that is inappropriate in this formal email.",
+      "segments": [
+        "Dear Ms. Varga,",
+        "Further to our telephone conversation,",
+        "I'm gonna send you",
+        "the revised contract by Friday."
+      ],
+      "errorIndex": 2,
+      "correction": "I will send you",
+      "explanation": "Gonna is very informal spoken English and is inappropriate in a formal email; use I will (or I shall) send you."
+    },
+    {
+      "id": "c2-exam-q6",
+      "type": "single_choice",
+      "category": "reading",
+      "topic": "rhetorical devices",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Which line is an example of antithesis?",
+      "options": [
+        "We seek not revenge but justice.",
+        "We seek justice, we seek truth, we seek peace.",
+        "Who among us seeks revenge?",
+        "We do seek justice."
+      ],
+      "answer": 0,
+      "explanation": "Not revenge but justice sets two opposing ideas in a parallel structure. The second option is a tricolon, the third a rhetorical question and the fourth uses emphatic do."
+    },
+    {
+      "id": "c2-exam-q7",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "evaluative language",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "\"The link between the two events is tenuous at best.\" This means the link is:",
+      "options": [
+        "very weak",
+        "extremely convincing",
+        "too complicated to explain",
+        "officially confirmed"
+      ],
+      "answer": 0,
+      "explanation": "Tenuous means very weak or slight, and at best signals that even the most generous interpretation is negative."
+    },
+    {
+      "id": "c2-exam-q8",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "subject-verb agreement",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Correct the agreement error.",
+      "sentence": "The impact of the new regulations on small farms have been seriously underestimated.",
+      "answers": [
+        "The impact of the new regulations on small farms has been seriously underestimated."
+      ],
+      "explanation": "The head noun of the subject is impact (singular), so the verb must be has been. Regulations and farms belong to post-modifying phrases."
+    },
+    {
+      "id": "c2-exam-q9",
+      "type": "single_choice",
+      "category": "reading",
+      "topic": "implicature",
+      "difficulty": 5,
+      "stage": "exam",
+      "prompt": "Asked whether the new intern is a good writer, the editor replies: \"Well, his spelling is excellent.\" What is the editor most likely implying?",
+      "options": [
+        "The intern's writing is weak in more important respects.",
+        "The intern is an outstanding writer.",
+        "The editor has not read any of the intern's work.",
+        "Spelling is the most important writing skill."
+      ],
+      "answer": 0,
+      "explanation": "By praising only a minor skill when asked about writing ability in general, the editor damns with faint praise, implying that the more important aspects of the intern's writing are poor."
+    },
+    {
+      "id": "c2-exam-q10",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "negative inversion",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Put the words in order to form a sentence with inversion.",
+      "words": [
+        "Little",
+        "did",
+        "they",
+        "know",
+        "what",
+        "lay",
+        "ahead."
+      ],
+      "explanation": "Fronted little (meaning not at all) triggers inversion: Little did they know. The embedded question what lay ahead keeps normal word order."
+    },
+    {
+      "id": "c2-exam-q11",
+      "type": "multiple_select",
+      "category": "vocabulary",
+      "topic": "metaphor and simile",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Select ALL the sentences that contain a metaphor (not a simile).",
+      "options": [
+        "Her words were daggers.",
+        "He ran like the wind.",
+        "The classroom was a zoo by noon.",
+        "She is as brave as a lion.",
+        "Time is a thief."
+      ],
+      "answers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": "Metaphors state that one thing is another (words were daggers, the classroom was a zoo, time is a thief). Like the wind and as brave as a lion are similes because they use like or as."
+    },
+    {
+      "id": "c2-exam-q12",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "inverted conditionals",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Translate into English. The event is in the past.",
+      "source": "Seandainya bukan karena bantuanmu, kami tidak akan berhasil.",
+      "direction": "id-en",
+      "answers": [
+        "Had it not been for your help, we would not have succeeded.",
+        "Had it not been for your help, we wouldn't have succeeded.",
+        "If it hadn't been for your help, we wouldn't have succeeded.",
+        "If it had not been for your help, we would not have succeeded.",
+        "If it hadn't been for your help, we would not have succeeded.",
+        "But for your help, we would not have succeeded.",
+        "But for your help, we wouldn't have succeeded.",
+        "Without your help, we would not have succeeded.",
+        "Without your help, we wouldn't have succeeded.",
+        "Had it not been for your help, we would not have made it.",
+        "If it hadn't been for your help, we wouldn't have made it.",
+        "Without your help, we wouldn't have made it.",
+        "Had it not been for your help, we would have failed.",
+        "If it hadn't been for your help, we would have failed.",
+        "Without your help, we would have failed."
+      ],
+      "explanation": "Because the event is in the past, use a third conditional: Had it not been for / If it hadn't been for / But for / Without your help, we would not have succeeded."
+    },
+    {
+      "id": "c2-exam-q13",
+      "type": "drag_drop",
+      "category": "grammar",
+      "topic": "dependent prepositions",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Drag the correct prepositions into the gaps.",
+      "text": "The negotiations were fraught ___ difficulty, and the final statement was almost entirely devoid ___ substance.",
+      "bank": [
+        "with",
+        "of",
+        "in",
+        "to",
+        "from"
+      ],
+      "answers": [
+        "with",
+        "of"
+      ],
+      "explanation": "Fraught is followed by with (fraught with difficulty), and devoid by of (devoid of substance)."
+    },
+    {
+      "id": "c2-exam-q14",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "dangling modifiers",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Having read the contract carefully, Mira signed it.",
+        "Having read the contract carefully, it was signed by Mira.",
+        "Having read the contract carefully, Mira's signature was added.",
+        "Having been read carefully, Mira signed the contract."
+      ],
+      "answer": 0,
+      "explanation": "The person who read the contract (Mira) must be the subject of the main clause. In the other sentences the subject is the contract or Mira's signature, or the participle refers to the contract while the subject is Mira, so the modifier dangles."
+    },
+    {
+      "id": "c2-exam-q15",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "future perfect",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "Complete with the correct form of 'close'.",
+      "text": "By the time the new library opens next spring, the old one ___ for nearly two years.",
+      "answers": [
+        [
+          "will have been closed",
+          "will have been shut",
+          "'ll have been closed"
+        ]
+      ],
+      "explanation": "By the time + future event, with a duration (for nearly two years), requires the future perfect. Because the library is in a closed state for that period, the passive will have been closed is used."
+    },
+    {
+      "id": "c2-exam-q16",
+      "type": "short_answer",
+      "category": "vocabulary",
+      "topic": "word formation",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Write the abstract noun formed from the adjective 'scarce' (one word).",
+      "answers": [
+        "scarcity",
+        "scarceness"
+      ],
+      "explanation": "Scarce + -ity gives scarcity, the usual noun (scarceness also exists but is rarer)."
+    }
+  ],
+  "placementQuestions": [
+    {
+      "id": "c2-place-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "so inversion",
+      "difficulty": 5,
+      "stage": "placement",
+      "prompt": "So ___ was the demand that tickets sold out within minutes.",
+      "options": [
+        "great",
+        "much",
+        "many",
+        "such"
+      ],
+      "answer": 0,
+      "explanation": "So + adjective + be + subject: So great was the demand. Much and many do not modify the noun demand in this structure, and such would require Such was the demand."
+    },
+    {
+      "id": "c2-place-q2",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "concessive fronting",
+      "difficulty": 5,
+      "stage": "placement",
+      "prompt": "___ as it may seem, the older model is faster.",
+      "options": [
+        "Odd",
+        "Oddly",
+        "Despite odd",
+        "However odd"
+      ],
+      "answer": 0,
+      "explanation": "Concessive fronting uses an adjective + as: Odd as it may seem. Oddly is an adverb and cannot complement seem; despite and however cannot combine with as in this pattern."
+    },
+    {
+      "id": "c2-place-q3",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "evaluative language",
+      "difficulty": 5,
+      "stage": "placement",
+      "prompt": "\"Her rebuttal was so incisive that her opponent struggled to respond.\" What does 'incisive' mean?",
+      "options": [
+        "sharp and clear-thinking",
+        "rude and personal",
+        "long and detailed",
+        "quiet and hesitant"
+      ],
+      "answer": 0,
+      "explanation": "Incisive means showing sharp, clear thinking that goes to the heart of the matter, which explains why the opponent struggled to respond."
+    },
+    {
+      "id": "c2-place-q4",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "gradable and ungradable adjectives",
+      "difficulty": 4,
+      "stage": "placement",
+      "prompt": "Choose the correct option: \"By the end of the twelve-hour hike, we were ___.\"",
+      "options": [
+        "absolutely exhausted",
+        "very exhausted",
+        "absolutely tired",
+        "slightly exhausted"
+      ],
+      "answer": 0,
+      "explanation": "Exhausted is extreme and takes absolutely. Very and slightly cannot modify extreme adjectives, and tired is gradable, so absolutely tired is unnatural."
+    },
+    {
+      "id": "c2-place-q5",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "subject-verb agreement",
+      "difficulty": 5,
+      "stage": "placement",
+      "prompt": "Find the segment with an error.",
+      "segments": [
+        "Neither the CEO",
+        "nor the board members",
+        "was willing",
+        "to comment on the merger."
+      ],
+      "errorIndex": 2,
+      "correction": "were willing",
+      "explanation": "With neither ... nor, the verb agrees with the nearer subject, board members (plural): were willing."
+    },
+    {
+      "id": "c2-place-q6",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "ellipsis",
+      "difficulty": 4,
+      "stage": "placement",
+      "prompt": "\"Has the report been finished?\" \"Not yet, but it should ___ by Friday.\"",
+      "options": [
+        "be",
+        "been",
+        "have",
+        "do"
+      ],
+      "answer": 0,
+      "explanation": "The passive verb phrase is reduced to its first word after the modal: it should be [finished] by Friday. Should is followed by a base form, so been is impossible, and have or do would not recover the passive meaning."
+    },
+    {
+      "id": "c2-place-q7",
+      "type": "single_choice",
+      "category": "vocabulary",
+      "topic": "collocation",
+      "difficulty": 4,
+      "stage": "placement",
+      "prompt": "The two proposals bear little ___ to each other.",
+      "options": [
+        "resemblance",
+        "similar",
+        "alike",
+        "resembling"
+      ],
+      "answer": 0,
+      "explanation": "Bear (little) resemblance to is the fixed collocation and needs a noun. Similar and alike are adjectives, and resembling is a participle, so none can follow bear little."
+    },
+    {
+      "id": "c2-place-q8",
+      "type": "single_choice",
+      "category": "reading",
+      "topic": "irony",
+      "difficulty": 4,
+      "stage": "placement",
+      "prompt": "\"Oh, brilliant,\" said Mara, staring at the flat tyre on her bicycle. Mara is:",
+      "options": [
+        "being sarcastic because she is annoyed",
+        "genuinely delighted",
+        "praising the quality of the tyre",
+        "asking someone for help"
+      ],
+      "answer": 0,
+      "explanation": "Praising a clearly bad situation is verbal irony; the context (a flat tyre) shows that 'brilliant' expresses annoyance, not delight."
+    },
+    {
+      "id": "c2-place-q9",
+      "type": "fill_blank",
+      "category": "vocabulary",
+      "topic": "allusions",
+      "difficulty": 4,
+      "stage": "placement",
+      "prompt": "Complete the allusion with one word.",
+      "text": "Public speaking has always been my Achilles' ___: I am fine in writing but freeze in front of an audience.",
+      "answers": [
+        [
+          "heel"
+        ]
+      ],
+      "explanation": "An Achilles' heel is a single, serious weakness, from the Greek hero whose heel was his only vulnerable spot."
+    },
+    {
+      "id": "c2-place-q10",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "dangling modifiers",
+      "difficulty": 5,
+      "stage": "placement",
+      "prompt": "Correct the dangling modifier.",
+      "sentence": "Walking to the station, the rain began to fall heavily.",
+      "answers": [
+        "As I was walking to the station, the rain began to fall heavily.",
+        "While I was walking to the station, the rain began to fall heavily.",
+        "As we were walking to the station, the rain began to fall heavily.",
+        "While we were walking to the station, the rain began to fall heavily.",
+        "When I was walking to the station, the rain began to fall heavily.",
+        "Walking to the station, I was caught in heavy rain.",
+        "Walking to the station, I got caught in heavy rain.",
+        "Walking to the station, we were caught in heavy rain.",
+        "Walking to the station, I noticed the rain begin to fall heavily.",
+        "The rain began to fall heavily as I was walking to the station.",
+        "The rain began to fall heavily while I was walking to the station."
+      ],
+      "explanation": "The rain was not walking to the station. Expand the opening into a full clause with its own subject (As I was walking ...), or make the walker the subject of the main clause (Walking to the station, I was caught in heavy rain)."
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "slug": "a1-u07-food-shopping",
+  "number": 7,
+  "title": "Food and Shopping",
+  "description": "Unit ini membahas makanan, minuman, dan berbelanja: kosakata makanan, kata benda yang bisa dan tidak bisa dihitung (countable/uncountable) beserta wadahnya, some dan any, how much dan how many, menanyakan harga, serta memesan makanan dengan I'd like.",
+  "objectives": [
+    "Menyebut makanan dan minuman sehari-hari dalam bahasa Inggris",
+    "Membedakan countable dan uncountable nouns serta memakai wadah seperti a bottle of",
+    "Menggunakan some dan any dengan benar",
+    "Bertanya jumlah dan harga dengan how much dan how many",
+    "Memesan makanan dan berbelanja dengan sopan memakai I'd like"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u07-l1-food-drinks",
+      "title": "Food and Drinks",
+      "summary": "Kosakata makanan, minuman, rasa, dan waktu makan untuk membicarakan apa yang kita makan setiap hari.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Menyebut makanan dan minuman sehari-hari",
+        "Menggunakan have/eat/drink + for breakfast/lunch/dinner",
+        "Mendeskripsikan rasa dengan sweet, spicy, salty"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kosakata makanan dan minuman\nMembicarakan makanan adalah salah satu topik paling sering dalam percakapan sehari-hari. Berikut kelompok kata yang penting:\n\n| Kelompok | Kata |\n| --- | --- |\n| makanan pokok | rice (nasi/beras), bread (roti), noodles (mi), potatoes (kentang) |\n| lauk | chicken (ayam), fish (ikan), meat (daging), egg (telur), tofu (tahu) |\n| sayur dan buah | vegetables (sayuran), carrot (wortel), fruit (buah), apple, banana, mango, orange |\n| minuman | water (air), tea (teh), coffee (kopi), milk (susu), juice (jus) |\n| lain-lain | sugar (gula), salt (garam), cheese (keju), soup (sup) |\n\nCatatan: dalam bahasa Inggris, **rice** dipakai untuk *nasi*, *beras*, dan *padi* sekaligus.\n\n### Waktu makan\nIngat dari Unit 5: kita memakai **have** untuk makan: *have breakfast/lunch/dinner*. Untuk menyebut menu, gunakan **for**:\n- *I have bread and eggs **for** breakfast.*\n- *We eat rice and fish **for** lunch.*\n- *What do you have **for** dinner?*\n\n### Rasa (taste)\n| Kata | Arti | Contoh |\n| --- | --- | --- |\n| sweet | manis | Mangoes are sweet. |\n| spicy / hot | pedas | This sambal is very spicy. |\n| salty | asin | The soup is too salty. |\n| sour | asam | Lemons are sour. |\n| bitter | pahit | Black coffee is bitter. |\n| delicious | enak, lezat | Your fried rice is delicious! |\n\nHati-hati: **hot** bisa berarti *panas* (suhu) atau *pedas*. Untuk menghindari salah paham, pakai **spicy** untuk pedas.\n\n### Membicarakan makanan yang kita suka\nGabungkan dengan pelajaran Unit 6:\n- *I love spicy food.*\n- *My brother doesn't eat fish.*\n- *Do you like coffee? — No, I don't. I drink tea.*\n\n### Kata kerja yang berguna\n**eat** (makan), **drink** (minum), **cook** (memasak), **have** (makan/minum — lebih umum dan santai), **taste** (terasa): *It tastes good.*",
+        "examples": [
+          { "en": "I have bread and eggs for breakfast.", "id": "Saya makan roti dan telur untuk sarapan." },
+          { "en": "We usually eat rice and chicken for lunch.", "id": "Kami biasanya makan nasi dan ayam untuk makan siang." },
+          { "en": "My grandmother drinks tea without sugar.", "id": "Nenek saya minum teh tanpa gula." },
+          { "en": "This soup is delicious, but it's a little salty.", "id": "Sup ini enak, tetapi sedikit asin." },
+          { "en": "Do you like spicy food? — Yes, I love it!", "id": "Kamu suka makanan pedas? — Ya, saya sangat suka!" }
+        ],
+        "vocabulary": [
+          { "word": "rice", "pos": "noun", "ipa": "/raɪs/", "meaning": "nasi, beras", "example": "We eat rice every day." },
+          { "word": "bread", "pos": "noun", "ipa": "/bred/", "meaning": "roti", "example": "I have bread for breakfast." },
+          { "word": "chicken", "pos": "noun", "ipa": "/ˈtʃɪkɪn/", "meaning": "ayam, daging ayam", "example": "She loves fried chicken." },
+          { "word": "vegetables", "pos": "noun", "ipa": "/ˈvedʒtəblz/", "meaning": "sayuran", "example": "Eat your vegetables!" },
+          { "word": "fruit", "pos": "noun", "ipa": "/fruːt/", "meaning": "buah", "example": "I eat fruit every morning." },
+          { "word": "juice", "pos": "noun", "ipa": "/dʒuːs/", "meaning": "jus", "example": "He drinks orange juice." },
+          { "word": "sweet", "pos": "adjective", "ipa": "/swiːt/", "meaning": "manis", "example": "This cake is very sweet." },
+          { "word": "spicy", "pos": "adjective", "ipa": "/ˈspaɪsi/", "meaning": "pedas", "example": "The sambal is spicy." },
+          { "word": "delicious", "pos": "adjective", "ipa": "/dɪˈlɪʃəs/", "meaning": "enak, lezat", "example": "The noodles are delicious." }
+        ],
+        "grammar": [
+          { "pattern": "have / eat + makanan + for + breakfast / lunch / dinner", "example": "I have noodles for dinner." },
+          { "pattern": "Makanan + is/are + rasa", "example": "Mangoes are sweet. / The soup is salty." },
+          { "pattern": "like / love / don't like + makanan", "example": "I don't like bitter coffee." }
+        ],
+        "mistakes": [
+          { "wrong": "I eat bread in breakfast.", "right": "I eat bread for breakfast.", "why": "Untuk menyebut menu suatu waktu makan, gunakan for." },
+          { "wrong": "I like spicy.", "right": "I like spicy food.", "why": "Spicy adalah kata sifat; setelah like kita memerlukan kata benda (food)." },
+          { "wrong": "We have rice and fish for the lunch.", "right": "We have rice and fish for lunch.", "why": "Nama waktu makan (breakfast, lunch, dinner) tidak memakai the dalam ungkapan ini." }
+        ],
+        "summary": "Pelajari kosakata makanan (**rice, bread, chicken, fish, egg, vegetables, fruit**) dan minuman (**water, tea, coffee, milk, juice**). Pakai **for** untuk menu makan: *rice for lunch*. Deskripsikan rasa dengan **sweet, spicy, salty, sour, bitter, delicious**.",
+        "reviewCards": [
+          { "front": "rice", "back": "nasi / beras" },
+          { "front": "Saya makan roti untuk sarapan.", "back": "I have/eat bread for breakfast." },
+          { "front": "spicy / salty / bitter", "back": "pedas / asin / pahit" },
+          { "front": "delicious", "back": "enak, lezat" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u07-l1-q1", "type": "matching", "category": "vocabulary", "topic": "food and drinks",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Match the English words with the Indonesian words.",
+          "instructions": "Cocokkan kata bahasa Inggris dengan artinya.",
+          "pairs": [
+            { "left": "chicken", "right": "ayam" },
+            { "left": "bread", "right": "roti" },
+            { "left": "vegetables", "right": "sayuran" },
+            { "left": "milk", "right": "susu" },
+            { "left": "sugar", "right": "gula" },
+            { "left": "egg", "right": "telur" }
+          ],
+          "explanation": "chicken = ayam, bread = roti, vegetables = sayuran, milk = susu, sugar = gula, egg = telur."
+        },
+        {
+          "id": "a1-u07-l1-q2", "type": "multiple_select", "category": "vocabulary", "topic": "food and drinks",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Which of these are drinks? Choose all correct answers.",
+          "options": ["juice", "bread", "tea", "cheese", "water", "egg"],
+          "answers": [0, 2, 4],
+          "explanation": "Juice, tea, dan water adalah minuman. Bread, cheese, dan egg adalah makanan."
+        },
+        {
+          "id": "a1-u07-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "food and drinks",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the sentence with one word.",
+          "text": "I usually have bread and eggs ___ breakfast.",
+          "answers": [["for"]],
+          "explanation": "Untuk menyebut menu suatu waktu makan, gunakan for: for breakfast."
+        },
+        {
+          "id": "a1-u07-l1-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "tastes",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "This chilli sauce is very ___. My mouth is on fire! I need some water.",
+          "options": ["sweet", "spicy", "salty"],
+          "answer": 1,
+          "explanation": "Saus cabai yang membuat mulut terasa terbakar berarti pedas = spicy."
+        },
+        {
+          "id": "a1-u07-l1-q5", "type": "single_choice", "category": "vocabulary", "topic": "food and drinks",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which word is NOT a fruit?",
+          "options": ["banana", "apple", "carrot", "mango"],
+          "answer": 2,
+          "explanation": "Carrot (wortel) adalah sayuran. Banana, apple, dan mango adalah buah."
+        },
+        {
+          "id": "a1-u07-l1-q6", "type": "translation", "category": "vocabulary", "topic": "food and drinks",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya minum teh tanpa gula.",
+          "direction": "id-en",
+          "answers": ["I drink tea without sugar.", "I have tea without sugar.", "I drink my tea without sugar.", "I have my tea without sugar."],
+          "explanation": "minum = drink (atau have), teh = tea, tanpa = without, gula = sugar."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u07-l2-countable-uncountable",
+      "title": "Countable and Uncountable Nouns",
+      "summary": "Membedakan kata benda yang bisa dihitung dan tidak bisa dihitung, serta memakai wadah seperti a bottle of dan a cup of.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengenali countable dan uncountable nouns",
+        "Memakai a/an dan bentuk jamak hanya pada countable nouns",
+        "Menghitung uncountable nouns dengan wadah: a bottle of, a cup of, a loaf of"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dua jenis kata benda\nDalam bahasa Inggris, kata benda dibagi menjadi dua kelompok:\n\n| | Countable (bisa dihitung) | Uncountable (tidak bisa dihitung) |\n| --- | --- | --- |\n| Contoh | apple, egg, banana, orange, carrot | water, rice, milk, bread, sugar, cheese, money |\n| a / an? | ✓ an apple, an egg | ✗ (bukan ~~a rice~~) |\n| Bentuk jamak? | ✓ two apples, three eggs | ✗ (bukan ~~rices, breads~~) |\n| Kata kerja | apple **is**, apples **are** | rice **is** (selalu tunggal) |\n\n**Countable nouns** adalah benda yang bisa kita hitung satu per satu: *one egg, two eggs*. **Uncountable nouns** biasanya cairan (*water, milk*), butiran kecil (*rice, sugar, salt*), atau benda yang kita anggap sebagai massa (*bread, cheese, meat*).\n\n### Jebakan untuk pelajar Indonesia\n- **Bread** tidak bisa dihitung. Kita berkata *some bread* atau *a loaf of bread* (sebuah roti tawar utuh), bukan ~~a bread~~ atau ~~three breads~~.\n- **Rice** selalu uncountable: *Rice **is** cheap* (bukan ~~Rice are~~).\n- **Fruit** biasanya uncountable: *I eat fruit every day.*\n- **Money** uncountable: *I don't have money* (bukan ~~moneys~~).\n\n### Menghitung uncountable nouns dengan wadah\nUntuk menyebut jumlah uncountable noun, gunakan **wadah atau satuan + of**:\n\n| Wadah | Contoh | Arti |\n| --- | --- | --- |\n| a bottle of | a bottle of water | sebotol air |\n| a glass of | a glass of milk | segelas susu |\n| a cup of | a cup of tea | secangkir teh |\n| a bowl of | a bowl of rice / soup | semangkuk nasi / sup |\n| a loaf of | a loaf of bread | sebuah roti (utuh) |\n| a slice of | a slice of cheese | seiris keju |\n| a bar of | a bar of chocolate | sebatang cokelat |\n| a kilo of | a kilo of sugar | sekilo gula |\n| a carton of | a carton of milk | sekotak susu |\n\nWadahnya bisa menjadi jamak: *two bottle**s** of water, three cup**s** of coffee*. Tetapi kata bendanya tetap: ~~two bottles of waters~~ salah.\n\n### Catatan\nDi kafe, orang sering berkata *two coffees* atau *three teas* — artinya *dua cangkir kopi*. Ini bentuk percakapan yang umum, tetapi saat belajar, gunakan bentuk lengkap *two cups of coffee*.",
+        "examples": [
+          { "en": "I eat an apple every day.", "id": "Saya makan sebuah apel setiap hari.", "note": "Apple = countable." },
+          { "en": "Rice is cheap at this market.", "id": "Beras murah di pasar ini.", "note": "Rice = uncountable, kata kerja is." },
+          { "en": "Please buy a loaf of bread and two cartons of milk.", "id": "Tolong beli satu roti dan dua kotak susu." },
+          { "en": "She drinks two glasses of water before breakfast.", "id": "Dia (perempuan) minum dua gelas air sebelum sarapan." },
+          { "en": "He has a bowl of soup for lunch.", "id": "Dia (laki-laki) makan semangkuk sup untuk makan siang." }
+        ],
+        "vocabulary": [
+          { "word": "bottle", "pos": "noun", "ipa": "/ˈbɒtl/", "meaning": "botol", "example": "a bottle of water" },
+          { "word": "glass", "pos": "noun", "ipa": "/ɡlɑːs/", "meaning": "gelas", "example": "a glass of milk" },
+          { "word": "cup", "pos": "noun", "ipa": "/kʌp/", "meaning": "cangkir", "example": "a cup of coffee" },
+          { "word": "bowl", "pos": "noun", "ipa": "/bəʊl/", "meaning": "mangkuk", "example": "a bowl of noodles" },
+          { "word": "loaf", "pos": "noun", "ipa": "/ləʊf/", "meaning": "sebuah roti utuh (jamak: loaves)", "example": "a loaf of bread" },
+          { "word": "slice", "pos": "noun", "ipa": "/slaɪs/", "meaning": "irisan", "example": "a slice of cheese" },
+          { "word": "money", "pos": "noun", "ipa": "/ˈmʌni/", "meaning": "uang", "example": "I don't have much money." },
+          { "word": "cheese", "pos": "noun", "ipa": "/tʃiːz/", "meaning": "keju", "example": "The cheese is in the fridge." }
+        ],
+        "grammar": [
+          { "pattern": "a/an + countable tunggal; countable + -s untuk jamak", "example": "an egg, two eggs" },
+          { "pattern": "uncountable + is (tanpa a/an, tanpa -s)", "example": "Milk is good for you." },
+          { "pattern": "a/two + wadah(s) + of + uncountable", "example": "two bottles of water" }
+        ],
+        "mistakes": [
+          { "wrong": "I buy three breads every morning.", "right": "I buy three loaves of bread every morning.", "why": "Bread uncountable; hitung dengan wadah/satuan seperti loaf." },
+          { "wrong": "The rice are cheap.", "right": "The rice is cheap.", "why": "Uncountable noun memakai kata kerja tunggal is." },
+          { "wrong": "Two bottles of waters, please.", "right": "Two bottles of water, please.", "why": "Hanya wadahnya yang jamak; water tetap tanpa -s." }
+        ],
+        "summary": "**Countable nouns** bisa memakai a/an dan bentuk jamak (*an egg, two eggs*). **Uncountable nouns** (*water, rice, bread, milk, sugar, money*) tidak memakai a/an, tidak jamak, dan memakai **is**. Untuk menghitungnya, gunakan **wadah + of**: *a bottle of water, a cup of tea, a loaf of bread*.",
+        "reviewCards": [
+          { "front": "a bread atau some bread?", "back": "some bread / a loaf of bread (bread = uncountable)" },
+          { "front": "sebotol air", "back": "a bottle of water" },
+          { "front": "Rice ___ cheap.", "back": "is (uncountable = tunggal)" },
+          { "front": "seiris keju", "back": "a slice of cheese" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u07-l2-q1", "type": "single_choice", "category": "grammar", "topic": "countable and uncountable nouns",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Which word is uncountable?",
+          "instructions": "Uncountable = tidak bisa dihitung satu per satu, tidak memakai a/an.",
+          "options": ["egg", "banana", "rice", "orange"],
+          "answer": 2,
+          "explanation": "Rice tidak bisa dihitung satu per satu (bukan a rice / two rices). Egg, banana, orange bisa dihitung."
+        },
+        {
+          "id": "a1-u07-l2-q2", "type": "dropdown", "category": "vocabulary", "topic": "containers",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct container for each gap.",
+          "text": "For the picnic we need a ___ of bread, a ___ of milk and a ___ of chocolate.",
+          "choices": [["glass", "loaf", "bowl"], ["slice", "loaf", "carton"], ["bar", "loaf", "glass"]],
+          "answers": [1, 2, 0],
+          "explanation": "a loaf of bread (roti utuh), a carton of milk (sekotak susu), a bar of chocolate (sebatang cokelat)."
+        },
+        {
+          "id": "a1-u07-l2-q3", "type": "sentence_correction", "category": "grammar", "topic": "countable and uncountable nouns",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Correct the sentence. Use the word 'loaves'.",
+          "sentence": "My mother buys three breads every morning.",
+          "answers": ["My mother buys three loaves of bread every morning."],
+          "explanation": "Bread uncountable, jadi tidak bisa breads. Gunakan satuan: three loaves of bread (loaf → loaves)."
+        },
+        {
+          "id": "a1-u07-l2-q4", "type": "error_identification", "category": "grammar", "topic": "countable and uncountable nouns",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Rice", "are", "cheap", "in this market."],
+          "errorIndex": 1,
+          "correction": "is",
+          "explanation": "Rice uncountable, jadi memakai kata kerja tunggal is: Rice is cheap in this market."
+        },
+        {
+          "id": "a1-u07-l2-q5", "type": "multiple_select", "category": "grammar", "topic": "countable and uncountable nouns",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which nouns are uncountable? Choose all correct answers.",
+          "options": ["water", "apple", "sugar", "egg", "cheese", "bag"],
+          "answers": [0, 2, 4],
+          "explanation": "Water, sugar, dan cheese uncountable. Apple, egg, dan bag bisa dihitung (an apple, two eggs, three bags)."
+        },
+        {
+          "id": "a1-u07-l2-q6", "type": "fill_blank", "category": "vocabulary", "topic": "containers",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete with a container word.",
+          "text": "Every morning, my grandfather drinks a ___ of hot tea.",
+          "answers": [["cup", "mug", "glass"]],
+          "explanation": "Teh panas biasanya diminum dari cangkir: a cup of tea (a mug/glass of tea juga benar)."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u07-l3-some-any",
+      "title": "Some and Any",
+      "summary": "Memakai some dalam kalimat positif dan any dalam kalimat negatif serta pertanyaan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai some dalam kalimat positif",
+        "Memakai any dalam kalimat negatif dan pertanyaan",
+        "Memakai some/any dengan countable jamak dan uncountable nouns"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Some dan any = beberapa / sedikit\n**Some** dan **any** dipakai saat kita **tidak menyebut jumlah yang tepat**. Dalam bahasa Indonesia sering diterjemahkan *beberapa*, *sedikit*, atau tidak diterjemahkan sama sekali.\n\nKeduanya dipakai dengan:\n- **countable jamak**: *some eggs, any apples*\n- **uncountable**: *some milk, any sugar*\n\nKeduanya **tidak** dipakai dengan countable tunggal: ~~some apple~~ → *an apple*.\n\n### Aturan dasar\n| Jenis kalimat | Kata | Contoh |\n| --- | --- | --- |\n| positif (+) | **some** | I have **some** eggs. / We need **some** rice. |\n| negatif (−) | **any** | I don't have **any** eggs. / We don't need **any** rice. |\n| pertanyaan (?) | **any** | Do you have **any** eggs? / Does she need **any** rice? |\n\n### Contoh dalam satu situasi\n*Mum: Do we have **any** milk?*\n*Dad: Yes, we have **some** milk in the fridge, but we don't have **any** bread.*\n\n### Some dalam tawaran dan permintaan\nAda pengecualian penting: dalam **tawaran** atau **permintaan**, kita memakai **some** meskipun kalimatnya pertanyaan, karena kita mengharapkan jawaban *ya*. Kita akan melihat ini di pelajaran 5 dengan ungkapan *Would you like some tea?* Untuk saat ini, ikuti aturan dasar di tabel.\n\n### Bandingkan dengan a/an\n| Countable tunggal | Countable jamak | Uncountable |\n| --- | --- | --- |\n| I have **an** orange. | I have **some** oranges. | I have **some** juice. |\n| I don't have **an** orange. | I don't have **any** oranges. | I don't have **any** juice. |\n\n### Kesalahan umum\n- ~~I don't have some money.~~ → *I don't have **any** money.*\n- ~~I have any apples.~~ → *I have **some** apples.*\n- ~~We need some egg.~~ → *We need **some eggs**.* (countable harus jamak)\n\n### Pengucapan\nDalam kalimat, **some** biasanya diucapkan lemah dan cepat: /səm/. **Any** diucapkan /ˈeni/.",
+        "examples": [
+          { "en": "I have some oranges in my bag.", "id": "Saya punya beberapa jeruk di tas saya." },
+          { "en": "We don't have any sugar.", "id": "Kami tidak punya gula sama sekali." },
+          { "en": "Do you have any eggs?", "id": "Apakah kamu punya telur?" },
+          { "en": "She needs some milk for the cake.", "id": "Dia (perempuan) butuh sedikit susu untuk kuenya." },
+          { "en": "My brother doesn't eat any vegetables.", "id": "Adik laki-laki saya tidak makan sayuran sama sekali." }
+        ],
+        "vocabulary": [
+          { "word": "some", "pos": "determiner", "ipa": "/sʌm/", "meaning": "beberapa, sedikit (positif)", "example": "I have some apples." },
+          { "word": "any", "pos": "determiner", "ipa": "/ˈeni/", "meaning": "sama sekali, apa pun (negatif/tanya)", "example": "We don't have any rice." },
+          { "word": "need", "pos": "verb", "ipa": "/niːd/", "meaning": "membutuhkan, perlu", "example": "We need some eggs." },
+          { "word": "fridge", "pos": "noun", "ipa": "/frɪdʒ/", "meaning": "kulkas", "example": "The milk is in the fridge." },
+          { "word": "orange", "pos": "noun", "ipa": "/ˈɒrɪndʒ/", "meaning": "jeruk", "example": "I have some oranges." },
+          { "word": "flour", "pos": "noun", "ipa": "/ˈflaʊə/", "meaning": "tepung", "example": "We need some flour for the cake." },
+          { "word": "cake", "pos": "noun", "ipa": "/keɪk/", "meaning": "kue", "example": "She makes a cake on Sundays." }
+        ],
+        "grammar": [
+          { "pattern": "Positif: subjek + kata kerja + some + jamak/uncountable", "example": "We need some flour." },
+          { "pattern": "Negatif: subjek + don't/doesn't + kata kerja + any + ...", "example": "He doesn't have any money." },
+          { "pattern": "Pertanyaan: Do/Does + subjek + kata kerja + any + ...?", "example": "Do you have any bananas?" }
+        ],
+        "mistakes": [
+          { "wrong": "Sorry, we don't have some orange juice.", "right": "Sorry, we don't have any orange juice.", "why": "Kalimat negatif memakai any." },
+          { "wrong": "I have any apples.", "right": "I have some apples.", "why": "Kalimat positif memakai some." },
+          { "wrong": "We need some egg.", "right": "We need some eggs.", "why": "Countable noun setelah some harus jamak." }
+        ],
+        "summary": "**Some** untuk kalimat **positif**, **any** untuk kalimat **negatif** dan **pertanyaan**. Keduanya dipakai dengan **countable jamak** (*some eggs*) dan **uncountable** (*any milk*), bukan dengan countable tunggal (gunakan a/an).",
+        "reviewCards": [
+          { "front": "I have ___ eggs. / I don't have ___ eggs.", "back": "some / any" },
+          { "front": "Do you have ___ sugar?", "back": "any (pertanyaan)" },
+          { "front": "some + countable tunggal?", "back": "Tidak. Gunakan a/an: an apple; some apples." },
+          { "front": "Kami tidak punya gula.", "back": "We don't have any sugar." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u07-l3-q1", "type": "single_choice", "category": "grammar", "topic": "some and any",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "We don't have ___ bread.",
+          "instructions": "Kalimat negatif (don't) memakai any.",
+          "options": ["some", "any", "a"],
+          "answer": 1,
+          "explanation": "Kalimat negatif memakai any. A tidak bisa dipakai karena bread uncountable."
+        },
+        {
+          "id": "a1-u07-l3-q2", "type": "fill_blank", "category": "grammar", "topic": "some and any",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Write some or any.",
+          "text": "I have ___ oranges in my bag, but I don't have ___ bananas.",
+          "answers": [["some"], ["any"]],
+          "explanation": "Kalimat positif (I have) → some; kalimat negatif (I don't have) → any."
+        },
+        {
+          "id": "a1-u07-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "some and any",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Make the sentence negative.",
+          "sentence": "We have some cheese.",
+          "cue": "Write the negative sentence.",
+          "answers": ["We don't have any cheese.", "We do not have any cheese."],
+          "explanation": "Negatif: don't + have, dan some berubah menjadi any."
+        },
+        {
+          "id": "a1-u07-l3-q4", "type": "dropdown", "category": "grammar", "topic": "some and any",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose some or any.",
+          "text": "Mum doesn't buy ___ sweets. She buys ___ fruit every week.",
+          "choices": [["some", "any"], ["some", "any"]],
+          "answers": [1, 0],
+          "explanation": "doesn't buy (negatif) → any sweets; She buys (positif) → some fruit."
+        },
+        {
+          "id": "a1-u07-l3-q5", "type": "error_identification", "category": "grammar", "topic": "some and any",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Sorry,", "we don't have", "some", "orange juice today."],
+          "errorIndex": 2,
+          "correction": "any",
+          "explanation": "Kalimat negatif (don't have) memakai any, bukan some."
+        },
+        {
+          "id": "a1-u07-l3-q6", "type": "translation", "category": "grammar", "topic": "some and any",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami butuh beberapa telur dan sedikit tepung.",
+          "direction": "id-en",
+          "answers": ["We need some eggs and some flour.", "We need some eggs and a little flour."],
+          "explanation": "Kalimat positif memakai some: some eggs (countable jamak) dan some flour (uncountable)."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u07-l4-how-much-how-many",
+      "title": "How Much and How Many? Quantities and Prices",
+      "summary": "Menanyakan jumlah dengan how much/how many dan menanyakan serta menyebut harga.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai how many dengan countable jamak dan how much dengan uncountable",
+        "Menanyakan harga dengan How much is/are ...?",
+        "Menyebut harga dalam bahasa Inggris"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### How many atau how much?\nKeduanya berarti *berapa banyak*, tetapi pilihannya bergantung pada jenis kata benda:\n\n| Pertanyaan | Dipakai dengan | Contoh |\n| --- | --- | --- |\n| **How many** | countable **jamak** | How many **eggs** do you need? — Six. |\n| **How much** | **uncountable** | How much **water** do you drink? — Two litres. |\n\nPerhatikan: setelah *how many*, kata benda harus **jamak**: *How many apple**s**...?* (bukan ~~How many apple~~).\n\n### Pola pertanyaan\nKarena kalimat ini memakai kata kerja biasa, kita memakai **do/does** seperti di Unit 6:\n- *How many eggs **do** you need?*\n- *How much sugar **does** she want?*\n- *How many brothers **do** you have?*\n\n### Menanyakan harga\n**How much** juga dipakai untuk menanyakan **harga** (karena uang = uncountable):\n\n| Benda | Pertanyaan | Jawaban |\n| --- | --- | --- |\n| satu benda | How much **is** this bag? | **It's** 12 dollars. |\n| benda jamak | How much **are** these shoes? | **They're** 40 dollars. |\n| satu benda (umum) | How much **does** it cost? | It costs 15,000 rupiah. |\n\nIngat: *is* untuk satu benda, *are* untuk banyak benda, sesuai Unit 1 dan Unit 4 (this/these).\n\n### Menyebut harga\n| Tulisan | Cara membaca |\n| --- | --- |\n| $5 | five dollars |\n| $3.50 | three dollars fifty / three fifty |\n| £2.99 | two pounds ninety-nine |\n| Rp25.000 | twenty-five thousand rupiah |\n| Rp150.000 | a hundred and fifty thousand rupiah |\n\nCatatan penting: dalam bahasa Inggris, **koma** dipakai untuk ribuan (25,000) dan **titik** untuk desimal (3.50) — kebalikan dari bahasa Indonesia. Kata **rupiah** dan **dollar** jamaknya: *dollars*, tetapi *rupiah* biasanya tetap *rupiah*.\n\n### Kata yang berguna\n**cheap** (murah), **expensive** (mahal), **price** (harga), **cost** (berharga/biaya).",
+        "examples": [
+          { "en": "How many eggs do you need? — Six, please.", "id": "Berapa butir telur yang kamu butuhkan? — Enam, ya." },
+          { "en": "How much milk do we have? — One carton.", "id": "Berapa banyak susu yang kita punya? — Satu kotak." },
+          { "en": "How much is this bag? — It's 12 dollars.", "id": "Berapa harga tas ini? — 12 dolar." },
+          { "en": "How much are these mangoes? — They're 15,000 rupiah a kilo.", "id": "Berapa harga mangga-mangga ini? — 15.000 rupiah sekilo." },
+          { "en": "These shoes are very expensive.", "id": "Sepatu ini sangat mahal." }
+        ],
+        "vocabulary": [
+          { "word": "how much", "pos": "phrase", "ipa": "/ˌhaʊ ˈmʌtʃ/", "meaning": "berapa banyak (uncountable); berapa harganya", "example": "How much is it?" },
+          { "word": "how many", "pos": "phrase", "ipa": "/ˌhaʊ ˈmeni/", "meaning": "berapa banyak (countable)", "example": "How many apples do you want?" },
+          { "word": "price", "pos": "noun", "ipa": "/praɪs/", "meaning": "harga", "example": "The price is good." },
+          { "word": "cheap", "pos": "adjective", "ipa": "/tʃiːp/", "meaning": "murah", "example": "Vegetables are cheap here." },
+          { "word": "expensive", "pos": "adjective", "ipa": "/ɪkˈspensɪv/", "meaning": "mahal", "example": "This phone is expensive." },
+          { "word": "cost", "pos": "verb", "ipa": "/kɒst/", "meaning": "berharga, menghabiskan biaya", "example": "It costs ten dollars." },
+          { "word": "dollar", "pos": "noun", "ipa": "/ˈdɒlə/", "meaning": "dolar", "example": "It's five dollars." }
+        ],
+        "grammar": [
+          { "pattern": "How many + countable jamak + do/does + subjek + kata kerja?", "example": "How many sisters does she have?" },
+          { "pattern": "How much + uncountable + do/does + subjek + kata kerja?", "example": "How much coffee do you drink?" },
+          { "pattern": "How much is + benda tunggal? / How much are + benda jamak?", "example": "How much are these apples? — They're 3 dollars." }
+        ],
+        "mistakes": [
+          { "wrong": "How many rice do you eat?", "right": "How much rice do you eat?", "why": "Rice uncountable, jadi memakai how much." },
+          { "wrong": "How many apple do you want?", "right": "How many apples do you want?", "why": "Setelah how many, kata benda harus jamak." },
+          { "wrong": "How much is these shoes?", "right": "How much are these shoes?", "why": "These shoes jamak, jadi memakai are." }
+        ],
+        "summary": "**How many** + countable jamak (*How many eggs...?*), **how much** + uncountable (*How much milk...?*). Tanyakan harga dengan **How much is** + satu benda dan **How much are** + benda jamak. Jawab dengan **It's ...** atau **They're ...**. Ingat: koma untuk ribuan, titik untuk desimal.",
+        "reviewCards": [
+          { "front": "How ___ eggs? / How ___ water?", "back": "many / much" },
+          { "front": "Berapa harga tas ini?", "back": "How much is this bag?" },
+          { "front": "How much are these shoes? (40)", "back": "They're forty dollars." },
+          { "front": "cheap / expensive", "back": "murah / mahal" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u07-l4-q1", "type": "dropdown", "category": "grammar", "topic": "how much how many",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose How much or How many.",
+          "instructions": "Countable jamak → How many; uncountable → How much.",
+          "text": "___ apples do you need? ___ milk do you want?",
+          "choices": [["How much", "How many"], ["How much", "How many"]],
+          "answers": [1, 0],
+          "explanation": "Apples countable jamak → How many. Milk uncountable → How much."
+        },
+        {
+          "id": "a1-u07-l4-q2", "type": "matching", "category": "conversation", "topic": "prices",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each question with the best answer.",
+          "pairs": [
+            { "left": "How many eggs do you need?", "right": "Six, please." },
+            { "left": "How much water do you drink a day?", "right": "About two litres." },
+            { "left": "How much is this bag?", "right": "It's twelve dollars." },
+            { "left": "How much are these shoes?", "right": "They're forty dollars." }
+          ],
+          "explanation": "How many eggs → jumlah (six); how much water → takaran (two litres); how much is + satu benda → It's; how much are + jamak → They're."
+        },
+        {
+          "id": "a1-u07-l4-q3", "type": "short_answer", "category": "vocabulary", "topic": "prices",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write this price in words: $3.50",
+          "answers": ["three dollars fifty", "three fifty", "three dollars and fifty cents", "three dollars fifty cents", "three dollars and fifty"],
+          "explanation": "$3.50 dibaca three dollars fifty (atau three fifty / three dollars and fifty cents)."
+        },
+        {
+          "id": "a1-u07-l4-q4", "type": "error_identification", "category": "grammar", "topic": "how much how many",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["How many", "rice", "do you eat", "every day?"],
+          "errorIndex": 0,
+          "correction": "How much",
+          "explanation": "Rice uncountable, jadi pertanyaannya How much rice ...?"
+        },
+        {
+          "id": "a1-u07-l4-q5", "type": "single_choice", "category": "grammar", "topic": "prices",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct question for this answer: 'They're 15,000 rupiah.'",
+          "options": ["How much is the mango?", "How much are the mangoes?", "How many mangoes do you want?", "How many is the mango?"],
+          "answer": 1,
+          "explanation": "Jawaban They're menunjukkan benda jamak dan harga, jadi pertanyaannya How much are the mangoes?"
+        },
+        {
+          "id": "a1-u07-l4-q6", "type": "sentence_transformation", "category": "grammar", "topic": "how much how many",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Write the question for this answer.",
+          "sentence": "I need four eggs.",
+          "cue": "Begin with: How many ...",
+          "answers": ["How many eggs do you need?"],
+          "explanation": "Eggs countable jamak → How many eggs + do you need?"
+        }
+      ]
+    },
+    {
+      "slug": "a1-u07-l5-ordering-shopping",
+      "title": "Ordering Food and Shopping",
+      "summary": "Memesan makanan di kafe dan berbelanja di toko dengan ungkapan sopan seperti I'd like, Would you like, dan Here you are.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Memesan makanan dan minuman dengan I'd like ..., please",
+        "Menawarkan dan menjawab tawaran dengan Would you like ...?",
+        "Memahami ungkapan umum di kafe dan toko"
+      ],
+      "completionCriteria": "Baca semua bagian materi, berlatih role-play memesan makanan, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### I'd like = saya ingin/mau (sopan)\nUntuk memesan atau meminta sesuatu dengan sopan, gunakan **I'd like** (singkatan dari **I would like**) + kata benda:\n- *I'd like a cup of coffee, please.*\n- *I'd like some chicken soup, please.*\n\n**I'd like** berbeda dengan **I like**:\n| Ungkapan | Arti | Fungsi |\n| --- | --- | --- |\n| I like coffee. | Saya suka kopi. | kebiasaan/selera (Unit 6) |\n| I'd like a coffee. | Saya mau (pesan) kopi. | permintaan sekarang |\n\n*I want a coffee* secara tata bahasa benar, tetapi terdengar kurang sopan kepada pelayan. Pelajari **I'd like** sebagai satu ungkapan tetap.\n\n### Menawarkan: Would you like ...?\nPelayan atau tuan rumah menawarkan dengan **Would you like ...?** (Apakah Anda mau ...?). Dalam tawaran kita memakai **some**, bukan any (ingat pelajaran 3):\n- *Would you like **some** tea?* — **Yes, please.** / **No, thank you.**\n- *Would you like a drink?* — *Yes, please. I'd like an orange juice.*\n\n### Ungkapan di kafe dan restoran\n| Pelayan | Pelanggan |\n| --- | --- |\n| Are you ready to order? | Yes. I'd like the fried rice, please. |\n| Anything else? | And a glass of water, please. / No, that's all, thanks. |\n| Eat in or take away? | Eat in, please. / Take away, please. |\n| Here you are. | Thank you. |\n| That's 45,000 rupiah. | Here you are. |\n| | The bill, please. (Minta tagihan) |\n\n### Ungkapan di toko\n- *Excuse me, how much is this?* — *It's 8 dollars.*\n- *I'd like two kilos of rice, please.*\n- *Here's your change.* (Ini kembalian Anda.)\n- *Have a nice day!*\n\n### Pola percakapan lengkap\n**Waiter:** Good afternoon. Are you ready to order?\n**Customer:** Yes. I'd like a bowl of noodles and a cup of tea, please.\n**Waiter:** Anything else?\n**Customer:** No, that's all, thanks. How much is it?\n**Waiter:** That's 35,000 rupiah.\n**Customer:** Here you are.\n**Waiter:** Thank you. Here's your change.\n\nCatatan: **Here you are** dipakai saat **memberikan** sesuatu kepada orang lain (uang, makanan, barang).",
+        "examples": [
+          { "en": "I'd like a bowl of chicken soup, please.", "id": "Saya mau semangkuk sup ayam." },
+          { "en": "Would you like some water? — Yes, please.", "id": "Mau air? — Ya, boleh." },
+          { "en": "Anything else? — No, that's all, thanks.", "id": "Ada lagi? — Tidak, itu saja, terima kasih." },
+          { "en": "That's 45,000 rupiah. — Here you are.", "id": "Totalnya 45.000 rupiah. — Ini (uangnya)." },
+          { "en": "Eat in or take away? — Take away, please.", "id": "Makan di sini atau dibawa pulang? — Dibawa pulang." }
+        ],
+        "vocabulary": [
+          { "word": "order", "pos": "verb/noun", "ipa": "/ˈɔːdə/", "meaning": "memesan; pesanan", "example": "Are you ready to order?" },
+          { "word": "waiter", "pos": "noun", "ipa": "/ˈweɪtə/", "meaning": "pelayan (laki-laki/umum)", "example": "The waiter brings the menu." },
+          { "word": "menu", "pos": "noun", "ipa": "/ˈmenjuː/", "meaning": "daftar menu", "example": "The menu, please." },
+          { "word": "bill", "pos": "noun", "ipa": "/bɪl/", "meaning": "tagihan, bon", "example": "The bill, please." },
+          { "word": "change", "pos": "noun", "ipa": "/tʃeɪndʒ/", "meaning": "uang kembalian", "example": "Here's your change." },
+          { "word": "customer", "pos": "noun", "ipa": "/ˈkʌstəmə/", "meaning": "pelanggan", "example": "The customer orders a coffee." },
+          { "word": "take away", "pos": "phrase", "ipa": "/ˌteɪk əˈweɪ/", "meaning": "dibawa pulang", "example": "Two burgers to take away, please." }
+        ],
+        "grammar": [
+          { "pattern": "I'd like + a/an/some + kata benda (+ please)", "example": "I'd like some rice, please." },
+          { "pattern": "Would you like + a/an/some + kata benda?", "example": "Would you like some cake? — Yes, please." },
+          { "pattern": "Here you are. / Here's your + kata benda.", "example": "Here's your coffee." }
+        ],
+        "mistakes": [
+          { "wrong": "I like a glass of water, please.", "right": "I'd like a glass of water, please.", "why": "Untuk memesan sekarang, gunakan I'd like (I would like), bukan I like." },
+          { "wrong": "Would you like any tea?", "right": "Would you like some tea?", "why": "Dalam tawaran, kita memakai some." },
+          { "wrong": "A: Would you like some coffee? B: Yes, I like.", "right": "A: Would you like some coffee? B: Yes, please.", "why": "Jawaban sopan untuk tawaran adalah Yes, please / No, thank you." }
+        ],
+        "summary": "Pesan dengan sopan memakai **I'd like ..., please**. Tawarkan dengan **Would you like some ...?** dan jawab **Yes, please / No, thank you**. Ungkapan penting: **Are you ready to order? Anything else? That's all. Here you are. Here's your change. The bill, please.**",
+        "reviewCards": [
+          { "front": "I'd like = ?", "back": "I would like = saya mau (sopan, untuk memesan)" },
+          { "front": "Anything else?", "back": "Ada lagi? → No, that's all, thanks." },
+          { "front": "Here you are.", "back": "Ini (saat memberikan sesuatu)" },
+          { "front": "Minta tagihan di restoran", "back": "The bill, please." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u07-l5-q1", "type": "single_choice", "category": "conversation", "topic": "ordering food",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "You are in a café. What is the most polite way to order?",
+          "instructions": "Pilih ungkapan yang paling sopan untuk memesan.",
+          "options": ["Give me a coffee.", "I'd like a coffee, please.", "I like a coffee.", "Coffee. Now."],
+          "answer": 1,
+          "explanation": "I'd like ..., please adalah cara memesan yang sopan. I like berarti suka (selera), bukan memesan."
+        },
+        {
+          "id": "a1-u07-l5-q2", "type": "dialogue_completion", "category": "conversation", "topic": "ordering food",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Waiter", "text": "Are you ready to order?" },
+            { "speaker": "Customer", "text": "Yes. I'd like the chicken soup, please." },
+            { "speaker": "Waiter", "text": "Anything else?" },
+            { "speaker": "Customer", "text": null },
+            { "speaker": "Waiter", "text": "OK. One chicken soup and a glass of orange juice." }
+          ],
+          "options": ["And a glass of orange juice, please.", "No, thank you. That's all.", "Here you are.", "How much is it?"],
+          "answer": 0,
+          "explanation": "Pelayan mengulang pesanan termasuk orange juice, jadi pelanggan pasti memesan And a glass of orange juice, please."
+        },
+        {
+          "id": "a1-u07-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "ordering food",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Role-play: You are at Green Leaf Café. Order one food and one drink, answer the waiter's question 'Anything else?', and ask for the price.",
+          "targetPhrases": ["I'd like", "please", "That's all", "How much is it?"],
+          "sampleAnswer": "Hello. I'd like a bowl of noodles and a cup of tea, please. ... No, that's all, thanks. How much is it? ... Here you are. Thank you!",
+          "explanation": "Gunakan I'd like ..., please untuk memesan, No, that's all untuk mengakhiri pesanan, dan How much is it? untuk menanyakan harga."
+        },
+        {
+          "id": "a1-u07-l5-q4", "type": "matching", "category": "conversation", "topic": "shopping phrases",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Match the English phrases with their meanings.",
+          "pairs": [
+            { "left": "Here you are.", "right": "Ini (silakan)." },
+            { "left": "Anything else?", "right": "Ada lagi?" },
+            { "left": "That's all, thanks.", "right": "Itu saja, terima kasih." },
+            { "left": "Here's your change.", "right": "Ini uang kembalian Anda." },
+            { "left": "Eat in or take away?", "right": "Makan di sini atau dibawa pulang?" }
+          ],
+          "explanation": "Ungkapan-ungkapan ini sangat sering dipakai di kafe dan toko."
+        },
+        {
+          "id": "a1-u07-l5-q5", "type": "word_order", "category": "conversation", "topic": "ordering food",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["I'd", "like", "two", "cups", "of", "tea", "please"],
+          "explanation": "Pola: I'd like + jumlah + wadah + of + minuman + please."
+        },
+        {
+          "id": "a1-u07-l5-q6", "type": "sentence_correction", "category": "conversation", "topic": "ordering food",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence so it is a polite order.",
+          "sentence": "I like a glass of water, please.",
+          "answers": ["I'd like a glass of water, please.", "I would like a glass of water, please."],
+          "explanation": "Untuk memesan, gunakan I'd like (I would like), bukan I like."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u07-t-q1", "type": "single_choice", "category": "grammar", "topic": "how much how many",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "___ bananas do you want?",
+      "options": ["How much", "How many", "What much"],
+      "answer": 1,
+      "explanation": "Bananas countable jamak → How many."
+    },
+    {
+      "id": "a1-u07-t-q2", "type": "dropdown", "category": "grammar", "topic": "some and any",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "We need ___ eggs and a ___ of milk, but we don't need ___ bread.",
+      "choices": [["some", "any"], ["carton", "slice", "bar"], ["some", "any"]],
+      "answers": [0, 0, 1],
+      "explanation": "Positif → some eggs; a carton of milk; negatif (don't need) → any bread."
+    },
+    {
+      "id": "a1-u07-t-q3", "type": "drag_drop", "category": "conversation", "topic": "ordering food",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Drag the correct words into the gaps.",
+      "text": "Waiter: Are you ready to order? Customer: Yes, I'd ___ the fish, please. Waiter: Anything ___? Customer: No, that's ___, thank you.",
+      "bank": ["like", "else", "all", "want", "some", "any"],
+      "answers": ["like", "else", "all"],
+      "explanation": "I'd like ... (memesan), Anything else? (Ada lagi?), No, that's all (Itu saja)."
+    },
+    {
+      "id": "a1-u07-t-q4", "type": "error_identification", "category": "grammar", "topic": "countable and uncountable nouns",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["She buys", "a bread", "at the bakery", "every morning."],
+      "errorIndex": 1,
+      "correction": "some bread / a loaf of bread",
+      "explanation": "Bread uncountable, jadi tidak memakai a. Gunakan some bread atau a loaf of bread."
+    },
+    {
+      "id": "a1-u07-t-q5", "type": "translation", "category": "conversation", "topic": "prices",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Berapa harga tas ini?",
+      "direction": "id-en",
+      "answers": ["How much is this bag?", "How much does this bag cost?"],
+      "explanation": "Menanyakan harga satu benda: How much is this bag?"
+    },
+    {
+      "id": "a1-u07-t-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "shopping",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "At the market, Mrs. Bell gives the seller 50,000 rupiah. The fruit is 35,000 rupiah, so the seller gives her 15,000 rupiah ___.",
+      "options": ["change", "price", "bill"],
+      "answer": 0,
+      "explanation": "Uang yang dikembalikan penjual disebut change (kembalian)."
+    },
+    {
+      "id": "a1-u07-t-q7", "type": "multiple_select", "category": "grammar", "topic": "some and any",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which sentences are correct? Choose all correct answers.",
+      "options": ["We don't have any milk.", "I have any apples.", "Do you have any eggs?", "I'd like some water, please.", "How many money do you have?"],
+      "answers": [0, 2, 3],
+      "explanation": "Any untuk negatif dan pertanyaan; some untuk positif dan permintaan. I have any apples salah (harus some), dan money uncountable sehingga harus How much money."
+    },
+    {
+      "id": "a1-u07-t-q8", "type": "sentence_reconstruction", "category": "conversation", "topic": "ordering food",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the parts in order to make a polite order.",
+      "fragments": ["Good afternoon.", "I'd like a bowl of noodles", "and a cup of tea,", "please."],
+      "explanation": "Sapaan, lalu I'd like + makanan + and + minuman + please."
+    }
+  ]
+}

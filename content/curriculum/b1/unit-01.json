@@ -1,0 +1,811 @@
+{
+  "slug": "b1-u01-perfect-vs-past",
+  "number": 1,
+  "title": "Life Changes",
+  "description": "Membicarakan perubahan hidup, prestasi, dan kabar terbaru dengan present perfect dan past simple. Kamu akan belajar kapan memakai finished time vs unfinished time, for/since, serta just/already/yet.",
+  "objectives": [
+    "Membedakan present perfect dan past simple berdasarkan finished time dan unfinished time",
+    "Menggunakan for dan since untuk menyatakan durasi sampai sekarang",
+    "Menggunakan just, already, dan yet untuk kabar terbaru dan rencana yang belum selesai",
+    "Menceritakan perubahan hidup dan prestasi pribadi dengan kosakata yang tepat"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u01-l1-present-perfect-changes",
+      "title": "Present Perfect for Changes and Results",
+      "summary": "Mengulang bentuk present perfect dan memakainya untuk pengalaman, perubahan, dan hasil yang terasa sekarang.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk present perfect positif, negatif, dan pertanyaan dengan benar",
+        "Menggunakan present perfect untuk pengalaman, perubahan, dan hasil sekarang",
+        "Menghafal past participle kata kerja tidak beraturan yang umum"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mengapa present perfect?\nPresent perfect menghubungkan **masa lalu** dengan **sekarang**. We use it when the exact time is not important, or when a past action has a result now. Di level A2 kamu sudah memakai present perfect untuk pengalaman (*Have you ever...?*). Di B1 kita memperluas pemakaiannya untuk **perubahan** (changes) dan **hasil** (results).\n\n### Bentuk (form)\n| Subject | Positive | Negative | Question |\n|---|---|---|---|\n| I / you / we / they | have ('ve) + V3 | haven't + V3 | Have ... + V3? |\n| he / she / it | has ('s) + V3 | hasn't + V3 | Has ... + V3? |\n\nV3 = past participle. Regular verbs simply add **-ed** (*change → changed*, *improve → improved*). Irregular verbs harus dihafal: *become → become, grow → grown, lose → lost, write → written, take → taken, buy → bought, go → gone/been*.\n\n### Tiga pemakaian utama\n1. **Experience (pengalaman)** — something happened at some time in your life: *I've climbed a volcano.*\n2. **Change (perubahan)** — sesuatu berbeda dibandingkan dulu: *My English has improved. The town has grown.*\n3. **Result (hasil sekarang)** — aksi di masa lalu, akibatnya terasa sekarang: *I've lost my keys* (= saya tidak punya kunci sekarang). *She's cut her hair* (= rambutnya pendek sekarang).\n\n### Kata kerja untuk perubahan hidup\nVerbs like *become, grow, change, improve, get (bigger/better), start, stop* are very common when we talk about life changes. Example: *Dimas has become a father. He has stopped eating fast food and he has started cycling to work.* Semua kalimat ini menjelaskan situasi Dimas **sekarang**, bukan kapan perubahan itu terjadi.\n\n### Hati-hati\n- Jangan pakai present perfect dengan waktu lampau yang spesifik (*yesterday, in 2020*). We will compare the two tenses in the next lesson.\n- *'s* bisa berarti **is** atau **has**: *She's lost* = She has lost; *She's tired* = She is tired.\n- In Indonesian we often use *sudah* or *telah*, but *sudah* does not always mean present perfect. Lihat konteksnya: apakah waktunya disebut? Apakah hasilnya penting sekarang?",
+        "examples": [
+          { "en": "My English has improved a lot.", "id": "Bahasa Inggris saya sudah meningkat pesat.", "note": "Change — perubahan dibandingkan dulu." },
+          { "en": "I've lost my phone. Can I use yours?", "id": "Saya kehilangan ponsel saya. Boleh saya pakai punyamu?", "note": "Result — ponselnya hilang sekarang." },
+          { "en": "Dimas has become a father.", "id": "Dimas sudah menjadi ayah.", "note": "become → become (V3 sama dengan V1)." },
+          { "en": "Has your town changed much?", "id": "Apakah kotamu banyak berubah?", "note": "Question: Has + subject + V3?" },
+          { "en": "We haven't bought a car.", "id": "Kami belum/tidak membeli mobil.", "note": "Negative: haven't + V3." }
+        ],
+        "vocabulary": [
+          { "word": "change", "pos": "verb", "ipa": "/tʃeɪndʒ/", "meaning": "berubah; mengubah", "example": "The city has changed a lot since I was a child." },
+          { "word": "improve", "pos": "verb", "ipa": "/ɪmˈpruːv/", "meaning": "meningkat; memperbaiki", "example": "Her cooking has really improved." },
+          { "word": "achieve", "pos": "verb", "ipa": "/əˈtʃiːv/", "meaning": "mencapai (tujuan, prestasi)", "example": "He has achieved a lot in his career." },
+          { "word": "grow up", "pos": "phrasal verb", "ipa": "/ɡrəʊ ˈʌp/", "meaning": "tumbuh dewasa", "example": "Your children have grown up so fast!" },
+          { "word": "lose weight", "pos": "phrase", "ipa": "/luːz ˈweɪt/", "meaning": "menurunkan berat badan", "example": "Mr. Hartono has lost weight this year." },
+          { "word": "experience", "pos": "noun", "ipa": "/ɪkˈspɪəriəns/", "meaning": "pengalaman", "example": "Living abroad was a great experience." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + have/has + past participle (V3)", "example": "She has started a new course.", "note": "has untuk he/she/it; have untuk I/you/we/they." },
+          { "pattern": "Subject + haven't/hasn't + V3", "example": "Raka hasn't changed at all.", "note": "Negatif memakai not setelah have/has." },
+          { "pattern": "Have/Has + subject + V3?", "example": "Have you ever lived abroad?", "note": "Jawaban singkat: Yes, I have. / No, I haven't." }
+        ],
+        "mistakes": [
+          { "wrong": "She has became a doctor.", "right": "She has become a doctor.", "why": "Past participle dari become adalah become, bukan became (V2)." },
+          { "wrong": "He have changed a lot.", "right": "He has changed a lot.", "why": "Subject he/she/it memakai has." },
+          { "wrong": "I have lose my wallet.", "right": "I have lost my wallet.", "why": "Setelah have/has selalu pakai V3, bukan V1." },
+          { "wrong": "My town is changed a lot.", "right": "My town has changed a lot.", "why": "Present perfect dibentuk dengan have/has, bukan is/are." }
+        ],
+        "summary": "Present perfect (**have/has + V3**) connects the past with now. Gunakan untuk **pengalaman**, **perubahan**, dan **hasil yang terasa sekarang**, terutama ketika waktu kejadiannya tidak disebut. Hafalkan past participle yang tidak beraturan seperti become, grown, lost, written.",
+        "reviewCards": [
+          { "front": "Present perfect form", "back": "have/has + past participle (V3): I've changed / She has changed" },
+          { "front": "become → became → ?", "back": "become (V3 sama dengan V1)" },
+          { "front": "I've lost my keys. (arti dan fungsi)", "back": "Saya kehilangan kunci — result: kuncinya tidak ada sekarang" },
+          { "front": "She's lost = ?", "back": "She has lost ('s = has sebelum V3; 's = is sebelum adjective/V-ing)" },
+          { "front": "Tiga pemakaian present perfect", "back": "Experience, change, result now" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u01-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "present perfect form",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Rina looks different today. She ___ her hair short.",
+          "options": ["has cut", "have cut", "has cutted", "is cutting"],
+          "answer": 0,
+          "explanation": "Subject *she* memakai **has**, dan V3 dari *cut* adalah *cut*. The result is visible now: her hair is short.",
+          "misconception": "Cut adalah irregular verb: cut – cut – cut. Tidak ada bentuk 'cutted'."
+        },
+        {
+          "id": "b1-u01-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "present perfect for changes",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the present perfect form of the verbs in brackets.",
+          "text": "Mr. Hartono looks much healthier. He ___ (stop) smoking, and he ___ (start) jogging in the park.",
+          "answers": [["has stopped", "'s stopped"], ["has started", "'s started"]],
+          "explanation": "Kedua perubahan ini menjelaskan keadaan Mr. Hartono sekarang, jadi kita pakai **has + V3**: *has stopped*, *has started*. Note the spelling: stop → stopped (double p)."
+        },
+        {
+          "id": "b1-u01-l1-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "irregular past participles",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each verb with its past participle (V3).",
+          "pairs": [
+            { "left": "write", "right": "written" },
+            { "left": "go", "right": "gone" },
+            { "left": "take", "right": "taken" },
+            { "left": "buy", "right": "bought" },
+            { "left": "grow", "right": "grown" }
+          ],
+          "explanation": "Irregular past participles harus dihafal: write → written, go → gone, take → taken, buy → bought, grow → grown. They are used in every present perfect sentence."
+        },
+        {
+          "id": "b1-u01-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "irregular past participles",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["My older brother", "has became", "a nurse", "at the city hospital."],
+          "errorIndex": 1,
+          "correction": "has become",
+          "explanation": "Setelah *has* kita butuh V3. The past participle of *become* is **become**, not *became* (V2)."
+        },
+        {
+          "id": "b1-u01-l1-q5",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "present perfect for experience",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Dimas", "has", "never", "lived", "in", "a", "big", "city"],
+          "explanation": "Pola: subject + has + never + V3. *Never* goes between *has* and the past participle: *Dimas has never lived in a big city.*"
+        },
+        {
+          "id": "b1-u01-l1-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "present perfect for changes",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kota kami telah banyak berubah.",
+          "direction": "id-en",
+          "answers": [
+            "Our town has changed a lot",
+            "Our city has changed a lot",
+            "Our town's changed a lot",
+            "Our city's changed a lot",
+            "Our town has changed so much",
+            "Our city has changed so much",
+            "Our town has changed very much",
+            "Our city has changed very much",
+            "Our town has changed a great deal",
+            "Our city has changed a great deal"
+          ],
+          "explanation": "*Telah berubah* menggambarkan perubahan sampai sekarang tanpa waktu spesifik → present perfect: **has changed**. *Kota* bisa diterjemahkan *town* atau *city*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u01-l2-perfect-vs-past",
+      "title": "Present Perfect vs Past Simple",
+      "summary": "Membedakan finished time (past simple) dan unfinished time (present perfect), serta pola percakapan Have you ever...? → When did you...?",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih past simple untuk waktu yang sudah selesai dan disebutkan",
+        "Memilih present perfect untuk waktu yang belum selesai atau tidak disebut",
+        "Mengikuti pola percakapan: pertanyaan pengalaman lalu pertanyaan detail dengan past simple"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Finished time vs unfinished time\nPerbedaan utama antara **past simple** dan **present perfect** adalah *waktu*. Past simple is for a finished time: the period is over, and we often say when it happened. Present perfect is for an unfinished period (today, this week, this year, in my life) or when the time is not mentioned at all.\n\n| Past simple (waktu selesai) | Present perfect (waktu belum selesai / tidak disebut) |\n|---|---|\n| yesterday, last week, in 2019, two days ago, when I was a child | today, this week, this year, ever, never, so far, recently |\n| *I visited Lombok in 2023.* | *I've visited Lombok three times.* |\n| *She wrote two emails yesterday.* | *She has written ten emails today.* |\n\n### Pola percakapan: ever → when/where\nDalam percakapan, kita sering mulai dengan present perfect untuk menanyakan pengalaman, lalu pindah ke past simple untuk detail. Once we know the experience happened, we ask about the specific time, place or details:\n- A: *Have you ever been to Port Selwyn?* (pengalaman, waktu tidak penting)\n- B: *Yes, I have. I went there last year.* (detail, waktu spesifik)\n- A: *What did you do there?* (detail → past simple)\n\n### Today, this morning, this year\nKata seperti *today* atau *this morning* bisa memakai kedua tense, tergantung apakah periodenya sudah selesai. At 10 a.m.: *I've had two coffees this morning* (pagi belum selesai). At 8 p.m.: *I had two coffees this morning* (pagi sudah lewat).\n\n### So far dan recently\n*So far* (sejauh ini, sampai sekarang) dan *recently* (baru-baru ini) are typical present perfect signals: *We've sold 200 tickets so far. Have you seen any good films recently?*\n\n### Kesalahan umum orang Indonesia\nKarena bahasa Indonesia memakai *sudah* untuk keduanya, learners often say *I have finished it yesterday*. This is wrong: *yesterday* is finished time, so use the **past simple**: *I finished it yesterday.* Juga, pertanyaan dengan **When...?** hampir selalu memakai past simple: *When did you arrive?* (bukan *When have you arrived?*), karena kita menanyakan titik waktu yang spesifik di masa lalu.",
+        "examples": [
+          { "en": "I've been to Lombok three times.", "id": "Saya sudah pernah ke Lombok tiga kali.", "note": "Pengalaman dalam hidup (unfinished time)." },
+          { "en": "I went to Lombok in 2023.", "id": "Saya pergi ke Lombok pada tahun 2023.", "note": "Waktu spesifik → past simple." },
+          { "en": "Have you seen Maya today? — Yes, I saw her at lunch.", "id": "Kamu sudah lihat Maya hari ini? — Ya, saya melihatnya saat makan siang.", "note": "Detail waktu (at lunch) → past simple." },
+          { "en": "We've sold 200 tickets so far.", "id": "Sejauh ini kami sudah menjual 200 tiket.", "note": "So far = sampai sekarang." },
+          { "en": "When did you start your new job?", "id": "Kapan kamu mulai pekerjaan barumu?", "note": "When...? → past simple." }
+        ],
+        "vocabulary": [
+          { "word": "recently", "pos": "adverb", "ipa": "/ˈriːsntli/", "meaning": "baru-baru ini", "example": "Have you read any good books recently?" },
+          { "word": "so far", "pos": "phrase", "ipa": "/ˌsəʊ ˈfɑː/", "meaning": "sejauh ini, sampai sekarang", "example": "So far, the new job has been great." },
+          { "word": "ago", "pos": "adverb", "ipa": "/əˈɡəʊ/", "meaning": "yang lalu", "example": "I met Raka two years ago." },
+          { "word": "once", "pos": "adverb", "ipa": "/wʌns/", "meaning": "sekali", "example": "I've flown only once." },
+          { "word": "twice", "pos": "adverb", "ipa": "/twaɪs/", "meaning": "dua kali", "example": "She has changed jobs twice this year." },
+          { "word": "abroad", "pos": "adverb", "ipa": "/əˈbrɔːd/", "meaning": "ke/di luar negeri", "example": "Have you ever worked abroad?" }
+        ],
+        "grammar": [
+          { "pattern": "Past simple + finished time (yesterday, last..., ago, in 2019)", "example": "We moved here in 2019.", "note": "Waktu selesai dan disebutkan." },
+          { "pattern": "Present perfect + unfinished/unstated time (today, this year, ever, so far)", "example": "We've moved house twice this year.", "note": "Periode belum selesai atau waktu tidak disebut." },
+          { "pattern": "Have you ever + V3? → When/Where did you + V1?", "example": "Have you ever won a prize? — Yes. — When did you win it?", "note": "Pertanyaan pengalaman lalu detail." }
+        ],
+        "mistakes": [
+          { "wrong": "I have finished the report yesterday.", "right": "I finished the report yesterday.", "why": "Yesterday adalah finished time → past simple." },
+          { "wrong": "When have you arrived?", "right": "When did you arrive?", "why": "When menanyakan waktu spesifik di masa lalu → past simple." },
+          { "wrong": "I've visited Lombok two years ago.", "right": "I visited Lombok two years ago.", "why": "Ago selalu dipakai dengan past simple." },
+          { "wrong": "Did you ever try durian? — Yes, I have tried it last week.", "right": "Have you ever tried durian? — Yes, I tried it last week.", "why": "Pertanyaan pengalaman memakai present perfect; detail dengan last week memakai past simple." }
+        ],
+        "summary": "Use the **past simple** for finished time (yesterday, last year, ago, in 2019) and the **present perfect** for unfinished or unstated time (today, this year, ever, so far). Dalam percakapan, mulai dengan *Have you ever...?* lalu tanyakan detail dengan *When/Where did you...?*",
+        "reviewCards": [
+          { "front": "yesterday / last week / ago / in 2019", "back": "Past simple (finished time)" },
+          { "front": "ever / never / so far / this year / today (belum selesai)", "back": "Present perfect (unfinished/unstated time)" },
+          { "front": "When ___ you arrive?", "back": "did — When...? memakai past simple" },
+          { "front": "so far", "back": "sejauh ini; sampai sekarang (present perfect)" },
+          { "front": "I've had two coffees this morning (jam 10 pagi) vs I had two coffees this morning (jam 8 malam)", "back": "Pagi belum selesai → present perfect; pagi sudah lewat → past simple" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u01-l2-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct verb forms.",
+          "text": "I ___ to Lombok three times in my life. The last time, I ___ there in 2023.",
+          "choices": [["have been", "have gone"], ["have gone", "went"]],
+          "answers": [0, 1],
+          "explanation": "Pengalaman dalam hidup → **have been** (been = pergi lalu sudah kembali). *In 2023* adalah finished time → past simple **went**.",
+          "misconception": "Have gone berarti orangnya masih di sana; untuk pengalaman pakai have been."
+        },
+        {
+          "id": "b1-u01-l2-q2",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "experience follow-up questions",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the best question to complete the conversation.",
+          "dialogue": [
+            { "speaker": "Ayu", "text": "Have you ever tried durian ice cream?" },
+            { "speaker": "Bima", "text": "Yes, I have. It was delicious!" },
+            { "speaker": "Ayu", "text": null },
+            { "speaker": "Bima", "text": "At a small café in Port Selwyn last summer." }
+          ],
+          "options": ["Where did you try it?", "Where have you tried it?", "Where do you try it?", "Where have you ever tried it?"],
+          "answer": 0,
+          "explanation": "Setelah pengalaman disebut, pertanyaan detail (where/when) memakai **past simple**. Bima's answer mentions a finished time (last summer), so *Where did you try it?* is correct."
+        },
+        {
+          "id": "b1-u01-l2-q3",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "I have sent the documents to the bank two days ago.",
+          "answers": ["I sent the documents to the bank two days ago."],
+          "explanation": "*Two days ago* adalah finished time, jadi kita pakai past simple: **sent**. Never use *ago* with the present perfect."
+        },
+        {
+          "id": "b1-u01-l2-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Nadia has started her new job last Monday.",
+            "Nadia started her new job last Monday.",
+            "Nadia has start her new job last Monday.",
+            "Nadia starts her new job last Monday."
+          ],
+          "answer": 1,
+          "explanation": "*Last Monday* = finished time → past simple **started**. Present perfect tidak boleh dipakai dengan last Monday."
+        },
+        {
+          "id": "b1-u01-l2-q5",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "unfinished vs finished time",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct verb forms into the gaps.",
+          "text": "I ___ three cups of coffee today, and it's only 10 a.m.! Yesterday I ___ only one.",
+          "bank": ["have had", "had", "was having", "have"],
+          "answers": ["have had", "had"],
+          "explanation": "*Today* belum selesai (it's only 10 a.m.) → **have had**. *Yesterday* sudah selesai → past simple **had**."
+        },
+        {
+          "id": "b1-u01-l2-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "time expressions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Which time expressions go with the past simple (finished time)? Choose all that apply.",
+          "options": ["yesterday", "in 2019", "ever", "last weekend", "so far", "two days ago"],
+          "answers": [0, 1, 3, 5],
+          "explanation": "*Yesterday, in 2019, last weekend, two days ago* menunjukkan waktu yang sudah selesai → past simple. *Ever* and *so far* refer to time up to now → present perfect."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u01-l3-for-since",
+      "title": "For, Since and How Long",
+      "summary": "Memakai present perfect dengan for dan since untuk situasi yang dimulai di masa lalu dan masih berlanjut sekarang.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan for (durasi) dan since (titik awal)",
+        "Bertanya dan menjawab How long have you...?",
+        "Membedakan I lived here for... dan I have lived here for..."
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### For dan since\nPresent perfect + **for/since** menjelaskan sesuatu yang dimulai di masa lalu dan **masih berlanjut sampai sekarang**. Bahasa Indonesia biasanya memakai *sudah ... selama* atau *sejak*. Notice the big difference: in English we do NOT use the present simple here. *I live here since 2019* is wrong; say *I have lived here since 2019*.\n\n| for + durasi (period) | since + titik awal (starting point) |\n|---|---|\n| for ten minutes | since 9 o'clock |\n| for three years | since 2021 |\n| for a long time / for ages | since last summer |\n| for two weeks | since Monday |\n| for a decade | since I was a child |\n\nTip: jika jawabannya \"berapa lama?\" → **for**. Jika jawabannya \"mulai kapan?\" → **since**. *Since* can also be followed by a clause in the past simple: *since I moved to Medan*, *since we met*.\n\n### How long...?\nUntuk menanyakan durasi, pakai **How long + have/has + subject + V3?**\n- *How long have you known Raka?* — *For about five years.* / *Since we were at university.*\n- *How long has your sister had her motorbike?* — *Since 2022.*\n\nJawaban singkat cukup dengan *For...* atau *Since...*.\n\n### Verbs with for/since\nState verbs like *know, have, be, like* use the present perfect: *We've known each other for years. I've had this phone since January. She's been a teacher for a decade.* Untuk aktivitas seperti *live, work, study*, present perfect juga benar: *He has worked here for six months.*\n\n### Bandingkan dengan past simple + for\n- *I lived in Bandung for five years.* → sudah tidak tinggal di sana (finished).\n- *I have lived in Bandung for five years.* → masih tinggal di sana sekarang.\n\n### Ago vs for\n*Ago* is different: it goes with the past simple and counts back from now. *I moved here three years ago* memberi informasi yang sama dengan *I have lived here for three years*, tetapi tense-nya berbeda. Never say *since three years* — use **for three years** or **three years ago**.",
+        "examples": [
+          { "en": "I've lived in Port Selwyn since 2018.", "id": "Saya sudah tinggal di Port Selwyn sejak 2018.", "note": "since + tahun (titik awal)." },
+          { "en": "We've known each other for ages.", "id": "Kami sudah saling kenal sejak lama sekali.", "note": "for ages = sudah lama sekali." },
+          { "en": "How long have you had this car? — For six months.", "id": "Sudah berapa lama kamu punya mobil ini? — Enam bulan.", "note": "How long + present perfect." },
+          { "en": "She's been a nurse since she left college.", "id": "Dia sudah menjadi perawat sejak lulus dari kampus.", "note": "since + clause (past simple)." },
+          { "en": "I lived in Bandung for five years, but now I live in Medan.", "id": "Saya tinggal di Bandung selama lima tahun, tetapi sekarang tinggal di Medan.", "note": "Past simple: situasi sudah selesai." }
+        ],
+        "vocabulary": [
+          { "word": "since", "pos": "preposition/conjunction", "ipa": "/sɪns/", "meaning": "sejak", "example": "I've worked here since March." },
+          { "word": "for ages", "pos": "phrase", "ipa": "/fər ˈeɪdʒɪz/", "meaning": "sudah lama sekali", "example": "I haven't seen you for ages!" },
+          { "word": "decade", "pos": "noun", "ipa": "/ˈdekeɪd/", "meaning": "dekade, sepuluh tahun", "example": "They have lived in this house for a decade." },
+          { "word": "colleague", "pos": "noun", "ipa": "/ˈkɒliːɡ/", "meaning": "rekan kerja", "example": "I've known my colleague Sinta since 2020." },
+          { "word": "neighbour", "pos": "noun", "ipa": "/ˈneɪbə/", "meaning": "tetangga", "example": "Our neighbours have lived here for twenty years." },
+          { "word": "own", "pos": "verb", "ipa": "/əʊn/", "meaning": "memiliki", "example": "My uncle has owned this shop since 1998." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + have/has + V3 + for + period", "example": "I've had this laptop for three years.", "note": "for + durasi: two days, a month, ages." },
+          { "pattern": "Subject + have/has + V3 + since + point in time", "example": "She has worked here since 2021.", "note": "since + titik awal: Monday, 2021, I was ten." },
+          { "pattern": "How long + have/has + subject + V3?", "example": "How long have you studied English?", "note": "Jawab dengan For... atau Since..." }
+        ],
+        "mistakes": [
+          { "wrong": "I live here since 2019.", "right": "I have lived here since 2019.", "why": "Situasi dari masa lalu sampai sekarang memakai present perfect, bukan present simple." },
+          { "wrong": "I have worked here since three years.", "right": "I have worked here for three years.", "why": "Three years adalah durasi → for." },
+          { "wrong": "How long do you know Rina?", "right": "How long have you known Rina?", "why": "How long untuk durasi sampai sekarang → present perfect." },
+          { "wrong": "I've lived here for 2015.", "right": "I've lived here since 2015.", "why": "2015 adalah titik awal → since." }
+        ],
+        "summary": "Use **for** + a period (for three years) and **since** + a starting point (since 2019, since I was a child) with the present perfect. Tanyakan durasi dengan *How long have/has...?* Jangan memakai present simple untuk situasi yang berlangsung dari masa lalu sampai sekarang.",
+        "reviewCards": [
+          { "front": "for vs since", "back": "for + durasi (for two years); since + titik awal (since 2022)" },
+          { "front": "Saya sudah tinggal di sini sejak 2019.", "back": "I have lived here since 2019." },
+          { "front": "How long ___ you known her?", "back": "have — How long + present perfect" },
+          { "front": "I lived in Bandung for 5 years vs I have lived in Bandung for 5 years", "back": "Pertama: sudah tidak tinggal di sana. Kedua: masih tinggal di sana." },
+          { "front": "for ages", "back": "sudah lama sekali" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u01-l3-q1",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "for and since",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Which expressions can follow 'since'? Choose all that apply.",
+          "options": ["2018", "three weeks", "last Christmas", "I was a child", "a long time", "Monday"],
+          "answers": [0, 2, 3, 5],
+          "explanation": "**Since** diikuti titik awal: *2018, last Christmas, I was a child, Monday*. *Three weeks* and *a long time* are periods, so they need **for**.",
+          "misconception": "Since tidak dipakai dengan durasi seperti three weeks."
+        },
+        {
+          "id": "b1-u01-l3-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "for and since",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence so that it has the same meaning.",
+          "sentence": "Maya started working at the hospital in 2020, and she still works there.",
+          "cue": "Use since. Begin with: Maya has ...",
+          "answers": [
+            "Maya has worked at the hospital since 2020",
+            "Maya has been working at the hospital since 2020",
+            "Maya has worked there since 2020",
+            "Maya has been working there since 2020"
+          ],
+          "explanation": "Situasi dimulai tahun 2020 dan masih berlanjut → present perfect + since: **Maya has worked at the hospital since 2020.** The year is a starting point, so we use *since*."
+        },
+        {
+          "id": "b1-u01-l3-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "for and since",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence. Use the present perfect of the verb in brackets and 'for' or 'since'.",
+          "text": "Dina and I are best friends. We ___ (know) each other ___ primary school.",
+          "answers": [["have known", "'ve known"], ["since"]],
+          "explanation": "*Know* adalah state verb, dan situasinya masih berlanjut → **have known**. *Primary school* menunjukkan titik awal → **since**."
+        },
+        {
+          "id": "b1-u01-l3-q4",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "how long questions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write the missing word (one word): \"How ___ have you lived in this city?\" — \"Since 2017.\"",
+          "answers": ["long"],
+          "explanation": "Pertanyaan durasi memakai **How long**: *How long have you lived in this city?*"
+        },
+        {
+          "id": "b1-u01-l3-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "for and since",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose 'for' or 'since'.",
+          "text": "Kevin has had his motorbike ___ five years, but his sister has had hers only ___ March.",
+          "choices": [["for", "since"], ["for", "since"]],
+          "answers": [0, 1],
+          "explanation": "*Five years* = durasi → **for**. *March* = titik awal → **since**."
+        },
+        {
+          "id": "b1-u01-l3-q6",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "for and since",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["My parents", "have lived", "in Port Selwyn", "since six years."],
+          "errorIndex": 3,
+          "correction": "for six years.",
+          "explanation": "*Six years* adalah durasi, jadi harus **for six years**. *Since* hanya untuk titik awal (since 2019)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u01-l4-just-already-yet",
+      "title": "Just, Already and Yet",
+      "summary": "Memakai just, already, dan yet dengan present perfect untuk kabar terbaru, hal yang sudah selesai, dan hal yang belum terjadi.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memahami arti just, already, dan yet",
+        "Menempatkan just, already, dan yet pada posisi yang benar dalam kalimat",
+        "Menjawab pertanyaan dengan Not yet dan memakai still haven't"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tiga adverb penting\n**Just**, **already**, dan **yet** sering muncul bersama present perfect untuk membicarakan berita terbaru dan hal-hal yang kita harapkan terjadi.\n\n| Adverb | Arti | Jenis kalimat | Posisi |\n|---|---|---|---|\n| just | baru saja | positive | antara *have/has* dan V3 |\n| already | sudah (lebih cepat dari dugaan) | positive, juga question | antara *have/has* dan V3, atau di akhir |\n| yet | sudah...? / belum | negative & question | di akhir kalimat |\n\n### Just = a very short time ago\n*I've just finished my report.* (Saya baru saja menyelesaikan laporan.) *The bus has just left — we missed it!* Use **just** for very recent news.\n\n### Already = sooner than expected / done\n*Have you already eaten? It's only 11 o'clock!* *Don't worry, I've already booked the tickets.* **Already** shows that something happened earlier than expected, or that it is done and doesn't need to be done again. Posisi: *I've already paid* atau *I've paid already*.\n\n### Yet = up to now (negatives and questions)\n- Question: *Have you finished your homework yet?* (Sudah selesai belum?)\n- Negative: *I haven't finished it yet.* (Saya belum menyelesaikannya.)\n\n**Yet** biasanya di **akhir** kalimat. Kita memakai *yet* ketika kita mengharapkan sesuatu akan terjadi.\n\n### Not yet vs still\nJawaban singkat: *Not yet.* (Belum.) **Still** + negative menekankan bahwa kita sudah menunggu lama: *I still haven't heard from Maya* (sampai sekarang pun belum ada kabar, dan saya mulai khawatir). Note the position: *still* comes **before** *haven't/hasn't*.\n\n### Catatan untuk penutur bahasa Indonesia\n*Sudah* bisa berarti *already* atau tidak perlu diterjemahkan: *Sudah makan?* → *Have you eaten (yet)?* *Belum.* → *Not yet.* Remember: don't use *yet* in positive sentences (*I have finished yet* ✗), and don't use *already* in negative sentences to mean *belum* (*I haven't paid already* ✗ → *I haven't paid yet* ✓).",
+        "examples": [
+          { "en": "I've just finished my report.", "id": "Saya baru saja menyelesaikan laporan saya.", "note": "just = baru saja." },
+          { "en": "Don't worry, I've already booked the tickets.", "id": "Jangan khawatir, saya sudah memesan tiketnya.", "note": "already = sudah (tidak perlu dilakukan lagi)." },
+          { "en": "Have you packed your bags yet?", "id": "Kamu sudah mengemas tasmu belum?", "note": "yet di akhir pertanyaan." },
+          { "en": "The new manager hasn't arrived yet.", "id": "Manajer baru belum datang.", "note": "yet di akhir kalimat negatif." },
+          { "en": "I still haven't paid the electricity bill.", "id": "Saya masih belum membayar tagihan listrik.", "note": "still sebelum haven't." }
+        ],
+        "vocabulary": [
+          { "word": "just", "pos": "adverb", "ipa": "/dʒʌst/", "meaning": "baru saja", "example": "We've just moved into a new flat." },
+          { "word": "already", "pos": "adverb", "ipa": "/ɔːlˈredi/", "meaning": "sudah (lebih cepat dari dugaan)", "example": "She's already found a new job." },
+          { "word": "yet", "pos": "adverb", "ipa": "/jet/", "meaning": "sudah...? (pertanyaan); belum (negatif)", "example": "Has the parcel arrived yet?" },
+          { "word": "still", "pos": "adverb", "ipa": "/stɪl/", "meaning": "masih", "example": "I still haven't decided." },
+          { "word": "pack", "pos": "verb", "ipa": "/pæk/", "meaning": "mengemas barang", "example": "Have you packed your suitcase yet?" },
+          { "word": "book", "pos": "verb", "ipa": "/bʊk/", "meaning": "memesan (tiket, kamar)", "example": "I've already booked a hotel room." }
+        ],
+        "grammar": [
+          { "pattern": "have/has + just/already + V3", "example": "The film has just started.", "note": "just/already di antara have/has dan V3." },
+          { "pattern": "haven't/hasn't + V3 + ... + yet", "example": "I haven't called him yet.", "note": "yet di akhir kalimat negatif." },
+          { "pattern": "Have/Has + subject + V3 + ... + yet?", "example": "Has Dimas replied yet?", "note": "yet di akhir pertanyaan." }
+        ],
+        "mistakes": [
+          { "wrong": "I have finished yet my homework.", "right": "I have already finished my homework.", "why": "Yet tidak dipakai di kalimat positif; gunakan already." },
+          { "wrong": "I haven't paid the bill already.", "right": "I haven't paid the bill yet.", "why": "Untuk arti 'belum' gunakan yet di akhir kalimat negatif." },
+          { "wrong": "She has finished just the project.", "right": "She has just finished the project.", "why": "Just diletakkan di antara has dan V3." },
+          { "wrong": "I haven't still called her.", "right": "I still haven't called her.", "why": "Still diletakkan sebelum haven't/hasn't." }
+        ],
+        "summary": "**Just** = baru saja, **already** = sudah (sooner than expected), **yet** = sudah? / belum in questions and negatives. Just and already go between *have/has* and the past participle; yet usually goes at the end. Jawaban singkat untuk 'belum' adalah *Not yet*.",
+        "reviewCards": [
+          { "front": "just", "back": "baru saja — I've just arrived." },
+          { "front": "already", "back": "sudah (lebih cepat dari dugaan) — She's already left." },
+          { "front": "yet (question / negative)", "back": "Have you eaten yet? (sudah belum?) / I haven't eaten yet. (belum)" },
+          { "front": "Posisi still dalam kalimat negatif", "back": "Sebelum haven't/hasn't: I still haven't finished." },
+          { "front": "Belum. (jawaban singkat)", "back": "Not yet." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u01-l4-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "yet in negatives",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Complete the sentence with just, already or yet.",
+          "text": "I can't come to the cinema tonight. I haven't finished my homework ___.",
+          "answers": [["yet"]],
+          "explanation": "Kalimat negatif dengan arti 'belum' → **yet** di akhir kalimat. *Already* and *just* are used in positive sentences.",
+          "misconception": "Already tidak dipakai untuk arti 'belum'."
+        },
+        {
+          "id": "b1-u01-l4-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "yet in questions",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Have", "you", "sent", "the", "email", "to", "Mr.", "Hartono", "yet"],
+          "explanation": "Pola pertanyaan: Have + subject + V3 + object + **yet**? *Yet* goes at the end: *Have you sent the email to Mr. Hartono yet?*"
+        },
+        {
+          "id": "b1-u01-l4-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "just, already and yet",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "You are moving to a new flat next week. Your friend asks: \"Are you ready for the move?\" Answer in 3–5 sentences. Say what you have already done, what you have just done, and what you haven't done yet.",
+          "targetPhrases": ["I've already", "I've just", "I haven't ... yet", "I still haven't"],
+          "sampleAnswer": "Almost! I've already packed my books and clothes. I've just booked a van for Saturday. But I haven't told my landlord yet, and I still haven't found a new desk.",
+          "explanation": "Gunakan **already** dan **just** di kalimat positif (antara have dan V3), dan **yet** di akhir kalimat negatif. Try to sound natural with contractions: *I've, I haven't*."
+        },
+        {
+          "id": "b1-u01-l4-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "just",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "A: Is Lina still at the office? B: No, she ___ left. You missed her by two minutes.",
+          "options": ["has just", "has yet", "just has", "hasn't yet"],
+          "answer": 0,
+          "explanation": "'Two minutes' ago = very recent → **has just** left. *Just* goes between *has* and the past participle; *yet* is not used in positive sentences."
+        },
+        {
+          "id": "b1-u01-l4-q5",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "already",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence using the word given.",
+          "sentence": "The guests have arrived.",
+          "cue": "Add: already",
+          "answers": ["The guests have already arrived", "The guests have arrived already", "The guests've already arrived"],
+          "explanation": "*Already* biasanya diletakkan di antara *have* dan V3 (**have already arrived**), atau di akhir kalimat."
+        },
+        {
+          "id": "b1-u01-l4-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "yet in negatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Translate into Indonesian.",
+          "source": "I haven't paid the bill yet.",
+          "direction": "en-id",
+          "answers": [
+            "Saya belum membayar tagihannya",
+            "Saya belum membayar tagihan",
+            "Saya belum membayar tagihan itu",
+            "Saya belum bayar tagihannya",
+            "Saya belum bayar tagihan",
+            "Aku belum membayar tagihannya",
+            "Aku belum membayar tagihan",
+            "Aku belum membayar tagihan itu",
+            "Aku belum bayar tagihannya",
+            "Aku belum bayar tagihan"
+          ],
+          "explanation": "*Haven't ... yet* = **belum**. *The bill* = tagihan(nya)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u01-l5-recent-news",
+      "title": "Recent News and Achievements",
+      "summary": "Bertukar kabar tentang perubahan hidup dan prestasi: headline dengan present perfect, detail dengan past simple.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata perubahan hidup (graduate, get promoted, move house, settle down, retire)",
+        "Menyampaikan kabar dengan present perfect lalu detail dengan past simple",
+        "Merespons kabar baik dan buruk dengan ungkapan yang tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi, selesaikan latihan menulis, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Talking about life changes\nKetika bertemu teman lama, kita sering bertukar kabar. Typical questions are *What's new? How are things? I haven't seen you for ages!* We usually answer with the **present perfect** for the news \"headline\", then switch to the **past simple** for the details.\n\n### Headline → details\n| Headline (present perfect) | Details (past simple) |\n|---|---|\n| *I've got a new job!* | *I started last month. I had three interviews.* |\n| *Sinta has moved house.* | *She moved to Port Selwyn in March.* |\n| *We've got engaged!* | *Bayu proposed on the beach last Saturday.* |\n\nPola ini sama seperti berita di TV atau media sosial: kalimat pertama memberi kabar (present perfect), kalimat berikutnya menjelaskan kapan, di mana, dan bagaimana (past simple).\n\n### Life-change vocabulary\n- **graduate (from)** — lulus dari universitas/sekolah: *She graduated from university in June.*\n- **get promoted** — naik jabatan: *He's just got promoted to manager.*\n- **move house** — pindah rumah\n- **settle down** — hidup menetap dan tenang, biasanya menikah dan punya rumah sendiri\n- **get engaged / get married** — bertunangan / menikah\n- **retire** — pensiun\n- **start a business** — memulai usaha\n- **pass an exam / a driving test** — lulus ujian\n\n### Reacting to news\nUntuk merespons kabar, pakai ungkapan yang sesuai: *Congratulations!* (good news, especially weddings, babies, new jobs), *That's great news!*, *Well done!* (for an achievement like passing an exam), *Oh no, I'm sorry to hear that.* (bad news). Then ask a follow-up question in the past simple: *When did it happen? How did you feel?*\n\n### Achievements\nKata **achievement** (prestasi) dan verb **achieve** sering dipakai dengan present perfect karena hidup kita belum selesai: *What is your biggest achievement? — I've run a marathon.* You can also use *so far*: *I've visited five countries so far.* Tetapi jika kamu menyebut waktu, kembali ke past simple: *I ran my first marathon in 2022.*",
+        "examples": [
+          { "en": "Guess what? I've got a new job! I started last Monday.", "id": "Coba tebak? Aku dapat pekerjaan baru! Aku mulai Senin lalu.", "note": "Headline (present perfect) → detail (past simple)." },
+          { "en": "My cousin graduated from university in June.", "id": "Sepupuku lulus dari universitas bulan Juni.", "note": "graduate from + institusi." },
+          { "en": "Tari and Bayu have got engaged!", "id": "Tari dan Bayu sudah bertunangan!", "note": "get engaged = bertunangan." },
+          { "en": "My grandfather retired after forty years as a driver.", "id": "Kakek saya pensiun setelah empat puluh tahun menjadi sopir.", "note": "retire = pensiun." },
+          { "en": "Oh no, I'm sorry to hear that. When did it happen?", "id": "Aduh, saya turut prihatin. Kapan itu terjadi?", "note": "Respons untuk kabar buruk + pertanyaan detail." }
+        ],
+        "vocabulary": [
+          { "word": "graduate", "pos": "verb", "ipa": "/ˈɡrædʒueɪt/", "meaning": "lulus (dari universitas/sekolah)", "example": "Rina has just graduated from Westbrook University." },
+          { "word": "get promoted", "pos": "phrase", "ipa": "/ɡet prəˈməʊtɪd/", "meaning": "naik jabatan", "example": "Andi has got promoted to team leader." },
+          { "word": "move house", "pos": "phrase", "ipa": "/ˌmuːv ˈhaʊs/", "meaning": "pindah rumah", "example": "We've moved house three times." },
+          { "word": "settle down", "pos": "phrasal verb", "ipa": "/ˌsetl ˈdaʊn/", "meaning": "hidup menetap; berkeluarga", "example": "After years of travelling, he has finally settled down." },
+          { "word": "get engaged", "pos": "phrase", "ipa": "/ɡet ɪnˈɡeɪdʒd/", "meaning": "bertunangan", "example": "They got engaged last month." },
+          { "word": "retire", "pos": "verb", "ipa": "/rɪˈtaɪə/", "meaning": "pensiun", "example": "Mrs. Wulan retired last year." },
+          { "word": "achievement", "pos": "noun", "ipa": "/əˈtʃiːvmənt/", "meaning": "prestasi; pencapaian", "example": "Passing the exam was a big achievement for me." }
+        ],
+        "grammar": [
+          { "pattern": "News headline: present perfect", "example": "I've passed my driving test!", "note": "Kabar baru tanpa waktu spesifik." },
+          { "pattern": "Details: past simple + time/place", "example": "I took it yesterday in Port Selwyn.", "note": "Detail dengan waktu/tempat spesifik." },
+          { "pattern": "Reaction + follow-up question (past simple)", "example": "Congratulations! When did you hear the news?", "note": "Tunjukkan minat dengan pertanyaan lanjutan." }
+        ],
+        "mistakes": [
+          { "wrong": "I've graduated university last year.", "right": "I graduated from university last year.", "why": "Last year → past simple; gunakan graduate from." },
+          { "wrong": "He has promoted to manager.", "right": "He has got promoted to manager.", "why": "Untuk arti 'naik jabatan' gunakan get promoted." },
+          { "wrong": "We moved home last month to a new house.", "right": "We moved house last month.", "why": "Ungkapan yang umum adalah move house (pindah rumah)." },
+          { "wrong": "Congratulation!", "right": "Congratulations!", "why": "Ucapan selamat selalu memakai -s." }
+        ],
+        "summary": "Share news with the **present perfect** (*I've got a new job!*) and give details with the **past simple** (*I started last week*). Pelajari kosakata perubahan hidup seperti graduate, get promoted, move house, settle down, get engaged, dan retire, lalu respons kabar dengan *Congratulations!* atau *I'm sorry to hear that.*",
+        "reviewCards": [
+          { "front": "get promoted", "back": "naik jabatan" },
+          { "front": "settle down", "back": "hidup menetap; berkeluarga" },
+          { "front": "retire", "back": "pensiun" },
+          { "front": "Headline vs details", "back": "Headline: present perfect (I've moved!) → Details: past simple (I moved in May)" },
+          { "front": "Respons untuk kabar buruk", "back": "Oh no, I'm sorry to hear that." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u01-l5-q1",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "life changes",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Match each expression with its Indonesian meaning.",
+          "pairs": [
+            { "left": "get promoted", "right": "naik jabatan" },
+            { "left": "move house", "right": "pindah rumah" },
+            { "left": "settle down", "right": "hidup menetap dan berkeluarga" },
+            { "left": "graduate", "right": "lulus dari universitas" },
+            { "left": "retire", "right": "pensiun" }
+          ],
+          "explanation": "Kosakata perubahan hidup: *get promoted* = naik jabatan, *move house* = pindah rumah, *settle down* = hidup menetap, *graduate* = lulus, *retire* = pensiun."
+        },
+        {
+          "id": "b1-u01-l5-q2",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "life changes",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Mrs. Wulan worked as a teacher for 35 years. Last month she ___, and now she has a lot of free time.",
+          "options": ["retired", "graduated", "got promoted", "applied"],
+          "answer": 0,
+          "explanation": "Berhenti bekerja setelah 35 tahun dan sekarang punya banyak waktu luang → **retired** (pensiun). *Graduated* is for finishing university."
+        },
+        {
+          "id": "b1-u01-l5-q3",
+          "type": "essay",
+          "category": "writing",
+          "topic": "recent news",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Write a short message to a friend you haven't seen for a long time. Tell them about two or three changes in your life. Give the news with the present perfect and the details with the past simple.",
+          "instructions": "Tulis 60–110 kata. Gunakan minimal satu dari: just, already, yet, for, since.",
+          "minWords": 60,
+          "maxWords": 110,
+          "rubric": "general-writing",
+          "explanation": "Contoh: *Hi Dimas! I haven't seen you for ages. A lot has changed! I've moved house — I moved to Port Selwyn in March. I've also got a new job at a travel agency. I started two weeks ago and I've already made some good friends there...* Use the present perfect for headlines and the past simple for details."
+        },
+        {
+          "id": "b1-u01-l5-q4",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "news and details",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make a message.",
+          "fragments": ["Guess what?", "Andi has just got promoted,", "and he moved", "to a bigger office", "on Monday."],
+          "explanation": "Headline dengan present perfect (*has just got promoted*), lalu detail dengan past simple + waktu (*moved ... on Monday*)."
+        },
+        {
+          "id": "b1-u01-l5-q5",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "life changes",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Tari and Bayu ___ last month! They're getting married next June.",
+          "options": ["got engaged", "got divorced", "retired", "graduated"],
+          "answer": 0,
+          "explanation": "Mereka akan menikah bulan Juni → bulan lalu mereka **got engaged** (bertunangan)."
+        },
+        {
+          "id": "b1-u01-l5-q6",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "sharing news",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best line to complete the conversation.",
+          "dialogue": [
+            { "speaker": "Fajar", "text": "Hi Sinta! I haven't seen you for ages. What's new?" },
+            { "speaker": "Sinta", "text": null },
+            { "speaker": "Fajar", "text": "Congratulations! When did you finish?" },
+            { "speaker": "Sinta", "text": "Last week. The ceremony was on Saturday." }
+          ],
+          "options": [
+            "I've just graduated from university!",
+            "I graduate from university next year.",
+            "I've been to the university.",
+            "I'm graduating yesterday."
+          ],
+          "answer": 0,
+          "explanation": "Kabar baru (headline) memakai present perfect: **I've just graduated**. Fajar's reply (*Congratulations! When did you finish?*) shows the event is already finished."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u01-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present perfect vs past simple",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "When ___ your first job?",
+      "options": ["did you get", "have you got", "have you gotten", "do you got"],
+      "answer": 0,
+      "explanation": "Pertanyaan **When...?** menanyakan waktu spesifik di masa lalu → past simple: *When did you get your first job?*"
+    },
+    {
+      "id": "b1-u01-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "present perfect vs past simple",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct form of the verbs in brackets.",
+      "text": "Lestari ___ (work) as a journalist for eight years, and she still loves her job. She ___ (write) her first article in 2017.",
+      "answers": [["has worked", "has been working", "'s worked"], ["wrote"]],
+      "explanation": "Masih bekerja sampai sekarang + for eight years → **has worked**. *In 2017* adalah finished time → past simple **wrote**."
+    },
+    {
+      "id": "b1-u01-t-q3",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "past participles",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Correct the mistake in the question.",
+      "sentence": "Have you ever went abroad?",
+      "answers": ["Have you ever been abroad?", "Have you ever gone abroad?", "Have you ever travelled abroad?", "Have you ever traveled abroad?"],
+      "explanation": "Setelah *have* kita butuh V3. *Went* adalah V2; V3 yang tepat adalah **been** (pengalaman) — *Have you ever been abroad?*"
+    },
+    {
+      "id": "b1-u01-t-q4",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "for and since",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Saya sudah tinggal di Medan sejak tahun 2019.",
+      "direction": "id-en",
+      "answers": [
+        "I have lived in Medan since 2019",
+        "I've lived in Medan since 2019",
+        "I have been living in Medan since 2019",
+        "I've been living in Medan since 2019"
+      ],
+      "explanation": "Situasi dari 2019 sampai sekarang → present perfect + **since**: *I have lived in Medan since 2019.* Jangan pakai *I live in Medan since 2019*."
+    },
+    {
+      "id": "b1-u01-t-q5",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "just, already and yet",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "A: Has the parcel arrived? B: No, not ___. But the courier has ___ called — he'll be here in ten minutes.",
+      "choices": [["yet", "already", "since"], ["just", "yet", "for"]],
+      "answers": [0, 0],
+      "explanation": "*Not yet* = belum. *Has just called* = baru saja menelepon. *Yet* tidak dipakai di kalimat positif, dan *for* tidak cocok di sini."
+    },
+    {
+      "id": "b1-u01-t-q6",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "present perfect vs past simple",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Which sentences are correct? Choose all that apply.",
+      "options": [
+        "I've known Raka since we were twelve.",
+        "She has moved house last year.",
+        "Have you finished your project yet?",
+        "They've lived here for 2010.",
+        "We got married five years ago."
+      ],
+      "answers": [0, 2, 4],
+      "explanation": "Benar: *since we were twelve* (titik awal), *yet* di akhir pertanyaan, dan *five years ago* + past simple. Salah: *has moved ... last year* (harus *moved*), *for 2010* (harus *since 2010*)."
+    },
+    {
+      "id": "b1-u01-t-q7",
+      "type": "sentence_reconstruction",
+      "category": "grammar",
+      "topic": "present perfect vs past simple",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Put the parts in the correct order.",
+      "fragments": ["Since I left school,", "I have had four different jobs,", "but I only started", "this one", "last month."],
+      "explanation": "*Since I left school* + present perfect (*have had*) untuk periode sampai sekarang; *last month* + past simple (*started*) untuk waktu spesifik."
+    },
+    {
+      "id": "b1-u01-t-q8",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "how long questions",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the question.",
+      "segments": ["How long", "do you know", "your best friend", "Kevin?"],
+      "errorIndex": 1,
+      "correction": "have you known",
+      "explanation": "Durasi sampai sekarang memakai present perfect: **How long have you known** your best friend Kevin? Present simple is wrong here."
+    }
+  ]
+}

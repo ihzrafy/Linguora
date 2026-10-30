@@ -1,0 +1,698 @@
+{
+  "slug": "b2-u03-third-mixed",
+  "number": 3,
+  "title": "Regrets and Alternatives",
+  "description": "Speculate about the past and its consequences using the third conditional, mixed conditionals and conditional expressions without if (unless, provided that, as long as, supposing, otherwise). Vocabulary: decisions, turning points and luck.",
+  "objectives": [
+    "Use the third conditional to talk about imaginary past situations",
+    "Use mixed conditionals to link past and present",
+    "Express conditions with unless, provided that, as long as, supposing and otherwise",
+    "Talk about decisions, turning points and luck with natural vocabulary"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u03-l1-third-conditional",
+      "title": "Third Conditional: Imagining a Different Past",
+      "summary": "Menggunakan third conditional untuk membayangkan masa lalu yang berbeda dan akibatnya.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form the third conditional (if + past perfect, would have + past participle)",
+        "Use could have and might have in the result clause",
+        "Understand contracted forms such as If I'd known, I'd have..."
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Meaning\nThe third conditional describes an **imaginary past**: something that did *not* happen, and its imaginary result. Because the past cannot change, these sentences often express **regret**, **relief** or **criticism**.\n- *If we **had left** earlier, we **wouldn't have missed** the train.* (Reality: we left late and missed it.)\n\n### Form\n| If-clause | Result clause |\n| --- | --- |\n| if + **past perfect** (had + past participle) | **would have** + past participle |\n| If I **had known** about the party, | I **would have come**. |\n| If she **hadn't helped** me, | I **would have failed**. |\n\nThe clauses can change places. Use a comma only when the if-clause comes first: *I would have come if I had known.*\n\n### Other modals in the result clause\n| Modal | Meaning | Example |\n| --- | --- | --- |\n| would have | certain result | *We would have won.* |\n| could have | possible / able | *We could have won* (it was possible). |\n| might have | perhaps | *We might have won* (maybe). |\n\n### Contractions — be careful with 'd\nIn speech, both *had* and *would* become **'d**:\n- *If I**'d** (had) known, I**'d** (would) have come.*\n\nTip: after *if*, 'd = **had**; before *have*, 'd = **would**.\n\n### Questions and negatives\n- *What **would** you **have done** if you **had lost** your passport?*\n- *If he **hadn't been** so tired, he **wouldn't have made** that mistake.*\n\n### Common errors\n- ✗ *If I would have known...* → never use *would have* in the if-clause.\n- ✗ *If I knew yesterday, I would come.* → for the past, use the past perfect and *would have*.\n\n> **Catatan:** Dalam bahasa Indonesia kita memakai *seandainya/kalau saja ... (dulu)*, dan kata kerja tidak berubah. Dalam bahasa Inggris, situasi masa lalu yang tidak nyata **harus** memakai **had + V3** di klausa if dan **would have + V3** di klausa hasil. Contoh: *Seandainya saya tahu, saya pasti datang* → *If I had known, I would have come.*",
+        "examples": [
+          { "en": "If we had left earlier, we wouldn't have missed the train.", "id": "Seandainya kami berangkat lebih awal, kami tidak akan ketinggalan kereta.", "note": "Regret." },
+          { "en": "If you hadn't warned me, I might have signed that contract.", "id": "Kalau kamu tidak memperingatkan saya, mungkin saya sudah menandatangani kontrak itu.", "note": "Relief; might have = perhaps." },
+          { "en": "She could have become a professional singer if she had kept practising.", "id": "Dia bisa saja menjadi penyanyi profesional seandainya dia terus berlatih.", "note": "Result clause first; no comma." },
+          { "en": "What would you have done if the bank had refused your loan?", "id": "Apa yang akan kamu lakukan seandainya bank menolak pinjamanmu?", "note": "Question form." }
+        ],
+        "vocabulary": [
+          { "word": "regret", "pos": "verb / noun", "ipa": "/rɪˈɡret/", "meaning": "menyesal; penyesalan", "example": "I regret not studying harder." },
+          { "word": "relief", "pos": "noun", "ipa": "/rɪˈliːf/", "meaning": "kelegaan", "example": "It was a relief that nobody was hurt." },
+          { "word": "warn", "pos": "verb", "ipa": "/wɔːn/", "meaning": "memperingatkan", "example": "If you had warned me, I would have stayed at home." },
+          { "word": "make a mistake", "pos": "phrase", "ipa": "/ˌmeɪk ə mɪˈsteɪk/", "meaning": "melakukan kesalahan", "example": "I wouldn't have made that mistake if I had checked." },
+          { "word": "miss", "pos": "verb", "ipa": "/mɪs/", "meaning": "ketinggalan; melewatkan", "example": "We would have missed the flight if the taxi hadn't come." }
+        ],
+        "grammar": [
+          { "pattern": "If + had + past participle, subject + would have + past participle", "example": "If I had seen you, I would have said hello.", "note": "Imaginary past + imaginary past result." },
+          { "pattern": "subject + could/might have + past participle + if + had + past participle", "example": "We might have won if we had trained harder.", "note": "Possible result." },
+          { "pattern": "What would + subject + have + past participle + if ...?", "example": "What would you have done if you had failed?", "note": "Question form." }
+        ],
+        "mistakes": [
+          { "wrong": "If I would have known, I would have come.", "right": "If I had known, I would have come.", "why": "Use the past perfect in the if-clause, never would have." },
+          { "wrong": "If she had studied, she would pass the exam last week.", "right": "If she had studied, she would have passed the exam last week.", "why": "A past result needs would have + past participle." },
+          { "wrong": "If he hadn't called, I would have forget.", "right": "If he hadn't called, I would have forgotten.", "why": "After would have, use the past participle (forgotten)." }
+        ],
+        "summary": "Third conditional: **If + had + past participle, would/could/might have + past participle**. It imagines a different past and its result, often to express regret or relief. Never use *would* in the if-clause. *Ringkasan: seandainya dulu ... (tidak terjadi), maka ... (tidak terjadi juga).*",
+        "reviewCards": [
+          { "front": "If + had + V3, would have + V3", "back": "Third conditional: imaginary past situation and its result" },
+          { "front": "If I'd known, I'd have come.", "back": "First 'd = had; second 'd = would." },
+          { "front": "could have / might have (in the result)", "back": "could have = bisa saja; might have = mungkin" },
+          { "front": "If I would have known ✗", "back": "If I had known ✓ (no would in the if-clause)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u03-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "third conditional",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the correct form of the verb in brackets.",
+          "instructions": "Hint: the if-clause uses had + past participle.",
+          "text": "If we ___ (leave) earlier, we wouldn't have missed the train.",
+          "answers": [["had left"]],
+          "explanation": "Third conditional if-clause: **had + past participle** → *If we had left earlier...* (Reality: we left late.)"
+        },
+        {
+          "id": "b2-u03-l1-q2", "type": "dropdown", "category": "grammar", "topic": "third conditional",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Read the situation and choose the correct forms.",
+          "context": "Last year Tari was offered a job in Canada, but she said no.",
+          "text": "If she ___ the offer, she ___ to Canada.",
+          "choices": [
+            ["had accepted", "accepted", "would accept"],
+            ["would have moved", "would move", "had moved"]
+          ],
+          "answers": [0, 0],
+          "explanation": "The situation is in the past and did not happen, so we use the third conditional: **If she had accepted the offer, she would have moved to Canada.**"
+        },
+        {
+          "id": "b2-u03-l1-q3", "type": "sentence_transformation", "category": "grammar", "topic": "third conditional",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the situation as a third conditional sentence.",
+          "sentence": "I didn't know you were in hospital, so I didn't visit you.",
+          "cue": "Begin with: If I had known ...",
+          "answers": [
+            "If I had known you were in hospital, I would have visited you.",
+            "If I had known you were in hospital, I'd have visited you.",
+            "If I had known that you were in hospital, I would have visited you.",
+            "If I had known that you were in hospital, I'd have visited you.",
+            "If I had known you were in the hospital, I would have visited you.",
+            "If I had known you were in the hospital, I'd have visited you."
+          ],
+          "explanation": "Reverse the facts: *didn't know* → **had known**; *didn't visit* → **would have visited**."
+        },
+        {
+          "id": "b2-u03-l1-q4", "type": "error_identification", "category": "grammar", "topic": "third conditional",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["If the referee", "had seen the foul,", "he would give", "a penalty."],
+          "errorIndex": 2,
+          "correction": "he would have given",
+          "explanation": "The match is in the past, so the result clause needs **would have + past participle**: *he would have given a penalty*."
+        },
+        {
+          "id": "b2-u03-l1-q5", "type": "word_order", "category": "grammar", "topic": "third conditional",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["We", "could", "have", "won", "if", "we", "had", "trained", "harder"],
+          "acceptedAnswers": ["If we had trained harder we could have won"],
+          "explanation": "Result clause (**could have won**) + if-clause (**had trained**). *Could have* shows that winning was possible."
+        },
+        {
+          "id": "b2-u03-l1-q6", "type": "translation", "category": "grammar", "topic": "third conditional",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kalau kemarin kamu memberitahuku, aku pasti sudah membantumu.",
+          "direction": "id-en",
+          "answers": [
+            "If you had told me yesterday, I would have helped you.",
+            "If you'd told me yesterday, I would have helped you.",
+            "If you had told me yesterday, I'd have helped you.",
+            "If you'd told me yesterday, I'd have helped you.",
+            "If you had told me yesterday, I would definitely have helped you.",
+            "If you'd told me yesterday, I would definitely have helped you.",
+            "If you had told me yesterday, I would certainly have helped you.",
+            "If you had told me yesterday, I would have definitely helped you."
+          ],
+          "explanation": "*Kemarin* shows the past, and the telling did not happen → third conditional: **If you had told me yesterday, I would have helped you.**"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u03-l2-mixed-conditionals",
+      "title": "Mixed Conditionals: Linking Past and Present",
+      "summary": "Menghubungkan masa lalu dan masa kini dengan mixed conditionals.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use a past condition with a present result (if + past perfect, would + infinitive)",
+        "Use a present condition with a past result (if + past simple, would have + past participle)",
+        "Choose between second, third and mixed conditionals from the context"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Why mix?\nReal life doesn't always stay in one time frame. A past event can affect the present, and a permanent present situation can explain a past event. Mixed conditionals combine parts of the **second** and **third** conditionals.\n\n### Type A: past condition → present result\n| If-clause (past) | Result (now) |\n| --- | --- |\n| if + **past perfect** | **would/could/might + infinitive** |\n| If I **had taken** that job in Singapore, | I **would live** there now. |\n| If she **hadn't missed** the flight, | she **would be** in Rome now. |\n\nTypical signals in the result: *now, today, still, at the moment*.\n\n### Type B: present (general) condition → past result\n| If-clause (always/now) | Result (past) |\n| --- | --- |\n| if + **past simple** | **would have + past participle** |\n| If I **were** more organised, | I **wouldn't have missed** the deadline yesterday. |\n| If he **spoke** Spanish, | he **would have got** the job in Madrid. |\n\nHere the if-clause describes a permanent quality or situation (*be organised, speak Spanish*), not a single past event.\n\n### Choosing the right conditional\nAsk two questions:\n1. **When** is the condition? (past event or general/present fact?)\n2. **When** is the result? (past or now?)\n\n| Condition | Result | Conditional |\n| --- | --- | --- |\n| present/unreal | present | second: *If I had time, I'd help.* |\n| past | past | third: *If I'd had time, I'd have helped.* |\n| past | present | mixed A: *If I'd slept, I wouldn't be tired now.* |\n| present | past | mixed B: *If I weren't so shy, I'd have spoken to her.* |\n\n### Continuous forms\nThe result can be continuous: *If I hadn't lost my job, I **would be working** in the city now.*\n\n> **Catatan:** Kunci mixed conditional adalah **kata keterangan waktu**. Jika ada *now/sekarang* di hasil, pakai *would + V1*; jika kondisinya sifat permanen (*seandainya saya orangnya lebih rapi*), pakai *past simple* di klausa if. Gunakan *were* untuk semua subjek dalam gaya formal: *If I were...*",
+        "examples": [
+          { "en": "If I had studied medicine, I would be a doctor now.", "id": "Seandainya dulu saya kuliah kedokteran, sekarang saya sudah jadi dokter.", "note": "Past condition → present result." },
+          { "en": "If I hadn't stayed up so late, I wouldn't feel so tired today.", "id": "Seandainya saya tidak begadang, hari ini saya tidak akan selelah ini.", "note": "Past condition → present result." },
+          { "en": "If Ben weren't so shy, he would have spoken to her at the party.", "id": "Seandainya Ben tidak pemalu, dia pasti sudah mengajaknya bicara di pesta itu.", "note": "Permanent quality → past result." },
+          { "en": "If we had bought the house in 2015, we would be living by the sea now.", "id": "Seandainya kami membeli rumah itu pada 2015, sekarang kami tinggal di tepi laut.", "note": "Continuous present result." }
+        ],
+        "vocabulary": [
+          { "word": "consequence", "pos": "noun", "ipa": "/ˈkɒnsɪkwəns/", "meaning": "akibat, konsekuensi", "example": "Every decision has consequences." },
+          { "word": "in debt", "pos": "phrase", "ipa": "/ɪn ˈdet/", "meaning": "berutang", "example": "They wouldn't be in debt if they had saved more." },
+          { "word": "shy", "pos": "adjective", "ipa": "/ʃaɪ/", "meaning": "pemalu", "example": "If I weren't so shy, I'd have asked a question." },
+          { "word": "organised", "pos": "adjective", "ipa": "/ˈɔːɡənaɪzd/", "meaning": "teratur, rapi dalam bekerja", "example": "If he were more organised, he wouldn't have lost the file." },
+          { "word": "pay rise", "pos": "noun", "ipa": "/ˈpeɪ raɪz/", "meaning": "kenaikan gaji", "example": "If she were more confident, she would have asked for a pay rise." }
+        ],
+        "grammar": [
+          { "pattern": "If + had + past participle, subject + would + infinitive (+ now)", "example": "If I had saved money, I would be rich now.", "note": "Past condition, present result." },
+          { "pattern": "If + past simple, subject + would have + past participle", "example": "If I were taller, I would have joined the basketball team.", "note": "General condition, past result." },
+          { "pattern": "If + had + past participle, subject + would be + -ing (+ now)", "example": "If he hadn't moved, he would be working with us now.", "note": "Present result in progress." }
+        ],
+        "mistakes": [
+          { "wrong": "If I had studied medicine, I would have been a doctor now.", "right": "If I had studied medicine, I would be a doctor now.", "why": "Now shows a present result, so use would + infinitive." },
+          { "wrong": "If I would have known, I would be there now.", "right": "If I had known, I would be there now.", "why": "Never use would have in the if-clause; use the past perfect." },
+          { "wrong": "If she isn't so impatient, she wouldn't have shouted.", "right": "If she weren't so impatient, she wouldn't have shouted.", "why": "An unreal present condition needs the past simple (were)." }
+        ],
+        "summary": "Mixed conditionals link time frames: **If + past perfect → would + infinitive (now)** for past causes of present results, and **If + past simple → would have + past participle** for permanent qualities that explain past results. Check the time of the condition and of the result. *Ringkasan: perhatikan kata waktu seperti now, yesterday, last year.*",
+        "reviewCards": [
+          { "front": "If I had taken the job, I would live in Singapore now.", "back": "Mixed A: past condition → present result" },
+          { "front": "If I were more patient, I wouldn't have shouted.", "back": "Mixed B: permanent present quality → past result" },
+          { "front": "Signal words for present results", "back": "now, today, still, at the moment" },
+          { "front": "in debt", "back": "berutang" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u03-l2-q1", "type": "single_choice", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "instructions": "Hint: look at the word 'now'.",
+          "context": "If I had studied medicine, I ___ a doctor now.",
+          "options": ["would be", "would have been", "will be", "am"],
+          "answer": 0,
+          "explanation": "The condition is past (*had studied*) but the result is present (*now*), so we use **would + infinitive**: *I would be a doctor now.*"
+        },
+        {
+          "id": "b2-u03-l2-q2", "type": "matching", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Match the beginnings and endings of the sentences.",
+          "pairs": [
+            { "left": "If I hadn't missed the flight,", "right": "I would be in Rome now." },
+            { "left": "If Ben weren't so shy,", "right": "he would have spoken to her at the party." },
+            { "left": "If Sinta spoke Spanish,", "right": "she would have got the job in Madrid." },
+            { "left": "If they had saved more money last year,", "right": "they wouldn't be in debt now." }
+          ],
+          "explanation": "Past conditions (*hadn't missed, had saved*) → present results (*now*). Permanent qualities (*weren't so shy, spoke Spanish*) → past results (*would have spoken, would have got*)."
+        },
+        {
+          "id": "b2-u03-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the situation as a mixed conditional.",
+          "sentence": "I didn't take the job in Singapore, so I don't live there now.",
+          "cue": "Begin with: If I had taken ...",
+          "answers": [
+            "If I had taken the job in Singapore, I would live there now.",
+            "If I had taken the job in Singapore, I'd live there now.",
+            "If I had taken the job in Singapore, I would be living there now.",
+            "If I had taken the job in Singapore, I'd be living there now.",
+            "If I had taken the job in Singapore, I would live in Singapore now.",
+            "If I had taken the job in Singapore, I would be living in Singapore now."
+          ],
+          "explanation": "Past condition (*had taken*) + present result (*now*) → **would live / would be living there now**."
+        },
+        {
+          "id": "b2-u03-l2-q4", "type": "dropdown", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct forms.",
+          "context": "Rudi is an impatient person. Yesterday he started an argument with his boss.",
+          "text": "If Rudi ___ more patient, he ___ that argument with his boss yesterday.",
+          "choices": [
+            ["were", "is", "will be"],
+            ["wouldn't have started", "wouldn't start", "won't start"]
+          ],
+          "answers": [0, 0],
+          "explanation": "A permanent quality (impatience) → unreal present **were**; a past result (*yesterday*) → **wouldn't have started**."
+        },
+        {
+          "id": "b2-u03-l2-q5", "type": "multiple_select", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 4, "stage": "quiz",
+          "prompt": "Select the TWO correct sentences.",
+          "options": [
+            "If I hadn't eaten so much, I wouldn't feel sick now.",
+            "If she were braver, she would have asked for a pay rise last week.",
+            "If I would have known, I would be there now.",
+            "If we booked earlier last month, we would be sitting by the window now.",
+            "If he isn't so lazy, he would have finished the project."
+          ],
+          "answers": [0, 1],
+          "explanation": "Correct: past condition → present result (*hadn't eaten → wouldn't feel now*), and permanent quality → past result (*were braver → would have asked*). The others misuse *would have* in the if-clause, use the past simple for a single past event, or use the present simple for an unreal condition."
+        },
+        {
+          "id": "b2-u03-l2-q6", "type": "fill_blank", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with the correct forms of the verbs in brackets.",
+          "text": "I'm so tired. If I ___ (not / stay) up so late last night, I ___ (feel) much better now.",
+          "answers": [["hadn't stayed", "had not stayed"], ["would feel", "would be feeling"]],
+          "explanation": "Past condition (*last night*) → **hadn't stayed**; present result (*now*) → **would feel**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u03-l3-conditionals-without-if",
+      "title": "Conditions Without If",
+      "summary": "Mengungkapkan syarat tanpa kata if: unless, provided that, as long as, supposing, otherwise.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use unless to mean except if",
+        "Use provided/providing (that) and as long as for strong conditions",
+        "Use supposing and otherwise to imagine situations and give consequences"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Alternatives to if\nAt B2 level you can make your conditions more precise with other words.\n\n| Word | Meaning | Example |\n| --- | --- | --- |\n| unless | except if / if ... not | We'll go **unless** it rains. |\n| provided (that) / providing (that) | only if (strong condition) | You can borrow the car **provided that** you fill it up. |\n| as long as / so long as | only if (more informal) | I'll come **as long as** I can leave early. |\n| on condition that | only if (formal) | He was released **on condition that** he paid a fine. |\n| supposing / suppose | imagine that | **Supposing** you lost your job, what would you do? |\n| otherwise | if not (refers to the previous sentence) | Hurry up; **otherwise**, we'll be late. |\n\n### unless\n*Unless* already contains a negative idea, so don't use another negative in the same clause:\n- ✓ *You won't pass **unless** you **study**.* (= if you don't study)\n- ✗ *You won't pass unless you don't study.*\n\n### provided that / as long as\nThese stress that the condition is necessary. Use present tenses for future meaning:\n- *I'll lend you the money **as long as** you **pay** me back next month.* (NOT *will pay*)\n\n### supposing\n*Supposing* can introduce real or unreal situations and is often used in questions:\n- *Supposing it **rains** tomorrow — shall we cancel?* (real possibility)\n- *Supposing you **had** a million dollars, what **would** you do?* (unreal)\n- *Supposing you **had failed**, what **would** you **have done**?* (past)\n\n### otherwise\n*Otherwise* links two sentences or clauses. It usually follows a full stop or semicolon, or *and/or*:\n- *Take an umbrella. **Otherwise**, you'll get soaked.*\n- *I had my phone with me; **otherwise**, I would have been completely lost.*\n\n### in case is different!\n*In case* is **not** a conditional; it means 'as a precaution':\n- *Take an umbrella **in case** it rains.* (Take it now because it might rain.)\n- *Take an umbrella **if** it rains.* (Only take it if it is raining.)\n\n> **Catatan:** *unless* = *kecuali jika*; *provided that / as long as* = *asalkan*; *supposing* = *andaikan*; *otherwise* = *kalau tidak / jika tidak begitu*; *in case* = *untuk berjaga-jaga*. Kesalahan umum: *unless ... don't* (negatif ganda).",
+        "examples": [
+          { "en": "We'll have the barbecue in the garden unless it rains.", "id": "Kami akan mengadakan barbekyu di taman kecuali jika hujan.", "note": "unless = if ... not" },
+          { "en": "You can use my laptop provided that you don't install anything.", "id": "Kamu boleh memakai laptopku asalkan kamu tidak menginstal apa pun.", "note": "Strong condition." },
+          { "en": "Supposing the flight is cancelled, how will we get to the conference?", "id": "Andaikan penerbangannya dibatalkan, bagaimana kita akan ke konferensi?", "note": "Imagining a possibility." },
+          { "en": "I wrote the address down; otherwise, I would have forgotten it.", "id": "Saya mencatat alamatnya; kalau tidak, saya pasti sudah lupa.", "note": "otherwise + third conditional result." }
+        ],
+        "vocabulary": [
+          { "word": "unless", "pos": "conjunction", "ipa": "/ənˈles/", "meaning": "kecuali jika", "example": "Don't call me unless it's urgent." },
+          { "word": "provided (that)", "pos": "conjunction", "ipa": "/prəˈvaɪdɪd ðæt/", "meaning": "asalkan, dengan syarat", "example": "Provided that the weather is good, we'll sail." },
+          { "word": "supposing", "pos": "conjunction", "ipa": "/səˈpəʊzɪŋ/", "meaning": "andaikan, seandainya", "example": "Supposing you won, what would you buy?" },
+          { "word": "otherwise", "pos": "adverb", "ipa": "/ˈʌðəwaɪz/", "meaning": "kalau tidak", "example": "Save your work; otherwise, you might lose it." },
+          { "word": "precaution", "pos": "noun", "ipa": "/prɪˈkɔːʃn/", "meaning": "tindakan pencegahan", "example": "Take a jacket as a precaution, in case it gets cold." }
+        ],
+        "grammar": [
+          { "pattern": "result + unless + positive clause (present for future)", "example": "I'll be there unless my train is late.", "note": "No double negative." },
+          { "pattern": "result + provided (that) / as long as + present simple", "example": "You'll be fine as long as you stay calm.", "note": "Present tense for future meaning." },
+          { "pattern": "Sentence. Otherwise, + result", "example": "Write it down. Otherwise, you'll forget it.", "note": "otherwise = if you don't." }
+        ],
+        "mistakes": [
+          { "wrong": "Unless you don't hurry, you'll miss the bus.", "right": "Unless you hurry, you'll miss the bus.", "why": "Unless already means if ... not, so don't add another negative." },
+          { "wrong": "You can come provided that you will bring some food.", "right": "You can come provided that you bring some food.", "why": "Use the present simple after provided that for future meaning." },
+          { "wrong": "Take an umbrella if it rains later.", "right": "Take an umbrella in case it rains later.", "why": "For a precaution (just in case), use in case, not if." }
+        ],
+        "summary": "Use **unless** (= if not), **provided that / as long as** (= only if), **supposing** (= imagine), and **otherwise** (= if not, referring back) to express conditions precisely. Use present tenses for future meaning after these words, and avoid double negatives with *unless*. *Ringkasan: unless = kecuali jika; provided that = asalkan; otherwise = kalau tidak.*",
+        "reviewCards": [
+          { "front": "unless", "back": "kecuali jika (= if ... not); no double negative" },
+          { "front": "provided that / as long as", "back": "asalkan (only if)" },
+          { "front": "supposing", "back": "andaikan (imagine that)" },
+          { "front": "otherwise", "back": "kalau tidak (refers to the previous sentence)" },
+          { "front": "in case vs if", "back": "in case = sebagai antisipasi; if = hanya jika terjadi" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u03-l3-q1", "type": "dropdown", "category": "grammar", "topic": "unless",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct word.",
+          "instructions": "Hint: the meaning is 'if you don't start revising now'.",
+          "text": "You won't pass the exam ___ you start revising now.",
+          "choices": [["unless", "if", "provided that"]],
+          "answers": [0],
+          "explanation": "**Unless** = if ... not: *You won't pass unless you start revising now* (= if you don't start revising)."
+        },
+        {
+          "id": "b2-u03-l3-q2", "type": "matching", "category": "grammar", "topic": "conditional linkers",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each word with its meaning.",
+          "pairs": [
+            { "left": "unless", "right": "except if" },
+            { "left": "provided that", "right": "only if a condition is met" },
+            { "left": "supposing", "right": "imagine that" },
+            { "left": "otherwise", "right": "if not (referring to the previous idea)" },
+            { "left": "in case", "right": "as a precaution because something might happen" }
+          ],
+          "explanation": "These linkers make conditions more precise. Remember that *in case* is about precaution, not a real condition."
+        },
+        {
+          "id": "b2-u03-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "unless",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using unless.",
+          "sentence": "If you don't book in advance, you won't get a table.",
+          "cue": "Begin with: You won't get a table ...",
+          "answers": [
+            "You won't get a table unless you book in advance.",
+            "You will not get a table unless you book in advance."
+          ],
+          "explanation": "*If you don't book* = **unless you book**. Do not add another negative after *unless*."
+        },
+        {
+          "id": "b2-u03-l3-q4", "type": "fill_blank", "category": "grammar", "topic": "otherwise",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with ONE word.",
+          "text": "Take your umbrella. ___, you'll get soaked.",
+          "answers": [["Otherwise"]],
+          "explanation": "**Otherwise** = if you don't (take your umbrella). It refers back to the previous sentence."
+        },
+        {
+          "id": "b2-u03-l3-q5", "type": "error_identification", "category": "grammar", "topic": "unless",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["Unless you", "don't hurry,", "you'll miss", "the last bus."],
+          "errorIndex": 1,
+          "correction": "hurry,",
+          "explanation": "*Unless* already has a negative meaning, so: **Unless you hurry, you'll miss the last bus.**"
+        },
+        {
+          "id": "b2-u03-l3-q6", "type": "single_choice", "category": "grammar", "topic": "provided that",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence means the same as: 'You can borrow my bike, but only if you bring it back by six.'?",
+          "options": [
+            "You can borrow my bike provided that you bring it back by six.",
+            "You can borrow my bike unless you bring it back by six.",
+            "You can borrow my bike in case you bring it back by six.",
+            "You can borrow my bike otherwise you bring it back by six."
+          ],
+          "answer": 0,
+          "explanation": "*Only if* = **provided that** (asalkan). *Unless* reverses the meaning, *in case* means 'as a precaution', and *otherwise* cannot be used like this."
+        },
+        {
+          "id": "b2-u03-l3-q7", "type": "dialogue_completion", "category": "conversation", "topic": "supposing",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the most logical reply.",
+          "dialogue": [
+            { "speaker": "Fajar", "text": "I'm thinking of quitting my job to open a café." },
+            { "speaker": "Mia", "text": null }
+          ],
+          "options": [
+            "Supposing it doesn't work out, what will you do?",
+            "Supposing it doesn't work out, what did you do?",
+            "Unless it works out, you'll definitely be rich.",
+            "Provided that it fails, you'll be fine."
+          ],
+          "answer": 0,
+          "explanation": "**Supposing** introduces an imagined possibility, followed by a logical question about the future. Option 2 uses the wrong tense, and options 3 and 4 don't make sense."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u03-l4-decisions-and-luck",
+      "title": "Vocabulary: Decisions, Turning Points and Luck",
+      "summary": "Kosakata dan ungkapan tentang keputusan, titik balik, dan keberuntungan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use vocabulary for making decisions (weigh up, have second thoughts)",
+        "Talk about turning points and missed opportunities",
+        "Use expressions for luck and chance (by chance, a stroke of luck, a narrow escape)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Making decisions\n| Expression | Meaning | Example |\n| --- | --- | --- |\n| weigh up (the pros and cons) | consider advantages and disadvantages | She **weighed up** the pros and cons before moving. |\n| on the spur of the moment | suddenly, without planning | We booked the trip **on the spur of the moment**. |\n| have second thoughts (about) | start to doubt a decision | I'm **having second thoughts** about the course. |\n| make up your mind | decide | Have you **made up your mind** yet? |\n| take a risk / take a chance | do something that might fail | He **took a risk** and started his own company. |\n\n### Turning points\n| Expression | Meaning |\n| --- | --- |\n| a turning point | a moment when things change direction |\n| a missed opportunity | a good chance that was not used |\n| in hindsight / with hindsight | when you look back with present knowledge |\n| it changed my life | had a major effect |\n\n*Moving to Surabaya was a **turning point** in my career. **In hindsight**, refusing the scholarship was a **missed opportunity**.*\n\n### Luck and chance\n| Expression | Meaning |\n| --- | --- |\n| by chance / by accident | not planned |\n| a stroke of luck | a sudden piece of good luck |\n| a narrow escape | a situation where you almost had an accident or problem |\n| (un)fortunately | (sadly) luckily |\n| it was meant to be | fate wanted it to happen |\n\n### Using the vocabulary with conditionals\nThese expressions often appear together with the grammar of this unit:\n- *If I hadn't met Lia **by chance**, I wouldn't be working here now.*\n- *It was **a stroke of luck** that the taxi came; **otherwise**, we would have missed the flight.*\n- ***In hindsight**, I would have **weighed up** the options more carefully.*\n\n### Collocation tips\n- **make** a decision (NOT *do a decision*); **take** a risk/chance\n- **by** chance, **by** accident (NOT *with chance*)\n- **in** hindsight\n\n> **Catatan:** *Take a chance* = mengambil risiko/kesempatan; *by chance* = secara kebetulan. *Second thoughts* = mulai ragu atas keputusan; selalu jamak (*thoughts*). *A narrow escape* = nyaris celaka/terhindar.",
+        "examples": [
+          { "en": "Getting that scholarship was a turning point in my life.", "id": "Mendapat beasiswa itu adalah titik balik dalam hidup saya.", "note": "turning point" },
+          { "en": "In hindsight, turning down the offer was a missed opportunity.", "id": "Kalau dipikir sekarang, menolak tawaran itu adalah kesempatan yang terlewatkan.", "note": "in hindsight" },
+          { "en": "We met completely by chance at a bus stop in Malang.", "id": "Kami bertemu secara kebetulan di halte bus di Malang.", "note": "by chance" },
+          { "en": "The car missed us by centimetres. It was a narrow escape.", "id": "Mobil itu nyaris menabrak kami. Kami nyaris celaka.", "note": "a narrow escape" }
+        ],
+        "vocabulary": [
+          { "word": "turning point", "pos": "noun", "ipa": "/ˈtɜːnɪŋ pɔɪnt/", "meaning": "titik balik", "example": "The match was a turning point in his career." },
+          { "word": "weigh up", "pos": "phrasal verb", "ipa": "/ˌweɪ ˈʌp/", "meaning": "menimbang-nimbang", "example": "Weigh up the costs before you decide." },
+          { "word": "hindsight", "pos": "noun", "ipa": "/ˈhaɪndsaɪt/", "meaning": "pemahaman setelah kejadian", "example": "In hindsight, it was the right choice." },
+          { "word": "a stroke of luck", "pos": "phrase", "ipa": "/ə ˌstrəʊk əv ˈlʌk/", "meaning": "keberuntungan yang tiba-tiba", "example": "Finding a cheap flat was a stroke of luck." },
+          { "word": "second thoughts", "pos": "noun (plural)", "ipa": "/ˌsekənd ˈθɔːts/", "meaning": "keraguan atas keputusan", "example": "I had second thoughts and cancelled the order." },
+          { "word": "spur of the moment", "pos": "phrase", "ipa": "/ˌspɜːr əv ðə ˈməʊmənt/", "meaning": "spontan, tanpa rencana", "example": "It was a spur-of-the-moment decision." }
+        ],
+        "grammar": [
+          { "pattern": "It was + a stroke of luck / a turning point + that + clause", "example": "It was a stroke of luck that the bank was still open.", "note": "Emphasising an event." },
+          { "pattern": "In hindsight, + clause (often with would have + past participle)", "example": "In hindsight, I would have chosen a different course.", "note": "Looking back." },
+          { "pattern": "have second thoughts about + noun / -ing", "example": "She's having second thoughts about moving abroad.", "note": "Preposition about." }
+        ],
+        "mistakes": [
+          { "wrong": "I did a decision to leave my job.", "right": "I made a decision to leave my job.", "why": "The collocation is make a decision." },
+          { "wrong": "We met with chance at the airport.", "right": "We met by chance at the airport.", "why": "The fixed phrase is by chance." },
+          { "wrong": "I had a second thought about the trip.", "right": "I had second thoughts about the trip.", "why": "The expression is plural: have second thoughts." }
+        ],
+        "summary": "Talk about decisions with **weigh up, make up your mind, take a risk, have second thoughts, on the spur of the moment**; about change with **turning point, missed opportunity, in hindsight**; and about luck with **by chance, a stroke of luck, a narrow escape**. Combine them with conditionals to tell stories. *Ringkasan: pelajari ungkapan sebagai satu kesatuan.*",
+        "reviewCards": [
+          { "front": "a turning point", "back": "titik balik" },
+          { "front": "in hindsight", "back": "kalau dipikir sekarang (setelah kejadian)" },
+          { "front": "have second thoughts", "back": "mulai ragu dengan keputusan" },
+          { "front": "a narrow escape", "back": "nyaris celaka; hampir terkena masalah" },
+          { "front": "on the spur of the moment", "back": "secara spontan, tanpa rencana" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u03-l4-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "turning points",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the expression that best completes the sentence.",
+          "instructions": "Hint: the moment when everything changed direction.",
+          "context": "Moving to Bandung was a ___ in my life: from that moment, my career went in a completely new direction.",
+          "options": ["turning point", "narrow escape", "second thought", "spur of the moment"],
+          "answer": 0,
+          "explanation": "A **turning point** is a moment when things change direction (titik balik). A *narrow escape* is almost having an accident; *second thoughts* are doubts (and always plural); *spur of the moment* means spontaneous."
+        },
+        {
+          "id": "b2-u03-l4-q2", "type": "matching", "category": "vocabulary", "topic": "decisions and luck",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "weigh up", "right": "consider the advantages and disadvantages" },
+            { "left": "have second thoughts", "right": "start to doubt a decision" },
+            { "left": "a stroke of luck", "right": "a sudden piece of good fortune" },
+            { "left": "a narrow escape", "right": "a situation where you almost had an accident" },
+            { "left": "in hindsight", "right": "looking back with what you know now" }
+          ],
+          "explanation": "These expressions are common when telling stories about decisions and luck. Learn them as complete chunks."
+        },
+        {
+          "id": "b2-u03-l4-q3", "type": "fill_blank", "category": "vocabulary", "topic": "decisions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the phrasal verb with ONE word.",
+          "text": "Before you accept the offer, you should weigh ___ the pros and cons.",
+          "answers": [["up"]],
+          "explanation": "**Weigh up** = consider carefully (menimbang-nimbang)."
+        },
+        {
+          "id": "b2-u03-l4-q4", "type": "drag_drop", "category": "vocabulary", "topic": "luck",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the story with words from the bank.",
+          "text": "I bought the flat on the spur of the ___, without thinking much. In ___, it wasn't a wise decision, because I hadn't checked the costs. But by a stroke of ___, its value has since doubled.",
+          "bank": ["moment", "hindsight", "luck", "chance", "point"],
+          "answers": ["moment", "hindsight", "luck"],
+          "explanation": "Fixed phrases: **on the spur of the moment**, **in hindsight**, **a stroke of luck**."
+        },
+        {
+          "id": "b2-u03-l4-q5", "type": "single_choice", "category": "vocabulary", "topic": "chance",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence uses 'by chance' correctly?",
+          "options": [
+            "I met my business partner completely by chance on a train.",
+            "I took a big by chance when I left my job.",
+            "She had by chance thoughts about the trip.",
+            "By chance is very important in business."
+          ],
+          "answer": 0,
+          "explanation": "**By chance** is an adverbial phrase meaning 'without planning' (secara kebetulan): *I met my business partner by chance.*"
+        },
+        {
+          "id": "b2-u03-l4-q6", "type": "translation", "category": "vocabulary", "topic": "chance",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya bertemu istri saya secara kebetulan.",
+          "direction": "id-en",
+          "answers": [
+            "I met my wife by chance.",
+            "I met my wife by accident.",
+            "I met my wife purely by chance.",
+            "I met my wife completely by chance.",
+            "I happened to meet my wife."
+          ],
+          "explanation": "*Secara kebetulan* = **by chance** (or *by accident*). The verb *meet* is in the past simple: *met*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u03-l5-past-and-consequences",
+      "title": "Talking About Turning Points",
+      "summary": "Berspekulasi tentang masa lalu dan akibatnya dengan if it hadn't been for, inversi formal, dan conditional campuran.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use If it hadn't been for... to show what made a difference",
+        "Recognise the formal inversion Had I known...",
+        "Tell a story about a turning point using third and mixed conditionals"
+      ],
+      "completionCriteria": "Complete the writing task and score at least 70% on the mini quiz. (Selesaikan tugas menulis dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Showing what made the difference\n**If it hadn't been for + noun** means 'without this person/thing':\n- *If it hadn't been for my teacher's encouragement, I would never have applied.*\n- *If it hadn't been for the rain, we would have won.*\n\nFor a present situation, use **If it weren't for**: *If it weren't for my sister, I'd be lonely here.*\n\n**But for + noun** is a more formal alternative: *But for your help, we would have failed.*\n\n### Formal inversion (no if)\nIn formal writing, you can drop *if* and put *had* first:\n| Normal | Inverted (formal) |\n| --- | --- |\n| If I had known about the traffic, | **Had I known** about the traffic, |\n| If she hadn't called, | **Had she not called**, |\n\nNote the negative: *Had she not called* (NOT *Hadn't she called*).\n\n### Telling a turning-point story\nA good story about a life-changing moment usually has:\n1. **Background** (past simple/continuous, past perfect): *In 2018, I was working in a bank and I had never thought about teaching.*\n2. **The moment** (past simple): *One day, a friend asked me to help at her school.*\n3. **The alternative past** (third conditional): *If she hadn't asked me, I would have stayed in banking.*\n4. **The present result** (mixed conditional): *If I hadn't said yes, I wouldn't be a teacher now.*\n5. **Reflection**: *In hindsight, it was the best decision I've ever made.*\n\n### Useful phrases\n| Purpose | Phrase |\n| --- | --- |\n| looking back | *Looking back, ... / In hindsight, ...* |\n| alternative outcome | *Things might have turned out very differently.* |\n| luck | *It was pure luck that... / Fortunately, ...* |\n| present effect | *That's why I'm ... now.* |\n\n> **Catatan:** *If it hadn't been for* = *seandainya tidak ada / kalau bukan karena* (masa lalu). Inversi *Had I known* bersifat formal, cocok untuk esai atau surat resmi; dalam percakapan sehari-hari *If I had known* lebih umum.",
+        "examples": [
+          { "en": "If it hadn't been for my teacher's encouragement, I would never have applied for the scholarship.", "id": "Kalau bukan karena dorongan guru saya, saya tidak akan pernah mendaftar beasiswa itu.", "note": "If it hadn't been for + noun" },
+          { "en": "Had I known about the strike, I would have taken a taxi.", "id": "Seandainya saya tahu tentang mogok itu, saya akan naik taksi.", "note": "Formal inversion." },
+          { "en": "If I hadn't missed that bus, I would never have met my business partner.", "id": "Seandainya saya tidak ketinggalan bus itu, saya tidak akan pernah bertemu rekan bisnis saya.", "note": "A chance event." },
+          { "en": "Looking back, things might have turned out very differently.", "id": "Kalau dipikir lagi, semuanya bisa saja berakhir sangat berbeda.", "note": "Reflection." }
+        ],
+        "vocabulary": [
+          { "word": "encouragement", "pos": "noun", "ipa": "/ɪnˈkʌrɪdʒmənt/", "meaning": "dorongan, semangat", "example": "Her encouragement made all the difference." },
+          { "word": "turn out", "pos": "phrasal verb", "ipa": "/ˌtɜːn ˈaʊt/", "meaning": "ternyata; berakhir (dengan cara tertentu)", "example": "Everything turned out well in the end." },
+          { "word": "scholarship", "pos": "noun", "ipa": "/ˈskɒləʃɪp/", "meaning": "beasiswa", "example": "She won a scholarship to study in Leeds." },
+          { "word": "make all the difference", "pos": "phrase", "ipa": "/ˌmeɪk ɔːl ðə ˈdɪfrəns/", "meaning": "sangat menentukan", "example": "A good mentor can make all the difference." },
+          { "word": "looking back", "pos": "phrase", "ipa": "/ˌlʊkɪŋ ˈbæk/", "meaning": "kalau melihat ke belakang", "example": "Looking back, I'm glad I took the risk." }
+        ],
+        "grammar": [
+          { "pattern": "If it hadn't been for + noun, subject + would (not) have + past participle", "example": "If it hadn't been for the map, we would have got lost.", "note": "Past: without this..." },
+          { "pattern": "If it weren't for + noun, subject + would + infinitive", "example": "If it weren't for my job, I'd travel more.", "note": "Present." },
+          { "pattern": "Had + subject (+ not) + past participle, subject + would have + past participle", "example": "Had we not left early, we would have missed the ferry.", "note": "Formal inversion." }
+        ],
+        "mistakes": [
+          { "wrong": "If it wasn't been for you, I would have failed.", "right": "If it hadn't been for you, I would have failed.", "why": "For the past, the fixed form is If it hadn't been for." },
+          { "wrong": "Hadn't she called, we would have left.", "right": "Had she not called, we would have left.", "why": "In inverted conditionals, the negative is Had + subject + not." },
+          { "wrong": "Had I know the truth, I would have told you.", "right": "Had I known the truth, I would have told you.", "why": "Inversion still needs the past participle (known)." }
+        ],
+        "summary": "Use **If it hadn't been for / But for + noun** to show what made the difference, and **Had I known...** (formal inversion) instead of *If I had known*. A turning-point story combines background, the key moment, the alternative past (third conditional), the present result (mixed conditional) and a reflection. *Ringkasan: ceritakan apa yang terjadi, apa yang mungkin terjadi, dan akibatnya sekarang.*",
+        "reviewCards": [
+          { "front": "If it hadn't been for ...", "back": "Kalau bukan karena ... (masa lalu)" },
+          { "front": "Had I known, ...", "back": "Formal inversion = If I had known, ..." },
+          { "front": "Had she not called (not: Hadn't she called)", "back": "Negative in inverted conditionals" },
+          { "front": "turn out", "back": "ternyata; berakhir dengan cara tertentu" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u03-l5-q1", "type": "fill_blank", "category": "grammar", "topic": "if it hadn't been for",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the missing word(s).",
+          "instructions": "Hint: the fixed phrase is If it ___ been for...",
+          "text": "If it ___ been for my teacher's encouragement, I would never have applied for the scholarship.",
+          "answers": [["hadn't", "had not"]],
+          "explanation": "**If it hadn't been for + noun** = without this person/thing (in the past)."
+        },
+        {
+          "id": "b2-u03-l5-q2", "type": "sentence_transformation", "category": "grammar", "topic": "if it hadn't been for",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "I only passed the exam because my friend helped me.",
+          "cue": "Begin with: If it hadn't been for ...",
+          "answers": [
+            "If it hadn't been for my friend's help, I wouldn't have passed the exam.",
+            "If it hadn't been for my friend, I wouldn't have passed the exam.",
+            "If it hadn't been for my friend's help, I would not have passed the exam.",
+            "If it hadn't been for my friend, I would not have passed the exam.",
+            "If it hadn't been for my friend's help, I would have failed the exam.",
+            "If it hadn't been for my friend, I would have failed the exam.",
+            "If it hadn't been for my friend's help, I wouldn't have passed.",
+            "If it hadn't been for my friend, I wouldn't have passed."
+          ],
+          "explanation": "*Only ... because my friend helped me* → **If it hadn't been for my friend('s help), I wouldn't have passed the exam.**"
+        },
+        {
+          "id": "b2-u03-l5-q3", "type": "essay", "category": "writing", "topic": "turning points",
+          "difficulty": 4, "stage": "independent",
+          "prompt": "Write about a turning point in your life or in the life of someone you know (120–180 words). Describe the background, the key moment, what would have happened otherwise (third conditional), how it affects the present (mixed conditional) and your reflection.",
+          "minWords": 120,
+          "maxWords": 180,
+          "rubric": "general-writing",
+          "explanation": "Use the five-part structure from the lesson. Include at least one third conditional, one mixed conditional and one expression such as *in hindsight* or *if it hadn't been for*."
+        },
+        {
+          "id": "b2-u03-l5-q4", "type": "sentence_reconstruction", "category": "writing", "topic": "turning points",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the fragments in the correct order.",
+          "fragments": ["Looking back,", "if I hadn't missed that bus,", "I would never have met", "the person who later became", "my business partner."],
+          "explanation": "Reflection phrase → if-clause (past perfect) → result (would never have + past participle) → relative clause."
+        },
+        {
+          "id": "b2-u03-l5-q5", "type": "dropdown", "category": "grammar", "topic": "inverted conditionals",
+          "difficulty": 4, "stage": "quiz",
+          "prompt": "Complete the formal sentence.",
+          "text": "Had I ___ about the traffic, I ___ earlier.",
+          "choices": [
+            ["known", "know", "knew"],
+            ["would have left", "would leave", "had left"]
+          ],
+          "answers": [0, 0],
+          "explanation": "Inversion: **Had I known** = If I had known; result: **would have left**."
+        },
+        {
+          "id": "b2-u03-l5-q6", "type": "single_choice", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence describes a past condition with a PRESENT result?",
+          "options": [
+            "If I hadn't broken my leg, I would be playing in the final today.",
+            "If I hadn't broken my leg, I would have played in the final yesterday.",
+            "If I break my leg, I won't play in the final.",
+            "If I broke my leg, I wouldn't play in the final."
+          ],
+          "answer": 0,
+          "explanation": "*Hadn't broken* (past condition) + *would be playing today* (present result) = mixed conditional. Option 2 is a third conditional; options 3 and 4 are first and second conditionals."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u03-t-q1", "type": "dropdown", "category": "grammar", "topic": "third conditional",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct form.",
+      "context": "The fire alarm went off at 3 a.m., and everyone woke up and left the hotel safely.",
+      "text": "If the alarm ___ off, nobody would have woken up in time.",
+      "choices": [["hadn't gone", "didn't go", "wouldn't go"]],
+      "answers": [0],
+      "explanation": "Third conditional if-clause for an imaginary past: **hadn't gone off** (+ would have woken up)."
+    },
+    {
+      "id": "b2-u03-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "third conditional",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the situation as a conditional sentence.",
+      "sentence": "We got lost because we didn't have a map.",
+      "cue": "Begin with: If we had had ...",
+      "answers": [
+        "If we had had a map, we wouldn't have got lost.",
+        "If we had had a map, we would not have got lost.",
+        "If we had had a map, we wouldn't have gotten lost.",
+        "If we had had a map, we would not have gotten lost."
+      ],
+      "explanation": "*Had had* = past perfect of *have*. Reverse both facts: **If we had had a map, we wouldn't have got lost.**"
+    },
+    {
+      "id": "b2-u03-t-q3", "type": "single_choice", "category": "grammar", "topic": "provided that",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "I'll lend you the money ___ you pay me back by the end of next month.",
+      "options": ["provided that", "unless", "otherwise", "in case"],
+      "answer": 0,
+      "explanation": "The lending depends on a condition → **provided that** (asalkan). *Unless* would reverse the meaning."
+    },
+    {
+      "id": "b2-u03-t-q4", "type": "error_identification", "category": "grammar", "topic": "third conditional",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["If I", "would have known", "about the party,", "I would have come."],
+      "errorIndex": 1,
+      "correction": "had known",
+      "explanation": "Never use *would have* in the if-clause: **If I had known about the party, I would have come.**"
+    },
+    {
+      "id": "b2-u03-t-q5", "type": "translation", "category": "grammar", "topic": "mixed conditionals",
+      "difficulty": 4, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Seandainya Dewi tidak kehilangan paspornya, dia pasti sudah berada di Paris sekarang.",
+      "direction": "id-en",
+      "answers": [
+        "If Dewi hadn't lost her passport, she would be in Paris now.",
+        "If Dewi had not lost her passport, she would be in Paris now.",
+        "If Dewi hadn't lost her passport, she'd be in Paris now.",
+        "If Dewi hadn't lost her passport, she would already be in Paris now.",
+        "If Dewi hadn't lost her passport, she would definitely be in Paris now.",
+        "If Dewi hadn't lost her passport, she would certainly be in Paris now.",
+        "If Dewi hadn't lost her passport, she would be in Paris by now."
+      ],
+      "explanation": "Past condition (losing the passport) + present result (*sekarang*) → mixed conditional: **If Dewi hadn't lost her passport, she would be in Paris now.**"
+    },
+    {
+      "id": "b2-u03-t-q6", "type": "matching", "category": "grammar", "topic": "conditional linkers",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Match the beginnings and endings.",
+      "pairs": [
+        { "left": "Unless it rains,", "right": "we'll have the picnic in the park." },
+        { "left": "Supposing you won the lottery,", "right": "what would you do first?" },
+        { "left": "Leave now;", "right": "otherwise, you'll be late." },
+        { "left": "You can stay out late", "right": "as long as you text me." }
+      ],
+      "explanation": "*Unless* = if not; *supposing* = imagine; *otherwise* = if you don't; *as long as* = only if."
+    },
+    {
+      "id": "b2-u03-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "decisions",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "What does the phrase in bold mean?",
+      "context": "I signed up for the course, but now I'm **having second thoughts** because it's so expensive.",
+      "options": ["starting to doubt my decision", "thinking twice as fast", "feeling very excited", "planning a second course"],
+      "answer": 0,
+      "explanation": "**Have second thoughts** = start to doubt a decision you have made (mulai ragu)."
+    }
+  ]
+}

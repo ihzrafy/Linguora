@@ -1,0 +1,1407 @@
+{
+  "slug": "c2-u09-critical-reading",
+  "number": 9,
+  "title": "Reading Between the Lines",
+  "description": "Learn to recover what writers and speakers mean but do not say: implied meaning, irony, understatement, stance markers and the evaluative language of reviews and opinion journalism.",
+  "objectives": [
+    "Infer implied meanings, including faint praise, indirect refusals and scalar implicature",
+    "Recognise verbal and situational irony and the signals that mark sarcasm in speech and writing",
+    "Interpret understatement, litotes and hyperbole and use them for deliberate effect",
+    "Identify a writer's stance through attitude adverbs and evaluative reporting verbs",
+    "Analyse the purpose, attitude and evaluative vocabulary of reviews and opinion columns"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u09-l1-implicature",
+      "title": "Implicature: Saying Less, Meaning More",
+      "summary": "Work out what a speaker or writer implies beyond the literal meaning of their words.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Distinguish between what is literally said and what is implied",
+        "Recognise damning with faint praise in references and reviews",
+        "Interpret indirect refusals and scalar implicatures such as 'some' meaning 'not all'"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Said versus meant\nIn ordinary communication we rarely say everything we mean. Listeners assume that a speaker is being **relevant, truthful, sufficiently informative and clear**, and when a remark seems to break one of these expectations, they look for a hidden meaning. That hidden meaning is called an **implicature**. If you ask a colleague whether the new manager is any good and she replies, *'Well, she's always very well dressed,'* she has not said anything negative, yet you understand that she has little to praise in the manager's work.\n\n### Damning with faint praise\nWhen someone praises only trivial qualities in a context where important ones are expected, the praise itself becomes criticism. This is especially common in references, reviews and reports.\n\n| What is written | Context | What is implied |\n|---|---|---|\n| *He was always punctual.* | a reference for a senior post | He had few strengths worth mentioning. |\n| *The cover is beautiful.* | a review of a novel | The writing is disappointing. |\n| *The hotel is conveniently close to the airport.* | a holiday review | There is little else to recommend it. |\n\n### Indirect refusals and requests\nNative speakers often refuse or request by stating a reason rather than the decision. *'Saturday is my sister's wedding'* answers *'Can you work on Saturday?'* with a clear **no**, and *'It's rather cold in here'* may be a request to close the window. Taking such remarks literally (*'Oh, how nice for your sister!'*) misses the point and can seem socially awkward.\n\n### Scalar implicature\nSome words sit on a scale: *some – most – all*, *possible – likely – certain*, *good – excellent*, *warm – hot*. Choosing a weaker word normally implies that the stronger one does not apply. *'Some of the students passed'* is literally true even if all passed, but a cooperative speaker who knew that everyone had passed would have said so; the listener therefore infers **not all**. Likewise, *'The results are encouraging'* usually implies that they are not yet conclusive.\n\n### Flouting relevance\nAn apparently irrelevant reply often carries the message. *A: 'Has Tomas finished the report?' B: 'He's been on the phone to his girlfriend all morning.'* B implies that Tomas has not finished, and probably also disapproves.\n\n### How to read for implicature\n1. Ask what the reader or listener expected to hear.\n2. Notice what is **missing**, **weakened** or **apparently off-topic**.\n3. Ask why a cooperative person would phrase it this way.\n4. Check the inference against the wider context, since implicatures can be cancelled: *'Some of the students passed – in fact, all of them did.'*",
+        "examples": [
+          {
+            "en": "Ms. Varga always kept her desk extremely tidy.",
+            "id": "Bu Varga selalu menjaga mejanya sangat rapi.",
+            "note": "In a job reference, praising only tidiness implies weak professional performance."
+          },
+          {
+            "en": "A: Could you proofread my thesis this weekend? B: I've got three deadlines on Monday.",
+            "id": "A: Bisakah kamu mengoreksi tesisku akhir pekan ini? B: Aku punya tiga tenggat pada hari Senin.",
+            "note": "An indirect refusal: B gives a reason instead of saying no."
+          },
+          {
+            "en": "Some of the guests enjoyed the speech.",
+            "id": "Sebagian tamu menikmati pidato itu.",
+            "note": "Scalar implicature: 'some' suggests that many guests did not."
+          },
+          {
+            "en": "A: How was the conference? B: The coffee was excellent.",
+            "id": "A: Bagaimana konferensinya? B: Kopinya enak sekali.",
+            "note": "Praising a minor detail implies that the talks were disappointing."
+          },
+          {
+            "en": "You might want to check those figures again.",
+            "id": "Mungkin sebaiknya Anda memeriksa angka-angka itu lagi.",
+            "note": "A polite suggestion that implies the figures contain errors."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "implicature",
+            "pos": "noun",
+            "ipa": "/ˈɪmplɪkətʃə/",
+            "meaning": "makna tersirat (yang disimpulkan dari ujaran)",
+            "example": "The implicature of her reply was that she had no intention of helping."
+          },
+          {
+            "word": "imply",
+            "pos": "verb",
+            "ipa": "/ɪmˈplaɪ/",
+            "meaning": "menyiratkan",
+            "example": "Are you implying that I made the mistake deliberately?"
+          },
+          {
+            "word": "infer",
+            "pos": "verb",
+            "ipa": "/ɪnˈfɜː/",
+            "meaning": "menyimpulkan (dari petunjuk)",
+            "example": "From his silence, we inferred that the deal had collapsed."
+          },
+          {
+            "word": "insinuate",
+            "pos": "verb",
+            "ipa": "/ɪnˈsɪnjueɪt/",
+            "meaning": "menyindir, mengisyaratkan sesuatu yang negatif secara tidak langsung",
+            "example": "The article insinuated that the mayor had known about the fraud."
+          },
+          {
+            "word": "veiled",
+            "pos": "adjective",
+            "ipa": "/veɪld/",
+            "meaning": "terselubung, tidak terang-terangan",
+            "example": "His comment about 'loyalty' was a thinly veiled warning."
+          },
+          {
+            "word": "faint praise",
+            "pos": "noun phrase",
+            "ipa": "/ˌfeɪnt ˈpreɪz/",
+            "meaning": "pujian setengah hati (yang sebenarnya mengkritik)",
+            "example": "Calling the play 'competently lit' was damning it with faint praise."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Weaker scalar term (some / possible / good) → implies the stronger term does not apply",
+            "example": "Most of the samples were usable.",
+            "note": "The listener infers that some samples were not usable."
+          },
+          {
+            "pattern": "Statement of a reason instead of a decision → indirect refusal",
+            "example": "A: Can you join us for dinner? B: I'm on call tonight, I'm afraid.",
+            "note": "'I'm afraid' signals that the reason is meant as a refusal."
+          },
+          {
+            "pattern": "You might want to / It might be worth + -ing → tactful criticism or advice",
+            "example": "It might be worth reading the brief again.",
+            "note": "Implies that the listener has misunderstood the brief."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "A: Can you help me move on Sunday? B: My parents are visiting. A: Great, so you're free in the morning?",
+            "right": "A: Can you help me move on Sunday? B: My parents are visiting. A: Oh, of course – never mind.",
+            "why": "B's reason is an indirect refusal; responding as if it were neutral information misses the implicature."
+          },
+          {
+            "wrong": "The reference says he was 'reliably punctual', so he must be an outstanding candidate.",
+            "right": "The reference only mentions that he was punctual, which suggests the writer had little else to praise.",
+            "why": "Faint praise of a trivial quality in a reference is normally a warning, not a recommendation."
+          },
+          {
+            "wrong": "Some of the volunteers came, so we can assume all of them were there.",
+            "right": "Some of the volunteers came, so we can assume that not all of them were there.",
+            "why": "'Some' normally implies 'not all'; if everyone had come, the speaker would have said so."
+          }
+        ],
+        "summary": "An implicature is a meaning the listener infers because a speaker's words seem less informative, less relevant or less direct than expected. Watch for faint praise of trivial qualities, reasons given instead of decisions, weaker scalar words such as 'some' or 'possible', and apparently irrelevant replies. Always check your inference against the context, because implicatures can be cancelled.",
+        "reviewCards": [
+          {
+            "front": "Implicature",
+            "back": "Meaning that is implied rather than stated, inferred from what is said (or not said) in context."
+          },
+          {
+            "front": "Damning with faint praise",
+            "back": "Praising only minor qualities so that the praise itself becomes criticism (e.g. 'He was always punctual')."
+          },
+          {
+            "front": "'Some of the students passed.'",
+            "back": "Scalar implicature: normally understood as 'not all of them passed'."
+          },
+          {
+            "front": "A: Can you work on Saturday? B: It's my sister's wedding.",
+            "back": "Indirect refusal: the reason replaces the word 'no'."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u09-l1-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "implicature",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Read this extract from a reference for a senior project manager. What does the writer most likely imply?",
+          "instructions": "Ask yourself what a reader expects in a reference for a senior post, and notice what is missing.",
+          "context": "Mr. Calloway worked in our department for four years. He was always punctual, and his handwriting is admirably neat.",
+          "options": [
+            "The writer has little positive to say about his professional ability.",
+            "The writer considers him an outstanding candidate for the post.",
+            "The writer is not sure whether he arrived on time.",
+            "The writer recommends him mainly for a job that involves writing by hand."
+          ],
+          "answer": 0,
+          "explanation": "A reference for a senior post is expected to discuss leadership, judgement and results. Praising only punctuality and handwriting is damning with faint praise: the omission implies that there was nothing more important to praise. The text does not express doubt about punctuality, and nothing suggests a recommendation for handwriting work.",
+          "misconception": "Reading only the literal words, learners see positive adjectives and conclude that the reference is favourable."
+        },
+        {
+          "id": "c2-u09-l1-q2",
+          "type": "multiple_select",
+          "category": "conversation",
+          "topic": "indirect refusals",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Daniela asks: 'Could you cover my shift on Saturday?' Which replies imply a refusal? Choose all that apply.",
+          "options": [
+            "Saturday's my brother's wedding, actually.",
+            "I'd love to, but I've promised to help my parents move house.",
+            "Sure – what time do you need me there?",
+            "I've got nothing planned that day, so that's fine.",
+            "Let me just check my diary... yes, I can do that."
+          ],
+          "answers": [0, 1],
+          "explanation": "The first reply gives a reason that makes working impossible, so it functions as 'no' without the word itself; 'actually' signals that the information is relevant to the request. The second softens the refusal with 'I'd love to, but'. The other three replies clearly accept the request.",
+          "misconception": "Learners sometimes wait for an explicit 'no' and treat a stated reason as mere background information."
+        },
+        {
+          "id": "c2-u09-l1-q3",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "scalar implicature",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the reply that makes the conversation coherent.",
+          "dialogue": [
+            { "speaker": "Anouk", "text": "So, did all the volunteers turn up for the beach clean-up?" },
+            { "speaker": "Ravi", "text": null },
+            { "speaker": "Anouk", "text": "Oh dear. How many of them didn't come?" }
+          ],
+          "options": [
+            "Some of them did.",
+            "Every single one of them did.",
+            "Yes, the whole team was there by eight.",
+            "Absolutely – not one of them stayed at home."
+          ],
+          "answer": 0,
+          "explanation": "'Some of them did' implies 'not all of them did' (a scalar implicature), which is why Anouk asks how many did not come. The other replies all state that everyone came, which makes Anouk's follow-up question illogical.",
+          "misconception": "Treating 'some' as logically compatible with 'all' and ignoring what it implies in conversation."
+        },
+        {
+          "id": "c2-u09-l1-q4",
+          "type": "matching",
+          "category": "conversation",
+          "topic": "implied meaning",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each remark with the meaning it most likely implies in its context.",
+          "pairs": [
+            { "left": "'I'll think about it.' (to a salesperson at the door)", "right": "I'm politely declining your offer." },
+            { "left": "'Well, it's certainly different.' (about a friend's new haircut)", "right": "I don't really like it." },
+            { "left": "'Is that really the time?' (to a host late in the evening)", "right": "I think I should be leaving now." },
+            { "left": "'It's a bit chilly in here, isn't it?' (to someone near an open window)", "right": "Could you close the window, please?" },
+            { "left": "'You might want to double-check those figures.' (from a manager)", "right": "I think your figures contain mistakes." }
+          ],
+          "explanation": "Each remark replaces a direct statement with a more tactful one: a vague promise to think stands for 'no'; 'certainly different' avoids saying 'I like it'; remarking on the time signals a wish to leave; commenting on the temperature is an indirect request; and 'you might want to' softens criticism."
+        },
+        {
+          "id": "c2-u09-l1-q5",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "flouting relevance",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "What does Mrs. Halloran imply?",
+          "context": "Director: Has Tomas finished the quarterly report yet?\nMrs. Halloran: He's been on the phone to his friends since nine o'clock.",
+          "options": [
+            "Tomas has probably not finished the report, and she disapproves of how he is spending his time.",
+            "Tomas finished the report early and is now relaxing.",
+            "Tomas is phoning clients to collect data for the report.",
+            "She does not know who Tomas is."
+          ],
+          "answer": 0,
+          "explanation": "Her reply does not answer the question directly; by mentioning personal calls since nine, she implies that he has been wasting time and has not finished. Nothing suggests the report is done, the calls are to 'friends', not clients, and she clearly knows Tomas."
+        },
+        {
+          "id": "c2-u09-l1-q6",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "faint praise",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the fixed expression.",
+          "text": "Describing a new opera only as 'well within its running time' is a classic case of damning with ___ praise.",
+          "answers": [["faint"]],
+          "explanation": "The idiom is 'to damn with faint praise': to praise something so weakly or for such a trivial quality that the praise amounts to criticism."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u09-l2-irony-sarcasm",
+      "title": "Irony and Sarcasm",
+      "summary": "Recognise verbal and situational irony and the linguistic signals that mark sarcasm.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Distinguish verbal irony, sarcasm and situational irony",
+        "Recognise signals of ironic distance such as scare quotes, 'so-called' and ironic 'naturally'",
+        "Interpret the attitude behind ironic remarks in conversation and journalism"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Three kinds of irony\n**Verbal irony** means saying the opposite of, or something very different from, what you mean, expecting the listener to notice the gap. **Sarcasm** is verbal irony with a target: it mocks or wounds someone. **Situational irony** is not about language at all; it describes events that turn out the opposite of what was intended or expected.\n\n| Type | Example | What makes it ironic |\n|---|---|---|\n| Verbal irony | *Lovely weather for a picnic!* (in a thunderstorm) | words contradict the situation |\n| Sarcasm | *Oh, well done – you've locked us out again.* | ironic praise aimed at a person |\n| Situational irony | The fire station burned down because its own alarm was faulty. | outcome reverses expectation |\n\n### Signals of irony in speech\nIn conversation, irony is carried by **intonation** (a flat or exaggerated tone), by context, and by stock phrases that are frequently used ironically:\n- *Oh, brilliant / great / marvellous / wonderful.*\n- *Thanks a lot. / That's all I needed. / Just what we needed.*\n- *What a surprise. / Who would have thought it?*\n- Exaggerated politeness: *Do take your time – we've only been waiting an hour.*\n\nNone of these is ironic in itself; *Oh, brilliant* is sincere when someone receives good news. The irony comes from the **mismatch between words and circumstances**.\n\n### Signals of irony in writing\nWriters cannot rely on tone of voice, so they use textual markers:\n- **Scare quotes**: *the council's 'consultation'* suggests that it was not a real consultation.\n- **So-called**: *the so-called experts* questions whether the label is deserved.\n- Ironic **of course / naturally / needless to say**: *Naturally, nobody was held responsible.* The adverb pretends that an outrageous outcome was perfectly predictable.\n- Mock-grand vocabulary for trivial things: *The committee's historic decision to repaint the bins.*\n- Deadpan juxtaposition: *The minister announced record investment in rail; the next day, the 7:15 was cancelled again.*\n\n### Interpreting irony\nTo decide whether a remark is ironic, ask: (1) Would a reasonable person sincerely say this in this situation? (2) Is there a marker of distance? (3) What attitude – amusement, frustration, contempt – explains the choice? Misreading irony can reverse the whole meaning of a text: a reader who takes *Truly, the rail company spoils us* at face value thinks the writer is grateful.\n\n### Register and risk\nIrony is common in British conversation, satire and opinion journalism, but it is risky in professional emails and across cultures, where it may be read literally or seen as rude. In formal writing, prefer explicit criticism unless you are confident that your readers share the context.",
+        "examples": [
+          {
+            "en": "Oh, wonderful – the printer's jammed again.",
+            "id": "Wah, bagus sekali – printernya macet lagi.",
+            "note": "Verbal irony: 'wonderful' expresses frustration."
+          },
+          {
+            "en": "The so-called reforms have left the system exactly as it was.",
+            "id": "Apa yang disebut 'reformasi' itu membuat sistem tetap persis seperti semula.",
+            "note": "'So-called' shows the writer doubts the label."
+          },
+          {
+            "en": "Naturally, the report blamed everyone except the people who commissioned it.",
+            "id": "Tentu saja, laporan itu menyalahkan semua orang kecuali pihak yang memesannya.",
+            "note": "Ironic 'naturally' presents a biased outcome as predictable."
+          },
+          {
+            "en": "The anti-litter campaign ended with thousands of leaflets blowing across the square.",
+            "id": "Kampanye anti-sampah itu berakhir dengan ribuan selebaran berterbangan di alun-alun.",
+            "note": "Situational irony: the campaign created the very problem it opposed."
+          },
+          {
+            "en": "Thanks a lot – now everyone knows about the surprise party.",
+            "id": "Terima kasih banyak – sekarang semua orang tahu tentang pesta kejutan itu.",
+            "note": "Sarcasm aimed at the person who revealed the secret."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "sarcasm",
+            "pos": "noun",
+            "ipa": "/ˈsɑːkæzəm/",
+            "meaning": "sarkasme, sindiran tajam",
+            "example": "'Great timing,' she said, with heavy sarcasm."
+          },
+          {
+            "word": "sardonic",
+            "pos": "adjective",
+            "ipa": "/sɑːˈdɒnɪk/",
+            "meaning": "sinis dan mengejek",
+            "example": "He greeted the announcement with a sardonic smile."
+          },
+          {
+            "word": "wry",
+            "pos": "adjective",
+            "ipa": "/raɪ/",
+            "meaning": "masam-lucu, jenaka secara getir",
+            "example": "She made a wry comment about the 'luxury' hotel's broken lift."
+          },
+          {
+            "word": "deadpan",
+            "pos": "adjective",
+            "ipa": "/ˈdedpæn/",
+            "meaning": "datar tanpa ekspresi (saat melucu)",
+            "example": "His deadpan delivery made the joke even funnier."
+          },
+          {
+            "word": "tongue-in-cheek",
+            "pos": "adjective",
+            "ipa": "/ˌtʌŋ ɪn ˈtʃiːk/",
+            "meaning": "bercanda, tidak dimaksudkan serius",
+            "example": "The article was a tongue-in-cheek guide to surviving office parties."
+          },
+          {
+            "word": "scare quotes",
+            "pos": "noun",
+            "ipa": "/ˈskeə kwəʊts/",
+            "meaning": "tanda kutip yang menunjukkan keraguan atau ejekan",
+            "example": "The scare quotes around 'improvements' made the writer's scepticism obvious."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Oh + positive adjective (+ dash) + negative fact",
+            "example": "Oh, marvellous – the trains are on strike again.",
+            "note": "The positive word contradicts the bad news, signalling irony."
+          },
+          {
+            "pattern": "the so-called + noun / the 'noun' (scare quotes)",
+            "example": "The 'improvements' have made the website harder to use.",
+            "note": "Distances the writer from a label used by others."
+          },
+          {
+            "pattern": "Naturally / Of course / Needless to say + unacceptable outcome",
+            "example": "Needless to say, the bonuses were paid anyway.",
+            "note": "The adverb mocks the predictability of a bad outcome."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "It is ironic that it rained on the day of our picnic.",
+            "right": "It is unfortunate that it rained on the day of our picnic.",
+            "why": "Bad luck is not irony. Situational irony requires an outcome that reverses what was intended or expected, e.g. a weather forecaster's picnic ruined because she ignored her own forecast."
+          },
+          {
+            "wrong": "Dear Ms. Pratt, Thank you so much for your extremely prompt reply after only six weeks.",
+            "right": "Dear Ms. Pratt, I am still awaiting a reply to my letter of 3 May and would be grateful for a response this week.",
+            "why": "Sarcasm in formal correspondence is easily misread and seems hostile; state the problem directly instead."
+          },
+          {
+            "wrong": "The writer is pleased with the 'new and improved' timetable.",
+            "right": "The scare quotes suggest the writer doubts that the timetable is new or improved.",
+            "why": "Quotation marks around a positive label usually signal ironic distance, not approval."
+          }
+        ],
+        "summary": "Verbal irony says something different from what is meant; sarcasm uses it to mock a target; situational irony describes outcomes that reverse expectations. In speech, irony relies on tone and stock phrases like 'Oh, brilliant'; in writing, look for scare quotes, 'so-called', ironic 'naturally' and deadpan juxtaposition. Always check whether the words match the situation before taking them literally.",
+        "reviewCards": [
+          {
+            "front": "Verbal irony vs sarcasm",
+            "back": "Verbal irony says the opposite of what is meant; sarcasm is irony used to mock or criticise someone."
+          },
+          {
+            "front": "Situational irony",
+            "back": "An outcome that reverses what was intended or expected (a fire station burned down by its own faulty alarm)."
+          },
+          {
+            "front": "the 'consultation' (in quotation marks)",
+            "back": "Scare quotes: the writer doubts it deserves the name."
+          },
+          {
+            "front": "'Naturally, nobody resigned.'",
+            "back": "Ironic 'naturally': mocks a predictable but unacceptable outcome."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u09-l2-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "sarcasm",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "What is Hana's attitude in this post?",
+          "instructions": "Compare the words she uses with what actually happened to her.",
+          "context": "After waiting three hours for a delayed train that was then cancelled, Hana posted online: 'Another flawless day with Coastline Rail. Truly, they spoil us.'",
+          "options": [
+            "Bitterly sarcastic about the rail company",
+            "Genuinely grateful to the rail company",
+            "Neutral and purely factual",
+            "Surprised but secretly pleased by the cancellation"
+          ],
+          "answer": 0,
+          "explanation": "'Flawless' and 'they spoil us' are positive words that flatly contradict a three-hour delay followed by a cancellation; the mismatch signals sarcasm aimed at the company. A grateful or neutral reading ignores the context, and nothing suggests she welcomed the cancellation.",
+          "misconception": "Taking positive vocabulary at face value without checking it against the situation."
+        },
+        {
+          "id": "c2-u09-l2-q2",
+          "type": "multiple_select",
+          "category": "reading",
+          "topic": "irony markers",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Which elements of this paragraph signal the writer's ironic distance? Choose all that apply.",
+          "context": "The council's 'consultation' lasted precisely four days, during which the so-called public meetings were held on weekday afternoons. Naturally, almost nobody attended.",
+          "options": [
+            "the quotation marks around 'consultation'",
+            "the phrase 'so-called'",
+            "the sentence adverb 'Naturally'",
+            "the possessive 'The council's'",
+            "the verb 'attended'"
+          ],
+          "answers": [0, 1, 2],
+          "explanation": "Scare quotes suggest the consultation was not genuine; 'so-called' questions whether the meetings were truly public; ironic 'Naturally' mocks the predictable outcome of holding meetings when most people are at work. The possessive and the verb 'attended' are neutral.",
+          "misconception": "Assuming irony must be carried by obviously emotional words rather than by punctuation and sentence adverbs."
+        },
+        {
+          "id": "c2-u09-l2-q3",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "situational irony",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which of these is an example of situational irony?",
+          "options": [
+            "A fire station burns down because its own smoke alarm was faulty.",
+            "A firefighter rescues a cat from a tall tree.",
+            "Someone says 'Lovely weather!' during a violent storm.",
+            "A journalist claims that 'millions' attended a small local fair."
+          ],
+          "answer": 0,
+          "explanation": "Situational irony is an outcome that reverses what is expected: a fire station should be the place best protected against fire. The storm remark is verbal irony (a matter of language, not events), the exaggerated crowd figure is hyperbole, and the rescue is simply an ordinary event."
+        },
+        {
+          "id": "c2-u09-l2-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "irony markers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "What does 'so-called' suggest in this sentence?",
+          "context": "The so-called experts on the panel failed to predict a single one of the year's major market shifts.",
+          "options": [
+            "The writer doubts that they deserve to be called experts.",
+            "The experts are famous and widely respected.",
+            "The writer does not know the experts' names.",
+            "The writer is neutrally quoting their official job titles."
+          ],
+          "answer": 0,
+          "explanation": "Combined with 'failed to predict a single one', 'so-called' expresses scepticism about the label 'experts'. Although 'so-called' can occasionally be neutral (the so-called Silk Road), the context of failure here makes the sceptical reading decisive.",
+          "misconception": "Thinking 'so-called' is always neutral, as in 'the so-called Silk Road'."
+        },
+        {
+          "id": "c2-u09-l2-q5",
+          "type": "dropdown",
+          "category": "reading",
+          "topic": "verbal irony",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the options that complete the passage logically.",
+          "text": "When the projector broke down for the third time that morning, Leo muttered, '___, just what we needed.' The ___ of his remark lay in the gap between his words and his obvious frustration.",
+          "choices": [
+            ["Oh, wonderful", "Oh, how dreadful", "Oh, no matter"],
+            ["irony", "sincerity", "ambiguity"]
+          ],
+          "answers": [0, 0],
+          "explanation": "'Oh, wonderful – just what we needed' is a stock ironic phrase: positive words used about a setback. The second gap names the device: the gap between words and feelings is irony. 'Oh, how dreadful' would be sincere and would not fit 'just what we needed'; 'sincerity' contradicts 'gap between his words and his frustration'."
+        },
+        {
+          "id": "c2-u09-l2-q6",
+          "type": "translation",
+          "category": "conversation",
+          "topic": "sarcasm",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into natural English, keeping the sarcastic tone.",
+          "context": "Your friend has just realised that you have both missed the last bus home.",
+          "source": "Bagus sekali, sekarang kita ketinggalan bus terakhir.",
+          "direction": "id-en",
+          "answers": [
+            "Great, now we've missed the last bus.",
+            "Great, now we have missed the last bus.",
+            "Oh great, now we've missed the last bus.",
+            "Oh great, now we have missed the last bus.",
+            "Brilliant, now we've missed the last bus.",
+            "Brilliant, now we have missed the last bus.",
+            "Oh brilliant, now we've missed the last bus.",
+            "Wonderful, now we've missed the last bus.",
+            "Wonderful, now we have missed the last bus.",
+            "Oh wonderful, now we've missed the last bus.",
+            "Fantastic, now we've missed the last bus.",
+            "Perfect, now we've missed the last bus.",
+            "Perfect, now we have missed the last bus.",
+            "Great, we've missed the last bus now.",
+            "Just great, now we've missed the last bus.",
+            "Marvellous, now we've missed the last bus.",
+            "Very good, now we've missed the last bus."
+          ],
+          "explanation": "Indonesian 'Bagus sekali' used ironically corresponds to English 'Great', 'Brilliant' or 'Wonderful' with a sarcastic tone. Use the present perfect 'we've missed' because the result (no bus) matters now."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u09-l3-understatement",
+      "title": "Understatement, Litotes and Hyperbole",
+      "summary": "Interpret and use understatement, litotes and hyperbole to control emphasis and tone.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Recognise understatement and litotes (not bad, not unlike, no mean feat)",
+        "Distinguish understatement from hyperbole and interpret the speaker's real meaning",
+        "Use understatement deliberately for modesty, tact or dry humour"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Understatement\n**Understatement** presents something as less important, less intense or less impressive than it really is. It is a hallmark of British English in particular, and it can express modesty, tact, dry humour or even strong criticism. When a pilot announces *'We're experiencing a little turbulence'* as the plane drops sharply, or a climber who has lost three toes says *'It was a bit chilly up there'*, the listener is expected to adjust the meaning upwards.\n\n### Litotes: affirming by denying the opposite\n**Litotes** is a form of understatement that makes a positive point by negating its opposite. It is common in both conversation and formal writing because it sounds measured and cautious.\n\n| Litotes | Approximate meaning | Typical effect |\n|---|---|---|\n| *not bad (at all)* | good, sometimes very good | casual approval |\n| *not unlike* | quite similar to | cautious comparison |\n| *not without (its) problems/risks* | has significant problems/risks | tactful criticism |\n| *no mean feat / no small achievement* | a considerable achievement | measured praise |\n| *not uncommon* | fairly common | academic caution |\n| *hardly ideal* | quite unsatisfactory | polite complaint |\n\nNote that a double negative such as *not unimpressive* is usually **weaker** than *impressive*: it suggests grudging or cautious approval.\n\n### Softening words\nUnderstatement also uses downtoners: *a bit of a problem*, *somewhat disappointing*, *rather unfortunate*, *not the most patient person*, *slightly worrying*. *'We've had a bit of a setback'* from a project manager often means a serious problem. *'I wouldn't say no to a coffee'* means *'I'd like a coffee'*.\n\n### Hyperbole\n**Hyperbole** is the opposite: deliberate exaggeration that no one is meant to take literally. *I've told you a thousand times*, *I'm starving*, *This bag weighs a ton*, *We waited for ages*. Hyperbole expresses emotion (impatience, enthusiasm, annoyance) and is very frequent in informal speech and advertising, but it weakens academic and professional writing.\n\n### Reading the real meaning\nBecause both devices create a gap between words and reality, interpreting them requires context:\n- Understatement: **scale the meaning up**. *Not the warmest welcome* may mean an openly hostile reception.\n- Hyperbole: **scale it down**. *Everybody* was there may mean many people.\n- When understatement is used about a disaster, it often carries **dry humour** or **irony**: *The flood was something of an inconvenience.*\n\n### Using understatement yourself\nUnderstatement is useful for modesty (*I didn't do too badly* after winning a prize), for criticising without confrontation (*The proposal is not without its weaknesses*), and for sounding authoritative in academic writing (*This is not an insignificant finding*). Overusing it, however, can make your writing seem evasive.",
+        "examples": [
+          {
+            "en": "Running a marathon at seventy-five is no mean feat.",
+            "id": "Berlari maraton di usia tujuh puluh lima tahun bukanlah prestasi kecil.",
+            "note": "Litotes: the speaker means it is a remarkable achievement."
+          },
+          {
+            "en": "The new software is not without its teething problems.",
+            "id": "Perangkat lunak baru itu memiliki cukup banyak masalah awal.",
+            "note": "Tactful way of saying it has noticeable problems."
+          },
+          {
+            "en": "Her style is not unlike that of the early Impressionists.",
+            "id": "Gayanya cukup mirip dengan gaya para pelukis Impresionis awal.",
+            "note": "Cautious comparison typical of criticism and academic writing."
+          },
+          {
+            "en": "Losing our biggest client was a bit of a blow.",
+            "id": "Kehilangan klien terbesar kami merupakan pukulan yang cukup berat.",
+            "note": "Understatement: the loss was in fact very serious."
+          },
+          {
+            "en": "I've been waiting here for centuries!",
+            "id": "Aku sudah menunggu di sini lama sekali!",
+            "note": "Hyperbole expressing impatience."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "understatement",
+            "pos": "noun",
+            "ipa": "/ˈʌndəsteɪtmənt/",
+            "meaning": "pernyataan yang sengaja dikecilkan",
+            "example": "To call the storm 'breezy' was the understatement of the year."
+          },
+          {
+            "word": "litotes",
+            "pos": "noun",
+            "ipa": "/laɪˈtəʊtiːz/",
+            "meaning": "litotes, penegasan dengan menyangkal kebalikannya",
+            "example": "'Not bad at all' is a common example of litotes."
+          },
+          {
+            "word": "hyperbole",
+            "pos": "noun",
+            "ipa": "/haɪˈpɜːbəli/",
+            "meaning": "hiperbola, pernyataan yang dilebih-lebihkan",
+            "example": "Advertising relies heavily on hyperbole."
+          },
+          {
+            "word": "downplay",
+            "pos": "verb",
+            "ipa": "/ˌdaʊnˈpleɪ/",
+            "meaning": "mengecilkan arti, meremehkan",
+            "example": "The company tried to downplay the seriousness of the data breach."
+          },
+          {
+            "word": "no mean feat",
+            "pos": "phrase",
+            "ipa": "/nəʊ ˌmiːn ˈfiːt/",
+            "meaning": "bukan prestasi kecil, pencapaian besar",
+            "example": "Finishing the bridge on budget was no mean feat."
+          },
+          {
+            "word": "dry",
+            "pos": "adjective",
+            "ipa": "/draɪ/",
+            "meaning": "(humor) datar dan halus, disampaikan tanpa ekspresi",
+            "example": "She has a dry sense of humour that some visitors miss entirely."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "not + un-/in- adjective (not unimportant, not insignificant)",
+            "example": "These are not insignificant costs.",
+            "note": "Litotes: a measured, often slightly weaker positive."
+          },
+          {
+            "pattern": "not without + noun (not without risk / its critics / merit)",
+            "example": "The plan is not without merit.",
+            "note": "Concedes a point cautiously; very common in formal evaluation."
+          },
+          {
+            "pattern": "a bit of a / something of a + noun",
+            "example": "The launch was something of a disappointment.",
+            "note": "Softens a negative noun; context often shows it was serious."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Restoring the mill in a year was not a mean feat.",
+            "right": "Restoring the mill in a year was no mean feat.",
+            "why": "The fixed expression is 'no mean feat'; 'not a mean feat' sounds unidiomatic."
+          },
+          {
+            "wrong": "The results were not unimpressive, so the panel was overwhelmed with admiration.",
+            "right": "The results were not unimpressive, so the panel gave them cautious approval.",
+            "why": "A double negative like 'not unimpressive' suggests moderate or grudging approval, not overwhelming admiration."
+          },
+          {
+            "wrong": "In our study, thousands of participants were absolutely starving after the test.",
+            "right": "In our study, many participants reported feeling very hungry after the test.",
+            "why": "Hyperbole is out of place in academic writing; report findings precisely."
+          }
+        ],
+        "summary": "Understatement makes things sound smaller than they are, and litotes affirms something by denying its opposite (no mean feat, not without risk, not unlike). Hyperbole does the reverse by exaggerating. When reading, scale understatement up and hyperbole down, and use context to detect humour, tact or criticism.",
+        "reviewCards": [
+          {
+            "front": "no mean feat",
+            "back": "Litotes: a considerable achievement."
+          },
+          {
+            "front": "not without its problems",
+            "back": "Understated criticism: it has significant problems."
+          },
+          {
+            "front": "I wouldn't say no to a coffee.",
+            "back": "Understatement: I'd like a coffee."
+          },
+          {
+            "front": "Hyperbole",
+            "back": "Deliberate exaggeration (I've told you a thousand times) — avoid it in academic writing."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u09-l3-q1",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "understatement",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Match each understated remark with what the speaker really means.",
+          "instructions": "Scale the meaning up: understatement presents things as smaller than they are.",
+          "pairs": [
+            { "left": "That was no mean feat.", "right": "That was a considerable achievement." },
+            { "left": "I wouldn't say no to a coffee.", "right": "I'd like a coffee." },
+            { "left": "The hotel was hardly ideal.", "right": "The hotel was quite unsatisfactory." },
+            { "left": "She's not unlike her grandmother.", "right": "She resembles her grandmother quite closely." },
+            { "left": "He's not the most patient person.", "right": "He is rather impatient." }
+          ],
+          "explanation": "Each remark uses negation or softening to understate: 'no mean feat' praises; 'I wouldn't say no' accepts; 'hardly ideal' complains; 'not unlike' compares; 'not the most patient' criticises tactfully."
+        },
+        {
+          "id": "c2-u09-l3-q2",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "litotes",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence as an understatement, using the words given.",
+          "sentence": "The plan is very risky.",
+          "cue": "Use: not without",
+          "answers": [
+            "The plan is not without risk.",
+            "The plan is not without risks.",
+            "The plan is not without its risks.",
+            "The plan isn't without risk.",
+            "The plan isn't without risks.",
+            "The plan isn't without its risks.",
+            "The plan is not without considerable risk.",
+            "The plan is not without significant risk.",
+            "The plan is not without its dangers.",
+            "The plan is not without danger."
+          ],
+          "explanation": "'Not without + noun' is a measured litotes: 'not without risk' tactfully signals that the risk is real and significant."
+        },
+        {
+          "id": "c2-u09-l3-q3",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "hyperbole",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence uses hyperbole rather than understatement?",
+          "options": [
+            "I've told you a thousand times to lock the back door.",
+            "The ten-hour delay was a slight inconvenience.",
+            "Her first novel was not bad at all.",
+            "The exam was somewhat challenging, I suppose."
+          ],
+          "answer": 0,
+          "explanation": "'A thousand times' is obvious exaggeration expressing impatience – hyperbole. The other sentences all make something sound smaller or milder than it is: calling a ten-hour delay 'slight', praising with 'not bad at all', and softening with 'somewhat'."
+        },
+        {
+          "id": "c2-u09-l3-q4",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "modest understatement",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the modest, understated reply that fits the conversation.",
+          "dialogue": [
+            { "speaker": "Imogen", "text": "I heard you won the regional chess championship – congratulations!" },
+            { "speaker": "Kofi", "text": null },
+            { "speaker": "Imogen", "text": "Don't be so modest – you beat the defending champion!" }
+          ],
+          "options": [
+            "Thanks. I didn't do too badly, I suppose.",
+            "Thanks. I didn't do very well, unfortunately.",
+            "Thanks. I was completely hopeless from start to finish.",
+            "Thanks. I'm easily the best player in the region now."
+          ],
+          "answer": 0,
+          "explanation": "'I didn't do too badly' is understatement: it plays down a real victory, which is why Imogen tells Kofi not to be so modest. The second and third replies contradict the fact that he won, and the fourth is boastful, so Imogen's reply would make no sense."
+        },
+        {
+          "id": "c2-u09-l3-q5",
+          "type": "word_order",
+          "category": "writing",
+          "topic": "litotes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the words in order to make an understated comment on a party.",
+          "words": ["It", "was", "not", "an", "entirely", "unsuccessful", "evening."],
+          "explanation": "The litotes 'not an entirely unsuccessful evening' grudgingly concedes that the evening went reasonably well. 'Not' negates the noun phrase 'an entirely unsuccessful evening'."
+        },
+        {
+          "id": "c2-u09-l3-q6",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "litotes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": [
+            "Restoring the old mill in under a year",
+            "was not a mean feat",
+            "for such a small",
+            "group of volunteers."
+          ],
+          "errorIndex": 1,
+          "correction": "was no mean feat",
+          "explanation": "The fixed litotes is 'no mean feat' (a considerable achievement). Replacing 'no' with 'not a' breaks the idiom."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u09-l4-stance-markers",
+      "title": "Stance Markers and Evaluative Language",
+      "summary": "Identify a writer's attitude through stance adverbs and evaluative reporting verbs.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Interpret attitude adverbs such as admittedly, frankly, regrettably and tellingly",
+        "Recognise doubt markers such as ostensibly, purportedly and allegedly",
+        "Choose reporting verbs (claim, concede, allege, insist, demonstrate) that signal the writer's stance"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is stance?\n**Stance** is the attitude a writer or speaker takes towards the information they present: how certain they are, whether they approve, and whether they accept other people's claims. Skilled writers rarely announce *'I disagree'*; instead, they reveal stance through small words, especially **sentence adverbs** and **reporting verbs**. Reading critically means noticing these choices.\n\n### Attitude and comment adverbs\n| Adverb | Writer's stance | Example |\n|---|---|---|\n| *admittedly* | concedes a point against their own argument | *Admittedly, the sample was small.* |\n| *frankly* | signals blunt honesty | *Frankly, the plan is unworkable.* |\n| *regrettably* | expresses regret or disapproval | *Regrettably, the library will close.* |\n| *tellingly* | marks a revealing detail | *Tellingly, no minister attended.* |\n| *understandably* | presents a reaction as reasonable | *Residents are understandably angry.* |\n| *to be fair* | adds balance after criticism | *To be fair, the budget was tiny.* |\n\n### Distancing and doubt\nSome adverbs show that the writer does **not** vouch for a claim:\n- *ostensibly* – this is the apparent or stated reason, but probably not the real one: *The trip was ostensibly a fact-finding mission.*\n- *purportedly* – this is what is claimed, but it is unverified: *a letter purportedly written by the poet*.\n- *allegedly* – this is an accusation that has not been proven: *the allegedly stolen paintings*.\n- *supposedly* – widely claimed, often with scepticism.\n\n### Reporting verbs as evaluation\nThe verb you choose to introduce someone else's words tells the reader what you think of them.\n\n| Stance | Verbs | Implication |\n|---|---|---|\n| Neutral | *state, say, report, note* | no judgement |\n| Doubtful | *claim, allege, purport* | the writer does not accept the claim as fact |\n| Accepting | *acknowledge, concede, admit, point out, demonstrate, show* | the claim is presented as true |\n| Emphatic / resistant | *insist, maintain, contend* | firm assertion, often against opposition |\n\n*The minister **claimed** the figures were wrong* leaves room for doubt; *The minister **acknowledged** that the figures were wrong* presents the error as a fact the minister reluctantly accepted. *Concede* and *admit* imply that the speaker gave ground, so it is illogical to write that someone *conceded* something they actively denied.\n\n### Reading for stance\nWhen you analyse an opinion piece, underline every adverb and reporting verb. A text full of *claims*, *purportedly* and scare quotes signals scepticism even if the writer never states an opinion. Conversely, *demonstrates*, *rightly* and *tellingly* reveal alignment with a source. In your own writing, choose these markers deliberately: an unintended *claim* can make you sound dismissive of a source you actually respect.",
+        "examples": [
+          {
+            "en": "Admittedly, the survey covered only three villages, but its findings are striking.",
+            "id": "Memang harus diakui, survei itu hanya mencakup tiga desa, tetapi temuannya mencolok.",
+            "note": "Concedes a weakness before reasserting the main point."
+          },
+          {
+            "en": "Tellingly, none of the board members bought shares in the new venture.",
+            "id": "Yang cukup menunjukkan, tidak satu pun anggota dewan membeli saham di usaha baru itu.",
+            "note": "Marks a detail that reveals more than it states."
+          },
+          {
+            "en": "The visit was ostensibly about trade, but most meetings concerned the election.",
+            "id": "Kunjungan itu tampaknya tentang perdagangan, tetapi sebagian besar pertemuan membahas pemilu.",
+            "note": "Signals that the stated purpose was not the real one."
+          },
+          {
+            "en": "The company insists that the leak posed no risk to public health.",
+            "id": "Perusahaan itu bersikeras bahwa kebocoran tersebut tidak membahayakan kesehatan publik.",
+            "note": "'Insists' suggests firm assertion in the face of doubt."
+          },
+          {
+            "en": "The study demonstrates that early screening reduces costs.",
+            "id": "Studi itu membuktikan bahwa skrining dini mengurangi biaya.",
+            "note": "'Demonstrates' presents the finding as established."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "ostensibly",
+            "pos": "adverb",
+            "ipa": "/ɒˈstensəbli/",
+            "meaning": "tampaknya, secara lahiriah (padahal belum tentu)",
+            "example": "He left early, ostensibly to catch a train."
+          },
+          {
+            "word": "purportedly",
+            "pos": "adverb",
+            "ipa": "/pəˈpɔːtɪdli/",
+            "meaning": "konon, menurut klaim (belum terbukti)",
+            "example": "The coin was purportedly found in a Roman shipwreck."
+          },
+          {
+            "word": "admittedly",
+            "pos": "adverb",
+            "ipa": "/ədˈmɪtɪdli/",
+            "meaning": "harus diakui, memang",
+            "example": "Admittedly, the hotel was expensive, but the service was superb."
+          },
+          {
+            "word": "tellingly",
+            "pos": "adverb",
+            "ipa": "/ˈtelɪŋli/",
+            "meaning": "secara mengungkapkan, yang cukup bermakna",
+            "example": "Tellingly, the report said nothing about safety."
+          },
+          {
+            "word": "allege",
+            "pos": "verb",
+            "ipa": "/əˈledʒ/",
+            "meaning": "menuduh, mendakwa (tanpa bukti)",
+            "example": "The lawsuit alleges that the firm ignored repeated warnings."
+          },
+          {
+            "word": "contend",
+            "pos": "verb",
+            "ipa": "/kənˈtend/",
+            "meaning": "berpendapat, menyatakan dengan tegas",
+            "example": "Critics contend that the tax will hit the poorest hardest."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Stance adverb, + clause",
+            "example": "Regrettably, the festival has been cancelled.",
+            "note": "The adverb comments on the whole clause, so it usually comes first, followed by a comma."
+          },
+          {
+            "pattern": "Admittedly / Granted, X, but Y",
+            "example": "Granted, the design is bold, but it is hardly practical.",
+            "note": "Concession–counterargument structure: Y is the writer's main point."
+          },
+          {
+            "pattern": "Subject + reporting verb (claim / concede / insist) + that-clause",
+            "example": "The author concedes that her data are incomplete.",
+            "note": "The verb reveals whether the writer accepts the claim."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The suspect conceded that he had never been to the warehouse.",
+            "right": "The suspect insisted that he had never been to the warehouse.",
+            "why": "'Concede' means to admit something reluctantly, usually against your interest; a denial is insisted on or claimed, not conceded."
+          },
+          {
+            "wrong": "The study claims that water boils at 100°C at sea level.",
+            "right": "The study notes that water boils at 100°C at sea level.",
+            "why": "'Claims' casts doubt on the statement; for an established fact a neutral verb such as 'notes' or 'states' is appropriate."
+          },
+          {
+            "wrong": "Ostensibly, the bridge was finished on time, which everyone agrees is true.",
+            "right": "Reportedly, the bridge was finished on time.",
+            "why": "'Ostensibly' implies that the apparent fact is probably not the real story; it cannot be combined with full agreement."
+          }
+        ],
+        "summary": "Stance markers reveal a writer's attitude without explicit statements of opinion. Attitude adverbs (admittedly, frankly, regrettably, tellingly) comment on the content; distancing adverbs (ostensibly, purportedly, allegedly) withhold support; and reporting verbs range from neutral (state) to doubtful (claim, allege) to accepting (concede, demonstrate). Notice these words when reading and choose them deliberately when writing.",
+        "reviewCards": [
+          {
+            "front": "ostensibly",
+            "back": "Apparently / according to the stated reason — but probably not the real one."
+          },
+          {
+            "front": "claim vs acknowledge",
+            "back": "'Claim' leaves doubt; 'acknowledge' presents the statement as true and admitted."
+          },
+          {
+            "front": "Admittedly, X, but Y",
+            "back": "Concede a weakness (X), then reassert the main point (Y)."
+          },
+          {
+            "front": "tellingly",
+            "back": "Marks a detail that reveals something significant."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u09-l4-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "reporting verbs",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which verb shows that the writer accepts the minister's statement as true?",
+          "instructions": "Think about which verbs present a statement as a fact that the speaker admits, and which only report a claim.",
+          "context": "After the audit, the minister ___ that the budget figures had been miscalculated.",
+          "options": ["acknowledged", "claimed", "alleged", "purported"],
+          "answer": 0,
+          "explanation": "'Acknowledge' presents the miscalculation as a fact that the minister admitted. 'Claimed' and 'alleged' leave the truth open to doubt, and 'purport' is not used with a that-clause in this way (it means 'appear or claim to be/do': the document purports to show ...).",
+          "misconception": "Treating all reporting verbs as neutral synonyms of 'said'."
+        },
+        {
+          "id": "c2-u09-l4-q2",
+          "type": "drag_drop",
+          "category": "reading",
+          "topic": "stance adverbs",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Complete the opinion paragraph with the most appropriate stance adverbs.",
+          "text": "___, the new bypass was built to ease congestion in the town centre; in reality, traffic there has barely changed. ___, the mayor's office has quietly stopped publishing its monthly traffic figures. ___, the project has created some local jobs, but this hardly justifies its enormous cost.",
+          "bank": ["Ostensibly", "Tellingly", "Admittedly", "Fortunately", "Similarly"],
+          "answers": ["Ostensibly", "Tellingly", "Admittedly"],
+          "explanation": "'Ostensibly' marks a stated purpose that reality contradicts ('in reality ...'). 'Tellingly' introduces a revealing detail – hiding the figures suggests the mayor knows they are bad. 'Admittedly' concedes a point in the project's favour before the 'but' reasserts the criticism. 'Fortunately' would contradict the critical tone, and 'Similarly' signals a parallel that does not exist."
+        },
+        {
+          "id": "c2-u09-l4-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "reporting verbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each reporting verb with the stance it usually conveys.",
+          "pairs": [
+            { "left": "claim", "right": "reports a statement whose truth the writer leaves open to doubt" },
+            { "left": "concede", "right": "reports a reluctant admission that weakens the speaker's position" },
+            { "left": "insist", "right": "reports a firm, repeated assertion in the face of disagreement" },
+            { "left": "allege", "right": "reports an accusation of wrongdoing that has not been proven" },
+            { "left": "demonstrate", "right": "presents the statement as proven by evidence" }
+          ],
+          "explanation": "Reporting verbs carry evaluation: 'claim' distances the writer; 'concede' signals reluctant agreement; 'insist' suggests resistance to opposition; 'allege' is used for unproven accusations; 'demonstrate' treats a finding as established."
+        },
+        {
+          "id": "c2-u09-l4-q4",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "concession",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence, beginning with the word given. Keep the meaning the same.",
+          "sentence": "I admit that the data set is small, but the trend is clear.",
+          "cue": "Begin with: Admittedly",
+          "answers": [
+            "Admittedly, the data set is small, but the trend is clear.",
+            "Admittedly, the dataset is small, but the trend is clear.",
+            "Admittedly the data set is small but the trend is clear.",
+            "Admittedly, the data set is small, but the trend is nevertheless clear.",
+            "Admittedly, the data set is small; however, the trend is clear.",
+            "Admittedly, the dataset is small; however, the trend is clear."
+          ],
+          "explanation": "'Admittedly' replaces 'I admit that' and introduces the concession; the 'but' clause then delivers the main point."
+        },
+        {
+          "id": "c2-u09-l4-q5",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "distancing adverbs",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "What is the writer's stance towards the manuscript's authorship?",
+          "context": "Purportedly written by a sixteenth-century monk, the manuscript has never been examined by independent scholars, and its owner has refused all requests to test the paper.",
+          "options": [
+            "The writer treats the claim about its authorship as unverified and suspicious.",
+            "The writer is convinced that the monk wrote it.",
+            "The writer has proved that the manuscript is a modern forgery.",
+            "The writer is uninterested in who wrote the manuscript."
+          ],
+          "answer": 0,
+          "explanation": "'Purportedly' presents the authorship as a claim, not a fact, and the details about the lack of examination and the owner's refusal add suspicion. The writer does not accept the claim, but neither does the text prove a forgery; and the focus on testing shows clear interest."
+        },
+        {
+          "id": "c2-u09-l4-q6",
+          "type": "translation",
+          "category": "writing",
+          "topic": "stance adverbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into natural English, beginning with a stance adverb or phrase.",
+          "source": "Terus terang, saya tidak yakin rencana ini akan berhasil.",
+          "direction": "id-en",
+          "answers": [
+            "Frankly, I'm not sure this plan will work.",
+            "Frankly, I am not sure this plan will work.",
+            "Frankly, I'm not sure that this plan will work.",
+            "Frankly, I am not sure that this plan will work.",
+            "Frankly, I'm not sure this plan will succeed.",
+            "Frankly, I am not sure this plan will succeed.",
+            "Frankly, I'm not convinced this plan will work.",
+            "Frankly, I'm not convinced that this plan will work.",
+            "Frankly, I am not convinced this plan will work.",
+            "Frankly, I doubt this plan will work.",
+            "Frankly, I doubt that this plan will work.",
+            "To be honest, I'm not sure this plan will work.",
+            "To be honest, I am not sure this plan will work.",
+            "To be frank, I'm not sure this plan will work.",
+            "To be frank, I am not sure this plan will work.",
+            "Honestly, I'm not sure this plan will work.",
+            "Honestly, I am not sure this plan will work.",
+            "Frankly speaking, I'm not sure this plan will work.",
+            "Frankly, I'm not sure this plan is going to work.",
+            "Frankly, I'm not sure the plan will work.",
+            "Frankly, I am not sure the plan will work.",
+            "To be honest, I'm not sure the plan will work."
+          ],
+          "explanation": "'Terus terang' corresponds to the stance adverb 'Frankly' (or 'To be honest / To be frank'), which signals that the speaker is about to say something blunt."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u09-l5-reviews-opinion",
+      "title": "Reviews and Opinion Journalism",
+      "summary": "Analyse the purpose, attitude and evaluative vocabulary of reviews and opinion columns.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Identify the purpose and overall attitude of a review or opinion column",
+        "Interpret and use precise critical vocabulary (derivative, lacklustre, assured, uneven, overwrought, understated)",
+        "Recognise mixed verdicts and concession–rebuttal structures in evaluative writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why genre matters\nReviews and opinion columns are **evaluative** genres: their main purpose is not to inform but to judge and persuade. Even when they contain facts (a plot summary, a policy figure), those facts are selected to support a verdict. Critical readers therefore ask three questions: *What is the writer's overall verdict? How strongly is it held? What techniques make it persuasive?*\n\n### The structure of a review\nMost reviews follow a recognisable pattern: a hook, brief context (author, director, venue), a selective summary, evaluation of specific elements (plot, performances, prose, food, service), and a **final verdict**. The verdict often appears in the last paragraph, sometimes in a single sentence: *'Flawed, then, but never less than fascinating.'* Read the ending carefully, and watch for **mixed verdicts**, which praise one element and criticise another.\n\n### Critical vocabulary\n| Positive | Negative | Mixed / balanced |\n|---|---|---|\n| *assured* – confident and skilful | *derivative* – copying earlier works | *uneven* – good in parts, weak in others |\n| *understated* – subtle, not exaggerated | *lacklustre* – dull, lacking energy | *flawed but fascinating* |\n| *nuanced* – showing subtle differences | *overwrought* – too emotional, excessive | *ambitious* – may hint at overreaching |\n| *compelling* – holding attention | *pedestrian* – ordinary, uninspired | *competent* – often faint praise |\n| *accomplished* – highly skilled | *laboured* – showing too much effort | *workmanlike* – solid but unexciting |\n\nNote that some words change value in context: *ambitious* can be praise, but *'an ambitious failure'* is criticism; *competent* and *workmanlike* often damn with faint praise.\n\n### Opinion journalism techniques\nColumnists combine the devices from this unit:\n- **Concession and rebuttal**: *Of course, the council has a point about parking. But ...*\n- **Loaded vocabulary**: *scheme* instead of *plan*, *splurge* instead of *spend*.\n- **Irony and scare quotes**: *the 'regeneration' of the old market*.\n- **Rhetorical questions** that assume an answer: *Who, exactly, asked for this?*\n- **Anecdote** as evidence: a single affected resident stands for a larger group.\n\n### Identifying purpose and attitude\nDistinguish between the writer's **purpose** (to warn, to ridicule, to recommend, to provoke debate) and their **attitude** (admiring, scornful, ambivalent, resigned). A review may be respectful yet disappointed: *'One admires the novel far more than one is moved by it'* praises the craft but criticises the emotional impact. When answering questions, base your judgement on the **whole text**, not on a single positive or negative word.",
+        "examples": [
+          {
+            "en": "The plot is derivative, borrowing its twists from a dozen better thrillers.",
+            "id": "Alurnya tidak orisinal, meminjam kejutan-kejutannya dari selusin film thriller yang lebih bagus.",
+            "note": "'Derivative' criticises a lack of originality."
+          },
+          {
+            "en": "Okafor gives an assured, understated performance as the grieving father.",
+            "id": "Okafor menampilkan akting yang mantap dan tidak berlebihan sebagai ayah yang berduka.",
+            "note": "Two positive critical adjectives."
+          },
+          {
+            "en": "The second half of the collection is frustratingly uneven.",
+            "id": "Paruh kedua kumpulan cerita itu kualitasnya tidak merata dan membuat frustrasi.",
+            "note": "'Uneven' signals a mixed verdict."
+          },
+          {
+            "en": "Who, exactly, asked for a fourth shopping centre on the edge of town?",
+            "id": "Siapa sebenarnya yang meminta pusat perbelanjaan keempat di pinggir kota?",
+            "note": "A rhetorical question in an opinion column, implying 'nobody'."
+          },
+          {
+            "en": "Flawed, then, but never less than fascinating.",
+            "id": "Jadi, memang ada kekurangannya, tetapi selalu memikat.",
+            "note": "A typical one-line mixed verdict at the end of a review."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "derivative",
+            "pos": "adjective",
+            "ipa": "/dɪˈrɪvətɪv/",
+            "meaning": "tidak orisinal, meniru karya sebelumnya",
+            "example": "Critics dismissed the album as derivative and forgettable."
+          },
+          {
+            "word": "lacklustre",
+            "pos": "adjective",
+            "ipa": "/ˈlæklʌstə/",
+            "meaning": "hambar, tidak bersemangat",
+            "example": "After a lacklustre first act, the play finally comes to life."
+          },
+          {
+            "word": "assured",
+            "pos": "adjective",
+            "ipa": "/əˈʃʊəd/",
+            "meaning": "mantap, penuh percaya diri dan terampil",
+            "example": "It is a remarkably assured debut from a writer of twenty-three."
+          },
+          {
+            "word": "uneven",
+            "pos": "adjective",
+            "ipa": "/ʌnˈiːvn/",
+            "meaning": "tidak merata (kualitasnya)",
+            "example": "The anthology is uneven, but its best stories are superb."
+          },
+          {
+            "word": "overwrought",
+            "pos": "adjective",
+            "ipa": "/ˌəʊvəˈrɔːt/",
+            "meaning": "berlebihan, terlalu emosional atau rumit",
+            "example": "The overwrought dialogue drains the final scene of its power."
+          },
+          {
+            "word": "pedestrian",
+            "pos": "adjective",
+            "ipa": "/pəˈdestriən/",
+            "meaning": "biasa-biasa saja, membosankan",
+            "example": "The direction is pedestrian, never taking a single risk."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "While / Although + positive point, + negative verdict",
+            "example": "While the lead performance is assured, the script is uneven.",
+            "note": "The main clause usually carries the writer's real verdict."
+          },
+          {
+            "pattern": "One + verb (impersonal evaluation): one admires / one cannot help feeling",
+            "example": "One admires the novel far more than one is moved by it.",
+            "note": "A formal, distanced way of expressing a personal reaction."
+          },
+          {
+            "pattern": "Adjective, then, but + contrasting adjective (verdict formula)",
+            "example": "Uneven, then, but often thrilling.",
+            "note": "'Then' signals a conclusion drawn from the review."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The reviewer loved the film because she called the lead actor 'competent'.",
+            "right": "The reviewer was unenthusiastic: calling the lead actor merely 'competent' is faint praise.",
+            "why": "'Competent' and 'workmanlike' are often faint praise in reviews, not enthusiasm."
+          },
+          {
+            "wrong": "The plot is very derivative from older films.",
+            "right": "The plot is heavily derivative of older films.",
+            "why": "As an adjective, 'derivative' takes 'of', and it collocates with 'heavily' or 'highly' rather than with 'very ... from'."
+          },
+          {
+            "wrong": "The column informs readers neutrally about the new car park.",
+            "right": "The column argues that the council's justification for the new car park is hypocritical.",
+            "why": "Opinion columns are evaluative; describing their purpose as neutral information misses the writer's stance."
+          }
+        ],
+        "summary": "Reviews and opinion columns select facts to support a verdict, which is often summarised in the final paragraph. Learn precise critical vocabulary (assured, understated, derivative, lacklustre, uneven, overwrought), notice faint praise and mixed verdicts, and distinguish a writer's purpose from their attitude by reading the whole text.",
+        "reviewCards": [
+          {
+            "front": "derivative",
+            "back": "Unoriginal; copying earlier works (derivative of ...)."
+          },
+          {
+            "front": "uneven",
+            "back": "Good in parts and weak in others — a mixed verdict."
+          },
+          {
+            "front": "assured vs overwrought",
+            "back": "Assured = confident and skilful; overwrought = excessively emotional or elaborate."
+          },
+          {
+            "front": "Purpose vs attitude",
+            "back": "Purpose = what the text aims to do (warn, ridicule, recommend); attitude = how the writer feels (admiring, scornful, ambivalent)."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u09-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "review vocabulary",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "What does 'derivative' mean in this review?",
+          "instructions": "Use the phrase after the comma as a clue.",
+          "context": "The film's plot is derivative, borrowing its twists from a dozen better thrillers.",
+          "options": [
+            "lacking originality because it imitates earlier works",
+            "financially very successful",
+            "complicated and difficult to follow",
+            "based on a true story"
+          ],
+          "answer": 0,
+          "explanation": "The participle clause 'borrowing its twists from a dozen better thrillers' explains 'derivative': unoriginal, copied from earlier works. Nothing in the sentence refers to money, complexity or real events."
+        },
+        {
+          "id": "c2-u09-l5-q2",
+          "type": "essay",
+          "category": "writing",
+          "topic": "writing a review",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Write a short review of an imaginary film, novel or restaurant (for example, the novel 'The Glass Orchard' or the restaurant 'Lantern & Salt'). Give a clear but nuanced verdict: praise at least one element and criticise at least one other. Use at least four critical words from this lesson and end with a one-sentence verdict.",
+          "minWords": 150,
+          "maxWords": 220,
+          "rubric": "general-writing",
+          "explanation": "A strong review has a brief context, evaluates specific elements with precise vocabulary (e.g. assured, uneven, lacklustre), uses concession (While ..., ...), and ends with a clear, memorable verdict."
+        },
+        {
+          "id": "c2-u09-l5-q3",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "mixed verdict",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Put the fragments in order to make a sentence from a film review.",
+          "fragments": [
+            "Although the cinematography is often breathtaking,",
+            "the screenplay is so overwrought",
+            "that even the most tragic scenes",
+            "provoke laughter rather than tears."
+          ],
+          "acceptedAnswers": [
+            "The screenplay is so overwrought that even the most tragic scenes provoke laughter rather than tears, although the cinematography is often breathtaking."
+          ],
+          "explanation": "The concessive clause praises the cinematography, while the main clause with 'so ... that' delivers the real criticism: the screenplay's excessive emotion makes tragic scenes unintentionally funny."
+        },
+        {
+          "id": "c2-u09-l5-q4",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "reviewer's attitude",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Which best describes the reviewer's overall attitude?",
+          "context": "Halverson's third novel, 'The Salt Ledger', arrives with considerable fanfare. Its prose is polished, its research impeccable, its structure ingenious. It is a pity, then, that its characters never quite come alive; one admires the book far more than one is moved by it.",
+          "options": [
+            "Respect for the book's craftsmanship combined with disappointment at its lack of emotional impact",
+            "Unqualified enthusiasm for every aspect of the novel",
+            "Contempt for a novel the reviewer considers badly written",
+            "Indifference, because the reviewer did not finish the book"
+          ],
+          "answer": 0,
+          "explanation": "The reviewer praises prose, research and structure, but 'It is a pity' and 'characters never quite come alive' express disappointment; the final sentence sums up the mixed verdict. The praise rules out contempt, the criticism rules out unqualified enthusiasm, and nothing suggests the reviewer did not finish."
+        },
+        {
+          "id": "c2-u09-l5-q5",
+          "type": "multiple_select",
+          "category": "vocabulary",
+          "topic": "review vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which adjectives would a critic use to criticise a performance? Choose all that apply.",
+          "options": ["lacklustre", "assured", "pedestrian", "overwrought", "nuanced", "compelling"],
+          "answers": [0, 2, 3],
+          "explanation": "'Lacklustre' (dull), 'pedestrian' (uninspired) and 'overwrought' (excessively emotional) are negative. 'Assured', 'nuanced' and 'compelling' are terms of praise."
+        },
+        {
+          "id": "c2-u09-l5-q6",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "review vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the word that best fits each gap in this documentary review.",
+          "text": "The documentary's first half is gripping, but the second half drags badly, which makes the film as a whole frustratingly ___. The narrator's tone, however, is admirably ___ – calm and never sensational – which lends the subject real dignity.",
+          "choices": [
+            ["uneven", "seamless", "derivative"],
+            ["understated", "overwrought", "lacklustre"]
+          ],
+          "answers": [0, 0],
+          "explanation": "A film that is gripping in one half and dull in the other is 'uneven'; 'seamless' means the opposite, and 'derivative' concerns originality, not inconsistency. A calm, non-sensational tone praised as 'admirable' is 'understated'; 'overwrought' contradicts 'calm', and 'lacklustre' is negative."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u09-t-q1",
+      "type": "single_choice",
+      "category": "reading",
+      "topic": "opinion journalism",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "What is the main purpose of this extract from an opinion column?",
+      "context": "Of course, the council will tell you that the new multi-storey car park is all about 'supporting local business'. Ask the owners of the twelve shops it replaced how supported they feel.",
+      "options": [
+        "To argue that the council's justification is hypocritical",
+        "To report the council's plans neutrally",
+        "To persuade readers to use the new car park",
+        "To praise the council's support for shop owners"
+      ],
+      "answer": 0,
+      "explanation": "Ironic 'Of course', scare quotes around 'supporting local business' and the pointed contrast with the twelve demolished shops show that the writer considers the council's claim hypocritical. The text is clearly not neutral, does not promote the car park, and the praise reading ignores the irony."
+    },
+    {
+      "id": "c2-u09-t-q2",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "implicature",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the line that implies a reason NOT to invite Petra and makes the conversation coherent.",
+      "dialogue": [
+        { "speaker": "Marcus", "text": "Shall we invite Petra to tomorrow's planning meeting?" },
+        { "speaker": "Elif", "text": null },
+        { "speaker": "Marcus", "text": "Fair point – let's keep it to the core team, then." }
+      ],
+      "options": [
+        "She does tend to turn a one-hour meeting into three.",
+        "She's the most efficient chair we've ever had.",
+        "Definitely – she'd be perfect for it.",
+        "She specifically asked to be included, actually."
+      ],
+      "answer": 0,
+      "explanation": "Elif never says 'no', but mentioning that Petra makes meetings drag on implies that inviting her is a bad idea, which Marcus accepts ('Fair point ... keep it to the core team'). The other replies support inviting her, so Marcus's response would not follow."
+    },
+    {
+      "id": "c2-u09-t-q3",
+      "type": "matching",
+      "category": "vocabulary",
+      "topic": "stance adverbs",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Match each stance adverb with the attitude it signals.",
+      "pairs": [
+        { "left": "admittedly", "right": "I accept this point, even though it weakens my argument." },
+        { "left": "regrettably", "right": "I am sorry that this is the case." },
+        { "left": "ostensibly", "right": "This is the apparent reason, but probably not the real one." },
+        { "left": "tellingly", "right": "This detail reveals something significant." },
+        { "left": "frankly", "right": "I am going to speak bluntly and honestly." }
+      ],
+      "explanation": "Each adverb comments on the clause it introduces: concession (admittedly), regret (regrettably), doubt about a stated reason (ostensibly), a revealing detail (tellingly) and blunt honesty (frankly)."
+    },
+    {
+      "id": "c2-u09-t-q4",
+      "type": "sentence_transformation",
+      "category": "writing",
+      "topic": "litotes",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence as an understatement, using the word given in a negative structure.",
+      "sentence": "Her contribution to the project was very significant.",
+      "cue": "Use: insignificant",
+      "answers": [
+        "Her contribution to the project was not insignificant.",
+        "Her contribution to the project wasn't insignificant.",
+        "Her contribution to the project was by no means insignificant.",
+        "Her contribution to the project was far from insignificant.",
+        "Her contribution to the project was hardly insignificant.",
+        "Her contribution to the project was in no way insignificant.",
+        "Her contribution to the project was not at all insignificant.",
+        "Her contribution to the project was not an insignificant one."
+      ],
+      "explanation": "Litotes affirms a quality by denying its opposite: 'not insignificant' (or 'by no means / far from insignificant') expresses significance in a measured, understated way."
+    },
+    {
+      "id": "c2-u09-t-q5",
+      "type": "error_identification",
+      "category": "vocabulary",
+      "topic": "reporting verbs",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Find the part of the sentence where the word choice makes the sentence illogical.",
+      "segments": [
+        "The defendant conceded",
+        "that he had never visited the warehouse in Port Elvan,",
+        "despite photographs",
+        "that clearly placed him there."
+      ],
+      "errorIndex": 0,
+      "correction": "The defendant insisted",
+      "explanation": "'Concede' means to admit something reluctantly, usually against your own interest. Denying a visit despite contrary evidence is insisting (or claiming), not conceding, so 'conceded' contradicts the rest of the sentence."
+    },
+    {
+      "id": "c2-u09-t-q6",
+      "type": "short_answer",
+      "category": "vocabulary",
+      "topic": "irony markers",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Which hyphenated adjective can a writer place before a noun to show scepticism about a label, as in 'the ___ reforms that changed nothing'?",
+      "answers": ["so-called", "so called"],
+      "explanation": "'So-called' signals that the writer doubts whether the label (here 'reforms') is deserved."
+    },
+    {
+      "id": "c2-u09-t-q7",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "review vocabulary",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "What does 'lacklustre' mean in this review?",
+      "context": "After a lacklustre first act, in which the cast seem to be going through the motions, the play finally catches fire after the interval.",
+      "options": [
+        "dull and lacking energy",
+        "shocking and controversial",
+        "too long and complicated",
+        "brilliant but exhausting"
+      ],
+      "answer": 0,
+      "explanation": "The cast 'going through the motions' and the contrast with the play 'catching fire' later show that 'lacklustre' means dull and lifeless. The context gives no support for shock, complexity or brilliance."
+    }
+  ]
+}

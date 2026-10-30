@@ -1,0 +1,635 @@
+{
+  "slug": "a1-u02-family",
+  "number": 2,
+  "title": "My Family and Me",
+  "description": "Melanjutkan to be: kalimat negatif, pertanyaan yes/no, dan jawaban singkat. Unit ini juga mengajarkan possessive adjectives (my, your, his, her...), possessive 's, kosakata keluarga, dan cara menanyakan informasi pribadi.",
+  "objectives": [
+    "Membuat kalimat negatif dengan am not, isn't, aren't",
+    "Bertanya dan menjawab pertanyaan yes/no dengan to be",
+    "Menggunakan possessive adjectives dan possessive 's dengan benar",
+    "Menyebut anggota keluarga dan menanyakan informasi pribadi"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u02-l1-to-be-negative",
+      "title": "To Be: Negative Sentences",
+      "summary": "Membuat kalimat negatif dengan am not, is not (isn't), dan are not (aren't).",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Menambahkan not setelah am/is/are untuk membuat kalimat negatif",
+        "Menggunakan bentuk singkat isn't, aren't, dan I'm not",
+        "Menghindari bentuk yang salah seperti amn't dan I not"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membuat kalimat negatif\nDi Unit 1 kita belajar kalimat positif dengan **am, is, are**. Untuk membuat kalimat **negatif** (menyangkal), cukup tambahkan **not** setelah to be. Dalam bahasa Indonesia artinya *tidak* atau *bukan*.\n\n- *I am a teacher.* → *I am **not** a teacher.* (Saya **bukan** guru.)\n- *She is busy.* → *She is **not** busy.* (Dia **tidak** sibuk.)\n\nPerhatikan: bahasa Indonesia membedakan *tidak* (untuk sifat/keadaan) dan *bukan* (untuk kata benda), tetapi bahasa Inggris memakai satu kata saja: **not**.\n\n### Tabel bentuk negatif\n| Subjek | Bentuk panjang | Bentuk singkat 1 | Bentuk singkat 2 |\n| --- | --- | --- | --- |\n| I | I am not | I'm not | — |\n| you | you are not | you aren't | you're not |\n| he | he is not | he isn't | he's not |\n| she | she is not | she isn't | she's not |\n| it | it is not | it isn't | it's not |\n| we | we are not | we aren't | we're not |\n| they | they are not | they aren't | they're not |\n\nKedua bentuk singkat sama benarnya. **Isn't** dan **aren't** sangat umum dalam percakapan.\n\n### Hati-hati dengan I\nUntuk **I**, hanya ada satu bentuk singkat: **I'm not**. Bentuk ~~I amn't~~ **tidak ada** dalam bahasa Inggris standar.\n\n### Jangan lupa to be\nPelajar Indonesia sering menulis ~~I not hungry~~ karena dalam bahasa Indonesia cukup berkata *Saya tidak lapar*. Dalam bahasa Inggris, **not** harus menempel pada to be: **I am not hungry** / **I'm not hungry**.\n\n### Menyangkal lalu membetulkan\nKalimat negatif sering diikuti kalimat positif yang memberikan informasi yang benar:\n- *Tom **isn't** a teacher. He's a doctor.*\n- *We **aren't** from Bali. We're from Lombok.*\n\nPola ini sangat berguna saat memperkenalkan diri atau membetulkan informasi yang salah.",
+        "examples": [
+          { "en": "I'm not hungry.", "id": "Saya tidak lapar." },
+          { "en": "Tom isn't a teacher. He's a doctor.", "id": "Tom bukan guru. Dia seorang dokter." },
+          { "en": "We aren't from Bali. We're from Lombok.", "id": "Kami bukan dari Bali. Kami dari Lombok." },
+          { "en": "She's not married. She's single.", "id": "Dia tidak menikah. Dia lajang.", "note": "She's not = She isn't." },
+          { "en": "It isn't cold today.", "id": "Hari ini tidak dingin." }
+        ],
+        "vocabulary": [
+          { "word": "married", "pos": "adjective", "ipa": "/ˈmærid/", "meaning": "menikah, sudah berkeluarga", "example": "Mr. Hall is married." },
+          { "word": "single", "pos": "adjective", "ipa": "/ˈsɪŋɡl/", "meaning": "lajang, belum menikah", "example": "My cousin is single." },
+          { "word": "late", "pos": "adjective", "ipa": "/leɪt/", "meaning": "terlambat", "example": "Sorry, I'm late." },
+          { "word": "sick", "pos": "adjective", "ipa": "/sɪk/", "meaning": "sakit", "example": "She isn't sick today." },
+          { "word": "cold", "pos": "adjective", "ipa": "/kəʊld/", "meaning": "dingin", "example": "It's cold in the room." },
+          { "word": "here", "pos": "adverb", "ipa": "/hɪə/", "meaning": "di sini", "example": "Dani isn't here." },
+          { "word": "doctor", "pos": "noun", "ipa": "/ˈdɒktə/", "meaning": "dokter", "example": "He's a doctor." }
+        ],
+        "grammar": [
+          { "pattern": "I + am not (I'm not)", "example": "I'm not late." },
+          { "pattern": "He / She / It + is not (isn't)", "example": "Rina isn't at home." },
+          { "pattern": "You / We / They + are not (aren't)", "example": "They aren't students.", "note": "Bisa juga they're not." }
+        ],
+        "mistakes": [
+          { "wrong": "I amn't a student.", "right": "I'm not a student.", "why": "Bentuk amn't tidak ada. Gunakan I'm not atau I am not." },
+          { "wrong": "She not busy.", "right": "She isn't busy.", "why": "Not harus didahului to be (is)." },
+          { "wrong": "They isn't here.", "right": "They aren't here.", "why": "They memakai are, jadi negatifnya aren't." }
+        ],
+        "summary": "Kalimat negatif to be = **am/is/are + not**. Bentuk singkatnya: **I'm not**, **isn't / 's not**, **aren't / 're not**. Tidak ada bentuk *amn't*. Bahasa Inggris memakai **not** untuk *tidak* maupun *bukan*, dan to be tidak boleh dihilangkan.",
+        "reviewCards": [
+          { "front": "I am not → bentuk singkat?", "back": "I'm not (bukan amn't)" },
+          { "front": "Dia (perempuan) tidak sibuk.", "back": "She isn't busy. / She's not busy." },
+          { "front": "They are not → bentuk singkat?", "back": "They aren't / They're not" },
+          { "front": "tidak / bukan dalam bahasa Inggris", "back": "not (setelah am/is/are)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u02-l1-q1", "type": "dropdown", "category": "grammar", "topic": "to be negative",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct negative form.",
+          "instructions": "I → am not; he/she/it → isn't; you/we/they → aren't.",
+          "text": "I ___ from Jakarta. I'm from Bandung. Tom ___ a teacher. He's a doctor.",
+          "choices": [["am not", "isn't", "aren't"], ["am not", "isn't", "aren't"]],
+          "answers": [0, 1],
+          "explanation": "I berpasangan dengan am not. Tom adalah satu orang (he), jadi negatifnya isn't."
+        },
+        {
+          "id": "a1-u02-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "to be negative",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Make the sentence negative.",
+          "sentence": "She is married.",
+          "cue": "Ubah menjadi kalimat negatif.",
+          "answers": ["She is not married.", "She isn't married.", "She's not married."],
+          "explanation": "Tambahkan not setelah is: She is not married / She isn't married / She's not married."
+        },
+        {
+          "id": "a1-u02-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "to be negative",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with a negative form of to be.",
+          "text": "We ___ at school today. We're at home because the children ___ well.",
+          "answers": [["aren't", "are not"], ["aren't", "are not"]],
+          "explanation": "We dan the children (jamak) memakai are, jadi negatifnya aren't / are not."
+        },
+        {
+          "id": "a1-u02-l1-q4", "type": "error_identification", "category": "grammar", "topic": "to be negative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["I amn't", "a student.", "I'm", "a teacher."],
+          "errorIndex": 0,
+          "correction": "I'm not / I am not",
+          "explanation": "Bentuk amn't tidak ada. Gunakan I'm not atau I am not."
+        },
+        {
+          "id": "a1-u02-l1-q5", "type": "single_choice", "category": "grammar", "topic": "to be negative",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["They isn't at home.", "They aren't at home.", "They not at home.", "They amn't at home."],
+          "answer": 1,
+          "explanation": "They memakai are, jadi negatifnya aren't: They aren't at home."
+        },
+        {
+          "id": "a1-u02-l1-q6", "type": "translation", "category": "grammar", "topic": "to be negative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Dia (laki-laki) tidak sakit. Dia lelah.",
+          "direction": "id-en",
+          "answers": [
+            "He is not sick. He is tired.",
+            "He isn't sick. He's tired.",
+            "He's not sick. He's tired.",
+            "He isn't sick. He is tired.",
+            "He is not sick. He's tired.",
+            "He's not sick. He is tired."
+          ],
+          "explanation": "Dia (laki-laki) = He. Tidak sakit = is not sick (isn't sick / 's not sick). Lelah = tired, jadi He is tired / He's tired."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u02-l2-to-be-questions",
+      "title": "To Be: Yes/No Questions and Short Answers",
+      "summary": "Bertanya dengan Am I...? Is he...? Are you...? dan menjawab dengan Yes, I am. / No, I'm not.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk pertanyaan yes/no dengan memindahkan to be ke depan",
+        "Memberi jawaban singkat yang benar",
+        "Menghindari bentuk singkat pada jawaban positif (Yes, I am)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membuat pertanyaan yes/no\nDalam bahasa Indonesia, kita bisa bertanya dengan menambahkan *apakah* atau hanya menaikkan intonasi: *Kamu lapar?* Dalam bahasa Inggris, kita **memindahkan to be ke depan subjek**:\n\n| Pernyataan | Pertanyaan |\n| --- | --- |\n| You **are** hungry. | **Are** you hungry? |\n| She **is** a nurse. | **Is** she a nurse? |\n| They **are** at home. | **Are** they at home? |\n| I **am** late. | **Am** I late? |\n\nPolanya: **Am/Is/Are + subjek + ...?** Jangan lupa tanda tanya (?) di akhir kalimat, dan intonasi biasanya naik di akhir.\n\n### Jawaban singkat (short answers)\nPenutur asli jarang menjawab hanya *Yes* atau *No*. Mereka memakai **jawaban singkat**: **Yes/No + pronoun + to be**.\n\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Are you tired? | Yes, I am. | No, I'm not. |\n| Is he a doctor? | Yes, he is. | No, he isn't. |\n| Is she married? | Yes, she is. | No, she isn't. |\n| Is it cold? | Yes, it is. | No, it isn't. |\n| Are they students? | Yes, they are. | No, they aren't. |\n| Are you (kalian) ready? | Yes, we are. | No, we aren't. |\n\n### Aturan penting jawaban singkat\n1. Pada jawaban **positif**, **jangan** memakai bentuk singkat: **Yes, I am.** (bukan ~~Yes, I'm.~~), **Yes, she is.** (bukan ~~Yes, she's.~~)\n2. Pada jawaban **negatif**, bentuk singkat sangat umum: *No, I'm not. No, she isn't.*\n3. Jika pertanyaan memakai **nama**, jawabannya memakai **pronoun**: *Is **Rina** at home?* — *Yes, **she** is.*\n4. Pertanyaan dengan **you** dijawab dengan **I** (satu orang) atau **we** (banyak orang).\n\n### Menambahkan informasi\nSetelah jawaban negatif, kita sering memberi informasi yang benar:\n*Are you Indonesian?* — *No, I'm not. I'm Malaysian.*",
+        "examples": [
+          { "en": "Are you a student? — Yes, I am.", "id": "Apakah kamu pelajar? — Ya." },
+          { "en": "Is Mr. Lim at work? — No, he isn't. He's at home.", "id": "Apakah Pak Lim di kantor? — Tidak. Dia di rumah." },
+          { "en": "Are they ready? — Yes, they are.", "id": "Apakah mereka sudah siap? — Ya, sudah." },
+          { "en": "Am I late? — No, you aren't.", "id": "Apakah saya terlambat? — Tidak.", "note": "Pertanyaan dengan I dijawab dengan you." },
+          { "en": "Is it cold today? — No, it isn't.", "id": "Apakah hari ini dingin? — Tidak." }
+        ],
+        "vocabulary": [
+          { "word": "question", "pos": "noun", "ipa": "/ˈkwestʃən/", "meaning": "pertanyaan", "example": "That's a good question." },
+          { "word": "yes", "pos": "adverb", "ipa": "/jes/", "meaning": "ya", "example": "Yes, I am." },
+          { "word": "no", "pos": "adverb", "ipa": "/nəʊ/", "meaning": "tidak, bukan", "example": "No, she isn't." },
+          { "word": "ready", "pos": "adjective", "ipa": "/ˈredi/", "meaning": "siap", "example": "Are you ready?" },
+          { "word": "free", "pos": "adjective", "ipa": "/friː/", "meaning": "luang, tidak sibuk; gratis", "example": "Are you free now?" },
+          { "word": "at work", "pos": "phrase", "ipa": "/ət ˈwɜːk/", "meaning": "di tempat kerja", "example": "Is your dad at work?" },
+          { "word": "nurse", "pos": "noun", "ipa": "/nɜːs/", "meaning": "perawat", "example": "Is she a nurse?" }
+        ],
+        "grammar": [
+          { "pattern": "Am / Is / Are + subjek + ...?", "example": "Is Lisa from Canada?" },
+          { "pattern": "Yes, + pronoun + am / is / are.", "example": "Yes, she is.", "note": "Tanpa bentuk singkat." },
+          { "pattern": "No, + pronoun + 'm not / isn't / aren't.", "example": "No, they aren't." }
+        ],
+        "mistakes": [
+          { "wrong": "You are hungry?", "right": "Are you hungry?", "why": "Dalam pertanyaan formal, to be dipindah ke depan subjek." },
+          { "wrong": "Yes, I'm.", "right": "Yes, I am.", "why": "Jawaban singkat positif tidak boleh memakai bentuk singkat." },
+          { "wrong": "Is Rina a nurse? — Yes, Rina is.", "right": "Is Rina a nurse? — Yes, she is.", "why": "Dalam jawaban singkat, nama diganti pronoun." }
+        ],
+        "summary": "Untuk bertanya, pindahkan to be ke depan: **Are you...? Is she...? Am I...?** Jawab dengan jawaban singkat: **Yes, I am / Yes, he is / Yes, they are** (tanpa bentuk singkat) dan **No, I'm not / No, he isn't / No, they aren't**. Ganti nama dengan pronoun dalam jawaban.",
+        "reviewCards": [
+          { "front": "You are tired. → pertanyaan?", "back": "Are you tired?" },
+          { "front": "Are you ready? (ya)", "back": "Yes, I am. (bukan Yes, I'm.)" },
+          { "front": "Is Tom at home? (tidak)", "back": "No, he isn't." },
+          { "front": "Are they students? (ya)", "back": "Yes, they are." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u02-l2-q1", "type": "single_choice", "category": "grammar", "topic": "to be questions",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "___ you a student?",
+          "instructions": "Pilih to be yang tepat untuk you.",
+          "options": ["Am", "Is", "Are"],
+          "answer": 2,
+          "explanation": "You selalu memakai are, jadi pertanyaannya: Are you a student?"
+        },
+        {
+          "id": "a1-u02-l2-q2", "type": "word_order", "category": "grammar", "topic": "to be questions",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Put the words in order to make a question.",
+          "words": ["Is", "Mr.", "Hall", "from", "Canada?"],
+          "explanation": "Pertanyaan yes/no: Is + subjek (Mr. Hall) + from Canada?"
+        },
+        {
+          "id": "a1-u02-l2-q3", "type": "dialogue_completion", "category": "conversation", "topic": "short answers",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Kevin", "text": "Are you Indonesian?" },
+            { "speaker": "Aisha", "text": null },
+            { "speaker": "Kevin", "text": "Oh! Where are you from?" },
+            { "speaker": "Aisha", "text": "I'm from Malaysia." }
+          ],
+          "options": ["No, I'm not.", "Yes, I am.", "No, I amn't.", "Yes, I'm."],
+          "answer": 0,
+          "explanation": "Aisha dari Malaysia, jadi ia bukan orang Indonesia: No, I'm not. Bentuk amn't dan Yes, I'm salah."
+        },
+        {
+          "id": "a1-u02-l2-q4", "type": "matching", "category": "grammar", "topic": "short answers",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each question with the correct short answer.",
+          "pairs": [
+            { "left": "Is Nina at home?", "right": "Yes, she is." },
+            { "left": "Are the boys tired?", "right": "Yes, they are." },
+            { "left": "Is Mr. Lim a teacher?", "right": "No, he isn't." },
+            { "left": "Are you Thai?", "right": "Yes, I am." },
+            { "left": "Is it cold today?", "right": "No, it isn't." }
+          ],
+          "explanation": "Pronoun dalam jawaban harus sesuai subjek: Nina → she, the boys → they, Mr. Lim → he, you → I, it → it."
+        },
+        {
+          "id": "a1-u02-l2-q5", "type": "sentence_transformation", "category": "grammar", "topic": "to be questions",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Make a yes/no question.",
+          "sentence": "Dani is hungry.",
+          "cue": "Ubah menjadi pertanyaan yes/no.",
+          "answers": ["Is Dani hungry?"],
+          "explanation": "Pindahkan is ke depan subjek: Is Dani hungry?"
+        },
+        {
+          "id": "a1-u02-l2-q6", "type": "error_identification", "category": "grammar", "topic": "short answers",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in B's answer.",
+          "segments": ["A: Are you tired?", "B: Yes,", "I'm."],
+          "errorIndex": 2,
+          "correction": "I am.",
+          "explanation": "Jawaban singkat positif tidak memakai bentuk singkat: Yes, I am."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u02-l3-possessive-adjectives",
+      "title": "Possessive Adjectives: My, Your, His, Her...",
+      "summary": "Menunjukkan kepemilikan dengan my, your, his, her, its, our, their.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memasangkan setiap subject pronoun dengan possessive adjective-nya",
+        "Memilih his atau her berdasarkan pemilik, bukan bendanya",
+        "Membedakan its/it's dan their/they're"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu possessive adjective?\n**Possessive adjective** (kata sifat kepemilikan) menunjukkan **milik siapa** sesuatu. Dalam bahasa Indonesia biasanya kita menaruh kata ganti **setelah** benda (*tas saya*, *rumah kami*) atau memakai akhiran *-ku, -mu, -nya*. Dalam bahasa Inggris, possessive adjective diletakkan **sebelum** kata benda: ***my** bag*, ***our** house*.\n\n| Subject pronoun | Possessive adjective | Contoh | Arti |\n| --- | --- | --- | --- |\n| I | my | my bag | tas saya |\n| you | your | your phone | ponselmu |\n| he | his | his car | mobilnya (laki-laki) |\n| she | her | her name | namanya (perempuan) |\n| it | its | its name | namanya (benda/hewan) |\n| we | our | our teacher | guru kami/kita |\n| they | their | their house | rumah mereka |\n\n### His atau her? Lihat pemiliknya\nAkhiran *-nya* dalam bahasa Indonesia tidak menunjukkan jenis kelamin. Dalam bahasa Inggris, pilihan **his/her** ditentukan oleh **pemiliknya**, bukan oleh bendanya:\n- *Andi and **his** mother* — pemiliknya Andi (laki-laki) → **his**.\n- *Sari and **her** father* — pemiliknya Sari (perempuan) → **her**.\n\n### Kata yang sering tertukar\n| Kata | Artinya | Contoh |\n| --- | --- | --- |\n| its | milik benda/hewan | The cat is hungry. **Its** bowl is empty. |\n| it's | it is | **It's** cold. |\n| their | milik mereka | **Their** car is new. |\n| they're | they are | **They're** at home. |\n| your | milikmu | **Your** bag is here. |\n| you're | you are | **You're** late. |\n\nIngat: **possessive adjective tidak pernah memakai apostrof** ('). Apostrof pada *it's, they're, you're* adalah bentuk singkat dari to be.\n\n### Bentuknya tidak berubah\nPossessive adjective **tidak** berubah untuk benda jamak: *my friend → my friends* (bukan ~~mys friends~~). Possessive adjective juga tidak dipakai bersama *the*: ~~the my bag~~ → **my bag**.",
+        "examples": [
+          { "en": "My name is Sari. Her name is Lina.", "id": "Nama saya Sari. Namanya (perempuan) Lina." },
+          { "en": "Andi is here, but his bag isn't here.", "id": "Andi ada di sini, tetapi tasnya tidak ada." },
+          { "en": "We are students. Our teacher is Ms. Park.", "id": "Kami pelajar. Guru kami Bu Park." },
+          { "en": "Tina and Joe are at home. Their house is small.", "id": "Tina dan Joe di rumah. Rumah mereka kecil." },
+          { "en": "Is this your phone?", "id": "Apakah ini ponselmu?" }
+        ],
+        "vocabulary": [
+          { "word": "my", "pos": "possessive adjective", "ipa": "/maɪ/", "meaning": "milik saya, -ku", "example": "My bag is new." },
+          { "word": "your", "pos": "possessive adjective", "ipa": "/jɔː/", "meaning": "milikmu, -mu", "example": "Your phone is here." },
+          { "word": "his", "pos": "possessive adjective", "ipa": "/hɪz/", "meaning": "miliknya (laki-laki)", "example": "His name is Leo." },
+          { "word": "her", "pos": "possessive adjective", "ipa": "/hɜː/", "meaning": "miliknya (perempuan)", "example": "Her car is small." },
+          { "word": "our", "pos": "possessive adjective", "ipa": "/ˈaʊə/", "meaning": "milik kami/kita", "example": "Our school is big." },
+          { "word": "their", "pos": "possessive adjective", "ipa": "/ðeə/", "meaning": "milik mereka", "example": "Their friends are here." },
+          { "word": "friend", "pos": "noun", "ipa": "/frend/", "meaning": "teman", "example": "Dina is my friend." },
+          { "word": "bag", "pos": "noun", "ipa": "/bæɡ/", "meaning": "tas", "example": "Her bag is heavy." }
+        ],
+        "grammar": [
+          { "pattern": "possessive adjective + noun", "example": "my phone, our house, their car", "note": "Selalu sebelum kata benda." },
+          { "pattern": "Pemilik laki-laki → his; perempuan → her", "example": "Leo and his sister; Mia and her brother" },
+          { "pattern": "its (milik) ≠ it's (it is)", "example": "Its name is Kiki. / It's a cat." }
+        ],
+        "mistakes": [
+          { "wrong": "Budi is my friend. Her house is big.", "right": "Budi is my friend. His house is big.", "why": "Pemiliknya Budi (laki-laki), jadi gunakan his." },
+          { "wrong": "They're car is old.", "right": "Their car is old.", "why": "They're = they are. Untuk kepemilikan gunakan their." },
+          { "wrong": "Bag my is here.", "right": "My bag is here.", "why": "Possessive adjective diletakkan sebelum kata benda." }
+        ],
+        "summary": "Possessive adjectives: **my, your, his, her, its, our, their**, selalu diletakkan **sebelum** kata benda. Pilih **his/her** sesuai pemiliknya. Jangan tertukar dengan bentuk singkat: **its ≠ it's**, **their ≠ they're**, **your ≠ you're**.",
+        "reviewCards": [
+          { "front": "I → ? / we → ? / they → ?", "back": "my / our / their" },
+          { "front": "he → ? / she → ?", "back": "his / her" },
+          { "front": "its vs it's", "back": "its = miliknya (benda/hewan); it's = it is" },
+          { "front": "rumah mereka", "back": "their house" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u02-l3-q1", "type": "single_choice", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "This is Mr. Ruiz. ___ first name is Pablo.",
+          "instructions": "Mr. Ruiz adalah laki-laki.",
+          "options": ["His", "Her", "Their"],
+          "answer": 0,
+          "explanation": "Pemiliknya Mr. Ruiz (laki-laki, satu orang), jadi gunakan His."
+        },
+        {
+          "id": "a1-u02-l3-q2", "type": "matching", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the subject pronouns with the possessive adjectives.",
+          "pairs": [
+            { "left": "I", "right": "my" },
+            { "left": "you", "right": "your" },
+            { "left": "he", "right": "his" },
+            { "left": "she", "right": "her" },
+            { "left": "we", "right": "our" },
+            { "left": "they", "right": "their" }
+          ],
+          "explanation": "I → my, you → your, he → his, she → her, we → our, they → their."
+        },
+        {
+          "id": "a1-u02-l3-q3", "type": "drag_drop", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Lina is my friend. ___ bag is new. Tom and Ben are students. ___ teacher is Ms. Park.",
+          "bank": ["Her", "His", "Their", "Our", "They're"],
+          "answers": ["Her", "Their"],
+          "explanation": "Lina (perempuan) → Her bag. Tom and Ben (mereka) → Their teacher. They're = they are, bukan kepemilikan."
+        },
+        {
+          "id": "a1-u02-l3-q4", "type": "fill_blank", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete with a possessive adjective.",
+          "text": "We are students at Green Hill School. ___ school is big. I am in Class 2B and ___ classroom is on the first floor.",
+          "answers": [["Our"], ["my"]],
+          "explanation": "We → our (sekolah kami). I → my (kelas saya)."
+        },
+        {
+          "id": "a1-u02-l3-q5", "type": "error_identification", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "The bag belongs to Andi. Find the mistake.",
+          "segments": ["Andi is", "my brother.", "Her", "bag is new."],
+          "errorIndex": 2,
+          "correction": "His",
+          "explanation": "Tas itu milik Andi (laki-laki), jadi gunakan His, bukan Her."
+        },
+        {
+          "id": "a1-u02-l3-q6", "type": "single_choice", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "The dog is hungry. ___ bowl is empty.",
+          "options": ["It's", "Its", "It"],
+          "answer": 1,
+          "explanation": "Untuk kepemilikan benda/hewan gunakan Its (tanpa apostrof). It's = it is."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u02-l4-family-possessive-s",
+      "title": "My Family and Possessive 's",
+      "summary": "Menyebut anggota keluarga dan menunjukkan kepemilikan dengan 's (Rina's brother).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyebut anggota keluarga dalam bahasa Inggris",
+        "Menggunakan nama + 's untuk kepemilikan",
+        "Membedakan 's (milik) dan 's (is)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Anggota keluarga\n| Laki-laki | Perempuan | Arti |\n| --- | --- | --- |\n| father (dad) | mother (mum/mom) | ayah / ibu |\n| brother | sister | saudara laki-laki / perempuan |\n| son | daughter | anak laki-laki / perempuan |\n| husband | wife | suami / istri |\n| grandfather | grandmother | kakek / nenek |\n| uncle | aunt | paman / bibi (tante) |\n\nKata netral: **parents** (orang tua), **children** (anak-anak), **grandparents** (kakek-nenek), **cousin** (sepupu, laki-laki atau perempuan).\n\nCatatan: bahasa Inggris **tidak** membedakan *kakak* dan *adik*. Keduanya disebut **brother/sister**. Jika perlu, tambahkan **older** (lebih tua) atau **younger** (lebih muda): *my older sister* = kakak perempuan saya.\n\n### Possessive 's\nUntuk menunjukkan milik seseorang dengan **nama** atau **kata benda**, tambahkan **'s** (apostrof + s). Urutannya **pemilik + 's + benda** — kebalikan dari bahasa Indonesia:\n- *ibu Rina* → **Rina's mother**\n- *mobil ayah saya* → **my father's car**\n\n| Pemilik | Aturan | Contoh |\n| --- | --- | --- |\n| satu orang/nama | + 's | Tom's sister, my aunt's house |\n| jamak berakhiran -s | + ' saja | my parents' house |\n| jamak tidak beraturan | + 's | the children's names |\n\n### 's = is atau milik?\nBentuk **'s** punya dua fungsi:\n- *Rina**'s** a nurse.* → 's = **is** (Rina adalah perawat).\n- *Rina**'s** mother is a nurse.* → 's = **milik** (ibu Rina).\n\nCara membedakannya: jika setelah 's ada **kata benda** yang dimiliki (mother, car, house), itu kepemilikan.\n\n### Jangan pakai of untuk orang\nBentuk ~~the mother of Rina~~ terdengar tidak alami. Untuk orang, gunakan **'s**: *Rina's mother*.",
+        "examples": [
+          { "en": "This is Rina's brother.", "id": "Ini saudara laki-laki Rina." },
+          { "en": "My father's name is Hasan.", "id": "Nama ayah saya Hasan." },
+          { "en": "Ben is Anna's husband.", "id": "Ben adalah suami Anna." },
+          { "en": "My parents' house is in Solo.", "id": "Rumah orang tua saya di Solo.", "note": "parents sudah berakhiran -s, cukup tambah apostrof." },
+          { "en": "Leo is my younger brother.", "id": "Leo adalah adik laki-laki saya." }
+        ],
+        "vocabulary": [
+          { "word": "mother", "pos": "noun", "ipa": "/ˈmʌðə/", "meaning": "ibu", "example": "My mother is a teacher." },
+          { "word": "father", "pos": "noun", "ipa": "/ˈfɑːðə/", "meaning": "ayah", "example": "His father is from Bali." },
+          { "word": "brother", "pos": "noun", "ipa": "/ˈbrʌðə/", "meaning": "saudara laki-laki (kakak/adik)", "example": "Tom's brother is tall." },
+          { "word": "sister", "pos": "noun", "ipa": "/ˈsɪstə/", "meaning": "saudara perempuan (kakak/adik)", "example": "My sister is a student." },
+          { "word": "parents", "pos": "noun", "ipa": "/ˈpeərənts/", "meaning": "orang tua", "example": "Her parents are at home." },
+          { "word": "husband", "pos": "noun", "ipa": "/ˈhʌzbənd/", "meaning": "suami", "example": "Ben is Anna's husband." },
+          { "word": "wife", "pos": "noun", "ipa": "/waɪf/", "meaning": "istri", "example": "His wife is a doctor." },
+          { "word": "daughter", "pos": "noun", "ipa": "/ˈdɔːtə/", "meaning": "anak perempuan", "example": "Their daughter is five." },
+          { "word": "aunt", "pos": "noun", "ipa": "/ɑːnt/", "meaning": "bibi, tante", "example": "My aunt is a nurse." },
+          { "word": "cousin", "pos": "noun", "ipa": "/ˈkʌzn/", "meaning": "sepupu", "example": "Mia is my cousin." }
+        ],
+        "grammar": [
+          { "pattern": "Nama/kata benda + 's + benda", "example": "Lisa's brother, my uncle's car" },
+          { "pattern": "Kata benda jamak berakhiran -s + '", "example": "my parents' names" },
+          { "pattern": "older / younger + brother / sister", "example": "my older sister (kakak perempuan saya)" }
+        ],
+        "mistakes": [
+          { "wrong": "This is the brother of Rina.", "right": "This is Rina's brother.", "why": "Untuk orang, gunakan 's, bukan of." },
+          { "wrong": "Rina brother is a doctor.", "right": "Rina's brother is a doctor.", "why": "Jangan lupa 's pada pemiliknya." },
+          { "wrong": "My parent's house is big.", "right": "My parents' house is big.", "why": "Pemiliknya dua orang (parents), jadi apostrof diletakkan setelah s." }
+        ],
+        "summary": "Kosakata keluarga: **father, mother, brother, sister, son, daughter, husband, wife, grandfather, grandmother, uncle, aunt, cousin, parents**. Untuk menunjukkan milik orang, gunakan **pemilik + 's + benda**: *Rina's mother*. Untuk jamak berakhiran -s, cukup tambah apostrof: *my parents' car*.",
+        "reviewCards": [
+          { "front": "ibu Rina", "back": "Rina's mother" },
+          { "front": "kakak perempuan saya", "back": "my older sister" },
+          { "front": "rumah orang tua saya", "back": "my parents' house" },
+          { "front": "uncle / aunt / cousin", "back": "paman / bibi / sepupu" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u02-l4-q1", "type": "single_choice", "category": "vocabulary", "topic": "family",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Tom is the son of Mr. and Mrs. Green. Mrs. Green is Tom's ___.",
+          "instructions": "Mrs. Green adalah ibu dari Tom.",
+          "options": ["sister", "mother", "daughter", "aunt"],
+          "answer": 1,
+          "explanation": "Tom adalah anak Mrs. Green, jadi Mrs. Green adalah ibunya: Tom's mother."
+        },
+        {
+          "id": "a1-u02-l4-q2", "type": "matching", "category": "vocabulary", "topic": "family",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the male family words with the female words.",
+          "pairs": [
+            { "left": "father", "right": "mother" },
+            { "left": "brother", "right": "sister" },
+            { "left": "son", "right": "daughter" },
+            { "left": "husband", "right": "wife" },
+            { "left": "uncle", "right": "aunt" },
+            { "left": "grandfather", "right": "grandmother" }
+          ],
+          "explanation": "Pasangan laki-laki/perempuan: father–mother, brother–sister, son–daughter, husband–wife, uncle–aunt, grandfather–grandmother."
+        },
+        {
+          "id": "a1-u02-l4-q3", "type": "translation", "category": "grammar", "topic": "possessive s",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Ini kakak laki-laki Rina.",
+          "direction": "id-en",
+          "answers": ["This is Rina's older brother.", "This is Rina's big brother.", "This is Rina's brother."],
+          "explanation": "kakak laki-laki = (older) brother. Kepemilikan: Rina's. Urutan: This is Rina's older brother."
+        },
+        {
+          "id": "a1-u02-l4-q4", "type": "fill_blank", "category": "vocabulary", "topic": "family",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with a family word.",
+          "text": "Ben is Anna's husband. Anna is Ben's ___. Sam is their son, and Lucy is their ___.",
+          "answers": [["wife"], ["daughter"]],
+          "explanation": "Pasangan husband adalah wife. Anak perempuan = daughter (anak laki-laki = son)."
+        },
+        {
+          "id": "a1-u02-l4-q5", "type": "dropdown", "category": "grammar", "topic": "possessive s",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct form.",
+          "text": "My ___ names are Ali and Sari. My ___ name is Dimas.",
+          "choices": [["parent's", "parents'", "parents"], ["brother's", "brothers'", "brother"]],
+          "answers": [1, 0],
+          "explanation": "Orang tua = dua orang (parents), jadi apostrof setelah s: parents'. Saudara laki-laki satu orang: brother's."
+        },
+        {
+          "id": "a1-u02-l4-q6", "type": "word_order", "category": "grammar", "topic": "possessive s",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Lisa's", "brother", "is", "a", "doctor"],
+          "explanation": "Pemilik + 's + benda menjadi subjek: Lisa's brother + is a doctor."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u02-l5-personal-information",
+      "title": "Asking for Personal Information",
+      "summary": "Menanyakan dan memberikan informasi pribadi: nama, asal, pekerjaan, status, dan alamat.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Bertanya dengan What's your...? Where are you from? Who is...?",
+        "Memberikan informasi pribadi dengan kalimat to be",
+        "Mengisi formulir sederhana dalam bahasa Inggris"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba isi formulir contoh, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Pertanyaan dengan to be\nUntuk menanyakan informasi pribadi, kita memakai **kata tanya + to be + subjek**. Di unit ini kita memakai beberapa pertanyaan penting sebagai pola tetap; semua kata tanya akan dipelajari lebih lengkap di Unit 6.\n\n| Pertanyaan | Arti | Contoh jawaban |\n| --- | --- | --- |\n| What's your name? | Siapa namamu? | I'm Dewi. / My name is Dewi. |\n| What's your surname? | Apa nama belakangmu? | Lestari. |\n| Where are you from? | Kamu dari mana? | I'm from Malang. |\n| What's your job? | Apa pekerjaanmu? | I'm a nurse. |\n| Are you married? | Apakah kamu sudah menikah? | No, I'm not. I'm single. |\n| What's your address? | Di mana alamatmu? | It's 12 Mango Street. |\n| What's your email address? | Apa alamat emailmu? | It's dewi.l@mailbox.com. |\n| Who is she? | Siapa dia? | She's my aunt. |\n\n**What's** adalah singkatan dari **What is**. Gunakan **What** untuk benda/informasi, **Who** untuk orang, dan **Where** untuk tempat.\n\n### Menyebut pekerjaan\nUntuk pekerjaan, gunakan **a** (atau **an** sebelum bunyi vokal): *I'm **a** cook. She's **an** engineer.* Aturan a/an akan dibahas lengkap di Unit 4.\n\n### Mengisi formulir\nFormulir berbahasa Inggris biasanya berisi:\n| Kolom | Arti |\n| --- | --- |\n| First name | Nama depan |\n| Surname / Last name | Nama belakang |\n| Nationality | Kebangsaan |\n| Job / Occupation | Pekerjaan |\n| Marital status: single / married | Status pernikahan |\n| Address | Alamat |\n| Email | Email |\n\n### Kesopanan\nDalam budaya berbahasa Inggris, pertanyaan tentang status pernikahan dan usia bisa terasa terlalu pribadi jika ditanyakan kepada orang yang baru dikenal. Pertanyaan ini biasanya muncul dalam situasi resmi, misalnya saat mendaftar atau mengisi formulir. Tambahkan **please** agar terdengar sopan: *What's your surname, **please**?*\n\nSaat mengeja alamat email, **@** dibaca **at** dan **.** dibaca **dot**.",
+        "examples": [
+          { "en": "What's your job? — I'm an engineer.", "id": "Apa pekerjaanmu? — Saya seorang insinyur." },
+          { "en": "Who is he? — He's my uncle.", "id": "Siapa dia? — Dia paman saya." },
+          { "en": "What's your surname, please?", "id": "Siapa nama belakang Anda?" },
+          { "en": "Are you married? — No, I'm not. I'm single.", "id": "Apakah Anda sudah menikah? — Belum. Saya lajang." },
+          { "en": "My address is 7 Lotus Road.", "id": "Alamat saya Jalan Lotus nomor 7." }
+        ],
+        "vocabulary": [
+          { "word": "job", "pos": "noun", "ipa": "/dʒɒb/", "meaning": "pekerjaan", "example": "What's your job?" },
+          { "word": "address", "pos": "noun", "ipa": "/əˈdres/", "meaning": "alamat", "example": "What's your address?" },
+          { "word": "email address", "pos": "noun", "ipa": "/ˈiːmeɪl əˌdres/", "meaning": "alamat email", "example": "My email address is tari@mailbox.com." },
+          { "word": "form", "pos": "noun", "ipa": "/fɔːm/", "meaning": "formulir", "example": "The form is on the table." },
+          { "word": "engineer", "pos": "noun", "ipa": "/ˌendʒɪˈnɪə/", "meaning": "insinyur, teknisi", "example": "Her husband is an engineer." },
+          { "word": "cook", "pos": "noun", "ipa": "/kʊk/", "meaning": "juru masak, koki", "example": "My uncle is a cook." },
+          { "word": "who", "pos": "question word", "ipa": "/huː/", "meaning": "siapa", "example": "Who is she?" }
+        ],
+        "grammar": [
+          { "pattern": "What's (What is) + your + noun?", "example": "What's your email address?" },
+          { "pattern": "Who is + he / she / that? → He's / She's + ...", "example": "Who is she? — She's my cousin." },
+          { "pattern": "Where are you from? → I'm from + tempat", "example": "Where are you from? — I'm from Medan." }
+        ],
+        "mistakes": [
+          { "wrong": "What are your name?", "right": "What is your name? / What's your name?", "why": "Name tunggal, jadi memakai is." },
+          { "wrong": "What's your job? — I'm cook.", "right": "What's your job? — I'm a cook.", "why": "Sebutkan pekerjaan dengan a/an." },
+          { "wrong": "Who is your job?", "right": "What's your job?", "why": "Who untuk orang; untuk pekerjaan gunakan What." }
+        ],
+        "summary": "Tanyakan informasi pribadi dengan **What's your name / surname / job / address?**, **Where are you from?**, **Are you married?**, dan **Who is he/she?** Jawab dengan kalimat to be: *I'm a nurse. She's my aunt. It's 12 Mango Street.* Gunakan **please** agar sopan.",
+        "reviewCards": [
+          { "front": "What's your job?", "back": "Apa pekerjaanmu? → I'm a/an + pekerjaan" },
+          { "front": "Who vs What", "back": "Who = siapa (orang); What = apa (benda/informasi)" },
+          { "front": "surname", "back": "nama belakang" },
+          { "front": "@ dan . dalam email dibaca?", "back": "at dan dot" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u02-l5-q1", "type": "matching", "category": "conversation", "topic": "personal information",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Match the questions with the answers.",
+          "instructions": "Perhatikan kata tanya: What, Where, Who, atau Are.",
+          "pairs": [
+            { "left": "What's your name?", "right": "Nadia Putri." },
+            { "left": "Where are you from?", "right": "I'm from Indonesia." },
+            { "left": "What's your job?", "right": "I'm a nurse." },
+            { "left": "Are you married?", "right": "Yes, I am." },
+            { "left": "Who is she?", "right": "She's my aunt." }
+          ],
+          "explanation": "What's your name → nama; Where → tempat asal; What's your job → pekerjaan; Are you married → jawaban yes/no; Who → orang."
+        },
+        {
+          "id": "a1-u02-l5-q2", "type": "dialogue_completion", "category": "conversation", "topic": "personal information",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the dialogue at the gym reception.",
+          "dialogue": [
+            { "speaker": "Receptionist", "text": "What's your surname, please?" },
+            { "speaker": "Arif", "text": "Hartono." },
+            { "speaker": "Receptionist", "text": null },
+            { "speaker": "Arif", "text": "No, I'm not. I'm single." }
+          ],
+          "options": ["Are you married?", "Are you single?", "What's your job?", "Where are you from?"],
+          "answer": 0,
+          "explanation": "Arif menjawab No, I'm not. I'm single — jadi pertanyaannya adalah Are you married? (Are you single? tidak cocok karena jawabannya No.)"
+        },
+        {
+          "id": "a1-u02-l5-q3", "type": "sentence_reconstruction", "category": "writing", "topic": "personal information",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the parts in order to make a short profile.",
+          "fragments": ["My name is Dewi Lestari.", "I'm from Malang.", "I'm a student", "and I'm not married."],
+          "explanation": "Profil singkat: nama, asal, pekerjaan/status, lalu status pernikahan."
+        },
+        {
+          "id": "a1-u02-l5-q4", "type": "single_choice", "category": "conversation", "topic": "personal information",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "A: What's your job? B: ___",
+          "options": ["I'm a cook.", "I'm fine, thanks.", "I'm from Bali.", "Yes, I am."],
+          "answer": 0,
+          "explanation": "Pertanyaan What's your job? menanyakan pekerjaan, jadi jawabannya I'm a cook."
+        },
+        {
+          "id": "a1-u02-l5-q5", "type": "short_answer", "category": "reading", "topic": "personal information",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Read the form. What is Arif's job?",
+          "context": "**Membership Form**\n- First name: Arif\n- Surname: Wibowo\n- Nationality: Indonesian\n- Job: engineer\n- Marital status: married",
+          "answers": ["engineer", "an engineer", "He's an engineer", "He is an engineer"],
+          "explanation": "Pada kolom Job tertulis engineer. Jadi Arif adalah seorang engineer (insinyur)."
+        },
+        {
+          "id": "a1-u02-l5-q6", "type": "error_identification", "category": "grammar", "topic": "personal information",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["What", "are", "your", "surname?"],
+          "errorIndex": 1,
+          "correction": "is (What is / What's your surname?)",
+          "explanation": "Surname adalah kata benda tunggal, jadi to be-nya is: What is your surname?"
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u02-t-q1", "type": "multiple_select", "category": "grammar", "topic": "to be negative and questions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Which sentences are correct? Choose all correct answers.",
+      "options": ["She isn't my sister.", "I amn't busy today.", "Are they your parents?", "He's name is Leo.", "Our teacher is not here."],
+      "answers": [0, 2, 4],
+      "explanation": "Benar: She isn't my sister; Are they your parents?; Our teacher is not here. Salah: amn't tidak ada (I'm not), dan He's = he is, untuk kepemilikan gunakan His name."
+    },
+    {
+      "id": "a1-u02-t-q2", "type": "dropdown", "category": "grammar", "topic": "short answers",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ your father a doctor? B: No, he ___. He's a teacher.",
+      "choices": [["Is", "Are", "Am"], ["isn't", "aren't", "not"]],
+      "answers": [0, 0],
+      "explanation": "Your father = he → Is your father...? Jawaban singkat negatif: No, he isn't."
+    },
+    {
+      "id": "a1-u02-t-q3", "type": "fill_blank", "category": "vocabulary", "topic": "family",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete with family words.",
+      "text": "Sara is my mother's sister. She is my ___. Leo is Sara's son. He is my ___.",
+      "answers": [["aunt"], ["cousin"]],
+      "explanation": "Saudara perempuan ibu = aunt (bibi/tante). Anak dari bibi = cousin (sepupu)."
+    },
+    {
+      "id": "a1-u02-t-q4", "type": "sentence_correction", "category": "grammar", "topic": "possessive s",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "This is Rudi car.",
+      "answers": ["This is Rudi's car."],
+      "explanation": "Untuk kepemilikan orang, tambahkan 's pada pemilik: Rudi's car."
+    },
+    {
+      "id": "a1-u02-t-q5", "type": "translation", "category": "grammar", "topic": "possessive s",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Nama ibu saya Sinta.",
+      "direction": "id-en",
+      "answers": ["My mother's name is Sinta.", "My mum's name is Sinta.", "My mom's name is Sinta."],
+      "explanation": "ibu saya = my mother; nama ibu saya = my mother's name. Kalimat: My mother's name is Sinta."
+    },
+    {
+      "id": "a1-u02-t-q6", "type": "dialogue_completion", "category": "conversation", "topic": "short answers",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the dialogue.",
+      "dialogue": [
+        { "speaker": "Jake", "text": "Is Mia your sister?" },
+        { "speaker": "Rosa", "text": null },
+        { "speaker": "Jake", "text": "Oh, your cousin! Nice." }
+      ],
+      "options": ["No, she isn't. She's my cousin.", "Yes, she is. She's my sister.", "No, he isn't. He's my cousin.", "No, I'm not."],
+      "answer": 0,
+      "explanation": "Jake berkata your cousin, jadi Mia bukan saudara perempuan Rosa. Mia perempuan → she: No, she isn't. She's my cousin."
+    },
+    {
+      "id": "a1-u02-t-q7", "type": "word_order", "category": "grammar", "topic": "to be questions",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Put the words in order to make a question.",
+      "words": ["Are", "your", "parents", "at", "home?"],
+      "explanation": "Pertanyaan yes/no: Are + subjek (your parents) + at home?"
+    },
+    {
+      "id": "a1-u02-t-q8", "type": "error_identification", "category": "grammar", "topic": "possessive adjectives",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["Tina and Joe", "are my friends.", "They're", "house is small."],
+      "errorIndex": 2,
+      "correction": "Their",
+      "explanation": "They're = they are. Untuk kepemilikan (rumah mereka) gunakan Their."
+    }
+  ]
+}

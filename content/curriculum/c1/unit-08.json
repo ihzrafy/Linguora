@@ -1,0 +1,548 @@
+{
+  "slug": "c1-u08-discourse",
+  "number": 8,
+  "title": "Cohesion and Discourse",
+  "description": "Connect ideas clearly across sentences and paragraphs. Use discourse markers for contrast, cause, result and addition; refer back with the former/the latter, this, such and do so; build cohesive paragraphs; and structure academic arguments with concession and rebuttal.",
+  "objectives": [
+    "Use contrast markers such as nevertheless, by contrast and whereas accurately",
+    "Use cause, result and addition markers such as consequently, hence and moreover",
+    "Use reference and substitution (the former, the latter, this, such, do so) to avoid repetition",
+    "Build cohesive paragraphs with topic sentences, given–new order and summary nouns",
+    "Structure arguments with concession and rebuttal"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u08-l1-contrast-markers",
+      "title": "Nevertheless, By Contrast, Whereas: Contrast and Concession",
+      "summary": "Choose and punctuate contrast and concession markers correctly, distinguishing sentence adverbs from conjunctions.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Distinguish concession (nevertheless, even so) from direct contrast (by contrast, conversely)",
+        "Distinguish sentence adverbs (however) from conjunctions (although, whereas)",
+        "Punctuate contrast markers correctly"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Two kinds of contrast\nContrast markers do two different jobs:\n1. **Concession**: something is true, but an unexpected result follows. 'The project was over budget. **Nevertheless**, it was considered a success.'\n2. **Direct contrast / comparison**: two different things are set side by side. 'Urban areas have grown rapidly. **By contrast**, many villages have lost half their population.'\n\n| Function | Sentence adverbs (link two sentences) | Conjunctions / prepositions (inside one sentence) |\n|---|---|---|\n| concession | nevertheless, nonetheless, even so, however, still | although, even though, though, despite / in spite of (+ noun/-ing) |\n| direct contrast | by contrast, in contrast, conversely, on the other hand, however | whereas, while |\n\n### Grammar: adverbs vs conjunctions\n- **Sentence adverbs** (*however, nevertheless, by contrast*) connect two **independent sentences**. They usually start the second sentence followed by a comma, or come after a semicolon: 'The plan is popular; **nevertheless**, it is expensive.' They can also appear mid-sentence: 'The court **nevertheless** convicted him.'\n- **Conjunctions** (*although, whereas, while*) join a subordinate clause to a main clause within **one sentence**: '**Although** the price is high, many people buy it.' / 'The north is mountainous, **whereas** the south is flat.'\n- **Prepositions** (*despite, in spite of*) are followed by a **noun or -ing**: '**Despite** the high price, ...' / '**Despite** being expensive, ...'.\n\n### Common errors\n- '*However the price is high, many people buy it.*' → *However* cannot introduce a subordinate clause in this meaning; use *Although*.\n- '*Despite the price is high ...*' → 'Despite the high price ...' or 'Despite the fact that the price is high ...'.\n- '*Whereas the north is mountainous. The south is flat.*' → A *whereas*-clause cannot stand alone; join the two clauses.\n- Comma splice: '*The plan is popular, however, it is expensive.*' → use a semicolon or full stop before *however*.\n\n### Conversely and on the other hand\n*Conversely* means 'in the opposite way': 'Higher interest rates reduce borrowing. **Conversely**, lower rates encourage it.' *On the other hand* compares two aspects of the same issue, often after *On the one hand*. Do not use *on the contrary* for simple comparison: it means 'the opposite is true' and rejects a previous statement ('It wasn't boring. **On the contrary**, it was fascinating.').\n\n### Indonesian note\n*Namun demikian / meskipun demikian* ≈ nevertheless; *sebaliknya* ≈ conversely / by contrast / on the contrary; *sedangkan* ≈ whereas; *meskipun* ≈ although. Be careful: *sebaliknya* has three possible English equivalents depending on the function.",
+        "examples": [
+          { "en": "The project was over budget. Nevertheless, it was considered a success.", "id": "Proyek itu melebihi anggaran. Meskipun demikian, proyek itu dianggap berhasil.", "note": "Concession across two sentences." },
+          { "en": "Urban areas have grown rapidly. By contrast, many villages have lost half their population.", "id": "Wilayah perkotaan tumbuh pesat. Sebaliknya, banyak desa kehilangan separuh penduduknya.", "note": "Direct contrast." },
+          { "en": "The north is mountainous, whereas the south is flat and fertile.", "id": "Wilayah utara bergunung-gunung, sedangkan wilayah selatan datar dan subur.", "note": "Conjunction inside one sentence." },
+          { "en": "Despite the high price, the new phone sold out within hours.", "id": "Meskipun harganya tinggi, ponsel baru itu habis terjual dalam hitungan jam.", "note": "Preposition + noun phrase." }
+        ],
+        "vocabulary": [
+          { "word": "nevertheless", "pos": "adverb", "ipa": "/ˌnevəðəˈles/", "meaning": "meskipun demikian, namun", "example": "It was risky; nevertheless, they went ahead." },
+          { "word": "conversely", "pos": "adverb", "ipa": "/ˈkɒnvɜːsli/", "meaning": "sebaliknya (dengan cara yang berlawanan)", "example": "Conversely, lower prices increase demand." },
+          { "word": "whereas", "pos": "conjunction", "ipa": "/ˌweərˈæz/", "meaning": "sedangkan, sementara", "example": "Some prefer tea, whereas others prefer coffee." },
+          { "word": "concession", "pos": "noun", "ipa": "/kənˈseʃn/", "meaning": "konsesi; pengakuan (sebagian)", "example": "'Although' introduces a concession." },
+          { "word": "disparity", "pos": "noun", "ipa": "/dɪˈspærəti/", "meaning": "kesenjangan, perbedaan", "example": "There is a wide disparity between urban and rural incomes." }
+        ],
+        "grammar": [
+          { "pattern": "Sentence 1. Nevertheless / However / By contrast, sentence 2.", "example": "The test was hard. Nevertheless, most students passed.", "note": "Sentence adverb + comma." },
+          { "pattern": "Although / Even though + clause, main clause", "example": "Although the test was hard, most students passed.", "note": "Conjunction within one sentence." },
+          { "pattern": "Clause, whereas / while + clause", "example": "Rents have risen, whereas wages have stayed the same.", "note": "Direct contrast within one sentence." },
+          { "pattern": "Despite / In spite of + noun / -ing, main clause", "example": "Despite being tired, she finished the report.", "note": "Preposition, not conjunction." }
+        ],
+        "mistakes": [
+          { "wrong": "However the price is high, many people still buy it.", "right": "Although the price is high, many people still buy it.", "why": "'However' links two sentences; use 'although' to introduce a subordinate clause." },
+          { "wrong": "Despite the weather was bad, we went out.", "right": "Despite the bad weather, we went out.", "why": "'Despite' is a preposition and needs a noun phrase or -ing form." },
+          { "wrong": "The plan is popular, however, it is expensive.", "right": "The plan is popular; however, it is expensive.", "why": "A comma alone cannot join two independent clauses; use a semicolon or full stop." }
+        ],
+        "summary": "Use nevertheless/even so for concession and by contrast/conversely/whereas for direct contrast. Sentence adverbs (however, nevertheless) link sentences; conjunctions (although, whereas) join clauses; prepositions (despite) take nouns or -ing. Avoid comma splices.",
+        "reviewCards": [
+          { "front": "meskipun demikian", "back": "nevertheless / nonetheless / even so" },
+          { "front": "sedangkan", "back": "whereas / while" },
+          { "front": "Despite + ?", "back": "noun phrase or -ing (not a clause)" },
+          { "front": "On the contrary = ?", "back": "the opposite is true (rejects a previous statement)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u08-l1-q1", "type": "single_choice", "category": "academic", "topic": "contrast markers", "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the text: 'The project was over budget. ___, it was considered a success.'",
+          "options": ["Nevertheless", "Consequently", "Furthermore", "Whereas"],
+          "answer": 0,
+          "explanation": "The second sentence is an unexpected result despite the first fact, so a concession marker ('Nevertheless') is needed. 'Whereas' is a conjunction and cannot start a separate sentence like this."
+        },
+        {
+          "id": "c1-u08-l1-q2", "type": "dropdown", "category": "academic", "topic": "contrast markers", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the best discourse marker.",
+          "text": "Urban areas have grown rapidly over the past decade. ___, many rural villages have lost half their population.",
+          "choices": [["By contrast", "Therefore", "Moreover"]],
+          "answers": [0],
+          "explanation": "The two sentences describe opposite trends in different places, so a direct contrast marker is required."
+        },
+        {
+          "id": "c1-u08-l1-q3", "type": "sentence_transformation", "category": "academic", "topic": "contrast markers", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence as two sentences using 'nevertheless'.",
+          "sentence": "Although the evidence was weak, the court convicted him.",
+          "cue": "Use: Nevertheless",
+          "answers": ["The evidence was weak. Nevertheless, the court convicted him.", "The evidence was weak. The court nevertheless convicted him.", "The evidence was weak. Nevertheless, the court still convicted him."],
+          "explanation": "The 'although' clause becomes an independent sentence, and 'Nevertheless' introduces the unexpected result in the second sentence."
+        },
+        {
+          "id": "c1-u08-l1-q4", "type": "error_identification", "category": "grammar", "topic": "contrast markers", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["However", "the price is high,", "many people", "still buy it."],
+          "errorIndex": 0,
+          "correction": "Although",
+          "explanation": "To introduce a subordinate clause of concession, use 'Although'. 'However' links two independent sentences."
+        },
+        {
+          "id": "c1-u08-l1-q5", "type": "multiple_select", "category": "academic", "topic": "contrast markers", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which markers can complete the text? 'The first study found a strong effect. ___, the second study found no effect at all.' Select ALL that apply.",
+          "options": ["In contrast", "Conversely", "However", "Therefore", "Similarly"],
+          "answers": [0, 1, 2],
+          "explanation": "The second sentence contrasts with the first. 'Therefore' expresses a result and 'Similarly' expresses similarity, so they do not fit."
+        },
+        {
+          "id": "c1-u08-l1-q6", "type": "drag_drop", "category": "academic", "topic": "contrast markers", "difficulty": 3, "stage": "quiz",
+          "prompt": "Drag the correct markers into the gaps.",
+          "text": "___ some experts believe the new tax will help, others fear it will hurt small businesses. The plan is popular with voters; ___, it will be expensive to implement.",
+          "bank": ["While", "nevertheless", "Despite", "therefore", "Because"],
+          "answers": ["While", "nevertheless"],
+          "explanation": "'While' (conjunction) contrasts two opinions in one sentence. 'Nevertheless' after a semicolon introduces a concession."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u08-l2-cause-result-addition",
+      "title": "Consequently, Hence, Moreover: Cause, Result and Addition",
+      "summary": "Use markers of result (consequently, therefore, thus, hence) and addition (moreover, furthermore) with correct grammar and punctuation.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use consequently, therefore, thus, as a result and accordingly to express results",
+        "Use hence correctly with a clause or a noun phrase",
+        "Use moreover, furthermore and in addition to build arguments"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Result markers\n| Marker | Notes | Example |\n|---|---|---|\n| consequently / as a consequence | formal; result of a situation | The factory polluted the river. **Consequently**, the fish population collapsed. |\n| therefore | logical conclusion; often mid-sentence | The data are incomplete; we **therefore** cannot draw firm conclusions. |\n| thus | formal; result or 'in this way' | The scheme was poorly funded and **thus** failed. |\n| as a result | neutral | **As a result**, several flights were cancelled. |\n| accordingly | formal; 'in response / appropriately' | The rules changed, and the school adjusted its policy **accordingly**. |\n| hence | very formal; often + noun phrase | The bridge was damaged; **hence** the long delays. |\n\n### Hence: a special case\n*Hence* can be followed by a full clause or, very often, by a **noun phrase without a verb**: 'The software is free; **hence** its popularity.' It cannot be followed by *because* or *of*.\n\n### Cause markers\n*Because of / due to / owing to* + noun; *since / as / because* + clause; *for this reason*, *this is why* (from Unit 2).\n\n### Addition markers\n| Marker | Use |\n|---|---|\n| moreover | adds a stronger or more important point (formal) |\n| furthermore | adds another point (formal) |\n| in addition / additionally | neutral addition |\n| what is more | emphatic, slightly less formal |\n| besides | adds a point, often in argument (less formal) |\n\n'The new system is cheaper. **Moreover**, it is easier to maintain.'\n\n### Punctuation\nMost of these markers behave like *however*: start a new sentence with them and add a comma, or use a semicolon before them. A comma alone is not enough between two full clauses: '*The roads were icy, consequently, several accidents occurred*' is a comma splice. Correct: 'The roads were icy; consequently, several accidents occurred.' or 'The roads were icy. Consequently, ...'\n\nWith *and*, these markers can appear inside one sentence: '... and **thus** failed', '... and **therefore** cannot ...'.\n\n### Fixed forms\n'**As a result**' needs the article *a*: '*As result*' is wrong. '**As a consequence**' also takes *a*. '**In addition to** + noun / -ing': 'In addition to reducing costs, the system ...'.\n\n### Over-use\nDo not start every sentence with a marker. Experienced writers use markers at key turning points and rely on reference words (*this, such*) and logical order elsewhere.\n\n### Indonesian note\n*Oleh karena itu* ≈ therefore; *akibatnya* ≈ consequently / as a result; *dengan demikian* ≈ thus; *selain itu* ≈ moreover / furthermore / in addition. *Maka* is often translated as *therefore* or *thus*.",
+        "examples": [
+          { "en": "The factory polluted the river for years; consequently, the fish population collapsed.", "id": "Pabrik itu mencemari sungai selama bertahun-tahun; akibatnya, populasi ikan anjlok.", "note": "Result." },
+          { "en": "The software is free and easy to use; hence its popularity.", "id": "Perangkat lunak itu gratis dan mudah digunakan; karena itulah ia populer.", "note": "hence + noun phrase." },
+          { "en": "The new system is cheaper. Moreover, it is easier to maintain.", "id": "Sistem baru itu lebih murah. Selain itu, sistem itu lebih mudah dirawat.", "note": "Addition." },
+          { "en": "The scheme was poorly funded and thus failed to meet its targets.", "id": "Skema itu kurang didanai sehingga gagal mencapai targetnya.", "note": "and thus + verb." }
+        ],
+        "vocabulary": [
+          { "word": "consequently", "pos": "adverb", "ipa": "/ˈkɒnsɪkwəntli/", "meaning": "akibatnya, oleh karena itu", "example": "Demand fell; consequently, prices dropped." },
+          { "word": "hence", "pos": "adverb", "ipa": "/hens/", "meaning": "oleh karena itu, karenanya", "example": "The road was closed; hence the delay." },
+          { "word": "moreover", "pos": "adverb", "ipa": "/mɔːrˈəʊvə(r)/", "meaning": "lagi pula, selain itu", "example": "The plan is cheap. Moreover, it is popular." },
+          { "word": "accordingly", "pos": "adverb", "ipa": "/əˈkɔːdɪŋli/", "meaning": "sesuai dengan itu, karenanya", "example": "Prices rose, and wages were adjusted accordingly." },
+          { "word": "collapse", "pos": "verb", "ipa": "/kəˈlæps/", "meaning": "anjlok, runtuh", "example": "The fish population collapsed after the spill." }
+        ],
+        "grammar": [
+          { "pattern": "Clause; consequently / therefore / as a result, clause.", "example": "Fuel prices rose; as a result, airfares increased.", "note": "Semicolon or full stop before the marker." },
+          { "pattern": "Clause; hence + noun phrase.", "example": "Tickets were cheap; hence the huge crowds.", "note": "Very formal; no verb needed." },
+          { "pattern": "Subject + verb ... and thus / therefore + verb", "example": "The data were incomplete and therefore unreliable.", "note": "Inside one sentence with 'and'." },
+          { "pattern": "Sentence. Moreover / Furthermore / In addition, sentence.", "example": "It is cheap. Furthermore, it is reliable.", "note": "Adding points." }
+        ],
+        "mistakes": [
+          { "wrong": "The company lost its biggest client. As result, it had to cut jobs.", "right": "The company lost its biggest client. As a result, it had to cut jobs.", "why": "The fixed phrase is 'as a result'." },
+          { "wrong": "There were long delays, hence because the bridge was damaged.", "right": "The bridge was damaged; hence the long delays.", "why": "'Hence' introduces the result, not the cause, and is not followed by 'because'." },
+          { "wrong": "The roads were icy, consequently, several accidents occurred.", "right": "The roads were icy; consequently, several accidents occurred.", "why": "A comma cannot join two independent clauses; use a semicolon or full stop." }
+        ],
+        "summary": "Express results with consequently, therefore, thus, as a result, accordingly and hence (hence + noun phrase is common). Add points with moreover, furthermore and in addition. Use a full stop or semicolon before these sentence adverbs, and remember fixed forms like 'as a result'.",
+        "reviewCards": [
+          { "front": "akibatnya", "back": "consequently / as a result" },
+          { "front": "The road was closed; hence ___ (noun phrase)", "back": "hence the delays" },
+          { "front": "selain itu", "back": "moreover / furthermore / in addition" },
+          { "front": "As ___ result", "back": "a (as a result)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u08-l2-q1", "type": "matching", "category": "academic", "topic": "discourse markers", "difficulty": 2, "stage": "guided",
+          "prompt": "Match each discourse marker with its function.",
+          "pairs": [
+            { "left": "consequently", "right": "introducing a result" },
+            { "left": "furthermore", "right": "adding another point" },
+            { "left": "nevertheless", "right": "introducing an unexpected contrast" },
+            { "left": "for instance", "right": "giving an example" },
+            { "left": "in conclusion", "right": "summarising at the end" }
+          ],
+          "explanation": "Each marker signals a different logical relationship between ideas."
+        },
+        {
+          "id": "c1-u08-l2-q2", "type": "fill_blank", "category": "academic", "topic": "result markers", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with a marker of result.",
+          "text": "The factory polluted the river for years; ___, the fish population collapsed.",
+          "answers": [["consequently", "as a result", "therefore", "as a consequence", "thus"]],
+          "explanation": "The collapse of the fish population is the result of the pollution, so a result marker is needed."
+        },
+        {
+          "id": "c1-u08-l2-q3", "type": "sentence_correction", "category": "academic", "topic": "result markers", "difficulty": 2, "stage": "independent",
+          "prompt": "Correct the error in the second sentence.",
+          "sentence": "The company lost its biggest client. As result, it had to cut jobs.",
+          "answers": ["The company lost its biggest client. As a result, it had to cut jobs.", "The company lost its biggest client. As a consequence, it had to cut jobs."],
+          "explanation": "The fixed phrase is 'as a result' (with the article 'a')."
+        },
+        {
+          "id": "c1-u08-l2-q4", "type": "single_choice", "category": "academic", "topic": "result markers", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence uses 'hence' correctly?",
+          "options": ["The bridge was damaged; hence the long delays.", "Hence the bridge was damaged, there were long delays.", "The bridge was damaged hence of the storm.", "There were long delays, hence because the bridge was damaged."],
+          "answer": 0,
+          "explanation": "'Hence' introduces a result and is often followed by a noun phrase: 'hence the long delays'."
+        },
+        {
+          "id": "c1-u08-l2-q5", "type": "dropdown", "category": "academic", "topic": "discourse markers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best markers.",
+          "text": "The new system is cheaper than the old one. ___, it is easier to maintain. ___, we recommend adopting it next year.",
+          "choices": [["Moreover", "However", "Instead"], ["Therefore", "Nevertheless", "Whereas"]],
+          "answers": [0, 0],
+          "explanation": "'Moreover' adds a second advantage; 'Therefore' introduces the logical conclusion."
+        },
+        {
+          "id": "c1-u08-l2-q6", "type": "word_order", "category": "academic", "topic": "result markers", "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "scheme", "was", "poorly", "funded", "and", "thus", "failed", "to", "meet", "its", "targets"],
+          "explanation": "'And thus' joins two verbs with the same subject: 'The scheme was poorly funded and thus failed to meet its targets.'"
+        }
+      ]
+    },
+    {
+      "slug": "c1-u08-l3-reference-substitution",
+      "title": "The Former, The Latter, Such: Reference and Substitution",
+      "summary": "Avoid repetition and link ideas with reference words (this, these, such, the former, the latter) and substitution (do so, one/ones, the same).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use the former and the latter to refer to two previously mentioned items",
+        "Use this/these + summary noun and such to refer back to ideas",
+        "Use do so, one/ones and so/not to substitute for repeated words"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why reference and substitution?\nGood writing avoids unnecessary repetition. Instead of repeating a noun phrase or a whole clause, English uses **reference words** that point back to something already mentioned, and **substitute words** that replace it.\n\n### The former and the latter\nWhen exactly **two** items have been mentioned:\n- **the former** = the first one\n- **the latter** = the second one\n\n'The council considered a new park and a car park. It chose **the former** because residents wanted green space.' (= the park)\n\nNote the spelling: *latter* (not *later*). Use *the first / the last* when there are more than two items.\n\n### This, these, that, those + summary noun\n*This* and *these* can refer back to a whole idea. Adding a **summary noun** makes the reference clearer:\n- 'Prices rose by 40% in a single year. **This increase** hit the poorest households hardest.'\n- 'Many graduates are moving abroad. **This trend** worries the government.'\n\nCommon summary nouns: *trend, problem, issue, approach, situation, development, view, claim, finding, measure*.\n\n### Such\n*Such* means 'of this kind' or 'so great':\n- '**Such an** increase had not been seen since 1998.'\n- '**Such** measures are often unpopular.'\n\nWith singular countable nouns, use **such a / such an**; with plural or uncountable nouns, use **such** alone.\n\n### Substitution\n| Substitute | Replaces | Example |\n|---|---|---|\n| do so | a verb phrase | The school was asked to cut fees, and it agreed to **do so**. |\n| one / ones | a countable noun | I don't need a new laptop; my old **one** works fine. |\n| so / not | a clause (after think, hope, expect, believe) | Will prices fall? I hope **so**. / I hope **not**. |\n| the same | something identical | She ordered the soup, and I did **the same**. |\n\n### Ambiguity\nReference must be **clear**. In 'The minister met the director, and **he** criticised the plan', *he* could mean either person. In formal writing, repeat the noun or use *the former / the latter* to avoid confusion.\n\n### Indonesian note\nIndonesian uses *yang pertama / yang terakhir* (the former / the latter), *hal ini / hal tersebut* (this), and *demikian* (so/such). *Hal ini* is very frequent in Indonesian writing; in English, adding a precise summary noun ('this decision', 'this problem') is usually better than a vague 'this'.",
+        "examples": [
+          { "en": "Solar and wind power are both expanding, but the former is cheaper to install in tropical regions.", "id": "Tenaga surya dan angin sama-sama berkembang, tetapi yang pertama lebih murah dipasang di wilayah tropis.", "note": "the former = solar power." },
+          { "en": "Many graduates are moving abroad. This trend worries the government.", "id": "Banyak lulusan pindah ke luar negeri. Tren ini mengkhawatirkan pemerintah.", "note": "this + summary noun." },
+          { "en": "Such an increase had not been seen since 1998.", "id": "Kenaikan seperti itu belum pernah terlihat sejak 1998.", "note": "such an + singular noun." },
+          { "en": "The school was asked to reduce its fees, and it agreed to do so.", "id": "Sekolah itu diminta untuk mengurangi biayanya, dan sekolah itu setuju untuk melakukannya.", "note": "do so = reduce its fees." }
+        ],
+        "vocabulary": [
+          { "word": "the former", "pos": "noun phrase", "ipa": "/ðə ˈfɔːmə(r)/", "meaning": "yang pertama (dari dua hal)", "example": "Of the two options, the former is cheaper." },
+          { "word": "the latter", "pos": "noun phrase", "ipa": "/ðə ˈlætə(r)/", "meaning": "yang terakhir / yang kedua (dari dua hal)", "example": "Of the two options, the latter is safer." },
+          { "word": "aforementioned", "pos": "adjective", "ipa": "/əˌfɔːˈmenʃənd/", "meaning": "yang telah disebutkan sebelumnya", "example": "The aforementioned report was published in May." },
+          { "word": "respectively", "pos": "adverb", "ipa": "/rɪˈspektɪvli/", "meaning": "masing-masing (sesuai urutan)", "example": "Rina and Bayu scored 85 and 90, respectively." },
+          { "word": "repetition", "pos": "noun", "ipa": "/ˌrepəˈtɪʃn/", "meaning": "pengulangan", "example": "Reference words help avoid repetition." }
+        ],
+        "grammar": [
+          { "pattern": "X and Y ... the former (= X) / the latter (= Y)", "example": "Tea and coffee are popular; the latter contains more caffeine.", "note": "Only for two items." },
+          { "pattern": "This / These + summary noun", "example": "These findings challenge earlier research.", "note": "Clear reference to a previous idea." },
+          { "pattern": "such a/an + singular noun / such + plural or uncountable noun", "example": "such a decision / such decisions / such behaviour", "note": "'Of this kind'." },
+          { "pattern": "... and + subject + verb + to do so", "example": "Staff were invited to comment, and many did so.", "note": "Substitutes a verb phrase." }
+        ],
+        "mistakes": [
+          { "wrong": "The later has been particularly effective.", "right": "The latter has been particularly effective.", "why": "'The latter' (second of two) is spelled with double t and 'a'; 'later' means 'afterwards'." },
+          { "wrong": "Such increase had not been seen before.", "right": "Such an increase had not been seen before.", "why": "With a singular countable noun, use 'such a/an'." },
+          { "wrong": "I don't need a new phone; my old works fine.", "right": "I don't need a new phone; my old one works fine.", "why": "An adjective cannot stand alone; use 'one' to replace the noun." }
+        ],
+        "summary": "Use the former / the latter for two items, this/these + summary noun to refer back to ideas, such (a/an) for 'of this kind', and do so, one/ones, so/not and the same to substitute for repeated words. Keep references unambiguous.",
+        "reviewCards": [
+          { "front": "the former / the latter", "back": "the first / the second of two items mentioned" },
+          { "front": "such ___ increase", "back": "such an increase" },
+          { "front": "Replace a repeated verb phrase", "back": "do so (They agreed to do so.)" },
+          { "front": "respectively", "back": "masing-masing (sesuai urutan)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u08-l3-q1", "type": "single_choice", "category": "academic", "topic": "reference", "difficulty": 2, "stage": "guided",
+          "prompt": "In the sentence 'Solar and wind power are both expanding, but the former is cheaper to install in tropical regions', what does 'the former' refer to?",
+          "options": ["solar power", "wind power", "both types of power", "tropical regions"],
+          "answer": 0,
+          "explanation": "'The former' refers to the first of two items mentioned: solar power."
+        },
+        {
+          "id": "c1-u08-l3-q2", "type": "fill_blank", "category": "academic", "topic": "substitution", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with a two-word substitution (verb + adverb) that avoids repeating 'provide extra classes'.",
+          "text": "Many parents asked the school to provide extra classes, and the principal agreed to ___ ___.",
+          "answers": [["do"], ["so"]],
+          "explanation": "'Do so' replaces a previously mentioned verb phrase ('provide extra classes')."
+        },
+        {
+          "id": "c1-u08-l3-q3", "type": "matching", "category": "academic", "topic": "reference", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each reference or substitution device with its function.",
+          "pairs": [
+            { "left": "the former", "right": "refers to the first of two things mentioned" },
+            { "left": "the latter", "right": "refers to the second of two things mentioned" },
+            { "left": "such", "right": "means 'of the type already mentioned'" },
+            { "left": "do so", "right": "replaces a previously mentioned action" },
+            { "left": "this + summary noun", "right": "refers back to a whole idea or situation" }
+          ],
+          "explanation": "These devices create cohesion by linking new sentences to earlier information without repetition."
+        },
+        {
+          "id": "c1-u08-l3-q4", "type": "dropdown", "category": "academic", "topic": "reference", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct reference expression.",
+          "text": "The council considered two proposals: a new park and a multi-storey car park. It chose ___ because residents wanted more green space.",
+          "choices": [["the former", "the latter", "such"]],
+          "answers": [0],
+          "explanation": "Residents wanted green space, so the council chose the park, which was mentioned first: 'the former'."
+        },
+        {
+          "id": "c1-u08-l3-q5", "type": "error_identification", "category": "vocabulary", "topic": "reference", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the text that contains an error.",
+          "segments": ["The government introduced two policies:", "a sugar tax and a ban on junk-food adverts.", "The later", "has been particularly effective."],
+          "errorIndex": 2,
+          "correction": "The latter",
+          "explanation": "To refer to the second of two items, use 'the latter'. 'Later' means 'at a later time'."
+        },
+        {
+          "id": "c1-u08-l3-q6", "type": "drag_drop", "category": "academic", "topic": "reference", "difficulty": 3, "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Prices rose by 40% in a single year. ___ increase had not been seen since 1998. Economists warned that ___ would hurt the poorest households most.",
+          "bank": ["Such an", "this", "Such a", "such", "these"],
+          "answers": ["Such an", "this"],
+          "explanation": "'Such an increase' (= an increase of this size) uses 'an' before a vowel sound. 'This' refers back to the whole situation described."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u08-l4-paragraph-cohesion",
+      "title": "Building Cohesive Paragraphs",
+      "summary": "Organise paragraphs with clear topic sentences, given–new information order, summary nouns and lexical chains.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Write topic sentences that control a paragraph",
+        "Order information from given to new",
+        "Create lexical chains with synonyms and summary nouns"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Cohesion vs coherence\n**Coherence** means that the ideas in a text make logical sense. **Cohesion** means that the language connects those ideas visibly: through markers, reference, repetition and word choice. A paragraph needs both.\n\n### The topic sentence\nAn academic paragraph usually begins with a **topic sentence** that states the main idea. The other sentences develop, explain or illustrate it. A good topic sentence is general enough to cover the whole paragraph but specific enough to have a clear focus:\n- Too general: 'Technology is important.'\n- Effective: 'Remote work has fundamentally changed the way many companies operate.'\n\n### Given before new\nEnglish sentences flow best when they start with **given** information (already mentioned or known) and end with **new** information. The new information of one sentence often becomes the given information of the next:\n\n'The city introduced a **congestion charge** in 2020. **This charge** has reduced traffic in the centre by about **20%**. **This reduction** has, in turn, improved air quality.'\n\nNotice the chain: congestion charge → this charge → 20% reduction → this reduction. Passive voice and clefts (Units 2 and 3) are often used to put given information first.\n\n### Summary nouns\nSummary nouns ('encapsulating nouns') sum up the previous sentence and carry it forward: *this trend, this shift, this approach, this problem, these measures, such a development*. They are among the most powerful cohesive devices in academic writing.\n\n### Lexical chains\nUsing related words and synonyms keeps a topic present without monotonous repetition: *unemployment → job losses → redundancies → those out of work*. But be careful: in technical writing, key terms are often **repeated** for precision rather than replaced by synonyms.\n\n### Typical paragraph structure\n1. Topic sentence (main claim)\n2. Explanation (why / how)\n3. Evidence or example (for instance, according to ...)\n4. Comment or link (this suggests ..., consequently ...)\n5. Optional concluding or transition sentence\n\n### Common problems\n- Every sentence begins with 'And' or 'Also'.\n- The same noun is repeated in every sentence.\n- Sentences start with completely new information, so the reader cannot see the connection.\n- Vague 'this' without a noun when the reference is unclear.\n\n### Indonesian note\nIndonesian paragraphs often place the main idea at the end (inductive style). English academic paragraphs usually state the main idea **first** (deductive style). Moving your topic sentence to the beginning is one of the quickest ways to make your English writing clearer to international readers.",
+        "examples": [
+          { "en": "The city introduced a congestion charge in 2020. This charge has reduced traffic in the centre by about 20%.", "id": "Kota itu memberlakukan biaya kemacetan pada tahun 2020. Biaya ini telah mengurangi lalu lintas di pusat kota sekitar 20%.", "note": "Given → new chain." },
+          { "en": "Remote work has fundamentally changed the way many companies operate.", "id": "Kerja jarak jauh telah secara mendasar mengubah cara banyak perusahaan beroperasi.", "note": "Effective topic sentence." },
+          { "en": "Many young people are leaving rural areas. This trend threatens the future of farming.", "id": "Banyak anak muda meninggalkan pedesaan. Tren ini mengancam masa depan pertanian.", "note": "Summary noun." },
+          { "en": "Some villages offer cheap land to young farmers. This approach has had mixed results.", "id": "Beberapa desa menawarkan lahan murah kepada petani muda. Pendekatan ini memberikan hasil yang beragam.", "note": "Summary noun for a solution." }
+        ],
+        "vocabulary": [
+          { "word": "cohesive", "pos": "adjective", "ipa": "/kəʊˈhiːsɪv/", "meaning": "padu, saling terhubung dengan baik", "example": "The essay is clear and cohesive." },
+          { "word": "coherent", "pos": "adjective", "ipa": "/kəʊˈhɪərənt/", "meaning": "koheren, logis dan runtut", "example": "She presented a coherent argument." },
+          { "word": "shift", "pos": "noun", "ipa": "/ʃɪft/", "meaning": "pergeseran, perubahan", "example": "This shift towards online shopping has hurt small shops." },
+          { "word": "in turn", "pos": "phrase", "ipa": "/ɪn tɜːn/", "meaning": "pada gilirannya", "example": "Lower costs, in turn, led to higher profits." },
+          { "word": "illustrate", "pos": "verb", "ipa": "/ˈɪləstreɪt/", "meaning": "mengilustrasikan, menggambarkan", "example": "The following example illustrates this point." }
+        ],
+        "grammar": [
+          { "pattern": "Topic sentence → explanation → example → comment", "example": "Remote work has changed companies. ... For instance, ... This suggests ...", "note": "Deductive paragraph structure." },
+          { "pattern": "Sentence ending with new info. + This/These + summary noun ...", "example": "... a 20% fall in traffic. This reduction ...", "note": "Given–new chaining." },
+          { "pattern": "..., which in turn + verb", "example": "Costs fell, which in turn increased profits.", "note": "Showing a chain of effects." }
+        ],
+        "mistakes": [
+          { "wrong": "Traffic was reduced by 20% by a congestion charge that the city introduced.", "right": "The city introduced a congestion charge. This charge has reduced traffic by 20%.", "why": "Start with given information and use a summary noun to link sentences clearly." },
+          { "wrong": "Also, prices went up. And also people bought less.", "right": "Prices rose. As a result, consumers spent less.", "why": "Avoid repetitive 'also/and' openings; use precise markers and vocabulary." },
+          { "wrong": "This is a big problem. This means this needs action.", "right": "This shortage is a serious problem that requires urgent action.", "why": "Vague repeated 'this' is unclear; add a summary noun and combine ideas." }
+        ],
+        "summary": "Cohesive paragraphs begin with a clear topic sentence, move from given to new information, use summary nouns (this trend, this approach) and lexical chains, and avoid vague or repetitive linking. English academic paragraphs usually state the main idea first.",
+        "reviewCards": [
+          { "front": "cohesion vs coherence", "back": "cohesion = visible language links; coherence = logical sense of ideas" },
+          { "front": "Given–new principle", "back": "Start with known information, end with new information." },
+          { "front": "Summary nouns (examples)", "back": "this trend / approach / problem / shift / development" },
+          { "front": "in turn", "back": "pada gilirannya" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u08-l4-q1", "type": "single_choice", "category": "writing", "topic": "paragraph cohesion", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the best topic sentence for this paragraph.",
+          "context": "___ Many firms no longer rent large offices and instead rely on digital tools to coordinate staff in different cities. This has reduced costs considerably. However, managers report new difficulties in building team spirit.",
+          "options": ["Remote work has fundamentally changed the way many companies operate.", "Technology is very important in the modern world.", "Office rents are expensive in big cities.", "Team spirit is difficult to build."],
+          "answer": 0,
+          "explanation": "The first option covers all the supporting ideas (offices, digital tools, costs, team spirit). The others are too general or too narrow."
+        },
+        {
+          "id": "c1-u08-l4-q2", "type": "sentence_reconstruction", "category": "writing", "topic": "paragraph cohesion", "difficulty": 3, "stage": "independent",
+          "prompt": "Put the sentences in the correct order to make a cohesive paragraph.",
+          "fragments": ["Remote work has changed the way many companies operate.", "Instead of renting large offices, firms now rely on digital tools.", "This shift has reduced costs significantly.", "However, it has also created new challenges for team communication."],
+          "explanation": "The paragraph moves from the topic sentence to a specific change, then uses the summary noun 'This shift' to describe a result, and finally introduces a contrast with 'However'."
+        },
+        {
+          "id": "c1-u08-l4-q3", "type": "dropdown", "category": "writing", "topic": "summary nouns", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the most suitable summary noun for each gap.",
+          "text": "Many young people are leaving the countryside for the cities. This ___ has serious consequences for agriculture. Some villages have responded by offering cheap land to young farmers. This ___ has had mixed results.",
+          "choices": [["trend", "solution", "argument"], ["approach", "problem", "trend"]],
+          "answers": [0, 0],
+          "explanation": "Young people leaving is a 'trend'; offering cheap land is a response, i.e. an 'approach'."
+        },
+        {
+          "id": "c1-u08-l4-q4", "type": "multiple_select", "category": "writing", "topic": "paragraph cohesion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which techniques improve the cohesion of a paragraph? Select ALL that apply.",
+          "options": ["Using a summary noun such as 'this problem' to refer back to an idea", "Repeating exactly the same noun at the start of every sentence", "Placing known information at the start of a sentence and new information at the end", "Using synonyms and related words to create lexical chains", "Starting every sentence with 'And' or 'Also'"],
+          "answers": [0, 2, 3],
+          "explanation": "Summary nouns, given–new order and lexical chains create cohesion. Mechanical repetition and 'And/Also' openings make writing monotonous."
+        },
+        {
+          "id": "c1-u08-l4-q5", "type": "single_choice", "category": "writing", "topic": "given-new information", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence best continues the text? 'The city introduced a congestion charge in 2020.'",
+          "options": ["This charge has reduced traffic in the centre by around 20%.", "Traffic in the centre has been reduced by around 20% by a charge.", "Around 20% is the reduction in traffic, which a charge did.", "A reduction of 20% of traffic happened because of something introduced."],
+          "answer": 0,
+          "explanation": "Option 1 starts with given information ('This charge') and ends with new information ('by around 20%'), creating a smooth link."
+        },
+        {
+          "id": "c1-u08-l4-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "cohesion vocabulary", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "The essay was well researched but not very **cohesive**: the paragraphs seemed unconnected to each other.",
+          "options": ["clearly linked together", "strongly persuasive", "unusually long", "highly original"],
+          "answer": 0,
+          "explanation": "'Cohesive' means that the parts are well connected, as the second half of the sentence explains."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u08-l5-argument-debate",
+      "title": "Admittedly ... Nevertheless: Concession and Rebuttal",
+      "summary": "Structure arguments by acknowledging opposing views and then rebutting them, using the language of academic debate.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Introduce opposing views with it could be argued that, opponents claim that",
+        "Concede and rebut with admittedly ... nevertheless, while it is true that ..., ...",
+        "Use debate vocabulary such as concede, refute, premise and flawed"
+      ],
+      "completionCriteria": "Read all sections, complete the writing task and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why acknowledge the other side?\nA persuasive academic argument does not ignore opposing views. It **presents** them fairly, **concedes** what is reasonable in them and then **rebuts** them. This makes the writer appear fair-minded and the final position more convincing.\n\n### Step 1: Introduce the opposing view\n- **It could be argued that** school uniforms limit self-expression.\n- **Opponents of** this policy **claim that** ...\n- **Some critics maintain that** ...\n- **A common objection is that** ...\n\n### Step 2: Concede (partly agree)\n- **Admittedly**, some students may feel restricted.\n- **It is true that** uniforms can be expensive.\n- **While it is true that** ..., ...\n- **Granted**, ...\n\n### Step 3: Rebut (respond)\n- **Nevertheless / However / Even so**, uniforms reduce visible differences in wealth.\n- **This argument overlooks** the fact that ...\n- **This view fails to take into account** ...\n- **There is little evidence to support this claim.**\n\n### Putting it together\n'**It could be argued that** school uniforms limit students' self-expression. **Admittedly**, some teenagers may feel that their individuality is restricted. **Nevertheless**, this argument **overlooks** the role of uniforms in reducing visible differences in wealth, which can be a significant source of bullying. **Moreover**, students retain many other ways of expressing themselves, such as through their work and extracurricular activities.'\n\n### Concession inside one sentence\n'**While it is true that** tourism can damage local culture, it also helps to preserve traditional crafts.' The *while*-clause concedes; the main clause carries the writer's real point. Remember: the main clause is where the emphasis falls, so put your own view there.\n\n### Debate vocabulary\n| Word | Meaning |\n|---|---|\n| concede | admit that an opposing point is partly true |\n| refute | prove that a claim is wrong |\n| rebut / rebuttal | argue against / a response that argues against |\n| premise | an idea on which an argument is based |\n| flawed | containing a weakness or error |\n| valid | logically sound or acceptable |\n| counterargument | an argument against another argument |\n\nNote: *refute* means to **prove** something wrong. If you only argue against it, *reject*, *dispute* or *challenge* may be more accurate.\n\n### Indonesian note\n*Memang benar bahwa ..., namun ...* is a typical Indonesian concession–rebuttal pattern; it maps directly onto 'While it is true that ..., ...' or 'Admittedly, ... Nevertheless, ...'.",
+        "examples": [
+          { "en": "It could be argued that school uniforms limit self-expression.", "id": "Dapat dikatakan bahwa seragam sekolah membatasi ekspresi diri.", "note": "Introducing an opposing view." },
+          { "en": "Admittedly, some students may feel restricted. Nevertheless, uniforms reduce visible differences in wealth.", "id": "Memang, sebagian siswa mungkin merasa terbatasi. Meskipun demikian, seragam mengurangi perbedaan kekayaan yang terlihat.", "note": "Concession + rebuttal." },
+          { "en": "While it is true that tourism can damage local culture, it also helps to preserve traditional crafts.", "id": "Meskipun benar bahwa pariwisata dapat merusak budaya lokal, pariwisata juga membantu melestarikan kerajinan tradisional.", "note": "Concession in one sentence." },
+          { "en": "This argument overlooks the long-term benefits of the policy.", "id": "Argumen ini mengabaikan manfaat jangka panjang dari kebijakan tersebut.", "note": "Rebuttal." }
+        ],
+        "vocabulary": [
+          { "word": "concede", "pos": "verb", "ipa": "/kənˈsiːd/", "meaning": "mengakui (sebagian kebenaran pihak lain)", "example": "She conceded that her opponent had a point." },
+          { "word": "refute", "pos": "verb", "ipa": "/rɪˈfjuːt/", "meaning": "membantah dengan bukti, menyangkal", "example": "The new data refute the earlier claim." },
+          { "word": "rebuttal", "pos": "noun", "ipa": "/rɪˈbʌtl/", "meaning": "sanggahan", "example": "His rebuttal was clear and well supported." },
+          { "word": "premise", "pos": "noun", "ipa": "/ˈpremɪs/", "meaning": "premis, dasar pemikiran", "example": "The argument rests on a false premise." },
+          { "word": "flawed", "pos": "adjective", "ipa": "/flɔːd/", "meaning": "cacat, memiliki kelemahan", "example": "The study's methodology was flawed." },
+          { "word": "overlook", "pos": "verb", "ipa": "/ˌəʊvəˈlʊk/", "meaning": "mengabaikan, tidak memperhatikan", "example": "Critics overlook the benefits for rural students." }
+        ],
+        "grammar": [
+          { "pattern": "It could be argued that + clause. Admittedly, ... Nevertheless, ...", "example": "It could be argued that fees are too high. Admittedly, ... Nevertheless, ...", "note": "Three-step argument." },
+          { "pattern": "While it is true that + clause, + main clause (your view)", "example": "While it is true that cars are convenient, they cause serious pollution.", "note": "Concession in one sentence." },
+          { "pattern": "This argument / view + overlooks / fails to take into account + noun", "example": "This view fails to take into account the cost of maintenance.", "note": "Rebuttal." }
+        ],
+        "mistakes": [
+          { "wrong": "Admittedly, some students feel restricted. Consequently, uniforms reduce bullying.", "right": "Admittedly, some students feel restricted. Nevertheless, uniforms reduce bullying.", "why": "After a concession, the rebuttal needs a contrast marker, not a result marker." },
+          { "wrong": "This argument overlooks to the benefits.", "right": "This argument overlooks the benefits.", "why": "'Overlook' is transitive and takes a direct object without 'to'." },
+          { "wrong": "I refute your opinion because I don't like it.", "right": "I reject your opinion because the evidence does not support it.", "why": "'Refute' means to prove wrong; use 'reject' or 'dispute' and give a reason based on evidence." }
+        ],
+        "summary": "Strong arguments present opposing views (It could be argued that ...), concede reasonable points (Admittedly, While it is true that ...) and then rebut them (Nevertheless, This argument overlooks ...). Use precise debate vocabulary such as concede, refute, premise and flawed.",
+        "reviewCards": [
+          { "front": "Three steps of a counter-argument", "back": "Introduce opposing view → concede → rebut" },
+          { "front": "Memang benar bahwa ..., namun ...", "back": "While it is true that ..., ... / Admittedly, ... Nevertheless, ..." },
+          { "front": "refute vs reject", "back": "refute = prove wrong; reject = refuse to accept" },
+          { "front": "flawed", "back": "cacat, memiliki kelemahan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u08-l5-q1", "type": "dialogue_completion", "category": "speaking", "topic": "concession and rebuttal", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the best response in this debate.",
+          "dialogue": [
+            { "speaker": "Speaker A", "text": "Social media has made young people more isolated than ever." },
+            { "speaker": "Speaker B", "text": null }
+          ],
+          "options": ["Admittedly, some young people spend too much time online. Nevertheless, many use social media to maintain real friendships.", "Admittedly, some young people spend too much time online. Consequently, many use social media to maintain real friendships.", "Consequently, some young people spend too much time online. Therefore, many use social media to maintain real friendships.", "Whereas some young people spend too much time online. Many use social media to maintain real friendships."],
+          "answer": 0,
+          "explanation": "Option 1 concedes part of the point ('Admittedly') and then rebuts it with a contrast marker ('Nevertheless'). The others use result markers illogically or leave a 'whereas' clause on its own."
+        },
+        {
+          "id": "c1-u08-l5-q2", "type": "matching", "category": "vocabulary", "topic": "debate vocabulary", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each word with its meaning.",
+          "pairs": [
+            { "left": "concede", "right": "admit that an opposing point is partly true" },
+            { "left": "refute", "right": "prove that a claim is wrong" },
+            { "left": "rebuttal", "right": "a response that argues against a claim" },
+            { "left": "premise", "right": "an idea on which an argument is based" },
+            { "left": "flawed", "right": "containing a weakness or error" }
+          ],
+          "explanation": "These words are essential for discussing and evaluating arguments in academic contexts."
+        },
+        {
+          "id": "c1-u08-l5-q3", "type": "essay", "category": "writing", "topic": "concession and rebuttal", "difficulty": 4, "stage": "independent",
+          "prompt": "Write one cohesive argumentative paragraph on the topic: 'Universities should replace all lectures with online videos.' State your position in a topic sentence, present an opposing view, concede part of it and rebut it. Use at least four discourse markers or reference devices from this unit.",
+          "minWords": 120,
+          "maxWords": 200,
+          "rubric": "argumentative-paragraph",
+          "explanation": "A strong paragraph has a clear topic sentence, a fairly presented counter-argument ('It could be argued that ...'), a concession ('Admittedly, ...'), a rebuttal ('Nevertheless, this view overlooks ...') and cohesive devices such as summary nouns and result or addition markers."
+        },
+        {
+          "id": "c1-u08-l5-q4", "type": "sentence_transformation", "category": "writing", "topic": "concession and rebuttal", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the idea as one sentence that concedes the first point and emphasises the second.",
+          "sentence": "Tourism can damage local culture. However, it also helps to preserve traditions.",
+          "cue": "Begin with: While it is true that",
+          "answers": ["While it is true that tourism can damage local culture, it also helps to preserve traditions.", "While it is true that tourism can damage local culture, it also helps preserve traditions.", "While it is true that tourism can damage local culture, it can also help to preserve traditions.", "While it is true that tourism can damage local culture, it can also help preserve traditions.", "While it is true that tourism may damage local culture, it also helps to preserve traditions.", "While it is true that tourism damages local culture, it also helps to preserve traditions."],
+          "explanation": "The 'while it is true that' clause makes the concession; the main clause carries the writer's own point."
+        },
+        {
+          "id": "c1-u08-l5-q5", "type": "fill_blank", "category": "writing", "topic": "concession and rebuttal", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the argument with one word in each gap.",
+          "text": "It could be ___ that school uniforms limit self-expression. However, this view ___ the important role uniforms play in reducing bullying.",
+          "answers": [["argued", "claimed", "said", "suggested", "maintained"], ["overlooks", "ignores", "neglects", "disregards", "underestimates"]],
+          "explanation": "'It could be argued that' introduces an opposing view; 'this view overlooks/ignores ...' begins the rebuttal."
+        },
+        {
+          "id": "c1-u08-l5-q6", "type": "single_choice", "category": "writing", "topic": "concession and rebuttal", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which phrase introduces an opposing view in an argumentative essay?",
+          "options": ["Opponents of this view claim that ...", "As a result, ...", "For example, ...", "In addition to this, ..."],
+          "answer": 0,
+          "explanation": "'Opponents of this view claim that ...' presents the other side of the argument. The other phrases signal result, example and addition."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u08-t-q1", "type": "dropdown", "category": "academic", "topic": "contrast markers", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best marker.",
+      "text": "The company's profits rose sharply last year; ___, its share price fell.",
+      "choices": [["nevertheless", "consequently", "furthermore"]],
+      "answers": [0],
+      "explanation": "A falling share price is unexpected after rising profits, so a concession marker is needed."
+    },
+    {
+      "id": "c1-u08-t-q2", "type": "fill_blank", "category": "academic", "topic": "reference", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the sentence with one word in each gap.",
+      "text": "We visited Jakarta and Yogyakarta. ___ ___ is the capital, while the latter is famous for its arts and culture.",
+      "answers": [["The"], ["former"]],
+      "explanation": "'The former' refers to the first of two items (Jakarta), contrasting with 'the latter' (Yogyakarta)."
+    },
+    {
+      "id": "c1-u08-t-q3", "type": "error_identification", "category": "academic", "topic": "discourse markers", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the part of the text that contains a logical error.",
+      "segments": ["Sales fell sharply last year.", "Consequently,", "the company", "still made a record profit."],
+      "errorIndex": 1,
+      "correction": "Nevertheless,",
+      "explanation": "A record profit is not a result of falling sales; it is unexpected. A concession marker such as 'Nevertheless' or 'Even so' is required."
+    },
+    {
+      "id": "c1-u08-t-q4", "type": "sentence_reconstruction", "category": "writing", "topic": "concession and rebuttal", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Put the fragments in the correct order.",
+      "fragments": ["Although the policy reduced emissions,", "it also increased energy costs", "for low-income households,", "and this side effect must be addressed."],
+      "explanation": "The concession clause comes first, followed by the main clause and a summary noun phrase ('this side effect') that refers back to the problem."
+    },
+    {
+      "id": "c1-u08-t-q5", "type": "multiple_select", "category": "academic", "topic": "result markers", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Select ALL the markers that express a result.",
+      "options": ["consequently", "hence", "whereas", "accordingly", "nonetheless"],
+      "answers": [0, 1, 3],
+      "explanation": "'Consequently', 'hence' and 'accordingly' express results. 'Whereas' expresses contrast and 'nonetheless' expresses concession."
+    },
+    {
+      "id": "c1-u08-t-q6", "type": "translation", "category": "academic", "topic": "contrast markers", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Meskipun demikian, rencana itu tetap disetujui.",
+      "direction": "id-en",
+      "answers": ["Nevertheless, the plan was still approved.", "Nevertheless, the plan was approved.", "Nonetheless, the plan was still approved.", "Nonetheless, the plan was approved.", "Even so, the plan was still approved.", "Even so, the plan was approved.", "However, the plan was still approved.", "However, the plan was approved.", "The plan was nevertheless approved.", "The plan was nonetheless approved.", "The plan was still approved nevertheless.", "Nevertheless, the plan was approved anyway."],
+      "explanation": "'Meskipun demikian' = 'Nevertheless / Nonetheless / Even so'; 'tetap disetujui' = 'was (still) approved'."
+    },
+    {
+      "id": "c1-u08-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "debate vocabulary", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the meaning of the word in bold.",
+      "context": "During the debate, the minister **conceded** that her opponent had made a fair point about rural schools.",
+      "options": ["admitted, often reluctantly", "denied angrily", "completely forgot", "proved to be wrong"],
+      "answer": 0,
+      "explanation": "'Concede' means to admit that something is true, often unwillingly."
+    }
+  ]
+}

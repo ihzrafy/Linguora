@@ -1,0 +1,687 @@
+{
+  "slug": "b2-u05-reporting-verbs",
+  "number": 5,
+  "title": "Reporting and Persuading",
+  "description": "Summarise conversations and arguments with reporting verbs followed by an infinitive, an -ing form or a that-clause; report commands and requests; and decide when backshift is unnecessary. Vocabulary: negotiation, persuasion and the media.",
+  "objectives": [
+    "Use reporting verbs with the correct pattern (to-infinitive, -ing, that-clause)",
+    "Report commands, requests and advice accurately",
+    "Report speech without backshift when the information is still true",
+    "Summarise discussions and negotiations using precise reporting verbs"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u05-l1-reporting-verbs-infinitive",
+      "title": "Reporting Verbs + Infinitive",
+      "summary": "Kata kerja pelaporan yang diikuti to-infinitive (agree, offer, refuse) dan objek + to-infinitive (advise, warn, remind).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use verb + to-infinitive: agree, offer, promise, refuse, threaten, claim",
+        "Use verb + object + to-infinitive: advise, warn, remind, persuade, encourage, invite",
+        "Choose a reporting verb that summarises the speaker's intention"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Beyond say and tell\nAt B2 level, instead of repeating every word with *said*, we choose a **reporting verb** that shows the speaker's **intention**: offering, refusing, warning, promising. This makes reports shorter and more precise.\n\n*'I'll carry your bag,' Tom said.* → *Tom **offered to carry** my bag.*\n\n### Pattern A: verb + to-infinitive\n| Verb | Direct speech | Report |\n| --- | --- | --- |\n| agree | \"OK, I'll help.\" | She **agreed to help**. |\n| offer | \"Shall I drive you home?\" | He **offered to drive** me home. |\n| promise | \"I'll be on time.\" | They **promised to be** on time. |\n| refuse | \"I won't sign it!\" | She **refused to sign** it. |\n| threaten | \"Pay, or I'll call the police!\" | He **threatened to call** the police. |\n| claim | \"I'm a qualified pilot.\" | He **claimed to be** a qualified pilot. |\n\n### Pattern B: verb + object + to-infinitive\n| Verb | Direct speech | Report |\n| --- | --- | --- |\n| advise | \"You should rest.\" | The doctor **advised me to rest**. |\n| warn | \"Don't swim here!\" | He **warned us not to swim** there. |\n| remind | \"Don't forget to call Mum.\" | She **reminded me to call** Mum. |\n| persuade | (after a long discussion) | I **persuaded him to stay**. |\n| encourage | \"Go on, apply!\" | She **encouraged me to apply**. |\n| invite | \"Would you like to come?\" | They **invited us to come**. |\n\n### Negatives\nPut **not** before *to*: *He warned us **not to touch** the wires.* / *She promised **not to tell** anyone.*\n\n### Time and place changes still apply\nWhen the report is later, change pronouns and time words as usual: *\"I'll call you tomorrow\"* → *She promised to call me **the next day**.*\n\n### Typical mistakes\n- ✗ *She suggested me to go* — *suggest* does NOT take object + infinitive (see the next lesson).\n- ✗ *He refused helping* — *refuse* takes to-infinitive.\n- ✗ *They advised to me to wait* — no *to* before the object.\n\n> **Catatan:** Banyak kata kerja ini mirip dalam bahasa Indonesia (*menawarkan untuk, menolak untuk, berjanji untuk*), jadi polanya mudah: **verb + to + V1**. Untuk *advise, warn, remind, persuade*, objeknya (orang) langsung setelah kata kerja: *menasihati **saya** untuk...* = *advised **me** to...*",
+        "examples": [
+          { "en": "The landlord agreed to lower the rent.", "id": "Pemilik rumah setuju untuk menurunkan harga sewa.", "note": "agree + to-infinitive" },
+          { "en": "My colleague offered to cover my shift on Saturday.", "id": "Rekan kerja saya menawarkan diri untuk menggantikan giliran kerja saya hari Sabtu.", "note": "offer + to-infinitive" },
+          { "en": "The guide warned us not to leave the path.", "id": "Pemandu memperingatkan kami agar tidak meninggalkan jalan setapak.", "note": "warn + object + not to" },
+          { "en": "My manager encouraged me to apply for the position.", "id": "Manajer saya mendorong saya untuk melamar posisi itu.", "note": "encourage + object + to-infinitive" }
+        ],
+        "vocabulary": [
+          { "word": "threaten", "pos": "verb", "ipa": "/ˈθretn/", "meaning": "mengancam", "example": "The union threatened to go on strike." },
+          { "word": "persuade", "pos": "verb", "ipa": "/pəˈsweɪd/", "meaning": "membujuk", "example": "She persuaded her parents to let her study abroad." },
+          { "word": "claim", "pos": "verb", "ipa": "/kleɪm/", "meaning": "mengklaim, mengaku", "example": "He claimed to know the director personally." },
+          { "word": "remind", "pos": "verb", "ipa": "/rɪˈmaɪnd/", "meaning": "mengingatkan", "example": "Remind me to buy some milk." },
+          { "word": "refuse", "pos": "verb", "ipa": "/rɪˈfjuːz/", "meaning": "menolak", "example": "The bank refused to give us a loan." }
+        ],
+        "grammar": [
+          { "pattern": "subject + agree/offer/promise/refuse/threaten + (not) to + verb", "example": "He promised not to be late again.", "note": "No object." },
+          { "pattern": "subject + advise/warn/remind/persuade/encourage + object + (not) to + verb", "example": "She reminded me to lock the door.", "note": "Object (person) first." },
+          { "pattern": "subject + claim + to + verb / to have + past participle", "example": "He claimed to have met the president.", "note": "Earlier action → to have + V3." }
+        ],
+        "mistakes": [
+          { "wrong": "The landlord refused repairing the heater.", "right": "The landlord refused to repair the heater.", "why": "Refuse is followed by the to-infinitive." },
+          { "wrong": "The doctor advised to me to rest.", "right": "The doctor advised me to rest.", "why": "The object comes directly after advise, without to." },
+          { "wrong": "He warned us to not touching the wires.", "right": "He warned us not to touch the wires.", "why": "Negative: not + to + base verb." }
+        ],
+        "summary": "Choose a reporting verb that shows intention. **Verb + to-infinitive**: *agree, offer, promise, refuse, threaten, claim*. **Verb + object + to-infinitive**: *advise, warn, remind, persuade, encourage, invite*. Put *not* before *to* for negatives. *Ringkasan: pilih kata kerja yang tepat, lalu ikuti polanya.*",
+        "reviewCards": [
+          { "front": "offer / refuse / promise + to + verb", "back": "menawarkan / menolak / berjanji untuk ..." },
+          { "front": "warn + object + not to + verb", "back": "memperingatkan seseorang agar tidak ..." },
+          { "front": "persuade someone to do something", "back": "membujuk seseorang untuk melakukan sesuatu" },
+          { "front": "threaten to + verb", "back": "mengancam akan ..." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u05-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "reporting verbs + infinitive",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the report.",
+          "instructions": "Hint: offer + to + verb.",
+          "context": "\"I'll carry your bag,\" said Tom.",
+          "text": "Tom offered ___ my bag.",
+          "answers": [["to carry"]],
+          "explanation": "*Offer* is followed by the **to-infinitive**: *Tom offered to carry my bag.*"
+        },
+        {
+          "id": "b2-u05-l1-q2", "type": "dropdown", "category": "grammar", "topic": "reporting verbs + object + infinitive",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the verb that fits the pattern.",
+          "text": "My manager ___ me to apply for the position.",
+          "choices": [["encouraged", "suggested", "promised"]],
+          "answers": [0],
+          "explanation": "**Encourage + object + to-infinitive** is correct. *Suggest* cannot take *me to apply*, and *promise* doesn't normally take an object + infinitive in this way."
+        },
+        {
+          "id": "b2-u05-l1-q3", "type": "matching", "category": "grammar", "topic": "reporting verbs",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each direct-speech sentence with the best reporting verb.",
+          "pairs": [
+            { "left": "\"I won't do it!\"", "right": "refuse" },
+            { "left": "\"I'll definitely call you tomorrow.\"", "right": "promise" },
+            { "left": "\"Don't forget to lock the door.\"", "right": "remind" },
+            { "left": "\"If you don't pay, I'll call the police.\"", "right": "threaten" },
+            { "left": "\"Would you like to come to dinner on Friday?\"", "right": "invite" }
+          ],
+          "explanation": "A good reporting verb summarises the speaker's intention: refusing, promising, reminding, threatening or inviting."
+        },
+        {
+          "id": "b2-u05-l1-q4", "type": "sentence_transformation", "category": "grammar", "topic": "reporting verbs + object + infinitive",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Report the sentence using the verb given.",
+          "sentence": "\"You should see a doctor,\" my friend said to me. (advised)",
+          "cue": "Begin with: My friend ...",
+          "answers": ["My friend advised me to see a doctor."],
+          "explanation": "*You should...* = advice → **advise + object + to-infinitive**: *My friend advised me to see a doctor.*"
+        },
+        {
+          "id": "b2-u05-l1-q5", "type": "error_identification", "category": "grammar", "topic": "reporting verbs + infinitive",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The landlord", "refused", "repairing", "the broken heater."],
+          "errorIndex": 2,
+          "correction": "to repair",
+          "explanation": "*Refuse* is followed by the to-infinitive: **refused to repair**."
+        },
+        {
+          "id": "b2-u05-l1-q6", "type": "single_choice", "category": "grammar", "topic": "reporting verbs + object + infinitive",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "\"Don't touch those wires. They're dangerous,\" the electrician said to us. Which report is correct?",
+          "options": [
+            "The electrician warned us not to touch the wires.",
+            "The electrician warned us to not touching the wires.",
+            "The electrician warned us don't touch the wires.",
+            "The electrician warned not us to touch the wires."
+          ],
+          "answer": 0,
+          "explanation": "**warn + object + not to + verb**: *The electrician warned us not to touch the wires.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u05-l2-reporting-verbs-ing",
+      "title": "Reporting Verbs + -ing",
+      "summary": "Kata kerja pelaporan yang diikuti -ing (deny, admit, suggest) dan preposisi + -ing (apologise for, accuse of, insist on).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use verb + -ing: admit, deny, suggest, recommend",
+        "Use verb + preposition + -ing: apologise for, insist on, object to",
+        "Use verb + object + preposition + -ing: accuse of, blame for, congratulate on, thank for"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Pattern C: verb + -ing\n| Verb | Direct speech | Report |\n| --- | --- | --- |\n| admit | \"Yes, I took it.\" | He **admitted taking** it. |\n| deny | \"I didn't send that email!\" | She **denied sending** the email. |\n| suggest | \"Let's take a taxi.\" | He **suggested taking** a taxi. |\n| recommend | \"Try the fish soup.\" | She **recommended trying** the fish soup. |\n\n*Admit* and *deny* can also use **having + past participle** to stress that the action is in the past: *He denied **having seen** her.* Both forms are correct.\n\n### Pattern D: verb + preposition + -ing\n| Verb | Example |\n| --- | --- |\n| apologise **for** | She **apologised for being** late. |\n| insist **on** | He **insisted on paying** for dinner. |\n| object **to** | They **objected to working** on Sundays. |\n| complain **about** | We **complained about waiting** so long. |\n\n⚠️ *Object to* is followed by **-ing**, because *to* is a preposition here.\n\n### Pattern E: verb + object + preposition + -ing\n| Verb | Example |\n| --- | --- |\n| accuse sb **of** | They **accused him of lying**. |\n| blame sb **for** | She **blamed me for losing** the tickets. |\n| congratulate sb **on** | We **congratulated her on winning**. |\n| thank sb **for** | I **thanked them for helping** me. |\n| criticise sb **for** | The report **criticised the council for wasting** money. |\n\n### suggest and recommend: careful!\nThese verbs **cannot** take *object + to-infinitive*:\n- ✗ *She suggested me to take a taxi.*\n- ✓ *She suggested **taking** a taxi.*\n- ✓ *She suggested **(that) I take / I should take** a taxi.* (that-clause — next lesson)\n\n### Negatives\nPut **not** before the -ing form: *He apologised for **not calling**.* / *She admitted **not reading** the contract.*\n\n> **Catatan:** Kesalahan paling umum penutur bahasa Indonesia adalah *suggest someone to do* (karena *menyarankan seseorang untuk*). Dalam bahasa Inggris, **suggest + -ing** atau **suggest that + subjek + verb**. Ingat juga pasangan preposisi: *apologise **for**, insist **on**, accuse **of**, congratulate **on***.",
+        "examples": [
+          { "en": "The minister denied receiving any money from the company.", "id": "Menteri itu membantah menerima uang dari perusahaan tersebut.", "note": "deny + -ing" },
+          { "en": "Our guide suggested visiting the market early in the morning.", "id": "Pemandu kami menyarankan mengunjungi pasar pagi-pagi.", "note": "suggest + -ing" },
+          { "en": "The airline apologised for cancelling the flight.", "id": "Maskapai itu meminta maaf karena membatalkan penerbangan.", "note": "apologise for + -ing" },
+          { "en": "The neighbours accused us of making too much noise.", "id": "Para tetangga menuduh kami membuat terlalu banyak kebisingan.", "note": "accuse + object + of + -ing" }
+        ],
+        "vocabulary": [
+          { "word": "deny", "pos": "verb", "ipa": "/dɪˈnaɪ/", "meaning": "menyangkal, membantah", "example": "He denied breaking the window." },
+          { "word": "admit", "pos": "verb", "ipa": "/ədˈmɪt/", "meaning": "mengakui", "example": "She admitted making a mistake." },
+          { "word": "accuse (of)", "pos": "verb", "ipa": "/əˈkjuːz/", "meaning": "menuduh", "example": "They accused him of cheating." },
+          { "word": "insist (on)", "pos": "verb", "ipa": "/ɪnˈsɪst/", "meaning": "bersikeras", "example": "My grandmother insisted on cooking for everyone." },
+          { "word": "object (to)", "pos": "verb", "ipa": "/əbˈdʒekt/", "meaning": "keberatan", "example": "Residents objected to building a new road." }
+        ],
+        "grammar": [
+          { "pattern": "subject + admit/deny/suggest/recommend + (not) + -ing", "example": "He denied knowing the suspect.", "note": "No object." },
+          { "pattern": "subject + apologise for / insist on / object to + -ing", "example": "She insisted on seeing the manager.", "note": "Preposition + -ing." },
+          { "pattern": "subject + accuse/blame/congratulate/thank + object + preposition + -ing", "example": "They thanked us for coming.", "note": "Object + preposition." }
+        ],
+        "mistakes": [
+          { "wrong": "She suggested me to take a taxi.", "right": "She suggested taking a taxi.", "why": "Suggest cannot take object + to-infinitive." },
+          { "wrong": "The boy denied to break the window.", "right": "The boy denied breaking the window.", "why": "Deny is followed by -ing." },
+          { "wrong": "They accused him for stealing.", "right": "They accused him of stealing.", "why": "The preposition after accuse is of." }
+        ],
+        "summary": "**Verb + -ing**: *admit, deny, suggest, recommend*. **Verb + preposition + -ing**: *apologise for, insist on, object to, complain about*. **Verb + object + preposition + -ing**: *accuse of, blame for, congratulate on, thank for*. Never say *suggest someone to do*. *Ringkasan: hafalkan preposisinya dan gunakan -ing setelah preposisi.*",
+        "reviewCards": [
+          { "front": "deny / admit + -ing", "back": "membantah / mengakui melakukan sesuatu" },
+          { "front": "suggest + -ing (not: suggest me to)", "back": "menyarankan ..." },
+          { "front": "accuse someone of + -ing", "back": "menuduh seseorang melakukan ..." },
+          { "front": "insist on + -ing", "back": "bersikeras untuk ..." },
+          { "front": "object to + -ing", "back": "keberatan (to = preposition here)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u05-l2-q1", "type": "dropdown", "category": "grammar", "topic": "reporting verbs + -ing",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "instructions": "Hint: deny is followed by -ing.",
+          "text": "Lisa denied ___ the email to the whole office.",
+          "choices": [["sending", "to send", "send"]],
+          "answers": [0],
+          "explanation": "**Deny + -ing**: *Lisa denied sending the email.*"
+        },
+        {
+          "id": "b2-u05-l2-q2", "type": "drag_drop", "category": "grammar", "topic": "dependent prepositions",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the story with the correct prepositions.",
+          "text": "The manager apologised ___ the delay, but the customer insisted ___ speaking to the director. Later, she accused the staff ___ lying to her.",
+          "bank": ["for", "on", "of", "with", "to"],
+          "answers": ["for", "on", "of"],
+          "explanation": "**apologise for**, **insist on**, **accuse someone of**. All three are followed by a noun or -ing."
+        },
+        {
+          "id": "b2-u05-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "reporting verbs + -ing",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Report the sentence using admitted.",
+          "sentence": "\"Yes, I took the money,\" said the cashier.",
+          "cue": "Begin with: The cashier admitted ...",
+          "answers": [
+            "The cashier admitted taking the money.",
+            "The cashier admitted having taken the money.",
+            "The cashier admitted to taking the money.",
+            "The cashier admitted that she had taken the money.",
+            "The cashier admitted that he had taken the money.",
+            "The cashier admitted she had taken the money.",
+            "The cashier admitted he had taken the money.",
+            "The cashier admitted that she took the money.",
+            "The cashier admitted that he took the money."
+          ],
+          "explanation": "**admit + -ing** (or *having + past participle*): *The cashier admitted taking the money.* A that-clause is also possible."
+        },
+        {
+          "id": "b2-u05-l2-q4", "type": "sentence_correction", "category": "grammar", "topic": "suggest",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "She suggested me to take a taxi.",
+          "answers": [
+            "She suggested taking a taxi.",
+            "She suggested that I take a taxi.",
+            "She suggested that I should take a taxi.",
+            "She suggested I take a taxi.",
+            "She suggested I should take a taxi.",
+            "She suggested that I took a taxi.",
+            "She suggested I took a taxi."
+          ],
+          "explanation": "*Suggest* cannot take object + to-infinitive. Use **suggest + -ing** or **suggest (that) + subject + (should) + verb**."
+        },
+        {
+          "id": "b2-u05-l2-q5", "type": "multiple_select", "category": "grammar", "topic": "reporting verbs + -ing",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the correct sentences.",
+          "options": [
+            "He congratulated me on passing the exam.",
+            "They blamed me for losing the keys.",
+            "She recommended to visit the old town.",
+            "The boy denied to break the window.",
+            "I thanked her for helping me."
+          ],
+          "answers": [0, 1, 4],
+          "explanation": "Correct: *congratulate on, blame for, thank for* + -ing. Wrong: *recommend* and *deny* are followed by -ing (*recommended visiting, denied breaking*)."
+        },
+        {
+          "id": "b2-u05-l2-q6", "type": "translation", "category": "grammar", "topic": "reporting verbs + -ing",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Bima meminta maaf karena datang terlambat.",
+          "direction": "id-en",
+          "answers": [
+            "Bima apologised for being late.",
+            "Bima apologized for being late.",
+            "Bima apologised for coming late.",
+            "Bima apologized for coming late.",
+            "Bima apologised for arriving late.",
+            "Bima apologized for arriving late."
+          ],
+          "explanation": "*Meminta maaf karena* = **apologise for + -ing**: *Bima apologised for being/coming late.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u05-l3-reporting-verbs-that",
+      "title": "Reporting Verbs + That-Clause",
+      "summary": "Kata kerja pelaporan dengan that-clause dan kata kerja yang memiliki lebih dari satu pola.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use verbs such as explain, complain, point out and insist with that-clauses",
+        "Recognise verbs with more than one pattern (admit, deny, promise, suggest, warn)",
+        "Avoid errors such as explain me and say me"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Pattern F: verb + that-clause\nMany reporting verbs are followed by a **that-clause** (*that* is often omitted in speech):\n- *She **explained that** the train had been cancelled.*\n- *He **complained that** the room was too cold.*\n- *The lawyer **pointed out that** the contract wasn't signed.*\n- *They **announced that** the factory would close.*\n\nUsual backshift rules apply when the reporting verb is in the past (*is → was, will → would*).\n\n### Verb + (to + person) + that\nSome verbs need **to** before the listener:\n| ✓ Correct | ✗ Wrong |\n| --- | --- |\n| She **explained to me** that... | She explained me that... |\n| He **complained to the manager** that... | He complained the manager that... |\n| They **said (to us)** that... | They said us that... |\n\nCompare with verbs that take the listener directly: *tell **me**, inform **me**, remind **me**, warn **me**, assure **me** that...*\n\n### Verbs with more than one pattern\n| Verb | Pattern 1 | Pattern 2 |\n| --- | --- | --- |\n| admit | admitted **taking** it | admitted **that** he had taken it |\n| deny | denied **lying** | denied **that** she had lied |\n| promise | promised **to call** | promised **that** she would call |\n| agree | agreed **to help** | agreed **that** it was a good idea |\n| warn | warned us **not to go** | warned us **that** it was dangerous |\n| insist | insisted **on paying** | insisted **that** she pay / should pay |\n| suggest | suggested **leaving** | suggested **that** we (should) leave |\n\n### suggest / insist / recommend + that\nIn a that-clause after these verbs, use **should + verb** or the base form (more formal): *The doctor recommended **that** he **(should) rest**.* In informal British English, a past form is also heard: *She suggested I took a taxi.*\n\n### Choosing the pattern\nUse a **that-clause** when you report a full idea or fact; use an **infinitive/-ing** when you report an action or intention briefly.\n\n> **Catatan:** Jangan menerjemahkan *menjelaskan kepada saya* menjadi *explain me*; yang benar *explain **to** me*. Begitu pula *say*: *He said to me* atau *He told me*, bukan *He said me*.",
+        "examples": [
+          { "en": "The receptionist explained to us that the pool was closed for repairs.", "id": "Resepsionis menjelaskan kepada kami bahwa kolam renang ditutup untuk perbaikan.", "note": "explain to + person + that" },
+          { "en": "The spokesperson admitted that the company had made mistakes.", "id": "Juru bicara itu mengakui bahwa perusahaan telah membuat kesalahan.", "note": "admit + that" },
+          { "en": "My sister pointed out that we had forgotten the tickets.", "id": "Kakak saya mengingatkan bahwa kami lupa membawa tiket.", "note": "point out + that" },
+          { "en": "The doctor recommended that he should rest for a week.", "id": "Dokter menyarankan agar dia beristirahat selama seminggu.", "note": "recommend + that + should" }
+        ],
+        "vocabulary": [
+          { "word": "point out", "pos": "phrasal verb", "ipa": "/ˌpɔɪnt ˈaʊt/", "meaning": "menunjukkan, mengingatkan (fakta)", "example": "She pointed out that the deadline was tomorrow." },
+          { "word": "complain", "pos": "verb", "ipa": "/kəmˈpleɪn/", "meaning": "mengeluh", "example": "Guests complained that the Wi-Fi was slow." },
+          { "word": "announce", "pos": "verb", "ipa": "/əˈnaʊns/", "meaning": "mengumumkan", "example": "The airline announced that the flight was delayed." },
+          { "word": "assure", "pos": "verb", "ipa": "/əˈʃʊə/", "meaning": "meyakinkan, menjamin", "example": "He assured me that everything was fine." },
+          { "word": "spokesperson", "pos": "noun", "ipa": "/ˈspəʊkspɜːsn/", "meaning": "juru bicara", "example": "A spokesperson denied the reports." }
+        ],
+        "grammar": [
+          { "pattern": "subject + explain/complain/say (+ to + person) + that + clause", "example": "He complained to the waiter that the soup was cold.", "note": "to before the listener." },
+          { "pattern": "subject + tell/inform/assure/remind + person + that + clause", "example": "She assured us that the money was safe.", "note": "No to before the listener." },
+          { "pattern": "subject + suggest/recommend/insist + that + subject + (should) + verb", "example": "They insisted that we stay for dinner.", "note": "Base form or should + verb." }
+        ],
+        "mistakes": [
+          { "wrong": "The teacher explained us that the exam had been moved.", "right": "The teacher explained to us that the exam had been moved.", "why": "Explain needs to before the listener." },
+          { "wrong": "He said me that he was busy.", "right": "He told me that he was busy.", "why": "Say does not take a direct personal object; use tell me or said to me." },
+          { "wrong": "He insisted to pay for the meal.", "right": "He insisted on paying for the meal.", "why": "Insist takes on + -ing or a that-clause, not a to-infinitive." }
+        ],
+        "summary": "Many reporting verbs take **that + clause**: *explain, complain, point out, announce, admit, deny, agree, promise, warn*. Use **to + listener** after *explain, complain, say*, but no *to* after *tell, inform, assure, remind*. After *suggest/recommend/insist that*, use *(should) + base verb*. *Ringkasan: explain TO me, tell me.*",
+        "reviewCards": [
+          { "front": "explain to me that ... (not: explain me)", "back": "menjelaskan kepada saya bahwa ..." },
+          { "front": "point out that ...", "back": "menunjukkan/mengingatkan suatu fakta" },
+          { "front": "recommend that he (should) rest", "back": "menyarankan agar dia beristirahat" },
+          { "front": "admit taking / admit that he had taken", "back": "Two correct patterns for admit" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u05-l3-q1", "type": "fill_blank", "category": "grammar", "topic": "reporting verbs + that",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete with ONE word.",
+          "instructions": "Hint: explain ___ somebody.",
+          "text": "The teacher explained ___ us that the exam had been moved to Thursday.",
+          "answers": [["to"]],
+          "explanation": "*Explain* needs **to** before the listener: *explained to us that...*"
+        },
+        {
+          "id": "b2-u05-l3-q2", "type": "single_choice", "category": "grammar", "topic": "reporting verbs + that",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "She explained me the problem.",
+            "She explained the problem to me.",
+            "She said me the problem.",
+            "She explained to me the problem that."
+          ],
+          "answer": 1,
+          "explanation": "**Explain something to somebody**: *She explained the problem to me.* We never say *explain me* or *say me*."
+        },
+        {
+          "id": "b2-u05-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "suggest that",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Report the sentence using suggested + that.",
+          "sentence": "\"We should leave before the traffic gets bad,\" said Dani.",
+          "cue": "Begin with: Dani suggested that ...",
+          "answers": [
+            "Dani suggested that we should leave before the traffic got bad.",
+            "Dani suggested that we leave before the traffic got bad.",
+            "Dani suggested that we should leave before the traffic gets bad.",
+            "Dani suggested that we leave before the traffic gets bad.",
+            "Dani suggested that we left before the traffic got bad.",
+            "Dani suggested that they should leave before the traffic got bad.",
+            "Dani suggested that they leave before the traffic got bad."
+          ],
+          "explanation": "**suggest that + subject + (should) + verb**: *Dani suggested that we (should) leave before the traffic got bad.*"
+        },
+        {
+          "id": "b2-u05-l3-q4", "type": "dropdown", "category": "grammar", "topic": "reporting verbs + that",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the verbs that can be followed by a that-clause and make sense.",
+          "text": "At the press conference, the spokesperson ___ that the company had made mistakes, but she ___ that any laws had been broken.",
+          "choices": [["admitted", "refused", "offered"], ["denied", "apologised", "threatened"]],
+          "answers": [0, 0],
+          "explanation": "**Admit that** and **deny that** take that-clauses and fit the meaning (accepting mistakes but rejecting law-breaking). *Refuse, offer* and *threaten* take a to-infinitive; *apologise* takes *for*."
+        },
+        {
+          "id": "b2-u05-l3-q5", "type": "sentence_correction", "category": "grammar", "topic": "insist",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "He insisted to pay for the meal.",
+          "answers": [
+            "He insisted on paying for the meal.",
+            "He insisted that he pay for the meal.",
+            "He insisted that he should pay for the meal.",
+            "He insisted that he would pay for the meal."
+          ],
+          "explanation": "*Insist* takes **on + -ing** or a that-clause: *He insisted on paying for the meal.*"
+        },
+        {
+          "id": "b2-u05-l3-q6", "type": "word_order", "category": "grammar", "topic": "reporting verbs + that",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "guide", "warned", "us", "that", "the", "path", "was", "slippery"],
+          "explanation": "**warn + person + that + clause**: *The guide warned us that the path was slippery.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u05-l4-reported-commands-requests",
+      "title": "Reported Commands and Requests",
+      "summary": "Melaporkan perintah dan permintaan dengan tell/ask/order + objek + (not) to.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Report commands with tell/order/instruct + object + (not) to",
+        "Report requests with ask + object + (not) to and ask if/whether...could",
+        "Report polite requests such as Would you mind...? and Could you...?"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Commands\nImperatives (*Sit down! Don't move!*) are reported with **verb + object + (not) to + infinitive**.\n\n| Direct speech | Reported |\n| --- | --- |\n| \"Close the door.\" | He **told me to close** the door. |\n| \"Don't park here!\" | The guard **told us not to park** there. |\n| \"Stop the car!\" (police) | The officer **ordered the driver to stop** the car. |\n| \"Fill in both pages.\" | The clerk **instructed us to fill in** both pages. |\n\nChoose the verb according to the situation: *tell* (neutral), *order* (authority), *instruct* (formal procedures), *urge* (strong encouragement), *beg* (emotional request).\n\n### Requests\nRequests are reported with **ask + object + (not) to + infinitive**:\n| Direct speech | Reported |\n| --- | --- |\n| \"Please sit down.\" | The nurse **asked me to sit** down. |\n| \"Could you send me the file?\" | She **asked me to send** her the file. |\n| \"Would you mind turning the music down?\" | My neighbour **asked me to turn** the music down. |\n| \"Please don't tell anyone.\" | He **asked me not to tell** anyone. |\n\nA request can also be reported as a reported question: *She **asked (me) if I could send** her the file.* (statement word order!)\n\n### Asking for something (noun)\n*\"Can I have a glass of water?\"* → *She **asked for** a glass of water.*\n\n### Common errors\n| ✗ Wrong | ✓ Right |\n| --- | --- |\n| He said me to wait. | He **told** me to wait. / He **asked** me to wait. |\n| She told me don't worry. | She told me **not to** worry. |\n| They asked to us to leave. | They asked **us** to leave. |\n| He told to me to sit. | He told **me** to sit. |\n\n### Pronouns and place words\nRemember to change them: *\"Leave your bags **here**\"* → *He told us to leave our bags **there**.*\n\n> **Catatan:** Untuk melaporkan perintah dan permintaan, bahasa Inggris tidak memakai *that* tetapi **objek + to + V1**: *Dia menyuruh saya menunggu* = *She told me to wait.* Bentuk negatifnya **not to**, bukan *don't*. *Say* tidak bisa langsung diikuti orang + to-infinitive.",
+        "examples": [
+          { "en": "The nurse asked me to sit down and wait.", "id": "Perawat itu meminta saya duduk dan menunggu.", "note": "Request." },
+          { "en": "The security guard told us not to park in front of the gate.", "id": "Satpam menyuruh kami untuk tidak parkir di depan gerbang.", "note": "Negative command." },
+          { "en": "The officer ordered the driver to get out of the car.", "id": "Petugas memerintahkan pengemudi itu untuk keluar dari mobil.", "note": "order = authority" },
+          { "en": "She asked me if I could lend her my notes.", "id": "Dia bertanya apakah saya bisa meminjamkan catatan saya.", "note": "Request as a reported question." }
+        ],
+        "vocabulary": [
+          { "word": "order", "pos": "verb", "ipa": "/ˈɔːdə/", "meaning": "memerintahkan", "example": "The judge ordered him to pay a fine." },
+          { "word": "instruct", "pos": "verb", "ipa": "/ɪnˈstrʌkt/", "meaning": "menginstruksikan", "example": "Passengers were instructed to remain seated." },
+          { "word": "urge", "pos": "verb", "ipa": "/ɜːdʒ/", "meaning": "mendesak", "example": "Doctors urged people to stay indoors." },
+          { "word": "beg", "pos": "verb", "ipa": "/beɡ/", "meaning": "memohon", "example": "He begged her not to leave." },
+          { "word": "request", "pos": "noun / verb", "ipa": "/rɪˈkwest/", "meaning": "permintaan; meminta (formal)", "example": "Guests are requested to leave their keys at reception." }
+        ],
+        "grammar": [
+          { "pattern": "tell/order/instruct/urge + object + (not) to + verb", "example": "She told us not to worry.", "note": "Commands." },
+          { "pattern": "ask/beg + object + (not) to + verb", "example": "He asked me to help him.", "note": "Requests." },
+          { "pattern": "ask + (object) + if/whether + subject + could + verb", "example": "She asked if I could call back later.", "note": "Request as a question." }
+        ],
+        "mistakes": [
+          { "wrong": "She told me don't worry.", "right": "She told me not to worry.", "why": "Reported negative commands use not to + verb." },
+          { "wrong": "He said me to wait outside.", "right": "He told me to wait outside.", "why": "Say cannot be followed by object + to-infinitive; use tell or ask." },
+          { "wrong": "They asked to us to leave.", "right": "They asked us to leave.", "why": "The object follows ask directly, without to." }
+        ],
+        "summary": "Report commands with **tell/order/instruct + object + (not) to + verb** and requests with **ask + object + (not) to + verb** or **ask if/whether + could**. Never use *say + object + to* or *don't* in reported commands. *Ringkasan: She told me (not) to ... / She asked me (not) to ...*",
+        "reviewCards": [
+          { "front": "He told me not to worry.", "back": "Reported negative command (not to, bukan don't)" },
+          { "front": "Could you help me? → She asked me to help her.", "back": "Reported request: ask + object + to" },
+          { "front": "order vs urge vs beg", "back": "memerintahkan (otoritas) / mendesak / memohon" },
+          { "front": "ask for + noun", "back": "meminta sesuatu: She asked for a glass of water." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u05-l4-q1", "type": "fill_blank", "category": "grammar", "topic": "reported requests",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the report.",
+          "instructions": "Hint: ask + object + to + verb.",
+          "context": "\"Please sit down,\" the nurse said to me.",
+          "text": "The nurse asked me ___ down.",
+          "answers": [["to sit"]],
+          "explanation": "Reported request: **ask + object + to + verb** → *The nurse asked me to sit down.*"
+        },
+        {
+          "id": "b2-u05-l4-q2", "type": "sentence_transformation", "category": "grammar", "topic": "reported commands",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Report the command.",
+          "sentence": "\"Don't park in front of the gate,\" the security guard told us.",
+          "cue": "Begin with: The security guard told us ...",
+          "answers": ["The security guard told us not to park in front of the gate."],
+          "explanation": "Negative command → **told + object + not to + verb**."
+        },
+        {
+          "id": "b2-u05-l4-q3", "type": "word_order", "category": "grammar", "topic": "reported requests",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Report the request \"Could you send me the file?\" by putting the words in order.",
+          "words": ["She", "asked", "me", "if", "I", "could", "send", "her", "the", "file"],
+          "explanation": "A request reported as a question: **ask + object + if + subject + could + verb** (statement word order)."
+        },
+        {
+          "id": "b2-u05-l4-q4", "type": "error_identification", "category": "grammar", "topic": "reported commands",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The officer", "ordered", "the crowd", "to not moving."],
+          "errorIndex": 3,
+          "correction": "not to move.",
+          "explanation": "Reported negative command: **not to + base verb** → *ordered the crowd not to move*."
+        },
+        {
+          "id": "b2-u05-l4-q5", "type": "single_choice", "category": "grammar", "topic": "reported requests",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "\"Would you mind turning the music down?\" my neighbour said to me. Which report is correct?",
+          "options": [
+            "My neighbour asked me to turn the music down.",
+            "My neighbour asked me turning the music down.",
+            "My neighbour told me if I turn the music down.",
+            "My neighbour asked to me turn the music down."
+          ],
+          "answer": 0,
+          "explanation": "*Would you mind...?* is a polite request → **asked me to turn the music down**."
+        },
+        {
+          "id": "b2-u05-l4-q6", "type": "translation", "category": "grammar", "topic": "reported commands",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Dokter menyuruh saya untuk tidak makan makanan pedas.",
+          "direction": "id-en",
+          "answers": [
+            "The doctor told me not to eat spicy food.",
+            "The doctor told me not to eat spicy foods.",
+            "The doctor advised me not to eat spicy food.",
+            "The doctor instructed me not to eat spicy food.",
+            "The doctor asked me not to eat spicy food.",
+            "My doctor told me not to eat spicy food.",
+            "My doctor advised me not to eat spicy food."
+          ],
+          "explanation": "*Menyuruh ... untuk tidak* = **told me not to + verb**: *The doctor told me not to eat spicy food.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u05-l5-summarising-negotiations",
+      "title": "Summarising Discussions and Negotiations",
+      "summary": "Melaporkan tanpa backshift dan merangkum diskusi atau negosiasi dengan kosakata persuasi.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Decide when backshift is unnecessary (present reporting verbs, facts still true)",
+        "Use vocabulary for negotiation and persuasion (compromise, concession, deadlock)",
+        "Summarise a discussion with a range of reporting verbs"
+      ],
+      "completionCriteria": "Complete the speaking task and score at least 70% on the mini quiz. (Selesaikan tugas berbicara dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Reported speech without backshift\nAt lower levels you learned to move tenses back (*am → was*). At B2, you should know when this is **not necessary**:\n\n| Situation | Example |\n| --- | --- |\n| The reporting verb is in the **present** | *Ken **says** he**'s** stuck in traffic.* |\n| The information is **still true** | *Maya said she**'s moving** to Medan next year.* (She still plans to.) |\n| **General truths / facts** | *Our teacher said that water **boils** at 100°C.* |\n| Reporting something said **a moment ago** | *What did he say? — He said he**'s** hungry.* |\n| Modals *would, could, should, might, ought to* | They don't change. *\"You should rest\"* → *She said I **should** rest.* |\n\nBackshift is still correct in these cases (*Maya said she was moving...*), but **not** backshifting shows that the information is still valid. If the situation has **changed or finished**, you must backshift: *He said he **was** single, but now he's married.*\n\n### Summarising a discussion\nIn meetings and negotiations, we rarely report every word. We **summarise** with precise reporting verbs:\n\n| Function | Reporting verbs |\n| --- | --- |\n| giving opinions | argue that, claim that, point out that, stress that |\n| proposals | propose -ing / that, suggest -ing / that |\n| agreement | agree to / that, accept, approve |\n| disagreement | reject, refuse to, object to, dispute |\n| pressure | urge sb to, insist on / that, warn sb that |\n\n*Ms. Lim **argued that** the budget was too small and **urged** the board **to reconsider**, but the director **refused to change** it.*\n\n### Negotiation and persuasion vocabulary\n| Word | Meaning |\n| --- | --- |\n| reach an agreement / a deal | finally agree |\n| make a concession | give up something to help agreement |\n| (reach a) compromise | a solution where both sides give something |\n| deadlock | a situation where no progress is possible |\n| counter-offer | an offer made in reply to another offer |\n| win sb over | persuade sb to support you |\n| convince sb (that) | make sb believe something |\n\n> **Catatan:** Tidak semua kalimat tidak langsung harus 'mundur' tense-nya. Jika informasinya **masih benar** atau kata kerja pelapornya **present** (*says, has said*), tense boleh tetap. Untuk merangkum rapat, pilih kata kerja yang tepat (*argued, proposed, rejected*) daripada mengulang *said* terus-menerus.",
+        "examples": [
+          { "en": "The manager says the new schedule starts next week.", "id": "Manajer bilang jadwal baru mulai minggu depan.", "note": "Present reporting verb: no backshift." },
+          { "en": "Our tour guide told us that the temple is over a thousand years old.", "id": "Pemandu wisata kami mengatakan bahwa candi itu berusia lebih dari seribu tahun.", "note": "Fact still true." },
+          { "en": "After a week of talks, the union reached a compromise with the company.", "id": "Setelah seminggu perundingan, serikat pekerja mencapai kompromi dengan perusahaan.", "note": "reach a compromise" },
+          { "en": "The supplier rejected our first offer, so we made a counter-offer.", "id": "Pemasok menolak tawaran pertama kami, jadi kami mengajukan tawaran balik.", "note": "Negotiation vocabulary." }
+        ],
+        "vocabulary": [
+          { "word": "compromise", "pos": "noun / verb", "ipa": "/ˈkɒmprəmaɪz/", "meaning": "kompromi; berkompromi", "example": "Both sides had to compromise." },
+          { "word": "concession", "pos": "noun", "ipa": "/kənˈseʃn/", "meaning": "konsesi, kelonggaran", "example": "The company made several concessions." },
+          { "word": "deadlock", "pos": "noun", "ipa": "/ˈdedlɒk/", "meaning": "kebuntuan", "example": "The talks ended in deadlock." },
+          { "word": "convince", "pos": "verb", "ipa": "/kənˈvɪns/", "meaning": "meyakinkan", "example": "She convinced me that the plan would work." },
+          { "word": "win over", "pos": "phrasal verb", "ipa": "/ˌwɪn ˈəʊvə/", "meaning": "berhasil mengambil hati/dukungan", "example": "His honesty won the audience over." },
+          { "word": "argue", "pos": "verb", "ipa": "/ˈɑːɡjuː/", "meaning": "berpendapat (dengan alasan); berdebat", "example": "He argued that the tax was unfair." }
+        ],
+        "grammar": [
+          { "pattern": "subject + says/has said + (that) + present tense", "example": "She says she needs more time.", "note": "No backshift with present reporting verbs." },
+          { "pattern": "subject + said + (that) + present tense (still true)", "example": "He said the shop opens at nine.", "note": "Optional backshift for facts that are still true." },
+          { "pattern": "subject + argued/pointed out/stressed + that + clause", "example": "She stressed that safety came first.", "note": "Summarising opinions." }
+        ],
+        "mistakes": [
+          { "wrong": "He said me that the talks were in deadlock.", "right": "He told me that the talks were in deadlock.", "why": "Use tell + person, or say (to + person)." },
+          { "wrong": "Both sides did a compromise.", "right": "Both sides reached a compromise.", "why": "The collocation is reach (or come to) a compromise." },
+          { "wrong": "Last year he said he is single, but now he's married.", "right": "Last year he said he was single, but now he's married.", "why": "If the situation has changed and is no longer true, you must backshift." }
+        ],
+        "summary": "Backshift is **optional** when the reporting verb is present, when the information is still true, or for general facts; modals like *would/could/should/might* never change. Summarise discussions with precise verbs (*argue, propose, reject, urge, insist*) and negotiation vocabulary (*reach a compromise, make a concession, deadlock, counter-offer*). *Ringkasan: masih benar? Tense boleh tetap.*",
+        "reviewCards": [
+          { "front": "He says he's busy. (no backshift)", "back": "Present reporting verb → keep the tense" },
+          { "front": "reach a compromise", "back": "mencapai kompromi" },
+          { "front": "deadlock", "back": "kebuntuan dalam perundingan" },
+          { "front": "make a concession", "back": "memberi kelonggaran / konsesi" },
+          { "front": "argue that ...", "back": "berpendapat bahwa ... (dengan alasan)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u05-l5-q1", "type": "dropdown", "category": "grammar", "topic": "reported speech without backshift",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Ken is on the phone right now. He says, \"I'm stuck in traffic.\" Report what he says.",
+          "instructions": "Hint: the reporting verb is in the present tense.",
+          "text": "Ken says he ___ stuck in traffic.",
+          "choices": [["is", "was", "had been"]],
+          "answers": [0],
+          "explanation": "With a present reporting verb (*says*), we don't backshift: **Ken says he is stuck in traffic.**"
+        },
+        {
+          "id": "b2-u05-l5-q2", "type": "single_choice", "category": "grammar", "topic": "reported speech without backshift",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Yesterday a scientist said, \"Water boils at 100°C at sea level.\" Which report is correct?",
+          "options": [
+            "She said that water boils at 100°C at sea level.",
+            "She said that water had boiled at 100°C at sea level.",
+            "She says that water boiled at 100°C at sea level yesterday.",
+            "She said that water will have boiled at 100°C at sea level."
+          ],
+          "answer": 0,
+          "explanation": "A general scientific fact is still true, so the present simple is natural: **She said that water boils at 100°C.** The past perfect would wrongly suggest a single past event."
+        },
+        {
+          "id": "b2-u05-l5-q3", "type": "matching", "category": "vocabulary", "topic": "negotiation",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Match each negotiation term with its meaning.",
+          "pairs": [
+            { "left": "compromise", "right": "a solution in which both sides give up something" },
+            { "left": "concession", "right": "something you give up to help reach an agreement" },
+            { "left": "deadlock", "right": "a situation in which no progress is possible" },
+            { "left": "counter-offer", "right": "an offer made in reply to another offer" },
+            { "left": "win someone over", "right": "persuade someone to support you" }
+          ],
+          "explanation": "These words are typical of business meetings and news reports about negotiations."
+        },
+        {
+          "id": "b2-u05-l5-q4", "type": "speaking_response", "category": "speaking", "topic": "summarising discussions",
+          "difficulty": 4, "stage": "independent",
+          "prompt": "Think of a recent discussion (a family decision, a meeting or a debate in class). Summarise it in about one minute using at least four different reporting verbs and one negotiation term.",
+          "targetPhrases": ["argued that", "suggested", "refused to", "pointed out that", "reached a compromise"],
+          "sampleAnswer": "Last weekend my family discussed where to go on holiday. My brother argued that the beach was the best option because it's cheap. My mother pointed out that it is very hot in July and suggested going to the mountains instead. My father refused to drive more than five hours, and my sister insisted on staying somewhere with Wi-Fi. In the end, we reached a compromise: we're going to a lake that's only three hours away.",
+          "explanation": "A strong summary uses varied reporting verbs with the correct patterns and avoids repeating *said*."
+        },
+        {
+          "id": "b2-u05-l5-q5", "type": "multiple_select", "category": "grammar", "topic": "reported speech without backshift",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "An hour ago, Maya told you: \"I'm moving to Medan next year.\" Her plan hasn't changed. Select the TWO correct reports.",
+          "options": [
+            "Maya said she's moving to Medan next year.",
+            "Maya said she was moving to Medan next year.",
+            "Maya said she is moving to Medan last year.",
+            "Maya told she was moving to Medan next year.",
+            "Maya said me she was moving to Medan next year."
+          ],
+          "answers": [0, 1],
+          "explanation": "Because the plan is still true, both the present (**she's moving**) and the backshifted form (**she was moving**) are correct. *Last year* is illogical; *told* needs an object; *said me* is wrong."
+        },
+        {
+          "id": "b2-u05-l5-q6", "type": "fill_blank", "category": "vocabulary", "topic": "negotiation",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete with ONE word.",
+          "text": "After hours of discussion, the two sides reached a ___: the union accepted a smaller pay rise, and the company agreed to shorter working hours.",
+          "answers": [["compromise", "deal"]],
+          "explanation": "Both sides gave up something → **a compromise** (kompromi). *Reach a compromise* is a strong collocation."
+        },
+        {
+          "id": "b2-u05-l5-q7", "type": "sentence_reconstruction", "category": "writing", "topic": "summarising discussions",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the fragments in order to make a summary of a meeting.",
+          "fragments": ["During the meeting, Ms. Lim argued", "that the budget was too small", "and urged the board", "to reconsider its decision,", "but the director refused to change it."],
+          "explanation": "**argue that** + clause, **urge + object + to-infinitive**, **refuse + to-infinitive**: three patterns in one summary."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u05-t-q1", "type": "single_choice", "category": "grammar", "topic": "reporting verbs + -ing",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "\"I didn't break the vase!\" said Leo. Which report is correct?",
+      "options": ["Leo denied breaking the vase.", "Leo refused breaking the vase.", "Leo denied to break the vase.", "Leo admitted breaking the vase."],
+      "answer": 0,
+      "explanation": "Saying you didn't do something = **deny + -ing**. *Admit* has the opposite meaning, and *refuse* means 'say you won't do something'."
+    },
+    {
+      "id": "b2-u05-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "reporting verbs + infinitive",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Report the sentence using promised.",
+      "sentence": "\"I'll call you as soon as I land,\" Mum said to me.",
+      "cue": "Begin with: Mum promised ...",
+      "answers": [
+        "Mum promised to call me as soon as she landed.",
+        "Mum promised to call me as soon as she lands.",
+        "Mum promised that she would call me as soon as she landed.",
+        "Mum promised me that she would call me as soon as she landed.",
+        "Mum promised she would call me as soon as she landed.",
+        "Mum promised me she would call me as soon as she landed."
+      ],
+      "explanation": "**promise + to-infinitive** (or *promise that + would*): *Mum promised to call me as soon as she landed.*"
+    },
+    {
+      "id": "b2-u05-t-q3", "type": "drag_drop", "category": "grammar", "topic": "reporting verb patterns",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the text with forms from the bank.",
+      "text": "The salesman persuaded me ___ the extended warranty, but later I regretted ___ it, so I asked the shop ___ me a refund.",
+      "bank": ["to buy", "buying", "to give", "give", "bought"],
+      "answers": ["to buy", "buying", "to give"],
+      "explanation": "**persuade + object + to-infinitive**; **regret + -ing** (for a past action you are sorry about); **ask + object + to-infinitive**."
+    },
+    {
+      "id": "b2-u05-t-q4", "type": "error_identification", "category": "grammar", "topic": "say and tell",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["She told", "that", "the meeting", "had been cancelled."],
+      "errorIndex": 0,
+      "correction": "She told us",
+      "explanation": "*Tell* needs a person as object: **She told us that...** (or *She said that...*)."
+    },
+    {
+      "id": "b2-u05-t-q5", "type": "dropdown", "category": "grammar", "topic": "reporting verbs + object + infinitive",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct verb.",
+      "text": "At half-time, the coach ___ us not to give up.",
+      "choices": [["urged", "suggested", "said"]],
+      "answers": [0],
+      "explanation": "**urge + object + (not) to-infinitive**. *Suggest* and *say* cannot be followed by *us not to...*"
+    },
+    {
+      "id": "b2-u05-t-q6", "type": "translation", "category": "grammar", "topic": "reporting verbs + object + infinitive",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Ibu mengingatkan saya untuk membawa payung.",
+      "direction": "id-en",
+      "answers": [
+        "My mother reminded me to bring an umbrella.",
+        "My mother reminded me to take an umbrella.",
+        "Mum reminded me to bring an umbrella.",
+        "Mum reminded me to take an umbrella.",
+        "Mom reminded me to bring an umbrella.",
+        "Mom reminded me to take an umbrella.",
+        "My mum reminded me to bring an umbrella.",
+        "My mum reminded me to take an umbrella.",
+        "My mom reminded me to bring an umbrella.",
+        "My mom reminded me to take an umbrella."
+      ],
+      "explanation": "*Mengingatkan ... untuk* = **remind + object + to-infinitive**."
+    },
+    {
+      "id": "b2-u05-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "negotiation",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "What does the word in bold mean?",
+      "context": "After three weeks of negotiation, the talks between the airline and the pilots ended in **deadlock**.",
+      "options": ["a situation where no progress is possible", "a successful agreement", "a secret deal", "a written contract"],
+      "answer": 0,
+      "explanation": "**Deadlock** = a situation in which neither side will change its position, so no progress is possible (kebuntuan)."
+    }
+  ]
+}

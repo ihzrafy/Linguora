@@ -1,0 +1,1322 @@
+{
+  "slug": "b1-u07-passive",
+  "number": 7,
+  "title": "How Things Are Made",
+  "description": "Mendeskripsikan proses pembuatan produk, penemuan, dan fakta sejarah dengan passive voice. Kamu akan belajar present simple passive, past simple passive, kapan memakai by + agent, serta bentuk negatif dan pertanyaan passive.",
+  "objectives": [
+    "Membentuk present simple passive (am/is/are + V3) untuk fakta dan proses",
+    "Membentuk past simple passive (was/were + V3) untuk sejarah dan kejadian lampau",
+    "Memutuskan kapan pelaku (by + agent) perlu disebut atau dihilangkan",
+    "Mendeskripsikan proses produksi dan penemuan dengan kosakata yang tepat"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u07-l1-present-passive",
+      "title": "The Present Simple Passive",
+      "summary": "Memakai am/is/are + V3 untuk menjelaskan fakta, rutinitas, dan proses ketika pelaku tidak penting.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan kalimat active dan passive",
+        "Membentuk present simple passive dengan am/is/are + V3",
+        "Mengubah kalimat active sederhana menjadi passive"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Active vs passive\nDalam kalimat **active**, subjek *melakukan* aksi: *Farmers grow rice in this valley.* Dalam kalimat **passive**, subjek *menerima* aksi: *Rice is grown in this valley.* We use the passive when the action, or the thing affected by it, is more important than the person who does it. Bentuk ini mirip dengan kata kerja **di-** dalam bahasa Indonesia: *Nasi dimasak. Surat dikirim. Kopi ditanam.*\n\n### Bentuk present simple passive\n| Subject | be | Past participle (V3) | Example |\n|---|---|---|---|\n| I | am | paid, invited... | I am paid every Friday. |\n| He / She / It | is | baked, cleaned... | The bread is baked every morning. |\n| You / We / They | are | made, checked... | These bags are made by hand. |\n\nRumusnya: **am/is/are + V3**. The form of *be* agrees with the NEW subject (singular → *is*, plural → *are*). The main verb is always the past participle — never V1 and never V-ing.\n\n### Kapan dipakai?\n- **Facts and general truths:** *Coffee is grown in the hills of Mount Ardan.*\n- **Processes (proses pembuatan):** *The leaves are picked, dried and packed.*\n- **Routines and rules:** *The office is cleaned every evening. Visitors are asked to sign in.*\n- When the doer is unknown, obvious, or not interesting: siapa yang membersihkan kantor? Tidak penting — yang penting kantornya bersih.\n\n### Active → passive, langkah demi langkah\n1. The **object** of the active sentence becomes the new subject: *They clean the rooms* → *The rooms...*\n2. Tambahkan *am/is/are* sesuai subject baru: *The rooms are...*\n3. Ubah kata kerja menjadi V3: *The rooms are cleaned.*\n4. Pelaku umum seperti *they, people, someone* biasanya dihilangkan: *The rooms are cleaned every day.*\n\n### Hati-hati\n- Uncountable nouns (*rice, paper, coffee, water*) memakai **is**: *Paper is made from wood.*\n- Jangan lupa *be*: ~~Rice grown here.~~ → *Rice is grown here.*\n- Only verbs that take an object can be passive. Kata kerja seperti *happen, arrive, sleep* tidak bisa dijadikan passive: ~~The festival is happened every year~~ → *The festival happens every year.*",
+        "examples": [
+          {
+            "en": "Rice is grown in this valley.",
+            "id": "Padi ditanam di lembah ini.",
+            "note": "Uncountable noun → is + V3."
+          },
+          {
+            "en": "These baskets are made by hand.",
+            "id": "Keranjang-keranjang ini dibuat dengan tangan.",
+            "note": "Plural subject → are + V3. By hand = secara manual, bukan agent."
+          },
+          {
+            "en": "The museum is closed on Mondays.",
+            "id": "Museum ditutup setiap hari Senin.",
+            "note": "Routine / rule."
+          },
+          {
+            "en": "I am paid at the end of every month.",
+            "id": "Saya dibayar setiap akhir bulan.",
+            "note": "I → am + V3."
+          },
+          {
+            "en": "English is spoken in many countries.",
+            "id": "Bahasa Inggris digunakan di banyak negara.",
+            "note": "Speak → spoken (irregular V3)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "produce",
+            "pos": "verb",
+            "ipa": "/prəˈdjuːs/",
+            "meaning": "menghasilkan; memproduksi",
+            "example": "Thousands of shoes are produced here every week."
+          },
+          {
+            "word": "grow",
+            "pos": "verb",
+            "ipa": "/ɡrəʊ/",
+            "meaning": "menanam; tumbuh",
+            "example": "Tea is grown on the hills near Lakemoor."
+          },
+          {
+            "word": "factory",
+            "pos": "noun",
+            "ipa": "/ˈfæktri/",
+            "meaning": "pabrik",
+            "example": "The bottles are washed in the factory."
+          },
+          {
+            "word": "by hand",
+            "pos": "phrase",
+            "ipa": "/baɪ ˈhænd/",
+            "meaning": "dengan tangan; secara manual",
+            "example": "The cloth is painted by hand."
+          },
+          {
+            "word": "material",
+            "pos": "noun",
+            "ipa": "/məˈtɪəriəl/",
+            "meaning": "bahan",
+            "example": "Bamboo is a strong and cheap material."
+          },
+          {
+            "word": "check",
+            "pos": "verb",
+            "ipa": "/tʃek/",
+            "meaning": "memeriksa",
+            "example": "Every bag is checked before it leaves the factory."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + am/is/are + past participle (V3)",
+            "example": "The tables are cleaned every night.",
+            "note": "be mengikuti subject baru: singular → is, plural → are."
+          },
+          {
+            "pattern": "Active: Subject + V1 + Object → Passive: Object + am/is/are + V3",
+            "example": "They export coffee. → Coffee is exported.",
+            "note": "Object active menjadi subject passive."
+          },
+          {
+            "pattern": "Subject + am/is/are + V3 + place/time",
+            "example": "Batik is produced in many towns.",
+            "note": "Keterangan tempat/waktu diletakkan setelah V3."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Rice grown in this valley.",
+            "right": "Rice is grown in this valley.",
+            "why": "Passive membutuhkan be (am/is/are) sebelum V3."
+          },
+          {
+            "wrong": "These bags is made by hand.",
+            "right": "These bags are made by hand.",
+            "why": "Subject plural (these bags) memakai are."
+          },
+          {
+            "wrong": "Coffee is grow in the hills.",
+            "right": "Coffee is grown in the hills.",
+            "why": "Setelah is/are pakai V3 (grown), bukan V1."
+          },
+          {
+            "wrong": "The festival is happened every year.",
+            "right": "The festival happens every year.",
+            "why": "Happen tidak punya object, jadi tidak bisa dijadikan passive."
+          }
+        ],
+        "summary": "The present simple passive is **am/is/are + V3**. Gunakan untuk fakta, proses, dan rutinitas ketika **aksinya lebih penting daripada pelakunya**. Pastikan *be* sesuai dengan subject baru dan kata kerja utama selalu dalam bentuk V3.",
+        "reviewCards": [
+          {
+            "front": "Present simple passive form",
+            "back": "am/is/are + V3: The bread is baked. The bags are made."
+          },
+          {
+            "front": "They clean the rooms every day. → Passive?",
+            "back": "The rooms are cleaned every day."
+          },
+          {
+            "front": "Rice / paper / coffee + is atau are?",
+            "back": "is — uncountable nouns memakai is."
+          },
+          {
+            "front": "Bisakah 'happen' dijadikan passive?",
+            "back": "Tidak. Happen tidak punya object: The festival happens every year."
+          },
+          {
+            "front": "Passive mirip bentuk apa dalam bahasa Indonesia?",
+            "back": "Kata kerja di-: dimasak, ditanam, dikirim."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u07-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "present simple passive",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "On Mr. Wiryo's farm, the coffee beans ___ by hand.",
+          "options": ["are picked", "pick", "are picking", "is picked"],
+          "answer": 0,
+          "explanation": "Biji kopi tidak memetik — mereka **dipetik**, jadi kita butuh passive. *The coffee beans* is plural → **are + V3**: *are picked*.",
+          "misconception": "'Are picking' adalah present continuous active (biji kopi yang memetik) — tidak masuk akal."
+        },
+        {
+          "id": "b1-u07-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "present simple passive",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the text with the present simple passive of the verbs in brackets.",
+          "text": "At the Green Leaf tea farm, the leaves ___ (pick) early in the morning. Then they ___ (dry) in the sun for two days.",
+          "answers": [["are picked"], ["are dried"]],
+          "explanation": "Subject *the leaves / they* plural → **are + V3**: *are picked, are dried*. The farmers are not important here; the process is."
+        },
+        {
+          "id": "b1-u07-l1-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "past participles for the passive",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each verb with the past participle (V3) you need for the passive.",
+          "pairs": [
+            { "left": "make", "right": "made" },
+            { "left": "build", "right": "built" },
+            { "left": "sell", "right": "sold" },
+            { "left": "speak", "right": "spoken" },
+            { "left": "steal", "right": "stolen" }
+          ],
+          "explanation": "Passive selalu memakai V3. Irregular past participles must be memorised: make → made, build → built, sell → sold, speak → spoken, steal → stolen."
+        },
+        {
+          "id": "b1-u07-l1-q4",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "present simple passive",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct form of be.",
+          "text": "English ___ spoken at the Seaview Hotel, and the staff uniforms ___ washed every day.",
+          "choices": [["is", "are", "be"], ["is", "are", "was"]],
+          "answers": [0, 1],
+          "explanation": "*English* adalah satu bahasa (singular) → **is spoken**. *The staff uniforms* plural → **are washed**."
+        },
+        {
+          "id": "b1-u07-l1-q5",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "present simple passive",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Our", "bread", "is", "baked", "fresh", "every", "morning"],
+          "acceptedAnswers": ["Every morning our bread is baked fresh"],
+          "explanation": "Pola: **Subject + is + V3 + (adverb/time)** → *Our bread is baked fresh every morning.* Keterangan waktu bisa juga di awal kalimat."
+        },
+        {
+          "id": "b1-u07-l1-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "active to passive",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence in the passive. Do not include 'by them'.",
+          "sentence": "They clean the hotel rooms every day.",
+          "cue": "Begin with: The hotel rooms ...",
+          "answers": ["The hotel rooms are cleaned every day."],
+          "explanation": "Object *the hotel rooms* menjadi subject → plural → **are cleaned**. The doer (*they*) is not important, so we leave it out."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u07-l2-past-passive",
+      "title": "The Past Simple Passive",
+      "summary": "Memakai was/were + V3 untuk sejarah, kejadian lampau, dan peristiwa yang pelakunya tidak diketahui.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk past simple passive dengan was/were + V3",
+        "Menggunakan past passive untuk fakta sejarah dan kejadian seperti pencurian atau kerusakan",
+        "Memilih was atau were sesuai subject"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Bentuk past simple passive\nRumusnya sama seperti present passive, tetapi *be* diubah ke bentuk lampau: **was/were + V3**.\n\n| Subject | be | V3 | Example |\n|---|---|---|---|\n| I / He / She / It | was | built, stolen... | The bridge was built in 1925. |\n| You / We / They | were | sent, destroyed... | The letters were sent yesterday. |\n\nActive: *Workers built the bridge in 1925.* → Passive: *The bridge was built in 1925.* The time expression (*in 1925, last night, two years ago*) stays at the end.\n\n### Kapan dipakai?\n- **History and famous facts (sejarah):** *The town hall was built in 1890. Port Selwyn was founded by fishermen.*\n- **Crime, accidents and damage:** *My bike was stolen last night. Ten houses were damaged in the storm.* Biasanya kita tidak tahu siapa pelakunya, atau pelakunya tidak penting.\n- **News:** *Two new schools were opened last month.*\n\nDalam bahasa Indonesia kita cukup bilang *Jembatan itu dibangun tahun 1925* — tidak ada perubahan bentuk untuk waktu lampau. In English, *was/were* shows that the action is finished and in the past.\n\n### Irregular past participles\nBanyak kata kerja yang sering muncul dalam past passive adalah irregular:\n\n| V1 | V2 | V3 |\n|---|---|---|\n| build | built | built |\n| steal | stole | stolen |\n| write | wrote | written |\n| break | broke | broken |\n| take | took | taken |\n\nBe careful: *stole* is V2 (active), *stolen* is V3 (passive). *My phone was stole* is wrong.\n\n### Present atau past passive?\n- Fakta yang masih benar sekarang → present: *Rice is grown here.*\n- Kejadian yang selesai di masa lalu → past: *The first rice mill was built here in 1950.*\n\n### Hati-hati: found vs find\n*Found* (mendirikan) adalah regular verb: found – founded – founded. *Find* (menemukan) adalah irregular: find – found – found. So: *The school was founded in 1960* (didirikan), but *The keys were found under the sofa* (ditemukan).",
+        "examples": [
+          {
+            "en": "The old bridge was built in 1925.",
+            "id": "Jembatan tua itu dibangun pada tahun 1925.",
+            "note": "Singular → was + V3."
+          },
+          {
+            "en": "My bike was stolen last night.",
+            "id": "Sepeda saya dicuri tadi malam.",
+            "note": "Pelaku tidak diketahui."
+          },
+          {
+            "en": "Ten houses were damaged in the storm.",
+            "id": "Sepuluh rumah rusak akibat badai.",
+            "note": "Plural → were + V3."
+          },
+          {
+            "en": "Greenhill School was founded in 1960.",
+            "id": "Sekolah Greenhill didirikan pada tahun 1960.",
+            "note": "found – founded – founded (mendirikan)."
+          },
+          {
+            "en": "The lost keys were found under the sofa.",
+            "id": "Kunci yang hilang ditemukan di bawah sofa.",
+            "note": "find – found – found (menemukan)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "build",
+            "pos": "verb",
+            "ipa": "/bɪld/",
+            "meaning": "membangun",
+            "example": "The station was built over a hundred years ago."
+          },
+          {
+            "word": "found",
+            "pos": "verb",
+            "ipa": "/faʊnd/",
+            "meaning": "mendirikan (sekolah, kota, perusahaan)",
+            "example": "The company was founded by two sisters."
+          },
+          {
+            "word": "demolish",
+            "pos": "verb",
+            "ipa": "/dɪˈmɒlɪʃ/",
+            "meaning": "merobohkan; membongkar (bangunan)",
+            "example": "The old market was demolished last year."
+          },
+          {
+            "word": "damage",
+            "pos": "verb",
+            "ipa": "/ˈdæmɪdʒ/",
+            "meaning": "merusak",
+            "example": "Several cars were damaged in the flood."
+          },
+          {
+            "word": "steal",
+            "pos": "verb",
+            "ipa": "/stiːl/",
+            "meaning": "mencuri",
+            "example": "Her laptop was stolen from the café."
+          },
+          {
+            "word": "destroy",
+            "pos": "verb",
+            "ipa": "/dɪˈstrɔɪ/",
+            "meaning": "menghancurkan",
+            "example": "The old theatre was destroyed by a fire."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + was/were + V3 + (past time)",
+            "example": "The letters were delivered yesterday.",
+            "note": "was untuk singular, were untuk plural (dan you)."
+          },
+          {
+            "pattern": "Active past: Subject + V2 + Object → Passive: Object + was/were + V3",
+            "example": "Someone broke the window. → The window was broken.",
+            "note": "Pelaku umum (someone) dihilangkan."
+          },
+          {
+            "pattern": "Subject + was/were + V3 + in + year",
+            "example": "The museum was opened in 1998.",
+            "note": "Sering dipakai untuk fakta sejarah."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "My phone was stole on the train.",
+            "right": "My phone was stolen on the train.",
+            "why": "Passive memakai V3 (stolen), bukan V2 (stole)."
+          },
+          {
+            "wrong": "The houses was destroyed in the fire.",
+            "right": "The houses were destroyed in the fire.",
+            "why": "Subject plural (the houses) memakai were."
+          },
+          {
+            "wrong": "The school was build in 1960.",
+            "right": "The school was built in 1960.",
+            "why": "V3 dari build adalah built."
+          },
+          {
+            "wrong": "The town founded in 1850.",
+            "right": "The town was founded in 1850.",
+            "why": "Kota tidak mendirikan dirinya sendiri — perlu passive dengan was."
+          }
+        ],
+        "summary": "The past simple passive is **was/were + V3**. Gunakan untuk **fakta sejarah**, **berita**, dan kejadian seperti pencurian atau kerusakan ketika pelakunya tidak diketahui atau tidak penting. Ingat: V3, bukan V2 (*stolen*, bukan *stole*).",
+        "reviewCards": [
+          {
+            "front": "Past simple passive form",
+            "back": "was/were + V3: The bridge was built. The houses were damaged."
+          },
+          {
+            "front": "Someone stole my bike. → Passive?",
+            "back": "My bike was stolen."
+          },
+          {
+            "front": "found (mendirikan) vs find (menemukan): V3?",
+            "back": "found → founded; find → found"
+          },
+          {
+            "front": "steal – ? – ?",
+            "back": "steal – stole – stolen"
+          },
+          {
+            "front": "demolish",
+            "back": "merobohkan bangunan: The old market was demolished."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u07-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "past simple passive",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "The bridge over the Kalis River ___ in 1925.",
+          "options": ["was built", "built", "is built", "were built"],
+          "answer": 0,
+          "explanation": "*In 1925* adalah waktu lampau, dan jembatan *dibangun* → **was + V3**. *The bridge* is singular, so *were* is wrong.",
+          "misconception": "'The bridge built' berarti jembatan itu yang membangun sesuatu — tidak masuk akal."
+        },
+        {
+          "id": "b1-u07-l2-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "past simple passive",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Drag the correct verb forms into the text.",
+          "text": "The first bicycle factory in Port Selwyn ___ in 1932. Hundreds of bicycles ___ there every month, and most of them ___ to nearby towns.",
+          "bank": ["was opened", "were made", "were sent", "opened", "was made", "sends"],
+          "answers": ["was opened", "were made", "were sent"],
+          "explanation": "Pabrik **dibuka** → *was opened* (singular). Sepeda **dibuat** dan **dikirim** → plural → *were made, were sent*."
+        },
+        {
+          "id": "b1-u07-l2-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "past simple passive",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Rumah ini dibangun pada tahun 1990.",
+          "direction": "id-en",
+          "answers": [
+            "This house was built in 1990",
+            "The house was built in 1990",
+            "This home was built in 1990"
+          ],
+          "explanation": "*Dibangun* + tahun lampau → past simple passive **was built**. *Rumah ini* = *this house* (singular → was)."
+        },
+        {
+          "id": "b1-u07-l2-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "was vs were",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["The letters", "was delivered", "to the wrong address", "yesterday."],
+          "errorIndex": 1,
+          "correction": "were delivered",
+          "explanation": "*The letters* plural → **were delivered**. Was hanya untuk subject singular."
+        },
+        {
+          "id": "b1-u07-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "past simple passive",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "My bike stolen outside the library last night.",
+          "answers": [
+            "My bike was stolen outside the library last night.",
+            "Last night my bike was stolen outside the library."
+          ],
+          "explanation": "Passive butuh *be*: **was stolen**. Without *was*, the sentence has no main verb."
+        },
+        {
+          "id": "b1-u07-l2-q6",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "buildings and history",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "The old cinema on Elm Street was ___ in 2015, and now there is a car park in its place.",
+          "options": ["demolished", "founded", "invented", "harvested"],
+          "answer": 0,
+          "explanation": "Bioskopnya sudah tidak ada dan diganti tempat parkir → **demolished** (dirobohkan). *Founded* = didirikan, *invented* = ditemukan/diciptakan, *harvested* = dipanen."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u07-l3-by-agent",
+      "title": "Who Did It? By + Agent",
+      "summary": "Memutuskan kapan pelaku perlu disebut dengan by, serta membedakan by, with, made of, dan made from.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menambahkan pelaku dengan by + agent ketika informasinya penting",
+        "Menghilangkan pelaku yang tidak diketahui, jelas, atau tidak penting",
+        "Membedakan by (pelaku), with (alat), made of dan made from (bahan)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu agent?\nThe **agent** is the person or thing that does the action in a passive sentence. Kita menyebutnya dengan **by**: *The library was designed by Ayu Lestari.* (Perpustakaan itu dirancang **oleh** Ayu Lestari.)\n\n### Kapan agent DISEBUT?\nInclude *by + agent* when it is **new or important information** — biasanya nama orang, seniman, penulis, atau penemu:\n- *This song was written by Raka Pratama.*\n- *The fire was started by a cigarette.*\n- *The thief was caught by a taxi driver.* (menarik — bukan polisi!)\n\n### Kapan agent DIHILANGKAN?\n| Situation | Example |\n|---|---|\n| Unknown (tidak diketahui) | *My car was stolen.* (oleh siapa? tidak tahu) |\n| Obvious (sudah jelas) | *The thief was arrested.* (tentu oleh polisi) |\n| Not important | *The streets are cleaned every day.* |\n| General people / pronouns | ~~by people~~, ~~by them~~, ~~by someone~~ |\n\nSecara umum, jika kalimat active memakai *they, people, someone, we*, jangan tulis *by them / by people* dalam kalimat passive. It sounds unnatural.\n\n### By, with, made of, made from\n- **by** + doer (pelaku): *The cake was made by my grandmother.*\n- **with** + tool/instrument (alat): *The cake was decorated with a small knife.*\n- **made of** + material you can still see: *This table is made of wood.*\n- **made from** + material that has changed: *Paper is made from wood.*\n\nDalam bahasa Indonesia semua bisa diterjemahkan *oleh / dengan / dari*, jadi pilihlah preposisi berdasarkan fungsinya, bukan terjemahannya. Do NOT use *from* or *of* for the doer: ~~written from a young musician~~ → *written by a young musician*.\n\n### Posisi agent\nThe agent usually comes after the verb, before or after the time phrase: *The bridge was designed by a local engineer in 1990.* Keep the most important information near the end of the sentence — that is where English speakers put new information.",
+        "examples": [
+          {
+            "en": "The new library was designed by Ayu Lestari.",
+            "id": "Perpustakaan baru itu dirancang oleh Ayu Lestari.",
+            "note": "Nama perancang = informasi penting → pakai by."
+          },
+          {
+            "en": "The thief was arrested last night.",
+            "id": "Pencuri itu ditangkap tadi malam.",
+            "note": "Agent jelas (polisi) → dihilangkan."
+          },
+          {
+            "en": "The walls were painted with a large brush.",
+            "id": "Dinding-dinding itu dicat dengan kuas besar.",
+            "note": "with = alat."
+          },
+          {
+            "en": "This chair is made of bamboo.",
+            "id": "Kursi ini terbuat dari bambu.",
+            "note": "Bahannya masih terlihat → made of."
+          },
+          {
+            "en": "Paper is made from wood.",
+            "id": "Kertas dibuat dari kayu.",
+            "note": "Bahannya sudah berubah → made from."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "design",
+            "pos": "verb",
+            "ipa": "/dɪˈzaɪn/",
+            "meaning": "merancang; mendesain",
+            "example": "The station was designed by a young architect."
+          },
+          {
+            "word": "inventor",
+            "pos": "noun",
+            "ipa": "/ɪnˈventə/",
+            "meaning": "penemu (alat/teknologi baru)",
+            "example": "The machine was named after its inventor."
+          },
+          {
+            "word": "architect",
+            "pos": "noun",
+            "ipa": "/ˈɑːkɪtekt/",
+            "meaning": "arsitek",
+            "example": "The museum was planned by a famous architect."
+          },
+          {
+            "word": "author",
+            "pos": "noun",
+            "ipa": "/ˈɔːθə/",
+            "meaning": "penulis; pengarang",
+            "example": "The book was signed by the author."
+          },
+          {
+            "word": "arrest",
+            "pos": "verb",
+            "ipa": "/əˈrest/",
+            "meaning": "menangkap (oleh polisi)",
+            "example": "Two men were arrested at the airport."
+          },
+          {
+            "word": "decorate",
+            "pos": "verb",
+            "ipa": "/ˈdekəreɪt/",
+            "meaning": "menghias",
+            "example": "The hall was decorated with flowers."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + be + V3 + by + agent",
+            "example": "This song was written by Raka Pratama.",
+            "note": "by = oleh (pelaku)."
+          },
+          {
+            "pattern": "Subject + be + V3 + with + tool",
+            "example": "The box was opened with a knife.",
+            "note": "with = dengan (alat)."
+          },
+          {
+            "pattern": "Subject + be + made of / made from + material",
+            "example": "This bag is made of leather. Cheese is made from milk.",
+            "note": "of: bahan masih terlihat; from: bahan sudah berubah."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "This song was written from a young musician.",
+            "right": "This song was written by a young musician.",
+            "why": "Pelaku dalam passive selalu memakai by, bukan from."
+          },
+          {
+            "wrong": "The rooms are cleaned by them every day.",
+            "right": "The rooms are cleaned every day.",
+            "why": "Pelaku umum seperti them/people/someone biasanya dihilangkan."
+          },
+          {
+            "wrong": "The door was opened by a key.",
+            "right": "The door was opened with a key.",
+            "why": "Kunci adalah alat, bukan pelaku → with."
+          },
+          {
+            "wrong": "This table is made by wood.",
+            "right": "This table is made of wood.",
+            "why": "Bahan memakai made of / made from, bukan by."
+          }
+        ],
+        "summary": "Use **by + agent** only when the doer is new or important information, such as a name. Hilangkan pelaku jika tidak diketahui, sudah jelas, atau tidak penting. Ingat: **by** untuk pelaku, **with** untuk alat, **made of/from** untuk bahan.",
+        "reviewCards": [
+          {
+            "front": "Kapan memakai by + agent?",
+            "back": "Ketika pelaku adalah informasi baru/penting: The song was written by Raka Pratama."
+          },
+          {
+            "front": "The rooms are cleaned by them. — benar?",
+            "back": "Kurang tepat. Hilangkan 'by them': The rooms are cleaned."
+          },
+          {
+            "front": "by vs with",
+            "back": "by = pelaku (by my uncle); with = alat (with a knife)"
+          },
+          {
+            "front": "made of vs made from",
+            "back": "made of: bahan terlihat (made of wood); made from: bahan berubah (paper is made from wood)"
+          },
+          {
+            "front": "Mengapa 'The thief was arrested' tanpa by the police?",
+            "back": "Karena pelakunya sudah jelas (obvious)."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u07-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "by + agent",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "This portrait was painted ___ Laila Sari, a well-known local artist.",
+          "options": ["by", "from", "with", "of"],
+          "answer": 0,
+          "explanation": "Laila Sari adalah **pelaku** (yang melukis) → **by**. *With* dipakai untuk alat, misalnya *with a brush*.",
+          "misconception": "Kata 'oleh' dalam bahasa Indonesia selalu = by, bukan from."
+        },
+        {
+          "id": "b1-u07-l3-q2",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "by, with and agents",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Select ALL the grammatically correct sentences.",
+          "options": [
+            "The thief was caught by a taxi driver.",
+            "This song was written from a young musician.",
+            "The walls were painted with a large brush.",
+            "The tickets were checked by a guard at the gate.",
+            "The email was sent of my manager."
+          ],
+          "answers": [0, 2, 3],
+          "explanation": "Pelaku memakai **by** (*by a taxi driver, by a guard*), alat memakai **with** (*with a large brush*). *From* dan *of* tidak bisa dipakai untuk pelaku."
+        },
+        {
+          "id": "b1-u07-l3-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "by + agent",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence in the passive. Keep the agent because it is important.",
+          "sentence": "Ayu Lestari designed the new library.",
+          "cue": "Begin with: The new library ...",
+          "answers": ["The new library was designed by Ayu Lestari."],
+          "explanation": "Past simple active (*designed*) → **was designed**. Nama perancang adalah informasi penting, jadi kita tambahkan **by Ayu Lestari**."
+        },
+        {
+          "id": "b1-u07-l3-q4",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "by + agent",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Sari", "text": "This vase is beautiful! Where did you buy it?" },
+            { "speaker": "Tomi", "text": "I didn't buy it." },
+            { "speaker": "Tomi", "text": null }
+          ],
+          "options": [
+            "It was made by my uncle.",
+            "It was made from my uncle.",
+            "My uncle was made it.",
+            "It made by my uncle."
+          ],
+          "answer": 0,
+          "explanation": "Passive: **was + V3 + by + pelaku** → *It was made by my uncle.* *From* bukan untuk pelaku, dan *It made by...* tidak punya *was*."
+        },
+        {
+          "id": "b1-u07-l3-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "made of / made from",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "This old table is made by wood from my grandfather's garden.",
+          "answers": ["This old table is made of wood from my grandfather's garden."],
+          "explanation": "Bahan yang masih terlihat (kayu meja) → **made of**. *By* hanya untuk pelaku, bukan bahan."
+        },
+        {
+          "id": "b1-u07-l3-q6",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "by vs with",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct prepositions.",
+          "text": "The window was cleaned ___ a soft cloth ___ my brother.",
+          "choices": [["with", "by", "from"], ["with", "of", "by"]],
+          "answers": [0, 2],
+          "explanation": "Kain lembut adalah **alat** → *with a soft cloth*. Kakak/adik saya adalah **pelaku** → *by my brother*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u07-l4-passive-questions-negatives",
+      "title": "Passive Questions and Negatives",
+      "summary": "Membuat kalimat negatif, pertanyaan yes/no, dan pertanyaan wh- dalam present dan past simple passive.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk kalimat negatif passive dengan isn't/aren't/wasn't/weren't + V3",
+        "Membuat pertanyaan passive: Is/Was + subject + V3?",
+        "Menjawab dengan short answer yang tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Negatif\nUntuk membuat passive negatif, tambahkan **not** setelah *be*. We never use *don't/doesn't/didn't* in a passive sentence.\n\n| Tense | Negative | Example |\n|---|---|---|\n| Present | am not / isn't / aren't + V3 | *These shoes aren't made in our factory.* |\n| Past | wasn't / weren't + V3 | *Bayu wasn't invited to the meeting.* |\n\n### Pertanyaan yes/no\nPindahkan *be* ke depan subject — sama seperti pertanyaan dengan *be* yang sudah kamu kenal sejak A1.\n- *This bag is made of leather.* → **Is this bag made of leather?**\n- *The bridge was built in 1925.* → **Was the bridge built in 1925?**\n\nShort answers use *be*, not *do*: *Yes, it is. / No, it isn't. / Yes, it was. / No, they weren't.*\n\n### Pertanyaan wh-\nPola: **Wh- word + is/are/was/were + subject + V3?**\n- *Where was this film made?*\n- *When were these photos taken?*\n- *How is cheese made?*\n- *What is this tool used for?*\n\nIngat urutannya: *be* sebelum subject, dan V3 tetap di belakang subject. A very common mistake is ~~Where was made this film?~~ — the subject (*this film*) must come between *was* and *made*.\n\n### Bertanya tentang pelaku\nTo ask about the agent, put **by** at the end: *Who was this book written by?* Jawaban: *It was written by Mira Halim.* In conversation, this is more common than *By whom was this book written?*, yang terdengar sangat formal.\n\n### Do/did atau be?\n| Active | Passive |\n|---|---|\n| *Did they build the bridge?* | *Was the bridge built?* |\n| *They don't make shoes here.* | *Shoes aren't made here.* |\n\nKesimpulannya: dalam passive, *be* melakukan semua pekerjaan — ia membuat pertanyaan, negatif, dan short answer. *Do/does/did* hanya untuk kalimat active.",
+        "examples": [
+          {
+            "en": "Is this bag made of real leather?",
+            "id": "Apakah tas ini terbuat dari kulit asli?",
+            "note": "Is + subject + V3?"
+          },
+          {
+            "en": "Where was this film made?",
+            "id": "Di mana film ini dibuat?",
+            "note": "Wh- + was + subject + V3?"
+          },
+          {
+            "en": "Bayu wasn't invited to the meeting.",
+            "id": "Bayu tidak diundang ke rapat itu.",
+            "note": "wasn't + V3."
+          },
+          {
+            "en": "Who was this book written by?",
+            "id": "Buku ini ditulis oleh siapa?",
+            "note": "Bertanya tentang pelaku: by di akhir."
+          },
+          {
+            "en": "These shoes aren't made in our factory.",
+            "id": "Sepatu-sepatu ini tidak dibuat di pabrik kami.",
+            "note": "aren't + V3 (bukan don't)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "leather",
+            "pos": "noun",
+            "ipa": "/ˈleðə/",
+            "meaning": "kulit (bahan)",
+            "example": "Is this jacket made of leather?"
+          },
+          {
+            "word": "supplier",
+            "pos": "noun",
+            "ipa": "/səˈplaɪə/",
+            "meaning": "pemasok",
+            "example": "The parts are bought from a supplier."
+          },
+          {
+            "word": "invite",
+            "pos": "verb",
+            "ipa": "/ɪnˈvaɪt/",
+            "meaning": "mengundang",
+            "example": "Were you invited to the opening?"
+          },
+          {
+            "word": "be used for",
+            "pos": "phrase",
+            "ipa": "/bi ˈjuːzd fə/",
+            "meaning": "digunakan untuk",
+            "example": "What is this tool used for?"
+          },
+          {
+            "word": "plastic",
+            "pos": "noun",
+            "ipa": "/ˈplæstɪk/",
+            "meaning": "plastik",
+            "example": "The bottles aren't made of plastic; they're made of glass."
+          },
+          {
+            "word": "translate",
+            "pos": "verb",
+            "ipa": "/trænsˈleɪt/",
+            "meaning": "menerjemahkan",
+            "example": "Was the novel translated into English?"
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + isn't/aren't/wasn't/weren't + V3",
+            "example": "The tickets weren't sold online.",
+            "note": "Jangan pakai don't/didn't dalam passive."
+          },
+          {
+            "pattern": "Is/Are/Was/Were + subject + V3?",
+            "example": "Was the bridge built in 1925?",
+            "note": "Short answer: Yes, it was. / No, it wasn't."
+          },
+          {
+            "pattern": "Wh- + is/are/was/were + subject + V3?",
+            "example": "When were these photos taken?",
+            "note": "Subject berada di antara be dan V3."
+          },
+          {
+            "pattern": "Who + was/is + subject + V3 + by?",
+            "example": "Who was this song written by?",
+            "note": "Bertanya tentang pelaku."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Did the bridge built in 1920?",
+            "right": "Was the bridge built in 1920?",
+            "why": "Pertanyaan passive memakai was/were, bukan did."
+          },
+          {
+            "wrong": "Where was made this film?",
+            "right": "Where was this film made?",
+            "why": "Subject (this film) harus berada di antara was dan V3."
+          },
+          {
+            "wrong": "The tickets didn't sold online.",
+            "right": "The tickets weren't sold online.",
+            "why": "Negatif passive: be + not + V3."
+          },
+          {
+            "wrong": "Is this bag made of leather? — Yes, it does.",
+            "right": "Is this bag made of leather? — Yes, it is.",
+            "why": "Short answer mengikuti kata kerja di pertanyaan (is)."
+          }
+        ],
+        "summary": "In the passive, **be does all the work**: *isn't/wasn't + V3* untuk negatif, *Is/Was + subject + V3?* untuk pertanyaan, dan *Yes, it is / No, it wasn't* untuk short answer. Jangan pakai do/does/did, dan letakkan subject di antara be dan V3.",
+        "reviewCards": [
+          {
+            "front": "The bridge was built in 1925. → Yes/No question?",
+            "back": "Was the bridge built in 1925?"
+          },
+          {
+            "front": "Where was made this film? — perbaiki",
+            "back": "Where was this film made?"
+          },
+          {
+            "front": "They didn't invite Bayu. → Passive?",
+            "back": "Bayu wasn't invited."
+          },
+          {
+            "front": "Bertanya tentang pelaku buku",
+            "back": "Who was this book written by?"
+          },
+          {
+            "front": "Is it made of leather? — short answer negatif",
+            "back": "No, it isn't."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u07-l4-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "passive questions",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Complete the conversation.",
+          "text": "A: ___ this bag made of real leather? B: No, it ___. It's made of plastic.",
+          "choices": [["Is", "Does", "Has"], ["doesn't", "isn't", "hasn't"]],
+          "answers": [0, 1],
+          "explanation": "Pertanyaan present passive: **Is + subject + V3?** Short answer mengikuti *is* → **No, it isn't.**",
+          "misconception": "Does/doesn't tidak dipakai bersama V3 dalam passive."
+        },
+        {
+          "id": "b1-u07-l4-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "passive wh- questions",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["When", "was", "the", "first", "school", "in", "Port Selwyn", "built"],
+          "acceptedAnswers": ["When was the first school built in Port Selwyn"],
+          "explanation": "Pola: **When + was + subject + V3?** Subject-nya adalah *the first school in Port Selwyn*. *In Port Selwyn* juga boleh diletakkan setelah *built*."
+        },
+        {
+          "id": "b1-u07-l4-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "passive negatives",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence in the passive.",
+          "sentence": "They didn't invite Bayu to the meeting.",
+          "cue": "Begin with: Bayu ...",
+          "answers": [
+            "Bayu wasn't invited to the meeting.",
+            "Bayu was not invited to the meeting."
+          ],
+          "explanation": "*Didn't invite* (past negative active) → **wasn't invited**. Bayu is singular, so we use *was*. Pelaku *they* dihilangkan."
+        },
+        {
+          "id": "b1-u07-l4-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "passive negatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "These shoes ___ in our factory. We buy them from a supplier in Lakemoor.",
+          "options": ["aren't made", "don't make", "weren't make", "isn't made"],
+          "answer": 0,
+          "explanation": "Sepatu **tidak dibuat** di pabrik kami (fakta sekarang) → present passive negatif **aren't made** (plural). *Don't make* adalah active dan tidak cocok dengan subject *shoes*."
+        },
+        {
+          "id": "b1-u07-l4-q5",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "passive short answers",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Complete the short answer with ONE word. A: Was the museum opened in 1990? B: Yes, it ___.",
+          "answers": ["was"],
+          "explanation": "Short answer mengulang kata kerja *be* dari pertanyaan: *Was...?* → **Yes, it was.**"
+        },
+        {
+          "id": "b1-u07-l4-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "passive wh- questions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Translate into Indonesian.",
+          "source": "Where were these photos taken?",
+          "direction": "en-id",
+          "answers": [
+            "Di mana foto-foto ini diambil?",
+            "Di mana foto ini diambil?",
+            "Dimana foto-foto ini diambil?",
+            "Dimana foto ini diambil?",
+            "Foto-foto ini diambil di mana?",
+            "Foto ini diambil di mana?",
+            "Di mana foto-foto ini dipotret?"
+          ],
+          "explanation": "*Were ... taken* adalah past passive → *diambil*. *Where* = *di mana*. Dalam bahasa Indonesia, kata tanya bisa di awal atau di akhir kalimat."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u07-l5-processes-and-inventions",
+      "title": "Processes and Inventions",
+      "summary": "Mendeskripsikan proses produksi langkah demi langkah dan sejarah penemuan dengan passive dan sequencers.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menjelaskan proses pembuatan produk dengan present passive dan sequencers",
+        "Menceritakan sejarah sebuah penemuan dengan past passive",
+        "Menggunakan kosakata produksi: harvest, roast, pack, export, assemble, manufacture"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mendeskripsikan proses\nWhen we explain how something is made, we usually use the **present simple passive**, because the steps are more important than the workers. Tambahkan **sequencers** supaya urutannya jelas:\n\n| Step | Sequencer | Example |\n|---|---|---|\n| 1 | First, / First of all, | *First, the cocoa pods are harvested.* |\n| 2 | Then / Next, | *Next, the beans are removed and dried.* |\n| 3 | After that, | *After that, they are roasted.* |\n| 4 | Finally, | *Finally, the chocolate is wrapped and sent to shops.* |\n\nKalau dua langkah memakai subject yang sama, kamu tidak perlu mengulang *are*: *The leaves are picked, dried and packed.*\n\n### Contoh: bagaimana tempe dibuat\n*First, the soybeans are washed and boiled. Then the skins are removed. After that, the beans are mixed with a starter and wrapped in banana leaves. Finally, they are left in a warm place for one or two days.* Perhatikan: semua kata kerja utama berbentuk **is/are + V3**.\n\n### Menceritakan sejarah penemuan\nFor the history of an invention or a company, use the **past simple passive**, and add *by + agent* when the inventor's name is important:\n- *The Selwyn radio was invented in 1958 by an engineer called Hadi Wirawan.*\n- *At first, the radios were assembled by hand. Later, they were manufactured in a large factory and exported to five countries.*\n\n### Kosakata produksi\n| Word | Meaning |\n|---|---|\n| harvest | memanen |\n| roast | memanggang/menyangrai (kopi, kacang) |\n| pack / wrap | mengemas / membungkus |\n| assemble | merakit |\n| manufacture | memproduksi dalam jumlah besar di pabrik |\n| export / import | mengekspor / mengimpor |\n| invent | menemukan/menciptakan sesuatu yang baru |\n\n### Tips menulis\nMix active and passive naturally. Kalimat tentang **proses** → passive; kalimat tentang **orang** yang melakukan sesuatu dengan sengaja → boleh active: *Hadi Wirawan worked in a small garage. His first radio was built there in 1958.*",
+        "examples": [
+          {
+            "en": "First, the cocoa pods are harvested by hand.",
+            "id": "Pertama, buah kakao dipanen dengan tangan.",
+            "note": "Process → present passive + sequencer."
+          },
+          {
+            "en": "After that, the beans are roasted.",
+            "id": "Setelah itu, biji-bijinya disangrai.",
+            "note": "roast = menyangrai/memanggang."
+          },
+          {
+            "en": "The parts are assembled in our factory in Lakemoor.",
+            "id": "Bagian-bagiannya dirakit di pabrik kami di Lakemoor.",
+            "note": "assemble = merakit."
+          },
+          {
+            "en": "The Selwyn radio was invented in 1958.",
+            "id": "Radio Selwyn ditemukan pada tahun 1958.",
+            "note": "History → past passive."
+          },
+          {
+            "en": "Most of our coffee is exported to other countries.",
+            "id": "Sebagian besar kopi kami diekspor ke negara lain.",
+            "note": "export = mengekspor."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "harvest",
+            "pos": "verb",
+            "ipa": "/ˈhɑːvɪst/",
+            "meaning": "memanen",
+            "example": "The rice is harvested twice a year."
+          },
+          {
+            "word": "roast",
+            "pos": "verb",
+            "ipa": "/rəʊst/",
+            "meaning": "memanggang; menyangrai",
+            "example": "The coffee beans are roasted at a high temperature."
+          },
+          {
+            "word": "assemble",
+            "pos": "verb",
+            "ipa": "/əˈsembl/",
+            "meaning": "merakit",
+            "example": "The bicycles are assembled by hand."
+          },
+          {
+            "word": "manufacture",
+            "pos": "verb",
+            "ipa": "/ˌmænjuˈfæktʃə/",
+            "meaning": "memproduksi (di pabrik, jumlah besar)",
+            "example": "The phones are manufactured in a large factory."
+          },
+          {
+            "word": "export",
+            "pos": "verb",
+            "ipa": "/ɪkˈspɔːt/",
+            "meaning": "mengekspor",
+            "example": "Our tea is exported to twelve countries."
+          },
+          {
+            "word": "invent",
+            "pos": "verb",
+            "ipa": "/ɪnˈvent/",
+            "meaning": "menemukan; menciptakan (sesuatu yang baru)",
+            "example": "The first Selwyn radio was invented in 1958."
+          },
+          {
+            "word": "ingredient",
+            "pos": "noun",
+            "ipa": "/ɪnˈɡriːdiənt/",
+            "meaning": "bahan (makanan/resep)",
+            "example": "Only natural ingredients are used in our snacks."
+          },
+          {
+            "word": "wrap",
+            "pos": "verb",
+            "ipa": "/ræp/",
+            "meaning": "membungkus",
+            "example": "The tempe is wrapped in banana leaves."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Sequencer + subject + is/are + V3",
+            "example": "Then the leaves are dried in the sun.",
+            "note": "First, Then, Next, After that, Finally."
+          },
+          {
+            "pattern": "Subject + are + V3, V3 and V3",
+            "example": "The leaves are picked, dried and packed.",
+            "note": "Be tidak perlu diulang untuk subject yang sama."
+          },
+          {
+            "pattern": "Subject + was/were + V3 + in + year + by + inventor",
+            "example": "The Selwyn radio was invented in 1958 by Hadi Wirawan.",
+            "note": "Sejarah penemuan → past passive."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "First, the beans roasted.",
+            "right": "First, the beans are roasted.",
+            "why": "Proses membutuhkan be + V3; tanpa are, kalimat ini berarti biji-biji itu yang memanggang."
+          },
+          {
+            "wrong": "Our products are export to twelve countries.",
+            "right": "Our products are exported to twelve countries.",
+            "why": "Setelah are pakai V3 (exported)."
+          },
+          {
+            "wrong": "The radio was invent in 1958.",
+            "right": "The radio was invented in 1958.",
+            "why": "Regular verb: V3 = V1 + -ed."
+          },
+          {
+            "wrong": "The parts are assembled in our factory and then they packed.",
+            "right": "The parts are assembled in our factory and then they are packed.",
+            "why": "Subject baru (they) membutuhkan be lagi: they are packed."
+          }
+        ],
+        "summary": "To describe a **process**, use the present passive with sequencers (*First, Then, After that, Finally*). To tell the **history** of an invention, use the past passive and add *by + agent* when the name matters. Kuasai kosakata seperti *harvest, roast, assemble, manufacture, export, wrap*.",
+        "reviewCards": [
+          {
+            "front": "Urutan sequencers untuk proses",
+            "back": "First → Then/Next → After that → Finally"
+          },
+          {
+            "front": "assemble",
+            "back": "merakit: The bicycles are assembled by hand."
+          },
+          {
+            "front": "manufacture",
+            "back": "memproduksi di pabrik dalam jumlah besar"
+          },
+          {
+            "front": "Proses → tense apa? Sejarah penemuan → tense apa?",
+            "back": "Proses: present simple passive. Sejarah: past simple passive."
+          },
+          {
+            "front": "export vs import",
+            "back": "export = menjual ke luar negeri; import = membeli dari luar negeri"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u07-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "production processes",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "At the end of the process, the chocolate bars are ___ in paper and put into boxes.",
+          "options": ["wrapped", "harvested", "invented", "roasted"],
+          "answer": 0,
+          "explanation": "Cokelat dibungkus kertas → **wrapped**. *Harvested* (dipanen) dan *roasted* (disangrai) adalah langkah awal, dan *invented* berarti diciptakan."
+        },
+        {
+          "id": "b1-u07-l5-q2",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "describing a process",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order to describe the process.",
+          "fragments": [
+            "First, the tea leaves are picked by hand,",
+            "then they are dried in the sun,",
+            "and finally they are packed",
+            "and sent to shops."
+          ],
+          "explanation": "Ikuti sequencers: **First → then → finally**. Setiap langkah memakai present passive: *are picked, are dried, are packed (and) sent*."
+        },
+        {
+          "id": "b1-u07-l5-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "describing a process",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Describe how a food or product from your region is made (for example tempe, batik, or coffee). Speak for about one minute. Use at least four passive sentences and sequencers.",
+          "targetPhrases": ["First,", "is made", "are + V3", "After that,", "Finally,"],
+          "sampleAnswer": "I'd like to explain how tempe is made. First, the soybeans are washed and boiled. Then the skins are removed. After that, the beans are mixed with a starter and wrapped in banana leaves. Finally, they are left in a warm place for one or two days, and the tempe is ready.",
+          "explanation": "Gunakan **is/are + V3** untuk setiap langkah dan hubungkan dengan sequencers. Speak clearly and pause briefly after each step."
+        },
+        {
+          "id": "b1-u07-l5-q4",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "production vocabulary",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Match each verb with its meaning.",
+          "pairs": [
+            { "left": "invent", "right": "create something new for the first time" },
+            { "left": "manufacture", "right": "make goods in large numbers in a factory" },
+            { "left": "harvest", "right": "collect crops from the fields" },
+            { "left": "export", "right": "sell goods to another country" },
+            { "left": "assemble", "right": "put the parts of something together" }
+          ],
+          "explanation": "invent = menciptakan, manufacture = memproduksi di pabrik, harvest = memanen, export = mengekspor, assemble = merakit."
+        },
+        {
+          "id": "b1-u07-l5-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "describing a process",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the text with the present simple passive of the verbs in brackets.",
+          "text": "Batik ___ (produce) in many towns in Java. First, patterns ___ (draw) on the cloth with hot wax. Then the cloth ___ (dye).",
+          "answers": [["is produced"], ["are drawn"], ["is dyed"]],
+          "explanation": "*Batik* dan *the cloth* singular → **is produced, is dyed**. *Patterns* plural → **are drawn** (draw – drew – drawn)."
+        },
+        {
+          "id": "b1-u07-l5-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "present and past passive",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Select ALL the grammatically correct sentences.",
+          "options": [
+            "The first Selwyn radio was designed in 1958.",
+            "The parts are assembled in our factory.",
+            "This model was invent by two students.",
+            "Our products are export to twelve countries.",
+            "Each machine was tested before it was sold.",
+            "The boxes is packed by robots."
+          ],
+          "answers": [0, 1, 4],
+          "explanation": "Kalimat benar memakai **be + V3** yang sesuai subject. Errors: *was invent* → *was invented*; *are export* → *are exported*; *The boxes is* → *The boxes are*."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u07-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present simple passive",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Paper ___ from wood.",
+      "options": ["is made", "makes", "is making", "made"],
+      "answer": 0,
+      "explanation": "Kertas **dibuat** dari kayu (fakta umum) → present passive **is made**. *Paper* is uncountable, so we use *is*."
+    },
+    {
+      "id": "b1-u07-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "present vs past passive",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct passive form of the verbs in brackets.",
+      "text": "The Port Selwyn Maritime Museum ___ (open) in 1998. Today it ___ (visit) by thousands of tourists every year.",
+      "answers": [["was opened"], ["is visited"]],
+      "explanation": "*In 1998* → past passive **was opened**. *Today ... every year* → fakta sekarang → present passive **is visited**."
+    },
+    {
+      "id": "b1-u07-t-q3",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "passive questions",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the question.",
+      "segments": ["Where", "was", "these photos", "taken?"],
+      "errorIndex": 1,
+      "correction": "were",
+      "explanation": "Subject *these photos* plural → **were**: *Where were these photos taken?*"
+    },
+    {
+      "id": "b1-u07-t-q4",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "active to passive",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence in the passive. Leave out the agent.",
+      "sentence": "Somebody stole my wallet on the bus.",
+      "cue": "Begin with: My wallet ...",
+      "answers": ["My wallet was stolen on the bus."],
+      "explanation": "*Stole* (past) → **was stolen**. Pelaku *somebody* tidak diketahui, jadi dihilangkan."
+    },
+    {
+      "id": "b1-u07-t-q5",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "present simple passive",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Kopi ini ditanam di lereng Gunung Ardan.",
+      "direction": "id-en",
+      "answers": [
+        "This coffee is grown on the slopes of Mount Ardan",
+        "This coffee is grown on the slope of Mount Ardan",
+        "This coffee is grown on Mount Ardan's slopes",
+        "This coffee is planted on the slopes of Mount Ardan",
+        "This coffee is planted on the slope of Mount Ardan"
+      ],
+      "explanation": "*Ditanam* sebagai fakta umum → present passive **is grown** (atau *is planted*). *Lereng* = *slope(s)*."
+    },
+    {
+      "id": "b1-u07-t-q6",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "passive short answers",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the correct reply.",
+      "dialogue": [
+        { "speaker": "Customer", "text": "Is this table made of wood?" },
+        { "speaker": "Shop assistant", "text": null },
+        { "speaker": "Shop assistant", "text": "It's made of metal, but it looks like wood." }
+      ],
+      "options": ["No, it isn't.", "No, it doesn't.", "No, they aren't.", "No, it wasn't."],
+      "answer": 0,
+      "explanation": "Pertanyaan memakai *Is ... made?* → short answer **No, it isn't.** *Doesn't* tidak dipakai dalam passive, *they* tidak cocok dengan *this table*, dan *wasn't* salah tense."
+    },
+    {
+      "id": "b1-u07-t-q7",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "passive questions with agent",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["Was", "the", "bridge", "designed", "by", "a", "local", "engineer"],
+      "explanation": "Yes/no question past passive: **Was + subject + V3 + by + agent?** → *Was the bridge designed by a local engineer?*"
+    },
+    {
+      "id": "b1-u07-t-q8",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "production vocabulary",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Most of the coffee from our island is ___ to other countries, so it is hard to buy it in local shops.",
+      "options": ["exported", "imported", "invented", "assembled"],
+      "answer": 0,
+      "explanation": "Kopi dijual ke negara lain → **exported**. *Imported* berarti dibeli dari luar negeri — kebalikannya."
+    }
+  ]
+}

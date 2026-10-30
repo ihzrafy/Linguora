@@ -1,0 +1,557 @@
+{
+  "slug": "c1-u10-subjunctive",
+  "number": 10,
+  "title": "Nuanced Modality",
+  "description": "Make formal requirements and recommendations with the subjunctive (insist that he be, it is essential that), use would, could and might for polite distancing, and express arrangements, expectations and certainty with be to, be supposed to and be bound to.",
+  "objectives": [
+    "Use the mandative subjunctive after verbs such as insist, recommend and demand",
+    "Use the subjunctive after adjectives and nouns such as essential and requirement",
+    "Use would, could and might for polite, tentative communication",
+    "Distinguish be to, be supposed to, be bound to, be due to and be set to",
+    "Write formal recommendations and requirements"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u10-l1-mandative-subjunctive",
+      "title": "We Insist That He Be ...: The Mandative Subjunctive",
+      "summary": "Use the base form of the verb after verbs of demanding, recommending and suggesting in formal English.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Recognise verbs that trigger the subjunctive (insist, recommend, demand, request, propose, suggest, require)",
+        "Use the base form for all persons, including be and negative not + base form",
+        "Use should + base form as a British alternative"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is the subjunctive?\nThe **subjunctive** is a special verb form used to express what **should** happen rather than what does happen. In modern English it survives mainly in formal contexts after words of demanding, recommending and requiring. It is called the **mandative subjunctive** (from *mandate* = order).\n\n### Form: the base verb for all persons\nIn a subjunctive clause, the verb is in the **base form**, with no -s for third person and no past tense:\n- 'The doctor insisted that he **stop** smoking.' (not *stops*)\n- 'The committee recommends that the proposal **be** approved.' (not *is*)\n- 'They demanded that the company **compensate** the workers.' (not *compensates*)\n\n### Negative and passive\n- Negative: **not + base form** (no *do*): 'We requested that the report **not be** published.' / 'I suggest that he **not attend** the meeting.'\n- Passive: **be + past participle**: 'The board proposed that the meeting **be postponed**.'\n\n### Verbs that trigger the subjunctive\n| Verb | Example |\n|---|---|\n| insist | She insisted that the contract **be** checked by a lawyer. |\n| recommend | We recommend that every visitor **wear** a helmet. |\n| demand | The union demanded that wages **be** increased. |\n| request | The client requested that the delivery **arrive** before noon. |\n| propose | He proposed that the company **open** a new branch. |\n| suggest | I suggest that she **apply** for the scholarship. |\n| require | The law requires that each employee **receive** a written contract. |\n| ask | They asked that the decision **be** reconsidered. |\n\n### The 'should' alternative\nBritish English often uses **should + base form** instead: 'The committee recommends that the proposal **should be** approved.' Both are correct and formal. In informal British English, the ordinary indicative is also heard ('I suggest that he goes ...'), but in formal writing and in American English, the subjunctive is the standard choice.\n\n### Time does not matter\nThe subjunctive does not change with the tense of the main verb: 'She **insists** that he **be** present.' / 'She **insisted** that he **be** present.'\n\n### Insist and suggest: two meanings\nWhen *insist* or *suggest* introduce a **fact or claim** rather than a demand, use the normal indicative: 'He insisted that he **was** innocent.' (= he claimed it) vs 'He insisted that she **be** present.' (= he demanded it).\n\n### Indonesian note\nIndonesian has no special verb form for this: *Dokter bersikeras agar ia berhenti merokok*. The word *agar* or *supaya* often signals that English needs the subjunctive (or should + base form).",
+        "examples": [
+          { "en": "The doctor insisted that he stop smoking immediately.", "id": "Dokter bersikeras agar ia segera berhenti merokok.", "note": "Base form 'stop' (no -s)." },
+          { "en": "The committee recommends that the proposal be approved without delay.", "id": "Komite merekomendasikan agar usulan itu disetujui tanpa penundaan.", "note": "Passive subjunctive." },
+          { "en": "We requested that the report not be published until June.", "id": "Kami meminta agar laporan itu tidak diterbitkan sampai bulan Juni.", "note": "Negative: not + be." },
+          { "en": "The union demanded that the company compensate the workers.", "id": "Serikat pekerja menuntut agar perusahaan memberikan kompensasi kepada para pekerja.", "note": "Base form 'compensate'." }
+        ],
+        "vocabulary": [
+          { "word": "insist", "pos": "verb", "ipa": "/ɪnˈsɪst/", "meaning": "bersikeras, menuntut", "example": "She insisted that the error be corrected." },
+          { "word": "compensate", "pos": "verb", "ipa": "/ˈkɒmpenseɪt/", "meaning": "memberi ganti rugi / kompensasi", "example": "The airline compensated the passengers." },
+          { "word": "propose", "pos": "verb", "ipa": "/prəˈpəʊz/", "meaning": "mengusulkan", "example": "He proposed that the vote be delayed." },
+          { "word": "stipulation", "pos": "noun", "ipa": "/ˌstɪpjuˈleɪʃn/", "meaning": "ketentuan, syarat", "example": "The grant came with the stipulation that results be published." },
+          { "word": "reconsider", "pos": "verb", "ipa": "/ˌriːkənˈsɪdə(r)/", "meaning": "mempertimbangkan kembali", "example": "They asked that the decision be reconsidered." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + insist / recommend / demand / suggest + that + subject + base verb", "example": "I recommend that she take the morning train.", "note": "No -s, no past tense." },
+          { "pattern": "... that + subject + not + base verb", "example": "He asked that his name not be mentioned.", "note": "Negative without 'do'." },
+          { "pattern": "... that + subject + should + base verb", "example": "They suggested that we should leave early.", "note": "British alternative." }
+        ],
+        "mistakes": [
+          { "wrong": "The doctor insisted that he stops smoking.", "right": "The doctor insisted that he stop smoking.", "why": "In formal English, the mandative subjunctive uses the base form for all persons." },
+          { "wrong": "We requested that the report is not published.", "right": "We requested that the report not be published.", "why": "The negative subjunctive is 'not + base form'." },
+          { "wrong": "The manager demanded that the staff to work overtime.", "right": "The manager demanded that the staff work overtime.", "why": "After 'that', use a clause with a base verb, not a to-infinitive." }
+        ],
+        "summary": "After verbs such as insist, recommend, demand, request, propose, suggest and require, formal English uses that + subject + base verb (be, stop, not be). The form does not change with person or tense. British English also uses should + base verb.",
+        "reviewCards": [
+          { "front": "She insisted that he ___ (be) present.", "back": "be" },
+          { "front": "Negative subjunctive", "back": "that + subject + not + base verb (that it not be published)" },
+          { "front": "British alternative", "back": "should + base verb" },
+          { "front": "insisted that he WAS innocent — subjunctive?", "back": "No: here 'insist' reports a claim, so the indicative is used." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u10-l1-q1", "type": "single_choice", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence in formal English: 'The doctor insisted that he ___ smoking immediately.'",
+          "options": ["stop", "stops", "stopping", "to stop"],
+          "answer": 0,
+          "explanation": "After 'insist that' expressing a demand, formal English uses the subjunctive base form: 'stop'."
+        },
+        {
+          "id": "c1-u10-l1-q2", "type": "fill_blank", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with the correct passive form of the verb in brackets.",
+          "text": "The committee recommended that the proposal ___ (approve) without delay.",
+          "answers": [["be approved", "should be approved"]],
+          "explanation": "The passive subjunctive is 'be + past participle': 'be approved'. British English may also use 'should be approved'."
+        },
+        {
+          "id": "c1-u10-l1-q3", "type": "sentence_transformation", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "independent",
+          "prompt": "Report the instruction using the subjunctive.",
+          "sentence": "'You must submit the report by Friday,' the manager told Arif.",
+          "cue": "Begin with: The manager insisted that Arif",
+          "answers": ["The manager insisted that Arif submit the report by Friday.", "The manager insisted that Arif should submit the report by Friday."],
+          "explanation": "After 'insisted that', use the base form 'submit' (or 'should submit'), even though Arif is third person singular."
+        },
+        {
+          "id": "c1-u10-l1-q4", "type": "error_identification", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that is NOT correct in formal English.",
+          "segments": ["The board", "has requested that", "every employee completes", "the training by June."],
+          "errorIndex": 2,
+          "correction": "every employee complete",
+          "explanation": "In formal English, 'request that' is followed by the subjunctive base form: 'every employee complete'."
+        },
+        {
+          "id": "c1-u10-l1-q5", "type": "dropdown", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the formal subjunctive forms.",
+          "text": "The judge recommended that he ___ more careful in future. The workers demanded that the company ___ them for the unpaid overtime.",
+          "choices": [["be", "is", "being"], ["compensate", "compensates", "compensating"]],
+          "answers": [0, 0],
+          "explanation": "The mandative subjunctive uses the base form for all persons: 'be' and 'compensate'."
+        },
+        {
+          "id": "c1-u10-l1-q6", "type": "word_order", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "lawyer", "proposed", "that", "the", "meeting", "be", "postponed"],
+          "explanation": "proposed + that + subject ('the meeting') + passive subjunctive ('be postponed')."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u10-l2-essential-that",
+      "title": "It Is Essential That ...: Adjectives, Nouns and Fixed Subjunctives",
+      "summary": "Use the subjunctive after adjectives (essential, vital, imperative) and nouns (requirement, recommendation), and recognise fixed subjunctive expressions.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use It is essential / vital / imperative / crucial / important that + base verb",
+        "Use nouns such as requirement, recommendation and insistence + that + base verb",
+        "Understand fixed expressions such as if need be and be that as it may"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Adjectives of necessity and importance\nThe subjunctive also follows **adjectives** that express necessity or importance, usually in the pattern **It is + adjective + that + subject + base verb**:\n- 'It is **essential** that every passenger **have** a valid ticket.'\n- 'It is **vital** that the patient **not eat** anything before the operation.'\n- 'It is **imperative** that the data **be** protected.'\n\nCommon adjectives: *essential, vital, crucial, imperative, important, necessary, advisable, desirable, urgent*.\n\n### Nouns\nRelated **nouns** take the same structure: *the requirement / recommendation / proposal / demand / insistence / suggestion that ...*\n- 'The **requirement** that all staff **attend** the training was unpopular.'\n- 'We support the **recommendation** that the law **be** reviewed.'\n\n### Should and indicative alternatives\nAs with verbs, British English often uses *should*: 'It is essential that every passenger **should have** a ticket.' In less formal British English, the indicative is common: 'It is important that everyone **is** on time.' For formal and international writing, the subjunctive (or *should*) is the safest choice. Never use **will** in these clauses: '*It is essential that he will attend*' is wrong.\n\n### Fixed subjunctive expressions\nSome old subjunctive forms survive in fixed expressions:\n\n| Expression | Meaning |\n|---|---|\n| if need be | if it is necessary |\n| be that as it may | even though that may be true |\n| so be it | I accept the situation, although I don't like it |\n| come what may | whatever happens |\n| suffice it to say | it is enough to say |\n| God save the King / Long live ... | formulaic wishes |\n\n'**Be that as it may**, we still need to meet the deadline.' / 'We'll work through the weekend **if need be**.'\n\n### Were-subjunctive (review)\nThe form *were* in 'If I **were** you' and 'I wish it **were** possible' is another remnant of the subjunctive, which you have used in Unit 6 ('Were it not for ...').\n\n### Indonesian note\n*Sangat penting agar ...*, *Wajib bahwa ...* and *Diperlukan agar ...* correspond to 'It is essential / vital / necessary that ...'. Remember: no *-s*, no *will*, and *not* goes directly before the base verb.",
+        "examples": [
+          { "en": "It is essential that every passenger have a valid ticket.", "id": "Sangat penting bahwa setiap penumpang memiliki tiket yang sah.", "note": "'have', not 'has'." },
+          { "en": "It is vital that the patient not eat anything before the operation.", "id": "Sangat penting agar pasien tidak makan apa pun sebelum operasi.", "note": "Negative subjunctive." },
+          { "en": "The requirement that all staff attend the training was unpopular.", "id": "Kewajiban agar seluruh staf mengikuti pelatihan itu tidak populer.", "note": "Noun + that + base verb." },
+          { "en": "Be that as it may, we still need to meet the deadline.", "id": "Meskipun demikian, kita tetap harus memenuhi tenggat waktu.", "note": "Fixed subjunctive expression." }
+        ],
+        "vocabulary": [
+          { "word": "imperative", "pos": "adjective", "ipa": "/ɪmˈperətɪv/", "meaning": "sangat penting, mendesak, wajib", "example": "It is imperative that we act now." },
+          { "word": "crucial", "pos": "adjective", "ipa": "/ˈkruːʃl/", "meaning": "sangat penting, krusial", "example": "It is crucial that the samples be stored correctly." },
+          { "word": "requirement", "pos": "noun", "ipa": "/rɪˈkwaɪəmənt/", "meaning": "persyaratan, kewajiban", "example": "There is a requirement that all visitors sign in." },
+          { "word": "if need be", "pos": "phrase", "ipa": "/ɪf niːd biː/", "meaning": "jika perlu", "example": "We can work late if need be." },
+          { "word": "come what may", "pos": "phrase", "ipa": "/kʌm wɒt meɪ/", "meaning": "apa pun yang terjadi", "example": "Come what may, I will finish this degree." }
+        ],
+        "grammar": [
+          { "pattern": "It is + essential / vital / imperative + that + subject + base verb", "example": "It is crucial that she arrive on time.", "note": "No -s; no 'will'." },
+          { "pattern": "It is + adjective + that + subject + not + base verb", "example": "It is important that the door not be left open.", "note": "Negative." },
+          { "pattern": "the requirement / recommendation + that + subject + base verb", "example": "the recommendation that the law be changed", "note": "Noun + subjunctive clause." }
+        ],
+        "mistakes": [
+          { "wrong": "It is essential that he will attend the meeting.", "right": "It is essential that he attend the meeting.", "why": "'Will' is not used in subjunctive clauses; use the base form (or 'should attend')." },
+          { "wrong": "It is vital that she doesn't miss the deadline. (formal report)", "right": "It is vital that she not miss the deadline.", "why": "In formal writing, the negative subjunctive is 'not + base form'." },
+          { "wrong": "Be it as it may, we must continue.", "right": "Be that as it may, we must continue.", "why": "The fixed expression is 'be that as it may'." }
+        ],
+        "summary": "After adjectives such as essential, vital, imperative and crucial, and nouns such as requirement and recommendation, formal English uses that + subject + base verb (negative: not + base verb). Never use 'will' here. Learn fixed subjunctive expressions such as if need be, be that as it may, so be it and come what may.",
+        "reviewCards": [
+          { "front": "It is essential that he ___ (have) a visa.", "back": "have" },
+          { "front": "It is vital that she ___ (not / be) late.", "back": "not be" },
+          { "front": "jika perlu", "back": "if need be" },
+          { "front": "be that as it may", "back": "even though that may be true" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u10-l2-q1", "type": "dropdown", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the formal subjunctive form.",
+          "text": "It is essential that every passenger ___ a valid ticket before boarding.",
+          "choices": [["have", "has", "having"]],
+          "answers": [0],
+          "explanation": "After 'It is essential that', formal English uses the base form 'have' for all persons."
+        },
+        {
+          "id": "c1-u10-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the rule in a more formal way.",
+          "sentence": "All visitors must wear a helmet on site.",
+          "cue": "Begin with: It is vital that",
+          "answers": ["It is vital that all visitors wear a helmet on site.", "It is vital that all visitors should wear a helmet on site.", "It is vital that all visitors wear helmets on site.", "It is vital that every visitor wear a helmet on site.", "It is vital that every visitor should wear a helmet on site."],
+          "explanation": "'It is vital that' is followed by the subjunctive base form 'wear' (or 'should wear')."
+        },
+        {
+          "id": "c1-u10-l2-q3", "type": "matching", "category": "vocabulary", "topic": "fixed subjunctive expressions", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each fixed expression with its meaning.",
+          "pairs": [
+            { "left": "if need be", "right": "if it is necessary" },
+            { "left": "be that as it may", "right": "even though that may be true" },
+            { "left": "so be it", "right": "I accept the situation, although I don't like it" },
+            { "left": "come what may", "right": "whatever happens" },
+            { "left": "suffice it to say", "right": "it is enough to say" }
+          ],
+          "explanation": "These are fixed expressions that preserve old subjunctive forms."
+        },
+        {
+          "id": "c1-u10-l2-q4", "type": "fill_blank", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the negative subjunctive with one word in each gap.",
+          "text": "It is important that the patient ___ ___ given any food or drink before the operation.",
+          "answers": [["not"], ["be"]],
+          "explanation": "The negative passive subjunctive is 'not be + past participle'."
+        },
+        {
+          "id": "c1-u10-l2-q5", "type": "error_identification", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["It is essential", "that he", "will attend", "the meeting tomorrow."],
+          "errorIndex": 2,
+          "correction": "attend",
+          "explanation": "'Will' is not used after 'It is essential that'. Use the base form 'attend' (or 'should attend')."
+        },
+        {
+          "id": "c1-u10-l2-q6", "type": "translation", "category": "writing", "topic": "subjunctive", "difficulty": 4, "stage": "quiz",
+          "prompt": "Translate into formal English using 'It is essential that' and 'comply with'.",
+          "source": "Sangat penting bahwa semua karyawan mematuhi peraturan keselamatan.",
+          "direction": "id-en",
+          "answers": ["It is essential that all employees comply with the safety regulations.", "It is essential that all employees comply with safety regulations.", "It is essential that all employees should comply with the safety regulations.", "It is essential that all employees should comply with safety regulations.", "It is essential that every employee comply with the safety regulations.", "It is essential that every employee comply with safety regulations.", "It is essential that all staff comply with the safety regulations.", "It is essential that all staff comply with safety regulations.", "It is essential that all employees comply with the safety rules.", "It is essential that all employees comply with safety rules.", "It is essential that all employees comply with the safety procedures."],
+          "explanation": "'Sangat penting bahwa' = 'It is essential that', followed by the subjunctive base form 'comply' (no -s)."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u10-l3-polite-distancing",
+      "title": "I Was Wondering If ...: Modals for Polite Distancing",
+      "summary": "Use would, could, might and past forms to make requests, suggestions and disagreements more polite and tentative.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use past forms (I was wondering, I wanted to ask) for polite distance",
+        "Use would, could and might to soften requests, suggestions and criticism",
+        "Disagree politely with tentative language"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Distance = politeness\nIn English, moving language 'further away' from the present and from certainty makes it sound more **polite**, **tentative** and **respectful**. We do this in three main ways: past forms, modal verbs and softening phrases.\n\n### 1. Past forms for present situations\n| Direct | Distanced |\n|---|---|\n| I wonder if you can help me. | I **was wondering** if you **could** help me. |\n| I want to ask you something. | I **wanted** to ask you something. |\n| Do you need anything else? | **Did** you **need** anything else? (service language) |\n| I hope you can come. | I **was hoping** you **could** come. |\n\nThe past tense here does not refer to the past; it creates social distance.\n\n### 2. Would, could, might\n- **Requests**: '**Could** you send me the report?' / '**Would** you mind waiting a moment?' / 'I'**d be grateful if you could** ...'\n- **Suggestions**: 'You **might want to** check the figures again.' / '**Could** I suggest an alternative?' / '**Might** I make a suggestion?' (very formal)\n- **Opinions**: 'I **would** say that ...' / 'I'**d have thought** that ...' / 'It **would seem** that ...'\n- **Disagreement**: 'I'm not sure that **would** be the best approach.' / 'That **might** be difficult.'\n\n### 3. Softening phrases\n*I'm afraid ...*, *a bit / slightly / rather*, *I'm not sure ...*, *perhaps*, *to be honest*, *with respect* (careful: 'with respect' often precedes strong disagreement).\n\n### Combining strategies\n'**I was wondering if** we **could perhaps** move the meeting to Thursday. Monday **might be a bit** difficult for the team.' This sentence uses a past form, a modal, an adverb and a softener. In many professional cultures, especially in emails to clients and senior colleagues, this level of politeness is expected.\n\n### Do not overdo it\nToo much distancing can sound insincere or unclear, especially in urgent situations. 'I was just wondering if you might possibly perhaps be able to ...' is excessive. Choose the level of politeness that fits the relationship and the size of the request.\n\n### Common errors\n- '*I wonder if you can to help me*' → no *to* after *can/could*.\n- '*Would you mind to wait?*' → 'Would you mind **waiting**?'\n- '*Could you possibly to send ...*' → 'Could you possibly **send** ...'\n\n### Indonesian note\nIndonesian politeness relies on words such as *mohon*, *kiranya*, *bisakah* and *Bapak/Ibu*. English relies more on grammar: past tense, modals and indirect questions. A literal translation of *Mohon kirim laporannya* ('Please send the report') can sound too direct in English; 'Could you send me the report, please?' is more natural.",
+        "examples": [
+          { "en": "I was wondering if you could send me the latest figures.", "id": "Saya ingin tahu apakah Anda bisa mengirimkan angka-angka terbaru kepada saya.", "note": "Past form + could." },
+          { "en": "You might want to check the calculations again.", "id": "Mungkin Anda perlu memeriksa perhitungannya lagi.", "note": "Soft suggestion." },
+          { "en": "I'm not sure that would be the best approach.", "id": "Saya kurang yakin itu pendekatan terbaik.", "note": "Polite disagreement." },
+          { "en": "I'd be grateful if you could reply by Friday.", "id": "Saya akan sangat berterima kasih jika Anda dapat membalas sebelum hari Jumat.", "note": "Formal request." }
+        ],
+        "vocabulary": [
+          { "word": "tentative", "pos": "adjective", "ipa": "/ˈtentətɪv/", "meaning": "hati-hati, tidak pasti", "example": "She made a tentative suggestion." },
+          { "word": "grateful", "pos": "adjective", "ipa": "/ˈɡreɪtfl/", "meaning": "berterima kasih", "example": "I'd be grateful for your advice." },
+          { "word": "with respect", "pos": "phrase", "ipa": "/wɪð rɪˈspekt/", "meaning": "dengan segala hormat (sering sebelum tidak setuju)", "example": "With respect, I think the figures are wrong." },
+          { "word": "approach", "pos": "noun", "ipa": "/əˈprəʊtʃ/", "meaning": "pendekatan", "example": "That might not be the best approach." },
+          { "word": "inconvenience", "pos": "noun", "ipa": "/ˌɪnkənˈviːniəns/", "meaning": "ketidaknyamanan, kerepotan", "example": "We apologise for any inconvenience." }
+        ],
+        "grammar": [
+          { "pattern": "I was wondering if / whether + subject + could / would / might + base verb", "example": "I was wondering whether you might join us.", "note": "Very polite request." },
+          { "pattern": "You might want to + base verb", "example": "You might want to save a copy first.", "note": "Soft advice." },
+          { "pattern": "Would you mind + -ing?", "example": "Would you mind closing the window?", "note": "Polite request; -ing, not to-infinitive." },
+          { "pattern": "I'd be grateful if you could + base verb", "example": "I'd be grateful if you could confirm the booking.", "note": "Formal email request." }
+        ],
+        "mistakes": [
+          { "wrong": "I wonder if you can to help me with this form.", "right": "I was wondering if you could help me with this form.", "why": "No 'to' after modals; the past forms make the request more polite." },
+          { "wrong": "Would you mind to wait a moment?", "right": "Would you mind waiting a moment?", "why": "'Mind' is followed by the -ing form." },
+          { "wrong": "You are wrong about the budget.", "right": "I'm not sure that's quite right about the budget.", "why": "Direct contradiction can sound rude; tentative language is more diplomatic." }
+        ],
+        "summary": "Make requests, suggestions and disagreements more polite with past forms (I was wondering, I wanted to ask), modals (could, would, might) and softeners (I'm afraid, a bit, perhaps). Use the right amount of distance for the relationship, and remember the grammar: no 'to' after modals, -ing after 'would you mind'.",
+        "reviewCards": [
+          { "front": "Can you help me? (very polite)", "back": "I was wondering if you could help me." },
+          { "front": "Do this. (soft advice)", "back": "You might want to do this." },
+          { "front": "Would you mind ___ (wait)?", "back": "waiting" },
+          { "front": "You're wrong. (diplomatic)", "back": "I'm not sure that's quite right." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u10-l3-q1", "type": "single_choice", "category": "conversation", "topic": "polite distancing", "difficulty": 2, "stage": "guided",
+          "prompt": "Which is the most polite way to ask your manager for a day off?",
+          "options": ["I was wondering if I could take Friday off.", "I want Friday off.", "Give me Friday off, please.", "I will take Friday off."],
+          "answer": 0,
+          "explanation": "The past continuous 'I was wondering' and the modal 'could' create polite distance. The other options are direct or demanding."
+        },
+        {
+          "id": "c1-u10-l3-q2", "type": "sentence_transformation", "category": "conversation", "topic": "polite distancing", "difficulty": 3, "stage": "independent",
+          "prompt": "Make the request more polite.",
+          "sentence": "Can you send me the report?",
+          "cue": "Begin with: I was wondering if",
+          "answers": ["I was wondering if you could send me the report.", "I was wondering if you would send me the report.", "I was wondering if you might send me the report.", "I was wondering if you could possibly send me the report.", "I was wondering if you could send the report to me.", "I was wondering if you would be able to send me the report.", "I was wondering if you might be able to send me the report."],
+          "explanation": "'I was wondering if' + subject + 'could/would/might' + base verb is a very polite indirect request."
+        },
+        {
+          "id": "c1-u10-l3-q3", "type": "matching", "category": "conversation", "topic": "polite distancing", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each direct sentence with a more diplomatic version.",
+          "pairs": [
+            { "left": "You're wrong.", "right": "I'm not sure that's quite right." },
+            { "left": "Check the figures again.", "right": "You might want to check the figures again." },
+            { "left": "I want to ask a question.", "right": "I was wondering if I might ask a question." },
+            { "left": "That's a bad idea.", "right": "I'm not sure that would be the best approach." },
+            { "left": "Reply by Friday.", "right": "I'd be grateful if you could reply by Friday." }
+          ],
+          "explanation": "Modals, past forms and softeners turn direct statements into diplomatic ones."
+        },
+        {
+          "id": "c1-u10-l3-q4", "type": "dialogue_completion", "category": "business", "topic": "polite distancing", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the most professional response.",
+          "dialogue": [
+            { "speaker": "Client", "text": "We'd like the whole order delivered by Monday." },
+            { "speaker": "Supplier", "text": null },
+            { "speaker": "Client", "text": "Thursday it is, then. Thanks for being flexible." }
+          ],
+          "options": ["I'm afraid that might be difficult. Would Thursday be acceptable?", "That's impossible. You'll get it on Thursday.", "No way. Thursday is the earliest.", "Monday? Forget it. Thursday is your only choice."],
+          "answer": 0,
+          "explanation": "The first option uses a softener ('I'm afraid'), a modal ('might') and a polite question ('Would ... be acceptable?')."
+        },
+        {
+          "id": "c1-u10-l3-q5", "type": "error_identification", "category": "grammar", "topic": "polite distancing", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["I was wondering", "if you could to help", "me with", "this application form."],
+          "errorIndex": 1,
+          "correction": "if you could help",
+          "explanation": "Modal verbs such as 'could' are followed by the base form without 'to'."
+        },
+        {
+          "id": "c1-u10-l3-q6", "type": "multiple_select", "category": "conversation", "topic": "polite distancing", "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the sentences that use modal verbs to make a suggestion or opinion more tentative.",
+          "options": ["You might want to check the figures again.", "It would seem that there has been a misunderstanding.", "Could I suggest an alternative?", "You must check the figures again.", "Check the figures again."],
+          "answers": [0, 1, 2],
+          "explanation": "'Might want to', 'would seem' and 'Could I suggest' soften the message. 'Must' and the imperative are direct."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u10-l4-be-to-supposed-bound",
+      "title": "Be To, Be Supposed To, Be Bound To",
+      "summary": "Express formal arrangements, orders, expectations, certainty and schedules with be to, be supposed to, be bound to, be due to and be set to.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use be to for formal arrangements and official instructions",
+        "Use be supposed to for expectations that are often not met",
+        "Use be bound to, be due to and be set to for certainty, schedules and likely events"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Semi-modal expressions with be\nThese expressions behave like modal verbs. They are followed by a **base verb** (to + infinitive) and express different kinds of necessity, expectation and future meaning.\n\n### Be to: formal arrangements and orders\n1. **Official plans** (very common in news): 'The President **is to visit** Surabaya next week.'\n2. **Orders and rules** (formal, often negative): 'Students **are not to leave** the room before 10 a.m.' / 'You **are to report** to reception on arrival.'\n3. **In conditions** (formal): 'If we **are to meet** the deadline, we need more staff.' (= if we want to)\n4. **Destiny (past)**: 'He left his village at 16. He **was** never **to return**.'\n\n### Be supposed to: expectation, often unfulfilled\n*Be supposed to* expresses what is expected, arranged or required, often when the reality is different:\n- 'You **were supposed to be** here at nine!' (but you came late)\n- 'This medicine **is supposed to** help, but it hasn't.'\n- 'You'**re not supposed to** park here.' (= it is not allowed)\n\nIt is less formal than *be to* and very common in speech.\n\n### Be bound to: certainty\n*Be bound to* means the speaker is **certain** something will happen: 'With so many talented players, the team **is bound to** win a trophy.' / 'Don't worry, the bus **is bound to be** late; it always is in the rain.'\n\n### Be due to and be set to\n- **Be due to**: scheduled for a particular time: 'The train **is due to** arrive at 6.15.'\n- **Be set to**: ready or likely to happen soon (very common in news headlines): 'Fuel prices **are set to** rise next month.'\n\n| Expression | Meaning | Register |\n|---|---|---|\n| be to | formal plan / official instruction | formal |\n| be supposed to | expectation, rule, often not fulfilled | neutral / informal |\n| be bound to | certain to happen | neutral |\n| be due to | scheduled | neutral |\n| be set to | likely / ready to happen soon | journalistic |\n\n### Grammar reminders\nAll these expressions are followed by **to + base verb**: '*supposed to wearing*' and '*bound to won*' are wrong. The *be* changes for tense and person: 'You **were** supposed to ...', 'She **is** bound to ...'.\n\n### Indonesian note\n*Dijadwalkan* = be due to / be to; *seharusnya* = be supposed to; *pasti akan* = be bound to; *diperkirakan akan* = be set to / be expected to. Note that *seharusnya* often implies criticism, just like *were supposed to*.",
+        "examples": [
+          { "en": "The President is to visit Surabaya next week.", "id": "Presiden dijadwalkan mengunjungi Surabaya minggu depan.", "note": "Official arrangement." },
+          { "en": "You were supposed to be here at nine, but you arrived at ten!", "id": "Kamu seharusnya sudah di sini jam sembilan, tapi kamu datang jam sepuluh!", "note": "Unfulfilled expectation." },
+          { "en": "Don't worry; the bus is bound to be late in this rain.", "id": "Jangan khawatir; bus itu pasti terlambat kalau hujan begini.", "note": "Certainty." },
+          { "en": "Fuel prices are set to rise next month.", "id": "Harga bahan bakar diperkirakan akan naik bulan depan.", "note": "News language." }
+        ],
+        "vocabulary": [
+          { "word": "be bound to", "pos": "phrase", "ipa": "/bi baʊnd tə/", "meaning": "pasti akan", "example": "It's bound to rain if we don't take umbrellas." },
+          { "word": "be supposed to", "pos": "phrase", "ipa": "/bi səˈpəʊzd tə/", "meaning": "seharusnya; diharapkan", "example": "We're supposed to submit the form online." },
+          { "word": "be due to", "pos": "phrase", "ipa": "/bi djuː tə/", "meaning": "dijadwalkan untuk", "example": "The report is due to be published in May." },
+          { "word": "be set to", "pos": "phrase", "ipa": "/bi set tə/", "meaning": "akan segera (diperkirakan)", "example": "The company is set to announce record profits." },
+          { "word": "summit", "pos": "noun", "ipa": "/ˈsʌmɪt/", "meaning": "konferensi tingkat tinggi", "example": "Leaders are to meet at a summit in Bali." }
+        ],
+        "grammar": [
+          { "pattern": "be (not) to + base verb", "example": "Visitors are not to touch the exhibits.", "note": "Formal instruction or arrangement." },
+          { "pattern": "be supposed to + base verb", "example": "The parcel was supposed to arrive yesterday.", "note": "Expectation, often unfulfilled." },
+          { "pattern": "be bound / due / set to + base verb", "example": "The new law is due to come into force in July.", "note": "Certainty / schedule / likely event." }
+        ],
+        "mistakes": [
+          { "wrong": "You are supposed to wearing a uniform at work.", "right": "You are supposed to wear a uniform at work.", "why": "'Be supposed to' is followed by the base verb." },
+          { "wrong": "The team is bound to won the cup.", "right": "The team is bound to win the cup.", "why": "Use 'to' + base verb after 'be bound'." },
+          { "wrong": "The minister is supposed to visit the school tomorrow, according to the official schedule. (news report)", "right": "The minister is to visit the school tomorrow, according to the official schedule.", "why": "For formal, official arrangements in news style, 'be to' is more appropriate; 'supposed to' suggests doubt." }
+        ],
+        "summary": "Be to expresses formal arrangements and instructions; be supposed to expresses expectations and rules, often not fulfilled; be bound to expresses certainty; be due to expresses schedules; be set to expresses likely events, especially in news. All are followed by to + base verb.",
+        "reviewCards": [
+          { "front": "be to (2 uses)", "back": "formal arrangements; official instructions" },
+          { "front": "seharusnya", "back": "be supposed to" },
+          { "front": "pasti akan", "back": "be bound to" },
+          { "front": "be set to (register)", "back": "journalistic: likely to happen soon" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u10-l4-q1", "type": "single_choice", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the news report: 'The President ___ visit Surabaya next week, according to an official statement.'",
+          "options": ["is to", "is bound", "is supposing to", "must to"],
+          "answer": 0,
+          "explanation": "'Be to + base verb' is used for formal, official arrangements, especially in news reports."
+        },
+        {
+          "id": "c1-u10-l4-q2", "type": "matching", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "be to", "right": "a formal arrangement or official instruction" },
+            { "left": "be supposed to", "right": "an expectation that is often not fulfilled" },
+            { "left": "be bound to", "right": "certain to happen" },
+            { "left": "be due to", "right": "scheduled for a particular time" },
+            { "left": "be set to", "right": "likely to happen soon (common in news)" }
+          ],
+          "explanation": "These semi-modal expressions all take to + base verb but express different meanings."
+        },
+        {
+          "id": "c1-u10-l4-q3", "type": "dropdown", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct expressions.",
+          "text": "You ___ be here at nine, but you arrived at ten! Still, don't worry about the bus home: it ___ be late in this rain; it always is.",
+          "choices": [["were supposed to", "are bound to", "are to"], ["is bound to", "is supposed to", "is to"]],
+          "answers": [0, 0],
+          "explanation": "'Were supposed to' expresses an unfulfilled expectation; 'is bound to' expresses certainty based on experience."
+        },
+        {
+          "id": "c1-u10-l4-q4", "type": "sentence_transformation", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the rule using 'be to'.",
+          "sentence": "Students must not leave the exam room before 10 a.m.",
+          "cue": "Begin with: Students",
+          "answers": ["Students are not to leave the exam room before 10 a.m.", "Students are not to leave the exam room before 10 am.", "Students are not to leave the exam room before 10am.", "Students are not to leave the exam room before ten a.m."],
+          "explanation": "'Be not to + base verb' expresses a formal prohibition: 'Students are not to leave ...'."
+        },
+        {
+          "id": "c1-u10-l4-q5", "type": "error_identification", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["You", "are supposed to wearing", "a uniform", "at work."],
+          "errorIndex": 1,
+          "correction": "are supposed to wear",
+          "explanation": "'Be supposed to' is followed by the base verb: 'are supposed to wear'."
+        },
+        {
+          "id": "c1-u10-l4-q6", "type": "fill_blank", "category": "grammar", "topic": "be bound to", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with ONE word meaning 'certain'.",
+          "text": "With so many talented young players, the team is ___ to win at least one trophy this season.",
+          "answers": [["bound", "sure", "certain"]],
+          "explanation": "'Be bound to' (or 'be sure / certain to') expresses that the speaker is certain something will happen."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u10-l5-formal-recommendations",
+      "title": "Writing Formal Recommendations and Requirements",
+      "summary": "Write the recommendations section of a report using the subjunctive, modals and the vocabulary of requirements and obligations.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use vocabulary of obligation such as mandatory, compulsory, comply with and exempt from",
+        "Combine subjunctive, passive and modal structures to make recommendations",
+        "Write a clear, formal recommendations section"
+      ],
+      "completionCriteria": "Read all sections, complete the writing task and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Requirements vs recommendations\nFormal documents distinguish clearly between what is **required** (obligatory) and what is **recommended** (advisable). Choosing the right words prevents misunderstandings and legal problems.\n\n| Strength | Vocabulary and structures |\n|---|---|\n| Requirement | must, shall (legal), be required to, it is mandatory / compulsory / obligatory that ..., comply with, adhere to |\n| Strong recommendation | it is essential / imperative that + base verb, we strongly recommend that + base verb |\n| Recommendation | it is recommended / advisable that ..., should, we recommend that ... |\n| Option | may, could, it might be worth considering ... |\n| Prohibition | must not, be not to, be prohibited from, under no circumstances (Unit 1) |\n| Exception | be exempt from, with the exception of, unless otherwise stated |\n\n### Key vocabulary\n- *mandatory / compulsory / obligatory* = required by rules or law\n- *advisable* = sensible and recommended\n- *comply with / adhere to* (a rule) = follow it\n- *be exempt from* = not be required to do something that others must do\n- *it is incumbent on/upon someone to* = it is their duty\n- *be obliged to* = be forced or required to\n\n### Structuring a recommendations section\n1. **Introduce**: 'In light of the findings above, the following recommendations are made.'\n2. **List** recommendations, from most to least important, each with a clear action and responsible party:\n   - 'It is recommended that the company **introduce** flexible working hours.'\n   - 'All managers **should receive** training in data protection.'\n   - 'It is essential that the new procedures **be** reviewed after six months.'\n3. **Justify** briefly: '..., as this would reduce staff turnover.'\n4. **Conclude**: 'Implementation of these measures should begin in the first quarter.'\n\n### Style tips\n- Use **passive and impersonal** structures ('It is recommended that ...') to sound objective.\n- Be **specific**: who, what, when.\n- Use **parallel structures** in lists: each point should start in the same way (all verbs, or all 'It is recommended that ...').\n- Hedge where appropriate (Unit 5): '... **could** reduce costs by approximately 10%'.\n\n### Indonesian note\nIndonesian reports use *disarankan agar* (it is recommended that), *wajib* (mandatory), *dibebaskan dari* (exempt from) and *mematuhi* (comply with). Remember that *disarankan agar* + verb maps onto the English subjunctive: 'It is recommended that the company **introduce** ...'.",
+        "examples": [
+          { "en": "It is recommended that the company introduce flexible working hours.", "id": "Disarankan agar perusahaan menerapkan jam kerja fleksibel.", "note": "Subjunctive 'introduce'." },
+          { "en": "Wearing a seat belt is mandatory in all company vehicles.", "id": "Mengenakan sabuk pengaman wajib di semua kendaraan perusahaan.", "note": "Requirement." },
+          { "en": "Part-time staff are exempt from the annual training requirement.", "id": "Staf paruh waktu dibebaskan dari kewajiban pelatihan tahunan.", "note": "Exception." },
+          { "en": "All suppliers must comply with the new environmental standards.", "id": "Semua pemasok harus mematuhi standar lingkungan yang baru.", "note": "comply with." }
+        ],
+        "vocabulary": [
+          { "word": "mandatory", "pos": "adjective", "ipa": "/ˈmændətəri/", "meaning": "wajib (menurut aturan)", "example": "Attendance at the safety briefing is mandatory." },
+          { "word": "comply with", "pos": "verb", "ipa": "/kəmˈplaɪ wɪð/", "meaning": "mematuhi", "example": "The factory failed to comply with the regulations." },
+          { "word": "exempt", "pos": "adjective", "ipa": "/ɪɡˈzempt/", "meaning": "dibebaskan (dari kewajiban)", "example": "Small businesses are exempt from the tax." },
+          { "word": "advisable", "pos": "adjective", "ipa": "/ədˈvaɪzəbl/", "meaning": "dianjurkan, sebaiknya", "example": "It is advisable to book in advance." },
+          { "word": "incumbent on", "pos": "adjective phrase", "ipa": "/ɪnˈkʌmbənt ɒn/", "meaning": "menjadi kewajiban bagi", "example": "It is incumbent on managers to protect staff data." },
+          { "word": "adhere to", "pos": "verb", "ipa": "/ədˈhɪə(r) tə/", "meaning": "berpegang pada, mematuhi", "example": "All staff must adhere to the code of conduct." }
+        ],
+        "grammar": [
+          { "pattern": "It is recommended / advisable / essential that + subject + base verb", "example": "It is advisable that each department appoint a data officer.", "note": "Formal recommendation." },
+          { "pattern": "Subject + be required to / be obliged to + base verb", "example": "Visitors are required to sign in at reception.", "note": "Requirement." },
+          { "pattern": "Subject + be exempt from + noun / -ing", "example": "Students are exempt from paying the fee.", "note": "Exception." }
+        ],
+        "mistakes": [
+          { "wrong": "All staff must comply the new rules.", "right": "All staff must comply with the new rules.", "why": "'Comply' needs the preposition 'with'." },
+          { "wrong": "Part-time staff are exempted of the training.", "right": "Part-time staff are exempt from the training.", "why": "The correct preposition is 'from'." },
+          { "wrong": "It is recommended that the company introduces flexible hours. (formal report)", "right": "It is recommended that the company introduce flexible hours.", "why": "Formal recommendations use the subjunctive base form (or 'should introduce')." }
+        ],
+        "summary": "Distinguish requirements (must, mandatory, be required to, comply with) from recommendations (it is recommended / advisable that + base verb, should) and exceptions (be exempt from). Write recommendations that are specific, parallel and objective, using the subjunctive and impersonal structures.",
+        "reviewCards": [
+          { "front": "wajib", "back": "mandatory / compulsory / obligatory" },
+          { "front": "comply ___ / adhere ___", "back": "comply with / adhere to" },
+          { "front": "dibebaskan dari", "back": "exempt from" },
+          { "front": "It is recommended that the firm ___ (review) ...", "back": "review (subjunctive)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u10-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "obligation vocabulary", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "Wearing a seat belt is **mandatory** in all company vehicles, including for passengers in the back.",
+          "options": ["required by the rules", "recommended but optional", "completely forbidden", "unusual"],
+          "answer": 0,
+          "explanation": "'Mandatory' means required by a rule or law."
+        },
+        {
+          "id": "c1-u10-l5-q2", "type": "essay", "category": "writing", "topic": "formal recommendations", "difficulty": 4, "stage": "independent",
+          "prompt": "A survey at Sinar Harapan Logistics found that staff turnover is high, many employees work more than 50 hours a week, and new staff receive little training. Write the 'Recommendations' section of the report. Include at least three recommendations, use at least two subjunctive structures (e.g. 'It is recommended that ... + base verb') and at least one expression of requirement or exception.",
+          "minWords": 100,
+          "maxWords": 170,
+          "rubric": "report-recommendations",
+          "explanation": "A strong answer introduces the section formally, gives specific and parallel recommendations (who, what, when), uses subjunctive structures correctly ('that the company introduce'), distinguishes requirements from recommendations, and briefly justifies each point."
+        },
+        {
+          "id": "c1-u10-l5-q3", "type": "matching", "category": "vocabulary", "topic": "obligation vocabulary", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "comply with", "right": "act according to a rule or request" },
+            { "left": "be exempt from", "right": "not be required to do something that others must do" },
+            { "left": "advisable", "right": "sensible and recommended" },
+            { "left": "incumbent on", "right": "being the duty or responsibility of" },
+            { "left": "adhere to", "right": "follow a rule or agreement closely" }
+          ],
+          "explanation": "These expressions are typical of formal requirements and policies."
+        },
+        {
+          "id": "c1-u10-l5-q4", "type": "dropdown", "category": "vocabulary", "topic": "obligation vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct words.",
+          "text": "All employees are required to ___ with the new data protection rules. However, part-time staff are ___ from the annual training requirement.",
+          "choices": [["comply", "adhere", "follow"], ["exempt", "exemption", "exempting"]],
+          "answers": [0, 0],
+          "explanation": "'Comply with' is the correct verb + preposition combination; 'be exempt from' uses the adjective 'exempt'."
+        },
+        {
+          "id": "c1-u10-l5-q5", "type": "sentence_transformation", "category": "writing", "topic": "formal recommendations", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence as a formal recommendation.",
+          "sentence": "The committee says all contracts must be checked by a lawyer.",
+          "cue": "Begin with: The committee recommends that",
+          "answers": ["The committee recommends that all contracts be checked by a lawyer.", "The committee recommends that all contracts should be checked by a lawyer.", "The committee recommends that every contract be checked by a lawyer.", "The committee recommends that every contract should be checked by a lawyer.", "The committee recommends that a lawyer check all contracts.", "The committee recommends that a lawyer should check all contracts."],
+          "explanation": "After 'recommends that', formal English uses the subjunctive: passive 'be checked' (or active 'a lawyer check')."
+        },
+        {
+          "id": "c1-u10-l5-q6", "type": "single_choice", "category": "writing", "topic": "formal recommendations", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence is most appropriate as a recommendation in a formal report?",
+          "options": ["It is recommended that the company invest in staff training.", "The company has to totally put money into training, I think.", "Train your staff, okay?", "It would be nice if the company kind of trained its staff."],
+          "answer": 0,
+          "explanation": "Option 1 uses an impersonal structure and the subjunctive ('invest'), which suits formal reports."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u10-t-q1", "type": "dropdown", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct form for formal English.",
+      "text": "The landlord demanded that the tenant ___ the outstanding rent immediately.",
+      "choices": [["pay", "pays", "paying"]],
+      "answers": [0],
+      "explanation": "After 'demanded that', the mandative subjunctive uses the base form 'pay'."
+    },
+    {
+      "id": "c1-u10-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence in a formal style.",
+      "sentence": "Everyone must be informed before the changes are made.",
+      "cue": "Begin with: It is essential that",
+      "answers": ["It is essential that everyone be informed before the changes are made.", "It is essential that everyone should be informed before the changes are made.", "It is essential that everyone is informed before the changes are made."],
+      "explanation": "The formal pattern is 'It is essential that + subject + be + past participle'. 'Should be' is also correct, and 'is' is acceptable in British English."
+    },
+    {
+      "id": "c1-u10-t-q3", "type": "error_identification", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["You are not", "supposed to parking", "here", "after six in the evening."],
+      "errorIndex": 1,
+      "correction": "supposed to park",
+      "explanation": "'Be supposed to' is followed by the base verb: 'supposed to park'."
+    },
+    {
+      "id": "c1-u10-t-q4", "type": "single_choice", "category": "grammar", "topic": "be bound to", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which sentence says that something is certain to happen?",
+      "options": ["Prices are bound to rise after the tax increase.", "Prices are supposed to rise after the tax increase.", "Prices might rise after the tax increase.", "Prices were to rise after the tax increase."],
+      "answer": 0,
+      "explanation": "'Be bound to' expresses certainty. 'Supposed to' expresses expectation, 'might' expresses possibility and 'were to' refers to a past arrangement."
+    },
+    {
+      "id": "c1-u10-t-q5", "type": "translation", "category": "conversation", "topic": "polite distancing", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into polite English. Begin with 'I was wondering'.",
+      "source": "Saya ingin tahu apakah Anda bisa membantu saya.",
+      "direction": "id-en",
+      "answers": ["I was wondering if you could help me.", "I was wondering whether you could help me.", "I was wondering if you would be able to help me.", "I was wondering whether you would be able to help me.", "I was wondering if you might be able to help me.", "I was wondering whether you might be able to help me.", "I was wondering if you could possibly help me.", "I was wondering if you would help me."],
+      "explanation": "'I was wondering if/whether you could ...' is a polite, distanced request."
+    },
+    {
+      "id": "c1-u10-t-q6", "type": "fill_blank", "category": "grammar", "topic": "be to and be supposed to", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the news report with the correct form of 'be' (and any other word needed) to show an official arrangement.",
+      "text": "According to an official announcement, the minister ___ to open the new hospital on Friday.",
+      "answers": [["is", "is due", "is set", "is scheduled", "is expected"]],
+      "explanation": "'Be to' ('the minister is to open') expresses an official arrangement; 'is due / set / scheduled to' are also possible."
+    },
+    {
+      "id": "c1-u10-t-q7", "type": "multiple_select", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Select ALL the sentences that are correct in formal English.",
+      "options": ["The doctor recommended that she rest for a week.", "It is vital that he be informed immediately.", "We requested that the report not be published.", "It is essential that every student will attend the lecture.", "The manager demanded that the staff to work overtime."],
+      "answers": [0, 1, 2],
+      "explanation": "Options 1–3 use the subjunctive correctly. Option 4 should not use 'will', and option 5 should not use 'to' after 'that'."
+    }
+  ]
+}

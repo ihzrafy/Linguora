@@ -1,0 +1,1366 @@
+{
+  "slug": "b1-u05-unreal-conditionals",
+  "number": 5,
+  "title": "Imagine That",
+  "description": "Membicarakan situasi imajiner, memberi saran, dan mengungkapkan keinginan tentang masa sekarang. Kamu akan belajar second conditional, If I were you, I wish + past simple, serta perbedaan first conditional (real) dan second conditional (imaginary).",
+  "objectives": [
+    "Membentuk dan memakai second conditional untuk situasi imajiner di masa sekarang atau masa depan",
+    "Memberi saran dengan If I were you, I'd ...",
+    "Mengungkapkan keinginan tentang situasi sekarang dengan I wish + past simple / were / could",
+    "Memilih first atau second conditional sesuai seberapa nyata situasinya, termasuk saat membicarakan uang dan impian"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u05-l1-second-conditional",
+      "title": "The Second Conditional",
+      "summary": "Membicarakan situasi imajiner atau kecil kemungkinannya dengan If + past simple, would/could/might + V1.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk second conditional dengan if + past simple dan would/could/might + V1",
+        "Memahami bahwa past simple di if-clause tidak berarti masa lalu",
+        "Membuat pertanyaan What would you do if ...?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu second conditional?\nSecond conditional dipakai untuk membicarakan situasi **imajiner** atau situasi yang **kecil kemungkinannya** terjadi, di masa sekarang atau masa depan. We use it to imagine a different present: *If I had wings, I would fly to school.* (Saya tidak punya sayap — ini hanya imajinasi.)\n\nBandingkan dengan first conditional dari Unit 4: *If it rains, I'll stay at home* (mungkin benar-benar terjadi). The second conditional is about things that are not true now or will probably not happen.\n\n### Form\n| If-clause | Main clause |\n|---|---|\n| If + subject + **past simple** | subject + **would / could / might** + V1 |\n| If I **had** more time, | I **would learn** Japanese. |\n| If we **lived** near the sea, | we **could go** swimming every day. |\n| If he **studied** harder, | he **might pass** the test. |\n\nPenting: walaupun kita memakai **past simple**, artinya **bukan masa lalu**. The past form shows *distance from reality* (jarak dari kenyataan). *If I had a car* = sekarang saya tidak punya mobil.\n\n### would, could, might\n- **would** = hasil yang pasti di dunia imajinasi: *I would buy a house.*\n- **could** = would be able to (bisa): *If I had a car, I could drive you home.*\n- **might** = mungkin, tidak pasti: *If I lived in Port Selwyn, I might open a café.*\n\nKontraksi: I would → **I'd**, she would → **she'd**, would not → **wouldn't**.\n\n### Urutan klausa\nThe if-clause can come first or second. Jika *if* berada di depan, pakai koma: *If I won the prize, I'd be very happy.* Jika *if* di tengah, biasanya tanpa koma: *I'd be very happy if I won the prize.* The meaning is the same.\n\n### Questions\nTo ask about imaginary situations, put **would** before the subject: *What would you do if you found a lot of money?* — *If I found a lot of money, I'd take it to the police.* Pertanyaan ini sangat umum dalam percakapan dan ujian speaking.\n\n### Kesalahan umum\n- Jangan pakai **would** di if-clause: ~~If I would have money~~ → *If I had money*.\n- Jangan pakai **will** di main clause: ~~If I had money, I will travel~~ → *I would travel*.\n- Dalam bahasa Indonesia kita cukup bilang \"kalau\" atau \"seandainya\" tanpa mengubah kata kerja. In English, the verb form must change.",
+        "examples": [
+          {
+            "en": "If I had more free time, I would learn to play the guitar.",
+            "id": "Seandainya saya punya lebih banyak waktu luang, saya akan belajar bermain gitar.",
+            "note": "Kenyataannya: saya tidak punya banyak waktu luang."
+          },
+          {
+            "en": "If we lived near the sea, we could go swimming every day.",
+            "id": "Seandainya kami tinggal dekat laut, kami bisa berenang setiap hari.",
+            "note": "could = would be able to."
+          },
+          {
+            "en": "She'd be much happier if she didn't work at weekends.",
+            "id": "Dia akan jauh lebih bahagia seandainya dia tidak bekerja di akhir pekan.",
+            "note": "If-clause di belakang → tanpa koma."
+          },
+          {
+            "en": "What would you do if you were invisible for a day?",
+            "id": "Apa yang akan kamu lakukan seandainya kamu tidak terlihat selama sehari?",
+            "note": "Question: would + subject + V1."
+          },
+          {
+            "en": "If Dimas studied harder, he might pass the test.",
+            "id": "Seandainya Dimas belajar lebih giat, dia mungkin lulus ujian.",
+            "note": "might = hasilnya tidak pasti."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "imagine",
+            "pos": "verb",
+            "ipa": "/ɪˈmædʒɪn/",
+            "meaning": "membayangkan",
+            "example": "Imagine you had a million dollars. What would you buy?"
+          },
+          {
+            "word": "imaginary",
+            "pos": "adjective",
+            "ipa": "/ɪˈmædʒɪnəri/",
+            "meaning": "khayalan; tidak nyata",
+            "example": "The second conditional describes imaginary situations."
+          },
+          {
+            "word": "unlikely",
+            "pos": "adjective",
+            "ipa": "/ʌnˈlaɪkli/",
+            "meaning": "kecil kemungkinannya",
+            "example": "It's unlikely that I'll ever meet a famous film star."
+          },
+          {
+            "word": "situation",
+            "pos": "noun",
+            "ipa": "/ˌsɪtʃuˈeɪʃn/",
+            "meaning": "situasi; keadaan",
+            "example": "What would you do in that situation?"
+          },
+          {
+            "word": "invisible",
+            "pos": "adjective",
+            "ipa": "/ɪnˈvɪzəbl/",
+            "meaning": "tidak terlihat",
+            "example": "If I were invisible, I'd listen to my boss's meetings."
+          },
+          {
+            "word": "desert island",
+            "pos": "noun",
+            "ipa": "/ˌdezət ˈaɪlənd/",
+            "meaning": "pulau terpencil tak berpenghuni",
+            "example": "If you lived on a desert island, what would you miss most?"
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "If + subject + past simple, subject + would/could/might + V1",
+            "example": "If I had a garden, I would grow vegetables.",
+            "note": "Koma dipakai jika if-clause di depan."
+          },
+          {
+            "pattern": "Subject + would/'d + V1 + if + subject + past simple",
+            "example": "I'd travel more if I had more money.",
+            "note": "If-clause di belakang → tanpa koma."
+          },
+          {
+            "pattern": "What would + subject + V1 + if + subject + past simple?",
+            "example": "What would you do if you lost your passport abroad?",
+            "note": "Pertanyaan tentang situasi imajiner."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "If I would have a car, I would drive to work.",
+            "right": "If I had a car, I would drive to work.",
+            "why": "If-clause memakai past simple, bukan would."
+          },
+          {
+            "wrong": "If I had more money, I will buy a new phone.",
+            "right": "If I had more money, I would buy a new phone.",
+            "why": "Second conditional memakai would/could/might di main clause, bukan will."
+          },
+          {
+            "wrong": "If she lived closer, she would visits us more often.",
+            "right": "If she lived closer, she would visit us more often.",
+            "why": "Setelah would selalu V1 tanpa -s."
+          },
+          {
+            "wrong": "What you would do if you won the prize?",
+            "right": "What would you do if you won the prize?",
+            "why": "Dalam pertanyaan, would diletakkan sebelum subject."
+          }
+        ],
+        "summary": "Second conditional = **If + past simple, would/could/might + V1**. Gunakan untuk situasi **imajiner** atau **kecil kemungkinannya** di masa sekarang atau masa depan. Remember: the past form does not mean past time — it shows that the situation is not real.",
+        "reviewCards": [
+          {
+            "front": "Second conditional form",
+            "back": "If + past simple, would/could/might + V1 — If I had time, I'd help you."
+          },
+          {
+            "front": "If I had a car... (apakah saya punya mobil?)",
+            "back": "Tidak. Past simple di sini menunjukkan situasi imajiner, bukan masa lalu."
+          },
+          {
+            "front": "would vs could vs might",
+            "back": "would = pasti (dalam imajinasi); could = bisa; might = mungkin"
+          },
+          {
+            "front": "Kapan pakai koma?",
+            "back": "Jika if-clause di depan: If I won, I'd celebrate. Tanpa koma: I'd celebrate if I won."
+          },
+          {
+            "front": "Tanya situasi imajiner",
+            "back": "What would you do if you ...? — What would you do if you found a wallet?"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u05-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "second conditional form",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "If I ___ more free time, I would learn to dance.",
+          "options": ["had", "have", "would have", "will have"],
+          "answer": 0,
+          "explanation": "Second conditional memakai **past simple** di if-clause: *If I had more free time...* The situation is imaginary — I don't have much free time now.",
+          "misconception": "Would tidak dipakai di if-clause: ~~If I would have~~."
+        },
+        {
+          "id": "b1-u05-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "second conditional form",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the second conditional sentence with the verbs in brackets. Use would in the main clause.",
+          "text": "Dimas lives far from his office. If he ___ (live) closer, he ___ (cycle) to work every day.",
+          "answers": [["lived"], ["would cycle", "'d cycle"]],
+          "explanation": "If-clause: past simple → *lived*. Main clause: **would + V1** → *would cycle* (atau disingkat *he'd cycle*). This is imaginary because Dimas does not live close to his office."
+        },
+        {
+          "id": "b1-u05-l1-q3",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "second conditional questions",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["What", "would", "you", "do", "if", "you", "saw", "a", "ghost?"],
+          "acceptedAnswers": ["If you saw a ghost, what would you do?"],
+          "explanation": "Pertanyaan second conditional: **What would + subject + V1 + if + past simple?** You can also start with the if-clause: *If you saw a ghost, what would you do?*"
+        },
+        {
+          "id": "b1-u05-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "second conditional form",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["If I would have", "a car,", "I would drive", "to the beach every weekend."],
+          "errorIndex": 0,
+          "correction": "If I had",
+          "explanation": "Di if-clause second conditional kita memakai past simple, bukan *would*. Correct: *If I had a car, I would drive to the beach every weekend.*",
+          "misconception": "Banyak pelajar memakai would di kedua klausa."
+        },
+        {
+          "id": "b1-u05-l1-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "would / could",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct words to complete the second conditional sentence.",
+          "text": "If we ___ in a big city, we ___ go to concerts more often.",
+          "choices": [
+            ["lived", "would live", "live"],
+            ["could", "can", "will"]
+          ],
+          "answers": [0, 0],
+          "explanation": "If-clause: past simple *lived*. Main clause: **could + V1** (= would be able to). *Can* dan *will* dipakai untuk situasi nyata (first conditional), bukan situasi imajiner."
+        },
+        {
+          "id": "b1-u05-l1-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "second conditional from reality",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence as a second conditional.",
+          "sentence": "I don't have enough money, so I can't buy a new laptop.",
+          "cue": "Begin with: If I had ...",
+          "answers": [
+            "If I had enough money, I could buy a new laptop.",
+            "If I had enough money, I would buy a new laptop.",
+            "If I had enough money, I'd buy a new laptop."
+          ],
+          "explanation": "Kenyataan negatif (*don't have*, *can't buy*) menjadi pengandaian positif: **If I had enough money, I could/would buy a new laptop.** Use *could* for ability or *would* for the result."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u05-l2-if-i-were-you",
+      "title": "If I Were You: Giving Advice",
+      "summary": "Memakai were untuk semua subject dalam second conditional dan memberi saran dengan If I were you, I'd ...",
+      "estimatedMinutes": 18,
+      "objectives": [
+        "Memakai were untuk semua subject dalam second conditional",
+        "Memberi saran positif dan negatif dengan If I were you, I'd / I wouldn't ...",
+        "Menanggapi saran dengan sopan"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Were untuk semua subject\nDalam second conditional, kita memakai **were** untuk semua subject, termasuk *I, he, she, it*: *If I were rich...*, *If she were here...*. This is the standard form in writing and formal English. Dalam percakapan santai, penutur asli juga sering berkata *If I was...*, tetapi dalam pelajaran ini kita berlatih bentuk **were** karena selalu benar dan selalu diterima dalam ujian.\n\n| Subject | Second conditional | Contoh |\n|---|---|---|\n| I | If I were ... | If I were taller, I'd play basketball. |\n| he / she / it | If he were ... | If it were cheaper, we'd buy it. |\n| you / we / they | If you were ... | If they were here, they'd help us. |\n\n### If I were you = memberi saran\nThe phrase **If I were you, I'd (= I would) + V1** is a very common way to give advice. Artinya \"Kalau aku jadi kamu, aku akan ...\". It sounds friendly and personal, karena pembicara membayangkan dirinya berada di posisi pendengar.\n- *If I were you, I'd talk to the manager.*\n- *If I were you, I wouldn't buy that phone.* (saran negatif)\n- *I'd take an umbrella if I were you.* (if-clause di belakang)\n\n### Bandingkan dengan should\nYou already know **should** from A2: *You should see a doctor.* Both are fine for advice, but *If I were you* sounds a little softer.\n\n| Lebih langsung | Lebih lembut/personal |\n|---|---|\n| You should rest. | If I were you, I'd rest. |\n| You shouldn't eat so late. | If I were you, I wouldn't eat so late. |\n\n### Menanggapi saran\nUseful responses: *That's a good idea.* / *You're right. I'll do that.* / *Thanks, but I don't think I can.* Perhatikan bahwa jawaban tentang rencana nyata kembali memakai **will** (*I'll do that*), karena keputusan itu nyata.\n\n### Hati-hati\n- Jangan pakai ~~If I am you~~ — kamu tidak mungkin menjadi orang lain, jadi situasinya selalu imajiner → **were**.\n- Main clause memakai **would/'d + V1**, bukan *will*: ~~If I were you, I will ...~~\n- Jangan tambahkan *to*: ~~I'd to call her~~ → *I'd call her*.\n- Gunakan koma setelah *If I were you* jika frasa itu di awal kalimat.",
+        "examples": [
+          {
+            "en": "If I were you, I'd talk to your teacher about the problem.",
+            "id": "Kalau aku jadi kamu, aku akan bicara dengan gurumu tentang masalah itu.",
+            "note": "Saran positif."
+          },
+          {
+            "en": "If I were you, I wouldn't lend him any more money.",
+            "id": "Kalau aku jadi kamu, aku tidak akan meminjamkan uang lagi kepadanya.",
+            "note": "Saran negatif: wouldn't + V1."
+          },
+          {
+            "en": "If she were more confident, she would speak in meetings.",
+            "id": "Seandainya dia lebih percaya diri, dia akan berbicara dalam rapat.",
+            "note": "were untuk she."
+          },
+          {
+            "en": "I'd make an appointment with the dentist if I were you.",
+            "id": "Aku akan membuat janji dengan dokter gigi kalau aku jadi kamu.",
+            "note": "If-clause di belakang, tanpa koma."
+          },
+          {
+            "en": "If it were warmer, we could eat outside.",
+            "id": "Seandainya cuacanya lebih hangat, kita bisa makan di luar.",
+            "note": "were juga untuk it."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "advice",
+            "pos": "noun (uncountable)",
+            "ipa": "/ədˈvaɪs/",
+            "meaning": "saran; nasihat",
+            "example": "Can I give you some advice?"
+          },
+          {
+            "word": "advise",
+            "pos": "verb",
+            "ipa": "/ədˈvaɪz/",
+            "meaning": "menyarankan; menasihati",
+            "example": "My doctor advised me to rest."
+          },
+          {
+            "word": "apologise",
+            "pos": "verb",
+            "ipa": "/əˈpɒlədʒaɪz/",
+            "meaning": "meminta maaf",
+            "example": "If I were you, I'd apologise to her."
+          },
+          {
+            "word": "appointment",
+            "pos": "noun",
+            "ipa": "/əˈpɔɪntmənt/",
+            "meaning": "janji temu (dengan dokter, dll.)",
+            "example": "I've made an appointment for Tuesday."
+          },
+          {
+            "word": "confident",
+            "pos": "adjective",
+            "ipa": "/ˈkɒnfɪdənt/",
+            "meaning": "percaya diri",
+            "example": "If he were more confident, he'd join the drama club."
+          },
+          {
+            "word": "honest",
+            "pos": "adjective",
+            "ipa": "/ˈɒnɪst/",
+            "meaning": "jujur",
+            "example": "If I were you, I'd be honest with him."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "If I were you, I'd / I would + V1",
+            "example": "If I were you, I'd take the job.",
+            "note": "Saran positif."
+          },
+          {
+            "pattern": "If I were you, I wouldn't + V1",
+            "example": "If I were you, I wouldn't drive in this rain.",
+            "note": "Saran negatif."
+          },
+          {
+            "pattern": "If + he/she/it/I + were + adjective/noun, ...",
+            "example": "If it were sunny, we would go hiking.",
+            "note": "were untuk semua subject dalam bentuk formal."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "If I am you, I would call her.",
+            "right": "If I were you, I would call her.",
+            "why": "Situasi ini imajiner (kamu bukan orang lain), jadi pakai were."
+          },
+          {
+            "wrong": "If I were you, I will take a taxi.",
+            "right": "If I were you, I would take a taxi.",
+            "why": "Main clause second conditional memakai would, bukan will."
+          },
+          {
+            "wrong": "If I were you, I'd to buy the blue one.",
+            "right": "If I were you, I'd buy the blue one.",
+            "why": "Setelah would/'d langsung V1 tanpa to."
+          },
+          {
+            "wrong": "Can you give me an advice?",
+            "right": "Can you give me some advice?",
+            "why": "Advice adalah uncountable noun, jadi tidak memakai an."
+          }
+        ],
+        "summary": "In the second conditional we use **were** for all subjects: *If I were..., If she were...* The fixed phrase **If I were you, I'd / I wouldn't + V1** adalah cara yang ramah untuk memberi saran. Jangan pakai *If I am you* atau *will* di main clause.",
+        "reviewCards": [
+          {
+            "front": "If I ___ you, I'd see a doctor.",
+            "back": "were — If I were you, I'd see a doctor."
+          },
+          {
+            "front": "Saran negatif dengan If I were you",
+            "back": "If I were you, I wouldn't + V1 — If I were you, I wouldn't buy it."
+          },
+          {
+            "front": "advice vs advise",
+            "back": "advice = noun (saran, uncountable); advise = verb (menyarankan)"
+          },
+          {
+            "front": "If it ___ cheaper, I'd buy it.",
+            "back": "were (bentuk formal untuk semua subject)"
+          },
+          {
+            "front": "Kalau aku jadi kamu, aku akan minta maaf.",
+            "back": "If I were you, I'd apologise."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u05-l2-q1",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "if I were you",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the best advice to complete the conversation.",
+          "dialogue": [
+            { "speaker": "Rina", "text": "I've had a terrible toothache for three days, but I'm scared of dentists." },
+            { "speaker": "Bayu", "text": null },
+            { "speaker": "Rina", "text": "You're right. I'll call the clinic now." }
+          ],
+          "options": [
+            "If I were you, I'd make an appointment today.",
+            "If I am you, I make an appointment today.",
+            "If I were you, I'd made an appointment today.",
+            "If I were you, I will make an appointment today."
+          ],
+          "answer": 0,
+          "explanation": "Pola saran: **If I were you, I'd + V1**. *If I am you* salah, *I'd made* salah (harus V1), dan *will* tidak dipakai dengan *If I were you*."
+        },
+        {
+          "id": "b1-u05-l2-q2",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "if I were you",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Translate into English. Use If I were you.",
+          "source": "Kalau aku jadi kamu, aku akan menabung uang itu.",
+          "direction": "id-en",
+          "answers": [
+            "If I were you, I would save the money.",
+            "If I were you, I'd save the money.",
+            "If I were you, I would save that money.",
+            "If I were you, I'd save that money.",
+            "I would save the money if I were you.",
+            "I'd save the money if I were you.",
+            "I would save that money if I were you.",
+            "I'd save that money if I were you."
+          ],
+          "explanation": "Saran memakai **If I were you, I would/I'd + V1**. *Menabung* = *save*. The if-clause can also come at the end: *I'd save the money if I were you.*"
+        },
+        {
+          "id": "b1-u05-l2-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "were in second conditional",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the verbs in brackets.",
+          "instructions": "Gunakan bentuk formal **were** untuk be, dan would di main clause.",
+          "text": "Tari is quite short. If she ___ (be) taller, she ___ (join) the basketball team.",
+          "answers": [["were"], ["would join", "'d join"]],
+          "explanation": "Bentuk formal second conditional memakai **were** untuk semua subject: *If she were taller*. Main clause: *would join* / *she'd join*. (Dalam percakapan santai orang juga berkata *If she was taller*, tetapi di sini kita berlatih bentuk formal.)"
+        },
+        {
+          "id": "b1-u05-l2-q4",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "if I were you",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "If I were you, I will call her and apologise.",
+          "answers": [
+            "If I were you, I would call her and apologise.",
+            "If I were you, I'd call her and apologise.",
+            "If I were you, I would call her and apologize.",
+            "If I were you, I'd call her and apologize."
+          ],
+          "explanation": "Setelah *If I were you* (situasi imajiner), main clause memakai **would/'d + V1**, bukan *will*."
+        },
+        {
+          "id": "b1-u05-l2-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "if I were you",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "My laptop is very slow and it's eight years old. — ___, I'd buy a new one.",
+          "options": ["If I were you", "If I am you", "If I would be you", "If I will be you"],
+          "answer": 0,
+          "explanation": "Frasa tetap untuk saran adalah **If I were you**. Would dan will tidak dipakai di if-clause, dan *am* salah karena situasinya imajiner."
+        },
+        {
+          "id": "b1-u05-l2-q6",
+          "type": "matching",
+          "category": "conversation",
+          "topic": "giving advice",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Match each problem with the best advice.",
+          "pairs": [
+            { "left": "I'm always tired in the morning.", "right": "If I were you, I'd go to bed earlier." },
+            { "left": "I don't understand my maths homework.", "right": "If I were you, I'd ask the teacher for help." },
+            { "left": "My phone screen is broken.", "right": "If I were you, I'd take it to a repair shop." },
+            { "left": "I spend all my money in the first week of the month.", "right": "If I were you, I'd make a budget." }
+          ],
+          "explanation": "Setiap saran memakai pola **If I were you, I'd + V1** dan cocok dengan masalahnya: tired → sleep earlier, homework → ask the teacher, broken screen → repair shop, money → make a budget."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u05-l3-i-wish",
+      "title": "I Wish: Wishes About the Present",
+      "summary": "Mengungkapkan keinginan tentang situasi sekarang yang tidak nyata dengan I wish + past simple / were / could.",
+      "estimatedMinutes": 18,
+      "objectives": [
+        "Membentuk kalimat I wish + past simple untuk keinginan tentang masa sekarang",
+        "Memakai were dan could setelah wish",
+        "Membedakan wish dan hope"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mengungkapkan keinginan tentang sekarang\nKita memakai **I wish + past simple** untuk mengatakan bahwa kita ingin situasi **sekarang** berbeda. The situation is not true now, so we use a past form — sama seperti di second conditional.\n- *I wish I had a car.* (Saya tidak punya mobil. Seandainya punya.)\n- *I wish I lived near my office.* (Kenyataannya saya tinggal jauh.)\n- *I wish I were taller.* (Saya tidak tinggi.)\n\n### Form\n| Kenyataan (reality) | Wish |\n|---|---|\n| I don't have a garden. | I wish I **had** a garden. |\n| My flat is small. | I wish my flat **were** bigger. |\n| I can't swim. | I wish I **could** swim. |\n| She lives far away. | I wish she **lived** nearer. |\n| I have to work today. | I wish I **didn't have to** work today. |\n\nPerhatikan polanya: positive ↔ negative. If the reality is negative, the wish is positive, and if the reality is positive, the wish is negative.\n\n### were dan could\n- Seperti di second conditional, **were** bisa dipakai untuk semua subject: *I wish he were here.* (In informal English, people also say *I wish he was here*.)\n- **can → could**: *I can't drive* → *I wish I could drive.*\n\n### wish vs hope\n**Hope** is for things that are possible or still unknown: *I hope you pass the exam.* (mungkin terjadi). **Wish** is for things that are unreal now: *I wish I were ten years younger.* Jangan katakan ~~I wish you pass the exam~~.\n\n| hope | wish |\n|---|---|\n| real possibility | unreal / impossible now |\n| I hope it's sunny tomorrow. | I wish it were sunny today. (it's raining) |\n\n### Subject lain\n*She wishes she knew the answer.* *My parents wish they had more free time.* Ingat: **wish** sendiri tetap mengikuti present simple (*she wishes*, dengan -es), tetapi kata kerja setelahnya memakai bentuk past.\n\n### Padanan bahasa Indonesia\n\"Seandainya ...\" atau \"Andai saja ...\" sering menjadi padanan *I wish*. Example: *Andai saja aku bisa bahasa Jepang* = *I wish I could speak Japanese.* In this lesson we only use wish for the **present**; wishes about the past use a different structure that you will learn later.",
+        "examples": [
+          {
+            "en": "I wish I lived closer to my family.",
+            "id": "Andai saja saya tinggal lebih dekat dengan keluarga saya.",
+            "note": "Reality: I live far from my family."
+          },
+          {
+            "en": "I wish I could speak Japanese.",
+            "id": "Seandainya saya bisa berbahasa Jepang.",
+            "note": "can't → could."
+          },
+          {
+            "en": "Maya wishes she were more confident.",
+            "id": "Maya berharap dia lebih percaya diri.",
+            "note": "she wishes + were."
+          },
+          {
+            "en": "I wish it weren't so crowded here.",
+            "id": "Andai saja di sini tidak terlalu ramai.",
+            "note": "Reality: it is very crowded."
+          },
+          {
+            "en": "We wish we didn't have to wear a uniform.",
+            "id": "Andai saja kami tidak harus memakai seragam.",
+            "note": "have to → didn't have to."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "wish",
+            "pos": "verb / noun",
+            "ipa": "/wɪʃ/",
+            "meaning": "berharap (sesuatu yang tidak nyata); keinginan",
+            "example": "I wish I had a bigger room."
+          },
+          {
+            "word": "lonely",
+            "pos": "adjective",
+            "ipa": "/ˈləʊnli/",
+            "meaning": "kesepian",
+            "example": "She feels lonely in the new city."
+          },
+          {
+            "word": "jealous",
+            "pos": "adjective",
+            "ipa": "/ˈdʒeləs/",
+            "meaning": "iri; cemburu",
+            "example": "He's jealous of his brother's new motorbike."
+          },
+          {
+            "word": "complain",
+            "pos": "verb",
+            "ipa": "/kəmˈpleɪn/",
+            "meaning": "mengeluh",
+            "example": "My neighbours always complain about the noise."
+          },
+          {
+            "word": "crowded",
+            "pos": "adjective",
+            "ipa": "/ˈkraʊdɪd/",
+            "meaning": "ramai; penuh sesak",
+            "example": "The train is always crowded in the morning."
+          },
+          {
+            "word": "talent",
+            "pos": "noun",
+            "ipa": "/ˈtælənt/",
+            "meaning": "bakat",
+            "example": "I wish I had a talent for music."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + wish(es) + subject + past simple",
+            "example": "I wish I knew his phone number.",
+            "note": "Reality: I don't know his number."
+          },
+          {
+            "pattern": "Subject + wish(es) + subject + were + adjective/noun",
+            "example": "I wish my job were more interesting.",
+            "note": "were untuk semua subject."
+          },
+          {
+            "pattern": "Subject + wish(es) + subject + could + V1",
+            "example": "Dimas wishes he could play the piano.",
+            "note": "Untuk kemampuan: can't → could."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "I wish I have a bigger house.",
+            "right": "I wish I had a bigger house.",
+            "why": "Setelah wish (tentang sekarang) pakai past simple."
+          },
+          {
+            "wrong": "I wish I can drive.",
+            "right": "I wish I could drive.",
+            "why": "can berubah menjadi could setelah wish."
+          },
+          {
+            "wrong": "I wish you pass your exam tomorrow.",
+            "right": "I hope you pass your exam tomorrow.",
+            "why": "Untuk hal yang mungkin terjadi, pakai hope, bukan wish."
+          },
+          {
+            "wrong": "She wish she lived in the city.",
+            "right": "She wishes she lived in the city.",
+            "why": "Wish mengikuti aturan present simple: she wishes."
+          }
+        ],
+        "summary": "**I wish + past simple / were / could** expresses a wish about the present that is not true. Kenyataan negatif menjadi wish positif, dan sebaliknya. Use **hope** for real possibilities and **wish** for unreal situations.",
+        "reviewCards": [
+          {
+            "front": "I can't swim. → I wish ...",
+            "back": "I wish I could swim."
+          },
+          {
+            "front": "My room is small. → I wish ...",
+            "back": "I wish my room were (was) bigger."
+          },
+          {
+            "front": "wish vs hope",
+            "back": "hope = mungkin terjadi (I hope you win); wish = tidak nyata sekarang (I wish I were rich)"
+          },
+          {
+            "front": "I have to get up early. → I wish ...",
+            "back": "I wish I didn't have to get up early."
+          },
+          {
+            "front": "Andai saja aku punya lebih banyak teman.",
+            "back": "I wish I had more friends."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u05-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "I wish + past simple",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "I live in a very small flat. I wish I ___ in a bigger house.",
+          "options": ["lived", "live", "will live", "have lived"],
+          "answer": 0,
+          "explanation": "Keinginan tentang **sekarang** yang tidak nyata memakai **wish + past simple**: *I wish I lived in a bigger house.*",
+          "misconception": "Past simple setelah wish tidak berarti masa lalu."
+        },
+        {
+          "id": "b1-u05-l3-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "I wish + could",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Write a wish about the situation.",
+          "sentence": "I can't speak French.",
+          "cue": "Begin with: I wish ...",
+          "answers": ["I wish I could speak French."],
+          "explanation": "Untuk kemampuan, **can't** menjadi **could** setelah wish: *I wish I could speak French.* The reality is negative, so the wish is positive."
+        },
+        {
+          "id": "b1-u05-l3-q3",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "I wish + past simple",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Maya feels lonely at her new school. She wishes she ___ more friends there, and she wishes her best friend ___ nearer.",
+          "bank": ["had", "has", "lived", "lives", "will have"],
+          "answers": ["had", "lived"],
+          "explanation": "Setelah **wish** untuk situasi sekarang, kita pakai past simple: *she wishes she had*, *her best friend lived*. *Has*, *lives*, dan *will have* tidak dipakai setelah wish."
+        },
+        {
+          "id": "b1-u05-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "I wish + were",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["I wish", "my brother", "is", "here with us now."],
+          "errorIndex": 2,
+          "correction": "were",
+          "explanation": "Setelah wish, *is* berubah menjadi past: **were** (atau *was* dalam bahasa informal). *I wish my brother were here with us now.*"
+        },
+        {
+          "id": "b1-u05-l3-q5",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "I wish + past simple",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into Indonesian.",
+          "source": "I wish I had more time to read.",
+          "direction": "en-id",
+          "answers": [
+            "Seandainya saya punya lebih banyak waktu untuk membaca.",
+            "Andai saja saya punya lebih banyak waktu untuk membaca.",
+            "Andai saya punya lebih banyak waktu untuk membaca.",
+            "Seandainya aku punya lebih banyak waktu untuk membaca.",
+            "Andai saja aku punya lebih banyak waktu untuk membaca.",
+            "Andai aku punya lebih banyak waktu untuk membaca.",
+            "Seandainya saya memiliki lebih banyak waktu untuk membaca.",
+            "Andai saja saya memiliki lebih banyak waktu untuk membaca.",
+            "Saya berharap saya punya lebih banyak waktu untuk membaca.",
+            "Aku berharap aku punya lebih banyak waktu untuk membaca.",
+            "Saya berharap punya lebih banyak waktu untuk membaca.",
+            "Aku berharap punya lebih banyak waktu untuk membaca."
+          ],
+          "explanation": "*I wish + past simple* = \"Seandainya / Andai saja ...\". The speaker does not have much time now. *Had* di sini bukan masa lalu."
+        },
+        {
+          "id": "b1-u05-l3-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "I wish",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all the correct answers.",
+          "options": [
+            "I wish I were taller.",
+            "I wish I can drive.",
+            "She wishes she knew the answer.",
+            "We wish we have a garden.",
+            "They wish they lived by the sea."
+          ],
+          "answers": [0, 2, 4],
+          "explanation": "Setelah wish pakai past: *were*, *knew*, *lived*. *I wish I can drive* → *could drive*; *We wish we have* → *had*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u05-l4-first-vs-second",
+      "title": "First or Second Conditional?",
+      "summary": "Membedakan situasi nyata (first conditional) dan situasi imajiner (second conditional).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan first conditional (real) dan second conditional (imaginary)",
+        "Memilih conditional berdasarkan konteks dan pendapat pembicara",
+        "Menghindari pencampuran bentuk will/would yang salah"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Real or imaginary?\nKamu sekarang sudah tahu dua conditional dengan *if* untuk masa sekarang dan masa depan. The difference is not about time — keduanya bisa membicarakan masa depan. The difference is **how real or likely** the situation is.\n\n| | First conditional | Second conditional |\n|---|---|---|\n| Form | If + present simple, will + V1 | If + past simple, would + V1 |\n| Meaning | real, possible (mungkin terjadi) | imaginary, unlikely (khayalan / kecil kemungkinan) |\n| Example | If I see Rina, I'll tell her. | If I saw a lion in the street, I'd run. |\n\n### Situasi yang sama, makna berbeda\nThe speaker chooses the conditional based on what he or she believes.\n- *If I get the job, I'll move to Port Selwyn.* → Saya sudah melamar dan peluangnya nyata.\n- *If I got the job, I'd move to Port Selwyn.* → Saya merasa peluangnya kecil, atau saya hanya berandai-andai.\n\nBoth sentences are grammatically correct, so the **context** tells you which one is better.\n\n### Petunjuk dari konteks\n| Konteks | Pilih |\n|---|---|\n| Plans and likely events (*I have an interview tomorrow*) | First |\n| Facts that are not true now (*I don't have a car*) | Second |\n| Impossible things (*If I were a cat ...*) | Second |\n| Dreams with a very small chance (*win the lottery*) | Usually second |\n\n### Jangan mencampur bentuk\nPasangannya harus konsisten: **present + will** atau **past + would**.\n- ~~If it rains, I would stay at home.~~ → *If it rains, I'll stay at home.*\n- ~~If I had time, I will help you.~~ → *If I had time, I'd help you.*\n\n### Pertanyaan\n- *What will you do if it rains on Saturday?* (a real plan — hujan benar-benar mungkin)\n- *What would you do if you were the president?* (imaginary — hanya berandai-andai)\n\n### Tips\nAsk yourself: \"Is this true or possible in real life?\" Jika jawabannya *ya, mungkin terjadi* → first conditional. Jika jawabannya *tidak, ini bukan kenyataan* atau *hampir tidak mungkin* → second conditional. Look for clues in the sentence before or after the conditional, for example *I don't have...*, *I've applied for...*, or *It's impossible, but...*.",
+        "examples": [
+          {
+            "en": "If it rains tomorrow, we'll cancel the picnic.",
+            "id": "Kalau besok hujan, kami akan membatalkan piknik.",
+            "note": "First: hujan besok benar-benar mungkin."
+          },
+          {
+            "en": "If I were a bird, I'd fly over the mountains.",
+            "id": "Seandainya aku seekor burung, aku akan terbang di atas pegunungan.",
+            "note": "Second: tidak mungkin."
+          },
+          {
+            "en": "If Raka passes his driving test, he'll drive us to the beach.",
+            "id": "Kalau Raka lulus ujian mengemudi, dia akan mengantar kami ke pantai.",
+            "note": "First: dia akan ikut ujian."
+          },
+          {
+            "en": "If I had a bigger kitchen, I'd invite all my friends for dinner.",
+            "id": "Seandainya dapurku lebih besar, aku akan mengundang semua temanku makan malam.",
+            "note": "Second: dapurnya kecil."
+          },
+          {
+            "en": "What will you do if the shop is closed?",
+            "id": "Apa yang akan kamu lakukan kalau tokonya tutup?",
+            "note": "First: real question about a possible problem."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "likely",
+            "pos": "adjective",
+            "ipa": "/ˈlaɪkli/",
+            "meaning": "mungkin terjadi; besar kemungkinannya",
+            "example": "It's likely to rain this afternoon."
+          },
+          {
+            "word": "possibility",
+            "pos": "noun",
+            "ipa": "/ˌpɒsəˈbɪləti/",
+            "meaning": "kemungkinan",
+            "example": "There's a possibility that the meeting will be cancelled."
+          },
+          {
+            "word": "chance",
+            "pos": "noun",
+            "ipa": "/tʃɑːns/",
+            "meaning": "peluang; kesempatan",
+            "example": "I don't think I have much chance of winning."
+          },
+          {
+            "word": "hypothetical",
+            "pos": "adjective",
+            "ipa": "/ˌhaɪpəˈθetɪkl/",
+            "meaning": "hipotetis; berandai-andai",
+            "example": "It's only a hypothetical question."
+          },
+          {
+            "word": "realistic",
+            "pos": "adjective",
+            "ipa": "/ˌrɪəˈlɪstɪk/",
+            "meaning": "realistis; masuk akal",
+            "example": "Is it realistic to finish the project by Friday?"
+          },
+          {
+            "word": "apply for",
+            "pos": "phrasal verb",
+            "ipa": "/əˈplaɪ fə/",
+            "meaning": "melamar (pekerjaan, beasiswa)",
+            "example": "She has applied for a job at the museum."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "If + present simple, will + V1 (real)",
+            "example": "If you study, you'll pass.",
+            "note": "Situasi nyata/mungkin."
+          },
+          {
+            "pattern": "If + past simple, would + V1 (imaginary)",
+            "example": "If I lived on the moon, I'd miss my family.",
+            "note": "Situasi imajiner/tidak mungkin."
+          },
+          {
+            "pattern": "What will you do if ...? / What would you do if ...?",
+            "example": "What would you do if you met a famous singer?",
+            "note": "Pilih sesuai seberapa nyata situasinya."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "If it rains tomorrow, I would stay at home.",
+            "right": "If it rains tomorrow, I'll stay at home.",
+            "why": "If + present simple berpasangan dengan will, bukan would."
+          },
+          {
+            "wrong": "If I had more time, I will help you.",
+            "right": "If I had more time, I would help you.",
+            "why": "If + past simple berpasangan dengan would."
+          },
+          {
+            "wrong": "If I am a bird, I will fly to Bali.",
+            "right": "If I were a bird, I would fly to Bali.",
+            "why": "Menjadi burung tidak mungkin, jadi pakai second conditional."
+          },
+          {
+            "wrong": "If he will call, I'll tell him the news.",
+            "right": "If he calls, I'll tell him the news.",
+            "why": "If-clause first conditional memakai present simple, bukan will."
+          }
+        ],
+        "summary": "**First conditional** (If + present, will) = real or likely situations. **Second conditional** (If + past, would) = imaginary or unlikely situations. Pilih berdasarkan konteks, dan jangan mencampur *present + would* atau *past + will*.",
+        "reviewCards": [
+          {
+            "front": "First conditional",
+            "back": "If + present simple, will + V1 — situasi nyata/mungkin."
+          },
+          {
+            "front": "Second conditional",
+            "back": "If + past simple, would + V1 — situasi imajiner/kecil kemungkinannya."
+          },
+          {
+            "front": "If I get the job vs If I got the job",
+            "back": "get → peluang nyata; got → berandai-andai, peluang kecil."
+          },
+          {
+            "front": "If it rains, I ___ stay at home.",
+            "back": "'ll / will (bukan would)"
+          },
+          {
+            "front": "Pertanyaan kunci untuk memilih",
+            "back": "Is this true or possible in real life? Yes → first; No → second."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u05-l4-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "first vs second conditional",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct form for each sentence.",
+          "instructions": "Kalimat pertama: situasi nyata. Kalimat kedua: situasi imajiner.",
+          "text": "If it rains tomorrow, we ___ the picnic. If I ___ a million dollars, I would travel around the world.",
+          "choices": [
+            ["will cancel", "would cancel", "cancelled"],
+            ["win", "won", "will win"]
+          ],
+          "answers": [0, 1],
+          "explanation": "Hujan besok adalah kemungkinan nyata → **If + present, will**: *we will cancel*. Winning a million dollars is imaginary → **If + past, would**: *If I won...*"
+        },
+        {
+          "id": "b1-u05-l4-q2",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "second conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": ["If I had a bigger kitchen,", "I would invite", "all my friends", "for dinner every week."],
+          "acceptedAnswers": ["I would invite all my friends for dinner every week if I had a bigger kitchen."],
+          "explanation": "Second conditional: **If + past simple, would + V1**. The kitchen is not big now, so the situation is imaginary."
+        },
+        {
+          "id": "b1-u05-l4-q3",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "first vs second conditional",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Answer both questions aloud in 3–4 sentences: (1) What will you do if you have free time this weekend? (2) What would you do if you didn't have to work or study for a whole year?",
+          "instructions": "Pertanyaan 1 = rencana nyata (first conditional). Pertanyaan 2 = situasi imajiner (second conditional).",
+          "targetPhrases": ["If I have free time,", "I'll", "If I didn't have to", "I'd"],
+          "sampleAnswer": "If I have free time this weekend, I'll visit my grandmother and I'll probably watch a film. If I didn't have to work for a whole year, I'd travel around Asia. I'd also learn to cook properly, and I might write a blog about my trips.",
+          "explanation": "Jawaban pertama memakai **If + present, will** karena akhir pekan ini nyata. The second answer uses **If + past, would/might** because a year without work is imaginary."
+        },
+        {
+          "id": "b1-u05-l4-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "first vs second conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentence talks about an imaginary situation?",
+          "options": [
+            "If I see Tom, I'll give him your message.",
+            "If I lived on the moon, I would miss my family.",
+            "If you heat ice, it melts.",
+            "If she calls, I'll tell you."
+          ],
+          "answer": 1,
+          "explanation": "Hanya *If I lived on the moon, I would miss my family* yang imajiner (second conditional). The others are real situations: first conditional or zero conditional (a general fact)."
+        },
+        {
+          "id": "b1-u05-l4-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "first vs second conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete each sentence with the correct form of the verb in brackets.",
+          "text": "Real: Dimas has a job interview tomorrow. If he ___ (get) the job, he'll buy a motorbike. Imaginary: Raka doesn't have a car. If he ___ (have) a car, he would drive to work.",
+          "answers": [["gets"], ["had"]],
+          "explanation": "Situasi nyata → first conditional: *If he gets the job, he'll...* Situasi imajiner (Raka tidak punya mobil) → second conditional: *If he had a car, he would...*"
+        },
+        {
+          "id": "b1-u05-l4-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "second conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Write the correct form of the verb 'see' (one word): \"There are no tigers in our town, but if I ___ a tiger in the street, I would run!\"",
+          "answers": ["saw"],
+          "explanation": "Melihat harimau di jalan adalah situasi imajiner, dan main clause memakai *would* → if-clause memakai past simple: **saw**."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u05-l5-money-and-dreams",
+      "title": "Money and Dreams",
+      "summary": "Kosakata uang (earn, save, afford, borrow, lend, owe, budget) untuk membicarakan impian dan situasi hipotetis.",
+      "estimatedMinutes": 22,
+      "objectives": [
+        "Memakai kata kerja tentang uang dengan tepat: earn, save, spend, afford, borrow, lend, owe",
+        "Membedakan borrow dan lend",
+        "Membicarakan impian dan situasi hipotetis tentang uang dengan second conditional dan I wish"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Talking about money\nTopik uang sangat cocok untuk berlatih second conditional, karena kita sering berandai-andai: *If I had more money...* Here are the key verbs.\n\n| Verb | Arti | Contoh |\n|---|---|---|\n| earn | mendapat (gaji/penghasilan) | She earns a good salary. |\n| save (up) | menabung | I'm saving up for a laptop. |\n| spend | membelanjakan; menghabiskan | He spends too much on clothes. |\n| afford | mampu membayar | We can't afford a new car. |\n| borrow | meminjam (dari) | Can I borrow some money from you? |\n| lend | meminjamkan (kepada) | Could you lend me some money? |\n| owe | berutang | I owe my brother 100,000 rupiah. |\n\n### borrow vs lend\nIni kesalahan klasik bagi pelajar Indonesia karena keduanya sering diterjemahkan \"pinjam\". **Borrow** = you *take* something for a short time: *I borrowed a book from Maya.* **Lend** = you *give* something for a short time: *Maya lent me a book.* (lend – lent – lent). Ingat polanya: *borrow something FROM someone*; *lend someone something* atau *lend something TO someone*.\n\n### afford\n**Afford** is usually used with *can / can't / could*: *I can't afford a holiday this year. If I earned more, I could afford a bigger flat.* Setelah afford bisa ada noun atau to-infinitive: *We can't afford to eat out every day.*\n\n### Dreams and hypothetical situations\nUseful expressions:\n- *win the lottery* – menang lotre\n- *become a millionaire* – menjadi jutawan\n- *give money to charity* – menyumbang ke badan amal\n- *make a budget* – membuat anggaran\n- *pay back* – membayar kembali (utang)\n\n*If I won the lottery, I'd pay back the money I owe and give some to charity.*\n*If I made a budget, I wouldn't spend so much on snacks.*\n\n### Wishes about money\nGabungkan dengan *I wish* dari pelajaran sebelumnya: *I wish I earned more.* *I wish I didn't owe so much money.* *I wish I could afford a new phone.*\n\n### Strategi bicara\nWhen someone asks *What would you do if you were rich?*, answer with two or three ideas and connect them: *First, I'd ... Then I'd ... But I wouldn't ... because ...* Ini membuat jawabanmu lebih panjang, runtut, dan terdengar alami. Remember to keep the form consistent: past simple in the if-clause, would in the main clause.",
+        "examples": [
+          {
+            "en": "If I earned more, I could afford a bigger flat.",
+            "id": "Seandainya penghasilan saya lebih besar, saya bisa membeli/menyewa flat yang lebih besar.",
+            "note": "earn + afford dalam second conditional."
+          },
+          {
+            "en": "Could you lend me 20,000 rupiah until Friday?",
+            "id": "Bisakah kamu meminjamkan saya 20.000 rupiah sampai hari Jumat?",
+            "note": "lend someone something."
+          },
+          {
+            "en": "I borrowed my dad's camera for the trip.",
+            "id": "Saya meminjam kamera ayah saya untuk perjalanan itu.",
+            "note": "borrow = mengambil pinjaman."
+          },
+          {
+            "en": "If I won the lottery, I'd give some money to charity.",
+            "id": "Seandainya saya menang lotre, saya akan menyumbangkan sebagian uang ke badan amal.",
+            "note": "Impian dengan peluang sangat kecil → second conditional."
+          },
+          {
+            "en": "I wish I didn't owe my sister so much money.",
+            "id": "Andai saja saya tidak berutang begitu banyak kepada kakak saya.",
+            "note": "Reality: I owe her a lot."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "afford",
+            "pos": "verb",
+            "ipa": "/əˈfɔːd/",
+            "meaning": "mampu membayar/membeli",
+            "example": "We can't afford a holiday abroad this year."
+          },
+          {
+            "word": "borrow",
+            "pos": "verb",
+            "ipa": "/ˈbɒrəʊ/",
+            "meaning": "meminjam (dari seseorang)",
+            "example": "Can I borrow your pen?"
+          },
+          {
+            "word": "lend",
+            "pos": "verb",
+            "ipa": "/lend/",
+            "meaning": "meminjamkan (kepada seseorang)",
+            "example": "My uncle lent me his car for the weekend."
+          },
+          {
+            "word": "owe",
+            "pos": "verb",
+            "ipa": "/əʊ/",
+            "meaning": "berutang",
+            "example": "You still owe me 50,000 rupiah."
+          },
+          {
+            "word": "earn",
+            "pos": "verb",
+            "ipa": "/ɜːn/",
+            "meaning": "mendapat (uang dari bekerja)",
+            "example": "How much does a nurse earn in your country?"
+          },
+          {
+            "word": "budget",
+            "pos": "noun",
+            "ipa": "/ˈbʌdʒɪt/",
+            "meaning": "anggaran",
+            "example": "We need to make a budget for the trip."
+          },
+          {
+            "word": "save up",
+            "pos": "phrasal verb",
+            "ipa": "/seɪv ˈʌp/",
+            "meaning": "menabung (untuk membeli sesuatu)",
+            "example": "She's saving up for a new bike."
+          },
+          {
+            "word": "win the lottery",
+            "pos": "phrase",
+            "ipa": "/wɪn ðə ˈlɒtəri/",
+            "meaning": "menang lotre",
+            "example": "What would you do if you won the lottery?"
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "borrow + something + from + someone",
+            "example": "I borrowed some money from my friend.",
+            "note": "Kamu yang menerima pinjaman."
+          },
+          {
+            "pattern": "lend + someone + something / lend + something + to + someone",
+            "example": "My friend lent me some money. / My friend lent some money to me.",
+            "note": "Kamu yang memberi pinjaman."
+          },
+          {
+            "pattern": "can/can't/could + afford + noun / to + V1",
+            "example": "If I saved more, I could afford to travel.",
+            "note": "afford biasanya bersama can/could."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Can you borrow me your bike?",
+            "right": "Can you lend me your bike?",
+            "why": "Orang yang memberi pinjaman memakai lend, bukan borrow."
+          },
+          {
+            "wrong": "I can't afford buying a new car.",
+            "right": "I can't afford to buy a new car.",
+            "why": "afford diikuti noun atau to + V1."
+          },
+          {
+            "wrong": "If I won the lottery, I will buy a big house.",
+            "right": "If I won the lottery, I would buy a big house.",
+            "why": "If + past simple berpasangan dengan would."
+          },
+          {
+            "wrong": "He lended me his notes.",
+            "right": "He lent me his notes.",
+            "why": "lend adalah irregular verb: lend – lent – lent."
+          }
+        ],
+        "summary": "Key money verbs: **earn, save (up), spend, afford, borrow, lend, owe**. Ingat: *borrow FROM*, *lend TO*. Use the second conditional and *I wish* to talk about money dreams: *If I won the lottery, I'd ...*; *I wish I could afford ...*",
+        "reviewCards": [
+          {
+            "front": "borrow vs lend",
+            "back": "borrow = meminjam (dari); lend = meminjamkan (kepada). Lend – lent – lent."
+          },
+          {
+            "front": "afford",
+            "back": "mampu membayar — I can't afford a new phone / I can't afford to travel."
+          },
+          {
+            "front": "owe",
+            "back": "berutang — I owe you 10,000 rupiah."
+          },
+          {
+            "front": "If I won the lottery, I ___ ...",
+            "back": "would/'d + V1 — I'd buy a house for my parents."
+          },
+          {
+            "front": "save up for",
+            "back": "menabung untuk — I'm saving up for a laptop."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u05-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "borrow vs lend",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the word that fits: \"My sister ___ me 50,000 rupiah last week, so now I owe her money.\"",
+          "options": ["lent", "borrowed", "earned", "afforded"],
+          "answer": 0,
+          "explanation": "Kakak yang **memberi** pinjaman → *lend* (past: **lent**). *Borrowed me* is wrong because borrow means \"to take\" money from someone."
+        },
+        {
+          "id": "b1-u05-l5-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "money verbs",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "afford", "right": "to have enough money to pay for something" },
+            { "left": "earn", "right": "to get money for the work you do" },
+            { "left": "owe", "right": "to have to pay back money to someone" },
+            { "left": "budget", "right": "a plan for how to spend your money" },
+            { "left": "save up", "right": "to keep money so that you can buy something later" }
+          ],
+          "explanation": "afford = mampu membayar; earn = mendapat uang dari kerja; owe = berutang; budget = anggaran; save up = menabung untuk sesuatu."
+        },
+        {
+          "id": "b1-u05-l5-q3",
+          "type": "essay",
+          "category": "writing",
+          "topic": "money dreams",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Imagine you won a big prize of money. What would you do with it? Write a paragraph.",
+          "instructions": "Gunakan minimal tiga kalimat second conditional dan dua kata tentang uang dari pelajaran ini (misalnya afford, save, lend, owe, budget). Include one thing you wouldn't do.",
+          "minWords": 60,
+          "maxWords": 120,
+          "rubric": "general-writing",
+          "explanation": "Contoh kalimat: *If I won a big prize, I'd pay back the money I owe my parents. I'd save half of it, and I wouldn't spend it all on clothes.* Pastikan if-clause memakai past simple dan main clause memakai would/could/might."
+        },
+        {
+          "id": "b1-u05-l5-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "afford",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the word that fits: \"Hotels are very expensive this year. We can't ___ a holiday abroad, so we're going to stay at home.\"",
+          "options": ["afford", "borrow", "owe", "lend"],
+          "answer": 0,
+          "explanation": "**Can't afford** = tidak mampu membayar. *Borrow/lend/owe a holiday* tidak bermakna dalam konteks ini."
+        },
+        {
+          "id": "b1-u05-l5-q5",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "money and second conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "If I ___ the lottery, I would pay back all the money I ___ to my parents, and I would ___ the rest for my children's education.",
+          "bank": ["won", "owe", "save", "earned", "lend", "borrow"],
+          "answers": ["won", "owe", "save"],
+          "explanation": "*If I won the lottery* (second conditional, past simple). *The money I owe to my parents* = utang kepada orang tua. *Save the rest* = menabung sisanya. *Lend/borrow the rest for education* tidak masuk akal di sini."
+        },
+        {
+          "id": "b1-u05-l5-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "second conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English. The situation is imaginary — you don't have much money.",
+          "source": "Seandainya saya punya lebih banyak uang, saya akan membeli rumah di dekat pantai.",
+          "direction": "id-en",
+          "answers": [
+            "If I had more money, I would buy a house near the beach.",
+            "If I had more money, I'd buy a house near the beach.",
+            "I would buy a house near the beach if I had more money.",
+            "I'd buy a house near the beach if I had more money.",
+            "If I had more money, I would buy a house by the beach.",
+            "If I had more money, I'd buy a house by the beach.",
+            "I would buy a house by the beach if I had more money.",
+            "I'd buy a house by the beach if I had more money.",
+            "If I had more money, I would buy a house near the sea.",
+            "If I had more money, I'd buy a house near the sea."
+          ],
+          "explanation": "Situasi imajiner → **If + past simple, would + V1**: *If I had more money, I'd buy a house near the beach.* \"Seandainya\" adalah petunjuk kuat untuk second conditional."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u05-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "were in second conditional",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "My grandmother loved parties. If she ___ here today, she would dance all night.",
+      "options": ["were", "is", "will be", "would be"],
+      "answer": 0,
+      "explanation": "Situasi imajiner (nenek tidak ada di sini) → second conditional dengan **were** di if-clause."
+    },
+    {
+      "id": "b1-u05-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "I wish + could",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Complete the wish with the correct form of the verb in brackets.",
+      "text": "My sister plays the piano beautifully. I wish I ___ (can) play like her.",
+      "answers": [["could"]],
+      "explanation": "Setelah **wish**, *can* berubah menjadi **could**: *I wish I could play like her.*"
+    },
+    {
+      "id": "b1-u05-t-q3",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "second conditional form",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Correct the mistake in the sentence.",
+      "sentence": "If I would know the answer, I would tell you.",
+      "answers": [
+        "If I knew the answer, I would tell you.",
+        "If I knew the answer, I'd tell you."
+      ],
+      "explanation": "If-clause second conditional memakai past simple: **If I knew**, bukan *If I would know*."
+    },
+    {
+      "id": "b1-u05-t-q4",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "second conditional questions",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["Where", "would", "you", "live", "if", "you", "could", "choose", "any", "city?"],
+      "acceptedAnswers": ["If you could choose any city, where would you live?"],
+      "explanation": "Pertanyaan second conditional: **Where would you + V1 + if + past (could)?** The if-clause can also come first."
+    },
+    {
+      "id": "b1-u05-t-q5",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "first vs second conditional",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the best reply to complete the conversation.",
+      "dialogue": [
+        { "speaker": "Nadia", "text": "Are you coming to my birthday party on Friday?" },
+        { "speaker": "Ilham", "text": null },
+        { "speaker": "Nadia", "text": "Oh, that's a shame. Maybe next time!" }
+      ],
+      "options": [
+        "I'd come if I didn't have to work.",
+        "I'll come if I didn't have to work.",
+        "I'd come if I don't have to work.",
+        "I come if I wouldn't have to work."
+      ],
+      "answer": 0,
+      "explanation": "Ilham harus bekerja, jadi datang ke pesta adalah situasi imajiner → **would + V1 ... if + past simple**: *I'd come if I didn't have to work.* Opsi lain mencampur bentuk first dan second conditional."
+    },
+    {
+      "id": "b1-u05-t-q6",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "I wish + past simple",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Write a wish about the situation.",
+      "sentence": "Our flat is very noisy.",
+      "cue": "Begin with: I wish our flat ...",
+      "answers": [
+        "I wish our flat weren't so noisy.",
+        "I wish our flat wasn't so noisy.",
+        "I wish our flat were not so noisy.",
+        "I wish our flat was not so noisy.",
+        "I wish our flat weren't noisy.",
+        "I wish our flat wasn't noisy.",
+        "I wish our flat were not noisy.",
+        "I wish our flat was not noisy.",
+        "I wish our flat were quieter.",
+        "I wish our flat was quieter.",
+        "I wish our flat were quiet.",
+        "I wish our flat was quiet."
+      ],
+      "explanation": "Kenyataan positif (*is noisy*) → wish negatif dengan past: *I wish our flat weren't (wasn't) so noisy*, atau *I wish our flat were quieter*. Both were and was are accepted here; were is more formal."
+    },
+    {
+      "id": "b1-u05-t-q7",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "real vs imaginary",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Which sentences describe imaginary or unreal situations? Choose all the correct answers.",
+      "options": [
+        "If I were a bird, I would fly over the mountains.",
+        "If you need help, call me.",
+        "I wish I had a twin brother.",
+        "If it's sunny tomorrow, we'll go hiking.",
+        "What would you do if you met a famous singer?"
+      ],
+      "answers": [0, 2, 4],
+      "explanation": "Situasi imajiner memakai past form: *If I were a bird*, *I wish I had*, *if you met*. *If you need help* dan *If it's sunny tomorrow* adalah situasi nyata (first conditional/imperative)."
+    },
+    {
+      "id": "b1-u05-t-q8",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "second conditional form",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the sentence.",
+      "segments": ["If Nadia", "earned", "more money,", "she will buy", "a flat in the city centre."],
+      "errorIndex": 3,
+      "correction": "she would buy",
+      "explanation": "*If Nadia earned* (past simple) → main clause harus **would + V1**: *she would buy* (atau *she'd buy*). *Will* is used only in the first conditional."
+    }
+  ]
+}

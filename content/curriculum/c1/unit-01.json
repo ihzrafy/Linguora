@@ -1,0 +1,549 @@
+{
+  "slug": "c1-u01-inversion",
+  "number": 1,
+  "title": "Emphasis Through Inversion",
+  "description": "Learn how to add emphasis, drama and formality by placing negative and restrictive adverbials at the front of a clause and inverting the subject and auxiliary. Covers never/rarely/seldom, only/not until, not only ... but also, hardly/no sooner, and so/such/little inversion.",
+  "objectives": [
+    "Form and use negative adverbial inversion (Never have I ..., Rarely does ...)",
+    "Use restrictive structures with only, not until, under no circumstances and on no account",
+    "Use not only ... but also with inversion",
+    "Use hardly / scarcely / no sooner ... when / than to describe events in quick succession",
+    "Choose inversion appropriately for formal speech and writing"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u01-l1-negative-adverbials",
+      "title": "Never Have I ...: Negative Adverbial Inversion",
+      "summary": "Front negative adverbials such as never, rarely and seldom and invert the auxiliary and subject for emphasis.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Form inverted sentences after never, rarely, seldom, at no time and nowhere",
+        "Choose the correct auxiliary (have, be, modal or do/does/did) when inverting",
+        "Recognise when inversion is and is not required"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is inversion?\nIn a normal statement the subject comes before the verb: 'I have never seen anything like it.' In **inversion**, we move a negative or restrictive adverbial to the very beginning of the clause and then place the **auxiliary verb before the subject**, exactly as we do in a question: '**Never have I** seen anything like it.' The basic meaning stays the same, but the sentence becomes more emphatic, more dramatic and more formal.\n\n### The basic pattern\n| Fronted adverbial | Auxiliary | Subject | Rest of the clause |\n|---|---|---|---|\n| Never | have | I | seen such talent. |\n| Rarely | does | the committee | meet on Fridays. |\n| Seldom | had | the village | witnessed such celebrations. |\n| At no time | was | the public | in danger. |\n| Nowhere | will | you | find better service. |\n\n### Choosing the auxiliary\n- If the clause already contains an auxiliary or modal (*have, be, will, can, should* ...), simply move it in front of the subject: 'She has rarely been late.' → 'Rarely **has she** been late.'\n- If the verb is in the **present simple** or **past simple** with no auxiliary, add **do / does / did**, and the main verb returns to the **base form**: 'He seldom complains.' → 'Seldom **does he complain**.' / 'They never thanked us.' → 'Never **did they thank** us.'\n- When **be** is the main verb, invert *be* itself: 'The office is rarely this quiet.' → 'Rarely **is the office** this quiet.'\n\n### Common negative adverbials that trigger inversion\n*never, never before, rarely, seldom, hardly ever, at no time, nowhere (else), in no way, on no occasion*. All of them restrict or deny the whole statement, which is why the sentence behaves like a question.\n\n### Register and effect\nInversion is typical of formal writing, speeches, journalism, reports and storytelling. In everyday conversation it can sound theatrical, so speakers often use it deliberately for humour or to show strong feeling ('Never have I been so embarrassed!'). Use it sparingly: one well-placed inversion in a paragraph highlights a point; several in a row sound artificial.\n\n### When NOT to invert\n1. If the adverbial stays in its normal mid position, there is no inversion: 'I have **never** been so surprised.'\n2. Inversion must follow the fronted adverbial immediately. 'Rarely I have seen ...' is wrong; 'Rarely have I seen ...' is correct.\n3. Do not add *do* when an auxiliary is already present: 'Never did I have seen' is impossible.\n\n### Indonesian note\nBahasa Indonesia expresses this emphasis with words such as *sama sekali*, *belum pernah* or *jarang sekali* without changing word order. In English, the change of word order itself carries the emphasis, so learners must remember to invert.",
+        "examples": [
+          { "en": "Never have I been so moved by a performance.", "id": "Belum pernah saya begitu tersentuh oleh sebuah pertunjukan.", "note": "Present perfect: move 'have' before the subject." },
+          { "en": "Rarely does the director praise anyone in public.", "id": "Jarang sekali sang direktur memuji siapa pun di depan umum.", "note": "Present simple: add 'does' and use the base form 'praise'." },
+          { "en": "Seldom had the village seen such celebrations.", "id": "Jarang sekali desa itu menyaksikan perayaan semeriah itu.", "note": "Past perfect: move 'had'." },
+          { "en": "At no time did the pilot lose control of the aircraft.", "id": "Sama sekali tidak pernah pilot itu kehilangan kendali atas pesawat.", "note": "Past simple: add 'did'." },
+          { "en": "Nowhere else will you find such a remarkable collection of manuscripts.", "id": "Tidak di tempat lain mana pun Anda akan menemukan koleksi naskah yang begitu luar biasa.", "note": "Modal 'will' moves before the subject." }
+        ],
+        "vocabulary": [
+          { "word": "unprecedented", "pos": "adjective", "ipa": "/ʌnˈpresɪdentɪd/", "meaning": "belum pernah terjadi sebelumnya", "example": "The festival attracted an unprecedented number of visitors." },
+          { "word": "astonishing", "pos": "adjective", "ipa": "/əˈstɒnɪʃɪŋ/", "meaning": "mencengangkan, sangat mengejutkan", "example": "Never had the judges heard such an astonishing voice." },
+          { "word": "milestone", "pos": "noun", "ipa": "/ˈmaɪlstəʊn/", "meaning": "tonggak sejarah, pencapaian penting", "example": "Reaching one million users was a major milestone for the start-up." },
+          { "word": "remarkable", "pos": "adjective", "ipa": "/rɪˈmɑːkəbl/", "meaning": "luar biasa, patut diperhatikan", "example": "She made a remarkable recovery after the accident." },
+          { "word": "feat", "pos": "noun", "ipa": "/fiːt/", "meaning": "prestasi (yang membutuhkan keberanian atau keahlian besar)", "example": "Crossing the strait alone was an extraordinary feat." },
+          { "word": "acclaim", "pos": "noun", "ipa": "/əˈkleɪm/", "meaning": "pujian atau sambutan luas", "example": "Her first film won international acclaim." }
+        ],
+        "grammar": [
+          { "pattern": "Negative adverbial + auxiliary/modal + subject + main verb", "example": "Never have I witnessed such dedication.", "note": "Works with have, be, will, can, should, etc." },
+          { "pattern": "Negative adverbial + do/does/did + subject + base verb", "example": "Seldom does Mr. Hartono take a holiday.", "note": "Used for present simple and past simple." },
+          { "pattern": "Negative adverbial + be + subject + complement", "example": "Rarely is the motorway this empty.", "note": "When 'be' is the main verb, invert it directly." }
+        ],
+        "mistakes": [
+          { "wrong": "Never I have seen such talent.", "right": "Never have I seen such talent.", "why": "After a fronted negative adverbial, the auxiliary must come before the subject." },
+          { "wrong": "Rarely does she complains about her workload.", "right": "Rarely does she complain about her workload.", "why": "After do/does/did, the main verb is in the base form." },
+          { "wrong": "Seldom we go out on weekdays.", "right": "Seldom do we go out on weekdays.", "why": "With present simple, add 'do/does' to make the inversion." }
+        ],
+        "summary": "When a negative adverbial (never, rarely, seldom, at no time, nowhere) starts a clause, put the auxiliary before the subject. Use do/does/did plus the base verb if there is no auxiliary. Inversion adds emphasis and formality, so use it deliberately and sparingly.",
+        "reviewCards": [
+          { "front": "I have never seen ... → Never ...", "back": "Never have I seen ..." },
+          { "front": "He seldom complains. → Seldom ...", "back": "Seldom does he complain." },
+          { "front": "Which auxiliary for past simple inversion?", "back": "did + base verb: 'At no time did they apologise.'" },
+          { "front": "Is inversion needed in 'I have rarely been so happy'?", "back": "No. Inversion is only needed when the negative adverbial is moved to the front." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u01-l1-q1", "type": "single_choice", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the correctly formed sentence.",
+          "options": ["Never I have tasted such delicious coffee.", "Never have I tasted such delicious coffee.", "Never have tasted I such delicious coffee.", "Never I tasted such delicious coffee."],
+          "answer": 1,
+          "explanation": "After a fronted negative adverbial, the auxiliary 'have' moves in front of the subject 'I', as in a question: 'Never have I tasted ...'.",
+          "misconception": "Learners often keep normal word order after 'Never' because Indonesian does not change word order for emphasis."
+        },
+        {
+          "id": "c1-u01-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using inversion.",
+          "sentence": "The team has rarely celebrated a victory so loudly.",
+          "cue": "Begin with: Rarely",
+          "answers": ["Rarely has the team celebrated a victory so loudly."],
+          "explanation": "The present perfect auxiliary 'has' moves in front of the subject 'the team': 'Rarely has the team celebrated ...'."
+        },
+        {
+          "id": "c1-u01-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with the correct inverted form of the words in brackets.",
+          "text": "Seldom ___ (she / mention) her achievements, even though she has won several national awards.",
+          "answers": [["does she mention"]],
+          "explanation": "The sentence is in the present simple, so we add 'does' before the subject and use the base form 'mention': 'Seldom does she mention ...'."
+        },
+        {
+          "id": "c1-u01-l1-q4", "type": "error_identification", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Rarely", "I have seen", "such an astonishing", "display of skill."],
+          "errorIndex": 1,
+          "correction": "have I seen",
+          "explanation": "'Rarely' at the start of the clause requires inversion: 'Rarely have I seen such an astonishing display of skill.'"
+        },
+        {
+          "id": "c1-u01-l1-q5", "type": "dropdown", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct words to complete the sentence.",
+          "text": "Never before ___ the museum ___ so many visitors in a single day.",
+          "choices": [["has", "have", "is"], ["attracted", "attract", "attracting"]],
+          "answers": [0, 0],
+          "explanation": "'The museum' is singular, so the present perfect auxiliary is 'has', followed by the past participle 'attracted': 'Never before has the museum attracted ...'."
+        },
+        {
+          "id": "c1-u01-l1-q6", "type": "word_order", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order to make an emphatic sentence.",
+          "words": ["Seldom", "do", "we", "receive", "such", "generous", "praise", "from", "our", "clients"],
+          "explanation": "Seldom + do (auxiliary for present simple) + we (subject) + receive (base verb): 'Seldom do we receive such generous praise from our clients.'"
+        }
+      ]
+    },
+    {
+      "slug": "c1-u01-l2-only-not-until",
+      "title": "Only Then, Not Until: Restrictive Inversion",
+      "summary": "Use inversion after only + time/condition expressions, not until, and fixed phrases such as under no circumstances and on no account.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use inversion after only after / only when / only if / only by / only then",
+        "Place the inversion in the main clause after not until and only + clause",
+        "Use under no circumstances, on no account and in no way to make strong prohibitions"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Restrictive expressions\nSome expressions do not simply say 'never'; they **restrict** the truth of a statement to a particular time, condition or method. When these expressions open a sentence, the main clause is inverted:\n- 'I understood the problem only then.' → '**Only then did I** understand the problem.'\n- 'You can succeed only by working together.' → '**Only by working together can you** succeed.'\n\n### Where does the inversion go?\nThis is the most important point of the lesson. When *only* or *not until* is followed by a **whole clause** (subject + verb), that clause keeps normal word order. The inversion happens in the **main clause** that follows.\n\n| Fronted part (normal order) | Main clause (inverted) |\n|---|---|\n| Only after the results were published | did the scientists celebrate. |\n| Only when the storm had passed | were the villagers able to go outside. |\n| Only if the board approves the budget | will the project go ahead. |\n| Not until she read the letter | did she understand his decision. |\n\nNotice that 'the results were published' is not inverted; 'did the scientists celebrate' is.\n\n### Only + phrase\nWhen *only* is followed by a short phrase rather than a clause, the inversion comes straight after it: 'Only then ...', 'Only in this way ...', 'Only by + -ing ...', 'Only with your help ...', 'Only later ...'.\n\n### Strong prohibitions and denials\nThe following fixed phrases are very common in notices, contracts, instructions and formal warnings:\n- **Under no circumstances** should you share your password.\n- **On no account** are visitors to feed the animals.\n- **In no way** was the company responsible for the delay.\n- **At no point** did the witness mention a second car.\n\nThey mean 'absolutely not' and are much stronger than 'You shouldn't ...'.\n\n### Only as a subject modifier: no inversion\nIf *only* modifies the subject itself, there is no inversion: '**Only the manager** has a key.' Here 'only the manager' is simply the subject of the verb 'has'.\n\n### Not until vs until\n'We didn't leave **until** midnight' (normal order) can be made emphatic as '**Not until midnight did we** leave.' The word *not* moves to the front together with *until*, and the original negative verb becomes positive and inverted.\n\n### Indonesian note\nCompare *Baru setelah ... , saya mengerti* and *Hanya dengan ... , kita bisa ...*. Indonesian uses *baru* and *hanya*; English uses *not until / only after* and requires inversion in the main clause.",
+        "examples": [
+          { "en": "Only after the merger was announced did the share price begin to rise.", "id": "Baru setelah merger diumumkan, harga saham mulai naik.", "note": "The time clause has normal order; the main clause is inverted." },
+          { "en": "Not until the final whistle blew did the fans believe their team had won.", "id": "Baru ketika peluit akhir dibunyikan, para penggemar percaya tim mereka menang.", "note": "Not until + clause, then inversion." },
+          { "en": "Under no circumstances should candidates use their phones during the exam.", "id": "Dalam keadaan apa pun, peserta tidak boleh menggunakan ponsel selama ujian.", "note": "Strong prohibition, formal notice." },
+          { "en": "Only by cutting costs can the factory remain open.", "id": "Hanya dengan memangkas biaya, pabrik itu bisa tetap beroperasi.", "note": "Only by + -ing, then modal 'can' before the subject." },
+          { "en": "In no way did the delay affect the quality of the final report.", "id": "Keterlambatan itu sama sekali tidak memengaruhi kualitas laporan akhir.", "note": "In no way = not at all." }
+        ],
+        "vocabulary": [
+          { "word": "breakthrough", "pos": "noun", "ipa": "/ˈbreɪkθruː/", "meaning": "terobosan", "example": "Only after years of research did the team achieve a breakthrough." },
+          { "word": "persevere", "pos": "verb", "ipa": "/ˌpɜːsɪˈvɪə(r)/", "meaning": "bertekun, tetap berusaha meskipun sulit", "example": "Only by persevering did she finally pass the exam." },
+          { "word": "recognition", "pos": "noun", "ipa": "/ˌrekəɡˈnɪʃn/", "meaning": "pengakuan, penghargaan", "example": "Not until he retired did he receive the recognition he deserved." },
+          { "word": "strictly prohibited", "pos": "phrase", "ipa": "/ˈstrɪktli prəˈhɪbɪtɪd/", "meaning": "dilarang keras", "example": "Smoking is strictly prohibited on the premises." },
+          { "word": "in hindsight", "pos": "phrase", "ipa": "/ɪn ˈhaɪndsaɪt/", "meaning": "jika dipikir kembali (setelah kejadian)", "example": "In hindsight, only then did we realise how lucky we had been." }
+        ],
+        "grammar": [
+          { "pattern": "Only after / when / if + clause (normal order), + inverted main clause", "example": "Only when the lights went out did we notice the stars.", "note": "Invert the second clause, not the first." },
+          { "pattern": "Not until + time phrase / clause + auxiliary + subject + verb", "example": "Not until 2019 did the town get its own hospital.", "note": "The negative moves to the front; the main verb is positive." },
+          { "pattern": "Under no circumstances / On no account / In no way + auxiliary + subject", "example": "On no account must the door be left unlocked.", "note": "Strong formal prohibition or denial." },
+          { "pattern": "Only then / Only by + -ing / Only in this way + auxiliary + subject", "example": "Only in this way can we guarantee fair results.", "note": "Short phrase after 'only', then inversion immediately." }
+        ],
+        "mistakes": [
+          { "wrong": "Only when did the storm pass we went outside.", "right": "Only when the storm passed did we go outside.", "why": "The clause after 'only when' keeps normal order; the main clause is inverted." },
+          { "wrong": "Not until she called me I knew the truth.", "right": "Not until she called me did I know the truth.", "why": "The main clause after 'not until + clause' must be inverted." },
+          { "wrong": "Only the manager does have a key to the safe.", "right": "Only the manager has a key to the safe.", "why": "When 'only' modifies the subject, there is no inversion and no extra auxiliary." }
+        ],
+        "summary": "After only + phrase (only then, only by doing, only in this way), invert immediately. After only + clause or not until + clause, keep normal order in that clause and invert the main clause. Use under no circumstances, on no account and in no way for strong formal prohibitions and denials.",
+        "reviewCards": [
+          { "front": "Only after the meeting ended ___ (we / realise) ...", "back": "Only after the meeting ended did we realise ..." },
+          { "front": "We didn't leave until midnight. → Not until ...", "back": "Not until midnight did we leave." },
+          { "front": "Strong formal prohibition with inversion", "back": "Under no circumstances / On no account should you ..." },
+          { "front": "'Only the director knows.' Inversion?", "back": "No: 'only' modifies the subject, so normal order is used." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u01-l2-q1", "type": "single_choice", "category": "grammar", "topic": "restrictive inversion", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence: 'Not until the results were published ___ how significant the discovery was.'",
+          "options": ["the scientists realised", "did the scientists realise", "the scientists did realise", "realised the scientists"],
+          "answer": 1,
+          "explanation": "After 'Not until + clause', the main clause is inverted with an auxiliary: 'did the scientists realise'.",
+          "misconception": "The clause 'the results were published' is not inverted; only the main clause is."
+        },
+        {
+          "id": "c1-u01-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "restrictive inversion", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence as a formal prohibition.",
+          "sentence": "You must not open this door under any circumstances.",
+          "cue": "Begin with: Under no circumstances",
+          "answers": ["Under no circumstances must you open this door.", "Under no circumstances should you open this door.", "Under no circumstances are you to open this door.", "Under no circumstances must this door be opened.", "Under no circumstances should this door be opened.", "Under no circumstances can you open this door.", "Under no circumstances may you open this door."],
+          "explanation": "'Under no circumstances' requires inversion: modal + subject + verb, e.g. 'Under no circumstances must you open this door.'"
+        },
+        {
+          "id": "c1-u01-l2-q3", "type": "matching", "category": "grammar", "topic": "restrictive inversion", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each beginning with the most logical ending.",
+          "pairs": [
+            { "left": "Only after the merger was announced", "right": "did the share price begin to rise." },
+            { "left": "Not until she read his letter", "right": "did she understand why he had resigned." },
+            { "left": "On no account", "right": "should passwords be shared with colleagues." },
+            { "left": "Only by working through the weekend", "right": "can we hope to meet the deadline." },
+            { "left": "Nowhere else in the region", "right": "will you find such a stunning view." }
+          ],
+          "explanation": "Each opening expression requires an inverted main clause; the pairs are linked by meaning (time, condition, prohibition, method, place)."
+        },
+        {
+          "id": "c1-u01-l2-q4", "type": "error_identification", "category": "grammar", "topic": "restrictive inversion", "difficulty": 4, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Only when the storm had passed", "the villagers were able", "to assess", "the damage."],
+          "errorIndex": 1,
+          "correction": "were the villagers able",
+          "explanation": "After 'Only when + clause', the main clause must be inverted: 'were the villagers able to assess the damage'."
+        },
+        {
+          "id": "c1-u01-l2-q5", "type": "drag_drop", "category": "grammar", "topic": "restrictive inversion", "difficulty": 4, "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Not until the final whistle ___ ___ the fans ___ that their team had won the cup.",
+          "bank": ["blew", "did", "realise", "had", "blown", "were"],
+          "answers": ["blew", "did", "realise"],
+          "explanation": "The time clause keeps normal order ('the final whistle blew'); the main clause is inverted with 'did' + base verb ('did the fans realise')."
+        },
+        {
+          "id": "c1-u01-l2-q6", "type": "single_choice", "category": "grammar", "topic": "restrictive inversion", "difficulty": 4, "stage": "quiz",
+          "prompt": "Which sentence is NOT correct?",
+          "options": ["Only then did I understand the risk.", "Only if the board agrees will the project go ahead.", "Only if the board agrees the project will go ahead.", "On no account should you sign the contract today."],
+          "answer": 2,
+          "explanation": "When 'Only if + clause' starts the sentence, the main clause must be inverted: 'will the project go ahead'. The third sentence keeps normal order, so it is incorrect."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u01-l3-not-only",
+      "title": "Not Only ... But Also",
+      "summary": "Emphasise two related facts with not only + inversion ... but (also) ..., and avoid inversion when not only modifies the subject.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form not only ... but also sentences with inversion in the first clause",
+        "Distinguish clause-level not only (inversion) from subject-level not only (no inversion)",
+        "Use nor and neither with inversion to add a further negative point"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Adding a second, surprising point\n*Not only ... but also* presents two facts, where the second often adds something even more impressive or surprising. When *not only* begins the sentence and applies to the whole clause, the first clause is **inverted**; the second clause keeps **normal order**.\n\n| Not only | Auxiliary + subject + verb | but + subject + also + verb |\n|---|---|---|\n| Not only | did she win the race, | but she also broke the record. |\n| Not only | is the hotel expensive, | but it is also noisy. |\n| Not only | has he written ten novels, | but he has also directed two films. |\n\n### Variations of the second clause\nThe second half is flexible:\n- **but ... also**: '..., but she also broke the record.'\n- **but ... as well / too**: '..., but she broke the record as well.'\n- **comma only** (common in journalism): 'Not only did she win the race, she broke the record.'\n\nPosition of *also*: it usually goes before the main verb ('she also broke'), after *be* ('it is also noisy') and after the first auxiliary ('he has also directed').\n\n### No inversion when not only modifies a noun phrase\nIf *not only* modifies the **subject** or another noun phrase rather than the whole clause, there is no inversion:\n- '**Not only the students but also the teachers** were surprised.' (subject = 'not only the students but also the teachers')\n- 'She speaks **not only French but also Japanese**.' (mid-position, no inversion)\n\nWith a combined subject, the verb usually agrees with the nearer noun: 'Not only the manager but also the staff **were** ...'.\n\n### Nor and neither\nTo add a second **negative** point, use *nor* or *neither* followed by inversion:\n- 'The company did not apologise, **nor did it** offer compensation.'\n- 'I don't trust the report. **Neither do** my colleagues.'\n\n### Style tip\n*Not only ... but also* is persuasive and formal. It is useful in cover letters, presentations and essays to build a strong argument, e.g. 'Not only does the proposal reduce costs, but it also improves safety.' Avoid using it for two facts of equal or trivial importance; it works best when the second point strengthens the first.\n\n### Indonesian note\nThe structure corresponds to *tidak hanya ..., tetapi juga ...*. Remember that English needs the auxiliary before the subject after a fronted *not only*, while Indonesian keeps normal order.",
+        "examples": [
+          { "en": "Not only did the charity exceed its target, but it also did so in record time.", "id": "Badan amal itu tidak hanya melampaui targetnya, tetapi juga melakukannya dalam waktu rekor.", "note": "Past simple: did + base verb in the first clause." },
+          { "en": "Not only is the new bridge safer, but it is also far more attractive.", "id": "Jembatan baru itu tidak hanya lebih aman, tetapi juga jauh lebih menarik.", "note": "'be' as main verb is inverted." },
+          { "en": "Not only the players but also the coach was praised by the press.", "id": "Tidak hanya para pemain, tetapi juga pelatihnya dipuji oleh pers.", "note": "No inversion: 'not only' modifies the subject; verb agrees with 'the coach'." },
+          { "en": "The minister did not resign, nor did she apologise.", "id": "Menteri itu tidak mengundurkan diri, dan juga tidak meminta maaf.", "note": "'nor' + inversion adds a second negative." }
+        ],
+        "vocabulary": [
+          { "word": "outstanding", "pos": "adjective", "ipa": "/aʊtˈstændɪŋ/", "meaning": "menonjol, sangat bagus", "example": "Not only was her performance outstanding, but it was also original." },
+          { "word": "exceed", "pos": "verb", "ipa": "/ɪkˈsiːd/", "meaning": "melampaui, melebihi", "example": "Sales exceeded all expectations." },
+          { "word": "staggering", "pos": "adjective", "ipa": "/ˈstæɡərɪŋ/", "meaning": "sangat mengejutkan (karena besarnya)", "example": "The project cost a staggering amount of money." },
+          { "word": "accomplishment", "pos": "noun", "ipa": "/əˈkʌmplɪʃmənt/", "meaning": "pencapaian, prestasi", "example": "Finishing the degree while working full-time was a real accomplishment." },
+          { "word": "trailblazer", "pos": "noun", "ipa": "/ˈtreɪlbleɪzə(r)/", "meaning": "pelopor, perintis", "example": "She was a trailblazer for women in engineering." }
+        ],
+        "grammar": [
+          { "pattern": "Not only + auxiliary + subject + verb, but + subject + also + verb", "example": "Not only does the app save time, but it also reduces errors.", "note": "Inversion in the first clause only." },
+          { "pattern": "Not only + noun phrase + but also + noun phrase + verb", "example": "Not only the students but also their parents attended the ceremony.", "note": "No inversion when 'not only' modifies the subject." },
+          { "pattern": "Negative clause, nor + auxiliary + subject + verb", "example": "He didn't call, nor did he send a message.", "note": "Adds a second negative point." }
+        ],
+        "mistakes": [
+          { "wrong": "Not only she won the prize, but she also gave the money to charity.", "right": "Not only did she win the prize, but she also gave the money to charity.", "why": "A fronted 'not only' applying to the whole clause requires inversion." },
+          { "wrong": "Not only did they apologise, but also did they offer a refund.", "right": "Not only did they apologise, but they also offered a refund.", "why": "Only the first clause is inverted; the clause after 'but' uses normal order." },
+          { "wrong": "Not only were the students but also the teachers surprised.", "right": "Not only the students but also the teachers were surprised.", "why": "When 'not only' modifies the subject, the sentence keeps normal word order." }
+        ],
+        "summary": "Use 'Not only + auxiliary + subject ..., but + subject + also ...' to add a second, stronger point. Invert only the first clause. Do not invert when not only modifies a noun phrase. Use nor/neither + inversion to add another negative point.",
+        "reviewCards": [
+          { "front": "It saves money and improves morale. → Not only ...", "back": "Not only does it save money, but it also improves morale." },
+          { "front": "Inversion in the 'but also' clause?", "back": "No. Only the first clause is inverted." },
+          { "front": "'Not only the staff but also the director ___ invited.'", "back": "was (no inversion; agrees with 'the director')" },
+          { "front": "He didn't call. He didn't write. (nor)", "back": "He didn't call, nor did he write." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u01-l3-q1", "type": "dropdown", "category": "grammar", "topic": "not only inversion", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "text": "Not only ___ the competition, but she also broke the national record.",
+          "choices": [["did she win", "she won", "won she", "she did win"]],
+          "answers": [0],
+          "explanation": "A fronted 'Not only' applying to the clause requires inversion with 'did' + base verb: 'Not only did she win ...'."
+        },
+        {
+          "id": "c1-u01-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "not only inversion", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence to emphasise both points.",
+          "sentence": "The new policy saves money, and it also improves staff morale.",
+          "cue": "Begin with: Not only",
+          "answers": ["Not only does the new policy save money, but it also improves staff morale.", "Not only does the new policy save money, it also improves staff morale.", "Not only does the new policy save money, but it improves staff morale as well.", "Not only does the new policy save money, but it improves staff morale too.", "Not only does the new policy save money, but also improves staff morale.", "Not only does the new policy save money, but it also improves the morale of staff."],
+          "explanation": "Present simple → add 'does' and use the base verb 'save' in the inverted first clause; the second clause keeps normal order: 'but it also improves staff morale'."
+        },
+        {
+          "id": "c1-u01-l3-q3", "type": "multiple_select", "category": "grammar", "topic": "not only inversion", "difficulty": 4, "stage": "independent",
+          "prompt": "Select ALL the grammatically correct sentences.",
+          "options": ["Not only was the hotel expensive, but it was also noisy.", "Not only the hotel was expensive, but it was also noisy.", "Not only the manager but also the staff were surprised by the award.", "Not only did they apologise, but they also offered a full refund.", "Not only they apologised, but also they offered a refund."],
+          "answers": [0, 2, 3],
+          "explanation": "Sentences 1 and 4 correctly invert the first clause. Sentence 3 is correct without inversion because 'not only' modifies the subject. Sentences 2 and 5 fail to invert after a clause-level 'not only'."
+        },
+        {
+          "id": "c1-u01-l3-q4", "type": "error_identification", "category": "grammar", "topic": "not only inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Not only", "the author has written", "twelve novels,", "but she has also directed two films."],
+          "errorIndex": 1,
+          "correction": "has the author written",
+          "explanation": "After a clause-level 'Not only', the auxiliary 'has' must come before the subject: 'Not only has the author written twelve novels ...'."
+        },
+        {
+          "id": "c1-u01-l3-q5", "type": "sentence_correction", "category": "grammar", "topic": "not only inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "Not only does the software saves time, but it also reduces errors.",
+          "answers": ["Not only does the software save time, but it also reduces errors."],
+          "explanation": "After 'does', the main verb must be in the base form: 'save', not 'saves'."
+        },
+        {
+          "id": "c1-u01-l3-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "achievement vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Read the sentence and choose the meaning of the word in bold.",
+          "context": "Not only did the charity exceed its target, but it raised a **staggering** 2 billion rupiah in just one weekend.",
+          "options": ["astonishingly large", "slightly disappointing", "moving unsteadily", "carefully planned"],
+          "answer": 0,
+          "explanation": "'Staggering' describes something so large or surprising that it shocks you. Here it emphasises the amazing amount of money raised. The literal meaning 'walking unsteadily' does not fit the context."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u01-l4-no-sooner-hardly",
+      "title": "No Sooner ... Than, Hardly ... When",
+      "summary": "Describe one past event happening immediately after another using no sooner ... than and hardly / scarcely / barely ... when.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use no sooner + past perfect inversion + than + past simple",
+        "Use hardly / scarcely / barely + past perfect inversion + when / before",
+        "Avoid mixing than and when in these structures"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Two events, almost at the same time\nThese structures describe a situation where the second event happened **immediately** after the first, often unexpectedly or annoyingly. They are common in narratives, news reports and formal storytelling.\n\n### No sooner ... than\n**No sooner + had + subject + past participle + than + past simple**\n- 'No sooner **had we sat down than** the fire alarm went off.'\n\nThe word *sooner* is a comparative, so it is followed by **than**, never *when*.\n\n### Hardly / Scarcely / Barely ... when\n**Hardly / Scarcely / Barely + had + subject + past participle + when (or before) + past simple**\n- 'Hardly **had the match begun when** it started to rain.'\n- 'Scarcely **had she opened the door before** the dog ran out.'\n\nThese words mean 'only just', so they combine with **when** (or *before*), not *than*.\n\n| Opening word | First event | Linking word | Second event |\n|---|---|---|---|\n| No sooner | had I arrived | than | the phone rang. |\n| Hardly | had I arrived | when | the phone rang. |\n| Scarcely | had I arrived | when | the phone rang. |\n| Barely | had I arrived | when | the phone rang. |\n\n### Why the past perfect?\nThe first event is completed before the second begins, so it is in the **past perfect** (had + past participle) and the second is in the **past simple**. Using the past simple for both ('No sooner did I arrive than ...') is sometimes heard but is less standard; at C1 aim for the past perfect.\n\n### Non-inverted versions\nThe same adverbs can stay in mid position, without inversion:\n- 'I had **no sooner** arrived **than** the phone rang.'\n- 'We had **hardly** started **when** the power went off.'\n\nThe inverted version is more dramatic and more typical of writing.\n\n### Similar informal options\nIn conversation, people more often say: 'As soon as I arrived, the phone rang' or 'The moment I sat down, the alarm went off.' Being able to switch between these and the inverted forms is a useful C1 skill, especially in transformation tasks.\n\n### Indonesian note\nIndonesian uses *Baru saja ... , sudah ...* ('Baru saja kami duduk, alarm kebakaran sudah berbunyi'). In English, remember the fixed pairs: **no sooner → than**, **hardly / scarcely / barely → when**.",
+        "examples": [
+          { "en": "No sooner had the minister finished his speech than protesters began to shout.", "id": "Baru saja menteri selesai berpidato, para pengunjuk rasa mulai berteriak.", "note": "No sooner ... than." },
+          { "en": "Hardly had we arrived at the hotel when the power went out.", "id": "Baru saja kami tiba di hotel, listrik padam.", "note": "Hardly ... when." },
+          { "en": "Scarcely had the album been released when it reached number one.", "id": "Baru saja album itu dirilis, album itu sudah menduduki posisi nomor satu.", "note": "Passive past perfect: had + been + past participle." },
+          { "en": "I had no sooner paid for the laptop than I saw it on sale elsewhere.", "id": "Baru saja saya membayar laptop itu, saya melihatnya dijual lebih murah di tempat lain.", "note": "Non-inverted mid-position version." }
+        ],
+        "vocabulary": [
+          { "word": "go off", "pos": "phrasal verb", "ipa": "/ɡəʊ ɒf/", "meaning": "berbunyi (alarm); meledak", "example": "Hardly had I fallen asleep when the alarm went off." },
+          { "word": "take someone aback", "pos": "phrasal verb", "ipa": "/teɪk ˈsʌmwʌn əˈbæk/", "meaning": "membuat seseorang terkejut", "example": "We were taken aback by the sudden announcement." },
+          { "word": "in quick succession", "pos": "phrase", "ipa": "/ɪn kwɪk səkˈseʃn/", "meaning": "berturut-turut dengan cepat", "example": "Three goals were scored in quick succession." },
+          { "word": "sell out", "pos": "phrasal verb", "ipa": "/sel aʊt/", "meaning": "habis terjual", "example": "No sooner had the tickets gone on sale than they sold out." },
+          { "word": "unexpectedly", "pos": "adverb", "ipa": "/ˌʌnɪkˈspektɪdli/", "meaning": "secara tak terduga", "example": "The guest speaker arrived unexpectedly early." }
+        ],
+        "grammar": [
+          { "pattern": "No sooner + had + subject + past participle + than + past simple", "example": "No sooner had the shop opened than a queue formed.", "note": "Always 'than' after 'no sooner'." },
+          { "pattern": "Hardly / Scarcely / Barely + had + subject + past participle + when + past simple", "example": "Barely had the plane taken off when a passenger fainted.", "note": "'before' is also possible instead of 'when'." },
+          { "pattern": "Subject + had + no sooner / hardly + past participle + than / when ...", "example": "She had hardly sat down when her name was called.", "note": "Non-inverted, slightly less formal." }
+        ],
+        "mistakes": [
+          { "wrong": "No sooner had the phone rung when the lights went out.", "right": "No sooner had the phone rung than the lights went out.", "why": "'No sooner' is a comparative, so it pairs with 'than'." },
+          { "wrong": "Hardly the guests had arrived when the band started playing.", "right": "Hardly had the guests arrived when the band started playing.", "why": "A fronted 'hardly' requires inversion: had + subject + past participle." },
+          { "wrong": "Scarcely had we left than it began to snow.", "right": "Scarcely had we left when it began to snow.", "why": "'Scarcely' and 'hardly' pair with 'when' (or 'before'), not 'than'." }
+        ],
+        "summary": "To show that one past event followed another immediately, use 'No sooner had + subject + past participle + than + past simple' or 'Hardly/Scarcely/Barely had + subject + past participle + when + past simple'. Remember: no sooner → than; hardly/scarcely/barely → when.",
+        "reviewCards": [
+          { "front": "No sooner ... ?", "back": "... than (No sooner had I left than it rained.)" },
+          { "front": "Hardly / Scarcely ... ?", "back": "... when / before (Hardly had I left when it rained.)" },
+          { "front": "As soon as she arrived, the meeting began. → No sooner ...", "back": "No sooner had she arrived than the meeting began." },
+          { "front": "Tense of the first event?", "back": "Past perfect (had + past participle)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u01-l4-q1", "type": "fill_blank", "category": "grammar", "topic": "no sooner hardly", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence with the correct form of the words in brackets.",
+          "text": "No sooner ___ (she / finish) her speech than the audience rose to its feet.",
+          "answers": [["had she finished"]],
+          "explanation": "'No sooner' is followed by the inverted past perfect: 'had she finished'. The second event is in the past simple ('rose')."
+        },
+        {
+          "id": "c1-u01-l4-q2", "type": "dropdown", "category": "grammar", "topic": "no sooner hardly", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct linking word for each sentence.",
+          "text": "Hardly had we arrived at the venue ___ the fire alarm went off. No sooner had the alarm stopped ___ the organisers announced a delay.",
+          "choices": [["when", "than", "that"], ["when", "than", "that"]],
+          "answers": [0, 1],
+          "explanation": "'Hardly' pairs with 'when'; 'No sooner' is a comparative and pairs with 'than'."
+        },
+        {
+          "id": "c1-u01-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "no sooner hardly", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "As soon as the minister arrived, journalists surrounded him.",
+          "cue": "Begin with: No sooner",
+          "answers": ["No sooner had the minister arrived than journalists surrounded him.", "No sooner had the minister arrived than the journalists surrounded him.", "No sooner had the minister arrived than he was surrounded by journalists.", "No sooner had the minister arrived than he was surrounded by the journalists."],
+          "explanation": "No sooner + had + subject + past participle ('had the minister arrived') + than + past simple ('journalists surrounded him')."
+        },
+        {
+          "id": "c1-u01-l4-q4", "type": "word_order", "category": "grammar", "topic": "no sooner hardly", "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Scarcely", "had", "the", "match", "begun", "when", "it", "started", "to", "rain"],
+          "explanation": "Scarcely + had + subject ('the match') + past participle ('begun') + when + past simple ('it started to rain')."
+        },
+        {
+          "id": "c1-u01-l4-q5", "type": "error_identification", "category": "grammar", "topic": "no sooner hardly", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["No sooner", "had the phone rung", "when", "the lights went out."],
+          "errorIndex": 2,
+          "correction": "than",
+          "explanation": "'No sooner' must be followed by 'than', because 'sooner' is a comparative form."
+        },
+        {
+          "id": "c1-u01-l4-q6", "type": "single_choice", "category": "grammar", "topic": "no sooner hardly", "difficulty": 4, "stage": "quiz",
+          "prompt": "Which sentence has the SAME meaning as: 'The moment the doors opened, shoppers rushed inside.'?",
+          "options": ["Hardly had the doors opened when shoppers rushed inside.", "Shoppers had hardly rushed inside when the doors opened.", "No sooner had shoppers rushed inside than the doors opened.", "Hardly did the doors open, so shoppers rushed inside."],
+          "answer": 0,
+          "explanation": "The doors opened first and shoppers rushed in immediately afterwards. Options 2 and 3 reverse the order of events, and option 4 is ungrammatical."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u01-l5-so-such-little",
+      "title": "So Great Was the Demand: So, Such and Little",
+      "summary": "Use so + adjective inversion, such + be inversion and little did ... to express surprise and emphasis in formal and narrative styles.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Form so + adjective + be + subject + that ... sentences",
+        "Form such + be + noun phrase + that ... sentences",
+        "Use little did + subject + know/realise to express unexpected outcomes",
+        "Use vocabulary of surprise and achievement accurately"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### So + adjective inversion\nIn a normal sentence we say: 'The demand was **so high that** the organisers had to close the doors.' For extra emphasis, we can move **so + adjective** to the front and invert the verb and subject:\n- '**So high was the demand that** the organisers had to close the doors.'\n\nThe pattern is **So + adjective/adverb + verb (be/auxiliary) + subject + that-clause**. With other verbs, use an auxiliary: 'So quickly **did the fire spread** that ...'.\n\n### Such + be inversion\n*Such* can begin a sentence followed by **be + noun phrase (subject)**:\n- 'The demand was so great that ...' → '**Such was the demand that** the website crashed.'\n- 'Her anger was so intense that ...' → '**Such was her anger that** she could not speak.'\n\nHere *such* means 'so great / of this kind', and the subject comes after *be*.\n\n| Normal order | Inverted, emphatic form |\n|---|---|\n| The noise was so loud that nobody heard the bell. | So loud was the noise that nobody heard the bell. |\n| The crowd was so large that the road was closed. | Such was the size of the crowd that the road was closed. |\n| The fire spread so quickly that ... | So quickly did the fire spread that ... |\n\n### Little did I know ...\n*Little* used at the front of a clause means 'not at all' and usually goes with verbs of knowing and expecting: *know, realise, suspect, imagine, expect, think*. It is a favourite device in stories and anecdotes because it signals that something surprising is about to happen:\n- '**Little did I know** that the stranger on the train would become my business partner.'\n- '**Little did they realise** how dangerous the path was.'\n\nNote the past simple pattern **Little + did + subject + base verb**. The present form also exists: 'Little do they know ...'.\n\n### Choosing inversion: register and rhythm\nAll the structures in this unit raise the formality and emotional intensity of a sentence. They suit speeches, opinion articles, narratives and conclusions of essays. In a casual chat, a normal sentence ('I had no idea that ...') is usually more natural. A useful test: if you would add dramatic stress or a pause when saying the sentence aloud, inversion may be appropriate in writing.\n\n### Vocabulary of surprise\nInversion often appears with words describing surprise and achievement: *astonished, stunned, dumbfounded, taken aback, against all odds, exceed expectations*. Choosing precise words makes the emphasis even stronger.",
+        "examples": [
+          { "en": "So successful was the campaign that it was extended for another year.", "id": "Kampanye itu begitu sukses sehingga diperpanjang satu tahun lagi.", "note": "So + adjective + be + subject + that." },
+          { "en": "Such was the demand for tickets that the website crashed within minutes.", "id": "Begitu tingginya permintaan tiket sehingga situs web itu tumbang dalam hitungan menit.", "note": "Such + be + subject + that." },
+          { "en": "Little did we know that the tiny café would one day become a national chain.", "id": "Sama sekali tidak kami sangka bahwa kafe kecil itu suatu hari akan menjadi jaringan nasional.", "note": "Little + did + subject + know." },
+          { "en": "So quickly did the news spread that reporters arrived before the police.", "id": "Berita itu menyebar begitu cepat sehingga para wartawan tiba sebelum polisi.", "note": "Adverb + did + subject + base verb." }
+        ],
+        "vocabulary": [
+          { "word": "dumbfounded", "pos": "adjective", "ipa": "/ˌdʌmˈfaʊndɪd/", "meaning": "tercengang hingga tak bisa berkata-kata", "example": "The audience was dumbfounded by the final twist." },
+          { "word": "stunned", "pos": "adjective", "ipa": "/stʌnd/", "meaning": "terpana, sangat terkejut", "example": "Fans were stunned by the coach's sudden resignation." },
+          { "word": "against all odds", "pos": "idiom", "ipa": "/əˈɡenst ɔːl ɒdz/", "meaning": "meskipun peluangnya sangat kecil", "example": "Against all odds, the small village team won the tournament." },
+          { "word": "exceed expectations", "pos": "phrase", "ipa": "/ɪkˈsiːd ˌekspekˈteɪʃnz/", "meaning": "melebihi harapan", "example": "The new product exceeded expectations in its first month." },
+          { "word": "overwhelming", "pos": "adjective", "ipa": "/ˌəʊvəˈwelmɪŋ/", "meaning": "luar biasa besar, membanjiri", "example": "Such was the overwhelming response that extra staff were hired." }
+        ],
+        "grammar": [
+          { "pattern": "So + adjective + be + subject + that ...", "example": "So strong was the wind that the ferry was cancelled.", "note": "Formal, emphatic version of 'The wind was so strong that ...'." },
+          { "pattern": "So + adverb + do/does/did + subject + base verb + that ...", "example": "So rapidly did prices rise that many families struggled.", "note": "Use an auxiliary when the verb is not 'be'." },
+          { "pattern": "Such + be + noun phrase + that ...", "example": "Such was his fame that he could not walk down the street unnoticed.", "note": "'Such' = so great; the subject follows 'be'." },
+          { "pattern": "Little + did/do + subject + know/realise/suspect ...", "example": "Little did she suspect that her friends had planned a party.", "note": "Means 'had no idea'." }
+        ],
+        "mistakes": [
+          { "wrong": "So high the demand was that the doors were closed.", "right": "So high was the demand that the doors were closed.", "why": "After a fronted 'so + adjective', the verb comes before the subject." },
+          { "wrong": "Such the demand was that the website crashed.", "right": "Such was the demand that the website crashed.", "why": "In 'such' inversion, 'be' comes directly after 'such', followed by the subject." },
+          { "wrong": "Little I knew that he was lying.", "right": "Little did I know that he was lying.", "why": "Fronted 'little' requires inversion with 'did' + base verb." }
+        ],
+        "summary": "For dramatic emphasis, use 'So + adjective + be + subject + that ...', 'Such + be + subject + that ...' and 'Little did + subject + know/realise ...'. These structures suit formal writing, speeches and storytelling; in casual speech, normal word order usually sounds more natural.",
+        "reviewCards": [
+          { "front": "The noise was so loud that ... → So loud ...", "back": "So loud was the noise that ..." },
+          { "front": "The demand was so great that ... → Such ...", "back": "Such was the demand that ..." },
+          { "front": "I had no idea that ... → Little ...", "back": "Little did I know that ..." },
+          { "front": "dumbfounded", "back": "tercengang hingga tak bisa berkata-kata" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u01-l5-q1", "type": "single_choice", "category": "grammar", "topic": "so such inversion", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence: 'So ___ that the organisers had to close the doors.'",
+          "options": ["the demand was high", "high was the demand", "high the demand was", "was high the demand"],
+          "answer": 1,
+          "explanation": "The pattern is So + adjective + be + subject: 'So high was the demand that ...'."
+        },
+        {
+          "id": "c1-u01-l5-q2", "type": "sentence_transformation", "category": "grammar", "topic": "so such inversion", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence using inversion.",
+          "sentence": "The noise was so loud that nobody could hear the announcement.",
+          "cue": "Begin with: So loud",
+          "answers": ["So loud was the noise that nobody could hear the announcement.", "So loud was the noise that no one could hear the announcement.", "So loud was the noise that no-one could hear the announcement.", "So loud was the noise that nobody heard the announcement."],
+          "explanation": "Move 'so loud' to the front and invert 'be' and the subject: 'So loud was the noise that ...'."
+        },
+        {
+          "id": "c1-u01-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "emphasis in speech", "difficulty": 4, "stage": "independent",
+          "prompt": "Describe a moment when you (or someone you know) achieved something unexpected. Speak for about one minute and use at least three different inverted structures from this unit.",
+          "targetPhrases": ["Never had I", "Little did I know", "Not only did", "No sooner had", "So ... was", "Such was"],
+          "sampleAnswer": "Two years ago I entered a regional speech competition, mainly to practise my English. Little did I know that it would change my career. Not only did I reach the final, but I also won first prize. No sooner had the winner been announced than a journalist asked me for an interview. Never had I felt so nervous and so proud at the same time. Such was the attention that I received several job offers within a month.",
+          "explanation": "A strong answer uses inversion naturally to highlight surprising moments, combines it with normal sentences for rhythm, and includes vocabulary of surprise and achievement."
+        },
+        {
+          "id": "c1-u01-l5-q4", "type": "dialogue_completion", "category": "conversation", "topic": "so such inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best response to complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Maya", "text": "How did the product launch go? I heard there were technical problems." },
+            { "speaker": "Daniel", "text": null },
+            { "speaker": "Maya", "text": "Well, that's a good problem to have!" }
+          ],
+          "options": ["Such was the demand that the website went down within minutes.", "Such the demand was that the website went down within minutes.", "So was the demand high that the website went down within minutes.", "Such demand was it that the website went down within minutes."],
+          "answer": 0,
+          "explanation": "The correct pattern is 'Such + be + subject + that ...': 'Such was the demand that ...'. The other options have incorrect word order."
+        },
+        {
+          "id": "c1-u01-l5-q5", "type": "translation", "category": "grammar", "topic": "little did inversion", "difficulty": 4, "stage": "quiz",
+          "prompt": "Translate into English. Begin with 'Little' and use 'she' for 'dia'.",
+          "source": "Sama sekali tidak saya sangka bahwa dia akan memenangkan penghargaan itu.",
+          "direction": "id-en",
+          "answers": ["Little did I expect that she would win the award.", "Little did I expect her to win the award.", "Little did I think that she would win the award.", "Little did I think she would win the award.", "Little did I know that she would win the award.", "Little did I know she would win the award.", "Little did I imagine that she would win the award.", "Little did I imagine she would win the award.", "Little did I expect she would win the award.", "Little did I suspect that she would win the award.", "Little did I expect that she would win that award.", "Little did I think that she would win that award.", "Little did I know that she would win that award.", "Little did I imagine that she would win that prize.", "Little did I expect that she would win the prize.", "Little did I think that she would win the prize.", "Little did I know that she would win the prize."],
+          "explanation": "'Sama sekali tidak saya sangka' = 'Little did I expect/think/imagine'. Fronted 'little' requires 'did' + subject + base verb, and the reported future is 'would win'."
+        },
+        {
+          "id": "c1-u01-l5-q6", "type": "matching", "category": "vocabulary", "topic": "surprise and achievement vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "taken aback", "right": "surprised and slightly shocked" },
+            { "left": "against all odds", "right": "despite a very low chance of success" },
+            { "left": "dumbfounded", "right": "so surprised that you cannot speak" },
+            { "left": "exceed expectations", "right": "be better than people predicted" },
+            { "left": "a breakthrough", "right": "an important new discovery or development" }
+          ],
+          "explanation": "These expressions are frequently used with emphatic structures to describe surprising outcomes and achievements."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u01-t-q1", "type": "single_choice", "category": "grammar", "topic": "restrictive inversion", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the exam notice: 'Under no circumstances ___ to leave the room during the first hour.'",
+      "options": ["candidates are permitted", "are candidates permitted", "candidates permitted are", "permitted are candidates"],
+      "answer": 1,
+      "explanation": "'Under no circumstances' requires inversion: 'are candidates permitted'."
+    },
+    {
+      "id": "c1-u01-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "restrictive inversion", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it means the same.",
+      "sentence": "She didn't realise how talented he was until she heard him sing.",
+      "cue": "Begin with: Not until",
+      "answers": ["Not until she heard him sing did she realise how talented he was.", "Not until she heard him singing did she realise how talented he was."],
+      "explanation": "The 'not until' clause keeps normal order ('she heard him sing'); the main clause is inverted ('did she realise')."
+    },
+    {
+      "id": "c1-u01-t-q3", "type": "fill_blank", "category": "grammar", "topic": "restrictive inversion", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the sentence with the correct inverted form of the words in brackets.",
+      "text": "Only by investing heavily in renewable energy ___ (the country / can / reduce) its emissions.",
+      "answers": [["can the country reduce"]],
+      "explanation": "After 'Only by + -ing', invert the modal and subject immediately: 'can the country reduce'."
+    },
+    {
+      "id": "c1-u01-t-q4", "type": "error_identification", "category": "grammar", "topic": "no sooner hardly", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["Hardly", "the guests had sat down", "when the waiters", "began serving the soup."],
+      "errorIndex": 1,
+      "correction": "had the guests sat down",
+      "explanation": "A fronted 'Hardly' requires the inverted past perfect: 'Hardly had the guests sat down when ...'."
+    },
+    {
+      "id": "c1-u01-t-q5", "type": "translation", "category": "grammar", "topic": "not only inversion", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Translate into English. Begin with 'Not only' and use 'she' for 'dia'.",
+      "source": "Dia tidak hanya menyelesaikan maraton itu, tetapi juga memecahkan rekor pribadinya.",
+      "direction": "id-en",
+      "answers": ["Not only did she finish the marathon, but she also broke her personal record.", "Not only did she finish the marathon, but she also broke her personal best.", "Not only did she complete the marathon, but she also broke her personal record.", "Not only did she complete the marathon, but she also broke her personal best.", "Not only did she finish the marathon, she also broke her personal record.", "Not only did she finish the marathon, she also broke her personal best.", "Not only did she complete the marathon, she also broke her personal record.", "Not only did she complete the marathon, she also broke her personal best.", "Not only did she finish the marathon, but also broke her personal record.", "Not only did she finish the marathon, but also broke her personal best.", "Not only did she complete the marathon, but also broke her personal best.", "Not only did she complete the marathon, but also broke her personal record."],
+      "explanation": "Clause-level 'Not only' requires 'did' + subject + base verb in the first clause; the second clause uses normal order with 'also'."
+    },
+    {
+      "id": "c1-u01-t-q6", "type": "sentence_reconstruction", "category": "grammar", "topic": "negative adverbial inversion", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Put the fragments in the correct order to make a sentence.",
+      "fragments": ["Seldom", "has a debut novel", "received", "such widespread praise", "from critics and readers alike"],
+      "explanation": "Seldom + has (auxiliary) + a debut novel (subject) + received (past participle) + object: 'Seldom has a debut novel received such widespread praise from critics and readers alike.'"
+    },
+    {
+      "id": "c1-u01-t-q7", "type": "multiple_select", "category": "grammar", "topic": "inversion review", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Select ALL the sentences that are grammatically correct.",
+      "options": ["Little did they realise how dangerous the path was.", "No sooner had the shop opened than a long queue formed.", "Only the head teacher can approve the trip.", "So quickly the fire spread that the building was lost.", "Not until the next morning we discovered the damage."],
+      "answers": [0, 1, 2],
+      "explanation": "Sentences 1 and 2 invert correctly. Sentence 3 needs no inversion because 'only' modifies the subject. Sentence 4 should be 'So quickly did the fire spread ...' and sentence 5 should be 'Not until the next morning did we discover ...'."
+    }
+  ]
+}

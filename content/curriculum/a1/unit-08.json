@@ -1,0 +1,620 @@
+{
+  "slug": "a1-u08-town",
+  "number": 8,
+  "title": "Places in Town",
+  "description": "Unit ini membahas tempat-tempat di kota, struktur there is / there are, preposisi tempat (in, on, next to, between, opposite ...), kalimat perintah (imperative) untuk memberi petunjuk arah, serta cara menyebut alat transportasi.",
+  "objectives": [
+    "Menyebut tempat-tempat umum di kota dan kegiatan di sana",
+    "Menggunakan there is / there are dalam kalimat positif, negatif, dan pertanyaan",
+    "Menjelaskan letak sesuatu dengan preposisi tempat",
+    "Bertanya dan memberi petunjuk arah dengan kalimat perintah",
+    "Menjelaskan cara pergi ke suatu tempat (by bus, on foot)"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u08-l1-places-in-town",
+      "title": "Places in Town",
+      "summary": "Mengenal nama tempat-tempat umum di kota dan apa yang orang lakukan di sana.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Menyebut minimal 10 tempat umum di kota",
+        "Menjelaskan kegiatan di setiap tempat dengan present simple",
+        "Memakai go to the ... dan go home dengan benar"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tempat-tempat di kota\nDi unit ini kita akan berjalan-jalan di kota fiktif bernama **Greenhill**. Pertama, kita perlu tahu nama tempat-tempat umum. Perhatikan bahwa banyak nama tempat mirip dengan bahasa Indonesia (*hotel, museum, bank*), tetapi pengucapannya berbeda.\n\n| Tempat | Arti | Apa yang kita lakukan di sana? |\n| --- | --- | --- |\n| bank | bank | You change or save money. |\n| post office | kantor pos | You send letters and parcels. |\n| hospital | rumah sakit | Doctors and nurses help sick people. |\n| pharmacy | apotek | You buy medicine. |\n| library | perpustakaan | You read and borrow books. |\n| supermarket | supermarket, pasar swalayan | You buy food and drinks. |\n| station | stasiun | You catch a train. |\n| park | taman | You walk, run, or relax. |\n| museum | museum | You look at old or beautiful things. |\n| cinema | bioskop | You watch films. |\n| police station | kantor polisi | You talk to the police. |\n\n### Hati-hati dengan library\n**Library** = perpustakaan (tempat meminjam buku), **bukan** toko buku. Toko buku dalam bahasa Inggris adalah **bookshop** (British) atau **bookstore** (American).\n\n### go to the ... / at the ...\nUntuk menyatakan **pergi ke** suatu tempat, gunakan **go to the + tempat**: *I go to the bank on Fridays.* Untuk menyatakan **berada di** suatu tempat, gunakan **at the + tempat**: *My mother is at the supermarket.*\n\nAda beberapa pengecualian penting tanpa *the*:\n- **go home** (pulang) — **tanpa** *to*: *I go home at 5 p.m.*\n- **go to school / go to work** — tanpa *the* jika kita pergi untuk belajar atau bekerja.\n\n### Bertanya tentang tempat\nPertanyaan dengan **Where** (sudah dipelajari di Unit 6) sangat berguna:\n- *Where is the post office?* — Di mana kantor pos?\n- *Where do you buy medicine?* — *At the pharmacy.*\n\nDi pelajaran berikutnya, kita akan belajar cara mengatakan *ada* (there is / there are) untuk menjelaskan isi sebuah kota.",
+        "examples": [
+          { "en": "I go to the library every Saturday.", "id": "Saya pergi ke perpustakaan setiap hari Sabtu." },
+          { "en": "My father works at the hospital.", "id": "Ayah saya bekerja di rumah sakit." },
+          { "en": "We buy medicine at the pharmacy.", "id": "Kami membeli obat di apotek." },
+          { "en": "The museum opens at 9 a.m.", "id": "Museum itu buka pukul 9 pagi." },
+          { "en": "After school, Tono goes home.", "id": "Sepulang sekolah, Tono pulang ke rumah.", "note": "go home tanpa to." }
+        ],
+        "vocabulary": [
+          { "word": "bank", "pos": "noun", "ipa": "/bæŋk/", "meaning": "bank", "example": "The bank opens at 8 a.m." },
+          { "word": "post office", "pos": "noun", "ipa": "/ˈpəʊst ɒfɪs/", "meaning": "kantor pos", "example": "I send letters at the post office." },
+          { "word": "hospital", "pos": "noun", "ipa": "/ˈhɒspɪtl/", "meaning": "rumah sakit", "example": "My aunt is a nurse at the hospital." },
+          { "word": "pharmacy", "pos": "noun", "ipa": "/ˈfɑːməsi/", "meaning": "apotek", "example": "The pharmacy sells medicine." },
+          { "word": "library", "pos": "noun", "ipa": "/ˈlaɪbrəri/", "meaning": "perpustakaan", "example": "I borrow books from the library." },
+          { "word": "station", "pos": "noun", "ipa": "/ˈsteɪʃn/", "meaning": "stasiun", "example": "The train station is very big." },
+          { "word": "museum", "pos": "noun", "ipa": "/mjuˈziːəm/", "meaning": "museum", "example": "The museum is closed on Mondays." },
+          { "word": "cinema", "pos": "noun", "ipa": "/ˈsɪnəmə/", "meaning": "bioskop", "example": "We watch films at the cinema." }
+        ],
+        "grammar": [
+          { "pattern": "go to the + tempat", "example": "She goes to the post office on Mondays." },
+          { "pattern": "be + at the + tempat", "example": "Dad is at the bank.", "note": "at = berada di suatu titik/tempat." },
+          { "pattern": "go home / go to school / go to work", "example": "I go to work by bus and go home at six.", "note": "Tanpa the; go home tanpa to." }
+        ],
+        "mistakes": [
+          { "wrong": "I go to home after school.", "right": "I go home after school.", "why": "home tidak memakai to setelah go." },
+          { "wrong": "I buy books at the library.", "right": "I borrow books from the library. / I buy books at the bookshop.", "why": "Library adalah perpustakaan (meminjam), bukan toko buku." },
+          { "wrong": "We watch films at the museum.", "right": "We watch films at the cinema.", "why": "Tempat menonton film adalah cinema (bioskop); museum adalah tempat melihat benda bersejarah atau karya seni." }
+        ],
+        "summary": "Tempat-tempat penting di kota: **bank, post office, hospital, pharmacy, library, supermarket, station, park, museum, cinema**. Gunakan **go to the + tempat** untuk *pergi ke* dan **at the + tempat** untuk *berada di*. Ingat: **go home** tanpa *to*, dan **library** = perpustakaan, bukan toko buku.",
+        "reviewCards": [
+          { "front": "library vs bookshop", "back": "library = perpustakaan; bookshop = toko buku" },
+          { "front": "pharmacy", "back": "apotek — You buy medicine there." },
+          { "front": "pulang ke rumah", "back": "go home (tanpa to)" },
+          { "front": "post office", "back": "kantor pos — You send letters and parcels there." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u08-l1-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "places in town",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Maya has a bad cold. She needs some medicine, so she goes to the ___.",
+          "instructions": "Pilih tempat yang paling tepat.",
+          "options": ["pharmacy", "library", "post office", "cinema"],
+          "answer": 0,
+          "explanation": "Obat dibeli di apotek = pharmacy."
+        },
+        {
+          "id": "a1-u08-l1-q2", "type": "matching", "category": "vocabulary", "topic": "places in town",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match each place with the activity.",
+          "pairs": [
+            { "left": "library", "right": "You borrow books here." },
+            { "left": "post office", "right": "You send letters and parcels here." },
+            { "left": "cinema", "right": "You watch films here." },
+            { "left": "supermarket", "right": "You buy food and drinks here." },
+            { "left": "station", "right": "You catch a train here." }
+          ],
+          "explanation": "library = meminjam buku; post office = mengirim surat/paket; cinema = menonton film; supermarket = membeli makanan dan minuman; station = naik kereta."
+        },
+        {
+          "id": "a1-u08-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "places in town",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with one word in each gap.",
+          "text": "Every Sunday, I go ___ the park with my dog. In the evening, we go ___ for dinner.",
+          "answers": [["to"], ["home"]],
+          "explanation": "go to the park (pergi ke taman); go home (pulang) tanpa to."
+        },
+        {
+          "id": "a1-u08-l1-q4", "type": "single_choice", "category": "grammar", "topic": "places in town",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["I go to home after school.", "I go home after school.", "I go at home after school.", "I go to the home after school."],
+          "answer": 1,
+          "explanation": "Setelah go, kata home tidak memakai to atau the: I go home."
+        },
+        {
+          "id": "a1-u08-l1-q5", "type": "multiple_select", "category": "vocabulary", "topic": "places in town",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "In which places do people usually buy things? Choose all correct answers.",
+          "options": ["supermarket", "pharmacy", "library", "park", "bakery", "police station"],
+          "answers": [0, 1, 4],
+          "explanation": "Kita membeli barang di supermarket, pharmacy (obat), dan bakery (roti). Di library kita meminjam buku, di park kita bersantai, dan di police station kita melapor ke polisi."
+        },
+        {
+          "id": "a1-u08-l1-q6", "type": "translation", "category": "vocabulary", "topic": "places in town",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Ibu saya bekerja di kantor pos.",
+          "direction": "id-en",
+          "answers": ["My mother works at the post office.", "My mother works in the post office.", "My mum works at the post office.", "My mom works at the post office.", "My mum works in the post office.", "My mom works in the post office."],
+          "explanation": "kantor pos = post office. Ibu saya (he/she → works): My mother works at the post office."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u08-l2-there-is-there-are",
+      "title": "There Is / There Are",
+      "summary": "Mengatakan 'ada' dengan there is / there are dalam kalimat positif, negatif, dan pertanyaan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan there is untuk benda tunggal dan there are untuk benda jamak",
+        "Membuat kalimat negatif dengan there isn't / there aren't any",
+        "Bertanya dengan Is there ...? / Are there any ...? dan menjawab singkat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kata 'ada' dalam bahasa Inggris\nUntuk mengatakan bahwa sesuatu **ada** di suatu tempat, bahasa Inggris memakai **there is** dan **there are**. Jangan menerjemahkan *ada* dengan *have*: ~~Have a bank in my town~~ salah. Yang benar: ***There is** a bank in my town.*\n\n### Bentuk positif\n| Bentuk | Dipakai dengan | Contoh |\n| --- | --- | --- |\n| There is (There's) | satu benda (a/an) | There's a park in Greenhill. |\n| There is (There's) | kata benda uncountable | There is some water in the bottle. |\n| There are | benda jamak | There are two cinemas in town. |\n\nCatatan: bentuk singkat *there's* sangat umum, tetapi *there are* tidak disingkat dalam tulisan.\n\n### Bentuk negatif\n| Bentuk | Contoh |\n| --- | --- |\n| There isn't a/an + tunggal | There isn't a hospital in my village. |\n| There isn't any + uncountable | There isn't any milk in the fridge. |\n| There aren't any + jamak | There aren't any museums here. |\n\nIngat dari Unit 7: **any** dipakai di kalimat negatif dan pertanyaan.\n\n### Pertanyaan dan jawaban singkat\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Is there a bank near here? | Yes, there is. | No, there isn't. |\n| Are there any cafés on this street? | Yes, there are. | No, there aren't. |\n\nUntuk menanyakan jumlah: **How many + jamak + are there?** — *How many schools are there in your town?* — *There are three.*\n\n### There is vs It is\n**There is** memperkenalkan sesuatu untuk pertama kali (ada). **It is** menjelaskan sesuatu yang sudah disebut:\n*There's a café on Market Street. **It's** very small.*\n\n### Pola kalimat yang umum\nThere is/are + benda + tempat: *There are two banks **in the town centre**.* Jangan lupa: jawaban singkat **Yes, there is** tidak boleh disingkat menjadi ~~Yes, there's~~.",
+        "examples": [
+          { "en": "There's a big park in the centre of Greenhill.", "id": "Ada sebuah taman besar di pusat kota Greenhill." },
+          { "en": "There are two supermarkets on King Street.", "id": "Ada dua supermarket di Jalan King." },
+          { "en": "There isn't a cinema in my village.", "id": "Tidak ada bioskop di desa saya." },
+          { "en": "Are there any restaurants near the hotel? — Yes, there are.", "id": "Apakah ada restoran di dekat hotel? — Ya, ada." },
+          { "en": "How many students are there in your class? — There are twenty.", "id": "Ada berapa siswa di kelasmu? — Ada dua puluh." }
+        ],
+        "vocabulary": [
+          { "word": "town", "pos": "noun", "ipa": "/taʊn/", "meaning": "kota kecil", "example": "Greenhill is a small town." },
+          { "word": "village", "pos": "noun", "ipa": "/ˈvɪlɪdʒ/", "meaning": "desa", "example": "There's a school in the village." },
+          { "word": "street", "pos": "noun", "ipa": "/striːt/", "meaning": "jalan", "example": "There are many shops on this street." },
+          { "word": "restaurant", "pos": "noun", "ipa": "/ˈrestrɒnt/", "meaning": "restoran", "example": "The restaurant is open until 10 p.m." },
+          { "word": "hotel", "pos": "noun", "ipa": "/həʊˈtel/", "meaning": "hotel", "example": "There's a new hotel in town." },
+          { "word": "town centre", "pos": "noun", "ipa": "/ˌtaʊn ˈsentə/", "meaning": "pusat kota", "example": "The bank is in the town centre." },
+          { "word": "near here", "pos": "phrase", "ipa": "/ˌnɪə ˈhɪə/", "meaning": "dekat sini", "example": "Is there a pharmacy near here?" }
+        ],
+        "grammar": [
+          { "pattern": "There is / There's + a/an + kata benda tunggal", "example": "There's a bus stop on this street." },
+          { "pattern": "There are + kata benda jamak", "example": "There are three hotels in the town centre." },
+          { "pattern": "There isn't a ... / There aren't any ...", "example": "There aren't any banks near here." },
+          { "pattern": "Is there a ...? / Are there any ...? → Yes, there is/are. No, there isn't/aren't.", "example": "Is there a library? — No, there isn't." }
+        ],
+        "mistakes": [
+          { "wrong": "In my town have a big park.", "right": "There is a big park in my town.", "why": "Kata ada diterjemahkan dengan there is/there are, bukan have." },
+          { "wrong": "There is two banks on this street.", "right": "There are two banks on this street.", "why": "Benda jamak (two banks) memakai there are." },
+          { "wrong": "Is there a café? — Yes, there's.", "right": "Is there a café? — Yes, there is.", "why": "Jawaban singkat positif tidak boleh disingkat." }
+        ],
+        "summary": "**There is** (+ benda tunggal/uncountable) dan **there are** (+ benda jamak) berarti *ada*. Negatif: **there isn't a ... / there aren't any ...** Pertanyaan: **Is there a ...? / Are there any ...?** dengan jawaban **Yes, there is / No, there aren't**. Jangan memakai *have* untuk arti *ada*.",
+        "reviewCards": [
+          { "front": "Ada sebuah bank di sini.", "back": "There is a bank here. / There's a bank here." },
+          { "front": "Are there any cafés? (jawaban tidak)", "back": "No, there aren't." },
+          { "front": "There ___ three parks.", "back": "are" },
+          { "front": "There is vs It is", "back": "There is = ada (memperkenalkan); It is = menjelaskan sesuatu yang sudah disebut" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u08-l2-q1", "type": "dropdown", "category": "grammar", "topic": "there is there are",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose is or are.",
+          "instructions": "Tunggal → is; jamak → are.",
+          "text": "There ___ a big park in Greenhill, and there ___ two cinemas.",
+          "choices": [["is", "are"], ["is", "are"]],
+          "answers": [0, 1],
+          "explanation": "a big park (tunggal) → There is; two cinemas (jamak) → there are."
+        },
+        {
+          "id": "a1-u08-l2-q2", "type": "drag_drop", "category": "grammar", "topic": "there is there are",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "There ___ a hospital in my town, but there ___ any museums.",
+          "bank": ["is", "are", "isn't", "aren't", "have"],
+          "answers": ["is", "aren't"],
+          "explanation": "a hospital (tunggal, positif) → is. but menunjukkan kontras, dan any + museums (jamak, negatif) → aren't."
+        },
+        {
+          "id": "a1-u08-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "there is there are",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Make a question.",
+          "sentence": "There is a café on Market Street.",
+          "cue": "Ubah menjadi pertanyaan Yes/No.",
+          "answers": ["Is there a café on Market Street?", "Is there a cafe on Market Street?"],
+          "explanation": "Untuk bertanya, tukar posisi there dan is: Is there a café on Market Street?"
+        },
+        {
+          "id": "a1-u08-l2-q4", "type": "dialogue_completion", "category": "conversation", "topic": "there is there are",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Tourist", "text": "Excuse me, are there any restaurants near the hotel?" },
+            { "speaker": "Receptionist", "text": null },
+            { "speaker": "Tourist", "text": "Oh, good. I'm very hungry!" }
+          ],
+          "options": ["Yes, there are.", "Yes, there is.", "No, there aren't.", "Yes, they are."],
+          "answer": 0,
+          "explanation": "Pertanyaan Are there any ...? dijawab Yes, there are. Turis senang (Oh, good), jadi jawabannya positif."
+        },
+        {
+          "id": "a1-u08-l2-q5", "type": "error_identification", "category": "grammar", "topic": "there is there are",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["In my street,", "there have", "two small shops", "and a bakery."],
+          "errorIndex": 1,
+          "correction": "there are",
+          "explanation": "Untuk arti ada, gunakan there are (two small shops jamak), bukan there have."
+        },
+        {
+          "id": "a1-u08-l2-q6", "type": "translation", "category": "grammar", "topic": "there is there are",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Ada tiga sekolah di kota saya.",
+          "direction": "id-en",
+          "answers": ["There are three schools in my town.", "There are three schools in my city.", "In my town there are three schools.", "In my city there are three schools."],
+          "explanation": "Ada + jamak (tiga sekolah) = There are three schools; di kota saya = in my town/city."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u08-l3-prepositions-place",
+      "title": "Prepositions of Place",
+      "summary": "Menjelaskan letak benda dan bangunan dengan in, on, under, next to, between, opposite, behind, dan in front of.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memahami arti delapan preposisi tempat utama",
+        "Menjelaskan letak bangunan di peta kota",
+        "Menghindari kesalahan next the dan in front the"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu preposisi tempat?\n**Preposition of place** (kata depan tempat) menjelaskan **di mana** sesuatu berada. Polanya: **benda + to be + preposisi + tempat**: *The cat **is under** the table.*\n\n### Preposisi untuk benda\n| Preposisi | Arti | Contoh |\n| --- | --- | --- |\n| in | di dalam | The keys are in the bag. |\n| on | di atas (menempel) | The book is on the table. |\n| under | di bawah | The shoes are under the bed. |\n| behind | di belakang | The garden is behind the house. |\n| in front of | di depan | The car is in front of the house. |\n\n### Preposisi untuk bangunan di kota\n| Preposisi | Arti | Contoh |\n| --- | --- | --- |\n| next to | di sebelah | The bank is next to the café. |\n| between | di antara (dua benda) | The café is between the bank and the bookshop. |\n| opposite | di seberang, berhadapan | The park is opposite the station. |\n| near | dekat | Is there a pharmacy near here? |\n\n### Bagian yang sering salah\n1. **next to** dan **in front of** selalu memakai kata kecil **to** dan **of**: ~~next the bank~~ → **next to the bank**; ~~in front the hotel~~ → **in front of the hotel**.\n2. **between** dipakai untuk **dua** benda dengan **and**: *between the bank **and** the school*.\n3. **opposite** tidak memakai *of* atau *to*: ~~opposite of the park~~ → **opposite the park**.\n4. **in front of** (di depan, sisi yang sama) berbeda dengan **opposite** (di seberang jalan, saling berhadapan).\n\n### Alamat dan jalan\nUntuk nama jalan, gunakan **on**: *The museum is **on** Lake Street.* Untuk kota atau negara, gunakan **in**: *The museum is **in** Greenhill.* Untuk alamat lengkap dengan nomor, gunakan **at**: *The library is **at** 25 Lake Street.*\n\n### Bertanya tentang letak\n*Where is the post office?* — *It's **next to** the bank, **opposite** the park.* Kita boleh menggabungkan dua preposisi untuk penjelasan yang lebih jelas.",
+        "examples": [
+          { "en": "The bank is next to the supermarket.", "id": "Bank itu di sebelah supermarket." },
+          { "en": "The café is between the bank and the bookshop.", "id": "Kafe itu di antara bank dan toko buku." },
+          { "en": "The bus stop is opposite the school.", "id": "Halte bus itu di seberang sekolah." },
+          { "en": "There's a big tree in front of the library.", "id": "Ada sebuah pohon besar di depan perpustakaan." },
+          { "en": "The museum is on Lake Street, behind the hotel.", "id": "Museum itu di Jalan Lake, di belakang hotel.", "note": "on + nama jalan." }
+        ],
+        "vocabulary": [
+          { "word": "next to", "pos": "preposition", "ipa": "/ˈnekst tə/", "meaning": "di sebelah", "example": "The pharmacy is next to the bank." },
+          { "word": "between", "pos": "preposition", "ipa": "/bɪˈtwiːn/", "meaning": "di antara", "example": "My house is between the park and the school." },
+          { "word": "opposite", "pos": "preposition", "ipa": "/ˈɒpəzɪt/", "meaning": "di seberang, berhadapan", "example": "The hotel is opposite the station." },
+          { "word": "behind", "pos": "preposition", "ipa": "/bɪˈhaɪnd/", "meaning": "di belakang", "example": "The car park is behind the cinema." },
+          { "word": "in front of", "pos": "preposition", "ipa": "/ɪn ˈfrʌnt əv/", "meaning": "di depan", "example": "Meet me in front of the museum." },
+          { "word": "under", "pos": "preposition", "ipa": "/ˈʌndə/", "meaning": "di bawah", "example": "The ball is under the chair." },
+          { "word": "near", "pos": "preposition", "ipa": "/nɪə/", "meaning": "dekat", "example": "My office is near the station." }
+        ],
+        "grammar": [
+          { "pattern": "Subjek + to be + preposisi + tempat", "example": "The post office is next to the bank." },
+          { "pattern": "between + A + and + B", "example": "The café is between the bank and the cinema." },
+          { "pattern": "on + nama jalan / in + kota / at + alamat bernomor", "example": "It's on King Street, in Greenhill. / It's at 12 King Street." }
+        ],
+        "mistakes": [
+          { "wrong": "The pharmacy is next the bank.", "right": "The pharmacy is next to the bank.", "why": "next selalu diikuti to." },
+          { "wrong": "The taxi is in front the hotel.", "right": "The taxi is in front of the hotel.", "why": "in front selalu diikuti of." },
+          { "wrong": "The park is opposite of the station.", "right": "The park is opposite the station.", "why": "opposite tidak memakai of." }
+        ],
+        "summary": "Preposisi tempat: **in** (di dalam), **on** (di atas), **under** (di bawah), **behind** (di belakang), **in front of** (di depan), **next to** (di sebelah), **between ... and ...** (di antara), **opposite** (di seberang), **near** (dekat). Ingat **next to** dan **in front of** selalu lengkap, dan **opposite** tanpa *of*. Gunakan **on** untuk nama jalan.",
+        "reviewCards": [
+          { "front": "di sebelah / di antara", "back": "next to / between ... and ..." },
+          { "front": "opposite", "back": "di seberang, berhadapan (tanpa of)" },
+          { "front": "di depan hotel", "back": "in front of the hotel" },
+          { "front": "di Jalan King", "back": "on King Street" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u08-l3-q1", "type": "single_choice", "category": "grammar", "topic": "prepositions of place",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Kucing itu berada di bawah meja. → The cat is ___ the table.",
+          "instructions": "Pilih preposisi yang berarti di bawah.",
+          "options": ["on", "under", "behind", "next to"],
+          "answer": 1,
+          "explanation": "di bawah = under. on = di atas, behind = di belakang, next to = di sebelah."
+        },
+        {
+          "id": "a1-u08-l3-q2", "type": "matching", "category": "vocabulary", "topic": "prepositions of place",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the prepositions with their Indonesian meanings.",
+          "pairs": [
+            { "left": "in front of", "right": "di depan" },
+            { "left": "behind", "right": "di belakang" },
+            { "left": "next to", "right": "di sebelah" },
+            { "left": "between", "right": "di antara" },
+            { "left": "opposite", "right": "di seberang" },
+            { "left": "under", "right": "di bawah" }
+          ],
+          "explanation": "in front of = di depan; behind = di belakang; next to = di sebelah; between = di antara; opposite = di seberang; under = di bawah."
+        },
+        {
+          "id": "a1-u08-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "prepositions of place",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Look at the description of Lake Street and complete the sentences with one word each.",
+          "context": "On one side of Lake Street there are three buildings in a row: **the bank – the café – the bookshop**. On the other side of the street, across from the café, there is **a park**.",
+          "text": "The café is ___ the bank and the bookshop. The park is ___ the café.",
+          "answers": [["between"], ["opposite"]],
+          "explanation": "Kafe berada di antara bank dan toko buku → between. Taman berada di seberang jalan, berhadapan dengan kafe → opposite."
+        },
+        {
+          "id": "a1-u08-l3-q4", "type": "drag_drop", "category": "grammar", "topic": "prepositions of place",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Kunci ada di dalam tas. Tas ada di atas kursi. Drag the correct words.",
+          "text": "The keys are ___ the bag. The bag is ___ the chair.",
+          "bank": ["in", "on", "under", "between", "opposite"],
+          "answers": ["in", "on"],
+          "explanation": "di dalam = in; di atas (menempel pada permukaan) = on."
+        },
+        {
+          "id": "a1-u08-l3-q5", "type": "error_identification", "category": "grammar", "topic": "prepositions of place",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["The pharmacy is", "next the bank", "on Hill Road."],
+          "errorIndex": 1,
+          "correction": "next to the bank",
+          "explanation": "next selalu diikuti to: next to the bank."
+        },
+        {
+          "id": "a1-u08-l3-q6", "type": "sentence_correction", "category": "grammar", "topic": "prepositions of place",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "There is a taxi in front the hotel.",
+          "answers": ["There is a taxi in front of the hotel.", "There's a taxi in front of the hotel."],
+          "explanation": "in front harus diikuti of: in front of the hotel."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u08-l4-directions-imperatives",
+      "title": "Asking for and Giving Directions",
+      "summary": "Bertanya arah dengan sopan dan memberi petunjuk dengan kalimat perintah (imperative).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk kalimat perintah positif dan negatif (Turn left. / Don't turn left.)",
+        "Bertanya arah dengan Excuse me, where is ...? dan How do I get to ...?",
+        "Memahami petunjuk arah sederhana"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kalimat perintah (imperative)\n**Imperative** dipakai untuk memberi perintah, instruksi, atau petunjuk arah. Bentuknya sangat mudah: gunakan **kata kerja dasar** di awal kalimat, **tanpa subjek**.\n\n| Jenis | Pola | Contoh |\n| --- | --- | --- |\n| Positif | Verb + ... | Turn left. |\n| Negatif | Don't + verb + ... | Don't cross here. |\n| Sopan | ... + please / Please + ... | Sit down, please. |\n\nKata kerja tidak berubah: ~~Turns left~~, ~~Turning left~~, atau ~~To turn left~~ semuanya salah sebagai petunjuk.\n\n### Ungkapan petunjuk arah\n| Bahasa Inggris | Arti |\n| --- | --- |\n| Go straight on. | Jalan lurus terus. |\n| Turn left / Turn right. | Belok kiri / kanan. |\n| Take the first / second street on the left. | Ambil jalan pertama / kedua di sebelah kiri. |\n| Go past the bank. | Lewati bank. |\n| Cross the road. | Seberangi jalan. |\n| Go to the end of the street. | Pergi sampai ujung jalan. |\n| It's on your left / right. | Tempatnya ada di sebelah kirimu / kananmu. |\n| It's on the corner. | Tempatnya di pojok/sudut jalan. |\n\n### Bertanya arah dengan sopan\nSelalu mulai dengan **Excuse me** (Permisi):\n- *Excuse me, **where is** the station?*\n- *Excuse me, **how do I get to** the museum?*\n- *Excuse me, **is there** a bank **near here**?*\n\nSetelah mendapat petunjuk, ucapkan **Thank you (very much)!** Jika tidak tahu jawabannya, katakan: *Sorry, I don't know.*\n\n### Contoh percakapan\n**A:** Excuse me, how do I get to the library?\n**B:** Go straight on and turn left at the bank. Take the second street on the right. The library is on your left, opposite the park.\n**A:** Thank you very much!\n**B:** You're welcome.\n\n### Tips\nGunakan preposisi tempat dari pelajaran sebelumnya (**next to, opposite, between**) untuk membuat petunjuk lebih jelas. Kata **right** juga berarti *benar*, tetapi dalam petunjuk arah artinya selalu *kanan*.",
+        "examples": [
+          { "en": "Go straight on and turn right at the hospital.", "id": "Jalan lurus dan belok kanan di rumah sakit." },
+          { "en": "Take the first street on the left.", "id": "Ambil jalan pertama di sebelah kiri." },
+          { "en": "Don't turn left here. It's a one-way street.", "id": "Jangan belok kiri di sini. Ini jalan satu arah." },
+          { "en": "Cross the road. The pharmacy is on your right.", "id": "Seberangi jalan. Apoteknya ada di sebelah kananmu." },
+          { "en": "Excuse me, how do I get to the station?", "id": "Permisi, bagaimana cara ke stasiun?" }
+        ],
+        "vocabulary": [
+          { "word": "turn", "pos": "verb", "ipa": "/tɜːn/", "meaning": "belok", "example": "Turn left at the corner." },
+          { "word": "left", "pos": "noun/adverb", "ipa": "/left/", "meaning": "kiri", "example": "The bank is on your left." },
+          { "word": "right", "pos": "noun/adverb", "ipa": "/raɪt/", "meaning": "kanan", "example": "Turn right at the school." },
+          { "word": "straight on", "pos": "adverb", "ipa": "/ˌstreɪt ˈɒn/", "meaning": "lurus terus", "example": "Go straight on for 200 metres." },
+          { "word": "cross", "pos": "verb", "ipa": "/krɒs/", "meaning": "menyeberang", "example": "Cross the road at the traffic lights." },
+          { "word": "corner", "pos": "noun", "ipa": "/ˈkɔːnə/", "meaning": "sudut, pojok (jalan)", "example": "The café is on the corner." },
+          { "word": "past", "pos": "preposition", "ipa": "/pɑːst/", "meaning": "melewati", "example": "Go past the cinema." }
+        ],
+        "grammar": [
+          { "pattern": "Verb (bentuk dasar) + ...", "example": "Turn right at the station." },
+          { "pattern": "Don't + verb + ...", "example": "Don't cross the road here.", "note": "Don't = do not." },
+          { "pattern": "Excuse me, how do I get to + tempat?", "example": "Excuse me, how do I get to the post office?" }
+        ],
+        "mistakes": [
+          { "wrong": "Turning left at the bank.", "right": "Turn left at the bank.", "why": "Imperative memakai kata kerja bentuk dasar." },
+          { "wrong": "Not turn right here.", "right": "Don't turn right here.", "why": "Imperative negatif memakai Don't + kata kerja." },
+          { "wrong": "Excuse me, where the station?", "right": "Excuse me, where is the station?", "why": "Pertanyaan dengan where memerlukan is." }
+        ],
+        "summary": "Imperative = **kata kerja dasar** tanpa subjek (*Turn left. Go straight on.*). Bentuk negatif: **Don't + kata kerja** (*Don't cross here.*). Tanyakan arah dengan **Excuse me, where is ...?** atau **How do I get to ...?** dan pahami ungkapan seperti **on your left, on the corner, the second street on the right**.",
+        "reviewCards": [
+          { "front": "Jalan lurus terus.", "back": "Go straight on." },
+          { "front": "Jangan belok kanan.", "back": "Don't turn right." },
+          { "front": "It's on your left.", "back": "Tempatnya di sebelah kirimu." },
+          { "front": "Bagaimana cara ke museum?", "back": "How do I get to the museum?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u08-l4-q1", "type": "single_choice", "category": "grammar", "topic": "imperatives",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Which sentence is a correct direction?",
+          "instructions": "Imperative = kata kerja bentuk dasar di awal kalimat.",
+          "options": ["Turn left at the bank.", "Turns left at the bank.", "To turn left at the bank.", "Turning left at the bank."],
+          "answer": 0,
+          "explanation": "Imperative memakai kata kerja dasar tanpa subjek: Turn left at the bank."
+        },
+        {
+          "id": "a1-u08-l4-q2", "type": "word_order", "category": "grammar", "topic": "directions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Go", "straight", "on", "and", "turn", "right", "at", "the", "station"],
+          "acceptedAnswers": ["Turn right at the station and go straight on"],
+          "explanation": "Dua perintah digabung dengan and: Go straight on and turn right at the station."
+        },
+        {
+          "id": "a1-u08-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "imperatives",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Make the instruction negative.",
+          "sentence": "Cross the road here.",
+          "cue": "Ubah ke bentuk negatif.",
+          "answers": ["Don't cross the road here.", "Do not cross the road here."],
+          "explanation": "Imperative negatif: Don't + kata kerja dasar."
+        },
+        {
+          "id": "a1-u08-l4-q4", "type": "dialogue_completion", "category": "conversation", "topic": "directions",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Tourist", "text": "Excuse me, where is the museum?" },
+            { "speaker": "Woman", "text": null },
+            { "speaker": "Tourist", "text": "Thank you very much!" }
+          ],
+          "options": ["Go straight on. It's on your left.", "Yes, there are.", "I'm from Greenhill.", "No, I don't."],
+          "answer": 0,
+          "explanation": "Pertanyaan where is ...? dijawab dengan petunjuk arah: Go straight on. It's on your left."
+        },
+        {
+          "id": "a1-u08-l4-q5", "type": "fill_blank", "category": "conversation", "topic": "directions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with one word in each gap.",
+          "text": "A: Excuse me, how do I ___ to the station? B: ___ the road and turn left. The station is on your right.",
+          "answers": [["get"], ["Cross"]],
+          "explanation": "How do I get to ...? = bagaimana cara ke ...? Cross the road = seberangi jalan."
+        },
+        {
+          "id": "a1-u08-l4-q6", "type": "single_choice", "category": "reading", "topic": "directions",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Read the directions. Where is the museum?",
+          "context": "You are at the Greenhill Hotel. *Go out of the hotel and turn right. Go straight on, past the cinema. Take the second street on the left. The museum is on your right, opposite the park.*",
+          "options": ["On the second street on the left, opposite the park.", "Next to the hotel, opposite the cinema.", "On the first street on the right.", "Behind the park, next to the cinema."],
+          "answer": 0,
+          "explanation": "Petunjuknya: ambil jalan kedua di kiri, museum ada di kanan, di seberang taman."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u08-l5-transport",
+      "title": "Getting Around: Transport",
+      "summary": "Menyebut alat transportasi dan menjelaskan cara pergi ke suatu tempat dengan by bus, by train, on foot.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Menyebut alat transportasi umum",
+        "Menggunakan by + transportasi dan on foot",
+        "Bertanya dan menjawab How do you get to ...? dan How long does it take?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Alat transportasi\n| Bahasa Inggris | Arti |\n| --- | --- |\n| bus | bus |\n| train | kereta api |\n| car | mobil |\n| taxi | taksi |\n| bike / bicycle | sepeda |\n| motorbike | sepeda motor |\n| plane | pesawat |\n| boat / ship | perahu / kapal |\n\n### Naik apa? → by + transportasi\nDalam bahasa Indonesia kita berkata *naik bus*. Dalam bahasa Inggris, gunakan **by + alat transportasi** — **tanpa** *a* atau *the*:\n- *I go to work **by bus**.*\n- *They travel to Bali **by plane**.*\n\nPengecualian penting: berjalan kaki adalah **on foot**, bukan ~~by foot~~: *I go to school **on foot**.* Kita juga bisa memakai kata kerja **walk**: *I walk to school.*\n\nJika memakai kata milik seperti *my*, gunakan **in** untuk mobil dan **on** untuk sepeda/motor: *in my car, on my bike*.\n\n### Kata kerja yang sering dipakai\n| Kata kerja | Contoh |\n| --- | --- |\n| take | I take the bus to school. |\n| ride | She rides her bike to work. |\n| drive | My dad drives to the office. |\n| walk | We walk to the park. |\n| get on / get off | Get off the bus at the station. |\n\n### Pertanyaan yang berguna\n| Pertanyaan | Jawaban |\n| --- | --- |\n| How do you get to school? | By train. / I walk. |\n| How long does it take? | About 20 minutes. |\n| Where is the bus stop? | It's opposite the bank. |\n| How much is a ticket? | It's two dollars. |\n\n**How long does it take?** = Berapa lama waktunya? Jawab dengan **It takes + waktu**: *It takes thirty minutes.*\n\n### Ingat\nJangan menerjemahkan *naik bus* menjadi ~~go with bus~~ atau ~~ride bus~~. Bentuk yang alami adalah **go by bus** atau **take the bus**.",
+        "examples": [
+          { "en": "I go to school by bus.", "id": "Saya pergi ke sekolah naik bus." },
+          { "en": "My sister walks to work. She goes on foot.", "id": "Kakak saya berjalan kaki ke kantor." },
+          { "en": "How do you get to the airport? — By taxi.", "id": "Bagaimana kamu pergi ke bandara? — Naik taksi." },
+          { "en": "It takes about forty minutes by train.", "id": "Kira-kira empat puluh menit naik kereta." },
+          { "en": "Get off the bus at Market Street.", "id": "Turunlah dari bus di Jalan Market." }
+        ],
+        "vocabulary": [
+          { "word": "bus", "pos": "noun", "ipa": "/bʌs/", "meaning": "bus", "example": "The bus comes every ten minutes." },
+          { "word": "train", "pos": "noun", "ipa": "/treɪn/", "meaning": "kereta api", "example": "I go to Bandung by train." },
+          { "word": "taxi", "pos": "noun", "ipa": "/ˈtæksi/", "meaning": "taksi", "example": "We take a taxi to the airport." },
+          { "word": "motorbike", "pos": "noun", "ipa": "/ˈməʊtəbaɪk/", "meaning": "sepeda motor", "example": "My brother goes to work by motorbike." },
+          { "word": "on foot", "pos": "phrase", "ipa": "/ɒn ˈfʊt/", "meaning": "berjalan kaki", "example": "The park is near, so we go on foot." },
+          { "word": "ticket", "pos": "noun", "ipa": "/ˈtɪkɪt/", "meaning": "tiket, karcis", "example": "A bus ticket is two dollars." },
+          { "word": "airport", "pos": "noun", "ipa": "/ˈeəpɔːt/", "meaning": "bandara", "example": "The airport is far from the city." },
+          { "word": "bus stop", "pos": "noun", "ipa": "/ˈbʌs stɒp/", "meaning": "halte bus", "example": "The bus stop is opposite the bank." }
+        ],
+        "grammar": [
+          { "pattern": "go/travel + by + transportasi", "example": "We go to the beach by car.", "note": "Tanpa a/the." },
+          { "pattern": "go on foot / walk", "example": "I go to the market on foot. / I walk to the market." },
+          { "pattern": "How do you get to ...? / How long does it take? → It takes + waktu", "example": "How long does it take? — It takes an hour." }
+        ],
+        "mistakes": [
+          { "wrong": "I go to school by foot.", "right": "I go to school on foot.", "why": "Berjalan kaki = on foot, bukan by foot." },
+          { "wrong": "My mother goes to the market with bus.", "right": "My mother goes to the market by bus.", "why": "Naik + kendaraan = by + kendaraan, bukan with." },
+          { "wrong": "We travel by the train.", "right": "We travel by train.", "why": "Setelah by, kendaraan tidak memakai the." }
+        ],
+        "summary": "Gunakan **by + kendaraan** tanpa *a/the* (*by bus, by train, by taxi*) dan **on foot** untuk berjalan kaki. Kata kerja umum: **take the bus, ride a bike, drive, walk**. Tanyakan **How do you get to ...?** dan **How long does it take?** — jawab **It takes + waktu**.",
+        "reviewCards": [
+          { "front": "naik bus", "back": "by bus / take the bus" },
+          { "front": "berjalan kaki", "back": "on foot (bukan by foot) / walk" },
+          { "front": "How long does it take?", "back": "Berapa lama? → It takes 20 minutes." },
+          { "front": "bus stop", "back": "halte bus" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u08-l5-q1", "type": "fill_blank", "category": "grammar", "topic": "transport",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Complete with one word in each gap.",
+          "instructions": "Kendaraan → by; berjalan kaki → on.",
+          "text": "I go to work ___ bus. My brother lives near his office, so he goes ___ foot.",
+          "answers": [["by"], ["on"]],
+          "explanation": "by bus = naik bus; on foot = berjalan kaki."
+        },
+        {
+          "id": "a1-u08-l5-q2", "type": "translation", "category": "vocabulary", "topic": "transport",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Saya pergi ke sekolah naik sepeda motor.",
+          "direction": "id-en",
+          "answers": ["I go to school by motorbike.", "I go to school by motorcycle.", "I ride a motorbike to school.", "I ride my motorbike to school.", "I ride a motorcycle to school.", "I ride my motorcycle to school."],
+          "explanation": "naik sepeda motor = by motorbike (atau ride a motorbike). Tidak memakai with."
+        },
+        {
+          "id": "a1-u08-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "transport",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "How do you get to school or work? Say your transport, how long it takes, and where you get on or off.",
+          "targetPhrases": ["I go to", "by", "It takes", "get off"],
+          "sampleAnswer": "I go to work by bus. The bus stop is opposite my house. It takes about thirty minutes. I get off the bus at Market Street, and then I walk to my office.",
+          "explanation": "Gunakan I go to ... by ..., It takes + waktu, dan I get on/off the bus at ... untuk menjelaskan perjalananmu."
+        },
+        {
+          "id": "a1-u08-l5-q4", "type": "single_choice", "category": "grammar", "topic": "transport",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "How ___ you get to the airport? — By taxi.",
+          "options": ["do", "does", "are", "is"],
+          "answer": 0,
+          "explanation": "Pertanyaan present simple dengan you memakai do: How do you get to the airport?"
+        },
+        {
+          "id": "a1-u08-l5-q5", "type": "error_identification", "category": "grammar", "topic": "transport",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["My sister goes", "to the office", "with bus", "every day."],
+          "errorIndex": 2,
+          "correction": "by bus",
+          "explanation": "naik bus = by bus, bukan with bus."
+        },
+        {
+          "id": "a1-u08-l5-q6", "type": "matching", "category": "conversation", "topic": "transport",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Match the questions with the answers.",
+          "pairs": [
+            { "left": "How do you get to school?", "right": "By train." },
+            { "left": "How long does it take?", "right": "About thirty minutes." },
+            { "left": "Where is the bus stop?", "right": "It's opposite the bank." },
+            { "left": "How much is a ticket?", "right": "It's two dollars." }
+          ],
+          "explanation": "How do you get ...? → transportasi; How long ...? → waktu; Where ...? → tempat; How much ...? → harga."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u08-t-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "places in town",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Tom has a parcel for his aunt in Medan. He goes to the ___ to send it.",
+      "options": ["post office", "museum", "park", "library"],
+      "answer": 0,
+      "explanation": "Paket dikirim di kantor pos = post office."
+    },
+    {
+      "id": "a1-u08-t-q2", "type": "dropdown", "category": "grammar", "topic": "there is there are",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ there any banks on this street? B: No, there ___.",
+      "choices": [["Is", "Are"], ["isn't", "aren't"]],
+      "answers": [1, 1],
+      "explanation": "any banks (jamak) → Are there ...? Jawaban negatif: No, there aren't."
+    },
+    {
+      "id": "a1-u08-t-q3", "type": "sentence_reconstruction", "category": "conversation", "topic": "directions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the parts in order to make a polite question.",
+      "fragments": ["Excuse me,", "is there a supermarket", "near the station?"],
+      "explanation": "Mulai dengan Excuse me, lalu pertanyaan Is there a ...? dan keterangan tempat."
+    },
+    {
+      "id": "a1-u08-t-q4", "type": "fill_blank", "category": "grammar", "topic": "prepositions of place",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Toko buku itu berada di sebelah kafe. Complete the sentence.",
+      "text": "The bookshop is ___ the café.",
+      "answers": [["next to", "beside"]],
+      "explanation": "di sebelah = next to (atau beside)."
+    },
+    {
+      "id": "a1-u08-t-q5", "type": "translation", "category": "grammar", "topic": "imperatives",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Jangan belok kiri di sini.",
+      "direction": "id-en",
+      "answers": ["Don't turn left here.", "Do not turn left here."],
+      "explanation": "Jangan + kata kerja = Don't + kata kerja dasar: Don't turn left here."
+    },
+    {
+      "id": "a1-u08-t-q6", "type": "sentence_correction", "category": "grammar", "topic": "there is there are",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "There is two parks near my house.",
+      "answers": ["There are two parks near my house."],
+      "explanation": "two parks (jamak) memakai there are."
+    },
+    {
+      "id": "a1-u08-t-q7", "type": "single_choice", "category": "reading", "topic": "describing a town",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Read the text. Which sentence is true?",
+      "context": "Welcome to Greenhill! There is a big park in the centre of town. There are two supermarkets, but there isn't a cinema. Most people go to work by bus, and the bus stop is opposite the park.",
+      "options": ["There isn't a cinema in Greenhill.", "There are two parks in Greenhill.", "Most people go to work by train.", "The bus stop is behind the park."],
+      "answer": 0,
+      "explanation": "Teks menyebut there isn't a cinema. Taman hanya satu, orang naik bus, dan halte ada di seberang (opposite) taman."
+    },
+    {
+      "id": "a1-u08-t-q8", "type": "error_identification", "category": "grammar", "topic": "transport",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["The school is near,", "so the children", "go there", "by foot."],
+      "errorIndex": 3,
+      "correction": "on foot.",
+      "explanation": "Berjalan kaki = on foot, bukan by foot."
+    }
+  ]
+}

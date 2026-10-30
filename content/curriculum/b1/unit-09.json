@@ -1,0 +1,1362 @@
+{
+  "slug": "b1-u09-reported-speech",
+  "number": 9,
+  "title": "What Did They Say?",
+  "description": "Menyampaikan kembali apa yang dikatakan atau ditanyakan orang lain dengan reported speech. Kamu akan belajar backshift (perubahan tense), perubahan pronoun serta kata keterangan waktu dan tempat, reported questions, perbedaan say dan tell, dan kosakata untuk berita dan gosip.",
+  "objectives": [
+    "Mengubah direct speech menjadi reported statements dengan backshift yang tepat",
+    "Menyesuaikan pronoun serta kata keterangan waktu dan tempat dalam reported speech",
+    "Melaporkan pertanyaan yes/no dan wh- dengan susunan kata yang benar",
+    "Memakai say, tell, dan reporting verbs lain untuk menyampaikan berita dan gosip"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u09-l1-reported-statements",
+      "title": "Reported Statements and Backshift",
+      "summary": "Menyampaikan kembali ucapan orang lain dengan said (that) dan memundurkan tense (backshift).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan direct speech dan reported speech",
+        "Menerapkan backshift: present → past, present perfect/past simple → past perfect, will → would, can → could",
+        "Mengubah pronoun sesuai sudut pandang pelapor"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Direct speech vs reported speech\n**Direct speech** mengutip kata-kata persis seseorang dengan tanda kutip: *\"I'm tired,\" said Nadia.* **Reported speech** (indirect speech) menceritakan kembali isi ucapan itu tanpa tanda kutip: *Nadia said (that) she was tired.* We use reported speech all the time when we pass on news, messages and gossip.\n\n### Backshift: tense mundur satu langkah\nKalau reporting verb-nya berbentuk past (*said*, *told*), tense dalam ucapan asli biasanya **mundur satu langkah ke masa lalu**. This change is called **backshift**.\n\n| Direct speech | Reported speech |\n|---|---|\n| present simple: \"I **work** here.\" | past simple: he said he **worked** there |\n| present continuous: \"I'**m studying**.\" | past continuous: she said she **was studying** |\n| present perfect: \"I'**ve finished**.\" | past perfect: he said he **had finished** |\n| past simple: \"I **saw** it.\" | past perfect: she said she **had seen** it |\n| will: \"I'**ll call** you.\" | would: he said he **would call** me |\n| can: \"I **can** swim.\" | could: she said she **could** swim |\n\n*Am/is/are* menjadi *was/were*. Past perfect sudah kamu pelajari di Unit 2, jadi sekarang kamu bisa memakainya untuk melaporkan ucapan.\n\n### Pronoun juga berubah\nPronoun disesuaikan dengan siapa yang berbicara sekarang. *\"I love **my** job,\" said Ari.* → *Ari said that **he** loved **his** job.* Always ask yourself: who said it, and who am I talking to now?\n\n### That boleh dihilangkan\nKata **that** setelah *said* bersifat opsional: *She said (that) she was busy.* Both forms are correct and very common.\n\n### Kapan backshift tidak wajib?\n- If the reporting verb is in the present (*says*, *has said*), we keep the original tense: *Dina says she is busy.*\n- If the information is **still true** now, backshift is optional: *He said he lives in Port Selwyn* (dan dia memang masih tinggal di sana).\n- Past simple → past perfect juga sering tidak diubah dalam percakapan santai.\n\nNamun di level B1, gunakan backshift sebagai **aturan standar**, terutama kalau ucapan itu terjadi cukup lama yang lalu atau situasinya sudah berubah. In the exercises, follow the standard rule.\n\n### Tips untuk penutur bahasa Indonesia\nBahasa Indonesia tidak mengubah kata kerja: *Dia bilang dia capek.* In English, the verb usually changes: *She said she **was** tired.* Ingat, *was* di sini tidak berarti \"dulu\" — it simply follows the past reporting verb *said*.",
+        "examples": [
+          {
+            "en": "Nadia said that she was hungry.",
+            "id": "Nadia bilang bahwa dia lapar.",
+            "note": "\"I'm hungry.\" → was hungry (am → was)."
+          },
+          {
+            "en": "Rudi said he was working on a new project.",
+            "id": "Rudi bilang dia sedang mengerjakan proyek baru.",
+            "note": "\"I'm working...\" → was working (present continuous → past continuous)."
+          },
+          {
+            "en": "My sister said she had passed her driving test.",
+            "id": "Kakak perempuan saya bilang dia sudah lulus ujian mengemudi.",
+            "note": "\"I've passed...\" → had passed (present perfect → past perfect)."
+          },
+          {
+            "en": "The mechanic said he would fix the car by Thursday.",
+            "id": "Montir itu bilang dia akan memperbaiki mobilnya paling lambat hari Kamis.",
+            "note": "\"I'll fix...\" → would fix (will → would)."
+          },
+          {
+            "en": "Ari said that he could play the guitar.",
+            "id": "Ari bilang bahwa dia bisa bermain gitar.",
+            "note": "\"I can play...\" → could play (can → could)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "report",
+            "pos": "verb",
+            "ipa": "/rɪˈpɔːt/",
+            "meaning": "melaporkan; menyampaikan kembali",
+            "example": "The journalist reported that the fire had started at night."
+          },
+          {
+            "word": "claim",
+            "pos": "verb",
+            "ipa": "/kleɪm/",
+            "meaning": "mengklaim; mengaku (belum tentu benar)",
+            "example": "He claimed that he had never seen the letter."
+          },
+          {
+            "word": "complain",
+            "pos": "verb",
+            "ipa": "/kəmˈpleɪn/",
+            "meaning": "mengeluh",
+            "example": "The guests complained that the room was too cold."
+          },
+          {
+            "word": "promise",
+            "pos": "verb",
+            "ipa": "/ˈprɒmɪs/",
+            "meaning": "berjanji",
+            "example": "Dimas promised that he would call me later."
+          },
+          {
+            "word": "quote",
+            "pos": "verb",
+            "ipa": "/kwəʊt/",
+            "meaning": "mengutip (kata-kata persis)",
+            "example": "The article quoted the teacher's exact words."
+          },
+          {
+            "word": "statement",
+            "pos": "noun",
+            "ipa": "/ˈsteɪtmənt/",
+            "meaning": "pernyataan",
+            "example": "The manager made a short statement to the staff."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + said (that) + subject + backshifted verb",
+            "example": "Tia said (that) she was busy.",
+            "note": "That boleh dipakai atau dihilangkan."
+          },
+          {
+            "pattern": "present → past; present perfect / past simple → past perfect",
+            "example": "\"I've lost my key.\" → He said he had lost his key.",
+            "note": "Tense mundur satu langkah setelah reporting verb past."
+          },
+          {
+            "pattern": "will → would; can → could",
+            "example": "\"I'll help you.\" → She said she would help me.",
+            "note": "Modal will dan can juga berubah ke bentuk past-nya."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Last week Tia said she will come to my party, but she didn't come.",
+            "right": "Last week Tia said she would come to my party, but she didn't come.",
+            "why": "Ucapan dilaporkan dengan said dan situasinya sudah lewat, jadi will berubah menjadi would."
+          },
+          {
+            "wrong": "Bima said that I was hungry. (Bima was talking about himself.)",
+            "right": "Bima said that he was hungry.",
+            "why": "Pronoun harus disesuaikan: \"I\" dalam ucapan Bima menjadi he dalam reported speech."
+          },
+          {
+            "wrong": "Dewi said that she were tired.",
+            "right": "Dewi said that she was tired.",
+            "why": "Subject she memakai was, bukan were."
+          },
+          {
+            "wrong": "He said that he has finished the report two days before.",
+            "right": "He said that he had finished the report two days before.",
+            "why": "Setelah said, present perfect berubah menjadi past perfect (had + V3)."
+          }
+        ],
+        "summary": "Reported speech menyampaikan isi ucapan tanpa tanda kutip: *She said (that) she was tired.* After a past reporting verb, move the tense one step back (**backshift**): present → past, present perfect/past simple → past perfect, will → would, can → could. Jangan lupa mengubah pronoun sesuai sudut pandang pelapor.",
+        "reviewCards": [
+          {
+            "front": "\"I'm busy.\" → She said ...",
+            "back": "She said (that) she was busy."
+          },
+          {
+            "front": "Backshift: present perfect →",
+            "back": "past perfect: \"I've finished.\" → He said he had finished."
+          },
+          {
+            "front": "will / can dalam reported speech",
+            "back": "will → would, can → could"
+          },
+          {
+            "front": "Apakah that wajib setelah said?",
+            "back": "Tidak. She said (that) she was busy — keduanya benar."
+          },
+          {
+            "front": "Kapan backshift opsional?",
+            "back": "Reporting verb present (says), atau informasinya masih benar sekarang."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u09-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "reported statements",
+          "difficulty": 2,
+          "stage": "guided",
+          "context": "Last night Nadia said, \"I'm really tired.\"",
+          "prompt": "Report what Nadia said: Nadia said that she ___ really tired.",
+          "options": ["was", "is", "were", "has been"],
+          "answer": 0,
+          "explanation": "Reporting verb *said* adalah past, jadi *am* mundur menjadi **was**. Subject *she* takes *was*, not *were*.",
+          "misconception": "Banyak pelajar mempertahankan tense asli (is). After said, the standard rule is backshift."
+        },
+        {
+          "id": "b1-u09-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "backshift",
+          "difficulty": 2,
+          "stage": "independent",
+          "instructions": "Use the standard backshift rule.",
+          "context": "Last year, Andi said, \"I work at a bank, and I'm studying law in the evenings.\"",
+          "prompt": "Complete the reported statement with the correct form of the verbs in brackets.",
+          "text": "Andi said that he ___ (work) at a bank and that he ___ (study) law in the evenings.",
+          "answers": [["worked"], ["was studying"]],
+          "explanation": "Present simple *work* → past simple **worked**; present continuous *am studying* → past continuous **was studying**. Ucapan ini terjadi tahun lalu, jadi backshift diperlukan."
+        },
+        {
+          "id": "b1-u09-l1-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "backshift",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each verb form in direct speech with its form in reported speech.",
+          "pairs": [
+            { "left": "is", "right": "was" },
+            { "left": "are watching", "right": "were watching" },
+            { "left": "has finished", "right": "had finished" },
+            { "left": "will call", "right": "would call" },
+            { "left": "can swim", "right": "could swim" }
+          ],
+          "explanation": "Setiap tense mundur satu langkah: is → was, are watching → were watching, has finished → had finished, will → would, can → could. This is the backshift table you should memorise."
+        },
+        {
+          "id": "b1-u09-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "will → would",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["Last month,", "Mira said that", "she will call me,", "but she never did."],
+          "errorIndex": 2,
+          "correction": "she would call me,",
+          "explanation": "Janji Mira dibuat bulan lalu dan sudah lewat, jadi *will* harus menjadi **would** setelah *said*. The phrase *but she never did* shows the situation is finished."
+        },
+        {
+          "id": "b1-u09-l1-q5",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "present perfect → past perfect",
+          "difficulty": 3,
+          "stage": "quiz",
+          "instructions": "Use the standard backshift rule.",
+          "prompt": "Rewrite the sentence in reported speech.",
+          "sentence": "\"I have lost my wallet,\" said Pak Darto.",
+          "cue": "Begin with: Pak Darto said that he ...",
+          "answers": [
+            "Pak Darto said that he had lost his wallet",
+            "Pak Darto said he had lost his wallet",
+            "Pak Darto said that he'd lost his wallet",
+            "Pak Darto said he'd lost his wallet",
+            "Pak Darto said that he lost his wallet",
+            "Pak Darto said he lost his wallet"
+          ],
+          "explanation": "Present perfect *have lost* → past perfect **had lost**, dan *my* → **his** karena Pak Darto laki-laki. The standard answer is *Pak Darto said (that) he had lost his wallet.*"
+        },
+        {
+          "id": "b1-u09-l1-q6",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "reported statements",
+          "difficulty": 3,
+          "stage": "quiz",
+          "instructions": "Use the standard backshift rule.",
+          "context": "When I met Ayu two years ago, she said, \"I can speak three languages, and I'm learning Korean.\"",
+          "prompt": "Choose the correct words to report what Ayu said.",
+          "text": "Ayu said that she ___ speak three languages and that she ___ learning Korean.",
+          "choices": [
+            ["could", "can", "would"],
+            ["was", "is", "has been"]
+          ],
+          "answers": [0, 0],
+          "explanation": "*Can* → **could**, dan *am learning* → **was learning**. Ucapan terjadi dua tahun lalu, so we use backshift for both verbs."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u09-l2-time-place-changes",
+      "title": "Changing Pronouns, Time and Place Words",
+      "summary": "Menyesuaikan pronoun serta kata keterangan waktu dan tempat (today, tomorrow, here, this) dalam reported speech.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengubah today, tomorrow, yesterday, next week, ago dalam reported speech",
+        "Mengubah here, this, dan these sesuai sudut pandang baru",
+        "Menerapkan tiga langkah: tense, pronoun, waktu/tempat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mengapa kata keterangan waktu berubah?\nWhen we report speech later, the time and place are often different. Kalau Bayu berkata pada hari Senin *\"I'll finish it tomorrow\"*, lalu kamu menceritakannya pada hari Jumat, kata *tomorrow* tidak lagi tepat — dari sudut pandang hari Jumat, tomorrow adalah hari Sabtu! So we change it to **the next day** or **the following day**.\n\n### Tabel perubahan\n| Direct | Reported |\n|---|---|\n| now | then / at that time |\n| today | that day |\n| tonight | that night |\n| tomorrow | the next day / the following day |\n| yesterday | the day before / the previous day |\n| next week / month / year | the following week / the next week |\n| last week / month / year | the week before / the previous week |\n| two days ago | two days before / two days earlier |\n| here | there |\n| this (book) | that (book) |\n| these (shoes) | those (shoes) |\n\n### Pronoun dan possessive\nJangan lupa mengubah pronoun dan possessive adjective sesuai sudut pandang. *\"I left **my** bag **here**,\" said Sinta.* → *Sinta said that **she** had left **her** bag **there**.* Notice that three things change at the same time: the tense, the pronouns and the place word.\n\n### Langkah-langkah (step by step)\n1. Change the **tense** (backshift).\n2. Change the **pronouns** and possessives (I → he/she, my → his/her, we → they, our → their).\n3. Change **time and place** words if the time or place is different now.\n\n### Kapan tidak perlu diubah?\nIf you report something on the same day and in the same place, you don't need to change *today* or *here*: pagi ini Tom berkata \"I'm busy today\", lalu siang ini kamu bisa bilang *Tom said he was busy today.* Gunakan logika: apakah waktunya masih sama? In the exercises in this unit, assume the words were spoken at a different time and place unless the context says otherwise.\n\n### Hati-hati dengan *ago*\n*Ago* dihitung dari **sekarang**, jadi dalam reported speech biasanya berubah menjadi **before** atau **earlier**: *\"I moved here three years ago.\"* → *He said he had moved there three years before.* Hal yang sama berlaku untuk *now*: gunakan *then* atau *at that time*.",
+        "examples": [
+          {
+            "en": "Sinta said that she had left her bag there.",
+            "id": "Sinta bilang bahwa dia meninggalkan tasnya di sana.",
+            "note": "\"I left my bag here.\" → my → her, here → there."
+          },
+          {
+            "en": "Bayu said he would finish the report the next day.",
+            "id": "Bayu bilang dia akan menyelesaikan laporannya keesokan harinya.",
+            "note": "tomorrow → the next day / the following day."
+          },
+          {
+            "en": "The nurse said that the doctor had visited the day before.",
+            "id": "Perawat itu bilang dokternya sudah berkunjung sehari sebelumnya.",
+            "note": "yesterday → the day before / the previous day."
+          },
+          {
+            "en": "Fikri said he was too busy to talk then.",
+            "id": "Fikri bilang dia terlalu sibuk untuk mengobrol saat itu.",
+            "note": "now → then."
+          },
+          {
+            "en": "My aunt said she had bought those plates two years before.",
+            "id": "Bibi saya bilang dia membeli piring-piring itu dua tahun sebelumnya.",
+            "note": "these → those, two years ago → two years before."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "the following day",
+            "pos": "phrase",
+            "ipa": "/ðə ˈfɒləʊɪŋ deɪ/",
+            "meaning": "keesokan harinya",
+            "example": "She said she would send the photos the following day."
+          },
+          {
+            "word": "previous",
+            "pos": "adjective",
+            "ipa": "/ˈpriːviəs/",
+            "meaning": "sebelumnya",
+            "example": "He said he had arrived the previous evening."
+          },
+          {
+            "word": "earlier",
+            "pos": "adverb",
+            "ipa": "/ˈɜːliə/",
+            "meaning": "lebih awal; sebelumnya",
+            "example": "They said they had met three months earlier."
+          },
+          {
+            "word": "at that time",
+            "pos": "phrase",
+            "ipa": "/ət ðæt taɪm/",
+            "meaning": "pada saat itu",
+            "example": "Rina said she was living with her cousin at that time."
+          },
+          {
+            "word": "pass on",
+            "pos": "phrasal verb",
+            "ipa": "/pɑːs ˈɒn/",
+            "meaning": "menyampaikan (pesan) kepada orang lain",
+            "example": "Can you pass on this message to Mr. Lubis?"
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "today → that day; tomorrow → the next/following day; yesterday → the day before/the previous day",
+            "example": "\"I saw her yesterday.\" → He said he had seen her the day before.",
+            "note": "Ubah hanya jika waktunya sudah berbeda dari saat ucapan."
+          },
+          {
+            "pattern": "here → there; this → that; these → those",
+            "example": "\"I like this café.\" → She said she liked that café.",
+            "note": "Ubah jika tempatnya berbeda dari saat ucapan."
+          },
+          {
+            "pattern": "I/my → he/his or she/her; we/our → they/their",
+            "example": "\"We love our new house.\" → They said they loved their new house.",
+            "note": "Sesuaikan pronoun dengan sudut pandang pelapor."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "On Monday he said he would call me tomorrow. (Now it is Friday.)",
+            "right": "On Monday he said he would call me the next day.",
+            "why": "Dari sudut pandang hari Jumat, tomorrow sudah tidak tepat; gunakan the next day / the following day."
+          },
+          {
+            "wrong": "She said she had moved there three years ago.",
+            "right": "She said she had moved there three years before.",
+            "why": "Ago dihitung dari sekarang; dalam reported speech gunakan before atau earlier."
+          },
+          {
+            "wrong": "Raka said that I would visit his grandmother. (Raka was talking about himself.)",
+            "right": "Raka said that he would visit his grandmother.",
+            "why": "I dalam ucapan Raka berubah menjadi he."
+          },
+          {
+            "wrong": "They said they had bought these tickets the week before.",
+            "right": "They said they had bought those tickets the week before.",
+            "why": "Saat dilaporkan di tempat/waktu lain, these berubah menjadi those."
+          }
+        ],
+        "summary": "In reported speech, change three things: the **tense**, the **pronouns**, and the **time/place words** (today → that day, tomorrow → the next day, yesterday → the day before, here → there, this → that, ago → before). Gunakan logika: ubah kata waktu dan tempat jika waktu atau tempatnya sudah berbeda dari saat ucapan.",
+        "reviewCards": [
+          {
+            "front": "tomorrow → ?",
+            "back": "the next day / the following day"
+          },
+          {
+            "front": "yesterday → ?",
+            "back": "the day before / the previous day"
+          },
+          {
+            "front": "two weeks ago → ?",
+            "back": "two weeks before / two weeks earlier"
+          },
+          {
+            "front": "here / this / these → ?",
+            "back": "there / that / those"
+          },
+          {
+            "front": "Tiga langkah reported speech",
+            "back": "1) tense, 2) pronoun, 3) kata waktu & tempat"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u09-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "time word changes",
+          "difficulty": 2,
+          "stage": "guided",
+          "context": "On Monday, Bayu said, \"I'll finish the report tomorrow.\"",
+          "prompt": "It is now Friday. Complete: Bayu said that he would finish the report ___.",
+          "options": ["tomorrow", "the next day", "the day before", "yesterday"],
+          "answer": 1,
+          "explanation": "Dari sudut pandang hari Jumat, *tomorrow* sudah tidak tepat. We change *tomorrow* to **the next day** (or *the following day*).",
+          "misconception": "Kata keterangan waktu tidak selalu ikut disalin; perhatikan kapan kamu melaporkannya."
+        },
+        {
+          "id": "b1-u09-l2-q2",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "time and place word changes",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match the words in direct speech with the words we usually use in reported speech.",
+          "pairs": [
+            { "left": "today", "right": "that day" },
+            { "left": "yesterday", "right": "the day before" },
+            { "left": "here", "right": "there" },
+            { "left": "these", "right": "those" },
+            { "left": "next week", "right": "the following week" },
+            { "left": "now", "right": "then" }
+          ],
+          "explanation": "Kata waktu dan tempat bergeser mengikuti sudut pandang pelapor: today → that day, yesterday → the day before, here → there, these → those, next week → the following week, now → then."
+        },
+        {
+          "id": "b1-u09-l2-q3",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "time and place word changes",
+          "difficulty": 3,
+          "stage": "independent",
+          "context": "Last month, Sinta said, \"I bought this dress here yesterday.\"",
+          "prompt": "Complete the reported statement with words from the bank.",
+          "text": "Sinta said that she had bought ___ dress ___ the ___ before.",
+          "bank": ["that", "there", "day", "this", "here", "week", "tomorrow"],
+          "answers": ["that", "there", "day"],
+          "explanation": "*This* → **that**, *here* → **there**, *yesterday* → **the day before**. Tense juga sudah berubah: *bought* → *had bought*."
+        },
+        {
+          "id": "b1-u09-l2-q4",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "pronoun and time changes",
+          "difficulty": 3,
+          "stage": "quiz",
+          "context": "On Friday, Mr. Lubis said, \"My team is meeting the new clients today.\"",
+          "prompt": "It is now Monday. Complete the reported statement (one or two words per gap).",
+          "text": "Mr. Lubis said that ___ team was meeting the new clients ___.",
+          "answers": [["his"], ["that day"]],
+          "explanation": "*My* → **his** (Mr. Lubis laki-laki), dan *today* → **that day** karena sekarang sudah hari Senin, bukan hari Jumat lagi."
+        },
+        {
+          "id": "b1-u09-l2-q5",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "reported statements with time changes",
+          "difficulty": 3,
+          "stage": "quiz",
+          "context": "Tari and Yoga said this last spring.",
+          "prompt": "Rewrite the sentence in reported speech.",
+          "sentence": "\"We will move into our new flat next month.\"",
+          "cue": "Begin with: Tari and Yoga said ...",
+          "answers": [
+            "Tari and Yoga said that they would move into their new flat the following month",
+            "Tari and Yoga said they would move into their new flat the following month",
+            "Tari and Yoga said that they would move into their new flat the next month",
+            "Tari and Yoga said they would move into their new flat the next month",
+            "Tari and Yoga said that they'd move into their new flat the following month",
+            "Tari and Yoga said they'd move into their new flat the following month",
+            "Tari and Yoga said that they'd move into their new flat the next month",
+            "Tari and Yoga said they'd move into their new flat the next month"
+          ],
+          "explanation": "Tiga perubahan: *will* → **would**, *we/our* → **they/their**, *next month* → **the following month** (atau *the next month*)."
+        },
+        {
+          "id": "b1-u09-l2-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "reported statements with time changes",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English. Use reported speech with said.",
+          "source": "Dimas berkata bahwa dia akan datang keesokan harinya.",
+          "direction": "id-en",
+          "answers": [
+            "Dimas said that he would come the next day",
+            "Dimas said he would come the next day",
+            "Dimas said that he would come the following day",
+            "Dimas said he would come the following day",
+            "Dimas said that he'd come the next day",
+            "Dimas said he'd come the next day",
+            "Dimas said that he'd come the following day",
+            "Dimas said he'd come the following day"
+          ],
+          "explanation": "*Akan* setelah *said* → **would**; *keesokan harinya* → **the next day / the following day**. That boleh dipakai atau tidak."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u09-l3-reported-questions",
+      "title": "Reported Questions",
+      "summary": "Melaporkan pertanyaan yes/no dengan if/whether dan pertanyaan wh- dengan susunan kata kalimat berita.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Melaporkan pertanyaan yes/no dengan asked + if/whether",
+        "Melaporkan pertanyaan wh- dengan susunan subject + verb",
+        "Menghilangkan do/does/did dan tanda tanya dalam reported questions"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dari pertanyaan menjadi kalimat berita\nWhen we report a question, the result is **not a question any more**. Tidak ada tanda tanya, dan susunan katanya kembali menjadi **subject + verb** (statement word order). The most common reporting verbs are **ask**, **want to know** and **wonder**.\n\n### 1. Yes/no questions → if / whether\n| Direct | Reported |\n|---|---|\n| \"**Are you** busy?\" | She asked **if I was** busy. |\n| \"**Do you** like jazz?\" | He asked **whether I liked** jazz. |\n| \"**Have you** finished?\" | They asked **if I had** finished. |\n| \"**Can you** drive?\" | She asked **if I could** drive. |\n\n*If* dan *whether* artinya sama di sini (\"apakah\"). *Whether* is a little more formal.\n\n### 2. Wh- questions → question word + subject + verb\n| Direct | Reported |\n|---|---|\n| \"Where **do you live**?\" | He asked where **I lived**. |\n| \"What **are you doing**?\" | She asked what **I was doing**. |\n| \"Why **did you leave**?\" | They asked why **I had left**. |\n| \"When **will you arrive**?\" | He wanted to know when **I would arrive**. |\n\n### Aturan penting\n- **Hilangkan do/does/did.** These auxiliaries only make direct questions. In reported questions the main verb carries the tense: *\"Where do you work?\"* → *She asked where I **worked**.*\n- **Subject sebelum verb.** *He asked where **was I** going* ✗ → *He asked where **I was** going* ✓.\n- **Tanpa tanda tanya.** The reported question is part of a statement, so it ends with a full stop.\n- **Backshift** tetap berlaku seperti pada reported statements, termasuk perubahan pronoun dan kata waktu.\n- *Ask* bisa langsung diikuti orang: *She **asked me** if...* (bukan *asked to me*). *Want to know* tidak diikuti orang: *He wanted to know where I lived.*\n\n### Bandingkan dengan bahasa Indonesia\nDalam bahasa Indonesia kita cukup memakai *apakah* atau kata tanya: *Dia bertanya apakah saya sibuk. Dia bertanya di mana saya tinggal.* English works in a similar way: *if/whether* = *apakah*. The difficult part for Indonesian speakers is the **word order** and removing *do/did*, so practise these two points carefully.",
+        "examples": [
+          {
+            "en": "The receptionist asked me if I had a reservation.",
+            "id": "Resepsionis bertanya kepada saya apakah saya punya reservasi.",
+            "note": "\"Do you have a reservation?\" → if I had a reservation."
+          },
+          {
+            "en": "My grandmother asked whether I was eating enough.",
+            "id": "Nenek saya bertanya apakah saya makan cukup.",
+            "note": "\"Are you eating enough?\" → whether I was eating."
+          },
+          {
+            "en": "The teacher asked us what we had done at the weekend.",
+            "id": "Guru bertanya kepada kami apa yang sudah kami lakukan pada akhir pekan.",
+            "note": "\"What did you do at the weekend?\" → what we had done."
+          },
+          {
+            "en": "Hana wanted to know when the next bus would leave.",
+            "id": "Hana ingin tahu kapan bus berikutnya akan berangkat.",
+            "note": "\"When will the next bus leave?\" → when the next bus would leave."
+          },
+          {
+            "en": "The interviewer asked me why I wanted the job.",
+            "id": "Pewawancara bertanya kepada saya mengapa saya menginginkan pekerjaan itu.",
+            "note": "\"Why do you want the job?\" → why I wanted (tanpa do)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "whether",
+            "pos": "conjunction",
+            "ipa": "/ˈweðə/",
+            "meaning": "apakah (dalam pertanyaan tidak langsung)",
+            "example": "She asked whether the shop was open on Sundays."
+          },
+          {
+            "word": "wonder",
+            "pos": "verb",
+            "ipa": "/ˈwʌndə/",
+            "meaning": "bertanya-tanya",
+            "example": "I wondered why he hadn't replied to my message."
+          },
+          {
+            "word": "want to know",
+            "pos": "phrase",
+            "ipa": "/wɒnt tə nəʊ/",
+            "meaning": "ingin tahu",
+            "example": "The police wanted to know where we had been."
+          },
+          {
+            "word": "interviewer",
+            "pos": "noun",
+            "ipa": "/ˈɪntəvjuːə/",
+            "meaning": "pewawancara",
+            "example": "The interviewer asked me about my last job."
+          },
+          {
+            "word": "receptionist",
+            "pos": "noun",
+            "ipa": "/rɪˈsepʃənɪst/",
+            "meaning": "resepsionis",
+            "example": "The receptionist asked if we needed a taxi."
+          },
+          {
+            "word": "curious",
+            "pos": "adjective",
+            "ipa": "/ˈkjʊəriəs/",
+            "meaning": "penasaran; ingin tahu",
+            "example": "The children were curious and asked lots of questions."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + asked (+ person) + if/whether + subject + verb",
+            "example": "He asked me if I was ready.",
+            "note": "Untuk pertanyaan yes/no."
+          },
+          {
+            "pattern": "Subject + asked (+ person) + wh-word + subject + verb",
+            "example": "She asked where I worked.",
+            "note": "Untuk pertanyaan wh-; tanpa do/does/did."
+          },
+          {
+            "pattern": "Subject + wanted to know + if/wh-word + subject + verb",
+            "example": "They wanted to know what time the film started.",
+            "note": "Want to know tidak diikuti orang."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "He asked me where did I live.",
+            "right": "He asked me where I lived.",
+            "why": "Did dihilangkan dalam reported question; verb utama memakai past (lived)."
+          },
+          {
+            "wrong": "She asked me was I hungry.",
+            "right": "She asked me if I was hungry.",
+            "why": "Pertanyaan yes/no dilaporkan dengan if/whether dan susunan subject + verb."
+          },
+          {
+            "wrong": "They asked me what time was it?",
+            "right": "They asked me what time it was.",
+            "why": "Susunan kata seperti kalimat berita (it was) dan tanpa tanda tanya."
+          },
+          {
+            "wrong": "The officer asked to me where I was going.",
+            "right": "The officer asked me where I was going.",
+            "why": "Ask langsung diikuti orang, tanpa to."
+          }
+        ],
+        "summary": "Reported questions use **asked / wanted to know** and statement word order. Yes/no questions → **if/whether** + subject + verb; wh- questions → **wh-word + subject + verb**. Hilangkan *do/does/did*, jangan pakai tanda tanya, dan tetap terapkan backshift.",
+        "reviewCards": [
+          {
+            "front": "\"Are you busy?\" → She asked ...",
+            "back": "She asked if/whether I was busy."
+          },
+          {
+            "front": "\"Where do you live?\" → He asked ...",
+            "back": "He asked where I lived. (tanpa do)"
+          },
+          {
+            "front": "if vs whether",
+            "back": "Artinya sama (apakah); whether sedikit lebih formal."
+          },
+          {
+            "front": "asked me vs asked to me",
+            "back": "asked me ✓ — ask langsung diikuti orang."
+          },
+          {
+            "front": "Word order dalam reported question",
+            "back": "wh-word / if + subject + verb (seperti kalimat berita)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u09-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "reported wh- questions",
+          "difficulty": 2,
+          "stage": "guided",
+          "context": "\"Where do you live?\" the new neighbour asked me.",
+          "prompt": "Complete: The new neighbour asked me ___.",
+          "options": ["where I lived", "where did I live", "where I did live", "where do I live"],
+          "answer": 0,
+          "explanation": "Dalam reported question, *do/did* dihilangkan dan susunannya **subject + verb**: *where I lived*. The present *live* becomes past *lived* after *asked*.",
+          "misconception": "Reported questions are not real questions, so they don't use question word order."
+        },
+        {
+          "id": "b1-u09-l3-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "reported yes/no questions",
+          "difficulty": 2,
+          "stage": "independent",
+          "context": "\"Have you seen the film?\" Lestari asked me.",
+          "prompt": "Put the words in the correct order to report Lestari's question.",
+          "words": ["She", "asked", "me", "if", "I", "had", "seen", "the", "film"],
+          "explanation": "Pola: *asked + person + if + subject + verb*. *Have you seen* → **I had seen** (present perfect → past perfect, statement word order)."
+        },
+        {
+          "id": "b1-u09-l3-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "reported yes/no questions",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the question in reported speech.",
+          "sentence": "\"Are you coming to the party?\" Joko asked Lina.",
+          "cue": "Begin with: Joko asked Lina ...",
+          "answers": [
+            "Joko asked Lina if she was coming to the party",
+            "Joko asked Lina whether she was coming to the party"
+          ],
+          "explanation": "Pertanyaan yes/no → **if/whether**. *Are you coming* → **she was coming** (pronoun berubah, present continuous → past continuous, susunan subject + verb)."
+        },
+        {
+          "id": "b1-u09-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "reported question word order",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["The police officer asked me", "where was I going", "when the accident", "happened."],
+          "errorIndex": 1,
+          "correction": "where I was going",
+          "explanation": "Dalam reported question, subject datang sebelum verb: **where I was going**, bukan *where was I going*."
+        },
+        {
+          "id": "b1-u09-l3-q5",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "reported questions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which reported questions are correct? Choose all that apply.",
+          "options": [
+            "She asked me what time it was.",
+            "He asked if I liked spicy food.",
+            "They asked me where did I work.",
+            "My aunt asked whether I was hungry.",
+            "Lina asked me do I want some tea."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "Kalimat yang benar memakai susunan subject + verb dan if/whether untuk yes/no. *where did I work* ✗ → *where I worked*; *do I want* ✗ → *if I wanted*."
+        },
+        {
+          "id": "b1-u09-l3-q6",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "reported yes/no questions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "context": "\"Did you finish the report?\" my manager asked me.",
+          "prompt": "Complete the reported question.",
+          "text": "My manager asked me ___ I ___ the report.",
+          "answers": [["if", "whether"], ["had finished", "'d finished", "finished"]],
+          "explanation": "Yes/no question → **if/whether**. *Did* dihilangkan; past simple biasanya mundur menjadi past perfect: **had finished** (past simple *finished* juga diterima)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u09-l4-say-vs-tell",
+      "title": "Say, Tell and Other Reporting Verbs",
+      "summary": "Membedakan say dan tell, serta memakai explain, mention, reply, dan ask dengan pola yang benar.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan pola say (that) dan tell + orang (that)",
+        "Memakai ungkapan tetap dengan tell dan say (tell the truth, say goodbye)",
+        "Memakai explain, mention, dan reply sebagai reporting verbs"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Say vs tell: arti mirip, pola berbeda\nKeduanya berarti \"berkata/mengatakan\", tetapi polanya berbeda. The key question is: **is the listener (a person) mentioned directly after the verb?**\n\n| Verb | Pattern | Example |\n|---|---|---|\n| **say** | say (that) + clause | She **said** (that) she was busy. |\n| **say** | say something **to** someone | He **said** goodbye **to** us. |\n| **tell** | tell **someone** (that) + clause | She **told me** (that) she was busy. |\n| **tell** | tell someone something | He **told us** the news. |\n\nJadi: **tell + orang**, sedangkan **say** tidak langsung diikuti orang. *She said me* ✗ / *She told me* ✓ / *She said to me* ✓ (possible, but *told me* is more common in reported statements).\n\n### Ungkapan tetap dengan tell dan say\nSome expressions always use one of the two verbs:\n- **tell**: tell the truth, tell a lie, tell a story, tell a joke, tell the time, tell the difference\n- **say**: say hello/goodbye, say sorry, say yes/no, say a word, say something/nothing\n\nContoh: *Please **tell** me the truth.* / *He left without **saying** goodbye.* Ungkapan ini sebaiknya dihafal sebagai satu paket (chunk).\n\n### Reporting verbs lain\nAgar ceritamu lebih hidup, pakai kata kerja lain selain *say* dan *tell*:\n\n| Verb | Pattern | Example |\n|---|---|---|\n| explain | explain (to someone) that... | She **explained to us** that the road was closed. |\n| mention | mention (to someone) that... | He **mentioned** that he was moving. |\n| reply | reply that... | I **replied** that I was fine. |\n| ask | ask (someone) if / wh-... | They **asked me** where I lived. |\n\nPerhatikan: *explain* dan *mention* polanya seperti *say*, bukan *tell*, jadi tidak boleh langsung diikuti orang. *He explained me* ✗ → *He explained **to me*** ✓ or *He explained* (without a person) ✓.\n\n### Ringkasan cepat\nIf there is a person right after the verb, use **tell** (or *ask*). If there isn't, use **say**, *explain*, *mention* or *reply*. Kalau ragu, cek: apakah ada *me, him, her, us, them, Rina...* tepat setelah kata kerjanya? If yes, you need *tell*.",
+        "examples": [
+          {
+            "en": "Fajar told us that he had found a new job.",
+            "id": "Fajar memberi tahu kami bahwa dia sudah mendapat pekerjaan baru.",
+            "note": "tell + orang (us) + that."
+          },
+          {
+            "en": "Fajar said that he had found a new job.",
+            "id": "Fajar berkata bahwa dia sudah mendapat pekerjaan baru.",
+            "note": "say + that (tanpa orang)."
+          },
+          {
+            "en": "Grandpa told the children a story about the old harbour.",
+            "id": "Kakek menceritakan sebuah kisah kepada anak-anak tentang pelabuhan tua itu.",
+            "note": "tell a story."
+          },
+          {
+            "en": "The guide explained to us that the museum was closed on Mondays.",
+            "id": "Pemandu menjelaskan kepada kami bahwa museum itu tutup setiap hari Senin.",
+            "note": "explain to + orang."
+          },
+          {
+            "en": "She left the party without saying goodbye.",
+            "id": "Dia meninggalkan pesta tanpa berpamitan.",
+            "note": "say goodbye."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "tell the truth",
+            "pos": "phrase",
+            "ipa": "/tel ðə truːθ/",
+            "meaning": "berkata jujur",
+            "example": "I always tell the truth to my parents."
+          },
+          {
+            "word": "tell a lie",
+            "pos": "phrase",
+            "ipa": "/tel ə laɪ/",
+            "meaning": "berbohong",
+            "example": "He told a lie about his age."
+          },
+          {
+            "word": "explain",
+            "pos": "verb",
+            "ipa": "/ɪkˈspleɪn/",
+            "meaning": "menjelaskan",
+            "example": "The teacher explained that the test would be online."
+          },
+          {
+            "word": "mention",
+            "pos": "verb",
+            "ipa": "/ˈmenʃn/",
+            "meaning": "menyebutkan (secara singkat)",
+            "example": "Did she mention that she was moving to Port Selwyn?"
+          },
+          {
+            "word": "reply",
+            "pos": "verb",
+            "ipa": "/rɪˈplaɪ/",
+            "meaning": "menjawab; membalas",
+            "example": "He replied that he was too busy to come."
+          },
+          {
+            "word": "joke",
+            "pos": "noun",
+            "ipa": "/dʒəʊk/",
+            "meaning": "lelucon",
+            "example": "My uncle always tells funny jokes at dinner."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "say (that) + clause / say something to someone",
+            "example": "She said (that) she was late.",
+            "note": "Say tidak langsung diikuti orang."
+          },
+          {
+            "pattern": "tell + person (+ that) + clause / tell + person + something",
+            "example": "He told me (that) he was late.",
+            "note": "Tell hampir selalu diikuti orang."
+          },
+          {
+            "pattern": "explain / mention (+ to someone) + that ...",
+            "example": "She explained to me that the shop was closed.",
+            "note": "Polanya seperti say: pakai to sebelum orang."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "My cousin said me that she was getting married.",
+            "right": "My cousin told me that she was getting married.",
+            "why": "Jika ada orang langsung setelah kata kerja, pakai tell (atau said to me)."
+          },
+          {
+            "wrong": "He told that he was tired.",
+            "right": "He said that he was tired.",
+            "why": "Tell memerlukan orang setelahnya; tanpa orang, pakai say."
+          },
+          {
+            "wrong": "The guide explained us the rules.",
+            "right": "The guide explained the rules to us.",
+            "why": "Explain tidak langsung diikuti orang; gunakan explain something to someone."
+          },
+          {
+            "wrong": "Please say me the truth.",
+            "right": "Please tell me the truth.",
+            "why": "Ungkapan tetapnya adalah tell the truth."
+          }
+        ],
+        "summary": "Use **tell + person** (*She told me...*) and **say** without a person (*She said...*) or **say to + person**. Hafalkan ungkapan tetap: *tell the truth/a lie/a story/a joke* dan *say hello/goodbye/sorry*. *Explain* dan *mention* polanya seperti say: *explain to someone*.",
+        "reviewCards": [
+          {
+            "front": "She ___ me that she was busy. (say/tell)",
+            "back": "told — tell + person"
+          },
+          {
+            "front": "She ___ that she was busy. (say/tell)",
+            "back": "said — tanpa orang setelah verb"
+          },
+          {
+            "front": "tell + ... (4 ungkapan tetap)",
+            "back": "tell the truth, tell a lie, tell a story, tell a joke"
+          },
+          {
+            "front": "say + ... (3 ungkapan tetap)",
+            "back": "say hello/goodbye, say sorry, say yes/no"
+          },
+          {
+            "front": "He explained me ... ✗",
+            "back": "He explained to me ... ✓"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u09-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "say vs tell",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Raka ___ me that the meeting was cancelled.",
+          "options": ["said", "told", "explained", "spoke"],
+          "answer": 1,
+          "explanation": "Ada orang (*me*) langsung setelah kata kerja, jadi kita butuh **told**. *Said*, *explained* and *spoke* cannot be followed directly by a person.",
+          "misconception": "Said me ✗ — say tidak langsung diikuti orang."
+        },
+        {
+          "id": "b1-u09-l4-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "say vs tell",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence with words from the bank.",
+          "text": "Mrs. Wulan ___ the class a funny story, and then she ___ that the test was on Friday.",
+          "bank": ["told", "said", "spoke", "talked"],
+          "answers": ["told", "said"],
+          "explanation": "*Tell* + orang + something: **told the class a story**. Setelah itu tidak ada orang sebelum *that*, jadi pakai **said**."
+        },
+        {
+          "id": "b1-u09-l4-q3",
+          "type": "short_answer",
+          "category": "vocabulary",
+          "topic": "tell the truth",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Write ONE word to complete the sentence: \"Please ___ me the truth. Did you break the vase?\"",
+          "answers": ["tell"],
+          "explanation": "Ungkapan tetapnya adalah **tell the truth** (berkata jujur), dan ada orang (*me*) setelah kata kerja."
+        },
+        {
+          "id": "b1-u09-l4-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "say vs tell",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": ["My cousin", "said me", "that she was", "getting married in June."],
+          "errorIndex": 1,
+          "correction": "told me",
+          "explanation": "*Say* tidak boleh langsung diikuti orang. Use **told me** (or *said to me*)."
+        },
+        {
+          "id": "b1-u09-l4-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "say vs tell",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct verb for each gap.",
+          "text": "Nobody believes Fajar because he often ___ lies. Yesterday he ___ that he had met a famous singer at the airport.",
+          "choices": [
+            ["tells", "says"],
+            ["told", "said"]
+          ],
+          "answers": [0, 1],
+          "explanation": "Ungkapan tetap: **tell lies** (berbohong). Gap kedua tidak ada orang sebelum *that*, jadi pakai **said**."
+        },
+        {
+          "id": "b1-u09-l4-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "explain + to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "The guide explained us that the museum was closed.",
+          "answers": [
+            "The guide explained to us that the museum was closed",
+            "The guide explained to us the museum was closed",
+            "The guide explained that the museum was closed",
+            "The guide told us that the museum was closed",
+            "The guide told us the museum was closed"
+          ],
+          "explanation": "*Explain* tidak langsung diikuti orang. Correct forms: **explained to us that...**, **explained that...**, or use *told us that...*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u09-l5-news-and-gossip",
+      "title": "Passing On News and Gossip",
+      "summary": "Menyampaikan berita, pesan, dan gosip dengan reported speech serta kosakata seperti rumour, announce, admit, dan apparently.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata berita dan gosip (rumour, announce, admit, deny, apparently)",
+        "Menggabungkan reported statements, reported questions, dan say/tell dalam percakapan",
+        "Bereaksi secara alami terhadap berita yang disampaikan orang lain"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membicarakan berita dan gosip\nIn everyday conversation we often pass on information from other people: news from the TV, a message from a colleague, or a bit of gossip about a neighbour. Di pelajaran ini kamu menggabungkan semua yang sudah dipelajari — backshift, kata waktu, reported questions, dan say/tell — untuk bercerita secara natural.\n\n### Kosakata penting\n| Word | Meaning | Example |\n|---|---|---|\n| gossip | gosip, obrolan tentang orang lain | Don't believe all the gossip at work. |\n| rumour | kabar burung, desas-desus | There's a rumour that the shop is closing. |\n| announce | mengumumkan | The school announced that the exams would start in May. |\n| admit | mengakui | He admitted that he had made a mistake. |\n| deny | menyangkal | She denied that she had read my diary. |\n| apparently | katanya, rupanya | Apparently, Mr. Fadli is leaving. |\n| according to | menurut | According to the news, it will rain all week. |\n\n### Frasa untuk menyampaikan kabar\n- *Guess what! Ayu **told me** that she **was getting** married.*\n- *Have you heard? **Apparently**, the café on Maple Street **is closing**.*\n- ***According to** the newspaper, the new bridge **will** open in June.*\n- *I **heard that** Dimas **had won** a prize.*\n\nCatatan: *apparently* dan *according to* biasanya diikuti **kalimat biasa tanpa backshift**, karena tidak ada reporting verb past di depannya. Backshift happens after past reporting verbs like *said, told, announced, admitted, denied*.\n\n### Bereaksi terhadap berita (reacting to news)\nWhen someone tells you news or gossip, react naturally:\n- Surprise: *Really? / No way! / I don't believe it!*\n- Good news: *That's great news! / Good for her!*\n- Bad news: *Oh no, that's terrible. / What a shame.*\n- Checking: *Who told you that? / Are you sure?*\n\nReaksi singkat seperti ini membuat percakapan terdengar alami dan menunjukkan bahwa kamu mendengarkan.\n\n### Hati-hati dengan gosip\nRumours are not always true. Bahasa Inggris punya cara sopan untuk menunjukkan bahwa kita belum yakin: *I'm not sure it's true, but...*, *Apparently...*, *Someone told me that...*. Using these phrases shows that you are only passing on information, not claiming it is a fact. Ini penting, terutama di tempat kerja.",
+        "examples": [
+          {
+            "en": "Apparently, the bakery on Cedar Road is closing next month.",
+            "id": "Katanya, toko roti di Cedar Road akan tutup bulan depan.",
+            "note": "Apparently + kalimat biasa (tanpa backshift)."
+          },
+          {
+            "en": "The company announced that it would hire fifty new workers.",
+            "id": "Perusahaan itu mengumumkan bahwa mereka akan merekrut lima puluh pekerja baru.",
+            "note": "announced + that + would."
+          },
+          {
+            "en": "Yudi admitted that he had forgotten my birthday.",
+            "id": "Yudi mengakui bahwa dia lupa ulang tahun saya.",
+            "note": "admit that + past perfect."
+          },
+          {
+            "en": "According to my sister, the new teacher is very strict.",
+            "id": "Menurut kakak saya, guru baru itu sangat tegas.",
+            "note": "According to + sumber informasi."
+          },
+          {
+            "en": "Guess what! Rina told me she was moving to Port Selwyn.",
+            "id": "Coba tebak! Rina memberi tahu saya bahwa dia akan pindah ke Port Selwyn.",
+            "note": "Membuka kabar dengan Guess what!"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "gossip",
+            "pos": "noun / verb",
+            "ipa": "/ˈɡɒsɪp/",
+            "meaning": "gosip; bergosip",
+            "example": "My neighbours love to gossip about everyone on our street."
+          },
+          {
+            "word": "rumour",
+            "pos": "noun",
+            "ipa": "/ˈruːmə/",
+            "meaning": "kabar burung; desas-desus",
+            "example": "There's a rumour that our manager is leaving."
+          },
+          {
+            "word": "announce",
+            "pos": "verb",
+            "ipa": "/əˈnaʊns/",
+            "meaning": "mengumumkan",
+            "example": "The airline announced that the flight was delayed."
+          },
+          {
+            "word": "admit",
+            "pos": "verb",
+            "ipa": "/ədˈmɪt/",
+            "meaning": "mengakui",
+            "example": "She admitted that she had broken the printer."
+          },
+          {
+            "word": "deny",
+            "pos": "verb",
+            "ipa": "/dɪˈnaɪ/",
+            "meaning": "menyangkal",
+            "example": "He denied that he had taken the money."
+          },
+          {
+            "word": "apparently",
+            "pos": "adverb",
+            "ipa": "/əˈpærəntli/",
+            "meaning": "katanya; rupanya",
+            "example": "Apparently, there will be a new park near the station."
+          },
+          {
+            "word": "according to",
+            "pos": "preposition",
+            "ipa": "/əˈkɔːdɪŋ tə/",
+            "meaning": "menurut",
+            "example": "According to the weather report, it will be sunny tomorrow."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "announce / admit / deny + (that) + backshifted clause",
+            "example": "He admitted (that) he had lied.",
+            "note": "Polanya seperti say: tidak langsung diikuti orang."
+          },
+          {
+            "pattern": "Apparently, / According to ..., + normal sentence",
+            "example": "Apparently, the shop is closing.",
+            "note": "Tidak ada reporting verb past, jadi tidak perlu backshift."
+          },
+          {
+            "pattern": "I heard (that) + backshifted clause",
+            "example": "I heard that Dimas had won a prize.",
+            "note": "Heard juga past, jadi tense biasanya mundur."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "According to me, the film was boring.",
+            "right": "In my opinion, the film was boring.",
+            "why": "According to dipakai untuk sumber informasi lain, bukan untuk pendapat sendiri."
+          },
+          {
+            "wrong": "The school announced us that the trip was cancelled.",
+            "right": "The school announced that the trip was cancelled.",
+            "why": "Announce tidak langsung diikuti orang (tidak seperti tell)."
+          },
+          {
+            "wrong": "He admitted that he has broken the window.",
+            "right": "He admitted that he had broken the window.",
+            "why": "Setelah reporting verb past (admitted), present perfect berubah menjadi past perfect."
+          }
+        ],
+        "summary": "To pass on news and gossip, use reporting verbs like **told, said, announced, admitted, denied** with backshift, or phrases like **Apparently,** and **According to...** without backshift. Gunakan reaksi seperti *Really? / No way! / That's great news!* dan frasa hati-hati seperti *I'm not sure it's true, but...*.",
+        "reviewCards": [
+          {
+            "front": "rumour",
+            "back": "kabar burung / desas-desus"
+          },
+          {
+            "front": "admit vs deny",
+            "back": "admit = mengakui; deny = menyangkal"
+          },
+          {
+            "front": "Apparently, ...",
+            "back": "Katanya/rupanya ... — diikuti kalimat biasa, tanpa backshift"
+          },
+          {
+            "front": "According to me ✗",
+            "back": "In my opinion ✓ (according to = menurut sumber lain)"
+          },
+          {
+            "front": "3 reaksi terhadap berita mengejutkan",
+            "back": "Really? / No way! / I don't believe it!"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u09-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "news and gossip vocabulary",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Have you heard the ___? People are saying that Mr. Fadli is leaving the company, but nobody knows if it's true.",
+          "options": ["rumour", "headline", "reply", "interview"],
+          "answer": 0,
+          "explanation": "Informasi yang beredar dari mulut ke mulut dan belum pasti benar disebut **rumour** (kabar burung). *Nobody knows if it's true* is the key clue."
+        },
+        {
+          "id": "b1-u09-l5-q2",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "passing on news",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Think of a piece of news a friend or family member told you recently. Report it to a partner in 4–6 sentences. Say who told you, what they said, and what they asked you. Finish with a reaction.",
+          "targetPhrases": ["told me that", "said that", "asked me if", "apparently", "That's great news!"],
+          "sampleAnswer": "Guess what! My cousin Dewi called me yesterday. She told me that she had passed her final exams. She said that she was going to look for a job in Port Selwyn. She also asked me if I could help her with her CV. Apparently, her parents are planning a small party for her. That's great news!",
+          "explanation": "Gunakan **told me that / said that** dengan backshift, **asked me if** untuk pertanyaan, dan tutup dengan reaksi alami. Speak clearly and connect your sentences with *also*, *then* and *apparently*."
+        },
+        {
+          "id": "b1-u09-l5-q3",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "reporting news in conversation",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the best reply to complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Yoga", "text": "What did Maya say about the new café on Maple Street?" },
+            { "speaker": "Tari", "text": null },
+            { "speaker": "Yoga", "text": "Oh, maybe we can go there on Saturday, then." }
+          ],
+          "options": [
+            "She said it was great but quite expensive.",
+            "She said me it was great but quite expensive.",
+            "She told it was great but quite expensive.",
+            "She said that is it great but quite expensive."
+          ],
+          "answer": 0,
+          "explanation": "Hanya **She said it was great...** yang benar: *said* tanpa orang, backshift *is* → *was*, dan susunan subject + verb. *said me* dan *told it was* salah pola."
+        },
+        {
+          "id": "b1-u09-l5-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "reporting verbs",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "At a press conference yesterday, the company ___ that it would open three new stores next year.",
+          "options": ["announced", "gossiped", "chatted", "whispered"],
+          "answer": 0,
+          "explanation": "Menyampaikan informasi resmi kepada publik = **announce** (mengumumkan). A company does not *gossip*, *chat* or *whisper* at a press conference, and *gossiped/chatted that* is not a normal pattern."
+        },
+        {
+          "id": "b1-u09-l5-q5",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "reported speech in news",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": ["According to the local newspaper,", "the mayor said", "that the new bridge", "would open the following spring."],
+          "explanation": "Kalimat dimulai dengan sumber (*According to the local newspaper*), lalu reporting verb (*the mayor said*) dan isi laporan dengan backshift: *would open the following spring*."
+        },
+        {
+          "id": "b1-u09-l5-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "tell + person + that",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English. Use told.",
+          "source": "Rina memberi tahu saya bahwa dia sudah pindah rumah.",
+          "direction": "id-en",
+          "answers": [
+            "Rina told me that she had moved house",
+            "Rina told me she had moved house",
+            "Rina told me that she'd moved house",
+            "Rina told me she'd moved house",
+            "Rina told me that she had moved to a new house",
+            "Rina told me she had moved to a new house",
+            "Rina told me that she'd moved to a new house",
+            "Rina told me she'd moved to a new house",
+            "Rina told me that she had moved",
+            "Rina told me she had moved",
+            "Rina told me that she'd moved",
+            "Rina told me she'd moved"
+          ],
+          "explanation": "*Memberi tahu saya* → **told me** (tell + orang). *Sudah pindah rumah* setelah reporting verb past → past perfect **had moved (house)**."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u09-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "reported statements",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "context": "\"I sent the email yesterday,\" Pak Hendra said last week.",
+      "prompt": "Pak Hendra said that he ___ the email the day before.",
+      "options": ["had sent", "has sent", "sends", "was send"],
+      "answer": 0,
+      "explanation": "Past simple *sent* mundur menjadi past perfect **had sent**, dan *yesterday* → *the day before*. *Was send* is not a correct verb form."
+    },
+    {
+      "id": "b1-u09-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "reported questions with can",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "context": "\"Can you help me with my homework?\" Kevin asked me.",
+      "prompt": "Complete the reported question with ONE word.",
+      "text": "Kevin asked me if I ___ help him with his homework.",
+      "answers": [["could"]],
+      "explanation": "*Can* dalam reported speech berubah menjadi **could**. The question becomes statement word order: *if I could help him*."
+    },
+    {
+      "id": "b1-u09-t-q3",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "reported wh- questions",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Rewrite the question in reported speech.",
+      "sentence": "\"Why did you leave the party early?\" Mia asked me.",
+      "cue": "Begin with: Mia asked me ...",
+      "answers": [
+        "Mia asked me why I had left the party early",
+        "Mia asked me why I'd left the party early",
+        "Mia asked me why I left the party early"
+      ],
+      "explanation": "*Did* dihilangkan, susunan menjadi **why I had left** (past simple → past perfect; *why I left* juga diterima). No question mark at the end."
+    },
+    {
+      "id": "b1-u09-t-q4",
+      "type": "matching",
+      "category": "grammar",
+      "topic": "direct and reported speech",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Match Tina's words (direct speech) with the correct reported form.",
+      "pairs": [
+        { "left": "\"I'm hungry.\"", "right": "She said she was hungry." },
+        { "left": "\"Are you hungry?\"", "right": "She asked if I was hungry." },
+        { "left": "\"What are you eating?\"", "right": "She asked what I was eating." },
+        { "left": "\"I'll cook dinner.\"", "right": "She said she would cook dinner." },
+        { "left": "\"Have you eaten?\"", "right": "She asked if I had eaten." }
+      ],
+      "explanation": "Statement → *said* + backshift; yes/no question → *asked if*; wh- question → *asked what* + subject + verb; *will* → *would*; *have eaten* → *had eaten*."
+    },
+    {
+      "id": "b1-u09-t-q5",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "say vs tell",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the sentence.",
+      "segments": ["Yesterday Lukas told", "that he", "had found", "a new job."],
+      "errorIndex": 0,
+      "correction": "Yesterday Lukas said",
+      "explanation": "*Tell* harus diikuti orang (*told us/me*). Without a person, use **said**: *Yesterday Lukas said that he had found a new job.*"
+    },
+    {
+      "id": "b1-u09-t-q6",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "reported statements",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Translate into Indonesian.",
+      "source": "Mira said that she was tired.",
+      "direction": "en-id",
+      "answers": [
+        "Mira bilang dia lelah",
+        "Mira bilang bahwa dia lelah",
+        "Mira berkata dia lelah",
+        "Mira berkata bahwa dia lelah",
+        "Mira mengatakan dia lelah",
+        "Mira mengatakan bahwa dia lelah",
+        "Mira bilang dia capek",
+        "Mira bilang bahwa dia capek",
+        "Mira berkata bahwa dia capek",
+        "Mira mengatakan bahwa dia capek",
+        "Mira bilang dia sedang lelah",
+        "Mira berkata bahwa dia sedang lelah"
+      ],
+      "explanation": "*Was* di sini muncul karena backshift setelah *said*, bukan berarti \"dulu\". In Indonesian we simply say *Mira bilang/berkata (bahwa) dia lelah*."
+    },
+    {
+      "id": "b1-u09-t-q7",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "reporting a phone call",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the best line to complete the dialogue.",
+      "dialogue": [
+        { "speaker": "Nina", "text": "Did you call the hotel about our room?" },
+        { "speaker": "Arif", "text": null },
+        { "speaker": "Nina", "text": "Great, so we can leave our bags there before lunch." }
+      ],
+      "options": [
+        "Yes. The receptionist said that the room would be ready at ten.",
+        "Yes. The receptionist told that the room will be ready at ten.",
+        "Yes. The receptionist said me the room was ready at ten.",
+        "Yes. The receptionist asked if was the room ready at ten."
+      ],
+      "answer": 0,
+      "explanation": "**said that the room would be ready** benar: say tanpa orang + backshift *will* → *would*. *told that* butuh orang, *said me* salah, dan *if was the room* salah susunan."
+    },
+    {
+      "id": "b1-u09-t-q8",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "reported wh- questions",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Correct the mistake in the sentence.",
+      "sentence": "He asked me what did I want for my birthday.",
+      "answers": [
+        "He asked me what I wanted for my birthday"
+      ],
+      "explanation": "Dalam reported question, *did* dihilangkan dan susunannya subject + verb: **what I wanted**."
+    }
+  ]
+}

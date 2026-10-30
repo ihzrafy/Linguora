@@ -1,0 +1,1534 @@
+{
+  "slug": "c2-u03-word-formation",
+  "number": 3,
+  "title": "Advanced Word Formation",
+  "description": "Expand your active vocabulary through word families: prefixes that add precise shades of meaning, suffixes that build abstract nouns and adjectives, and compounds that pack complex ideas into a single expression.",
+  "objectives": [
+    "Use prefixes such as mis-, under-, over-, counter-, out-, de- and quasi- to express precise meanings",
+    "Form abstract nouns with the appropriate suffix and distinguish nouns from the same root",
+    "Choose between adjective pairs such as economic/economical and respectful/respectable",
+    "Form and hyphenate compound adjectives and nouns correctly in academic and journalistic writing",
+    "Apply word-formation knowledge to vocabulary about science, society and innovation"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u03-l1-nuanced-prefixes",
+      "title": "Getting It Wrong, Too Little, Too Much: mis-, under-, over-, counter-",
+      "summary": "Use four high-frequency prefixes to express error, deficiency, excess and opposition with precision.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Explain the core meanings of mis-, under-, over- and counter-",
+        "Recognise words where the prefix has a less predictable meaning (overhaul, oversight, counterpart)",
+        "Form verbs, adjectives and nouns with these prefixes in formal writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why prefixes matter at C2\nProficient writers rarely need an adverb such as *wrongly*, *too little* or *too much*: a prefix does the job more economically. Compare *The council managed the budget badly* with *The council **mis**managed the budget*. The second is shorter, more formal and sounds more decisive.\n\n### Four prefixes and their core meanings\n| Prefix | Core meaning | Typical words |\n|---|---|---|\n| **mis-** | wrongly, badly | misjudge, misinterpret, mismanage, misrepresent, misplace, misnomer |\n| **under-** | too little, below the expected level | underestimate, underfunded, underrepresented, undervalue, understate |\n| **over-** | too much, excessively | overestimate, overstate, overcrowded, overpriced, overreact, overrun |\n| **counter-** | against, opposing, in response | counterproductive, countermeasure, counterargument, counterbalance, counterintuitive |\n\n### Under- and over- as a pair\nMany *under-* words have an *over-* partner, which lets you describe a gap between estimate and reality: *The engineers **underestimated** the cost and **overestimated** public support.* In reports, *understate* often suggests deliberate minimising (*The firm understated the risks to reassure investors*), while *overstate* suggests exaggeration. *Overrun* is used for projects that go beyond their time or budget: *The project overran by six months.*\n\n### Counter- in argument and policy\n*Counter-* is especially useful in academic and political writing. A **counterargument** is a point raised against a thesis; a **countermeasure** is an action taken to neutralise a threat; a policy that is **counterproductive** produces the opposite of the intended result. *Counterintuitive* describes something that seems wrong at first but is true: *Counterintuitively, wider roads can increase congestion.*\n\n### Watch out: unpredictable meanings\nNot every word with these letters follows the core meaning:\n- **overhaul** = examine and repair thoroughly (not 'haul too much');\n- **oversight** = either *a careless mistake* or *supervision* (context decides);\n- **overlook** = fail to notice, or have a view over;\n- **counterpart** = a person or thing with the *same* role elsewhere (not an opponent): *The minister met her Ardenian counterpart.*\n- **misnomer** = a name that is inaccurate or misleading.\n\n### Spelling and hyphens\nThese prefixes are normally written solid: *misjudge, underfunded, overreact, counterattack*. A hyphen appears mainly when the base begins with a capital letter or when the result would be hard to read (*over-optimistic* is common in British English, *overoptimistic* in American English). Never double the prefix logic: *overexaggerate* is redundant, because *exaggerate* already means 'to overstate'.",
+        "examples": [
+          {
+            "en": "The council mismanaged the budget for three consecutive years.",
+            "id": "Dewan kota salah mengelola anggaran selama tiga tahun berturut-turut.",
+            "note": "mis- = badly or wrongly; more concise than 'managed badly'."
+          },
+          {
+            "en": "Rural communities remain underrepresented in national politics.",
+            "id": "Masyarakat pedesaan masih kurang terwakili dalam politik nasional.",
+            "note": "under- = less than is fair or expected."
+          },
+          {
+            "en": "Critics argue that the report overstates the benefits of the scheme.",
+            "id": "Para kritikus berpendapat bahwa laporan itu melebih-lebihkan manfaat skema tersebut.",
+            "note": "over- = excessively; overstate suggests exaggeration."
+          },
+          {
+            "en": "Harsher penalties may prove counterproductive if they discourage people from reporting accidents.",
+            "id": "Hukuman yang lebih berat bisa jadi kontraproduktif jika membuat orang enggan melaporkan kecelakaan.",
+            "note": "counter- = producing the opposite of the intended effect."
+          },
+          {
+            "en": "The Minister of Health met her Ardenian counterpart in Port Elvan.",
+            "id": "Menteri Kesehatan bertemu dengan mitranya dari Ardenia di Port Elvan.",
+            "note": "counterpart = someone with the equivalent role, not an opponent."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "misnomer",
+            "pos": "noun",
+            "ipa": "/ˌmɪsˈnəʊmə/",
+            "meaning": "nama atau sebutan yang keliru/menyesatkan",
+            "example": "'Free trial' is a misnomer if customers must enter their card details."
+          },
+          {
+            "word": "underfunded",
+            "pos": "adjective",
+            "ipa": "/ˌʌndəˈfʌndɪd/",
+            "meaning": "kekurangan dana",
+            "example": "The underfunded clinic relies on volunteer doctors."
+          },
+          {
+            "word": "overrun",
+            "pos": "verb",
+            "ipa": "/ˌəʊvəˈrʌn/",
+            "meaning": "melampaui (waktu/anggaran yang direncanakan)",
+            "example": "The bridge project overran its budget by twenty per cent."
+          },
+          {
+            "word": "countermeasure",
+            "pos": "noun",
+            "ipa": "/ˈkaʊntəˌmeʒə/",
+            "meaning": "tindakan penangkal/balasan",
+            "example": "The bank introduced new countermeasures against online fraud."
+          },
+          {
+            "word": "counterintuitive",
+            "pos": "adjective",
+            "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+            "meaning": "berlawanan dengan intuisi/akal sehat",
+            "example": "It seems counterintuitive, but resting more can improve productivity."
+          },
+          {
+            "word": "oversight",
+            "pos": "noun",
+            "ipa": "/ˈəʊvəsaɪt/",
+            "meaning": "kelalaian; juga: pengawasan",
+            "example": "The missing signature was a simple oversight."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "mis- / under- / over- + verb",
+            "example": "The engineers underestimated the cost and overestimated public support.",
+            "note": "The prefix replaces an adverb such as 'wrongly', 'too little' or 'too much'."
+          },
+          {
+            "pattern": "under- / over- + past participle (adjective)",
+            "example": "an underfunded clinic, an overcrowded train",
+            "note": "Very common in reports describing deficiency or excess."
+          },
+          {
+            "pattern": "counter- + noun / adjective",
+            "example": "a counterargument, a counterproductive policy",
+            "note": "Expresses opposition or a response to something."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The project overranned by six months.",
+            "right": "The project overran by six months.",
+            "why": "Overrun follows the irregular pattern of run: overrun – overran – overrun."
+          },
+          {
+            "wrong": "The minister met his counterpart from the opposition to debate the bill.",
+            "right": "The minister met his opponent from the opposition to debate the bill.",
+            "why": "A counterpart holds the same role elsewhere (e.g. another country's minister); it does not mean an opponent."
+          },
+          {
+            "wrong": "The newspaper overexaggerated the danger.",
+            "right": "The newspaper exaggerated the danger.",
+            "why": "Exaggerate already means 'overstate', so adding over- is redundant."
+          },
+          {
+            "wrong": "We misunderestimated how long it would take.",
+            "right": "We underestimated how long it would take.",
+            "why": "Only one prefix is needed: under- already expresses the wrong (too low) estimate."
+          }
+        ],
+        "summary": "Mis- signals error, under- signals too little, over- signals too much and counter- signals opposition or response. Prefixed words are more concise and formal than adverb phrases. Learn the exceptions (overhaul, oversight, counterpart, misnomer) as separate vocabulary items.",
+        "reviewCards": [
+          {
+            "front": "mis- (misjudge, mismanage)",
+            "back": "wrongly or badly"
+          },
+          {
+            "front": "understate vs overstate",
+            "back": "present something as smaller vs larger than it really is"
+          },
+          {
+            "front": "counterproductive",
+            "back": "producing the opposite of the intended effect"
+          },
+          {
+            "front": "counterpart",
+            "back": "a person or thing with the same role in a different place — not an opponent"
+          },
+          {
+            "front": "overrun (past: overran)",
+            "back": "go beyond the planned time or budget"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u03-l1-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the word that best completes the sentence: The minister was accused of ___ the risks of the new dam in order to calm public fears.",
+          "instructions": "Think about what someone who wants to calm fears would do: make the risks seem smaller or larger?",
+          "options": [
+            "understating",
+            "overstating",
+            "overseeing",
+            "misleading"
+          ],
+          "answer": 0,
+          "explanation": "To calm fears, the minister would make the risks seem smaller than they are, which is 'understating'. 'Overstating' would increase fear; 'overseeing' means supervising and does not express distortion; 'mislead' takes a person as its object (mislead the public), not 'the risks'.",
+          "misconception": "Learners sometimes treat any negative-sounding prefix as interchangeable; under- and over- point in opposite directions."
+        },
+        {
+          "id": "c2-u03-l1-q2",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Complete the sentence with a word formed from PRODUCTIVE.",
+          "text": "Raising fines without improving enforcement may prove ___: offenders simply stop paying, and the backlog grows.",
+          "answers": [
+            [
+              "counterproductive",
+              "counter-productive"
+            ]
+          ],
+          "explanation": "The policy produces the opposite of what was intended, so the adjective is 'counterproductive'. 'Unproductive' would only mean 'not producing much', which misses the idea of a reverse effect."
+        },
+        {
+          "id": "c2-u03-l1-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each word to its meaning.",
+          "pairs": [
+            {
+              "left": "misnomer",
+              "right": "a name that is inaccurate or misleading"
+            },
+            {
+              "left": "underrepresented",
+              "right": "present in smaller numbers than is fair or expected"
+            },
+            {
+              "left": "overrun",
+              "right": "go beyond the planned time or budget"
+            },
+            {
+              "left": "countermeasure",
+              "right": "an action taken to neutralise a threat"
+            },
+            {
+              "left": "counterpart",
+              "right": "a person with the same role in a different organisation or country"
+            }
+          ],
+          "explanation": "mis- = wrong (a wrong name), under- = too few, over- = beyond the limit, counter- = against (countermeasure). Counterpart is the exception: it means an equivalent, not an opponent."
+        },
+        {
+          "id": "c2-u03-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": [
+            "The committee seriously underestimated",
+            "how long the work would take,",
+            "and the project",
+            "overranned by six months."
+          ],
+          "errorIndex": 3,
+          "correction": "overran by six months.",
+          "explanation": "Overrun is irregular like run (run – ran – run), so the past simple is 'overran'. 'Underestimated' is a regular verb and is correct."
+        },
+        {
+          "id": "c2-u03-l1-q5",
+          "type": "multiple_select",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "In which words does counter- mean 'against' or 'in opposition to'? Select all that apply.",
+          "options": [
+            "counterargument",
+            "counterpart",
+            "countermeasure",
+            "encounter",
+            "counterbalance"
+          ],
+          "answers": [
+            0,
+            2,
+            4
+          ],
+          "explanation": "A counterargument opposes an argument, a countermeasure acts against a threat, and to counterbalance is to offset an opposing force. A counterpart is an equivalent, not an opponent, and 'encounter' does not contain the prefix counter- at all."
+        },
+        {
+          "id": "c2-u03-l1-q6",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence using a single verb with the prefix mis-.",
+          "sentence": "The council managed the regional budget badly.",
+          "cue": "Begin with: The council ...",
+          "answers": [
+            "The council mismanaged the regional budget."
+          ],
+          "explanation": "mis- + manage replaces the adverb 'badly': The council mismanaged the regional budget. Keeping 'badly' is redundant but not ungrammatical."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u03-l2-more-prefixes",
+      "title": "Surpassing, Reversing and Qualifying: out-, re-, de-, non-, pseudo-, quasi-, semi-",
+      "summary": "Use further prefixes to express surpassing, repetition, reversal, neutral negation and partial or false status.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use out- to express surpassing (outnumber, outlive, outweigh)",
+        "Distinguish de-, dis-, un-, in- and non- as negative or reversing prefixes",
+        "Use pseudo-, quasi- and semi- to qualify a claim precisely"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### out-: doing more than someone or something else\nWhen *out-* is added to a verb, the new verb means 'do X better, longer or more than' and it takes a direct object: *Women **outnumber** men in the profession. She **outlived** her brothers. The benefits **outweigh** the costs. Small firms often **outperform** larger rivals.* Note the passive: *The rebels were heavily **outnumbered**.* Some *out-* words have other meanings: *outgrow* = become too big or mature for something (*She has outgrown her first job*).\n\n### re- and de-: again and reversal\n*Re-* means 'again' or 'back': *reassess, reconsider, rebuild*. A hyphen distinguishes meaning in a few pairs: *recover* (get better) vs *re-cover* (cover again); *reform* (improve) vs *re-form* (form again).\n*De-* reverses or removes: *decentralise* (move power away from the centre), *deregulate* (remove rules), *destabilise* (make unstable), *devalue*, *decommission*. It is common in economics and politics.\n\n### Negative prefixes are not interchangeable\n| Prefix | Nuance | Example |\n|---|---|---|\n| **un-** | simple 'not' | unaware, unlikely |\n| **in-/im-/il-/ir-** | 'not', mostly with Latin bases | inaccurate, impractical, illegal, irrelevant |\n| **dis-** | not, or reversal of an action | dishonest, disagree, disconnect |\n| **non-** | neutral classification, no judgement | non-fiction, non-profit, non-violent |\n| **de-** | reversal or removal | deforestation, deregulate |\n\nTwo classic C2 distinctions:\n- **disinterested** = impartial, having nothing to gain; **uninterested** = not interested, bored. *A judge must be disinterested, but she should never be uninterested.*\n- **non-** is neutral while **in-/un-** may judge: *a non-professional* simply does not do it for a living; *an unprofessional* attitude is criticised.\n\n### pseudo-, quasi- and semi-: qualifying a claim\nThese prefixes let you say precisely *how far* something deserves a label.\n- **pseudo-** = false, pretending to be: *pseudoscience, pseudo-intellectual*. It is clearly critical.\n- **quasi-** = to some degree, having some but not all features: *a quasi-judicial body* (it has some court-like powers), *quasi-official*. It is descriptive rather than critical.\n- **semi-** = half or partly: *semi-retired, semi-autonomous, semi-skilled*.\n\nCompare: *a pseudo-academic journal* (it pretends to be scholarly) vs *a quasi-academic institute* (it does some academic work but is not a university).\n\n### Hyphenation\n*Quasi-* is almost always hyphenated. *Non-* is usually hyphenated in British English (*non-essential*). *Pseudo-* and *semi-* are hyphenated before vowels and in less established words (*semi-autonomous*) but solid in established words (*pseudoscience, semicircle*).",
+        "examples": [
+          {
+            "en": "In the long run, the benefits of the scheme clearly outweigh its costs.",
+            "id": "Dalam jangka panjang, manfaat skema ini jelas lebih besar daripada biayanya.",
+            "note": "out- + weigh = be greater in importance than."
+          },
+          {
+            "en": "A referee must be disinterested, not uninterested.",
+            "id": "Wasit harus tidak berpihak, bukan tidak peduli.",
+            "note": "disinterested = impartial; uninterested = bored."
+          },
+          {
+            "en": "The plan aims to decentralise decision-making and give provinces more control.",
+            "id": "Rencana itu bertujuan mendesentralisasi pengambilan keputusan dan memberi provinsi kendali lebih besar.",
+            "note": "de- = reversal or removal (power moves away from the centre)."
+          },
+          {
+            "en": "The council has quasi-judicial powers: it can summon witnesses but cannot impose prison sentences.",
+            "id": "Dewan itu memiliki wewenang semi-yudisial: dapat memanggil saksi tetapi tidak dapat menjatuhkan hukuman penjara.",
+            "note": "quasi- = having some but not all features of something."
+          },
+          {
+            "en": "The documentary was criticised for promoting pseudoscience.",
+            "id": "Film dokumenter itu dikritik karena mempromosikan ilmu semu.",
+            "note": "pseudo- = false; it signals strong criticism."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "outnumber",
+            "pos": "verb",
+            "ipa": "/ˌaʊtˈnʌmbə/",
+            "meaning": "melebihi jumlah",
+            "example": "In this village, the elderly now outnumber children."
+          },
+          {
+            "word": "outweigh",
+            "pos": "verb",
+            "ipa": "/ˌaʊtˈweɪ/",
+            "meaning": "lebih besar/penting daripada",
+            "example": "The risks of delay outweigh the risks of acting now."
+          },
+          {
+            "word": "decentralise",
+            "pos": "verb",
+            "ipa": "/diːˈsentrəlaɪz/",
+            "meaning": "mendesentralisasi, menyebarkan wewenang dari pusat",
+            "example": "The ministry plans to decentralise its research funding."
+          },
+          {
+            "word": "disinterested",
+            "pos": "adjective",
+            "ipa": "/dɪsˈɪntrəstɪd/",
+            "meaning": "tidak berpihak, netral (tidak punya kepentingan pribadi)",
+            "example": "We need a disinterested expert to settle the dispute."
+          },
+          {
+            "word": "pseudoscience",
+            "pos": "noun",
+            "ipa": "/ˌsjuːdəʊˈsaɪəns/",
+            "meaning": "ilmu semu, pseudosains",
+            "example": "Astrology is widely regarded as pseudoscience."
+          },
+          {
+            "word": "quasi-",
+            "pos": "prefix",
+            "ipa": "/ˈkweɪzaɪ/",
+            "meaning": "semi-, setengah; memiliki sebagian ciri",
+            "example": "The agency enjoys quasi-independent status."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "out- + verb + object",
+            "example": "Small firms often outperform their larger rivals.",
+            "note": "The new verb is transitive and means 'do more/better than'."
+          },
+          {
+            "pattern": "de- + verb (reversal/removal)",
+            "example": "The reforms could destabilise the currency.",
+            "note": "Common in economic and political vocabulary."
+          },
+          {
+            "pattern": "pseudo- / quasi- / semi- + adjective or noun",
+            "example": "a quasi-official body, a semi-retired engineer, pseudo-academic jargon",
+            "note": "Use to qualify how far a label applies; pseudo- is critical, quasi- and semi- are neutral."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The students were disinterested in the lecture and kept checking their phones.",
+            "right": "The students were uninterested in the lecture and kept checking their phones.",
+            "why": "In careful usage, disinterested means impartial; for boredom, use uninterested."
+          },
+          {
+            "wrong": "The benefits outweigh than the costs.",
+            "right": "The benefits outweigh the costs.",
+            "why": "Out- verbs take a direct object; there is no 'than'."
+          },
+          {
+            "wrong": "The government plans to disregulate the energy market.",
+            "right": "The government plans to deregulate the energy market.",
+            "why": "Removing rules is expressed with de- (deregulate); 'disregulate' is not a standard word."
+          }
+        ],
+        "summary": "Out- verbs mean 'surpass' and take a direct object; re- means 'again'; de- reverses or removes. Negative prefixes differ in nuance: non- is neutral, dis- can reverse, and disinterested (impartial) differs from uninterested (bored). Pseudo- criticises something as false, while quasi- and semi- describe partial status.",
+        "reviewCards": [
+          {
+            "front": "disinterested vs uninterested",
+            "back": "impartial vs not interested/bored"
+          },
+          {
+            "front": "outweigh",
+            "back": "be greater or more important than (no 'than' after it)"
+          },
+          {
+            "front": "pseudo- vs quasi-",
+            "back": "false/pretend (critical) vs partly, having some features (neutral)"
+          },
+          {
+            "front": "deregulate",
+            "back": "remove rules or controls from an industry"
+          },
+          {
+            "front": "recover vs re-cover",
+            "back": "get better vs cover again"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u03-l2-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the correct word: The arbitrator in a contract dispute must be completely ___ — she must have nothing to gain from either outcome.",
+          "instructions": "The sentence describes impartiality, not boredom.",
+          "options": [
+            "disinterested",
+            "uninterested",
+            "non-interested",
+            "misinterested"
+          ],
+          "answer": 0,
+          "explanation": "'Disinterested' means impartial, having no personal stake, which matches 'nothing to gain'. 'Uninterested' means bored or indifferent, which contradicts the role of an arbitrator; 'non-interested' and 'misinterested' are not standard words.",
+          "misconception": "Many speakers use disinterested to mean bored, but in formal and legal contexts it means impartial."
+        },
+        {
+          "id": "c2-u03-l2-q2",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Supporters argue that the benefits of the reform ___ its costs, but critics warn that withdrawing subsidies overnight could ___ the regional economy. They also dismiss the 'evidence' in the government's leaflet as little more than ___.",
+          "bank": [
+            "outweigh",
+            "outlive",
+            "destabilise",
+            "outperform",
+            "pseudoscience",
+            "semi-science"
+          ],
+          "answers": [
+            "outweigh",
+            "destabilise",
+            "pseudoscience"
+          ],
+          "explanation": "Benefits 'outweigh' costs (are greater than them). Sudden withdrawal of subsidies could 'destabilise' (make unstable) an economy. Fake evidence is dismissed as 'pseudoscience'. 'Outlive' and 'outperform' do not fit the meaning, and 'semi-science' is not an established word."
+        },
+        {
+          "id": "c2-u03-l2-q3",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "After forty years at the engineering firm, Mr. Hartley is now semi-retired. What does 'semi-retired' mean here?",
+          "options": [
+            "He has mostly retired but still works part-time.",
+            "He retired earlier than planned.",
+            "He claims to be retired but works full-time.",
+            "He has retired and come back twice."
+          ],
+          "answer": 0,
+          "explanation": "Semi- means 'half' or 'partly', so a semi-retired person still does some work. Retiring early would be 'early retirement'; pretending would require pseudo-; repetition would be expressed with re-."
+        },
+        {
+          "id": "c2-u03-l2-q4",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Choose the correct word for each gap.",
+          "text": "The new tribunal has ___ powers: it can summon witnesses and examine documents, although it is not a court. Meanwhile, the government plans to ___ the energy sector by abolishing most of the existing price controls.",
+          "choices": [
+            [
+              "quasi-judicial",
+              "pseudo-judicial",
+              "counter-judicial"
+            ],
+            [
+              "deregulate",
+              "disregulate",
+              "unregulate"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "The tribunal genuinely has some court-like powers, so it is 'quasi-judicial' (partly judicial); 'pseudo-' would wrongly suggest that its powers are fake. Removing rules is 'deregulate'; 'disregulate' and 'unregulate' are not standard verbs."
+        },
+        {
+          "id": "c2-u03-l2-q5",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the words in order to say that the government troops were far more numerous than the rebels.",
+          "words": [
+            "The",
+            "rebels",
+            "were",
+            "heavily",
+            "outnumbered",
+            "by",
+            "government",
+            "troops"
+          ],
+          "explanation": "If the troops were more numerous, the rebels were outnumbered by them: The rebels were heavily outnumbered by government troops. The reverse order (The government troops were heavily outnumbered by rebels) is grammatical but says the opposite."
+        },
+        {
+          "id": "c2-u03-l2-q6",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "prefixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into English using a verb beginning with out-.",
+          "source": "Banyak lansia khawatir bahwa mereka akan hidup lebih lama daripada tabungan mereka.",
+          "direction": "id-en",
+          "answers": [
+            "Many elderly people worry that they will outlive their savings.",
+            "Many elderly people worry they will outlive their savings.",
+            "Many elderly people are worried that they will outlive their savings.",
+            "Many elderly people are worried they will outlive their savings.",
+            "Many older people worry that they will outlive their savings.",
+            "Many older people worry they will outlive their savings.",
+            "Many older people are worried that they will outlive their savings.",
+            "Many older people are worried they will outlive their savings.",
+            "Many elderly people worry that they'll outlive their savings.",
+            "Many older people worry that they'll outlive their savings.",
+            "Many elderly people fear that they will outlive their savings.",
+            "Many older people fear that they will outlive their savings.",
+            "Many senior citizens worry that they will outlive their savings."
+          ],
+          "explanation": "'Hidup lebih lama daripada' is expressed neatly with the transitive verb outlive: they will outlive their savings (their savings will run out while they are still alive)."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u03-l3-abstract-nouns",
+      "title": "Building Abstract Nouns",
+      "summary": "Form abstract nouns with -ity, -ness, -ism, -ance/-ence, -ship, -hood, -ment and -tion, and distinguish nouns that share a root.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Choose the correct suffix to form an abstract noun from an adjective or verb",
+        "Distinguish pairs of nouns from the same root (observance/observation, conscience/consciousness)",
+        "Use abstract nouns to write in a concise, nominal academic style"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why abstract nouns?\nAt C1 you practised **nominalisation** (decide → decision). At C2 the challenge is precision: choosing the *right* suffix, spelling it correctly, and knowing when two nouns from the same root mean different things. Abstract nouns allow dense, formal statements: *The **scarcity** of water has intensified **competition** between farmers* is more compact than *Because water is scarce, farmers compete more*.\n\n### The main suffixes\n| Suffix | Usually added to | Examples |\n|---|---|---|\n| **-ity** | adjectives (often Latin) | scarce → scarcity, viable → viability, reliable → reliability, secure → security |\n| **-ness** | adjectives (often Germanic) | aware → awareness, fair → fairness, willing → willingness |\n| **-ance / -ence** | adjectives in -ant/-ent, some verbs | resilient → resilience, relevant → relevance, persist → persistence |\n| **-ism** | adjectives/nouns: beliefs, attitudes | sceptical → scepticism, pragmatic → pragmatism |\n| **-ship** | nouns: status, skill, relationship | leader → leadership, partner → partnership, hard → hardship |\n| **-hood** | nouns: state or period | child → childhood, likely → likelihood, neighbour → neighbourhood |\n| **-ment / -tion** | verbs: process or result | commit → commitment, compensate → compensation |\n\n### Spelling patterns to remember\n- Adjectives ending in **-ant** usually give **-ance**, and those in **-ent** give **-ence**: *tolerant → tolerance, persistent → persistence, independent → independence*.\n- **-able/-ible** adjectives become **-ability/-ibility**: *feasible → feasibility, accountable → accountability*.\n- Adjectives ending in **-ic** often form **-icism**: *sceptic(al) → scepticism, critic(al) → criticism*.\n- British spelling *scepticism* corresponds to American *skepticism*.\n\n### -ity or -ness?\nWhere both exist, they often differ. *Sensitivity* (reacting strongly) is not the same as *sensibility* (refined feeling for art or emotion). For many adjectives only one form is standard: *fairness* (not ✗fairity), *scarcity* (✗scarceness is very rare), *originality* (not ✗originalness in normal use). When in doubt, use the form you have seen in reputable writing.\n\n### Same root, different meaning\n| Noun | Meaning |\n|---|---|\n| observation | watching carefully; a remark |\n| observance | following a law, custom or ritual |\n| conscience | inner sense of right and wrong |\n| consciousness | being awake and aware |\n| childhood | the period of being a child |\n| childishness | immature behaviour |\n\n### Style note\nAbstract nouns make writing formal, but too many in a row make it heavy. Balance them with concrete subjects and active verbs: *The council's **reluctance** to act* is fine; *The **implementation** of the **facilitation** of **engagement*** is not.",
+        "examples": [
+          {
+            "en": "The scarcity of affordable housing has driven young families out of the city centre.",
+            "id": "Kelangkaan perumahan yang terjangkau telah mendorong keluarga muda keluar dari pusat kota.",
+            "note": "scarce → scarcity (-ity)."
+          },
+          {
+            "en": "The town's resilience after the flood impressed even seasoned aid workers.",
+            "id": "Ketangguhan kota itu setelah banjir membuat kagum bahkan para pekerja bantuan yang berpengalaman.",
+            "note": "resilient → resilience (-ent → -ence)."
+          },
+          {
+            "en": "Her scepticism about the miracle cure turned out to be justified.",
+            "id": "Keraguannya terhadap obat ajaib itu ternyata beralasan.",
+            "note": "sceptical → scepticism (American spelling: skepticism)."
+          },
+          {
+            "en": "In all likelihood, the vote will be postponed.",
+            "id": "Kemungkinan besar, pemungutan suara itu akan ditunda.",
+            "note": "likely → likelihood; 'in all likelihood' is a fixed phrase."
+          },
+          {
+            "en": "Strict observance of the safety code is required on all sites.",
+            "id": "Kepatuhan yang ketat terhadap kode keselamatan diwajibkan di semua lokasi.",
+            "note": "observance = following a rule, not watching (observation)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "scarcity",
+            "pos": "noun",
+            "ipa": "/ˈskeəsəti/",
+            "meaning": "kelangkaan",
+            "example": "The scarcity of skilled nurses is a national concern."
+          },
+          {
+            "word": "resilience",
+            "pos": "noun",
+            "ipa": "/rɪˈzɪliəns/",
+            "meaning": "ketangguhan, daya lenting",
+            "example": "Building resilience to drought is now a priority for farmers."
+          },
+          {
+            "word": "scepticism",
+            "pos": "noun",
+            "ipa": "/ˈskeptɪsɪzəm/",
+            "meaning": "skeptisisme, sikap ragu",
+            "example": "The announcement was met with widespread scepticism."
+          },
+          {
+            "word": "feasibility",
+            "pos": "noun",
+            "ipa": "/ˌfiːzəˈbɪləti/",
+            "meaning": "kelayakan (untuk dilaksanakan)",
+            "example": "Engineers are assessing the feasibility of a tunnel."
+          },
+          {
+            "word": "hardship",
+            "pos": "noun",
+            "ipa": "/ˈhɑːdʃɪp/",
+            "meaning": "kesulitan hidup, penderitaan",
+            "example": "The tax rise caused real hardship for low-income families."
+          },
+          {
+            "word": "accountability",
+            "pos": "noun",
+            "ipa": "/əˌkaʊntəˈbɪləti/",
+            "meaning": "akuntabilitas, pertanggungjawaban",
+            "example": "Voters are demanding greater accountability from local officials."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "-ant → -ance; -ent → -ence",
+            "example": "tolerant → tolerance; persistent → persistence",
+            "note": "The vowel of the adjective ending usually predicts the noun ending."
+          },
+          {
+            "pattern": "-able/-ible → -ability/-ibility",
+            "example": "accountable → accountability; feasible → feasibility",
+            "note": "Very productive in academic and policy writing."
+          },
+          {
+            "pattern": "the + abstract noun + of + noun phrase",
+            "example": "the scarcity of clean water",
+            "note": "A common way to turn a clause into a compact noun phrase."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "We questioned the fairity of the selection process.",
+            "right": "We questioned the fairness of the selection process.",
+            "why": "The noun from fair is fairness; 'fairity' does not exist."
+          },
+          {
+            "wrong": "The persistance of the problem surprised the engineers.",
+            "right": "The persistence of the problem surprised the engineers.",
+            "why": "persistent → persistence: -ent adjectives give -ence nouns."
+          },
+          {
+            "wrong": "My consciousness told me that I had to return the money.",
+            "right": "My conscience told me that I had to return the money.",
+            "why": "Conscience is the moral sense of right and wrong; consciousness is being awake and aware."
+          }
+        ],
+        "summary": "Abstract nouns are formed with suffixes such as -ity, -ness, -ance/-ence, -ism, -ship, -hood, -ment and -tion. Let the adjective ending guide you (-ent → -ence, -able → -ability) and learn the standard form for each word. Watch for pairs from the same root with different meanings, such as observance/observation and conscience/consciousness.",
+        "reviewCards": [
+          {
+            "front": "scarce → ?",
+            "back": "scarcity"
+          },
+          {
+            "front": "resilient → ?",
+            "back": "resilience"
+          },
+          {
+            "front": "conscience vs consciousness",
+            "back": "moral sense of right and wrong vs being awake and aware"
+          },
+          {
+            "front": "observance vs observation",
+            "back": "following a rule or custom vs watching carefully"
+          },
+          {
+            "front": "in all likelihood",
+            "back": "very probably"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u03-l3-q1",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "abstract nouns",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Complete the sentence with a noun formed from SCARCE.",
+          "instructions": "Many Latin-based adjectives form their noun with -ity.",
+          "text": "The ___ of clean drinking water in the valley has led to tension between neighbouring villages.",
+          "answers": [
+            [
+              "scarcity",
+              "scarceness"
+            ]
+          ],
+          "explanation": "scarce → scarcity. 'Scarceness' is extremely rare and would sound unnatural to a proficient reader."
+        },
+        {
+          "id": "c2-u03-l3-q2",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "abstract nouns",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Complete the text with nouns formed from the words in brackets: RESILIENT, SCEPTICAL, COMPENSATE.",
+          "text": "The community showed remarkable ___ after the flood, although many residents expressed ___ about the government's promises of financial ___.",
+          "answers": [
+            [
+              "resilience",
+              "resiliency"
+            ],
+            [
+              "scepticism",
+              "skepticism"
+            ],
+            [
+              "compensation"
+            ]
+          ],
+          "explanation": "resilient → resilience (-ent → -ence); sceptical → scepticism (American: skepticism); compensate → compensation (-ate → -ation)."
+        },
+        {
+          "id": "c2-u03-l3-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "abstract nouns",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Match each noun to its meaning.",
+          "pairs": [
+            {
+              "left": "observance",
+              "right": "the practice of following a law, custom or ritual"
+            },
+            {
+              "left": "observation",
+              "right": "the act of watching something carefully"
+            },
+            {
+              "left": "conscience",
+              "right": "an inner sense of right and wrong"
+            },
+            {
+              "left": "consciousness",
+              "right": "the state of being awake and aware"
+            },
+            {
+              "left": "childhood",
+              "right": "the period of life when one is a child"
+            },
+            {
+              "left": "childishness",
+              "right": "silly, immature behaviour"
+            }
+          ],
+          "explanation": "Each pair shares a root but the suffix changes the meaning: -ance (observance) relates to keeping a rule, -ation (observation) to the act of watching; -ness (consciousness) to a state of awareness; -hood (childhood) to a period, -ishness (childishness) to behaviour."
+        },
+        {
+          "id": "c2-u03-l3-q4",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "abstract nouns",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": [
+            "Both the applicability of the rule",
+            "and its fairity",
+            "were questioned",
+            "at the hearing."
+          ],
+          "errorIndex": 1,
+          "correction": "and its fairness",
+          "explanation": "The noun from 'fair' is 'fairness'. 'Applicability' (from applicable) is correctly formed, and the plural verb 'were' agrees with the two coordinated subjects."
+        },
+        {
+          "id": "c2-u03-l3-q5",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "abstract nouns",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it begins with a noun formed from 'insecure'.",
+          "sentence": "Many young people are anxious because their jobs are insecure.",
+          "cue": "Begin with: Job ... and use the verb 'makes'.",
+          "answers": [
+            "Job insecurity makes many young people anxious.",
+            "Job insecurity makes a lot of young people anxious."
+          ],
+          "explanation": "insecure → insecurity (-ity). The nominal subject 'Job insecurity' turns the cause into a compact noun phrase: Job insecurity makes many young people anxious."
+        },
+        {
+          "id": "c2-u03-l3-q6",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "abstract nouns",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the best line to complete the dialogue.",
+          "dialogue": [
+            {
+              "speaker": "Lina",
+              "text": "Is the new director popular with the staff?"
+            },
+            {
+              "speaker": "Raka",
+              "text": null
+            },
+            {
+              "speaker": "Lina",
+              "text": "That's a shame. A bit of humility goes a long way."
+            }
+          ],
+          "options": [
+            "Not really. People resent her arrogance — she never admits she might be wrong.",
+            "Not really. People resent her arrogation — she never admits she might be wrong.",
+            "Not really. People resent her arrogantness — she never admits she might be wrong.",
+            "Not really. People resent her arrogantism — she never admits she might be wrong."
+          ],
+          "answer": 0,
+          "explanation": "arrogant → arrogance (-ant → -ance). 'Arrogation' is a different word meaning 'claiming something without justification', and 'arrogantness' and 'arrogantism' are not standard English."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u03-l4-adjective-suffixes",
+      "title": "Adjective Suffixes and Meaning Pairs",
+      "summary": "Form adjectives with -ous, -ive, -able/-ible, -ic/-ical, -ful/-less and -ish, and choose correctly between easily confused pairs.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Distinguish -ic and -ical pairs (economic/economical, historic/historical, classic/classical)",
+        "Choose between respectful, respective and respectable, and sensible and sensitive",
+        "Form negative adjectives with -able/-ible and the correct prefix"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Suffixes and their typical meanings\n| Suffix | Meaning | Examples |\n|---|---|---|\n| **-ous** | having the quality of | ambiguous, contentious, meticulous |\n| **-ive** | tending to, having the power to | divisive, persuasive, disruptive |\n| **-able / -ible** | can be (done) | sustainable, feasible, comprehensible |\n| **-ful / -less** | full of / without | resourceful, fruitless, relentless |\n| **-ic / -ical** | relating to | economic, ethical, political |\n| **-ish** | somewhat, approximately; (negative) like | reddish, fortyish, sevenish; childish |\n\n### -ic vs -ical: same root, different meaning\nSeveral pairs look interchangeable but are not:\n| Word | Meaning | Example |\n|---|---|---|\n| economic | relating to the economy | economic growth |\n| economical | saving money or resources | an economical car |\n| historic | important in history | a historic agreement |\n| historical | relating to the study of the past | historical records |\n| classic | typical; of lasting quality | a classic mistake |\n| classical | of the ancient or Western art tradition | classical music |\n| electric | powered by electricity | an electric guitar |\n| electrical | relating to electricity in general | an electrical engineer |\n\nA useful test: *economical*, *historic* and *classic* often carry an **evaluation** (cheap to run, important, typical), while *economic*, *historical* and *classical* tend to **classify** (field, period, tradition).\n\n### Three adjectives from respect\n- **respectful** = showing respect: *She was always respectful towards her elders.*\n- **respectable** = deserving respect; socially acceptable; reasonably good: *a respectable family, a respectable result.*\n- **respective** = belonging to each one separately: *The delegates returned to their respective countries.*\n\nSimilarly, **sensible** means showing good judgement, while **sensitive** means easily affected or requiring careful handling (*a sensitive issue*). Indonesian learners often translate *sensitif* correctly but confuse it with *sensible*.\n\n### -able vs -ible\nThere is no simple rule, but *-able* is the living suffix used for new words (*downloadable, recyclable*), while *-ible* appears in older Latin-based words (*visible, feasible, comprehensible*). The negative prefix usually follows the base: *unbearable*, *incomprehensible*, *irreversible*, *illegible*.\n\n### -ful and -less are not always opposites\n*Careful/careless* and *useful/useless* are pairs, but *priceless* means 'extremely valuable' (not 'cheap'), *shameless* has no *-ful* partner with the opposite meaning (*shameful* means 'causing shame'), and *fruitless* (unsuccessful) is not simply 'without fruit'.\n\n### -ish in speech and writing\nIn informal English, *-ish* means 'approximately': *Let's meet at sevenish; he's fortyish.* With colours it means 'somewhat': *reddish*. Attached to nouns it can be negative: *childish* (immature), unlike neutral *childlike* (innocent).",
+        "examples": [
+          {
+            "en": "This small car is remarkably economical: it uses very little fuel.",
+            "id": "Mobil kecil ini sangat hemat: bahan bakarnya sangat sedikit.",
+            "note": "economical = saving money; economic = relating to the economy."
+          },
+          {
+            "en": "The signing of the treaty was a historic moment for both nations.",
+            "id": "Penandatanganan perjanjian itu merupakan momen bersejarah bagi kedua negara.",
+            "note": "historic = important in history."
+          },
+          {
+            "en": "After the conference, the delegates returned to their respective countries.",
+            "id": "Setelah konferensi, para delegasi kembali ke negara mereka masing-masing.",
+            "note": "respective = belonging to each one separately."
+          },
+          {
+            "en": "Land ownership is a sensitive issue in the region.",
+            "id": "Kepemilikan tanah merupakan isu yang sensitif di wilayah itu.",
+            "note": "sensitive = needing careful handling; sensible = showing good judgement."
+          },
+          {
+            "en": "Months of negotiations proved fruitless.",
+            "id": "Negosiasi berbulan-bulan itu terbukti sia-sia.",
+            "note": "fruitless = unsuccessful, producing no result."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "economical",
+            "pos": "adjective",
+            "ipa": "/ˌiːkəˈnɒmɪkl/",
+            "meaning": "hemat",
+            "example": "Buying in bulk is more economical for large families."
+          },
+          {
+            "word": "historic",
+            "pos": "adjective",
+            "ipa": "/hɪˈstɒrɪk/",
+            "meaning": "bersejarah, penting dalam sejarah",
+            "example": "The election produced a historic victory for the reformers."
+          },
+          {
+            "word": "respective",
+            "pos": "adjective",
+            "ipa": "/rɪˈspektɪv/",
+            "meaning": "masing-masing",
+            "example": "The two researchers presented their respective findings."
+          },
+          {
+            "word": "divisive",
+            "pos": "adjective",
+            "ipa": "/dɪˈvaɪsɪv/",
+            "meaning": "memecah belah, menimbulkan perpecahan",
+            "example": "Immigration remains a divisive topic."
+          },
+          {
+            "word": "fruitless",
+            "pos": "adjective",
+            "ipa": "/ˈfruːtləs/",
+            "meaning": "sia-sia, tidak membuahkan hasil",
+            "example": "Their search for survivors proved fruitless."
+          },
+          {
+            "word": "irreversible",
+            "pos": "adjective",
+            "ipa": "/ˌɪrɪˈvɜːsəbl/",
+            "meaning": "tidak dapat dipulihkan/dibalik",
+            "example": "Some of the damage to the reef may be irreversible."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "-ic (classifying) vs -ical (evaluating) — check each pair",
+            "example": "economic policy vs an economical solution",
+            "note": "The pattern differs between pairs: historic evaluates, historical classifies."
+          },
+          {
+            "pattern": "negative prefix + base + -able/-ible",
+            "example": "unbearable, incomprehensible, irreversible",
+            "note": "in- becomes ir- before r, il- before l, im- before m/p."
+          },
+          {
+            "pattern": "number/colour + -ish (informal)",
+            "example": "Let's meet at sevenish. The water had a greenish tint.",
+            "note": "Means 'approximately' or 'somewhat'; avoid in formal writing."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The scheme proved highly economic and cut fuel bills by a third.",
+            "right": "The scheme proved highly economical and cut fuel bills by a third.",
+            "why": "Saving money is 'economical'; 'economic' means relating to the economy."
+          },
+          {
+            "wrong": "The students went back to their respectable classrooms.",
+            "right": "The students went back to their respective classrooms.",
+            "why": "Respective means 'each their own'; respectable means 'deserving respect'."
+          },
+          {
+            "wrong": "It was a sensitive decision to save some money for emergencies.",
+            "right": "It was a sensible decision to save some money for emergencies.",
+            "why": "A decision showing good judgement is sensible; sensitive means easily affected or delicate."
+          },
+          {
+            "wrong": "The painting is priceless, so you can buy it for very little.",
+            "right": "The painting is priceless, so it is insured for a fortune.",
+            "why": "Priceless means extremely valuable, not cheap or free."
+          }
+        ],
+        "summary": "Adjective suffixes carry meaning: -ous and -ive describe qualities, -able/-ible express possibility, -ful/-less fullness or absence, and -ish approximation. Pairs such as economic/economical, historic/historical and respectful/respective/respectable differ in meaning and must be chosen with care.",
+        "reviewCards": [
+          {
+            "front": "economic vs economical",
+            "back": "relating to the economy vs saving money or resources"
+          },
+          {
+            "front": "historic vs historical",
+            "back": "important in history vs relating to the past or its study"
+          },
+          {
+            "front": "respectful / respectable / respective",
+            "back": "showing respect / deserving respect or decent / each one's own"
+          },
+          {
+            "front": "sensible vs sensitive",
+            "back": "showing good judgement vs easily affected or delicate"
+          },
+          {
+            "front": "priceless",
+            "back": "extremely valuable (not cheap)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u03-l4-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "adjective suffixes",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the correct adjective: This small hatchback is very ___ — it uses less fuel than any other car in its class.",
+          "instructions": "Is the sentence about the economy as a whole, or about saving money?",
+          "options": [
+            "economical",
+            "economic",
+            "economics",
+            "economist"
+          ],
+          "answer": 0,
+          "explanation": "A car that saves fuel and money is 'economical'. 'Economic' means 'relating to the economy' (economic growth) and cannot be used in this way; 'economics' is the academic subject and 'economist' is a person."
+        },
+        {
+          "id": "c2-u03-l4-q2",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "adjective suffixes",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Choose the correct adjective for each gap.",
+          "text": "Ana was always ___ towards her grandparents. After the summit, the two presidents flew back to their ___ capitals. Finishing sixth was a ___ result for a newly promoted team: not brilliant, but solid.",
+          "choices": [
+            [
+              "respectful",
+              "respective",
+              "respectable"
+            ],
+            [
+              "respectful",
+              "respective",
+              "respectable"
+            ],
+            [
+              "respectful",
+              "respective",
+              "respectable"
+            ]
+          ],
+          "answers": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Showing respect towards someone = respectful; each one's own capital = respective; a reasonably good, acceptable result = respectable."
+        },
+        {
+          "id": "c2-u03-l4-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "adjective suffixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each phrase to its meaning.",
+          "pairs": [
+            {
+              "left": "a classic mistake",
+              "right": "a typical, very common error"
+            },
+            {
+              "left": "classical music",
+              "right": "music in the Western art tradition"
+            },
+            {
+              "left": "a sensible decision",
+              "right": "a choice showing good judgement"
+            },
+            {
+              "left": "a sensitive issue",
+              "right": "a topic that may upset people and needs careful handling"
+            },
+            {
+              "left": "an economical heating system",
+              "right": "a system that saves energy and money"
+            }
+          ],
+          "explanation": "classic = typical; classical = belonging to the art tradition; sensible = wise; sensitive = delicate; economical = saving resources."
+        },
+        {
+          "id": "c2-u03-l4-q4",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "adjective suffixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the sentences with adjectives formed from BEAR and COMPREHEND. Each needs a negative prefix.",
+          "text": "With temperatures above forty degrees, the afternoon heat was ___. The report is full of jargon and almost ___ to anyone without statistical training.",
+          "answers": [
+            [
+              "unbearable"
+            ],
+            [
+              "incomprehensible"
+            ]
+          ],
+          "explanation": "bear → bearable → unbearable (un- with this Germanic base); comprehend → comprehensible → incomprehensible (in- with the Latin base, and the -ible ending)."
+        },
+        {
+          "id": "c2-u03-l4-q5",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "adjective suffixes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": [
+            "The new insulation scheme",
+            "proved highly economic:",
+            "it cut household fuel bills",
+            "by almost a third."
+          ],
+          "errorIndex": 1,
+          "correction": "proved highly economical:",
+          "explanation": "A scheme that saves money is 'economical'. 'Economic' means 'relating to the economy' and cannot describe something that is cheap to run."
+        },
+        {
+          "id": "c2-u03-l4-q6",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "adjective suffixes",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Raka texted: 'Dinner at mine on Friday — come round at sevenish.' What does 'sevenish' mean?",
+          "options": [
+            "at about seven o'clock",
+            "at exactly seven o'clock",
+            "no later than seven o'clock",
+            "seven people are invited"
+          ],
+          "answer": 0,
+          "explanation": "The informal suffix -ish added to a number means 'approximately'. It does not mean 'exactly' or 'at the latest', and it has nothing to do with the number of guests."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u03-l5-compounds",
+      "title": "Compound Adjectives and Nouns",
+      "summary": "Form, hyphenate and use compound adjectives and nouns to express complex ideas about science, society and innovation concisely.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Form compound adjectives such as far-reaching, long-standing and labour-intensive",
+        "Apply hyphenation rules, including number + noun compounds (a five-year plan)",
+        "Use compound nouns such as breakthrough, trade-off and setback accurately"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why compounds?\nCompounds compress a whole clause into one modifier. Compare *a plan that will last five years* with *a **five-year** plan*, or *a dispute that has existed for a long time* with *a **long-standing** dispute*. Journalism and academic writing rely heavily on them.\n\n### Common patterns for compound adjectives\n| Pattern | Examples |\n|---|---|\n| adverb/adjective + participle | far-reaching, long-standing, well-known, newly elected |\n| noun + participle | time-consuming, record-breaking, man-made, state-funded |\n| noun + adjective | labour-intensive, cost-effective, carbon-neutral, user-friendly |\n| adjective + noun | cutting-edge, high-level, open-ended, short-term |\n| number + noun | a five-year plan, a ten-minute delay, a 300-page report |\n| adjective + noun + -ed | open-minded, short-sighted, single-minded |\n\n### Hyphenation rules\n1. **Before a noun, hyphenate**: *a well-known author, a long-term strategy, cutting-edge research*.\n2. **After the verb, many compounds lose the hyphen**: *The author is well known. The strategy is long term.* Established compounds such as *labour-intensive* or *cost-effective* usually keep it in both positions.\n3. **Adverbs ending in -ly are never hyphenated**: *a newly elected mayor*, *a highly regarded study* (not ✗newly-elected).\n4. **Number + noun compounds use the singular noun**: *a five-year plan* (✗five-years plan), *a two-hour meeting*, *a ten-year-old girl*.\n\n### Compound nouns\nMany compound nouns come from phrasal verbs and are written solid or with a hyphen:\n| Compound | Meaning | From |\n|---|---|---|\n| breakthrough | an important discovery or development | break through |\n| setback | a problem that delays progress | set back |\n| outbreak | the sudden start of something unpleasant (disease, war) | break out |\n| trade-off | a balance between two desirable but incompatible things | trade off |\n| drawback | a disadvantage | draw back |\n| turnout | the number of people who attend or vote | turn out |\n\nNote the stress: compound nouns are usually stressed on the first part (*a BREAKthrough*), while the phrasal verbs stress the particle (*to break THROUGH*).\n\n### Vocabulary for science, society and innovation\nThese compounds are frequent in reports on innovation: *cutting-edge technology, a ground-breaking study, evidence-based policy, peer-reviewed research, labour-intensive industries, open-ended questions, far-reaching implications, a long-standing problem*. Learn them as complete collocations rather than isolated words.\n\n### Avoid stacking\nOne or two compound modifiers are efficient; four in a row (*a cost-effective, user-friendly, state-funded, carbon-neutral scheme*) overwhelm the reader. Move some information into a relative clause or a separate sentence.",
+        "examples": [
+          {
+            "en": "The government has launched a five-year plan to modernise rural hospitals.",
+            "id": "Pemerintah telah meluncurkan rencana lima tahun untuk memodernisasi rumah sakit di pedesaan.",
+            "note": "number + singular noun, hyphenated before the noun."
+          },
+          {
+            "en": "The discovery was hailed as a breakthrough in battery design.",
+            "id": "Penemuan itu dipuji sebagai terobosan dalam desain baterai.",
+            "note": "breakthrough = an important discovery (compound noun)."
+          },
+          {
+            "en": "Every energy policy involves a trade-off between cost and reliability.",
+            "id": "Setiap kebijakan energi melibatkan kompromi antara biaya dan keandalan.",
+            "note": "trade-off = a balance between two incompatible goals."
+          },
+          {
+            "en": "The ruling will have far-reaching consequences for tenants across the country.",
+            "id": "Putusan itu akan berdampak luas bagi para penyewa di seluruh negeri.",
+            "note": "far-reaching = having a wide influence."
+          },
+          {
+            "en": "Fruit picking is still highly labour-intensive.",
+            "id": "Pemetikan buah masih sangat padat karya.",
+            "note": "labour-intensive keeps its hyphen after the verb (American: labor-intensive)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "far-reaching",
+            "pos": "adjective",
+            "ipa": "/ˌfɑːˈriːtʃɪŋ/",
+            "meaning": "berdampak luas",
+            "example": "The reforms had far-reaching effects on the education system."
+          },
+          {
+            "word": "long-standing",
+            "pos": "adjective",
+            "ipa": "/ˌlɒŋˈstændɪŋ/",
+            "meaning": "sudah lama berlangsung",
+            "example": "The two universities have a long-standing partnership."
+          },
+          {
+            "word": "cutting-edge",
+            "pos": "adjective",
+            "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+            "meaning": "paling mutakhir, terdepan",
+            "example": "The lab uses cutting-edge imaging techniques."
+          },
+          {
+            "word": "trade-off",
+            "pos": "noun",
+            "ipa": "/ˈtreɪd ɒf/",
+            "meaning": "kompromi/pertukaran antara dua hal yang saling bertentangan",
+            "example": "There is always a trade-off between speed and accuracy."
+          },
+          {
+            "word": "setback",
+            "pos": "noun",
+            "ipa": "/ˈsetbæk/",
+            "meaning": "kemunduran, hambatan",
+            "example": "The failed test was a major setback for the team."
+          },
+          {
+            "word": "open-ended",
+            "pos": "adjective",
+            "ipa": "/ˌəʊpən ˈendɪd/",
+            "meaning": "terbuka, tanpa batas/jawaban yang ditentukan",
+            "example": "The survey included several open-ended questions."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "number + singular noun (hyphenated) + noun",
+            "example": "a three-hour meeting, a two-year contract",
+            "note": "The noun inside the compound never takes -s."
+          },
+          {
+            "pattern": "compound adjective before the noun = hyphen",
+            "example": "a well-known supplier, a long-term solution",
+            "note": "After the verb many lose the hyphen: The supplier is well known."
+          },
+          {
+            "pattern": "-ly adverb + participle (no hyphen)",
+            "example": "a newly elected mayor, a highly regarded journal",
+            "note": "The -ly already shows that the adverb modifies the participle."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "They signed a two years contract.",
+            "right": "They signed a two-year contract.",
+            "why": "In number + noun compounds the noun is singular and the compound is hyphenated."
+          },
+          {
+            "wrong": "The newly-elected mayor gave her first speech.",
+            "right": "The newly elected mayor gave her first speech.",
+            "why": "Do not hyphenate after an adverb ending in -ly."
+          },
+          {
+            "wrong": "The scientists made a setback in cancer research.",
+            "right": "The scientists made a breakthrough in cancer research.",
+            "why": "A setback is a problem that delays progress; an important discovery is a breakthrough."
+          }
+        ],
+        "summary": "Compound adjectives and nouns pack complex ideas into one expression: a five-year plan, far-reaching consequences, a trade-off. Hyphenate compound adjectives before a noun, keep the noun singular in number compounds, and never hyphenate after -ly adverbs. Learn innovation-related compounds as complete collocations.",
+        "reviewCards": [
+          {
+            "front": "a plan lasting five years",
+            "back": "a five-year plan"
+          },
+          {
+            "front": "breakthrough vs setback",
+            "back": "an important advance vs a problem that delays progress"
+          },
+          {
+            "front": "trade-off",
+            "back": "a balance between two desirable things you cannot fully have together"
+          },
+          {
+            "front": "newly elected / newly-elected?",
+            "back": "newly elected — no hyphen after -ly adverbs"
+          },
+          {
+            "front": "far-reaching",
+            "back": "having a wide range of effects"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u03-l5-q1",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "compounds",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Drag the correct compounds into the gaps.",
+          "instructions": "Look at the word that follows each gap: is a noun or an adjective needed?",
+          "text": "The discovery was hailed as a ___ in battery design, but its ___ implications for the energy market will take years to understand. As with any ___ technology, there is a ___ between cost and safety.",
+          "bank": [
+            "breakthrough",
+            "far-reaching",
+            "cutting-edge",
+            "trade-off",
+            "setback",
+            "long-winded",
+            "outbreak"
+          ],
+          "answers": [
+            "breakthrough",
+            "far-reaching",
+            "cutting-edge",
+            "trade-off"
+          ],
+          "explanation": "A discovery is hailed as a 'breakthrough'; implications with a wide influence are 'far-reaching'; the newest technology is 'cutting-edge'; a balance between cost and safety is a 'trade-off'. A setback is a problem, an outbreak is the start of something bad (e.g. a disease), and long-winded means 'too long and boring'."
+        },
+        {
+          "id": "c2-u03-l5-q2",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "compounds",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Put the fragments in the correct order to form a sentence.",
+          "fragments": [
+            "The long-standing dispute",
+            "between the two research institutes",
+            "was finally resolved",
+            "through an open-ended agreement",
+            "to share their data."
+          ],
+          "explanation": "Subject (The long-standing dispute) + post-modifier (between the two research institutes) + verb (was finally resolved) + means (through an open-ended agreement) + purpose/complement (to share their data)."
+        },
+        {
+          "id": "c2-u03-l5-q3",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "compounds",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Translate into Indonesian.",
+          "source": "The government has launched a five-year plan to reduce labour-intensive work in agriculture.",
+          "direction": "en-id",
+          "answers": [
+            "Pemerintah telah meluncurkan rencana lima tahun untuk mengurangi pekerjaan padat karya di bidang pertanian.",
+            "Pemerintah telah meluncurkan rencana lima tahun untuk mengurangi pekerjaan padat karya di sektor pertanian.",
+            "Pemerintah telah meluncurkan rencana lima tahun untuk mengurangi pekerjaan padat karya dalam pertanian.",
+            "Pemerintah telah meluncurkan rencana lima tahun untuk mengurangi pekerjaan padat karya di pertanian.",
+            "Pemerintah meluncurkan rencana lima tahun untuk mengurangi pekerjaan padat karya di bidang pertanian.",
+            "Pemerintah meluncurkan rencana lima tahun untuk mengurangi pekerjaan padat karya di sektor pertanian.",
+            "Pemerintah telah meluncurkan rencana lima tahunan untuk mengurangi pekerjaan padat karya di bidang pertanian.",
+            "Pemerintah telah meluncurkan rencana lima tahunan untuk mengurangi pekerjaan padat karya di sektor pertanian."
+          ],
+          "explanation": "'A five-year plan' = rencana lima tahun(an); 'labour-intensive' = padat karya (requiring a lot of human work); 'in agriculture' = di bidang/sektor pertanian."
+        },
+        {
+          "id": "c2-u03-l5-q4",
+          "type": "sentence_correction",
+          "category": "writing",
+          "topic": "compounds",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Correct the two errors in this sentence.",
+          "sentence": "The ministry signed a two years contract with a well known supplier.",
+          "answers": [
+            "The ministry signed a two-year contract with a well-known supplier."
+          ],
+          "explanation": "Number + noun compounds use the singular noun and a hyphen (a two-year contract), and compound adjectives before a noun are hyphenated (a well-known supplier)."
+        },
+        {
+          "id": "c2-u03-l5-q5",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "compounds",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the word that completes the sentence: The peace talks suffered a major ___ when one delegation walked out on the second day.",
+          "options": [
+            "setback",
+            "breakthrough",
+            "turnout",
+            "outlook"
+          ],
+          "answer": 0,
+          "explanation": "A walkout delays progress, so the talks suffered a 'setback'. A breakthrough is the opposite (an important advance), turnout is the number of people who attend or vote, and outlook means 'prospects' or 'attitude'; none collocates with 'suffered' in this context."
+        },
+        {
+          "id": "c2-u03-l5-q6",
+          "type": "short_answer",
+          "category": "vocabulary",
+          "topic": "compounds",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Write the compound adjective that completes the phrase: a delay of ten minutes = a ___ delay.",
+          "answers": [
+            "ten-minute",
+            "ten minute",
+            "10-minute",
+            "10 minute"
+          ],
+          "explanation": "In number + noun compounds the noun stays singular and the compound is hyphenated: a ten-minute delay (not ✗ten-minutes)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u03-t-q1",
+      "type": "multiple_select",
+      "category": "vocabulary",
+      "topic": "prefixes",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "In which words does over- mean 'too much' or 'excessively'? Select all that apply.",
+      "options": [
+        "overcrowded",
+        "overhaul",
+        "overpriced",
+        "overlook",
+        "overreact",
+        "overseas"
+      ],
+      "answers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": "Overcrowded (too many people), overpriced (costing too much) and overreact (react too strongly) express excess. Overhaul means 'examine and repair thoroughly', overlook means 'fail to notice' or 'have a view over', and overseas means 'abroad'."
+    },
+    {
+      "id": "c2-u03-t-q2",
+      "type": "sentence_transformation",
+      "category": "writing",
+      "topic": "compounds",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence using a compound adjective before the noun 'effects'.",
+      "sentence": "The new law has effects that reach far into many areas of public life.",
+      "cue": "Begin with: The new law has ...",
+      "answers": [
+        "The new law has far-reaching effects on many areas of public life.",
+        "The new law has far-reaching effects in many areas of public life.",
+        "The new law has far-reaching effects across many areas of public life.",
+        "The new law has far-reaching effects."
+      ],
+      "explanation": "'Effects that reach far' becomes the compound adjective 'far-reaching', hyphenated before the noun: The new law has far-reaching effects."
+    },
+    {
+      "id": "c2-u03-t-q3",
+      "type": "fill_blank",
+      "category": "vocabulary",
+      "topic": "abstract nouns",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Complete the sentence with nouns formed from ACCOUNTABLE and TRANSPARENT.",
+      "text": "Voters are demanding greater ___ from local officials and more ___ in how public contracts are awarded.",
+      "answers": [
+        [
+          "accountability"
+        ],
+        [
+          "transparency"
+        ]
+      ],
+      "explanation": "accountable → accountability (-able → -ability); transparent → transparency (-ent → -ency)."
+    },
+    {
+      "id": "c2-u03-t-q4",
+      "type": "dropdown",
+      "category": "vocabulary",
+      "topic": "word formation",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Choose the correct word for each gap.",
+      "text": "Buying cheaper insulation turned out to be a false ___: heating bills rose so sharply that the whole scheme proved ___.",
+      "choices": [
+        [
+          "economy",
+          "economic",
+          "economical"
+        ],
+        [
+          "counterproductive",
+          "overproductive",
+          "misproductive"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "'A false economy' is a fixed noun phrase for a saving that ends up costing more. A scheme that produces the opposite of its aim is 'counterproductive'; 'overproductive' means producing too much, and 'misproductive' is not a word."
+    },
+    {
+      "id": "c2-u03-t-q5",
+      "type": "error_identification",
+      "category": "vocabulary",
+      "topic": "prefixes",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Find the segment that contains an error.",
+      "segments": [
+        "The minister",
+        "was accused",
+        "of mispresenting",
+        "the unemployment figures."
+      ],
+      "errorIndex": 2,
+      "correction": "of misrepresenting",
+      "explanation": "The verb is mis- + represent = misrepresent (give a false account of). 'Mispresent' is not a word."
+    },
+    {
+      "id": "c2-u03-t-q6",
+      "type": "translation",
+      "category": "vocabulary",
+      "topic": "prefixes",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Translate into English. Try to use a verb with a prefix.",
+      "source": "Proyek itu melebihi anggarannya sebesar dua juta dolar.",
+      "direction": "id-en",
+      "answers": [
+        "The project overran its budget by two million dollars.",
+        "The project overran its budget by $2 million.",
+        "The project overran its budget by 2 million dollars.",
+        "The project exceeded its budget by two million dollars.",
+        "The project exceeded its budget by $2 million.",
+        "The project went over its budget by two million dollars.",
+        "The project went over budget by two million dollars.",
+        "The project ran over its budget by two million dollars.",
+        "The project ran over budget by two million dollars.",
+        "The project was two million dollars over budget.",
+        "The project overspent its budget by two million dollars.",
+        "That project overran its budget by two million dollars.",
+        "That project exceeded its budget by two million dollars."
+      ],
+      "explanation": "'Melebihi anggaran' is naturally expressed with overrun (past: overran) or exceed: The project overran its budget by two million dollars."
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "slug": "c1-u09-idioms",
+  "number": 9,
+  "title": "Idioms and Fixed Expressions",
+  "description": "Understand and use common idioms for work, relationships and decisions; master binomials such as pros and cons and by and large; and learn which fixed expressions suit formal and informal registers.",
+  "objectives": [
+    "Understand and use common idioms about work and teamwork",
+    "Understand and use idioms about relationships and conflict",
+    "Understand and use idioms about decisions and risk",
+    "Use binomials in their fixed order",
+    "Choose fixed expressions appropriate to the register"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u09-l1-work-idioms",
+      "title": "Back to the Drawing Board: Idioms for Work",
+      "summary": "Understand and use idioms that describe starting, planning, effort and progress at work.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Understand idioms such as get the ball rolling, cut corners and pull your weight",
+        "Use work idioms naturally in meetings and informal emails",
+        "Recognise that idioms have a fixed form"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is an idiom?\nAn **idiom** is a fixed expression whose meaning cannot be worked out from the individual words. 'Back to the drawing board' has nothing to do with drawing; it means 'we must start planning again because the previous plan failed'. Idioms are extremely common in spoken English, in workplace conversation, in journalism and in fiction. At C1, you are expected to **understand** a wide range of idioms and **use** a selection of them accurately and appropriately.\n\n### Idioms for work and projects\n| Idiom | Meaning | Example |\n|---|---|---|\n| get the ball rolling | start an activity | Let's get the ball rolling with a quick round of introductions. |\n| back to the drawing board | start again after a failure | The client rejected the design, so it's back to the drawing board. |\n| cut corners | do something cheaply or carelessly to save time or money | We can't afford to cut corners on safety. |\n| pull your weight | do your fair share of the work | Everyone needs to pull their weight. |\n| call it a day | stop working for now | We've done enough; let's call it a day. |\n| on the same page | in agreement; understanding the situation in the same way | Let's make sure we're all on the same page. |\n| think outside the box | think creatively | We need to think outside the box to cut costs. |\n| a steep learning curve | a situation where you must learn a lot quickly | Joining a tech start-up was a steep learning curve. |\n| up in the air | undecided | The launch date is still up in the air. |\n| touch base | make brief contact | I'll touch base with you on Friday. |\n\n### Fixed form, flexible grammar\nYou can change the **grammar** of an idiom (tense, pronouns) but not its **key words**:\n- Correct: 'She **cut corners**.' / 'They **have been cutting corners**.' / 'Everyone **pulled their weight**.'\n- Wrong: '*cut edges*', '*pull your weight up*', '*on the same paper*'.\n\nChanging one word usually makes the idiom sound wrong or even meaningless to native speakers.\n\n### Using idioms well\n1. **Context**: work idioms are common in meetings, informal emails and conversations with colleagues, but they are usually avoided in formal reports and academic essays.\n2. **Frequency**: use them occasionally. A sentence full of idioms sounds unnatural ('Let's get the ball rolling and think outside the box so we're on the same page').\n3. **Audience**: international colleagues may not know every idiom, so clarity sometimes matters more than colour.\n\n### Learning strategy\nLearn idioms in **full example sentences** and group them by topic or by image (ball, corner, box). Note whether each idiom is positive, negative or neutral; 'cut corners', for example, is always critical.\n\n### Indonesian note\nSome idioms have Indonesian parallels: *kembali ke titik nol* (back to square one / back to the drawing board), *setengah hati* (half-hearted). Others have no direct equivalent and must be learned as whole units.",
+        "examples": [
+          { "en": "The client rejected all our designs, so it's back to the drawing board.", "id": "Klien menolak semua desain kami, jadi kami harus mulai lagi dari awal.", "note": "Starting again after failure." },
+          { "en": "We can't afford to cut corners on safety.", "id": "Kita tidak boleh asal-asalan soal keselamatan demi menghemat waktu atau biaya.", "note": "Negative meaning." },
+          { "en": "Let's call it a day and continue tomorrow morning.", "id": "Mari kita sudahi untuk hari ini dan lanjutkan besok pagi.", "note": "Stop working." },
+          { "en": "The launch date is still up in the air.", "id": "Tanggal peluncurannya masih belum pasti.", "note": "Undecided." }
+        ],
+        "vocabulary": [
+          { "word": "cut corners", "pos": "idiom", "ipa": "/kʌt ˈkɔːnəz/", "meaning": "mengambil jalan pintas dengan mengorbankan kualitas", "example": "The builder cut corners, and the roof leaked." },
+          { "word": "pull your weight", "pos": "idiom", "ipa": "/pʊl jɔː weɪt/", "meaning": "melakukan bagian kerja sendiri dengan adil", "example": "One team member wasn't pulling his weight." },
+          { "word": "up in the air", "pos": "idiom", "ipa": "/ʌp ɪn ði eə(r)/", "meaning": "belum diputuskan, belum pasti", "example": "Our holiday plans are still up in the air." },
+          { "word": "a steep learning curve", "pos": "idiom", "ipa": "/ə stiːp ˈlɜːnɪŋ kɜːv/", "meaning": "proses belajar yang berat dan cepat", "example": "The new software involves a steep learning curve." },
+          { "word": "get the ball rolling", "pos": "idiom", "ipa": "/ɡet ðə bɔːl ˈrəʊlɪŋ/", "meaning": "memulai suatu kegiatan", "example": "Who wants to get the ball rolling?" }
+        ],
+        "grammar": [
+          { "pattern": "Idiom with changeable tense: cut / cut / cutting corners", "example": "They have been cutting corners for months.", "note": "Grammar can change; key words cannot." },
+          { "pattern": "Possessive inside idioms: pull + my / your / their + weight", "example": "Everyone pulled their weight.", "note": "Adjust the possessive to the subject." },
+          { "pattern": "be + idiom: be on the same page / be up in the air", "example": "Are we all on the same page?", "note": "Idioms used as complements." }
+        ],
+        "mistakes": [
+          { "wrong": "We can't afford to cut edges on safety.", "right": "We can't afford to cut corners on safety.", "why": "The idiom is 'cut corners'; changing the noun makes it meaningless." },
+          { "wrong": "Let's call it the day.", "right": "Let's call it a day.", "why": "The fixed form uses the article 'a'." },
+          { "wrong": "Are we all on the same paper?", "right": "Are we all on the same page?", "why": "The idiom is 'on the same page'." }
+        ],
+        "summary": "Work idioms such as get the ball rolling, back to the drawing board, cut corners, pull your weight, call it a day, on the same page and up in the air are common in workplace conversation. Keep their key words fixed, change only the grammar, and avoid them in formal reports.",
+        "reviewCards": [
+          { "front": "back to the drawing board", "back": "start planning again after a failure" },
+          { "front": "cut corners", "back": "do something cheaply/carelessly to save time or money" },
+          { "front": "up in the air", "back": "belum diputuskan, belum pasti" },
+          { "front": "pull your weight", "back": "do your fair share of the work" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u09-l1-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "work idioms", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the meaning of the idiom in bold.",
+          "context": "The client rejected all three of our designs, so it's **back to the drawing board**.",
+          "options": ["we have to start planning again from the beginning", "we must buy new drawing equipment", "we can finally relax", "we should ask the client for more money"],
+          "answer": 0,
+          "explanation": "'Back to the drawing board' means that a plan has failed and you need to start again."
+        },
+        {
+          "id": "c1-u09-l1-q2", "type": "matching", "category": "vocabulary", "topic": "work idioms", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each idiom with its meaning.",
+          "pairs": [
+            { "left": "get the ball rolling", "right": "start an activity" },
+            { "left": "cut corners", "right": "do something cheaply or carelessly to save time or money" },
+            { "left": "pull your weight", "right": "do your fair share of the work" },
+            { "left": "call it a day", "right": "stop working for now" },
+            { "left": "up in the air", "right": "still undecided" }
+          ],
+          "explanation": "These idioms are frequently used in workplace conversations and informal emails."
+        },
+        {
+          "id": "c1-u09-l1-q3", "type": "fill_blank", "category": "vocabulary", "topic": "work idioms", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the idioms with one word in each gap.",
+          "text": "We've been working for ten hours, so let's ___ it a day. Tomorrow everyone needs to ___ their weight if we want to finish on time.",
+          "answers": [["call"], ["pull"]],
+          "explanation": "The fixed idioms are 'call it a day' (stop working) and 'pull your/their weight' (do your fair share)."
+        },
+        {
+          "id": "c1-u09-l1-q4", "type": "dialogue_completion", "category": "conversation", "topic": "work idioms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Manager", "text": "Are we all clear about the new deadlines and who is responsible for what?" },
+            { "speaker": "Employee", "text": null }
+          ],
+          "options": ["Yes, I think we're all on the same page now.", "Yes, I think we're all on the same book now.", "Yes, I think we're all on one paper now.", "Yes, I think we're all at the same sheet now."],
+          "answer": 0,
+          "explanation": "The idiom is 'on the same page', meaning that everyone understands and agrees about the situation."
+        },
+        {
+          "id": "c1-u09-l1-q5", "type": "error_identification", "category": "vocabulary", "topic": "work idioms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["We can't afford", "to cut edges", "on safety", "in this factory."],
+          "errorIndex": 1,
+          "correction": "to cut corners",
+          "explanation": "The fixed idiom is 'cut corners'. The key words of an idiom cannot be replaced."
+        },
+        {
+          "id": "c1-u09-l1-q6", "type": "single_choice", "category": "vocabulary", "topic": "work idioms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the sentence: 'Moving from teaching to software development, Nadia faced ___.'",
+          "options": ["a steep learning curve", "a sharp studying slope", "a tall learning hill", "a deep learning bend"],
+          "answer": 0,
+          "explanation": "'A steep learning curve' describes a situation in which you must learn a lot very quickly."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u09-l2-relationship-idioms",
+      "title": "See Eye to Eye: Idioms for Relationships",
+      "summary": "Describe friendships, disagreements and reconciliation with common idioms.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Understand idioms such as hit it off, see eye to eye and bury the hatchet",
+        "Describe conflict and reconciliation idiomatically",
+        "Use relationship idioms with correct grammar"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Talking about relationships\nRelationships, both personal and professional, are one of the richest areas of idiomatic English. These idioms appear constantly in conversation, TV series, novels and magazine articles.\n\n### Positive relationships\n| Idiom | Meaning |\n|---|---|\n| hit it off (with someone) | like each other immediately |\n| get on like a house on fire | have a very friendly relationship |\n| see eye to eye (with someone) | agree |\n| break the ice | make people feel relaxed when they first meet |\n| on the same wavelength | thinking in a similar way |\n\n### Problems and conflict\n| Idiom | Meaning |\n|---|---|\n| rub someone up the wrong way | annoy someone (often without meaning to) |\n| give someone the cold shoulder | deliberately ignore someone |\n| at loggerheads (with someone) | in strong disagreement |\n| on the rocks | (of a relationship) having serious problems |\n| fall out (with someone) | stop being friends after an argument |\n\n### Reconciliation\n| Idiom | Meaning |\n|---|---|\n| bury the hatchet | end a disagreement and become friends again |\n| clear the air | discuss a problem openly to remove tension |\n| make up (with someone) | become friends again after an argument |\n\n### Grammar notes\n- *Hit it off* uses the fixed object *it*: 'Rina and Sari **hit it off** immediately.' (past: *hit*)\n- *See eye to eye* is mostly used in the **negative**: 'My manager and I **don't always see eye to eye**.'\n- *Get on like a house on fire* uses *get on* (British) or *get along* (American) — but the idiom itself is fixed with *get on*.\n- *Fall out* and *make up* are phrasal verbs that also function like idioms: '**They fell out** over money but **made up** a week later.'\n\n### Register and tone\nMost relationship idioms are neutral to informal. In a workplace email, 'We don't always see eye to eye, but we work well together' is perfectly natural. In a formal report you would write 'There are occasional differences of opinion'.\n\n### Indonesian note\nCompare *akur* (get on well / see eye to eye), *bermusuhan* (be at loggerheads), *berbaikan* (make up / bury the hatchet), *mencairkan suasana* (break the ice). The last one is a close parallel: both languages use the image of ice or something frozen.",
+        "examples": [
+          { "en": "Rina and her new flatmate hit it off immediately.", "id": "Rina dan teman sekamar barunya langsung akrab.", "note": "Like each other at once." },
+          { "en": "My manager and I don't always see eye to eye, but we respect each other.", "id": "Saya dan manajer saya tidak selalu sependapat, tetapi kami saling menghormati.", "note": "Usually negative." },
+          { "en": "After years of arguing, the two brothers finally buried the hatchet.", "id": "Setelah bertahun-tahun bertengkar, kedua kakak-beradik itu akhirnya berbaikan.", "note": "Reconciliation." },
+          { "en": "The trainer told a joke to break the ice.", "id": "Pelatih itu menceritakan lelucon untuk mencairkan suasana.", "note": "Making people relaxed." }
+        ],
+        "vocabulary": [
+          { "word": "hit it off", "pos": "idiom", "ipa": "/hɪt ɪt ɒf/", "meaning": "langsung cocok / akrab", "example": "We hit it off at the conference." },
+          { "word": "bury the hatchet", "pos": "idiom", "ipa": "/ˈberi ðə ˈhætʃɪt/", "meaning": "berdamai, mengakhiri permusuhan", "example": "It's time to bury the hatchet." },
+          { "word": "give someone the cold shoulder", "pos": "idiom", "ipa": "/ɡɪv ðə kəʊld ˈʃəʊldə(r)/", "meaning": "sengaja mengacuhkan seseorang", "example": "She gave me the cold shoulder at the party." },
+          { "word": "at loggerheads", "pos": "idiom", "ipa": "/æt ˈlɒɡəhedz/", "meaning": "berselisih tajam", "example": "The two departments are at loggerheads over the budget." },
+          { "word": "on the rocks", "pos": "idiom", "ipa": "/ɒn ðə rɒks/", "meaning": "sedang bermasalah serius (hubungan)", "example": "Their marriage was on the rocks." }
+        ],
+        "grammar": [
+          { "pattern": "subject + hit it off (with someone)", "example": "She hit it off with her new colleagues.", "note": "'it' is fixed." },
+          { "pattern": "not + see eye to eye (with someone) (on something)", "example": "We don't see eye to eye on politics.", "note": "Mostly negative." },
+          { "pattern": "be at loggerheads (with someone) (over something)", "example": "The unions are at loggerheads with management over pay.", "note": "Prepositions: with + person, over + issue." }
+        ],
+        "mistakes": [
+          { "wrong": "We hit off immediately.", "right": "We hit it off immediately.", "why": "The idiom requires the object 'it'." },
+          { "wrong": "They buried the axe after the argument.", "right": "They buried the hatchet after the argument.", "why": "The fixed noun is 'hatchet'." },
+          { "wrong": "My boss and I don't see eyes to eyes.", "right": "My boss and I don't see eye to eye.", "why": "The idiom uses singular 'eye to eye'." }
+        ],
+        "summary": "Relationship idioms describe liking (hit it off, get on like a house on fire), agreeing (see eye to eye), conflict (at loggerheads, give someone the cold shoulder, on the rocks) and reconciliation (bury the hatchet, clear the air). Keep the fixed words and use them mainly in neutral or informal contexts.",
+        "reviewCards": [
+          { "front": "hit it off", "back": "like each other immediately (langsung akrab)" },
+          { "front": "bury the hatchet", "back": "end a disagreement (berdamai)" },
+          { "front": "break the ice", "back": "mencairkan suasana" },
+          { "front": "at loggerheads", "back": "in strong disagreement" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u09-l2-q1", "type": "single_choice", "category": "vocabulary", "topic": "relationship idioms", "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence: 'Rina and her new flatmate ___ immediately; they talked until three in the morning.'",
+          "options": ["hit it off", "hit the roof", "hit the sack", "hit a wall"],
+          "answer": 0,
+          "explanation": "'Hit it off' means to like each other immediately. 'Hit the roof' means to become very angry, 'hit the sack' means to go to bed, and 'hit a wall' means to reach a point where you cannot progress."
+        },
+        {
+          "id": "c1-u09-l2-q2", "type": "matching", "category": "vocabulary", "topic": "relationship idioms", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each idiom with its meaning.",
+          "pairs": [
+            { "left": "see eye to eye", "right": "agree with someone" },
+            { "left": "bury the hatchet", "right": "end a disagreement and become friends again" },
+            { "left": "give someone the cold shoulder", "right": "deliberately ignore someone" },
+            { "left": "break the ice", "right": "make people feel relaxed when they first meet" },
+            { "left": "rub someone up the wrong way", "right": "annoy someone, often without meaning to" }
+          ],
+          "explanation": "These idioms describe agreement, conflict and reconciliation in relationships."
+        },
+        {
+          "id": "c1-u09-l2-q3", "type": "translation", "category": "vocabulary", "topic": "relationship idioms", "difficulty": 3, "stage": "independent",
+          "prompt": "Translate into English using the idiom 'bury the hatchet'.",
+          "source": "Mereka akhirnya berbaikan setelah bertahun-tahun bertengkar.",
+          "direction": "id-en",
+          "answers": ["They finally buried the hatchet after years of arguing.", "They finally buried the hatchet after years of fighting.", "They finally buried the hatchet after years of quarrelling.", "They finally buried the hatchet after years of quarreling.", "They finally buried the hatchet after arguing for years.", "They finally buried the hatchet after fighting for years.", "They have finally buried the hatchet after years of arguing.", "They have finally buried the hatchet after years of fighting.", "After years of arguing, they finally buried the hatchet.", "After years of fighting, they finally buried the hatchet.", "After years of quarrelling, they finally buried the hatchet.", "They eventually buried the hatchet after years of arguing.", "They buried the hatchet at last after years of arguing."],
+          "explanation": "'Berbaikan' (become friends again after a conflict) is expressed by the idiom 'bury the hatchet'; 'bertengkar' = argue / fight / quarrel."
+        },
+        {
+          "id": "c1-u09-l2-q4", "type": "fill_blank", "category": "vocabulary", "topic": "relationship idioms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the idiom.",
+          "text": "My manager and I don't always see ___ to ___, but we respect each other's opinions.",
+          "answers": [["eye"], ["eye"]],
+          "explanation": "The fixed idiom is 'see eye to eye', meaning 'agree'. It uses the singular 'eye' twice."
+        },
+        {
+          "id": "c1-u09-l2-q5", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "relationship idioms", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the meaning of the idiom in bold.",
+          "context": "After months of arguments about money, their marriage was **on the rocks**.",
+          "options": ["experiencing serious problems and likely to fail", "very happy and stable", "being celebrated by the sea", "only recently started"],
+          "answer": 0,
+          "explanation": "A relationship that is 'on the rocks' is in serious difficulty."
+        },
+        {
+          "id": "c1-u09-l2-q6", "type": "drag_drop", "category": "vocabulary", "topic": "relationship idioms", "difficulty": 3, "stage": "quiz",
+          "prompt": "Drag the correct verbs into the gaps.",
+          "text": "At the start of the workshop, the trainer told a joke to ___ the ice. Two participants clearly didn't ___ on at first, but by the end of the day they had ___ the hatchet.",
+          "bank": ["break", "get", "buried", "broken", "burned", "cut"],
+          "answers": ["break", "get", "buried"],
+          "explanation": "The idioms are 'break the ice', 'get on (with someone)' and 'bury the hatchet' (past participle: buried)."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u09-l3-decision-idioms",
+      "title": "Take the Plunge: Idioms for Decisions",
+      "summary": "Talk about hesitation, risk and decision-making with idioms such as sit on the fence, sleep on it and the ball is in your court.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Understand idioms for hesitating and deciding",
+        "Use idioms for risk and timing such as take the plunge and jump the gun",
+        "Respond naturally in discussions using decision idioms"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Deciding and not deciding\nMaking decisions involves hesitation, risk, timing and responsibility. English has a large set of idioms for each stage.\n\n### Hesitating\n| Idiom | Meaning |\n|---|---|\n| sit on the fence | avoid choosing a side |\n| be in two minds (about something) | be unable to decide |\n| have second thoughts | begin to doubt a decision already made |\n| sleep on it | wait until the next day before deciding |\n| weigh up the pros and cons | consider advantages and disadvantages |\n\n### Taking action and risks\n| Idiom | Meaning |\n|---|---|\n| take the plunge | finally do something risky or important |\n| jump the gun | act too soon, before the right time |\n| a tough call | a difficult decision |\n| play it safe | avoid risks |\n| bite the bullet | accept something unpleasant because it is necessary |\n\n### Responsibility and future decisions\n| Idiom | Meaning |\n|---|---|\n| the ball is in your court | it is your turn to act or decide |\n| cross that bridge when we come to it | deal with a problem only when it actually happens |\n| go back on your word | break a promise |\n| call the shots | be the person who makes the decisions |\n\n### Using them in discussion\nDecision idioms are very useful in meetings and negotiations:\n- 'I'm **in two minds** about the proposal. Can I **sleep on it**?'\n- 'We've made our offer. **The ball is in your court** now.'\n- 'What if the supplier fails?' — '**Let's cross that bridge when we come to it.**'\n\nThey allow you to express a position politely and briefly.\n\n### Watch the details\n- *Sleep **on** it* (not *over* it).\n- *Sit on the **fence*** (not *wall*).\n- *Take the **plunge*** (not *dive*).\n- *Burn your bridges* is a different idiom: it means to destroy any chance of returning to a previous situation.\n\n### Indonesian note\n*Plin-plan* or *ragu-ragu* relates to *be in two minds* / *sit on the fence*; *nekat* or *memberanikan diri* relates to *take the plunge*; *ingkar janji* = *go back on your word*; *gegabah / terburu-buru* = *jump the gun*.",
+        "examples": [
+          { "en": "I can't decide whether to accept the job. I'll sleep on it and tell you tomorrow.", "id": "Saya belum bisa memutuskan apakah akan menerima pekerjaan itu. Saya akan memikirkannya semalam dan memberi tahu besok.", "note": "Delay a decision." },
+          { "en": "After months of hesitation, she finally took the plunge and started her own business.", "id": "Setelah berbulan-bulan ragu, ia akhirnya memberanikan diri memulai usahanya sendiri.", "note": "Risky decision." },
+          { "en": "We've made our final offer, so the ball is in your court.", "id": "Kami sudah memberikan penawaran terakhir, jadi sekarang giliran Anda memutuskan.", "note": "Your turn to act." },
+          { "en": "The company jumped the gun by announcing the product before it was approved.", "id": "Perusahaan itu terburu-buru mengumumkan produknya sebelum disetujui.", "note": "Acting too soon." }
+        ],
+        "vocabulary": [
+          { "word": "sit on the fence", "pos": "idiom", "ipa": "/sɪt ɒn ðə fens/", "meaning": "tidak memihak, enggan mengambil keputusan", "example": "You can't sit on the fence forever." },
+          { "word": "take the plunge", "pos": "idiom", "ipa": "/teɪk ðə plʌndʒ/", "meaning": "memberanikan diri mengambil langkah besar", "example": "They took the plunge and moved to Bali." },
+          { "word": "have second thoughts", "pos": "idiom", "ipa": "/hæv ˈsekənd θɔːts/", "meaning": "mulai ragu atas keputusan", "example": "I'm having second thoughts about the trip." },
+          { "word": "jump the gun", "pos": "idiom", "ipa": "/dʒʌmp ðə ɡʌn/", "meaning": "bertindak terlalu cepat / terburu-buru", "example": "Don't jump the gun; wait for the results." },
+          { "word": "bite the bullet", "pos": "idiom", "ipa": "/baɪt ðə ˈbʊlɪt/", "meaning": "menerima hal tidak menyenangkan karena terpaksa", "example": "We had to bite the bullet and raise prices." }
+        ],
+        "grammar": [
+          { "pattern": "be in two minds + about + noun / -ing / whether", "example": "I'm in two minds about whether to apply.", "note": "Followed by about or whether." },
+          { "pattern": "have second thoughts + about + noun / -ing", "example": "He's having second thoughts about moving abroad.", "note": "Often continuous." },
+          { "pattern": "Let's cross that bridge when we come to it.", "example": "A: What if prices rise? B: Let's cross that bridge when we come to it.", "note": "Usually a fixed sentence." }
+        ],
+        "mistakes": [
+          { "wrong": "The committee is still sitting on the wall.", "right": "The committee is still sitting on the fence.", "why": "The idiom is 'sit on the fence'." },
+          { "wrong": "I'll sleep over it and decide tomorrow.", "right": "I'll sleep on it and decide tomorrow.", "why": "The fixed preposition is 'on'." },
+          { "wrong": "She finally took the dive and quit her job.", "right": "She finally took the plunge and quit her job.", "why": "The idiom is 'take the plunge'." }
+        ],
+        "summary": "Use sit on the fence, be in two minds, have second thoughts and sleep on it for hesitation; take the plunge, jump the gun, bite the bullet and play it safe for risk and timing; and the ball is in your court and cross that bridge when we come to it for responsibility and future problems.",
+        "reviewCards": [
+          { "front": "sleep ___ it", "back": "on (wait a day before deciding)" },
+          { "front": "take the plunge", "back": "memberanikan diri mengambil langkah besar" },
+          { "front": "jump the gun", "back": "act too soon" },
+          { "front": "the ball is in your court", "back": "it's your turn to act or decide" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u09-l3-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "decision idioms", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the meaning of the idiom in bold.",
+          "context": "I can't decide whether to accept the job offer yet. I'll **sleep on it** and let you know tomorrow.",
+          "options": ["delay the decision until the next day to think about it", "go to bed early", "forget about it completely", "refuse it immediately"],
+          "answer": 0,
+          "explanation": "'Sleep on it' means to wait until the next day before making a decision."
+        },
+        {
+          "id": "c1-u09-l3-q2", "type": "matching", "category": "vocabulary", "topic": "decision idioms", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each idiom with its meaning.",
+          "pairs": [
+            { "left": "sit on the fence", "right": "avoid choosing a side" },
+            { "left": "take the plunge", "right": "finally do something risky or important" },
+            { "left": "have second thoughts", "right": "start to doubt a decision" },
+            { "left": "jump the gun", "right": "act too soon" },
+            { "left": "the ball is in your court", "right": "it is your turn to act or decide" }
+          ],
+          "explanation": "These idioms describe different stages and attitudes in decision-making."
+        },
+        {
+          "id": "c1-u09-l3-q3", "type": "dialogue_completion", "category": "conversation", "topic": "decision idioms", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the best response.",
+          "dialogue": [
+            { "speaker": "Fajar", "text": "Shouldn't we prepare a detailed plan in case the merger fails?" },
+            { "speaker": "Lestari", "text": null },
+            { "speaker": "Fajar", "text": "Fair enough. Let's focus on the negotiations for now." }
+          ],
+          "options": ["Let's cross that bridge when we come to it.", "Let's cross that river when we reach it.", "Let's burn that bridge when we come to it.", "Let's build that bridge when we come to it."],
+          "answer": 0,
+          "explanation": "'Cross that bridge when we come to it' means dealing with a problem only if and when it happens. 'Burn your bridges' is a different idiom with a different meaning."
+        },
+        {
+          "id": "c1-u09-l3-q4", "type": "single_choice", "category": "vocabulary", "topic": "decision idioms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence uses the idiom correctly?",
+          "options": ["After months of hesitation, she finally took the plunge and started her own business.", "After months of hesitation, she finally took the dive and started her own business.", "After months of hesitation, she finally jumped the plunge and started her own business.", "After months of hesitation, she finally made a plunging and started her own business."],
+          "answer": 0,
+          "explanation": "The fixed idiom is 'take the plunge'."
+        },
+        {
+          "id": "c1-u09-l3-q5", "type": "error_identification", "category": "vocabulary", "topic": "decision idioms", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The committee", "is still sitting", "on the wall", "about the new policy."],
+          "errorIndex": 2,
+          "correction": "on the fence",
+          "explanation": "The idiom meaning 'refuse to choose a side' is 'sit on the fence'."
+        },
+        {
+          "id": "c1-u09-l3-q6", "type": "sentence_transformation", "category": "vocabulary", "topic": "decision idioms", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the second sentence using the idiom 'the ball is in your court'.",
+          "sentence": "I've made my offer. Now it is your turn to decide.",
+          "cue": "Complete: I've made my offer. Now ...",
+          "answers": ["I've made my offer. Now the ball is in your court.", "I have made my offer. Now the ball is in your court.", "I've made my offer. Now the ball's in your court.", "Now the ball is in your court.", "Now the ball's in your court."],
+          "explanation": "'The ball is in your court' means it is the other person's turn to act or decide."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u09-l4-binomials",
+      "title": "Pros and Cons, By and Large: Binomials",
+      "summary": "Use binomials (pairs of words joined by and/or) in their fixed order and understand their meanings.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Recognise common binomials such as pros and cons and by and large",
+        "Use binomials in their fixed, irreversible order",
+        "Understand the meaning of binomials in context"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What are binomials?\n**Binomials** are fixed pairs of words joined by a conjunction, usually *and* or *or*: *pros and cons*, *sooner or later*, *by and large*. They are frequent in both speech and writing, and many are neutral enough for formal texts.\n\n### Fixed order\nThe most important rule is that the **order is fixed**. Native speakers say *pros and cons*, never *cons and pros*; *safe and sound*, never *sound and safe*. Reversing the order sounds immediately wrong.\n\n### Common binomials\n| Binomial | Meaning |\n|---|---|\n| pros and cons | advantages and disadvantages |\n| by and large | generally, on the whole |\n| sooner or later | eventually |\n| ups and downs | good and bad periods |\n| odds and ends | small miscellaneous items |\n| peace and quiet | calm, absence of noise |\n| rules and regulations | official rules |\n| give and take | willingness to compromise |\n| safe and sound | unharmed |\n| trial and error | testing different methods until one works |\n| now and then | occasionally |\n| first and foremost | most importantly |\n| black and white | (in black and white) clearly written; (black-and-white) simple and clear-cut |\n| touch and go | uncertain, risky |\n| short and sweet | brief and pleasant |\n\n### Patterns\nMany binomials follow sound patterns that make them memorable:\n- **alliteration** (same first sound): *part and parcel*, *safe and sound*\n- **rhyme**: *wear and tear*, *high and dry*\n- **repetition**: *again and again*, *on and on*, *round and round*\n- **opposites**: *ups and downs*, *give and take*, *black and white*\n\nThe shorter word often comes first (*now and then*, *safe and sound*), but this is a tendency, not a rule. Learn each pair as one unit.\n\n### Register\nSome binomials are fine in academic writing: *by and large*, *first and foremost*, *trial and error*, *rules and regulations*, *pros and cons* (or *advantages and disadvantages* in very formal texts). Others are informal: *odds and ends*, *touch and go*, *short and sweet*.\n\n### Indonesian note\nIndonesian also has fixed pairs (*suka duka* = ups and downs, *untung rugi* = pros and cons, *lambat laun* = sooner or later, *pulang pergi* = there and back). Interestingly, the order of the Indonesian and English pairs does not always match, so learn each one separately.",
+        "examples": [
+          { "en": "We need to weigh up the pros and cons before making a decision.", "id": "Kita perlu menimbang untung ruginya sebelum mengambil keputusan.", "note": "advantages and disadvantages" },
+          { "en": "By and large, the conference was a success.", "id": "Secara umum, konferensi itu berhasil.", "note": "generally" },
+          { "en": "Running a small business has its ups and downs.", "id": "Menjalankan usaha kecil ada suka dukanya.", "note": "good and bad times" },
+          { "en": "The climbers returned safe and sound after the storm.", "id": "Para pendaki kembali dengan selamat setelah badai.", "note": "unharmed" }
+        ],
+        "vocabulary": [
+          { "word": "by and large", "pos": "binomial", "ipa": "/baɪ ənd lɑːdʒ/", "meaning": "secara umum, pada umumnya", "example": "By and large, the results were positive." },
+          { "word": "trial and error", "pos": "binomial", "ipa": "/ˈtraɪəl ənd ˈerə(r)/", "meaning": "coba-coba", "example": "We found the solution by trial and error." },
+          { "word": "give and take", "pos": "binomial", "ipa": "/ɡɪv ənd teɪk/", "meaning": "saling memberi dan menerima, kompromi", "example": "Every relationship needs some give and take." },
+          { "word": "odds and ends", "pos": "binomial", "ipa": "/ɒdz ənd endz/", "meaning": "barang-barang kecil yang beragam", "example": "The drawer was full of odds and ends." },
+          { "word": "touch and go", "pos": "binomial", "ipa": "/tʌtʃ ən ɡəʊ/", "meaning": "tidak pasti, genting", "example": "It was touch and go whether we would catch the flight." }
+        ],
+        "grammar": [
+          { "pattern": "the + binomial noun (the pros and cons, the ups and downs)", "example": "the ups and downs of family life", "note": "Used as a plural noun phrase." },
+          { "pattern": "Binomial adverb at the start of a sentence", "example": "Sooner or later, prices will fall.", "note": "by and large, now and then, first and foremost." },
+          { "pattern": "by + binomial / through + binomial", "example": "We learned by trial and error.", "note": "Method." }
+        ],
+        "mistakes": [
+          { "wrong": "We need to weigh up the cons and pros.", "right": "We need to weigh up the pros and cons.", "why": "Binomials have a fixed order." },
+          { "wrong": "Later or sooner, they will find out.", "right": "Sooner or later, they will find out.", "why": "The fixed order is 'sooner or later'." },
+          { "wrong": "I just want some quiet and peace.", "right": "I just want some peace and quiet.", "why": "The fixed order is 'peace and quiet'." }
+        ],
+        "summary": "Binomials are fixed word pairs (pros and cons, by and large, sooner or later, safe and sound, trial and error). Their order cannot be reversed. Some suit formal writing (by and large, first and foremost); others are informal (odds and ends, touch and go).",
+        "reviewCards": [
+          { "front": "untung rugi", "back": "pros and cons" },
+          { "front": "lambat laun", "back": "sooner or later" },
+          { "front": "suka duka", "back": "ups and downs" },
+          { "front": "by and large", "back": "generally, on the whole" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u09-l4-q1", "type": "matching", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "guided",
+          "prompt": "Match the first word of each binomial with its partner.",
+          "pairs": [
+            { "left": "pros and ...", "right": "cons" },
+            { "left": "by and ...", "right": "large" },
+            { "left": "sooner or ...", "right": "later" },
+            { "left": "peace and ...", "right": "quiet" },
+            { "left": "trial and ...", "right": "error" },
+            { "left": "safe and ...", "right": "sound" }
+          ],
+          "explanation": "Binomials are fixed pairs that should be learned as single units."
+        },
+        {
+          "id": "c1-u09-l4-q2", "type": "fill_blank", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the binomials with one word in each gap.",
+          "text": "After two days in the storm, the climbers returned safe and ___. ___ and large, the expedition was considered a success.",
+          "answers": [["sound"], ["By"]],
+          "explanation": "'Safe and sound' means unharmed; 'by and large' means generally."
+        },
+        {
+          "id": "c1-u09-l4-q3", "type": "error_identification", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "independent",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["We need to", "weigh up", "the cons and pros", "before deciding."],
+          "errorIndex": 2,
+          "correction": "the pros and cons",
+          "explanation": "Binomials have a fixed order: 'pros and cons'."
+        },
+        {
+          "id": "c1-u09-l4-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the meaning of the binomial in bold.",
+          "context": "Running a small family restaurant has its **ups and downs**, but we wouldn't change it for anything.",
+          "options": ["good times and bad times", "stairs and lifts", "rising prices only", "early mornings and late nights"],
+          "answer": 0,
+          "explanation": "'Ups and downs' refers to a mixture of good and bad experiences."
+        },
+        {
+          "id": "c1-u09-l4-q5", "type": "dropdown", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct word to complete each binomial.",
+          "text": "Every successful partnership needs a bit of give and ___. We eventually learned to repair the machine by trial and ___.",
+          "choices": [["take", "get", "have"], ["error", "mistake", "fault"]],
+          "answers": [0, 0],
+          "explanation": "The fixed binomials are 'give and take' and 'trial and error'."
+        },
+        {
+          "id": "c1-u09-l4-q6", "type": "multiple_select", "category": "vocabulary", "topic": "binomials", "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the binomials that are in their correct fixed order.",
+          "options": ["odds and ends", "later or sooner", "rules and regulations", "quiet and peace", "now and then"],
+          "answers": [0, 2, 4],
+          "explanation": "'Odds and ends', 'rules and regulations' and 'now and then' are correct. The correct forms of the others are 'sooner or later' and 'peace and quiet'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u09-l5-register-fixed-phrases",
+      "title": "Fixed Phrases and Register",
+      "summary": "Choose fixed expressions that suit the situation: formal phrases for reports and letters, idioms for conversation, and avoid idioms in academic writing.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use formal fixed phrases such as with regard to, in light of and on behalf of",
+        "Recognise informal idioms that are inappropriate in academic writing",
+        "Use idioms in their exact fixed form"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Not all fixed phrases are idioms\nFixed expressions range from colourful idioms (*a piece of cake*) to neutral collocations (*make a decision*) and formal prepositional phrases (*with regard to*). An advanced speaker knows **which expressions belong in which context**.\n\n### Formal fixed phrases\nThese are typical of reports, formal letters and academic writing:\n\n| Formal phrase | Neutral meaning |\n|---|---|\n| with regard to / with respect to | about |\n| in light of | considering, because of |\n| on behalf of | for, representing |\n| take into account / take into consideration | consider |\n| in the vicinity of | near |\n| in accordance with | following (rules) |\n| on the grounds that | because |\n| by virtue of | because of (formal) |\n| in terms of | regarding a particular aspect |\n\n### Informal idioms\nThese are natural in conversation and informal writing but **inappropriate** in academic essays and formal reports: *a piece of cake* (very easy), *at the end of the day* (ultimately), *no big deal* (not important), *over the moon* (very happy), *beat around the bush* (avoid saying something directly), *let the cat out of the bag* (reveal a secret), *raining cats and dogs* (raining heavily).\n\n### Choosing the right register\n| Informal | Neutral / formal |\n|---|---|\n| At the end of the day, the plan failed. | Ultimately, the plan failed. |\n| The test was a piece of cake. | The test was straightforward. |\n| It's no big deal. | It is of minor importance. |\n| Let's not beat around the bush. | To be direct, ... |\n\n### Fixed means fixed\nIdioms and fixed phrases allow grammatical changes (tense, person), but **not** word substitutions:\n- 'He **let the cat out of the bag**.' (not *from the bag*)\n- 'It was **a piece of cake**.' (not *a slice of cake*)\n- '**In light of** the evidence' (also *in the light of* in British English), but not *in the lights of*.\n\n### Idioms in spoken presentations\nIn presentations, a few idioms can make you sound natural and engaging, especially with an informal audience. In academic conferences, prefer clear neutral expressions. Always consider whether your audience will understand the idiom.\n\n### Indonesian note\nIndonesian also distinguishes *bahasa baku* (formal, e.g. *sehubungan dengan* = with regard to, *atas nama* = on behalf of, *mengingat* = in light of) from colloquial expressions (*gampang banget* = a piece of cake). Applying the same sensitivity to English register is a key C1 skill.",
+        "examples": [
+          { "en": "In light of these findings, the committee recommends further research.", "id": "Mengingat temuan-temuan ini, komite merekomendasikan penelitian lebih lanjut.", "note": "Formal phrase." },
+          { "en": "On behalf of the whole team, I would like to thank you for your support.", "id": "Atas nama seluruh tim, saya ingin mengucapkan terima kasih atas dukungan Anda.", "note": "Formal speech/letter." },
+          { "en": "Honestly, the exam was a piece of cake.", "id": "Jujur saja, ujiannya gampang banget.", "note": "Informal idiom (conversation only)." },
+          { "en": "Let's not beat around the bush: the project has failed.", "id": "Mari kita bicara terus terang: proyek itu gagal.", "note": "Informal but common in meetings." }
+        ],
+        "vocabulary": [
+          { "word": "with regard to", "pos": "phrase", "ipa": "/wɪð rɪˈɡɑːd tə/", "meaning": "sehubungan dengan, mengenai", "example": "With regard to your request, we are pleased to confirm ..." },
+          { "word": "in light of", "pos": "phrase", "ipa": "/ɪn laɪt əv/", "meaning": "mengingat, berdasarkan", "example": "In light of recent events, the meeting has been postponed." },
+          { "word": "on behalf of", "pos": "phrase", "ipa": "/ɒn bɪˈhɑːf əv/", "meaning": "atas nama", "example": "I am writing on behalf of my client." },
+          { "word": "beat around the bush", "pos": "idiom", "ipa": "/biːt əˈraʊnd ðə bʊʃ/", "meaning": "berbelit-belit, tidak langsung ke pokok masalah", "example": "Stop beating around the bush and tell me the truth." },
+          { "word": "let the cat out of the bag", "pos": "idiom", "ipa": "/let ðə kæt aʊt əv ðə bæɡ/", "meaning": "membocorkan rahasia", "example": "He let the cat out of the bag about the surprise party." }
+        ],
+        "grammar": [
+          { "pattern": "with regard to / in terms of / in light of + noun phrase", "example": "In terms of cost, the second option is better.", "note": "Formal prepositional phrases." },
+          { "pattern": "on behalf of + person/organisation", "example": "on behalf of the board of directors", "note": "Representing someone." },
+          { "pattern": "take + noun + into account / take into account + long noun phrase", "example": "We must take the weather into account.", "note": "Object position varies with length." }
+        ],
+        "mistakes": [
+          { "wrong": "Learning to cook was a slice of cake for her.", "right": "Learning to cook was a piece of cake for her.", "why": "The fixed idiom is 'a piece of cake'." },
+          { "wrong": "At the end of the day, the data support the hypothesis. (academic essay)", "right": "Ultimately, the data support the hypothesis.", "why": "'At the end of the day' is too informal for academic writing." },
+          { "wrong": "In regard of your email, ...", "right": "With regard to your email, ...", "why": "The fixed phrase is 'with regard to' (or 'in regard to')." }
+        ],
+        "summary": "Fixed expressions range from formal phrases (with regard to, in light of, on behalf of, take into account) to informal idioms (a piece of cake, at the end of the day, no big deal). Match the expression to the register, and keep the words of idioms exactly as they are.",
+        "reviewCards": [
+          { "front": "atas nama", "back": "on behalf of" },
+          { "front": "mengingat (formal)", "back": "in light of" },
+          { "front": "At the end of the day (formal alternative)", "back": "Ultimately" },
+          { "front": "a ___ of cake", "back": "piece" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u09-l5-q1", "type": "single_choice", "category": "writing", "topic": "register of fixed phrases", "difficulty": 2, "stage": "guided",
+          "prompt": "Which sentence is most suitable for a formal report?",
+          "options": ["In light of these findings, the committee recommends further research.", "At the end of the day, the committee reckons we need more research.", "It's no big deal, but the committee wants more research.", "More research is a piece of cake for the committee."],
+          "answer": 0,
+          "explanation": "'In light of' is a formal fixed phrase. The other options use informal idioms that are inappropriate in a report."
+        },
+        {
+          "id": "c1-u09-l5-q2", "type": "matching", "category": "vocabulary", "topic": "register of fixed phrases", "difficulty": 3, "stage": "independent",
+          "prompt": "Match each formal phrase with its neutral meaning.",
+          "pairs": [
+            { "left": "with regard to", "right": "about" },
+            { "left": "in light of", "right": "considering" },
+            { "left": "on behalf of", "right": "representing" },
+            { "left": "in the vicinity of", "right": "near" },
+            { "left": "on the grounds that", "right": "because" }
+          ],
+          "explanation": "Formal fixed phrases often have simple neutral equivalents."
+        },
+        {
+          "id": "c1-u09-l5-q3", "type": "error_identification", "category": "writing", "topic": "register of fixed phrases", "difficulty": 3, "stage": "independent",
+          "prompt": "This sentence is from an academic article. Find the part that is too informal.",
+          "segments": ["The results of the survey", "were, at the end of the day,", "broadly consistent", "with previous research."],
+          "errorIndex": 1,
+          "correction": "were ultimately",
+          "explanation": "'At the end of the day' is a conversational idiom. In academic writing, use 'ultimately' or 'overall'."
+        },
+        {
+          "id": "c1-u09-l5-q4", "type": "error_identification", "category": "vocabulary", "topic": "idiom form", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Learning to cook", "was a slice of cake", "for her", "after years of watching her mother."],
+          "errorIndex": 1,
+          "correction": "was a piece of cake",
+          "explanation": "The fixed idiom meaning 'very easy' is 'a piece of cake'."
+        },
+        {
+          "id": "c1-u09-l5-q5", "type": "translation", "category": "writing", "topic": "register of fixed phrases", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate this sentence from a formal speech into English.",
+          "source": "Atas nama seluruh tim, saya ingin mengucapkan terima kasih.",
+          "direction": "id-en",
+          "answers": ["On behalf of the whole team, I would like to thank you.", "On behalf of the entire team, I would like to thank you.", "On behalf of the whole team, I'd like to thank you.", "On behalf of the entire team, I'd like to thank you.", "On behalf of the whole team, I would like to say thank you.", "On behalf of the entire team, I would like to say thank you.", "On behalf of the whole team, I'd like to say thank you.", "On behalf of the entire team, I'd like to say thank you.", "On behalf of the whole team, I would like to express our thanks.", "On behalf of the whole team, I would like to express our gratitude.", "On behalf of the entire team, I would like to express our gratitude.", "On behalf of the whole team, I wish to thank you.", "On behalf of the entire team, I wish to thank you.", "On behalf of all the team, I would like to thank you."],
+          "explanation": "'Atas nama' = 'on behalf of'; 'saya ingin mengucapkan terima kasih' = 'I would like to thank you / say thank you'."
+        },
+        {
+          "id": "c1-u09-l5-q6", "type": "multiple_select", "category": "vocabulary", "topic": "idiom form", "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the sentences in which the idiom is used in its correct fixed form.",
+          "options": ["The new manager really rubbed everyone up the wrong way.", "Let's not beat around the bush: the project has failed.", "She was over the moon about her promotion.", "He let the cat out from the bag.", "It's raining cats and dogs, so let's call the day."],
+          "answers": [0, 1, 2],
+          "explanation": "Options 1–3 are correct. Option 4 should be 'let the cat out of the bag', and option 5 should be 'call it a day'."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u09-t-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "work idioms", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the meaning of the idiom in bold.",
+      "context": "We know the conference will happen in March, but the exact venue is still **up in the air**.",
+      "options": ["not yet decided", "extremely popular", "cancelled", "located on a high floor"],
+      "answer": 0,
+      "explanation": "'Up in the air' means uncertain or not yet decided."
+    },
+    {
+      "id": "c1-u09-t-q2", "type": "fill_blank", "category": "vocabulary", "topic": "decision idioms", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the expressions with one word in each gap.",
+      "text": "We've weighed up the pros and ___ for months, and we've finally decided to take the ___ and open a second shop.",
+      "answers": [["cons"], ["plunge"]],
+      "explanation": "'Pros and cons' is a fixed binomial; 'take the plunge' means to finally do something risky or important."
+    },
+    {
+      "id": "c1-u09-t-q3", "type": "error_identification", "category": "vocabulary", "topic": "decision idioms", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["I think", "we should sleep over it", "before we sign", "anything."],
+      "errorIndex": 1,
+      "correction": "we should sleep on it",
+      "explanation": "The idiom is 'sleep on it' (wait until the next day before deciding)."
+    },
+    {
+      "id": "c1-u09-t-q4", "type": "matching", "category": "vocabulary", "topic": "idioms review", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Match each idiom with the situation it best describes.",
+      "pairs": [
+        { "left": "break the ice", "right": "starting a conversation with strangers at a conference" },
+        { "left": "cut corners", "right": "using cheaper materials to finish a building faster" },
+        { "left": "see eye to eye", "right": "two managers agreeing completely on a strategy" },
+        { "left": "jump the gun", "right": "announcing a product before it has been approved" }
+      ],
+      "explanation": "Each idiom matches a typical situation: easing tension, saving time or money carelessly, agreeing, and acting too soon."
+    },
+    {
+      "id": "c1-u09-t-q5", "type": "single_choice", "category": "writing", "topic": "register of fixed phrases", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Which sentence is most appropriate in an academic essay?",
+      "options": ["By and large, the findings support the original hypothesis.", "The findings were a piece of cake to interpret.", "At the end of the day, the findings kind of support the hypothesis.", "The findings hit the nail on the head, big time."],
+      "answer": 0,
+      "explanation": "'By and large' is a neutral binomial acceptable in academic writing. The other options are informal."
+    },
+    {
+      "id": "c1-u09-t-q6", "type": "dialogue_completion", "category": "conversation", "topic": "relationship idioms", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best response.",
+      "dialogue": [
+        { "speaker": "Wulan", "text": "I heard you and Dimas had a big argument last month. Are you still not speaking?" },
+        { "speaker": "Hana", "text": null }
+      ],
+      "options": ["No, we've buried the hatchet. We're getting on fine now.", "No, we've buried the axe. We're getting on fine now.", "No, we've hidden the hatchet. We're getting on fine now.", "No, we've broken the hatchet. We're getting on fine now."],
+      "answer": 0,
+      "explanation": "The idiom for ending a disagreement is 'bury the hatchet'."
+    },
+    {
+      "id": "c1-u09-t-q7", "type": "multiple_select", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Select ALL the binomials that are in their correct fixed order.",
+      "options": ["sooner or later", "black and white", "ends and odds", "safe and sound", "error and trial"],
+      "answers": [0, 1, 3],
+      "explanation": "The correct forms of the others are 'odds and ends' and 'trial and error'."
+    }
+  ]
+}

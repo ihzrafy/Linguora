@@ -1,0 +1,537 @@
+{
+  "slug": "a2-u01-was-were",
+  "number": 1,
+  "title": "Where Were You?",
+  "description": "Membicarakan keadaan, tempat, dan perasaan di masa lalu dengan was/were, keterangan waktu lampau, dan there was/there were.",
+  "objectives": [
+    "Menggunakan was/were dalam kalimat positif, negatif, dan pertanyaan",
+    "Memakai keterangan waktu lampau seperti yesterday, last week, dan two days ago",
+    "Mendeskripsikan situasi di masa lalu dengan there was/there were",
+    "Menceritakan di mana kamu berada dan bagaimana perasaanmu di masa lalu"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u01-l1-was-were-positive",
+      "title": "Was and Were: Positive Sentences",
+      "summary": "Mengenal was dan were sebagai bentuk lampau dari am/is/are.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memilih was atau were sesuai subjek",
+        "Membuat kalimat positif tentang tempat, perasaan, dan keadaan di masa lalu"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu was dan were?\n**Was** dan **were** adalah bentuk lampau (*past*) dari *to be* (am/is/are). Kita memakainya untuk membicarakan **tempat**, **keadaan**, **perasaan**, atau **deskripsi** di masa lalu.\n\n| Present | Past | Dipakai untuk |\n| --- | --- | --- |\n| I am | I **was** | I |\n| He / She / It is | He / She / It **was** | he, she, it, satu orang/benda |\n| You / We / They are | You / We / They **were** | you, we, they, subjek jamak |\n\n### Kapan dipakai?\n- **Tempat**: *I was at home yesterday.* (Kemarin saya di rumah.)\n- **Perasaan atau keadaan**: *We were tired after the trip.* (Kami lelah setelah perjalanan.)\n- **Deskripsi**: *The film was very funny.* (Filmnya sangat lucu.)\n- **Pekerjaan atau umur dulu**: *My grandfather was a teacher.* (Kakek saya dulu seorang guru.)\n\n### Perbedaan dengan bahasa Indonesia\nDalam bahasa Indonesia, kata kerja tidak berubah untuk waktu lampau. Kita cukup menambahkan kata *kemarin*, *dulu*, atau *tadi*. Dalam bahasa Inggris, **bentuk kata kerjanya harus berubah**: *is → was*, *are → were*. Jadi kalimat *I am tired yesterday* salah; yang benar *I was tired yesterday*.\n\n### Tips penting\n1. **You** selalu memakai **were**, baik untuk satu orang maupun banyak orang: *You were late, Dika.*\n2. Subjek jamak seperti *my parents*, *the children*, atau *Rina and Budi* memakai **were**.\n3. Benda tunggal dan cuaca memakai **was**: *The room was clean. It was sunny.*\n4. **Was** dan **were** tidak punya bentuk singkat dalam kalimat positif. Tulis *I was*, bukan *I's*.\n\n### Remember\nSubject + **was/were** + place / adjective / noun. Example: *Maya was at the library.*",
+        "examples": [
+          { "en": "I was at the cinema last night.", "id": "Saya di bioskop tadi malam.", "note": "I + was" },
+          { "en": "My parents were in Surabaya last week.", "id": "Orang tua saya di Surabaya minggu lalu.", "note": "Subjek jamak + were" },
+          { "en": "The weather was hot and sunny.", "id": "Cuacanya panas dan cerah.", "note": "Cuaca memakai was" },
+          { "en": "You were very helpful yesterday, Sinta.", "id": "Kamu sangat membantu kemarin, Sinta.", "note": "You selalu memakai were, walaupun satu orang" }
+        ],
+        "vocabulary": [
+          { "word": "yesterday", "pos": "adverb", "ipa": "/ˈjestədeɪ/", "meaning": "kemarin", "example": "I was at school yesterday." },
+          { "word": "tired", "pos": "adjective", "ipa": "/ˈtaɪəd/", "meaning": "lelah, capek", "example": "We were tired after the long walk." },
+          { "word": "trip", "pos": "noun", "ipa": "/trɪp/", "meaning": "perjalanan, wisata singkat", "example": "The trip to the zoo was fun." },
+          { "word": "library", "pos": "noun", "ipa": "/ˈlaɪbrəri/", "meaning": "perpustakaan", "example": "Nadia was in the library all afternoon." },
+          { "word": "classmate", "pos": "noun", "ipa": "/ˈklɑːsmeɪt/", "meaning": "teman sekelas", "example": "Rudi and I were classmates in primary school." }
+        ],
+        "grammar": [
+          { "pattern": "I / He / She / It + was + ...", "example": "She was a nurse in 2015.", "note": "Untuk subjek tunggal (kecuali you)." },
+          { "pattern": "You / We / They + were + ...", "example": "They were at the beach on Sunday.", "note": "Untuk you dan semua subjek jamak." }
+        ],
+        "mistakes": [
+          { "wrong": "I am sick yesterday.", "right": "I was sick yesterday.", "why": "Yesterday menunjukkan masa lalu, jadi am harus berubah menjadi was." },
+          { "wrong": "They was at the park.", "right": "They were at the park.", "why": "They adalah subjek jamak, jadi memakai were." },
+          { "wrong": "You was late this morning.", "right": "You were late this morning.", "why": "You selalu memakai were, walaupun yang dimaksud hanya satu orang." }
+        ],
+        "summary": "**Was** dipakai untuk I, he, she, it, dan subjek tunggal. **Were** dipakai untuk you, we, they, dan subjek jamak. Ingat: bahasa Inggris mengubah bentuk *to be* untuk masa lalu (*am/is → was*, *are → were*).",
+        "reviewCards": [
+          { "front": "Bentuk lampau dari am dan is", "back": "was (I was, she was, it was)" },
+          { "front": "Bentuk lampau dari are", "back": "were (you were, we were, they were)" },
+          { "front": "You ___ late. (past)", "back": "You were late. (you selalu were)" },
+          { "front": "The weather ___ cold yesterday.", "back": "was" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u01-l1-q1", "type": "single_choice", "category": "grammar", "topic": "was/were", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: My parents ___ at home last night.",
+          "options": ["was", "were", "are"], "answer": 1,
+          "explanation": "My parents adalah subjek jamak (they), jadi memakai were. Last night menunjukkan masa lalu, jadi are tidak tepat.",
+          "misconception": "Memilih was karena mengira my parents adalah satu kesatuan."
+        },
+        {
+          "id": "a2-u01-l1-q2", "type": "fill_blank", "category": "grammar", "topic": "was/were", "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the sentence with was or were.",
+          "text": "Yesterday I ___ very tired, but my brothers ___ full of energy.",
+          "answers": [["was"], ["were"]],
+          "explanation": "I memakai was; my brothers (jamak) memakai were."
+        },
+        {
+          "id": "a2-u01-l1-q3", "type": "drag_drop", "category": "grammar", "topic": "was/were", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Last week the weather ___ beautiful and the beaches ___ quiet.",
+          "bank": ["was", "were", "is", "are"],
+          "answers": ["was", "were"],
+          "explanation": "Last week = masa lalu. The weather (tunggal) → was; the beaches (jamak) → were."
+        },
+        {
+          "id": "a2-u01-l1-q4", "type": "error_identification", "category": "grammar", "topic": "was/were", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["You", "was", "very kind", "to me yesterday."],
+          "errorIndex": 1, "correction": "were",
+          "explanation": "You selalu memakai were, bukan was, walaupun hanya untuk satu orang."
+        },
+        {
+          "id": "a2-u01-l1-q5", "type": "translation", "category": "grammar", "topic": "was/were", "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami di perpustakaan tadi pagi.", "direction": "id-en",
+          "answers": ["We were in the library this morning.", "We were at the library this morning.", "This morning we were in the library.", "This morning we were at the library."],
+          "explanation": "Kami = we, jadi memakai were. Tadi pagi = this morning. In the library atau at the library sama-sama benar."
+        },
+        {
+          "id": "a2-u01-l1-q6", "type": "multiple_select", "category": "grammar", "topic": "was/were", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["She was a nurse in 2010.", "They was at the park on Sunday.", "Rina and Tono were classmates.", "It were cold yesterday.", "I was happy last weekend."],
+          "answers": [0, 2, 4],
+          "explanation": "They dan it memerlukan bentuk yang benar: They were, It was. Kalimat 1, 3, dan 5 sudah benar."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u01-l2-was-were-negative-questions",
+      "title": "Wasn't, Weren't and Questions",
+      "summary": "Membuat kalimat negatif, pertanyaan yes/no, dan pertanyaan wh- dengan was/were.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membuat kalimat negatif dengan wasn't dan weren't",
+        "Bertanya dan menjawab dengan Was/Were ...? serta short answer",
+        "Membuat pertanyaan seperti Where were you? dan How was it?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kalimat negatif\nUntuk membuat kalimat negatif, tambahkan **not** setelah was/were. Dalam percakapan, kita hampir selalu memakai bentuk singkat.\n\n| Bentuk penuh | Bentuk singkat | Contoh |\n| --- | --- | --- |\n| was not | **wasn't** | *I wasn't at school yesterday.* |\n| were not | **weren't** | *They weren't hungry.* |\n\n### Pertanyaan yes/no\nUntuk bertanya, **tukar posisi** subjek dan was/were. Tidak perlu kata bantu lain.\n\n- *You were at home.* → **Were you** at home?\n- *The test was easy.* → **Was the test** easy?\n\nJawaban singkat (*short answers*) mengulang was/were:\n\n| Pertanyaan | Ya | Tidak |\n| --- | --- | --- |\n| Was she ...? | Yes, she **was**. | No, she **wasn't**. |\n| Were they ...? | Yes, they **were**. | No, they **weren't**. |\n| Were you ...? | Yes, I **was**. | No, I **wasn't**. |\n\nPerhatikan: jika ditanya *Were you...?*, jawabannya memakai **I was / I wasn't** (bukan *I were*).\n\n### Pertanyaan dengan kata tanya (wh-)\nPola: **Question word + was/were + subject + ...?**\n- **Where were** you last night? (Di mana kamu tadi malam?)\n- **How was** your weekend? (Bagaimana akhir pekanmu?)\n- **Who was** at the party? (Siapa yang ada di pesta?)\n- **Why were** you late? (Kenapa kamu terlambat?)\n- **What was** the problem? (Apa masalahnya?)\n\n### Catatan\n*How was...?* sangat sering dipakai untuk menanyakan pengalaman: *How was the film? — It was great!* Jangan jawab dengan *Yes* atau *No*, karena ini bukan pertanyaan yes/no.",
+        "examples": [
+          { "en": "I wasn't at the meeting on Monday.", "id": "Saya tidak ada di rapat hari Senin.", "note": "wasn't = was not" },
+          { "en": "Were you busy yesterday? — No, I wasn't.", "id": "Apakah kamu sibuk kemarin? — Tidak.", "note": "Short answer dengan I wasn't" },
+          { "en": "Where were your keys? — They were in my bag.", "id": "Di mana kuncimu tadi? — Ada di tasku.", "note": "Pertanyaan wh-" },
+          { "en": "How was the trip to Lembang? — It was wonderful.", "id": "Bagaimana perjalanan ke Lembang? — Sangat menyenangkan.", "note": "How was ...? untuk menanyakan pengalaman" }
+        ],
+        "vocabulary": [
+          { "word": "busy", "pos": "adjective", "ipa": "/ˈbɪzi/", "meaning": "sibuk", "example": "Were you busy on Saturday?" },
+          { "word": "late", "pos": "adjective", "ipa": "/leɪt/", "meaning": "terlambat", "example": "Why were you late for class?" },
+          { "word": "meeting", "pos": "noun", "ipa": "/ˈmiːtɪŋ/", "meaning": "rapat, pertemuan", "example": "The meeting was very long." },
+          { "word": "absent", "pos": "adjective", "ipa": "/ˈæbsənt/", "meaning": "tidak hadir, absen", "example": "Two students were absent yesterday." },
+          { "word": "weekend", "pos": "noun", "ipa": "/ˌwiːkˈend/", "meaning": "akhir pekan", "example": "How was your weekend?" }
+        ],
+        "grammar": [
+          { "pattern": "Subject + wasn't / weren't + ...", "example": "The shops weren't open on Sunday.", "note": "Bentuk singkat paling umum dalam percakapan." },
+          { "pattern": "Was / Were + subject + ...?", "example": "Was the hotel expensive?", "note": "Tukar posisi subjek dan was/were." },
+          { "pattern": "Wh- word + was / were + subject?", "example": "Where were you at 8 o'clock?", "note": "How was ...? untuk menanyakan pengalaman." }
+        ],
+        "mistakes": [
+          { "wrong": "Did you were at home?", "right": "Were you at home?", "why": "Pertanyaan dengan was/were tidak memakai did. Cukup tukar posisi subjek dan were." },
+          { "wrong": "Were you tired? — Yes, I were.", "right": "Were you tired? — Yes, I was.", "why": "Jawaban untuk diri sendiri memakai I was, bukan I were." },
+          { "wrong": "She not was at school.", "right": "She wasn't at school.", "why": "Not diletakkan setelah was: was not / wasn't." }
+        ],
+        "summary": "Negatif: **wasn't / weren't**. Pertanyaan: **Was/Were + subject ...?** Jawaban singkat: *Yes, I was / No, they weren't*. Pertanyaan wh-: *Where were you? How was it?* Tidak perlu memakai *did* dengan was/were.",
+        "reviewCards": [
+          { "front": "was not (bentuk singkat)", "back": "wasn't" },
+          { "front": "Were you at home? (jawab: ya)", "back": "Yes, I was." },
+          { "front": "Bagaimana akhir pekanmu?", "back": "How was your weekend?" },
+          { "front": "Di mana kamu tadi malam?", "back": "Where were you last night?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u01-l2-q1", "type": "dropdown", "category": "grammar", "topic": "was/were questions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct words to complete the mini dialogue.",
+          "text": "A: ___ you at school yesterday? B: No, I ___. I was sick.",
+          "choices": [["Was", "Were"], ["wasn't", "weren't"]],
+          "answers": [1, 0],
+          "explanation": "Pertanyaan untuk you memakai Were you...? Jawaban untuk diri sendiri memakai I wasn't."
+        },
+        {
+          "id": "a2-u01-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "was/were negative", "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence in the negative form.",
+          "sentence": "Tom was at the gym on Monday.",
+          "cue": "Make it negative.",
+          "answers": ["Tom wasn't at the gym on Monday.", "Tom was not at the gym on Monday."],
+          "explanation": "Tambahkan not setelah was: was not atau bentuk singkat wasn't."
+        },
+        {
+          "id": "a2-u01-l2-q3", "type": "word_order", "category": "grammar", "topic": "was/were questions", "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Where", "were", "you", "last", "night?"],
+          "explanation": "Pola pertanyaan wh-: Where + were + you + keterangan waktu."
+        },
+        {
+          "id": "a2-u01-l2-q4", "type": "dialogue_completion", "category": "conversation", "topic": "was/were short answers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Lina", "text": "Was the film good?" },
+            { "speaker": "Arif", "text": null },
+            { "speaker": "Lina", "text": "Oh, that's a pity." }
+          ],
+          "options": ["Yes, it was.", "No, it wasn't. It was boring.", "No, it weren't.", "Yes, it is."],
+          "answer": 1,
+          "explanation": "Lina berkata That's a pity (sayang sekali), jadi jawabannya negatif: No, it wasn't. It memakai wasn't, bukan weren't."
+        },
+        {
+          "id": "a2-u01-l2-q5", "type": "short_answer", "category": "grammar", "topic": "was/were short answers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Write a positive short answer: Were your friends at the party?",
+          "answers": ["Yes, they were.", "Yes they were"],
+          "explanation": "Your friends = they, jadi jawaban singkatnya Yes, they were."
+        },
+        {
+          "id": "a2-u01-l2-q6", "type": "single_choice", "category": "grammar", "topic": "was/were questions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct question.",
+          "options": ["Was they happy?", "Were they happy?", "Did they were happy?", "Were happy they?"],
+          "answer": 1,
+          "explanation": "They memakai were, dan pertanyaan dibuat dengan menukar posisi: Were they happy? Tidak perlu did."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u01-l3-past-time-expressions",
+      "title": "Yesterday, Last Week, Two Days Ago",
+      "summary": "Memakai keterangan waktu lampau: yesterday, last..., ... ago, in + tahun.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan yesterday, last, dan ago dengan benar",
+        "Menghindari kesalahan umum seperti yesterday night dan before two days"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mengapa keterangan waktu penting?\nKeterangan waktu (*time expressions*) memberi tahu **kapan** sesuatu terjadi. Saat kamu melihat kata seperti *yesterday* atau *ago*, kamu tahu bahwa kalimat itu harus memakai bentuk lampau (*was/were*).\n\n### 1. Yesterday\n| English | Indonesia |\n| --- | --- |\n| yesterday | kemarin |\n| yesterday morning | kemarin pagi |\n| yesterday afternoon | kemarin siang/sore |\n| yesterday evening | kemarin sore/malam |\n| **last night** | tadi malam / kemarin malam |\n| the day before yesterday | kemarin lusa |\n\nPerhatikan: orang Inggris berkata **last night**, bukan *yesterday night*.\n\n### 2. Last + waktu\nDipakai tanpa *the* dan tanpa *on/in*: **last week**, **last month**, **last year**, **last Monday**, **last summer**, **last weekend**.\n- *We were in Yogyakarta last month.*\n- Salah: *in last month*, *the last week*.\n\n### 3. Jumlah waktu + ago\n**Ago** artinya *yang lalu*, dan selalu diletakkan **setelah** jumlah waktu.\n- *two days ago* = dua hari yang lalu\n- *ten minutes ago* = sepuluh menit yang lalu\n- *a long time ago* = dahulu kala\n\nKesalahan umum orang Indonesia: *before two days* (dari terjemahan *dua hari sebelumnya*). Yang benar: **two days ago**.\n\n### 4. In / on / at untuk waktu tertentu\nAturan dari A1 tetap berlaku: **in** 2019, **in** May, **on** Friday, **on** 17 August, **at** 7 o'clock.\n- *I was born in 2008.*\n- *She was in Bali on her birthday.*\n\n### Posisi dalam kalimat\nBiasanya keterangan waktu ada di **akhir** kalimat, tetapi boleh juga di **awal**:\n- *I was at the market yesterday.*\n- *Yesterday I was at the market.*",
+        "examples": [
+          { "en": "I was at the dentist the day before yesterday.", "id": "Saya ke dokter gigi kemarin lusa.", "note": "the day before yesterday = kemarin lusa" },
+          { "en": "We were in Medan three years ago.", "id": "Kami di Medan tiga tahun yang lalu.", "note": "jumlah waktu + ago" },
+          { "en": "The museum was closed last Monday.", "id": "Museum itu tutup Senin lalu.", "note": "last + hari, tanpa on" },
+          { "en": "My father was born in 1975.", "id": "Ayah saya lahir tahun 1975.", "note": "was born = lahir; in + tahun" }
+        ],
+        "vocabulary": [
+          { "word": "ago", "pos": "adverb", "ipa": "/əˈɡəʊ/", "meaning": "yang lalu", "example": "She was here five minutes ago." },
+          { "word": "last", "pos": "determiner", "ipa": "/lɑːst/", "meaning": "lalu, yang terakhir", "example": "We were at the beach last weekend." },
+          { "word": "be born", "pos": "phrase", "ipa": "/biː bɔːn/", "meaning": "lahir", "example": "I was born in Malang." },
+          { "word": "century", "pos": "noun", "ipa": "/ˈsentʃəri/", "meaning": "abad", "example": "This house was a school in the last century." },
+          { "word": "recently", "pos": "adverb", "ipa": "/ˈriːsntli/", "meaning": "baru-baru ini", "example": "The weather was very rainy recently." }
+        ],
+        "grammar": [
+          { "pattern": "last + week / month / year / Monday / summer", "example": "They were in Japan last summer.", "note": "Tanpa the, in, atau on." },
+          { "pattern": "number + time word + ago", "example": "He was at the office an hour ago.", "note": "Ago selalu di belakang." },
+          { "pattern": "yesterday + morning / afternoon / evening; last night", "example": "Were you at home last night?", "note": "Jangan pakai yesterday night." }
+        ],
+        "mistakes": [
+          { "wrong": "I was very busy yesterday night.", "right": "I was very busy last night.", "why": "Bahasa Inggris memakai last night, bukan yesterday night." },
+          { "wrong": "We were in Jakarta before three years.", "right": "We were in Jakarta three years ago.", "why": "Untuk 'yang lalu' gunakan jumlah waktu + ago." },
+          { "wrong": "She was in London in last year.", "right": "She was in London last year.", "why": "Last + waktu tidak memakai preposisi in/on." }
+        ],
+        "summary": "Pakai **yesterday (morning/afternoon/evening)**, **last night**, **last + week/month/year**, dan **jumlah waktu + ago**. Hindari *yesterday night*, *before two days*, dan *in last year*. Untuk tanggal dan tahun, tetap pakai in/on/at.",
+        "reviewCards": [
+          { "front": "tiga hari yang lalu", "back": "three days ago" },
+          { "front": "tadi malam / kemarin malam", "back": "last night (bukan yesterday night)" },
+          { "front": "kemarin lusa", "back": "the day before yesterday" },
+          { "front": "bulan lalu", "back": "last month (tanpa in)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u01-l3-q1", "type": "single_choice", "category": "grammar", "topic": "past time expressions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct word: I was in Bandung three days ___.",
+          "options": ["ago", "last", "before", "yesterday"], "answer": 0,
+          "explanation": "Jumlah waktu + ago = ... yang lalu. Three days ago = tiga hari yang lalu.",
+          "misconception": "Menerjemahkan langsung 'sebelumnya' menjadi before."
+        },
+        {
+          "id": "a2-u01-l3-q2", "type": "fill_blank", "category": "grammar", "topic": "past time expressions", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with one word in each gap.",
+          "text": "My sister was born ___ 2010, and we were in Bali ___ year.",
+          "answers": [["in"], ["last"]],
+          "explanation": "In + tahun (in 2010). Last year = tahun lalu, tanpa preposisi."
+        },
+        {
+          "id": "a2-u01-l3-q3", "type": "matching", "category": "vocabulary", "topic": "past time expressions", "difficulty": 1, "stage": "independent",
+          "prompt": "Match the Indonesian expressions with the English ones.",
+          "pairs": [
+            { "left": "tadi malam", "right": "last night" },
+            { "left": "dua minggu yang lalu", "right": "two weeks ago" },
+            { "left": "kemarin pagi", "right": "yesterday morning" },
+            { "left": "tahun lalu", "right": "last year" },
+            { "left": "kemarin lusa", "right": "the day before yesterday" }
+          ],
+          "explanation": "Ingat pola: last + waktu, jumlah waktu + ago, yesterday + bagian hari, dan last night untuk malam kemarin."
+        },
+        {
+          "id": "a2-u01-l3-q4", "type": "error_identification", "category": "grammar", "topic": "past time expressions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["I", "was", "very busy", "yesterday night."],
+          "errorIndex": 3, "correction": "last night",
+          "explanation": "Bahasa Inggris tidak memakai yesterday night. Yang benar adalah last night."
+        },
+        {
+          "id": "a2-u01-l3-q5", "type": "sentence_correction", "category": "grammar", "topic": "past time expressions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "We were in Jakarta before three years.",
+          "answers": ["We were in Jakarta three years ago.", "Three years ago we were in Jakarta."],
+          "explanation": "Untuk menyatakan 'tiga tahun yang lalu' gunakan three years ago, bukan before three years."
+        },
+        {
+          "id": "a2-u01-l3-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "past time expressions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Today is Friday. What day was 'the day before yesterday'?",
+          "options": ["Thursday", "Wednesday", "Saturday", "Tuesday"], "answer": 1,
+          "explanation": "Hari ini Jumat, yesterday = Kamis, the day before yesterday (kemarin lusa) = Rabu (Wednesday)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u01-l4-there-was-there-were",
+      "title": "There Was and There Were",
+      "summary": "Mendeskripsikan apa yang ada di suatu tempat di masa lalu.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan there was dengan benda tunggal/tak terhitung dan there were dengan benda jamak",
+        "Membuat kalimat negatif dan pertanyaan: There wasn't..., Were there any...?"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Dari there is/are ke there was/were\nDi A1 kamu sudah belajar **there is / there are** (ada). Untuk masa lalu, kita cukup mengubah *to be*-nya:\n\n| Present | Past | Dipakai dengan |\n| --- | --- | --- |\n| there is | **there was** | benda tunggal atau tak terhitung (*a cat, some water*) |\n| there are | **there were** | benda jamak (*two cats, some people*) |\n\n- *There was a big tree in front of my old house.* (Dulu ada pohon besar di depan rumah lamaku.)\n- *There were twenty guests at the party.* (Ada dua puluh tamu di pesta itu.)\n- *There was some rice in the kitchen.* (Ada sedikit nasi di dapur — *rice* tak terhitung.)\n\n### Kalimat negatif\n| Negatif | Contoh |\n| --- | --- |\n| there **wasn't** a/an... | *There wasn't a bus at the station.* |\n| there **wasn't any** + tak terhitung | *There wasn't any milk.* |\n| there **weren't any** + jamak | *There weren't any taxis.* |\n\nIngat aturan **some/any** dari A1: *some* untuk kalimat positif, *any* untuk negatif dan pertanyaan.\n\n### Pertanyaan dan jawaban singkat\n- **Was there** a swimming pool at the hotel? — *Yes, there was. / No, there wasn't.*\n- **Were there any** good shops? — *Yes, there were. / No, there weren't.*\n\n### Aturan penting\nPilih was/were berdasarkan **kata benda pertama** setelahnya:\n- *There was a sofa and two chairs.* (kata pertama *a sofa* → was)\n- *There were two chairs and a sofa.* (kata pertama *two chairs* → were)\n\n### Tips untuk penutur bahasa Indonesia\nKata *ada* dalam bahasa Indonesia bisa berarti *have* atau *there is/was*. Jangan katakan *Yesterday have a festival in my town*. Yang benar: **There was a festival in my town yesterday.**",
+        "examples": [
+          { "en": "There was a small café next to the station.", "id": "Dulu ada kafe kecil di sebelah stasiun.", "note": "benda tunggal → there was" },
+          { "en": "There were three bedrooms in our old house.", "id": "Ada tiga kamar tidur di rumah lama kami.", "note": "benda jamak → there were" },
+          { "en": "There weren't any people on the beach.", "id": "Tidak ada orang di pantai.", "note": "negatif jamak → weren't any" },
+          { "en": "Was there a problem with your ticket? — No, there wasn't.", "id": "Apakah ada masalah dengan tiketmu? — Tidak ada.", "note": "pertanyaan + short answer" }
+        ],
+        "vocabulary": [
+          { "word": "festival", "pos": "noun", "ipa": "/ˈfestɪvl/", "meaning": "festival, perayaan", "example": "There was a food festival in the park." },
+          { "word": "guest", "pos": "noun", "ipa": "/ɡest/", "meaning": "tamu", "example": "There were fifty guests at the wedding." },
+          { "word": "crowd", "pos": "noun", "ipa": "/kraʊd/", "meaning": "kerumunan orang", "example": "There was a big crowd at the stadium." },
+          { "word": "stage", "pos": "noun", "ipa": "/steɪdʒ/", "meaning": "panggung", "example": "There were four singers on the stage." },
+          { "word": "empty", "pos": "adjective", "ipa": "/ˈempti/", "meaning": "kosong", "example": "The street was empty. There weren't any cars." }
+        ],
+        "grammar": [
+          { "pattern": "There was + a/an + singular noun / uncountable noun", "example": "There was some music in the hall.", "note": "Tunggal atau tak terhitung." },
+          { "pattern": "There were + plural noun", "example": "There were some children in the garden.", "note": "Jamak." },
+          { "pattern": "Was there a...? / Were there any...?", "example": "Were there any tickets left?", "note": "Short answer: Yes, there were. / No, there weren't." }
+        ],
+        "mistakes": [
+          { "wrong": "There was three books on the table.", "right": "There were three books on the table.", "why": "Three books jamak, jadi memakai there were." },
+          { "wrong": "Yesterday have a festival in my town.", "right": "There was a festival in my town yesterday.", "why": "Untuk 'ada' (keberadaan) gunakan there was/were, bukan have." },
+          { "wrong": "There weren't some chairs.", "right": "There weren't any chairs.", "why": "Kalimat negatif memakai any, bukan some." }
+        ],
+        "summary": "**There was** + benda tunggal/tak terhitung, **there were** + benda jamak. Negatif: *there wasn't / there weren't any*. Pertanyaan: *Was there...? / Were there any...?* Jangan memakai *have* untuk arti 'ada'.",
+        "reviewCards": [
+          { "front": "Dulu ada sebuah taman di sini.", "back": "There was a park here." },
+          { "front": "Ada banyak tamu? (Were there ... guests?)", "back": "Were there any guests? / Yes, there were." },
+          { "front": "there are (past)", "back": "there were" },
+          { "front": "Tidak ada taksi di stasiun.", "back": "There weren't any taxis at the station." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u01-l4-q1", "type": "dropdown", "category": "grammar", "topic": "there was/were", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose was or were for each gap.",
+          "text": "There ___ a big party at the hotel last night, and there ___ fifty guests.",
+          "choices": [["was", "were"], ["was", "were"]],
+          "answers": [0, 1],
+          "explanation": "A big party (tunggal) → there was. Fifty guests (jamak) → there were."
+        },
+        {
+          "id": "a2-u01-l4-q2", "type": "drag_drop", "category": "grammar", "topic": "there was/were", "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Ten years ago there ___ a small shop on this corner, but there ___ any cafés.",
+          "bank": ["was", "were", "wasn't", "weren't", "is"],
+          "answers": ["was", "weren't"],
+          "explanation": "A small shop (tunggal, positif) → was. Any cafés (jamak, negatif) → weren't."
+        },
+        {
+          "id": "a2-u01-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "there was/were", "difficulty": 2, "stage": "independent",
+          "prompt": "Make a question from the sentence.",
+          "sentence": "There were some students in the classroom.",
+          "cue": "Begin with: Were there ...",
+          "answers": ["Were there any students in the classroom?"],
+          "explanation": "Pertanyaan: Were there + any + benda jamak. Some berubah menjadi any dalam pertanyaan."
+        },
+        {
+          "id": "a2-u01-l4-q4", "type": "single_choice", "category": "grammar", "topic": "there was/were", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct option: ___ any problems with your flight yesterday?",
+          "options": ["Was there", "Were there", "There were", "Are there"], "answer": 1,
+          "explanation": "Any problems jamak dan yesterday menunjukkan masa lalu, jadi pertanyaannya Were there any problems...?"
+        },
+        {
+          "id": "a2-u01-l4-q5", "type": "multiple_select", "category": "grammar", "topic": "there was/were", "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["There were two cats in the garden.", "There was three books on the shelf.", "There wasn't any water in the bottle.", "There weren't a bus yesterday.", "Was there a doctor at the event?"],
+          "answers": [0, 2, 4],
+          "explanation": "Three books jamak → there were. A bus tunggal → there wasn't a bus. Kalimat 1, 3, dan 5 sudah benar."
+        },
+        {
+          "id": "a2-u01-l4-q6", "type": "translation", "category": "grammar", "topic": "there was/were", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kemarin tidak ada murid di kelas.", "direction": "id-en",
+          "answers": [
+            "There weren't any students in the class yesterday.",
+            "There were no students in the class yesterday.",
+            "There weren't any students in the classroom yesterday.",
+            "There were no students in the classroom yesterday.",
+            "Yesterday there weren't any students in the class.",
+            "Yesterday there were no students in the class.",
+            "Yesterday there weren't any students in the classroom.",
+            "Yesterday there were no students in the classroom.",
+            "There were not any students in the class yesterday.",
+            "There were not any students in the classroom yesterday."
+          ],
+          "explanation": "Students jamak dan negatif → there weren't any students (atau there were no students). Kemarin = yesterday."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u01-l5-feelings-events",
+      "title": "How Was It? Places, Events and Feelings",
+      "summary": "Menceritakan di mana kamu berada, acara yang kamu hadiri, dan bagaimana perasaanmu.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata perasaan dan acara",
+        "Membedakan adjective -ed (bored) dan -ing (boring)",
+        "Bercerita singkat tentang di mana kamu berada dan bagaimana rasanya"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba latihan berbicara, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menceritakan pengalaman dengan was/were\nSekarang kamu bisa menggabungkan semua yang sudah dipelajari di unit ini untuk bercerita: **di mana** kamu berada, **acara apa**, dan **bagaimana perasaanmu**.\n\n*Last Saturday I was at my cousin's wedding. There were about two hundred guests. The food was delicious and everyone was very happy.*\n\n### Kosakata perasaan (feelings)\n| English | Indonesia |\n| --- | --- |\n| excited | bersemangat, antusias |\n| nervous | gugup |\n| proud | bangga |\n| scared | takut |\n| bored | bosan |\n| relaxed | santai, tenang |\n| disappointed | kecewa |\n\n### Kosakata acara dan tempat (events and places)\n*a concert* (konser), *a wedding* (pernikahan), *a birthday party* (pesta ulang tahun), *a football match* (pertandingan sepak bola), *an exhibition* (pameran), *a stadium* (stadion), *a museum* (museum), *a hall* (aula/gedung).\n\n### Bored atau boring?\nIni kesalahan yang sangat umum.\n- **-ed** menjelaskan **perasaan orang**: *I was bored.* (Saya merasa bosan.)\n- **-ing** menjelaskan **sifat benda/situasi** yang menyebabkan perasaan itu: *The film was boring.* (Filmnya membosankan.)\n\n| Perasaan (-ed) | Penyebab (-ing) |\n| --- | --- |\n| bored | boring |\n| excited | exciting |\n| interested | interesting |\n| tired | tiring |\n\n### Pertanyaan yang berguna\n- *Where were you last weekend?*\n- *How was the concert? — It was amazing!*\n- *Were you nervous before the exam?*\n- *Who was there?*\n\n### Tips berbicara\nJawab dengan lebih dari satu kalimat. Sebutkan **tempat**, **waktu**, **siapa yang ada di sana**, dan **perasaanmu**. Contoh: *I was at the stadium on Sunday. There were thousands of people. I was so excited!*",
+        "examples": [
+          { "en": "I was very nervous before my job interview.", "id": "Saya sangat gugup sebelum wawancara kerja.", "note": "nervous = gugup" },
+          { "en": "The exhibition was interesting, but I was tired.", "id": "Pamerannya menarik, tetapi saya lelah.", "note": "interesting (benda) vs tired (orang)" },
+          { "en": "My parents were proud of me at my graduation.", "id": "Orang tua saya bangga padaku saat wisuda.", "note": "proud of = bangga pada" },
+          { "en": "How was the football match? — It was exciting!", "id": "Bagaimana pertandingan sepak bolanya? — Seru sekali!", "note": "exciting = seru, menegangkan" }
+        ],
+        "vocabulary": [
+          { "word": "nervous", "pos": "adjective", "ipa": "/ˈnɜːvəs/", "meaning": "gugup", "example": "I was nervous before the test." },
+          { "word": "proud", "pos": "adjective", "ipa": "/praʊd/", "meaning": "bangga", "example": "We were proud of our team." },
+          { "word": "disappointed", "pos": "adjective", "ipa": "/ˌdɪsəˈpɔɪntɪd/", "meaning": "kecewa", "example": "She was disappointed with the hotel." },
+          { "word": "wedding", "pos": "noun", "ipa": "/ˈwedɪŋ/", "meaning": "pernikahan", "example": "The wedding was in a beautiful garden." },
+          { "word": "exhibition", "pos": "noun", "ipa": "/ˌeksɪˈbɪʃn/", "meaning": "pameran", "example": "There was an art exhibition at the museum." },
+          { "word": "scared", "pos": "adjective", "ipa": "/skeəd/", "meaning": "takut", "example": "The children were scared of the big dog." }
+        ],
+        "grammar": [
+          { "pattern": "How was + event?", "example": "How was the wedding?", "note": "Jawab dengan It was + adjective." },
+          { "pattern": "Subject + was/were + feeling adjective (-ed)", "example": "We were bored.", "note": "-ed untuk perasaan orang." },
+          { "pattern": "Thing + was/were + adjective (-ing)", "example": "The lesson was boring.", "note": "-ing untuk sifat benda/situasi." }
+        ],
+        "mistakes": [
+          { "wrong": "I was very boring at the meeting.", "right": "I was very bored at the meeting.", "why": "Perasaan orang memakai -ed (bored). I was boring berarti 'saya orang yang membosankan'." },
+          { "wrong": "The concert was very excited.", "right": "The concert was very exciting.", "why": "Sifat acara memakai -ing (exciting)." },
+          { "wrong": "How was the party? — Yes, it was.", "right": "How was the party? — It was great.", "why": "How was...? bukan pertanyaan yes/no, jadi jawab dengan deskripsi." }
+        ],
+        "summary": "Untuk bercerita tentang masa lalu: sebutkan **tempat** (*I was at...*), **situasi** (*There were...*), dan **perasaan** (*I was excited*). Gunakan **-ed** untuk perasaan orang dan **-ing** untuk sifat benda atau acara.",
+        "reviewCards": [
+          { "front": "gugup", "back": "nervous" },
+          { "front": "bored vs boring", "back": "bored = merasa bosan (orang); boring = membosankan (benda/acara)" },
+          { "front": "How was the concert?", "back": "It was amazing! / It was boring." },
+          { "front": "bangga", "back": "proud (proud of = bangga pada)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u01-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "feelings", "difficulty": 1, "stage": "guided",
+          "prompt": "The exam was very difficult, and I wasn't ready. Before the exam, I was very ___.",
+          "options": ["nervous", "proud", "bored", "relaxed"], "answer": 0,
+          "explanation": "Ujian sulit dan belum siap → perasaannya gugup (nervous).",
+          "misconception": "Memilih relaxed (santai), padahal konteksnya tegang."
+        },
+        {
+          "id": "a2-u01-l5-q2", "type": "matching", "category": "vocabulary", "topic": "feelings", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each situation with the best feeling.",
+          "pairs": [
+            { "left": "Your exam results were excellent.", "right": "proud" },
+            { "left": "The film was two hours long and very slow.", "right": "bored" },
+            { "left": "There was a big snake in the garden.", "right": "scared" },
+            { "left": "Your flight was at 5 a.m. and you were awake all night.", "right": "tired" }
+          ],
+          "explanation": "Hasil bagus → proud (bangga); film lambat → bored (bosan); ada ular → scared (takut); tidak tidur → tired (lelah)."
+        },
+        {
+          "id": "a2-u01-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "talking about the past", "difficulty": 2, "stage": "independent",
+          "prompt": "Talk for 30–45 seconds: Where were you last weekend? Who was there? How was it, and how did you feel? Use was/were and there was/there were.",
+          "targetPhrases": ["I was at", "There were", "It was", "I was very"],
+          "sampleAnswer": "Last weekend I was at my grandmother's house in Bogor. My parents and my cousins were there too. There was a big lunch on Sunday, and the food was delicious. The weather was cool and rainy. I was very relaxed and happy.",
+          "explanation": "Sebutkan tempat (I was at...), siapa yang ada (... were there), situasi (There was/were...), dan perasaan (I was...)."
+        },
+        {
+          "id": "a2-u01-l5-q4", "type": "dialogue_completion", "category": "conversation", "topic": "talking about events", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Maya", "text": "How was the concert last night?" },
+            { "speaker": "Dimas", "text": null },
+            { "speaker": "Maya", "text": "Oh no! What was wrong?" }
+          ],
+          "options": ["It was awful.", "It was fantastic!", "Yes, I was there.", "It's on Saturday."],
+          "answer": 0,
+          "explanation": "Maya menjawab Oh no! What was wrong?, jadi Dimas pasti mengatakan konsernya buruk (awful)."
+        },
+        {
+          "id": "a2-u01-l5-q5", "type": "single_choice", "category": "vocabulary", "topic": "-ed and -ing adjectives", "difficulty": 2, "stage": "quiz",
+          "prompt": "The lesson was very long. All the students were ___.",
+          "options": ["boring", "bored", "bore"], "answer": 1,
+          "explanation": "Perasaan orang (para siswa) memakai -ed: bored. Boring dipakai untuk pelajarannya."
+        },
+        {
+          "id": "a2-u01-l5-q6", "type": "sentence_reconstruction", "category": "writing", "topic": "talking about events", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": ["Last Saturday", "I was at", "my cousin's wedding", "and everyone", "was very happy."],
+          "acceptedAnswers": ["I was at my cousin's wedding last Saturday and everyone was very happy."],
+          "explanation": "Keterangan waktu (Last Saturday) boleh di awal, lalu subjek + was + tempat, kemudian and + kalimat kedua."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u01-t-q1", "type": "single_choice", "category": "grammar", "topic": "was/were", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct word: Where ___ you on Sunday afternoon?",
+      "options": ["was", "were", "are", "did"], "answer": 1,
+      "explanation": "You memakai were. On Sunday afternoon (yang sudah lewat) menunjukkan masa lalu."
+    },
+    {
+      "id": "a2-u01-t-q2", "type": "fill_blank", "category": "grammar", "topic": "past time expressions", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the sentence with one word in each gap.",
+      "text": "My grandmother ___ a teacher fifty years ___.",
+      "answers": [["was"], ["ago"]],
+      "explanation": "My grandmother (she) → was. Fifty years ago = lima puluh tahun yang lalu."
+    },
+    {
+      "id": "a2-u01-t-q3", "type": "dropdown", "category": "grammar", "topic": "there was/were", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ there any taxis at the station? B: No, there ___.",
+      "choices": [["Was", "Were"], ["wasn't", "weren't"]],
+      "answers": [1, 1],
+      "explanation": "Any taxis jamak → Were there...? Jawaban singkatnya No, there weren't."
+    },
+    {
+      "id": "a2-u01-t-q4", "type": "sentence_correction", "category": "grammar", "topic": "was/were", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "The children was very excited about the trip.",
+      "answers": ["The children were very excited about the trip."],
+      "explanation": "Children adalah bentuk jamak dari child, jadi memakai were."
+    },
+    {
+      "id": "a2-u01-t-q5", "type": "error_identification", "category": "grammar", "topic": "there was/were", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["There", "were", "a terrible storm", "last night."],
+      "errorIndex": 1, "correction": "was",
+      "explanation": "A terrible storm adalah benda tunggal, jadi memakai there was."
+    },
+    {
+      "id": "a2-u01-t-q6", "type": "translation", "category": "grammar", "topic": "was/were questions", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Apakah kamu lelah kemarin?", "direction": "id-en",
+      "answers": ["Were you tired yesterday?", "Yesterday, were you tired?"],
+      "explanation": "Pertanyaan yes/no dengan you: Were you + adjective + yesterday?"
+    },
+    {
+      "id": "a2-u01-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "-ed and -ing adjectives", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best word: The museum tour was really ___. I learned a lot about old ships.",
+      "options": ["interested", "interesting", "bored", "nervous"], "answer": 1,
+      "explanation": "Yang dideskripsikan adalah tur (benda/kegiatan), dan kalimat kedua positif, jadi interesting (menarik)."
+    }
+  ]
+}

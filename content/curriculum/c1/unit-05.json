@@ -1,0 +1,548 @@
+{
+  "slug": "c1-u05-hedging",
+  "number": 5,
+  "title": "Academic Caution",
+  "description": "Present claims with the right degree of certainty. Learn to hedge with modal verbs, lexical verbs (appear, tend, suggest) and adverbs (arguably, relatively, to some extent), to strengthen claims with boosters when the evidence allows, and to report research findings accurately.",
+  "objectives": [
+    "Hedge claims with modal verbs and expressions of possibility",
+    "Use appear to, seem to, tend to, suggest and indicate to soften claims",
+    "Use softening adverbs and phrases such as arguably, relatively and to some extent",
+    "Balance hedges and boosters according to the strength of the evidence",
+    "Report research findings with appropriate caution"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u05-l1-hedging-modals",
+      "title": "May, Might, Could: Hedging with Modals",
+      "summary": "Use modal verbs and expressions of possibility to avoid overclaiming in academic and professional writing.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Explain why hedging is necessary in academic writing",
+        "Use may, might, could and would to make claims tentative",
+        "Use it is possible that / there is a possibility that"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is hedging?\n**Hedging** means expressing a claim with appropriate caution, showing that you recognise the limits of your evidence. In academic and professional writing, absolute statements such as 'Social media causes loneliness' are risky: one counter-example can destroy them, and readers may see the writer as naive or arrogant. A hedged version, 'Social media **may contribute** to loneliness among some teenagers', is more accurate and more persuasive because it matches the evidence.\n\nHedging is **not** a sign of weakness or poor English; it is a sign of academic maturity. Native-speaker researchers hedge constantly.\n\n### Modal verbs for hedging\n| Modal | Degree of certainty | Example |\n|---|---|---|\n| will | very high (often too strong) | This policy will reduce crime. |\n| would | tentative, theoretical | This would suggest that the policy is working. |\n| may | possible | The new drug may reduce the risk of stroke. |\n| could | possible (slightly more hypothetical) | This could explain the rise in sales. |\n| might | less certain | Other factors might also be involved. |\n\n*Can* expresses general possibility or capability: 'Stress **can** affect sleep' (= it sometimes does).\n\n### Modals with perfect infinitives\nTo hedge about the past, use **modal + have + past participle**: 'Higher temperatures **may have played** a role in the decline.' / 'The sample **could have been** biased.'\n\n### Possibility expressions\n- **It is possible that** the sample was too small.\n- **There is a possibility that** the results were affected by the weather.\n- **It is likely / unlikely that** ...\n- **There is some evidence that** ...\n\nThese expressions are useful when you want to hedge the whole proposition rather than just the verb.\n\n### Form reminders\n- Modals are followed by the **bare infinitive**: 'may **be**', not '*may to be*'.\n- Modals have no -s: 'It **may** suggest', not '*It mays*'.\n\n### How much hedging?\nOne hedge per claim is usually enough. Stacking several hedges ('It might possibly perhaps be the case that ...') makes your writing vague and difficult to read. Aim for **precision**: choose the strength of the hedge that matches the strength of your evidence.\n\n### Indonesian note\nIndonesian academic writing uses *mungkin*, *dapat*, *diduga* and *kemungkinan besar*. English offers a wider scale (*may, might, could, would, is likely to*), so choose carefully: *mungkin* can be 'may', 'might' or 'could' depending on how confident you are.",
+        "examples": [
+          { "en": "The new drug may reduce the risk of heart disease in some patients.", "id": "Obat baru itu mungkin dapat mengurangi risiko penyakit jantung pada sebagian pasien.", "note": "Hedged with 'may' and 'some'." },
+          { "en": "This could explain the unexpected rise in sales during the rainy season.", "id": "Hal ini dapat menjelaskan kenaikan penjualan yang tak terduga selama musim hujan.", "note": "Possible explanation." },
+          { "en": "Higher water temperatures may have played a role in the decline of the reef.", "id": "Suhu air yang lebih tinggi mungkin berperan dalam menurunnya kondisi terumbu karang.", "note": "Modal + have + past participle for the past." },
+          { "en": "It is possible that the sample was not representative of the whole population.", "id": "Ada kemungkinan bahwa sampelnya tidak mewakili seluruh populasi.", "note": "Hedging the whole proposition." }
+        ],
+        "vocabulary": [
+          { "word": "tentative", "pos": "adjective", "ipa": "/ˈtentətɪv/", "meaning": "sementara, belum pasti", "example": "These are only tentative conclusions." },
+          { "word": "overclaim", "pos": "verb", "ipa": "/ˌəʊvəˈkleɪm/", "meaning": "mengklaim secara berlebihan", "example": "Students often overclaim in their first essays." },
+          { "word": "representative", "pos": "adjective", "ipa": "/ˌreprɪˈzentətɪv/", "meaning": "mewakili, representatif", "example": "The sample may not be representative." },
+          { "word": "contribute to", "pos": "verb", "ipa": "/kənˈtrɪbjuːt tə/", "meaning": "berkontribusi pada, ikut menyebabkan", "example": "Poor diet may contribute to fatigue." },
+          { "word": "plausible", "pos": "adjective", "ipa": "/ˈplɔːzəbl/", "meaning": "masuk akal", "example": "This is a plausible explanation, but it needs testing." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + may / might / could + base verb", "example": "Noise may affect concentration.", "note": "Tentative present or general claim." },
+          { "pattern": "Subject + may / might / could + have + past participle", "example": "The error might have occurred during data entry.", "note": "Tentative claim about the past." },
+          { "pattern": "It is possible / likely that + clause", "example": "It is likely that prices will continue to rise.", "note": "Hedging the whole proposition." }
+        ],
+        "mistakes": [
+          { "wrong": "The rise in temperatures might to be linked to deforestation.", "right": "The rise in temperatures might be linked to deforestation.", "why": "Modals are followed by the bare infinitive, without 'to'." },
+          { "wrong": "Social media causes loneliness in all teenagers.", "right": "Social media may contribute to loneliness among some teenagers.", "why": "Absolute claims are rarely supported by evidence; hedge the verb and the scope." },
+          { "wrong": "It might possibly perhaps be likely that the results may be wrong.", "right": "The results may be inaccurate.", "why": "Too many hedges make a sentence vague; one well-chosen hedge is enough." }
+        ],
+        "summary": "Hedging shows appropriate caution. Use may, might, could and would (plus have + past participle for the past) and expressions such as it is possible/likely that. Match the strength of the hedge to the evidence, and avoid stacking hedges.",
+        "reviewCards": [
+          { "front": "X causes Y. (hedge with a modal)", "back": "X may / might / could cause Y." },
+          { "front": "Hedging about the past", "back": "may/might/could + have + past participle" },
+          { "front": "tentative", "back": "sementara, belum pasti" },
+          { "front": "Is over-hedging good style?", "back": "No. One precise hedge per claim is usually enough." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u05-l1-q1", "type": "single_choice", "category": "academic", "topic": "hedging with modals", "difficulty": 2, "stage": "guided",
+          "prompt": "Which sentence is the most appropriately cautious for an academic report?",
+          "options": ["The new drug may reduce the risk of heart disease in some patients.", "The new drug cures heart disease.", "The new drug will definitely eliminate heart disease.", "Everyone knows the new drug reduces heart disease."],
+          "answer": 0,
+          "explanation": "Option 1 hedges the verb ('may') and limits the scope ('some patients'). The other options overclaim or rely on unsupported generalisations."
+        },
+        {
+          "id": "c1-u05-l1-q2", "type": "sentence_transformation", "category": "academic", "topic": "hedging with modals", "difficulty": 3, "stage": "independent",
+          "prompt": "Make the claim more cautious.",
+          "sentence": "Social media causes loneliness among teenagers.",
+          "cue": "Use 'may' and keep the rest of the sentence: Social media ...",
+          "answers": ["Social media may cause loneliness among teenagers.", "Social media may cause loneliness in teenagers.", "Social media may contribute to loneliness among teenagers.", "Social media may contribute to loneliness in teenagers.", "Social media may lead to loneliness among teenagers."],
+          "explanation": "Adding 'may' before the base verb turns a certain claim into a possibility: 'Social media may cause loneliness among teenagers.'"
+        },
+        {
+          "id": "c1-u05-l1-q3", "type": "dropdown", "category": "academic", "topic": "hedging with modals", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the most appropriate modal for a tentative academic interpretation.",
+          "text": "These results ___ suggest that the policy has been effective, although further research is needed.",
+          "choices": [["would", "will", "must"]],
+          "answers": [0],
+          "explanation": "'Would' expresses a tentative, theoretical interpretation. 'Will' is unnatural here and 'must' is too strong given 'further research is needed'."
+        },
+        {
+          "id": "c1-u05-l1-q4", "type": "error_identification", "category": "grammar", "topic": "hedging with modals", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The rise in temperatures", "might to be", "linked to", "deforestation in the region."],
+          "errorIndex": 1,
+          "correction": "might be",
+          "explanation": "Modal verbs are followed by the bare infinitive: 'might be', not 'might to be'."
+        },
+        {
+          "id": "c1-u05-l1-q5", "type": "multiple_select", "category": "academic", "topic": "hedging with modals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Select ALL the sentences that present the claim tentatively.",
+          "options": ["It is possible that the sample was too small.", "There is a possibility that the results were affected by the weather.", "The sample was obviously too small.", "This could explain the unexpected rise in sales.", "It is certain that the weather affected the results."],
+          "answers": [0, 1, 3],
+          "explanation": "'It is possible that', 'There is a possibility that' and 'could' all express tentativeness. 'Obviously' and 'It is certain that' are boosters."
+        },
+        {
+          "id": "c1-u05-l1-q6", "type": "fill_blank", "category": "academic", "topic": "hedging with modals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with ONE modal verb that expresses possibility.",
+          "text": "Rising sea temperatures ___ have played a role in the decline of the coral reefs.",
+          "answers": [["may", "might", "could"]],
+          "explanation": "To hedge a claim about the past, use may/might/could + have + past participle."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u05-l2-hedging-verbs",
+      "title": "Appear, Seem, Tend, Suggest: Hedging Verbs",
+      "summary": "Soften claims with lexical verbs such as appear to, seem to, tend to, suggest and indicate.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use appear to / seem to with simple and perfect infinitives",
+        "Use tend to for generalisations",
+        "Use suggest and indicate to report what evidence shows"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Verbs that soften claims\nBesides modals, English uses ordinary verbs to hedge. These are extremely common in academic writing and professional reports.\n\n### Appear / seem + to-infinitive\nThese verbs show that a claim is based on observation or evidence rather than certainty:\n- 'The treatment **appears to be** effective.'\n- 'Customers **seem to prefer** the cheaper model.'\n- 'The policy **seems to have failed**.' (perfect infinitive for the past)\n\nIt-patterns are also possible: '**It appears that** the treatment is effective.' / '**It seems likely that** ...'.\n\nWith existence, use *there*: '**There appears to be** a link between diet and mood.'\n\n*Appear* is slightly more formal than *seem*.\n\n### Tend to: hedging generalisations\n*Tend to* says that something is generally but not always true:\n- 'Older employees **tend to be** more loyal to their companies.'\n- 'Students who study in groups **tend to achieve** higher grades.'\n\nThis is the perfect tool for avoiding sweeping statements such as 'Older employees are more loyal'.\n\n### Suggest, indicate, imply\nThese verbs report what the **evidence** shows, keeping the writer at a distance:\n\n| Verb | Strength | Example |\n|---|---|---|\n| show / demonstrate | strong | The data show a clear increase. |\n| indicate | medium | The results indicate a link between sleep and memory. |\n| suggest | weaker | These findings suggest that further training is needed. |\n| imply | indirect | The decline implies that demand has fallen. |\n\nNote: *suggest* is followed by a **that-clause** or a **noun**, not a to-infinitive: 'The data suggest **that** ...', not '*The data suggest to ...*'.\n\n### Data is / data are\nIn formal academic writing, *data* is often treated as plural ('The data **suggest** ...'), but the singular ('The data **suggests** ...') is now widely accepted. Be consistent within one text.\n\n### Combining hedges\nVerbs and adverbs can combine naturally: 'The results **appear to indicate** a **slight** improvement.' But avoid piling up too many: 'The results might seem to possibly suggest ...' is excessive.\n\n### Indonesian note\n*Tampaknya / sepertinya* corresponds to *appear / seem*; *cenderung* corresponds to *tend to*; *menunjukkan* can be *show*, *indicate* or *suggest* depending on how strong the evidence is. Choosing the right English verb is a key C1 skill.",
+        "examples": [
+          { "en": "The treatment appears to be effective for most patients.", "id": "Pengobatan itu tampaknya efektif bagi sebagian besar pasien.", "note": "appear + to-infinitive." },
+          { "en": "Older employees tend to be more loyal to their companies.", "id": "Karyawan yang lebih tua cenderung lebih setia kepada perusahaan mereka.", "note": "Generalisation with 'tend to'." },
+          { "en": "The policy seems to have failed in rural areas.", "id": "Kebijakan itu tampaknya gagal di daerah pedesaan.", "note": "Perfect infinitive for the past." },
+          { "en": "These findings suggest that further training is needed.", "id": "Temuan ini menunjukkan bahwa diperlukan pelatihan lebih lanjut.", "note": "suggest + that-clause." }
+        ],
+        "vocabulary": [
+          { "word": "findings", "pos": "noun (plural)", "ipa": "/ˈfaɪndɪŋz/", "meaning": "temuan (penelitian)", "example": "The findings were published in a leading journal." },
+          { "word": "indicate", "pos": "verb", "ipa": "/ˈɪndɪkeɪt/", "meaning": "menunjukkan, mengindikasikan", "example": "Early results indicate a small improvement." },
+          { "word": "generalisation", "pos": "noun", "ipa": "/ˌdʒenrəlaɪˈzeɪʃn/", "meaning": "generalisasi", "example": "Avoid broad generalisations without evidence." },
+          { "word": "imply", "pos": "verb", "ipa": "/ɪmˈplaɪ/", "meaning": "menyiratkan", "example": "The decline implies that demand has fallen." },
+          { "word": "consistent with", "pos": "phrase", "ipa": "/kənˈsɪstənt wɪð/", "meaning": "sesuai dengan, konsisten dengan", "example": "These results are consistent with earlier studies." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + appear / seem + to-infinitive (to have + past participle)", "example": "The company appears to have recovered.", "note": "Observation-based hedge." },
+          { "pattern": "Subject + tend + to-infinitive", "example": "Prices tend to rise before holidays.", "note": "Generalisation." },
+          { "pattern": "Evidence / data / findings + suggest / indicate + that-clause", "example": "The data indicate that sales have peaked.", "note": "Reporting evidence." },
+          { "pattern": "There appears / seems to be + noun", "example": "There seems to be a misunderstanding.", "note": "Hedging existence." }
+        ],
+        "mistakes": [
+          { "wrong": "The new method appears being more efficient.", "right": "The new method appears to be more efficient.", "why": "'Appear' and 'seem' are followed by a to-infinitive." },
+          { "wrong": "The results suggest to change the policy.", "right": "The results suggest that the policy should be changed.", "why": "'Suggest' takes a that-clause (or -ing/noun), not a to-infinitive." },
+          { "wrong": "Women tend live longer than men.", "right": "Women tend to live longer than men.", "why": "'Tend' must be followed by 'to' + infinitive." }
+        ],
+        "summary": "Use appear/seem to (+ to have done for the past) for observation-based claims, tend to for generalisations, and suggest/indicate (+ that-clause) to report evidence. Choose the verb whose strength matches your evidence: show > indicate > suggest.",
+        "reviewCards": [
+          { "front": "It seems that the policy has failed. (The policy ...)", "back": "The policy seems to have failed." },
+          { "front": "cenderung", "back": "tend to" },
+          { "front": "suggest + ?", "back": "that-clause or noun (not to-infinitive)" },
+          { "front": "Strength: show / suggest / indicate", "back": "show > indicate > suggest" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u05-l2-q1", "type": "word_order", "category": "academic", "topic": "hedging verbs", "difficulty": 2, "stage": "guided",
+          "prompt": "Put the words in the correct order to make a hedged generalisation.",
+          "words": ["Older", "employees", "tend", "to", "be", "more", "loyal", "to", "their", "companies"],
+          "explanation": "Subject + tend to + infinitive: 'Older employees tend to be more loyal to their companies.'"
+        },
+        {
+          "id": "c1-u05-l2-q2", "type": "sentence_transformation", "category": "academic", "topic": "hedging verbs", "difficulty": 2, "stage": "independent",
+          "prompt": "Make the claim more cautious using the verb 'appear'.",
+          "sentence": "The treatment is effective.",
+          "cue": "Begin with: The treatment",
+          "answers": ["The treatment appears to be effective."],
+          "explanation": "'Appear' + to-infinitive softens the claim: 'The treatment appears to be effective.'"
+        },
+        {
+          "id": "c1-u05-l2-q3", "type": "fill_blank", "category": "academic", "topic": "hedging verbs", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with ONE verb that reports evidence cautiously.",
+          "text": "The data ___ that there is a link between sleep and memory, but the sample was very small.",
+          "answers": [["suggest", "suggests", "indicate", "indicates"]],
+          "explanation": "'Suggest' or 'indicate' + that-clause reports what the evidence points to without claiming proof. Both plural and singular agreement with 'data' are accepted."
+        },
+        {
+          "id": "c1-u05-l2-q4", "type": "sentence_transformation", "category": "academic", "topic": "hedging verbs", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "It seems that the policy has failed.",
+          "cue": "Begin with: The policy",
+          "answers": ["The policy seems to have failed."],
+          "explanation": "The failure happened before now, so we use the perfect infinitive: 'seems to have failed'."
+        },
+        {
+          "id": "c1-u05-l2-q5", "type": "single_choice", "category": "academic", "topic": "hedging verbs", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the verb that best completes the hedged generalisation: 'Students who study in groups ___ to achieve higher grades than those who study alone.'",
+          "options": ["tend", "prove", "insist", "manage"],
+          "answer": 0,
+          "explanation": "'Tend to' expresses a general tendency without claiming that it is always true."
+        },
+        {
+          "id": "c1-u05-l2-q6", "type": "translation", "category": "academic", "topic": "hedging verbs", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English. Begin with 'There' and use 'diet' for 'pola makan'.",
+          "source": "Tampaknya ada hubungan antara pola makan dan kesehatan mental.",
+          "direction": "id-en",
+          "answers": ["There appears to be a link between diet and mental health.", "There seems to be a link between diet and mental health.", "There appears to be a relationship between diet and mental health.", "There seems to be a relationship between diet and mental health.", "There appears to be a connection between diet and mental health.", "There seems to be a connection between diet and mental health.", "There appears to be a correlation between diet and mental health.", "There seems to be a correlation between diet and mental health."],
+          "explanation": "'Tampaknya ada' = 'There appears/seems to be'. The hedging verb is followed by 'to be' because the claim is about existence."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u05-l3-softening-adverbs",
+      "title": "Arguably, Relatively, To Some Extent",
+      "summary": "Soften and limit claims with adverbs and phrases of degree, frequency and probability.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use adverbs such as arguably, relatively, largely and somewhat",
+        "Use limiting phrases such as to some extent, in most cases and under certain conditions",
+        "Avoid over-hedging"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Adverbs as hedges\nAdverbs and adverbial phrases can soften a claim by limiting its **degree**, **frequency**, **scope** or **probability**.\n\n| Type | Hedges | Example |\n|---|---|---|\n| degree | relatively, somewhat, fairly, slightly, largely, partly | The policy has been **relatively** successful. |\n| frequency | often, usually, generally, in most cases, frequently | Symptoms **usually** disappear within a week. |\n| scope | to some extent, to a certain degree, in some respects, under certain conditions | **To some extent**, online learning is as effective as classroom learning. |\n| probability | possibly, probably, presumably, likely | The figures are **probably** underestimated. |\n| quantity | approximately, roughly, around, about | **Approximately** 40% of respondents agreed. |\n| opinion | arguably, apparently | This is **arguably** the most important discovery of the decade. |\n\n### Arguably\n*Arguably* means 'it can reasonably be argued (though not everyone may agree)'. It allows you to make a strong claim while acknowledging that it is debatable: 'Climate change is **arguably** the greatest challenge of our time.'\n\n### Relatively and comparatively\nThese adverbs show that a quality is true **in comparison** with something else: 'a **relatively** low cost' (low compared with alternatives), 'a **comparatively** small sample'.\n\n### Position\n- Before an adjective: 'a **somewhat** surprising result'\n- Before a main verb or after *be*: 'This **largely** depends on funding.' / 'The results are **largely** consistent ...'\n- At the start of the sentence (sentence adverbs and phrases): '**Arguably**, ...', '**To some extent**, ...', '**In most cases**, ...'\n\n### Spelling and form\nNote the fixed form **to some extent** (not *extend*), **to a certain degree**, **in some respects**. These are among the most frequently misspelt academic phrases.\n\n### Over-hedging\nHedging should make a claim accurate, not invisible. Compare:\n- Over-hedged: 'It might possibly be somewhat likely that the results may perhaps suggest a link.'\n- Precise: 'The results suggest a possible link.'\n\nA good rule: one hedge per claim, chosen to fit the evidence.\n\n### Indonesian note\n*Relatif*, *agak*, *sebagian besar*, *sampai batas tertentu* and *bisa dibilang* correspond to *relatively*, *somewhat*, *largely*, *to some extent* and *arguably*. Notice that *bisa dibilang* (arguably) is often used before a strong evaluation, just as in English.",
+        "examples": [
+          { "en": "The new policy has been relatively successful in urban areas.", "id": "Kebijakan baru itu relatif berhasil di wilayah perkotaan.", "note": "Degree, by comparison." },
+          { "en": "To some extent, online learning is as effective as classroom learning.", "id": "Sampai batas tertentu, pembelajaran daring sama efektifnya dengan pembelajaran di kelas.", "note": "Limiting the scope." },
+          { "en": "This is arguably the most important discovery of the decade.", "id": "Ini bisa dibilang penemuan terpenting dalam dekade ini.", "note": "Strong but debatable evaluation." },
+          { "en": "Approximately 40% of respondents supported the proposal.", "id": "Sekitar 40% responden mendukung usulan itu.", "note": "Approximate quantity." }
+        ],
+        "vocabulary": [
+          { "word": "arguably", "pos": "adverb", "ipa": "/ˈɑːɡjuəbli/", "meaning": "bisa dibilang, dapat dikatakan", "example": "She is arguably the best player of her generation." },
+          { "word": "relatively", "pos": "adverb", "ipa": "/ˈrelətɪvli/", "meaning": "relatif, secara relatif", "example": "The project was completed at a relatively low cost." },
+          { "word": "somewhat", "pos": "adverb", "ipa": "/ˈsʌmwɒt/", "meaning": "agak", "example": "The results were somewhat disappointing." },
+          { "word": "largely", "pos": "adverb", "ipa": "/ˈlɑːdʒli/", "meaning": "sebagian besar, umumnya", "example": "The success was largely due to good planning." },
+          { "word": "presumably", "pos": "adverb", "ipa": "/prɪˈzjuːməbli/", "meaning": "diduga, agaknya", "example": "The files were presumably deleted by mistake." },
+          { "word": "respondent", "pos": "noun", "ipa": "/rɪˈspɒndənt/", "meaning": "responden", "example": "Most respondents were under 30." }
+        ],
+        "grammar": [
+          { "pattern": "Adverb of degree + adjective", "example": "a relatively small sample / a somewhat unexpected result", "note": "Softens the strength of the adjective." },
+          { "pattern": "To some extent / In most cases / Arguably, + clause", "example": "In most cases, the symptoms disappear within a week.", "note": "Limits the scope of the whole claim." },
+          { "pattern": "be + largely / partly + adjective / past participle", "example": "The delay was partly caused by bad weather.", "note": "Limits the degree of a cause or quality." }
+        ],
+        "mistakes": [
+          { "wrong": "The results are to some extend consistent with earlier studies.", "right": "The results are to some extent consistent with earlier studies.", "why": "The fixed phrase is 'to some extent' (noun 'extent', not verb 'extend')." },
+          { "wrong": "The cost was relative low.", "right": "The cost was relatively low.", "why": "Use the adverb 'relatively' to modify an adjective." },
+          { "wrong": "It might possibly perhaps be somewhat likely that the drug works.", "right": "The drug may be effective.", "why": "Over-hedging makes the claim unclear." }
+        ],
+        "summary": "Adverbs and phrases such as arguably, relatively, somewhat, largely, approximately, in most cases and to some extent soften claims by limiting degree, scope, frequency or quantity. Use them precisely, spell fixed phrases correctly and avoid stacking hedges.",
+        "reviewCards": [
+          { "front": "arguably", "back": "bisa dibilang (strong but debatable claim)" },
+          { "front": "sampai batas tertentu", "back": "to some extent / to a certain degree" },
+          { "front": "to some ___ (extent / extend?)", "back": "extent" },
+          { "front": "somewhat", "back": "agak (to a moderate degree)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u05-l3-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "softening adverbs", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "Compared with similar schemes in other provinces, the new policy has been **relatively** successful.",
+          "options": ["successful in comparison with others, but not completely", "completely and undeniably successful", "successful only for family members", "not successful at all"],
+          "answer": 0,
+          "explanation": "'Relatively' means 'when compared with something else', so it limits the strength of the claim."
+        },
+        {
+          "id": "c1-u05-l3-q2", "type": "drag_drop", "category": "academic", "topic": "softening adverbs", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the paragraph with appropriate hedging expressions.",
+          "text": "The results are ___ consistent with earlier studies, although there are ___ differences in the data from rural areas. ___, this is the most important finding of the decade, but not every researcher agrees.",
+          "bank": ["largely", "some", "Arguably", "Undoubtedly", "none", "never"],
+          "answers": ["largely", "some", "Arguably"],
+          "explanation": "'Largely consistent' softens the claim; 'some differences' limits the quantity; 'Arguably' introduces a strong but debatable evaluation, which fits 'not every researcher agrees'. 'Undoubtedly' would contradict that clause."
+        },
+        {
+          "id": "c1-u05-l3-q3", "type": "sentence_transformation", "category": "academic", "topic": "softening adverbs", "difficulty": 3, "stage": "independent",
+          "prompt": "Make the claim more cautious using the phrase 'to some extent'.",
+          "sentence": "Online learning is as effective as classroom learning.",
+          "cue": "Include: to some extent",
+          "answers": ["To some extent, online learning is as effective as classroom learning.", "Online learning is, to some extent, as effective as classroom learning.", "Online learning is to some extent as effective as classroom learning.", "Online learning is as effective as classroom learning to some extent."],
+          "explanation": "'To some extent' limits the scope of the claim; it can go at the start of the sentence or after 'is'."
+        },
+        {
+          "id": "c1-u05-l3-q4", "type": "matching", "category": "vocabulary", "topic": "softening adverbs", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each hedging adverb with its meaning.",
+          "pairs": [
+            { "left": "arguably", "right": "it can be argued, though not everyone may agree" },
+            { "left": "approximately", "right": "close to, but not exactly" },
+            { "left": "largely", "right": "mostly, but not completely" },
+            { "left": "presumably", "right": "it is reasonable to suppose" },
+            { "left": "somewhat", "right": "to a moderate degree" }
+          ],
+          "explanation": "Each adverb softens a claim in a different way: by debate, quantity, degree or probability."
+        },
+        {
+          "id": "c1-u05-l3-q5", "type": "error_identification", "category": "vocabulary", "topic": "softening adverbs", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The results are", "to some extend", "consistent with", "previous studies."],
+          "errorIndex": 1,
+          "correction": "to some extent",
+          "explanation": "The fixed phrase uses the noun 'extent': 'to some extent'."
+        },
+        {
+          "id": "c1-u05-l3-q6", "type": "single_choice", "category": "academic", "topic": "over-hedging", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence is over-hedged and therefore unclear?",
+          "options": ["It might possibly perhaps be somewhat likely that the results may suggest a link.", "The results suggest a possible link.", "The results appear to indicate a link.", "There may be a link between the two variables."],
+          "answer": 0,
+          "explanation": "Option 1 stacks five hedges, making the claim almost meaningless. The other sentences use one or two precise hedges."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u05-l4-boosters-hedges",
+      "title": "Boosters vs Hedges",
+      "summary": "Strengthen claims with boosters when the evidence is strong, and balance boosters and hedges in arguments.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Recognise boosters such as clearly, undoubtedly, demonstrate and it is evident that",
+        "Decide when to boost and when to hedge",
+        "Revise overclaiming statements"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The other side of hedging\n**Boosters** do the opposite of hedges: they **increase** the writer's commitment to a claim. Good academic writers use both, matching each claim to the strength of the evidence.\n\n| Hedges (less certain) | Boosters (more certain) |\n|---|---|\n| may, might, could | will, must (logical certainty) |\n| suggest, indicate, appear | demonstrate, show, prove, establish |\n| possibly, perhaps, arguably | clearly, undoubtedly, certainly, definitely |\n| it is possible that | it is evident / clear / well established that |\n| some, in many cases | all, always, in every case |\n| tend to | invariably |\n\n### When to boost\nUse boosters when:\n1. The evidence is **strong and widely accepted**: 'It is **well established** that smoking increases the risk of lung cancer.'\n2. You are reporting your **own clear results**: 'The data **clearly show** a sharp increase in 2022.'\n3. You want to **emphasise** your position in the conclusion of an argument: 'This analysis **demonstrates** that the reform has failed.'\n\n### When to hedge\nHedge when:\n1. The evidence is **limited** (small sample, one study, indirect data).\n2. You are **interpreting** or **speculating** about causes.\n3. You are making a **generalisation** about people or societies.\n\n### The danger of 'prove'\nIn academic writing, *prove* is a very strong booster. Scientific studies rarely 'prove' anything; they **show**, **demonstrate**, **suggest** or **provide evidence for**. Replacing *prove* with *suggest* or *indicate* is one of the most common corrections tutors make in student essays.\n\n### Balancing the two\nA well-written paragraph often combines boosters and hedges: 'The data **clearly show** that sales fell in the second quarter. This decline **may** have been caused by the new competitor, although other factors **are likely** to have contributed.' Here the writer is certain about the facts (the fall in sales) but cautious about the explanation.\n\n### Persuasive language\n*Compelling*, *convincing*, *robust* and *overwhelming* evidence are booster collocations; *limited*, *inconclusive*, *tentative* and *mixed* evidence are hedge collocations.\n\n### Indonesian note\n*Jelas*, *tidak diragukan lagi* and *terbukti* are Indonesian boosters. Be careful translating *terbukti* as 'proven': in English academic writing, 'shown' or 'demonstrated' is often more appropriate.",
+        "examples": [
+          { "en": "It is well established that regular exercise improves cardiovascular health.", "id": "Sudah terbukti secara luas bahwa olahraga teratur meningkatkan kesehatan jantung.", "note": "Booster for widely accepted facts." },
+          { "en": "The data clearly show a sharp increase in 2022.", "id": "Data dengan jelas menunjukkan kenaikan tajam pada tahun 2022.", "note": "Booster for your own clear results." },
+          { "en": "This decline may have been caused by the arrival of a new competitor.", "id": "Penurunan ini mungkin disebabkan oleh kehadiran pesaing baru.", "note": "Hedge for an interpretation." },
+          { "en": "The evidence for this claim remains inconclusive.", "id": "Bukti untuk klaim ini masih belum meyakinkan.", "note": "Hedge collocation." }
+        ],
+        "vocabulary": [
+          { "word": "undoubtedly", "pos": "adverb", "ipa": "/ʌnˈdaʊtɪdli/", "meaning": "tidak diragukan lagi", "example": "This is undoubtedly a significant achievement." },
+          { "word": "compelling", "pos": "adjective", "ipa": "/kəmˈpelɪŋ/", "meaning": "meyakinkan, kuat (bukti)", "example": "There is compelling evidence that the drug works." },
+          { "word": "inconclusive", "pos": "adjective", "ipa": "/ˌɪnkənˈkluːsɪv/", "meaning": "tidak meyakinkan, belum dapat disimpulkan", "example": "The results of the trial were inconclusive." },
+          { "word": "robust", "pos": "adjective", "ipa": "/rəʊˈbʌst/", "meaning": "kuat, kokoh (metode, bukti)", "example": "The study used a robust methodology." },
+          { "word": "demonstrate", "pos": "verb", "ipa": "/ˈdemənstreɪt/", "meaning": "menunjukkan, membuktikan", "example": "The experiment demonstrates the importance of light." }
+        ],
+        "grammar": [
+          { "pattern": "It is clear / evident / well established that + clause", "example": "It is evident that the system needs reform.", "note": "Booster for the whole proposition." },
+          { "pattern": "Subject + clearly / undoubtedly + verb", "example": "The results clearly indicate a trend.", "note": "Adverb booster." },
+          { "pattern": "The evidence is + compelling / robust / limited / inconclusive", "example": "The evidence is limited but promising.", "note": "Evaluating the strength of evidence." }
+        ],
+        "mistakes": [
+          { "wrong": "This small survey proves that all students prefer online classes.", "right": "This small survey suggests that many students prefer online classes.", "why": "A small survey cannot 'prove' a claim about 'all' students; hedge both the verb and the scope." },
+          { "wrong": "It is evident that may be a link.", "right": "It is evident that there is a link.", "why": "The that-clause needs a subject and a complete verb." },
+          { "wrong": "Undoubtedly, the results might possibly be wrong.", "right": "The results might be wrong.", "why": "Mixing a strong booster with hedges in the same claim is contradictory." }
+        ],
+        "summary": "Boosters (clearly, undoubtedly, demonstrate, it is well established that) increase certainty; hedges reduce it. Boost when the evidence is strong or widely accepted; hedge interpretations, generalisations and claims based on limited data. Avoid 'prove' unless the evidence is conclusive.",
+        "reviewCards": [
+          { "front": "Booster or hedge: 'demonstrate'", "back": "Booster" },
+          { "front": "Booster or hedge: 'tend to'", "back": "Hedge" },
+          { "front": "Replace 'prove' cautiously", "back": "suggest / indicate / provide evidence that" },
+          { "front": "inconclusive", "back": "tidak meyakinkan, belum dapat disimpulkan" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u05-l4-q1", "type": "single_choice", "category": "academic", "topic": "boosters and hedges", "difficulty": 2, "stage": "guided",
+          "prompt": "Which word is a BOOSTER (it increases certainty)?",
+          "options": ["undoubtedly", "possibly", "apparently", "somewhat"],
+          "answer": 0,
+          "explanation": "'Undoubtedly' expresses strong certainty. The other three words soften a claim."
+        },
+        {
+          "id": "c1-u05-l4-q2", "type": "multiple_select", "category": "academic", "topic": "boosters and hedges", "difficulty": 3, "stage": "independent",
+          "prompt": "Select ALL the boosters.",
+          "options": ["clearly", "arguably", "demonstrate", "tend to", "it is evident that", "may"],
+          "answers": [0, 2, 4],
+          "explanation": "'Clearly', 'demonstrate' and 'it is evident that' increase certainty. 'Arguably', 'tend to' and 'may' are hedges."
+        },
+        {
+          "id": "c1-u05-l4-q3", "type": "sentence_transformation", "category": "academic", "topic": "boosters and hedges", "difficulty": 3, "stage": "independent",
+          "prompt": "This claim is based on one small study. Replace the overclaiming verb with a more cautious verb.",
+          "sentence": "The study proves that the vaccine is safe.",
+          "cue": "Begin with: The study",
+          "answers": ["The study suggests that the vaccine is safe.", "The study indicates that the vaccine is safe.", "The study suggests the vaccine is safe.", "The study indicates the vaccine is safe.", "The study suggests that the vaccine may be safe."],
+          "explanation": "'Prove' is too strong for a single small study. 'Suggest' or 'indicate' reports the evidence with appropriate caution."
+        },
+        {
+          "id": "c1-u05-l4-q4", "type": "dialogue_completion", "category": "academic", "topic": "boosters and hedges", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best response in this tutorial.",
+          "dialogue": [
+            { "speaker": "Tutor", "text": "Your essay says 'video games cause violence'. Is that justified by the studies you cite?" },
+            { "speaker": "Student", "text": null },
+            { "speaker": "Tutor", "text": "Exactly. That's a much more defensible claim." }
+          ],
+          "options": ["Perhaps not. I should say that some studies suggest a possible link between violent games and aggression.", "Yes, everyone knows video games definitely cause violence.", "No, video games clearly never affect behaviour in any way.", "Perhaps not. I should say that video games always cause violence."],
+          "answer": 0,
+          "explanation": "The first option hedges the claim ('some studies', 'suggest', 'possible link'), matching the limited evidence. The others overclaim in one direction or the other."
+        },
+        {
+          "id": "c1-u05-l4-q5", "type": "dropdown", "category": "academic", "topic": "boosters and hedges", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the most appropriate expression for each claim.",
+          "text": "It is ___ that the earth orbits the sun. However, it is only ___ that the new policy will reduce traffic, as it has not yet been tested.",
+          "choices": [["well established", "possible", "arguable"], ["possible", "undeniable", "proven"]],
+          "answers": [0, 0],
+          "explanation": "A universally accepted scientific fact takes a booster ('well established'); an untested prediction takes a hedge ('possible')."
+        },
+        {
+          "id": "c1-u05-l4-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "evidence vocabulary", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "After decades of research, the evidence is **compelling**: smoking significantly increases the risk of lung cancer.",
+          "options": ["so strong that it convinces you", "weak and unconvincing", "surprising but irrelevant", "difficult to obtain"],
+          "answer": 0,
+          "explanation": "'Compelling' evidence is strong enough to persuade; it is a typical booster collocation."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u05-l5-reporting-research",
+      "title": "Reporting Research Findings",
+      "summary": "Use the vocabulary of research and hedged language to report results, correlations and limitations accurately.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use key research vocabulary such as hypothesis, sample, correlation and limitation",
+        "Distinguish correlation from causation in reporting",
+        "Write a cautious conclusion that acknowledges limitations"
+      ],
+      "completionCriteria": "Read all sections, complete the writing task and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The language of research\nReporting research requires precise vocabulary and careful hedging. The following terms appear in almost every research report:\n\n| Term | Meaning |\n|---|---|\n| hypothesis | an idea or prediction that is tested |\n| sample / participants | the people or items studied |\n| variable | a factor that can change or be measured |\n| correlation | a statistical connection between two variables |\n| findings / results | what the study found |\n| significant | (statistics) unlikely to be due to chance |\n| limitation | a weakness that restricts the conclusions |\n| implication | a possible consequence of the findings |\n\n### Correlation is not causation\nOne of the most important principles in research reporting is that a **correlation** (two things happening together) does not prove **causation** (one causing the other). Compare:\n- Overclaiming: 'Drinking coffee prevents depression.'\n- Accurate: 'Higher coffee consumption **was associated with** lower rates of depression.'\n\nUseful phrases: *was associated with*, *was linked to*, *was correlated with*, *there was a relationship between*.\n\n### Reporting results: tense and hedging\n- Describe what **you did and found** in the **past simple**: 'Participants **completed** a questionnaire.' / 'Scores **were** higher in group A.'\n- Interpret results in the **present** with hedges: 'This **suggests** that ...', 'One possible explanation **is** that ...'.\n\n### Acknowledging limitations\nStrong writers point out the weaknesses of their own research. This increases, rather than reduces, their credibility:\n- 'The sample was **relatively small** and drawn from a single city.'\n- 'The findings should therefore be **interpreted with caution**.'\n- '**Further research** is needed to establish whether ...'\n- 'It **cannot be ruled out** that other factors influenced the results.'\n\n### A model hedged conclusion\n'Overall, the findings **suggest** that regular physical activity **may** reduce stress levels among university students. However, as the sample was **relatively small**, these results should be **interpreted with caution**. **Further research** with larger and more diverse samples is needed to confirm this relationship.'\n\n### Grammar note: findings and data\n*Findings* and *results* are plural: 'The findings **suggest** ...' (not *suggests*). *Data* can be plural or singular; *research* is uncountable ('research **shows**', not '*researches show*').\n\n### Indonesian note\nIndonesian theses often use *membuktikan* ('prove') where English would use *suggest* or *indicate*. Also note *penelitian* is usually 'research' (uncountable) or 'a study' (countable): 'two studies', not '*two researches*'.",
+        "examples": [
+          { "en": "Higher coffee consumption was associated with lower rates of depression.", "id": "Konsumsi kopi yang lebih tinggi dikaitkan dengan tingkat depresi yang lebih rendah.", "note": "Correlation, not causation." },
+          { "en": "The findings suggest that regular exercise may reduce stress among students.", "id": "Temuan ini menunjukkan bahwa olahraga teratur dapat mengurangi stres di kalangan mahasiswa.", "note": "Hedged interpretation." },
+          { "en": "As the sample was relatively small, the results should be interpreted with caution.", "id": "Karena sampelnya relatif kecil, hasilnya harus ditafsirkan dengan hati-hati.", "note": "Acknowledging a limitation." },
+          { "en": "Further research is needed to establish whether the effect is long-lasting.", "id": "Penelitian lebih lanjut diperlukan untuk memastikan apakah efeknya bertahan lama.", "note": "Typical final sentence." }
+        ],
+        "vocabulary": [
+          { "word": "hypothesis", "pos": "noun", "ipa": "/haɪˈpɒθəsɪs/", "meaning": "hipotesis", "example": "The results supported the original hypothesis." },
+          { "word": "correlation", "pos": "noun", "ipa": "/ˌkɒrəˈleɪʃn/", "meaning": "korelasi, hubungan timbal balik", "example": "There was a strong correlation between income and health." },
+          { "word": "limitation", "pos": "noun", "ipa": "/ˌlɪmɪˈteɪʃn/", "meaning": "keterbatasan", "example": "One limitation of the study was its small sample." },
+          { "word": "significant", "pos": "adjective", "ipa": "/sɪɡˈnɪfɪkənt/", "meaning": "signifikan (secara statistik); penting", "example": "The difference was statistically significant." },
+          { "word": "rule out", "pos": "phrasal verb", "ipa": "/ruːl aʊt/", "meaning": "mengesampingkan kemungkinan", "example": "Other explanations cannot be ruled out." },
+          { "word": "participant", "pos": "noun", "ipa": "/pɑːˈtɪsɪpənt/", "meaning": "peserta, partisipan", "example": "All participants gave written consent." }
+        ],
+        "grammar": [
+          { "pattern": "X was associated with / linked to / correlated with Y", "example": "Screen time was linked to poorer sleep.", "note": "Reporting a correlation without claiming cause." },
+          { "pattern": "The findings / results + suggest / indicate + that + hedged clause", "example": "The results indicate that the method may be effective.", "note": "'findings' and 'results' are plural." },
+          { "pattern": "... should be interpreted with caution / Further research is needed to ...", "example": "Further research is needed to confirm these findings.", "note": "Acknowledging limitations." }
+        ],
+        "mistakes": [
+          { "wrong": "The findings suggests that stress affects sleep.", "right": "The findings suggest that stress may affect sleep.", "why": "'Findings' is plural, and an interpretation should be hedged." },
+          { "wrong": "Two researches were conducted in Jakarta.", "right": "Two studies were conducted in Jakarta.", "why": "'Research' is uncountable; use 'studies' for countable meaning." },
+          { "wrong": "Our survey proves that coffee prevents depression.", "right": "Our survey found that coffee consumption was associated with lower rates of depression.", "why": "A survey shows correlation, not causation, and cannot 'prove' a claim." }
+        ],
+        "summary": "Report research with precise vocabulary (hypothesis, sample, correlation, limitation), describe results in the past simple and interpret them in the present with hedges. Report correlations as associations, not causes, acknowledge limitations and call for further research.",
+        "reviewCards": [
+          { "front": "Correlation vs causation", "back": "Correlation = things occur together; causation = one causes the other." },
+          { "front": "Reporting a correlation", "back": "X was associated with / linked to Y." },
+          { "front": "research (countable?)", "back": "Uncountable: 'research shows', 'two studies'." },
+          { "front": "interpreted with ___", "back": "caution" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u05-l5-q1", "type": "matching", "category": "academic", "topic": "research vocabulary", "difficulty": 2, "stage": "guided",
+          "prompt": "Match each research term with its definition.",
+          "pairs": [
+            { "left": "hypothesis", "right": "an idea or prediction that is tested through research" },
+            { "left": "sample", "right": "the group of people or items that is studied" },
+            { "left": "correlation", "right": "a statistical connection between two variables" },
+            { "left": "findings", "right": "the results of a study" },
+            { "left": "limitation", "right": "a weakness that restricts the conclusions" }
+          ],
+          "explanation": "These are core terms for reading and writing research reports."
+        },
+        {
+          "id": "c1-u05-l5-q2", "type": "essay", "category": "writing", "topic": "hedged conclusion", "difficulty": 4, "stage": "independent",
+          "prompt": "A study of 80 university students in one city found that students who slept at least seven hours a night had higher exam scores than those who slept less. Write the conclusion paragraph of the report. Summarise the finding with appropriate hedging, mention at least one limitation, and suggest further research.",
+          "minWords": 100,
+          "maxWords": 160,
+          "rubric": "academic-conclusion",
+          "explanation": "A strong conclusion reports the association (not causation), uses hedges such as 'suggest' and 'may', mentions limitations such as the small sample and single location, and recommends further research with larger or more diverse samples."
+        },
+        {
+          "id": "c1-u05-l5-q3", "type": "fill_blank", "category": "academic", "topic": "reporting research", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with one word in each gap.",
+          "text": "Although the differences ___ statistically significant, the sample was relatively small, so the findings should be interpreted with ___.",
+          "answers": [["were"], ["caution", "care"]],
+          "explanation": "Results are reported in the past simple ('were'), and 'interpreted with caution' is the standard phrase for acknowledging a limitation."
+        },
+        {
+          "id": "c1-u05-l5-q4", "type": "single_choice", "category": "academic", "topic": "correlation and causation", "difficulty": 3, "stage": "quiz",
+          "prompt": "A survey found that people who drank more coffee reported fewer symptoms of depression. Which sentence reports this finding accurately?",
+          "options": ["Higher coffee consumption was associated with fewer symptoms of depression.", "Drinking coffee prevents depression.", "Coffee has been proven to stop depression.", "Depression is caused by not drinking coffee."],
+          "answer": 0,
+          "explanation": "A survey shows a correlation, so the accurate report uses 'was associated with'. The other options claim causation or proof."
+        },
+        {
+          "id": "c1-u05-l5-q5", "type": "sentence_transformation", "category": "academic", "topic": "reporting research", "difficulty": 4, "stage": "quiz",
+          "prompt": "Rewrite the overclaiming sentence cautiously.",
+          "sentence": "Our research proves that bilingual children are better at problem-solving.",
+          "cue": "Begin with: Our findings suggest",
+          "answers": ["Our findings suggest that bilingual children may be better at problem-solving.", "Our findings suggest that bilingual children may be better at problem solving.", "Our findings suggest bilingual children may be better at problem-solving.", "Our findings suggest that bilingual children might be better at problem-solving.", "Our findings suggest that bilingual children tend to be better at problem-solving.", "Our findings suggest that bilingual children tend to be better at problem solving.", "Our findings suggest that bilingual children are better at problem-solving.", "Our findings suggest that bilingual children are better at problem solving.", "Our findings suggest that bilingual children could be better at problem-solving."],
+          "explanation": "'Proves' is replaced by 'suggest', and a modal such as 'may' or 'tend to' can further soften the claim."
+        },
+        {
+          "id": "c1-u05-l5-q6", "type": "error_identification", "category": "grammar", "topic": "reporting research", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The findings", "suggests", "that stress levels", "may affect sleep quality."],
+          "errorIndex": 1,
+          "correction": "suggest",
+          "explanation": "'Findings' is a plural noun, so the verb must be 'suggest'."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u05-t-q1", "type": "single_choice", "category": "academic", "topic": "hedging verbs", "difficulty": 3, "stage": "unit_test",
+      "prompt": "The evidence comes from a single pilot study. Which option best completes the sentence? 'The results ___ that the intervention was successful.'",
+      "options": ["appear to indicate", "prove beyond doubt", "make it obvious", "guarantee"],
+      "answer": 0,
+      "explanation": "With limited evidence, a hedged expression such as 'appear to indicate' is appropriate. The other options overclaim."
+    },
+    {
+      "id": "c1-u05-t-q2", "type": "sentence_transformation", "category": "academic", "topic": "hedging verbs", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it means the same.",
+      "sentence": "It seems that the virus has mutated.",
+      "cue": "Begin with: The virus",
+      "answers": ["The virus seems to have mutated."],
+      "explanation": "The mutation happened before now, so 'seem' is followed by the perfect infinitive 'to have mutated'."
+    },
+    {
+      "id": "c1-u05-t-q3", "type": "multiple_select", "category": "academic", "topic": "boosters and hedges", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Select ALL the hedging expressions.",
+      "options": ["arguably", "definitely", "tend to", "approximately", "it is clear that", "may"],
+      "answers": [0, 2, 3, 5],
+      "explanation": "'Arguably', 'tend to', 'approximately' and 'may' soften claims. 'Definitely' and 'it is clear that' are boosters."
+    },
+    {
+      "id": "c1-u05-t-q4", "type": "fill_blank", "category": "academic", "topic": "hedging verbs", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the generalisation with ONE word.",
+      "text": "In most countries, women ___ to live longer than men.",
+      "answers": [["tend"]],
+      "explanation": "'Tend to' expresses a general tendency rather than a rule without exceptions."
+    },
+    {
+      "id": "c1-u05-t-q5", "type": "error_identification", "category": "grammar", "topic": "hedging verbs", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["The new method", "appears to being", "more efficient", "than the old one."],
+      "errorIndex": 1,
+      "correction": "appears to be",
+      "explanation": "'Appear' is followed by a to-infinitive: 'appears to be'."
+    },
+    {
+      "id": "c1-u05-t-q6", "type": "translation", "category": "academic", "topic": "reporting research", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English using the verb 'suggest' and the modal 'may'.",
+      "source": "Hasil penelitian menunjukkan bahwa olahraga dapat mengurangi stres.",
+      "direction": "id-en",
+      "answers": ["The research results suggest that exercise may reduce stress.", "The results of the research suggest that exercise may reduce stress.", "The research findings suggest that exercise may reduce stress.", "The findings of the research suggest that exercise may reduce stress.", "The results of the study suggest that exercise may reduce stress.", "The study results suggest that exercise may reduce stress.", "The study's results suggest that exercise may reduce stress.", "The study's findings suggest that exercise may reduce stress.", "Research results suggest that exercise may reduce stress.", "Research findings suggest that exercise may reduce stress.", "The research suggests that exercise may reduce stress.", "Research suggests that exercise may reduce stress.", "The results suggest that exercise may reduce stress.", "The findings suggest that exercise may reduce stress.", "The research results suggest exercise may reduce stress.", "The results of the research suggest exercise may reduce stress."],
+      "explanation": "'Menunjukkan' is rendered cautiously as 'suggest', and 'dapat' as 'may'. Note that 'results' and 'findings' are plural, while 'research' is uncountable and takes 'suggests'."
+    },
+    {
+      "id": "c1-u05-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "evidence vocabulary", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the meaning of the word in bold.",
+      "context": "Although some newspapers reported a breakthrough, the link between the supplement and improved memory is **tenuous** at best.",
+      "options": ["weak and uncertain", "strong and proven", "recently discovered", "officially recognised"],
+      "answer": 0,
+      "explanation": "'Tenuous' means very weak or slight. 'At best' reinforces the idea that the link is not convincing."
+    }
+  ]
+}

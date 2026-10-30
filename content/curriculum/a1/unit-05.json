@@ -1,0 +1,621 @@
+{
+  "slug": "a1-u05-routines",
+  "number": 5,
+  "title": "Daily Routines",
+  "description": "Unit ini mengajarkan present simple bentuk positif untuk membicarakan kebiasaan dan rutinitas harian: kata kerja dasar untuk I/you/we/they, tambahan -s/-es untuk he/she/it, aturan ejaannya, adverbs of frequency (always, usually, often, sometimes, never), dan kosakata kegiatan sehari-hari.",
+  "objectives": [
+    "Membuat kalimat present simple positif untuk semua subjek",
+    "Menambahkan -s, -es, atau -ies dengan ejaan yang benar untuk he/she/it",
+    "Menempatkan adverbs of frequency di posisi yang tepat",
+    "Menceritakan rutinitas harian secara berurutan dengan first, then, after that, finally"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u05-l1-present-simple-i-you",
+      "title": "Present Simple: I, You, We, They",
+      "summary": "Memakai kata kerja bentuk dasar untuk membicarakan kebiasaan dengan subjek I, you, we, dan they.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memahami kapan present simple dipakai",
+        "Membuat kalimat positif dengan I/you/we/they + kata kerja dasar",
+        "Memakai keterangan waktu seperti every day dan on Mondays"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu present simple?\n**Present simple** dipakai untuk membicarakan hal yang **rutin, berulang, atau selalu benar**:\n- **Kebiasaan/rutinitas**: *I get up at six every day.*\n- **Fakta tentang diri kita**: *We live in Bandung.*\n- **Jadwal tetap**: *You start work at 8 a.m.*\n\nDalam bahasa Indonesia, kata kerja tidak berubah: *saya bekerja, dia bekerja, mereka bekerja*. Dalam bahasa Inggris, bentuk kata kerja present simple **bergantung pada subjeknya**. Di pelajaran ini kita mulai dari subjek yang paling mudah: **I, you, we, they**.\n\n### Rumus\n| Subjek | Kata kerja | Contoh |\n| --- | --- | --- |\n| I | bentuk dasar | I **work** in a bank. |\n| you | bentuk dasar | You **speak** English well. |\n| we | bentuk dasar | We **have** breakfast at 6.30. |\n| they | bentuk dasar | They **live** near the park. |\n| dua nama/orang | bentuk dasar | Rina and Tono **study** at night. |\n\nBentuk dasar artinya kata kerja **tanpa tambahan apa pun**: *work, live, eat, drink, go, have, study, watch*.\n\n### Jangan pakai am/is/are dengan kata kerja lain\nKesalahan paling umum pelajar Indonesia adalah menambahkan *am/is/are* sebelum kata kerja, misalnya ~~I am work~~ atau ~~They are live~~. Di Unit 1 kita belajar bahwa *to be* dipakai sebelum kata sifat, tempat, atau kata benda (*I am happy*). Tetapi jika kalimat sudah punya kata kerja seperti *work* atau *live*, **jangan** tambahkan *am/is/are*.\n\n### Keterangan waktu yang sering dipakai\n| Ungkapan | Arti |\n| --- | --- |\n| every day / every morning | setiap hari / setiap pagi |\n| on Mondays / on Sundays | setiap hari Senin / Minggu |\n| at the weekend | di akhir pekan |\n| at 7 o'clock | pada pukul 7 |\n| in the morning / evening | di pagi / malam hari |\n\nKeterangan waktu biasanya diletakkan **di akhir kalimat**: *We watch TV every evening.* Bisa juga di awal kalimat untuk penekanan: *Every evening, we watch TV.*\n\n### Kata kerja rutinitas yang berguna\n*get up* (bangun dari tempat tidur), *have breakfast* (sarapan), *go to work/school* (pergi bekerja/sekolah), *start* (mulai), *finish* (selesai), *watch TV* (menonton TV), *live* (tinggal), *work* (bekerja), *study* (belajar).",
+        "examples": [
+          { "en": "I get up at 5.30 every day.", "id": "Saya bangun pukul 5.30 setiap hari." },
+          { "en": "We have breakfast at home.", "id": "Kami sarapan di rumah." },
+          { "en": "They live in a small house near the river.", "id": "Mereka tinggal di rumah kecil dekat sungai." },
+          { "en": "You speak English very well.", "id": "Kamu berbicara bahasa Inggris dengan sangat baik." },
+          { "en": "My parents work in a hospital.", "id": "Orang tua saya bekerja di rumah sakit.", "note": "My parents = they, jadi kata kerja tetap bentuk dasar." }
+        ],
+        "vocabulary": [
+          { "word": "get up", "pos": "phrasal verb", "ipa": "/ˌɡet ˈʌp/", "meaning": "bangun (dari tempat tidur)", "example": "I get up at six." },
+          { "word": "breakfast", "pos": "noun", "ipa": "/ˈbrekfəst/", "meaning": "sarapan", "example": "We have breakfast at seven." },
+          { "word": "work", "pos": "verb", "ipa": "/wɜːk/", "meaning": "bekerja", "example": "They work in an office." },
+          { "word": "live", "pos": "verb", "ipa": "/lɪv/", "meaning": "tinggal, hidup", "example": "I live in Semarang." },
+          { "word": "study", "pos": "verb", "ipa": "/ˈstʌdi/", "meaning": "belajar", "example": "We study English on Tuesdays." },
+          { "word": "watch", "pos": "verb", "ipa": "/wɒtʃ/", "meaning": "menonton", "example": "You watch TV every evening." },
+          { "word": "every day", "pos": "phrase", "ipa": "/ˌevri ˈdeɪ/", "meaning": "setiap hari", "example": "I drink water every day." }
+        ],
+        "grammar": [
+          { "pattern": "I / You / We / They + kata kerja dasar", "example": "We work from Monday to Friday." },
+          { "pattern": "Subjek + kata kerja + keterangan waktu", "example": "They go to school at 7 a.m.", "note": "Keterangan waktu biasanya di akhir kalimat." },
+          { "pattern": "to be + kata sifat/tempat (bukan + kata kerja)", "example": "I am tired. / I work hard.", "note": "Jangan gabungkan am/is/are dengan kata kerja present simple." }
+        ],
+        "mistakes": [
+          { "wrong": "I am work in a bank.", "right": "I work in a bank.", "why": "Kalimat sudah punya kata kerja work, jadi am tidak diperlukan." },
+          { "wrong": "They are live in Bogor.", "right": "They live in Bogor.", "why": "Live adalah kata kerja; jangan tambahkan are." },
+          { "wrong": "We every day watch TV.", "right": "We watch TV every day.", "why": "Every day biasanya diletakkan di akhir (atau awal) kalimat, bukan di antara subjek dan kata kerja." }
+        ],
+        "summary": "Present simple dipakai untuk **kebiasaan, rutinitas, dan fakta**. Dengan **I, you, we, they** (dan dua nama atau lebih), gunakan **kata kerja bentuk dasar**: *I work, we live, they study*. **Jangan** tambahkan am/is/are sebelum kata kerja. Letakkan keterangan waktu seperti **every day** di akhir kalimat.",
+        "reviewCards": [
+          { "front": "Saya tinggal di Bandung.", "back": "I live in Bandung. (bukan I am live)" },
+          { "front": "Kapan present simple dipakai?", "back": "Untuk kebiasaan, rutinitas, fakta, dan jadwal tetap." },
+          { "front": "I / you / we / they + ?", "back": "kata kerja bentuk dasar: work, live, go, have" },
+          { "front": "get up", "back": "bangun dari tempat tidur" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u05-l1-q1", "type": "single_choice", "category": "grammar", "topic": "present simple affirmative",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "I ___ to school at 7 a.m. every day.",
+          "instructions": "Dengan subjek I, gunakan kata kerja bentuk dasar.",
+          "options": ["go", "goes", "am go"],
+          "answer": 0,
+          "explanation": "Subjek I memakai kata kerja bentuk dasar: I go. Am tidak boleh dipakai sebelum kata kerja go.",
+          "misconception": "Menambahkan am sebelum kata kerja."
+        },
+        {
+          "id": "a1-u05-l1-q2", "type": "drag_drop", "category": "grammar", "topic": "present simple affirmative",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Drag the correct verbs into the gaps.",
+          "text": "We ___ breakfast at 6.30. Then we ___ to the office.",
+          "bank": ["have", "go", "has", "goes", "drink"],
+          "answers": ["have", "go"],
+          "explanation": "We memakai kata kerja bentuk dasar: have breakfast (sarapan) dan go to the office (pergi ke kantor). Has dan goes untuk he/she/it."
+        },
+        {
+          "id": "a1-u05-l1-q3", "type": "translation", "category": "grammar", "topic": "present simple affirmative",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Mereka tinggal di Bandung.",
+          "direction": "id-en",
+          "answers": ["They live in Bandung."],
+          "explanation": "Mereka = They, tinggal = live (bentuk dasar karena subjeknya they). Tidak perlu are."
+        },
+        {
+          "id": "a1-u05-l1-q4", "type": "error_identification", "category": "grammar", "topic": "present simple affirmative",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["I", "am work", "in a bank", "in Jakarta."],
+          "errorIndex": 1,
+          "correction": "work",
+          "explanation": "Work sudah merupakan kata kerja, jadi am harus dihapus: I work in a bank in Jakarta."
+        },
+        {
+          "id": "a1-u05-l1-q5", "type": "word_order", "category": "grammar", "topic": "present simple affirmative",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["We", "watch", "TV", "every", "evening"],
+          "acceptedAnswers": ["Every evening we watch TV"],
+          "explanation": "Pola: subjek (We) + kata kerja (watch) + objek (TV) + keterangan waktu (every evening)."
+        },
+        {
+          "id": "a1-u05-l1-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "daily routines",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "My alarm rings at 5.30 a.m. I ___ and go to the bathroom.",
+          "options": ["get up", "go to bed", "have dinner"],
+          "answer": 0,
+          "explanation": "Setelah alarm berbunyi di pagi hari, kita bangun dari tempat tidur = get up."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u05-l2-third-person-s",
+      "title": "Present Simple: He, She, It",
+      "summary": "Menambahkan -s pada kata kerja present simple untuk subjek he, she, it, dan satu nama.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menambahkan -s pada kata kerja untuk he/she/it",
+        "Membedakan subjek tunggal dan jamak dalam present simple",
+        "Menghindari kesalahan umum lupa -s"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Aturan terpenting present simple\nDalam present simple, jika subjeknya **he, she, it** atau **satu orang/benda**, kata kerja mendapat tambahan **-s**:\n- *I work* → *She work**s***\n- *We live* → *He live**s***\n- *They start* → *The class start**s***\n\nAturan ini sering dilupakan oleh pelajar Indonesia karena bahasa Indonesia tidak mengubah kata kerja. Ingatlah: **satu orang/benda + kata kerja-s**.\n\n### Tabel perbandingan\n| Subjek | Kata kerja | Contoh |\n| --- | --- | --- |\n| I / you / we / they | work | They **work** in a hotel. |\n| he / she / it | work**s** | She **works** in a hotel. |\n| Rina (satu nama) | work**s** | Rina **works** in a hotel. |\n| my father (satu orang) | work**s** | My father **works** in a hotel. |\n| Rina and Dodi (dua orang) | work | Rina and Dodi **work** in a hotel. |\n| the shop (satu benda) | open**s** | The shop **opens** at 9. |\n\n### Bagaimana mengenali subjek tunggal?\nTanyakan pada diri sendiri: *Bisakah subjek ini diganti dengan he, she, atau it?*\n- *My sister* → she → **reads**\n- *Mr. Lim* → he → **drives**\n- *The bus* → it → **leaves**\n- *My friends* → they → **play** (tanpa -s!)\n\nHati-hati: -s **tidak** ditambahkan pada kata benda jamak dalam hal ini. -s pada kata kerja justru menandakan subjek **tunggal**.\n\n### Satu kata kerja saja yang berubah\nJika ada dua kata kerja yang dihubungkan dengan *and*, keduanya mendapat -s: *She **gets** up and **drinks** water.*\n\n### Bunyi -s\n| Bunyi | Contoh |\n| --- | --- |\n| /s/ | works, starts, drinks, eats |\n| /z/ | lives, reads, plays, opens |\n\nDi pelajaran berikutnya kita akan mempelajari kata kerja yang mendapat **-es** atau **-ies** (watches, studies) dan bentuk tidak beraturan seperti **has** dan **goes**.",
+        "examples": [
+          { "en": "She works in a hospital.", "id": "Dia (perempuan) bekerja di rumah sakit." },
+          { "en": "My father drinks coffee every morning.", "id": "Ayah saya minum kopi setiap pagi." },
+          { "en": "The shop opens at 9 a.m.", "id": "Toko itu buka pukul 9 pagi." },
+          { "en": "Mr. Lim drives a taxi.", "id": "Pak Lim mengemudikan taksi." },
+          { "en": "My friends play football on Sundays.", "id": "Teman-teman saya bermain sepak bola setiap hari Minggu.", "note": "My friends = they, jadi tanpa -s." }
+        ],
+        "vocabulary": [
+          { "word": "drink", "pos": "verb", "ipa": "/drɪŋk/", "meaning": "minum", "example": "He drinks tea." },
+          { "word": "read", "pos": "verb", "ipa": "/riːd/", "meaning": "membaca", "example": "She reads every night." },
+          { "word": "drive", "pos": "verb", "ipa": "/draɪv/", "meaning": "mengemudi", "example": "My uncle drives a bus." },
+          { "word": "start", "pos": "verb", "ipa": "/stɑːt/", "meaning": "mulai", "example": "The lesson starts at 8." },
+          { "word": "open", "pos": "verb", "ipa": "/ˈəʊpən/", "meaning": "buka, membuka", "example": "The bank opens at 8 a.m." },
+          { "word": "sleep", "pos": "verb", "ipa": "/sliːp/", "meaning": "tidur", "example": "My cat sleeps on the sofa." },
+          { "word": "hospital", "pos": "noun", "ipa": "/ˈhɒspɪtl/", "meaning": "rumah sakit", "example": "She works in a hospital." }
+        ],
+        "grammar": [
+          { "pattern": "He / She / It + kata kerja + -s", "example": "It starts at 7 p.m." },
+          { "pattern": "Satu nama / satu orang + kata kerja + -s", "example": "Dina reads a lot." },
+          { "pattern": "Dua orang atau lebih + kata kerja dasar", "example": "Dina and Ali read a lot." }
+        ],
+        "mistakes": [
+          { "wrong": "She work in a hotel.", "right": "She works in a hotel.", "why": "Subjek she memerlukan -s pada kata kerja." },
+          { "wrong": "My brothers plays games.", "right": "My brothers play games.", "why": "My brothers = they (jamak), jadi kata kerjanya tanpa -s." },
+          { "wrong": "He is drinks coffee.", "right": "He drinks coffee.", "why": "Jangan tambahkan is sebelum kata kerja present simple." }
+        ],
+        "summary": "Untuk **he, she, it** dan **satu orang/benda**, tambahkan **-s** pada kata kerja: *she works, the shop opens, my father drinks*. Untuk **I, you, we, they** dan subjek jamak, pakai **bentuk dasar**. Uji subjek dengan menggantinya memakai he/she/it atau they.",
+        "reviewCards": [
+          { "front": "She ___ (work) in a bank.", "back": "works" },
+          { "front": "My parents ___ (live) in Solo.", "back": "live (my parents = they)" },
+          { "front": "The film ___ (start) at 8.", "back": "starts (the film = it)" },
+          { "front": "Tanda subjek tunggal di present simple", "back": "kata kerja + -s" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u05-l2-q1", "type": "dropdown", "category": "grammar", "topic": "present simple third person",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct verbs.",
+          "instructions": "Satu orang → -s; dua orang atau lebih → bentuk dasar.",
+          "text": "Dina ___ in a hospital. Her brothers ___ in a hotel.",
+          "choices": [["work", "works"], ["work", "works"]],
+          "answers": [1, 0],
+          "explanation": "Dina = she → works. Her brothers = they → work."
+        },
+        {
+          "id": "a1-u05-l2-q2", "type": "fill_blank", "category": "grammar", "topic": "present simple third person",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Write the correct form of the verb in brackets.",
+          "text": "My father ___ (drink) coffee every morning. My sisters ___ (drink) milk.",
+          "answers": [["drinks"], ["drink"]],
+          "explanation": "My father = he → drinks. My sisters = they → drink (tanpa -s)."
+        },
+        {
+          "id": "a1-u05-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "present simple third person",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Rewrite the sentence with the new subject.",
+          "sentence": "I work in an office.",
+          "cue": "Begin with: Mr. Lim ...",
+          "answers": ["Mr. Lim works in an office.", "Mr Lim works in an office."],
+          "explanation": "Mr. Lim = he, jadi work menjadi works."
+        },
+        {
+          "id": "a1-u05-l2-q4", "type": "single_choice", "category": "grammar", "topic": "present simple third person",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["She live in Medan.", "She lives in Medan.", "She is live in Medan.", "She is lives in Medan."],
+          "answer": 1,
+          "explanation": "She + kata kerja-s: She lives in Medan. Tidak perlu is."
+        },
+        {
+          "id": "a1-u05-l2-q5", "type": "sentence_correction", "category": "grammar", "topic": "present simple third person",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "The film start at 7 p.m.",
+          "answers": ["The film starts at 7 p.m.", "The film starts at 7 pm.", "The film starts at seven p.m."],
+          "explanation": "The film = it, jadi start menjadi starts."
+        },
+        {
+          "id": "a1-u05-l2-q6", "type": "multiple_select", "category": "grammar", "topic": "present simple third person",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": ["Tom plays football on Sundays.", "We drinks tea every day.", "My cat sleeps on the sofa.", "They lives near the park.", "Sara reads before bed."],
+          "answers": [0, 2, 4],
+          "explanation": "Tom, my cat, dan Sara adalah subjek tunggal + -s (benar). We dan they tidak memakai -s, jadi We drinks dan They lives salah."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u05-l3-spelling-s-es",
+      "title": "Spelling: -s, -es, -ies, has, goes, does",
+      "summary": "Aturan ejaan kata kerja untuk he/she/it: kapan menambahkan -s, -es, atau -ies, serta bentuk tidak beraturan has, goes, does.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menambahkan -es pada kata kerja yang berakhiran -s, -sh, -ch, -x, -o",
+        "Mengubah -y menjadi -ies setelah huruf mati",
+        "Menggunakan has, goes, dan does dengan benar"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tidak semua kata kerja cukup ditambah -s\nDi pelajaran sebelumnya kita belajar bahwa he/she/it memerlukan **-s**. Tetapi beberapa kata kerja mengikuti aturan ejaan khusus. Aturannya hanya sedikit dan mudah dihafal.\n\n### Aturan ejaan\n| Akhiran kata kerja | Aturan | Contoh |\n| --- | --- | --- |\n| kebanyakan kata kerja | + s | work → works, read → reads |\n| -s, -ss, -sh, -ch, -x | + es | miss → misses, wash → washes, watch → watches, fix → fixes |\n| -o | + es | go → goes, do → does |\n| huruf mati + y | y → ies | study → studies, cry → cries, carry → carries |\n| huruf vokal + y | + s | play → plays, buy → buys, say → says |\n| have | tidak beraturan | have → **has** |\n\n### Mengapa -es?\nKata seperti *watch* atau *wash* sudah berakhir dengan bunyi desis. Menambahkan *-s* saja sulit diucapkan, jadi kita menambahkan **-es** yang dibaca **/ɪz/**: *watches* /ˈwɒtʃɪz/, *washes* /ˈwɒʃɪz/.\n\n### Huruf y: lihat huruf sebelumnya\n- **study**: sebelum y ada huruf mati **d** → *studies*\n- **play**: sebelum y ada huruf vokal **a** → *plays*\n\n### Tiga kata kerja penting yang tidak beraturan\n- **have → has**: *She **has** a cat.* (bukan ~~haves~~)\n- **go → goes**: *He **goes** to work by bus.*\n- **do → does**: *My brother **does** his homework after dinner.*\n\nPerhatikan pengucapannya: *does* dibaca **/dʌz/** (bukan *dous*), dan *says* dibaca **/sez/**.\n\n### Bunyi akhiran\n| Bunyi | Kapan | Contoh |\n| --- | --- | --- |\n| /s/ | setelah bunyi p, t, k, f | works, gets, stops |\n| /z/ | setelah bunyi vokal atau b, d, g, l, m, n, v | plays, reads, lives, goes |\n| /ɪz/ | setelah bunyi s, z, sh, ch, x | watches, washes, fixes |\n\nCukup ingat: jika kata kerja berakhir dengan bunyi desis, tambahkan satu suku kata ekstra /ɪz/.",
+        "examples": [
+          { "en": "She watches the news every evening.", "id": "Dia (perempuan) menonton berita setiap malam." },
+          { "en": "Rudi studies English on Mondays.", "id": "Rudi belajar bahasa Inggris setiap hari Senin." },
+          { "en": "My grandmother has a big garden.", "id": "Nenek saya punya kebun yang besar." },
+          { "en": "He goes to the market on Saturdays.", "id": "Dia (laki-laki) pergi ke pasar setiap hari Sabtu." },
+          { "en": "The boy plays with his dog.", "id": "Anak laki-laki itu bermain dengan anjingnya.", "note": "play → plays (vokal + y)." }
+        ],
+        "vocabulary": [
+          { "word": "wash", "pos": "verb", "ipa": "/wɒʃ/", "meaning": "mencuci", "example": "He washes the car on Sundays." },
+          { "word": "fix", "pos": "verb", "ipa": "/fɪks/", "meaning": "memperbaiki", "example": "My uncle fixes bikes." },
+          { "word": "carry", "pos": "verb", "ipa": "/ˈkæri/", "meaning": "membawa", "example": "She carries a big bag." },
+          { "word": "cry", "pos": "verb", "ipa": "/kraɪ/", "meaning": "menangis", "example": "The baby cries at night." },
+          { "word": "has", "pos": "verb", "ipa": "/hæz/", "meaning": "punya, memiliki (he/she/it)", "example": "Ana has two brothers." },
+          { "word": "goes", "pos": "verb", "ipa": "/ɡəʊz/", "meaning": "pergi (he/she/it)", "example": "He goes to school by bike." },
+          { "word": "does", "pos": "verb", "ipa": "/dʌz/", "meaning": "melakukan, mengerjakan (he/she/it)", "example": "She does her homework at night." }
+        ],
+        "grammar": [
+          { "pattern": "-s / -sh / -ch / -x / -o + es", "example": "watch → watches, go → goes" },
+          { "pattern": "huruf mati + y → ies", "example": "study → studies" },
+          { "pattern": "huruf vokal + y → + s", "example": "play → plays, buy → buys" },
+          { "pattern": "have → has", "example": "He has a new phone." }
+        ],
+        "mistakes": [
+          { "wrong": "My sister gos to the gym.", "right": "My sister goes to the gym.", "why": "Kata kerja berakhiran -o mendapat -es: goes." },
+          { "wrong": "He haves a red bike.", "right": "He has a red bike.", "why": "Have adalah kata kerja tidak beraturan: he/she/it has." },
+          { "wrong": "She studys every night.", "right": "She studies every night.", "why": "Huruf mati + y → ies." },
+          { "wrong": "Ali plaies tennis.", "right": "Ali plays tennis.", "why": "Huruf vokal + y cukup ditambah -s." }
+        ],
+        "summary": "Kebanyakan kata kerja + **s**. Kata kerja berakhiran **-s, -sh, -ch, -x, -o** + **es** (*watches, goes*). **Huruf mati + y → ies** (*studies*), tetapi **vokal + y → s** (*plays*). Bentuk tidak beraturan: **have → has**, **go → goes**, **do → does**.",
+        "reviewCards": [
+          { "front": "watch → (he)", "back": "watches" },
+          { "front": "study → (she)", "back": "studies (huruf mati + y)" },
+          { "front": "play → (he)", "back": "plays (vokal + y)" },
+          { "front": "have / go / do → (it)", "back": "has / goes / does" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u05-l3-q1", "type": "single_choice", "category": "grammar", "topic": "third person spelling",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "What is the he/she/it form of 'watch'?",
+          "instructions": "Kata kerja yang berakhiran -ch mendapat -es.",
+          "options": ["watchs", "watches", "watchies"],
+          "answer": 1,
+          "explanation": "Watch berakhiran -ch, jadi ditambah -es: watches."
+        },
+        {
+          "id": "a1-u05-l3-q2", "type": "matching", "category": "grammar", "topic": "third person spelling",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each verb with its he/she/it form.",
+          "pairs": [
+            { "left": "study", "right": "studies" },
+            { "left": "go", "right": "goes" },
+            { "left": "have", "right": "has" },
+            { "left": "play", "right": "plays" },
+            { "left": "wash", "right": "washes" },
+            { "left": "fix", "right": "fixes" }
+          ],
+          "explanation": "study → studies (huruf mati + y), go → goes (-o), have → has (tidak beraturan), play → plays (vokal + y), wash → washes (-sh), fix → fixes (-x)."
+        },
+        {
+          "id": "a1-u05-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "third person spelling",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the correct form of the verb in brackets.",
+          "text": "Rudi ___ (study) English. He ___ (have) a class every Monday.",
+          "answers": [["studies"], ["has"]],
+          "explanation": "study → studies (huruf mati d + y → ies); have → has untuk he."
+        },
+        {
+          "id": "a1-u05-l3-q4", "type": "error_identification", "category": "grammar", "topic": "third person spelling",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["My sister", "gos to the gym", "every Saturday."],
+          "errorIndex": 1,
+          "correction": "goes to the gym",
+          "explanation": "Go berakhiran -o, jadi bentuk he/she/it-nya goes, bukan gos."
+        },
+        {
+          "id": "a1-u05-l3-q5", "type": "drag_drop", "category": "grammar", "topic": "third person spelling",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Mrs. Park ___ the dishes after dinner, and her son ___ his homework.",
+          "bank": ["washes", "does", "washs", "dos", "wash", "do"],
+          "answers": ["washes", "does"],
+          "explanation": "Mrs. Park = she → washes (-sh + es). Her son = he → does (do → does)."
+        },
+        {
+          "id": "a1-u05-l3-q6", "type": "dropdown", "category": "grammar", "topic": "third person spelling",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct spelling.",
+          "text": "The baby ___ a lot at night, but the dog ___ in the garden all day.",
+          "choices": [["crys", "cries", "cryes"], ["plaies", "plays", "playes"]],
+          "answers": [1, 1],
+          "explanation": "cry: huruf mati r + y → cries. play: huruf vokal a + y → cukup + s: plays."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u05-l4-adverbs-frequency",
+      "title": "Adverbs of Frequency",
+      "summary": "Menyatakan seberapa sering sesuatu terjadi dengan always, usually, often, sometimes, dan never.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memahami arti always, usually, often, sometimes, never",
+        "Menempatkan adverb of frequency sebelum kata kerja dan setelah am/is/are",
+        "Memakai never dengan kata kerja positif"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Seberapa sering?\n**Adverbs of frequency** (kata keterangan frekuensi) menunjukkan seberapa sering sebuah kegiatan terjadi. Kata-kata ini sangat sering dipakai bersama present simple karena present simple membicarakan kebiasaan.\n\n| Adverb | Arti | Kira-kira |\n| --- | --- | --- |\n| always | selalu | 100% |\n| usually | biasanya | 90% |\n| often | sering | 70% |\n| sometimes | kadang-kadang | 50% |\n| never | tidak pernah | 0% |\n\n### Posisi 1: sebelum kata kerja utama\nUntuk kata kerja biasa (work, eat, go, play...), letakkan adverb **di antara subjek dan kata kerja**:\n- *I **always** get up at six.*\n- *She **usually** has rice for lunch.*\n- *We **often** play badminton.*\n\nIngat, -s tetap ada pada kata kerja: *He **never** drink**s** coffee.*\n\n### Posisi 2: setelah am/is/are\nJika kata kerjanya **to be**, letakkan adverb **setelah** am/is/are:\n- *Lia **is always** late.* (bukan ~~Lia always is late~~)\n- *They **are never** tired.*\n- *I **am usually** at home on Sundays.*\n\n### Rumus singkat\n| Kalimat | Pola |\n| --- | --- |\n| kata kerja biasa | subjek + **adverb** + kata kerja |\n| to be | subjek + am/is/are + **adverb** |\n\n### Never sudah bermakna negatif\n**Never** berarti *tidak pernah*, jadi kalimatnya tetap memakai **kata kerja positif**: *I never eat meat.* Dalam bahasa Indonesia kita berkata *tidak pernah*, tetapi dalam bahasa Inggris cukup **never** saja.\n\n### Sometimes lebih fleksibel\n**Sometimes** juga boleh diletakkan di awal atau akhir kalimat: *Sometimes I walk to school.* / *I walk to school sometimes.*\n\n### Keterangan frekuensi lain\nUngkapan seperti **every day, once a week** (sekali seminggu), dan **twice a week** (dua kali seminggu) diletakkan **di akhir kalimat**: *I go swimming twice a week.*",
+        "examples": [
+          { "en": "I always brush my teeth before bed.", "id": "Saya selalu menggosok gigi sebelum tidur." },
+          { "en": "My father usually goes to work by car.", "id": "Ayah saya biasanya pergi bekerja naik mobil." },
+          { "en": "We sometimes eat at a restaurant.", "id": "Kami kadang-kadang makan di restoran." },
+          { "en": "Tono is never late for class.", "id": "Tono tidak pernah terlambat masuk kelas.", "note": "Setelah is." },
+          { "en": "She goes to the cinema once a week.", "id": "Dia (perempuan) pergi ke bioskop sekali seminggu." }
+        ],
+        "vocabulary": [
+          { "word": "always", "pos": "adverb", "ipa": "/ˈɔːlweɪz/", "meaning": "selalu", "example": "I always drink water in the morning." },
+          { "word": "usually", "pos": "adverb", "ipa": "/ˈjuːʒuəli/", "meaning": "biasanya", "example": "We usually have dinner at seven." },
+          { "word": "often", "pos": "adverb", "ipa": "/ˈɒfn/", "meaning": "sering", "example": "She often reads comics." },
+          { "word": "sometimes", "pos": "adverb", "ipa": "/ˈsʌmtaɪmz/", "meaning": "kadang-kadang", "example": "He sometimes cooks." },
+          { "word": "never", "pos": "adverb", "ipa": "/ˈnevə/", "meaning": "tidak pernah", "example": "They never eat fish." },
+          { "word": "late", "pos": "adjective", "ipa": "/leɪt/", "meaning": "terlambat", "example": "The bus is often late." },
+          { "word": "once a week", "pos": "phrase", "ipa": "/ˌwʌns ə ˈwiːk/", "meaning": "sekali seminggu", "example": "I clean my room once a week." }
+        ],
+        "grammar": [
+          { "pattern": "Subjek + adverb + kata kerja", "example": "She often walks to school." },
+          { "pattern": "Subjek + am/is/are + adverb", "example": "We are usually hungry at noon." },
+          { "pattern": "never + kata kerja positif", "example": "He never watches TV.", "note": "Never sudah berarti tidak pernah." }
+        ],
+        "mistakes": [
+          { "wrong": "Lia always is late.", "right": "Lia is always late.", "why": "Dengan to be, adverb diletakkan setelah is." },
+          { "wrong": "We go never to the cinema.", "right": "We never go to the cinema.", "why": "Dengan kata kerja biasa, adverb diletakkan sebelum kata kerja." },
+          { "wrong": "She usually drink tea.", "right": "She usually drinks tea.", "why": "Adverb tidak menghapus -s pada kata kerja untuk she." }
+        ],
+        "summary": "**always** (100%) → **usually** → **often** → **sometimes** → **never** (0%). Letakkan adverb **sebelum kata kerja biasa** (*I often cook*) tetapi **setelah am/is/are** (*He is always happy*). **Never** dipakai dengan kata kerja positif. Ungkapan seperti *once a week* diletakkan di akhir kalimat.",
+        "reviewCards": [
+          { "front": "always / usually / often / sometimes / never", "back": "selalu / biasanya / sering / kadang-kadang / tidak pernah" },
+          { "front": "Posisi adverb dengan kata kerja biasa", "back": "sebelum kata kerja: I usually walk." },
+          { "front": "Posisi adverb dengan am/is/are", "back": "setelah to be: She is always busy." },
+          { "front": "Saya tidak pernah makan daging.", "back": "I never eat meat." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u05-l4-q1", "type": "single_choice", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct sentence.",
+          "instructions": "Dengan to be (is), adverb diletakkan setelah is.",
+          "options": ["Lia always is late.", "Lia is always late.", "Always Lia late."],
+          "answer": 1,
+          "explanation": "Adverb of frequency diletakkan setelah to be: Lia is always late."
+        },
+        {
+          "id": "a1-u05-l4-q2", "type": "word_order", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["I", "usually", "have", "rice", "for", "lunch"],
+          "explanation": "Pola: subjek (I) + adverb (usually) + kata kerja (have) + objek (rice) + for lunch."
+        },
+        {
+          "id": "a1-u05-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Add the adverb in brackets in the correct place.",
+          "sentence": "Dodi drinks coffee in the morning. (often)",
+          "cue": "Write the full sentence with 'often'.",
+          "answers": ["Dodi often drinks coffee in the morning."],
+          "explanation": "Drinks adalah kata kerja biasa, jadi often diletakkan sebelum drinks."
+        },
+        {
+          "id": "a1-u05-l4-q4", "type": "matching", "category": "vocabulary", "topic": "adverbs of frequency",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Match each adverb with how often it means.",
+          "pairs": [
+            { "left": "always", "right": "100%" },
+            { "left": "usually", "right": "90%" },
+            { "left": "often", "right": "70%" },
+            { "left": "sometimes", "right": "50%" },
+            { "left": "never", "right": "0%" }
+          ],
+          "explanation": "always 100%, usually ±90%, often ±70%, sometimes ±50%, never 0%."
+        },
+        {
+          "id": "a1-u05-l4-q5", "type": "translation", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya tidak pernah minum kopi.",
+          "direction": "id-en",
+          "answers": ["I never drink coffee."],
+          "explanation": "Tidak pernah = never, dan never dipakai dengan kata kerja positif: I never drink coffee."
+        },
+        {
+          "id": "a1-u05-l4-q6", "type": "error_identification", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["We", "go never", "to the cinema", "on Mondays."],
+          "errorIndex": 1,
+          "correction": "never go",
+          "explanation": "Dengan kata kerja biasa, adverb diletakkan sebelum kata kerja: We never go to the cinema on Mondays."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u05-l5-my-day",
+      "title": "My Day: Daily Routine Vocabulary",
+      "summary": "Kosakata kegiatan sehari-hari, bagian-bagian hari, dan kata penghubung urutan untuk menceritakan rutinitas.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan kosakata rutinitas harian seperti wake up, take a shower, go to bed",
+        "Memakai in the morning / at noon / at night dengan benar",
+        "Mengurutkan kegiatan dengan first, then, after that, finally"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis paragraf pendek tentang hari Anda, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Kegiatan sehari-hari\nBanyak kegiatan rutin dalam bahasa Inggris terdiri dari **dua kata atau lebih** (kata kerja + kata lain). Hafalkan sebagai satu kesatuan:\n\n| Ungkapan | Arti |\n| --- | --- |\n| wake up | bangun (membuka mata) |\n| get up | bangun dari tempat tidur |\n| take a shower | mandi (pancuran) |\n| brush my teeth | menggosok gigi |\n| get dressed | berpakaian |\n| have breakfast / lunch / dinner | sarapan / makan siang / makan malam |\n| go to work / school | pergi bekerja / ke sekolah |\n| come home | pulang ke rumah |\n| do my homework | mengerjakan PR |\n| go to bed | pergi tidur |\n\nPerhatikan: untuk makan, penutur asli paling sering memakai **have**: *have breakfast/lunch/dinner* (*eat breakfast* juga benar, tetapi kurang umum). Kita juga berkata **go to bed** tanpa *the*.\n\n### Bagian-bagian hari\n| Ungkapan | Waktu |\n| --- | --- |\n| in the morning | pagi hari |\n| at noon | pukul 12 siang |\n| in the afternoon | siang/sore hari |\n| in the evening | malam hari (sebelum tidur) |\n| at night | malam hari (larut) |\n\nIngat dari Unit 3: **in** the morning/afternoon/evening, tetapi **at** night dan **at** noon.\n\n### Menceritakan urutan kegiatan\nGunakan kata penghubung urutan agar cerita lebih jelas:\n1. **First,** I get up at six.\n2. **Then** I take a shower.\n3. **After that,** I have breakfast.\n4. **Finally,** I go to work.\n\nSetelah *First, After that,* dan *Finally* biasanya ada koma. *Then* boleh tanpa koma.\n\n### Rutinitas dengan he/she\nJangan lupa -s/-es untuk orang ketiga: *She **wakes** up at five. She **brushes** her teeth and **gets** dressed. Then she **goes** to work.*\n\nPerhatikan juga bahwa kata ganti kepemilikan berubah: *I brush **my** teeth* → *He brushes **his** teeth*.",
+        "examples": [
+          { "en": "First, I wake up at 5.30.", "id": "Pertama, saya bangun pukul 5.30." },
+          { "en": "Then I take a shower and get dressed.", "id": "Lalu saya mandi dan berpakaian." },
+          { "en": "After that, I have breakfast with my family.", "id": "Setelah itu, saya sarapan bersama keluarga." },
+          { "en": "In the evening, my brother does his homework.", "id": "Di malam hari, adik laki-laki saya mengerjakan PR." },
+          { "en": "Finally, I go to bed at ten o'clock.", "id": "Akhirnya, saya pergi tidur pukul sepuluh." }
+        ],
+        "vocabulary": [
+          { "word": "wake up", "pos": "phrasal verb", "ipa": "/ˌweɪk ˈʌp/", "meaning": "bangun (dari tidur)", "example": "I wake up at five." },
+          { "word": "shower", "pos": "noun", "ipa": "/ˈʃaʊə/", "meaning": "mandi (pancuran), pancuran", "example": "She takes a shower in the morning." },
+          { "word": "get dressed", "pos": "phrase", "ipa": "/ˌɡet ˈdrest/", "meaning": "berpakaian, berganti baju", "example": "He gets dressed quickly." },
+          { "word": "lunch", "pos": "noun", "ipa": "/lʌntʃ/", "meaning": "makan siang", "example": "We have lunch at noon." },
+          { "word": "dinner", "pos": "noun", "ipa": "/ˈdɪnə/", "meaning": "makan malam", "example": "They have dinner at seven." },
+          { "word": "homework", "pos": "noun", "ipa": "/ˈhəʊmwɜːk/", "meaning": "pekerjaan rumah (PR)", "example": "I do my homework after dinner." },
+          { "word": "then", "pos": "adverb", "ipa": "/ðen/", "meaning": "lalu, kemudian", "example": "I eat, then I sleep." },
+          { "word": "finally", "pos": "adverb", "ipa": "/ˈfaɪnəli/", "meaning": "akhirnya, terakhir", "example": "Finally, I go to bed." }
+        ],
+        "grammar": [
+          { "pattern": "First, ... Then ... After that, ... Finally, ...", "example": "First, I get up. Then I take a shower." },
+          { "pattern": "in the morning / afternoon / evening; at noon / at night", "example": "I study at night." },
+          { "pattern": "have + breakfast / lunch / dinner", "example": "We have lunch at school.", "note": "Tanpa a/the." }
+        ],
+        "mistakes": [
+          { "wrong": "I go to the bed at ten.", "right": "I go to bed at ten.", "why": "Ungkapan go to bed tidak memakai the." },
+          { "wrong": "She brush her teeth in the morning.", "right": "She brushes her teeth in the morning.", "why": "She memerlukan -es: brushes (berakhiran -sh)." },
+          { "wrong": "I do my homework in night.", "right": "I do my homework at night.", "why": "Kita memakai at night, bukan in night." }
+        ],
+        "summary": "Kegiatan rutin: **wake up, get up, take a shower, brush my teeth, get dressed, have breakfast/lunch/dinner, go to work, come home, do my homework, go to bed**. Pakai **in** the morning/afternoon/evening dan **at** noon/night. Urutkan cerita dengan **First, Then, After that, Finally**.",
+        "reviewCards": [
+          { "front": "get dressed", "back": "berpakaian" },
+          { "front": "in / at night?", "back": "at night (tetapi in the morning/evening)" },
+          { "front": "Kata penghubung urutan", "back": "First, Then, After that, Finally" },
+          { "front": "go to bed atau go to the bed?", "back": "go to bed (tanpa the)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u05-l5-q1", "type": "matching", "category": "vocabulary", "topic": "daily routines",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Match the verbs with the words to make daily activities.",
+          "instructions": "Ingat ungkapan: brush my teeth, get dressed, do my homework, go to bed, have breakfast.",
+          "pairs": [
+            { "left": "brush", "right": "my teeth" },
+            { "left": "get", "right": "dressed" },
+            { "left": "do", "right": "my homework" },
+            { "left": "go", "right": "to bed" },
+            { "left": "have", "right": "breakfast" }
+          ],
+          "explanation": "Pasangan yang benar: brush my teeth, get dressed, do my homework, go to bed, have breakfast."
+        },
+        {
+          "id": "a1-u05-l5-q2", "type": "sentence_reconstruction", "category": "writing", "topic": "daily routines",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the sentences in the correct order to describe a morning.",
+          "fragments": ["First, I get up at six.", "Then I take a shower.", "After that, I have breakfast.", "Finally, I go to work."],
+          "explanation": "Urutan logis ditandai oleh kata penghubung: First → Then → After that → Finally."
+        },
+        {
+          "id": "a1-u05-l5-q3", "type": "essay", "category": "writing", "topic": "daily routines",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write about your typical weekday. Use the present simple, at least two adverbs of frequency, and the words First, Then, After that and Finally.",
+          "minWords": 30, "maxWords": 80,
+          "rubric": "general-writing",
+          "explanation": "Contoh: First, I wake up at five thirty. Then I take a shower and get dressed. I usually have rice and eggs for breakfast. After that, I go to work by bus. I always have lunch at noon. In the evening, I sometimes watch TV. Finally, I go to bed at ten."
+        },
+        {
+          "id": "a1-u05-l5-q4", "type": "dialogue_completion", "category": "conversation", "topic": "daily routines",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Fajar", "text": "Tell me about your morning, Wulan." },
+            { "speaker": "Wulan", "text": null },
+            { "speaker": "Fajar", "text": "Wow, six o'clock is early!" }
+          ],
+          "options": ["I get up at six o'clock.", "I'm fine, thanks.", "I have lunch at noon.", "I go home at five o'clock."],
+          "answer": 0,
+          "explanation": "Fajar berkomentar bahwa pukul enam itu pagi sekali, jadi Wulan pasti berkata I get up at six o'clock."
+        },
+        {
+          "id": "a1-u05-l5-q5", "type": "single_choice", "category": "grammar", "topic": "times of day",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "I do my homework ___ the evening.",
+          "options": ["on", "at", "in"],
+          "answer": 2,
+          "explanation": "Bagian hari memakai in: in the morning, in the afternoon, in the evening."
+        },
+        {
+          "id": "a1-u05-l5-q6", "type": "fill_blank", "category": "grammar", "topic": "daily routines",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the text with one word in each gap.",
+          "text": "Every day, Mr. Hadi ___ up at 5 a.m. ___, he takes a shower.",
+          "answers": [["wakes", "gets"], ["Then", "First", "Next"]],
+          "explanation": "Mr. Hadi = he → wakes/gets up (dengan -s). Gap kedua adalah kata penghubung urutan, misalnya Then."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u05-t-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "adverbs of frequency",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Ben goes to the gym on Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday. He ___ goes to the gym.",
+      "options": ["never", "sometimes", "always"],
+      "answer": 2,
+      "explanation": "Ben pergi ke gym setiap hari dalam seminggu (100%), jadi always."
+    },
+    {
+      "id": "a1-u05-t-q2", "type": "dropdown", "category": "grammar", "topic": "present simple third person",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct forms.",
+      "text": "My brother ___ football on TV, and I ___ my homework.",
+      "choices": [["watch", "watches", "watchs"], ["do", "does", "dos"]],
+      "answers": [1, 0],
+      "explanation": "My brother = he → watches (-ch + es). I → do (bentuk dasar)."
+    },
+    {
+      "id": "a1-u05-t-q3", "type": "sentence_correction", "category": "grammar", "topic": "present simple third person",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence. There are two mistakes.",
+      "sentence": "Ani have a cat and she play with it every day.",
+      "answers": ["Ani has a cat and she plays with it every day.", "Ani has a cat, and she plays with it every day."],
+      "explanation": "Ani = she → has (bukan have) dan plays (bukan play)."
+    },
+    {
+      "id": "a1-u05-t-q4", "type": "translation", "category": "grammar", "topic": "adverbs of frequency",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Ayah saya selalu bangun jam lima.",
+      "direction": "id-en",
+      "answers": [
+        "My father always gets up at five.",
+        "My father always wakes up at five.",
+        "My father always gets up at five o'clock.",
+        "My father always wakes up at five o'clock.",
+        "My father always gets up at 5.",
+        "My father always wakes up at 5.",
+        "My father always gets up at 5 a.m.",
+        "My father always wakes up at 5 a.m.",
+        "My dad always gets up at five.",
+        "My dad always wakes up at five."
+      ],
+      "explanation": "My father = he → gets/wakes (dengan -s). Always diletakkan sebelum kata kerja."
+    },
+    {
+      "id": "a1-u05-t-q5", "type": "short_answer", "category": "grammar", "topic": "third person spelling",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Write the he/she/it form of the verb 'carry'.",
+      "answers": ["carries"],
+      "explanation": "Carry berakhiran huruf mati r + y, jadi y → ies: carries."
+    },
+    {
+      "id": "a1-u05-t-q6", "type": "multiple_select", "category": "grammar", "topic": "third person spelling",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Which verbs add -es for he/she/it? Choose all correct answers.",
+      "options": ["go", "play", "wash", "read", "fix", "buy"],
+      "answers": [0, 2, 4],
+      "explanation": "go → goes (-o), wash → washes (-sh), fix → fixes (-x). Play, read, buy cukup + s."
+    },
+    {
+      "id": "a1-u05-t-q7", "type": "word_order", "category": "grammar", "topic": "adverbs of frequency",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["She", "is", "never", "late", "for", "class"],
+      "explanation": "Dengan to be, never diletakkan setelah is: She is never late for class."
+    },
+    {
+      "id": "a1-u05-t-q8", "type": "single_choice", "category": "reading", "topic": "daily routines",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Read the text. Maya finishes work at ___.",
+      "context": "Maya is a nurse. She usually starts work at 7 a.m. She has lunch at noon and finishes work at 3 p.m. In the evening, she often reads a book.",
+      "options": ["7 a.m.", "noon", "3 p.m."],
+      "answer": 2,
+      "explanation": "Teks menyebutkan: she ... finishes work at 3 p.m. Pukul 7 pagi ia mulai bekerja dan siang hari ia makan siang."
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "slug": "b2-u01-continuous-perfect",
+  "number": 1,
+  "title": "Ongoing Actions and Results",
+  "description": "Talk about activities that have been going on for a while and the results they have produced, using the present perfect continuous, the contrast with the present perfect simple, and the past perfect continuous. Vocabulary: work-life balance, projects and progress.",
+  "objectives": [
+    "Use the present perfect continuous to describe ongoing activities and their duration",
+    "Choose correctly between the present perfect simple and continuous",
+    "Use the past perfect continuous to explain past situations",
+    "Describe progress on projects and talk about work-life balance with natural collocations"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u01-l1-present-perfect-continuous",
+      "title": "Present Perfect Continuous: Activities Up to Now",
+      "summary": "Menggunakan present perfect continuous untuk aktivitas yang masih berlangsung atau baru saja berhenti.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form the present perfect continuous in positive, negative and question forms",
+        "Use for, since and How long...? to talk about the duration of an activity",
+        "Explain a present result using evidence of a recent activity"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Form\nThe present perfect continuous is formed with **have/has + been + verb-ing**.\n\n| Type | Structure | Example |\n| --- | --- | --- |\n| Positive | subject + have/has been + -ing | She **has been training** for the marathon. |\n| Negative | subject + haven't/hasn't been + -ing | I **haven't been sleeping** well. |\n| Question | Have/Has + subject + been + -ing? | **Have** you **been waiting** long? |\n\n### Use 1: an activity that started in the past and is still going on\nWe use this tense to stress the **duration** of an activity that is still in progress, usually with *for*, *since* or *How long...?*\n- *We've been living in Harbourside since 2019.* (We still live there.)\n- *How long have you been working on this report?*\n\n### Use 2: a recent activity with a present result\nThe activity may have just stopped, but we can see, hear or feel the result now.\n- *Your eyes are red. Have you been crying?*\n- *The ground is wet. It's been raining.*\n\n### Use 3: repeated or temporary activities recently\n- *I've been going to the gym a lot lately.*\n- *Dimas has been staying with his cousin this week.*\n\n### Time expressions\n| Expression | Use | Example |\n| --- | --- | --- |\n| for | a period of time | for three hours, for ages |\n| since | a starting point | since Monday, since I was ten |\n| all day / all week | the whole period | all morning |\n| lately / recently | the recent past | I've been feeling tired lately. |\n\n### Stative verbs\nVerbs that describe states rather than actions (*know, believe, own, belong, like, want, understand, seem*) are normally **not** used in continuous forms. Use the present perfect simple instead: *I've known Rosa for ten years* (NOT *I've been knowing*).\n\n> **Catatan:** Bahasa Indonesia tidak mengubah bentuk kata kerja; kita cukup memakai *sudah ... selama* atau *sejak*. Dalam bahasa Inggris, pola **have/has been + -ing** dipakai untuk menekankan lamanya aktivitas yang masih berlangsung. Jangan memakai present continuous (*I am living here since 2019* ✗) atau present simple (*I live here for two years* ✗) untuk makna ini.",
+        "examples": [
+          { "en": "I've been learning to play the cello for about eight months.", "id": "Saya sudah belajar bermain selo selama sekitar delapan bulan.", "note": "The activity is still continuing." },
+          { "en": "Why are you so out of breath? Have you been running?", "id": "Kenapa kamu terengah-engah? Apakah kamu habis berlari?", "note": "Present evidence of a recent activity." },
+          { "en": "Our team has been testing the new app since last Tuesday.", "id": "Tim kami sudah menguji aplikasi baru itu sejak Selasa lalu.", "note": "since + starting point" },
+          { "en": "I haven't been feeling very well lately.", "id": "Akhir-akhir ini saya merasa kurang sehat.", "note": "Negative form with lately." }
+        ],
+        "vocabulary": [
+          { "word": "lately", "pos": "adverb", "ipa": "/ˈleɪtli/", "meaning": "akhir-akhir ini", "example": "Have you been working late lately?" },
+          { "word": "overtime", "pos": "noun / adverb", "ipa": "/ˈəʊvətaɪm/", "meaning": "lembur, jam kerja tambahan", "example": "She has been working overtime all month." },
+          { "word": "exhausted", "pos": "adjective", "ipa": "/ɪɡˈzɔːstɪd/", "meaning": "sangat lelah, kehabisan tenaga", "example": "I'm exhausted because I've been moving furniture all day." },
+          { "word": "commute", "pos": "verb / noun", "ipa": "/kəˈmjuːt/", "meaning": "pulang-pergi (ke tempat kerja/sekolah)", "example": "He has been commuting to the city by train since January." },
+          { "word": "out of breath", "pos": "phrase", "ipa": "/ˌaʊt əv ˈbreθ/", "meaning": "terengah-engah", "example": "She was out of breath after climbing the stairs." }
+        ],
+        "grammar": [
+          { "pattern": "subject + have/has been + verb-ing + for/since ...", "example": "They have been negotiating since nine o'clock.", "note": "Focus on duration up to now." },
+          { "pattern": "How long + have/has + subject + been + verb-ing?", "example": "How long have you been waiting?", "note": "The standard question about duration." },
+          { "pattern": "present result + because + subject + have/has been + verb-ing", "example": "Her hands are dirty because she's been repairing her bike.", "note": "Explaining visible evidence." }
+        ],
+        "mistakes": [
+          { "wrong": "I am working here since 2021.", "right": "I have been working here since 2021.", "why": "With since/for for an activity that continues up to now, use the present perfect (continuous), not the present continuous." },
+          { "wrong": "We have been knowing each other for years.", "right": "We have known each other for years.", "why": "Know is a stative verb, so it is not used in the continuous form." },
+          { "wrong": "She has been working here since three years.", "right": "She has been working here for three years.", "why": "Use for + a period (three years); since + a starting point (2021, Monday)." }
+        ],
+        "summary": "The present perfect continuous (**have/has been + -ing**) links a past activity to the present. Use it for duration (*for/since/How long*), for recent activities with visible results, and for temporary or repeated activities lately. Avoid it with stative verbs such as *know* and *own*. *Ringkasan: pakai pola ini untuk menekankan sudah berapa lama sebuah aktivitas berlangsung.*",
+        "reviewCards": [
+          { "front": "have/has been + verb-ing", "back": "Present perfect continuous: activity from the past until now (sudah ... selama/sejak)" },
+          { "front": "for vs since", "back": "for + periode (for two hours); since + titik awal (since 8 a.m.)" },
+          { "front": "I've known her for years. (not: I've been knowing)", "back": "Stative verbs (know, own, believe) are not used in continuous forms." },
+          { "front": "Your eyes are red. Have you been crying?", "back": "Asking about a recent activity from present evidence (bukti yang terlihat sekarang)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u01-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "present perfect continuous",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the present perfect continuous form of the verb in brackets.",
+          "instructions": "Hint: has/have + been + verb-ing.",
+          "text": "Nadia looks exhausted. She ___ (work) overtime all week.",
+          "answers": [["has been working"]],
+          "explanation": "The activity (working overtime) has continued all week and explains the present result (she looks exhausted), so we use **has been working**. Subjek she → has.",
+          "misconception": "Using the present continuous (is working) with a duration that started in the past."
+        },
+        {
+          "id": "b2-u01-l1-q2", "type": "single_choice", "category": "grammar", "topic": "stative verbs",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I've been owning this car since 2018.",
+            "I've owned this car since 2018.",
+            "I'm owning this car since 2018.",
+            "I own this car since 2018."
+          ],
+          "answer": 1,
+          "explanation": "*Own* is a stative verb, so it does not take the continuous form. With *since*, we need the present perfect simple: **I've owned this car since 2018.** Present simple dan present continuous tidak bisa dipakai dengan since untuk makna 'sejak dulu sampai sekarang'."
+        },
+        {
+          "id": "b2-u01-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "present perfect continuous questions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the question in the present perfect continuous using the words in brackets.",
+          "text": "A: ___ (you / wait) long? B: No, only about five minutes.",
+          "answers": [["Have you been waiting"]],
+          "explanation": "Question form: **Have + you + been + -ing**. B's answer (five minutes) is about duration, so the present perfect continuous is the natural choice."
+        },
+        {
+          "id": "b2-u01-l1-q4", "type": "error_identification", "category": "grammar", "topic": "present perfect continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["My brother", "is studying", "medicine at Westbrook University", "since last September."],
+          "errorIndex": 1,
+          "correction": "has been studying",
+          "explanation": "*Since last September* shows an activity that started in the past and continues now, so we need **has been studying**, not the present continuous. Dalam bahasa Indonesia 'sedang kuliah sejak...' sering diterjemahkan keliru menjadi *is studying*."
+        },
+        {
+          "id": "b2-u01-l1-q5", "type": "word_order", "category": "grammar", "topic": "present perfect continuous questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["How", "long", "has", "she", "been", "teaching", "at", "this", "school"],
+          "explanation": "Question word (How long) + has + subject (she) + been + -ing + the rest: **How long has she been teaching at this school?**"
+        },
+        {
+          "id": "b2-u01-l1-q6", "type": "translation", "category": "grammar", "topic": "present perfect continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami sudah menunggu bus selama dua puluh menit.",
+          "direction": "id-en",
+          "answers": [
+            "We have been waiting for the bus for twenty minutes.",
+            "We've been waiting for the bus for twenty minutes.",
+            "We have been waiting for the bus for 20 minutes.",
+            "We've been waiting for the bus for 20 minutes."
+          ],
+          "explanation": "*Sudah ... selama* + an activity that is still continuing → present perfect continuous: **We have been waiting for the bus for twenty minutes.** Note: *wait for* the bus + *for* twenty minutes."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u01-l2-simple-vs-continuous",
+      "title": "Present Perfect Simple or Continuous?",
+      "summary": "Membedakan present perfect simple (hasil/jumlah) dan present perfect continuous (aktivitas/durasi).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Distinguish between a focus on the result (simple) and a focus on the activity (continuous)",
+        "Use the simple form with numbers and quantities (how many/how much)",
+        "Recognise when both forms are possible with little difference in meaning"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Two ways of looking at the same period\nBoth tenses connect the past with the present, but they have a different **focus**.\n\n| Present perfect simple | Present perfect continuous |\n| --- | --- |\n| Focus on the **result** or completion | Focus on the **activity** and its duration |\n| *I've painted the kitchen.* (It's finished.) | *I've been painting the kitchen.* (Maybe not finished; that's why I have paint on my clothes.) |\n| **How many / how much**: *I've written three emails.* | **How long**: *I've been writing emails all morning.* |\n| Permanent situations: *They've lived here all their lives.* | Temporary situations: *I've been staying with friends since May.* |\n| Stative verbs: *I've known him for ages.* | Not possible with stative verbs |\n\n### Rule 1: numbers and quantities need the simple form\nIf you say **how many** times or **how much** you have done, use the simple form.\n- ✓ *She's called the client four times today.*\n- ✗ *She's been calling the client four times today.*\n\n### Rule 2: finished results vs. the activity itself\n- *I've read your report.* → I finished it; I can comment now.\n- *I've been reading your report.* → I started, maybe I haven't finished; I'm talking about how I spent my time.\n\n### Rule 3: sometimes both are fine\nWith verbs such as *live, work, study, teach, wait* + *for/since*, both forms are usually correct and the difference is small:\n- *I've worked here for five years.* / *I've been working here for five years.*\nThe continuous form can sound more temporary or emphasise the effort.\n\n### Rule 4: one-off actions\nVerbs describing a short, single action (*break, lose, start, arrive, find*) are normally used in the simple form: *I've lost my keys* (NOT *I've been losing my keys* for a single event).\n\n> **Catatan:** Tanyakan pada diri sendiri: apakah yang penting **hasil/jumlahnya** (simple) atau **aktivitas/lamanya** (continuous)? Kalau ada angka (*three emails, twice, 20 kilometres*), hampir selalu pakai simple.",
+        "examples": [
+          { "en": "I've been writing my thesis all week, but I've only written ten pages.", "id": "Saya sudah mengerjakan tesis sepanjang minggu, tetapi baru menulis sepuluh halaman.", "note": "Activity vs. result in one sentence." },
+          { "en": "She's visited Lombok three times this year.", "id": "Dia sudah mengunjungi Lombok tiga kali tahun ini.", "note": "Number → simple." },
+          { "en": "Sorry I'm late. Have you been waiting long?", "id": "Maaf saya terlambat. Sudah lama menunggu?", "note": "Duration of the activity → continuous." },
+          { "en": "Someone has taken my umbrella!", "id": "Seseorang telah mengambil payung saya!", "note": "Single completed action → simple." }
+        ],
+        "vocabulary": [
+          { "word": "so far", "pos": "phrase", "ipa": "/ˌsəʊ ˈfɑː/", "meaning": "sejauh ini, sampai sekarang", "example": "So far, we've interviewed twelve candidates." },
+          { "word": "draft", "pos": "noun", "ipa": "/drɑːft/", "meaning": "rancangan, draf", "example": "I've been working on the first draft since Monday." },
+          { "word": "revise", "pos": "verb", "ipa": "/rɪˈvaɪz/", "meaning": "merevisi; mengulang pelajaran", "example": "She has revised the proposal twice." },
+          { "word": "complete", "pos": "verb", "ipa": "/kəmˈpliːt/", "meaning": "menyelesaikan", "example": "We've completed two of the five stages." },
+          { "word": "mess", "pos": "noun", "ipa": "/mes/", "meaning": "keadaan berantakan", "example": "Sorry about the mess. I've been cooking." }
+        ],
+        "grammar": [
+          { "pattern": "have/has + past participle + number/quantity", "example": "I've sent fifteen applications.", "note": "Result: how many/how much." },
+          { "pattern": "have/has been + -ing + for/since/all day", "example": "I've been sending applications all week.", "note": "Activity: how long." },
+          { "pattern": "have/has + stative verb (past participle)", "example": "He's believed in this idea since he was a student.", "note": "No continuous with stative verbs." }
+        ],
+        "mistakes": [
+          { "wrong": "I've been drinking three cups of coffee this morning.", "right": "I've drunk three cups of coffee this morning.", "why": "A number of completed actions requires the present perfect simple." },
+          { "wrong": "Oh no, I've been breaking my glasses!", "right": "Oh no, I've broken my glasses!", "why": "Break is a single, short action, so the continuous form is not natural." },
+          { "wrong": "How many pages have you been reading?", "right": "How many pages have you read?", "why": "How many asks about a result, so use the simple form." }
+        ],
+        "summary": "Choose the **simple** form for results, completed actions, numbers and stative verbs; choose the **continuous** form for the activity itself, its duration, and temporary situations. With verbs like *live* and *work* + *for/since*, both are often possible. *Kuncinya: hasil/jumlah → simple; aktivitas/durasi → continuous.*",
+        "reviewCards": [
+          { "front": "I've written three emails. vs I've been writing emails all morning.", "back": "Simple = result/number; continuous = activity/duration." },
+          { "front": "How many ...? / How much ...?", "back": "Use the present perfect simple (bukan continuous)." },
+          { "front": "I've lost my keys. (not: I've been losing)", "back": "Single short actions (lose, break, find) use the simple form." },
+          { "front": "I've worked / I've been working here for five years.", "back": "Both are fine with live, work, study + for/since." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u01-l2-q1", "type": "dropdown", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "instructions": "Hint: is the focus on a number/result or on the activity?",
+          "text": "I ___ three chapters of the report so far, but I still need to write the conclusion.",
+          "choices": [["have written", "have been writing"]],
+          "answers": [0],
+          "explanation": "*Three chapters* is a quantity of completed work, so we use the simple form **have written**. Ada angka → simple."
+        },
+        {
+          "id": "b2-u01-l2-q2", "type": "drag_drop", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Drag the correct verb forms into the gaps.",
+          "text": "Sorry about the smell. I ___ the living room since lunch. So far I ___ two walls.",
+          "bank": ["have been painting", "have painted", "painted", "am painting"],
+          "answers": ["have been painting", "have painted"],
+          "explanation": "Gap 1: the activity has continued *since lunch* → **have been painting**. Gap 2: *two walls* is a completed quantity → **have painted**. *Painted* (past simple) and *am painting* cannot be used with *since/so far*."
+        },
+        {
+          "id": "b2-u01-l2-q3", "type": "sentence_correction", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "I've been drinking four cups of coffee today.",
+          "answers": ["I've drunk four cups of coffee today.", "I have drunk four cups of coffee today."],
+          "explanation": "*Four cups* is a number of completed actions, so we need the present perfect simple: **I've drunk four cups of coffee today.** (drink – drank – drunk)"
+        },
+        {
+          "id": "b2-u01-l2-q4", "type": "multiple_select", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Select the TWO sentences that are correct.",
+          "options": [
+            "She's been knowing the manager for years.",
+            "How many pages have you been reading?",
+            "I've been cleaning the garage, so I'm a bit dusty.",
+            "They've finished the project, so they're celebrating.",
+            "He's been breaking his leg, so he can't walk."
+          ],
+          "answers": [2, 3],
+          "explanation": "Correct: the dusty result comes from the activity (**I've been cleaning**), and finishing is a completed result (**They've finished**). Wrong: *know* is stative, *how many* needs the simple form, and *break* is a single action (He's broken his leg)."
+        },
+        {
+          "id": "b2-u01-l2-q5", "type": "single_choice", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which question asks about the DURATION of an activity that is still going on?",
+          "options": [
+            "How long have you been learning Japanese?",
+            "How many Japanese words have you learned?",
+            "When did you start learning Japanese?",
+            "Did you learn Japanese at school?"
+          ],
+          "answer": 0,
+          "explanation": "**How long have you been learning...?** asks about duration up to now. *How many* asks about a result; the other two questions ask about finished past events (past simple)."
+        },
+        {
+          "id": "b2-u01-l2-q6", "type": "sentence_transformation", "category": "grammar", "topic": "present perfect continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Combine the information into one sentence.",
+          "sentence": "Rafi started writing his thesis eight months ago. He is still writing it.",
+          "cue": "Use the present perfect continuous and begin with: Rafi ... for eight months.",
+          "answers": [
+            "Rafi has been writing his thesis for eight months.",
+            "Rafi's been writing his thesis for eight months.",
+            "Rafi has been writing it for eight months."
+          ],
+          "explanation": "Started in the past + still continuing → **Rafi has been writing his thesis for eight months.** *Eight months ago* becomes *for eight months*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u01-l3-past-perfect-continuous",
+      "title": "Past Perfect Continuous: Before That Moment",
+      "summary": "Menggunakan past perfect continuous untuk aktivitas yang berlangsung sampai titik tertentu di masa lalu.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form the past perfect continuous (had been + -ing)",
+        "Describe the duration of an activity up to a point in the past",
+        "Explain the cause of a past situation and contrast it with the past perfect simple"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Form\n**had been + verb-ing** — the same form for every subject.\n\n| Type | Example |\n| --- | --- |\n| Positive | We **had been driving** for six hours when the car broke down. |\n| Negative | She **hadn't been sleeping** well, so she felt terrible. |\n| Question | How long **had** they **been living** there before they moved? |\n\n### Use 1: duration up to a moment in the past\nThe past perfect continuous is the \"past version\" of the present perfect continuous. It looks back from a point in the past.\n\n| Present (now) | Past (then) |\n| --- | --- |\n| *I've been waiting for an hour.* | *When the doctor finally called me, I'd been waiting for an hour.* |\n\n### Use 2: the cause of a past situation\nIt explains why something looked or felt a certain way in the past.\n- *The streets were flooded because it **had been raining** all night.*\n- *His eyes were red. He **had been staring** at a screen for hours.*\n\n### Past perfect simple vs continuous\nThe same contrast as in the present applies:\n\n| Past perfect simple (result / number) | Past perfect continuous (activity / duration) |\n| --- | --- |\n| *By noon, she **had answered** forty emails.* | *She **had been answering** emails all morning.* |\n| *I **had known** him for years.* (stative) | ✗ *I had been knowing him* |\n\n### Typical signals\n*when, by the time, before, until, because* + a past simple clause, often with *for* or *since*: *By the time the band came on stage, the fans had been queuing since dawn.*\n\n### Don't overuse it\nIf there is no earlier-past reference point, the past simple or past continuous is enough: *I was working at 8 p.m. yesterday* (not *I had been working*, unless you are describing the time before another past event).\n\n> **Catatan:** Pola ini mirip dengan *sudah ... selama* tetapi dalam konteks **masa lampau**: \"Ketika dia datang, saya **sudah menunggu** selama satu jam\" → *When she arrived, I **had been waiting** for an hour.* Pastikan selalu ada titik acuan di masa lalu.",
+        "examples": [
+          { "en": "When the manager finally arrived, we had been waiting for over an hour.", "id": "Ketika manajer akhirnya datang, kami sudah menunggu lebih dari satu jam.", "note": "Duration up to a past moment." },
+          { "en": "The kitchen floor was wet because the dishwasher had been leaking.", "id": "Lantai dapur basah karena mesin cuci piring bocor (sejak beberapa waktu).", "note": "Cause of a past situation." },
+          { "en": "How long had you been working there before you got promoted?", "id": "Sudah berapa lama kamu bekerja di sana sebelum dipromosikan?", "note": "Question form." },
+          { "en": "She hadn't been feeling well for days, so she finally saw a doctor.", "id": "Dia sudah merasa tidak enak badan selama berhari-hari, jadi akhirnya dia ke dokter.", "note": "Negative form." }
+        ],
+        "vocabulary": [
+          { "word": "queue", "pos": "verb / noun", "ipa": "/kjuː/", "meaning": "mengantre; antrean", "example": "Fans had been queuing outside since dawn." },
+          { "word": "leak", "pos": "verb", "ipa": "/liːk/", "meaning": "bocor", "example": "The roof had been leaking for weeks before anyone noticed." },
+          { "word": "promotion", "pos": "noun", "ipa": "/prəˈməʊʃn/", "meaning": "kenaikan jabatan", "example": "He had been hoping for a promotion for years." },
+          { "word": "break down", "pos": "phrasal verb", "ipa": "/ˌbreɪk ˈdaʊn/", "meaning": "mogok, rusak (mesin/kendaraan)", "example": "The bus broke down after we had been driving for two hours." },
+          { "word": "worn out", "pos": "adjective", "ipa": "/ˌwɔːn ˈaʊt/", "meaning": "sangat capek; usang", "example": "They were worn out because they had been hiking since sunrise." }
+        ],
+        "grammar": [
+          { "pattern": "When/By the time + past simple, subject + had been + -ing (+ for/since)", "example": "By the time we arrived, they had been playing for twenty minutes.", "note": "Duration up to a past moment." },
+          { "pattern": "past situation + because + had been + -ing", "example": "She was tired because she had been studying all night.", "note": "Explaining a past result." },
+          { "pattern": "How long + had + subject + been + -ing + before ...?", "example": "How long had he been driving before he stopped?", "note": "Question form." }
+        ],
+        "mistakes": [
+          { "wrong": "When I met her, she has been living in Oslo for two years.", "right": "When I met her, she had been living in Oslo for two years.", "why": "The reference point (when I met her) is in the past, so use had been, not has been." },
+          { "wrong": "I had been knowing him since school.", "right": "I had known him since school.", "why": "Know is a stative verb, so use the past perfect simple." },
+          { "wrong": "By 5 p.m. she had been writing twelve letters.", "right": "By 5 p.m. she had written twelve letters.", "why": "A number of completed items needs the past perfect simple." }
+        ],
+        "summary": "The past perfect continuous (**had been + -ing**) describes an activity that continued up to a moment in the past, or explains the cause of a past situation. Use the past perfect simple for results, numbers and stative verbs. *Ringkasan: selalu butuh titik acuan di masa lalu (when, by the time, before).*",
+        "reviewCards": [
+          { "front": "had been + verb-ing", "back": "Past perfect continuous: activity continuing up to a point in the past" },
+          { "front": "When she arrived, I'd been waiting for an hour.", "back": "Ketika dia datang, saya sudah menunggu selama satu jam." },
+          { "front": "had answered forty emails vs had been answering emails", "back": "Simple = number/result; continuous = activity/duration (in the past)." },
+          { "front": "The ground was wet because it had been raining.", "back": "Explaining the cause of a past situation." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u01-l3-q1", "type": "fill_blank", "category": "grammar", "topic": "past perfect continuous",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the past perfect continuous form of the verb in brackets.",
+          "instructions": "Hint: had + been + verb-ing.",
+          "text": "When the manager finally arrived, we ___ (wait) for over an hour.",
+          "answers": [["had been waiting"]],
+          "explanation": "The waiting continued up to a moment in the past (when the manager arrived), so we use **had been waiting**."
+        },
+        {
+          "id": "b2-u01-l3-q2", "type": "dialogue_completion", "category": "conversation", "topic": "past perfect continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Sari", "text": "Why was Tomas so tired at the meeting yesterday?" },
+            { "speaker": "Ben", "text": null }
+          ],
+          "options": [
+            "He had been working on the presentation until 2 a.m.",
+            "He has been working on the presentation until 2 a.m.",
+            "He is working on the presentation until 2 a.m.",
+            "He works on the presentation until 2 a.m."
+          ],
+          "answer": 0,
+          "explanation": "The question is about a past situation (yesterday), and the reply explains its cause with an earlier activity: **He had been working on the presentation until 2 a.m.** *Has been* and present forms don't fit a past context."
+        },
+        {
+          "id": "b2-u01-l3-q3", "type": "matching", "category": "grammar", "topic": "past perfect continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Match the beginnings and endings of the sentences.",
+          "pairs": [
+            { "left": "The streets were flooded because", "right": "it had been raining for three days." },
+            { "left": "She failed her driving test even though", "right": "she had been practising for months." },
+            { "left": "The passengers were hungry because", "right": "they hadn't eaten since breakfast." },
+            { "left": "When the bus finally came,", "right": "we had been standing in the cold for forty minutes." }
+          ],
+          "explanation": "Each ending gives the earlier activity or situation that explains (or contrasts with) the past event. *Even though* introduces a contrast: she practised a lot but still failed."
+        },
+        {
+          "id": "b2-u01-l3-q4", "type": "dropdown", "category": "grammar", "topic": "past perfect simple vs continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct verb forms.",
+          "text": "By the time she retired, Dr. Halim ___ at the same hospital for 35 years, and she ___ thousands of patients.",
+          "choices": [
+            ["had been working", "has been working", "was working"],
+            ["had treated", "had been treating", "has treated"]
+          ],
+          "answers": [0, 0],
+          "explanation": "Gap 1: duration up to a past moment (*by the time she retired*) → **had been working**. Gap 2: *thousands of patients* is a quantity/result → **had treated**. *Has been / has treated* don't fit a past reference point."
+        },
+        {
+          "id": "b2-u01-l3-q5", "type": "error_identification", "category": "grammar", "topic": "stative verbs",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["I", "had been knowing", "the truth", "for weeks before I told anyone."],
+          "errorIndex": 1,
+          "correction": "had known",
+          "explanation": "*Know* is a stative verb, so it cannot be continuous: **I had known the truth for weeks before I told anyone.**"
+        },
+        {
+          "id": "b2-u01-l3-q6", "type": "sentence_transformation", "category": "grammar", "topic": "past perfect continuous",
+          "difficulty": 4, "stage": "quiz",
+          "prompt": "Rewrite the information as one sentence.",
+          "sentence": "I started waiting at the bus stop at six o'clock. The bus came at seven o'clock.",
+          "cue": "Begin with: When the bus came, I ...",
+          "answers": [
+            "When the bus came, I had been waiting for an hour.",
+            "When the bus came, I'd been waiting for an hour.",
+            "When the bus came, I had been waiting for one hour.",
+            "When the bus came, I'd been waiting for one hour.",
+            "When the bus came, I had been waiting since six o'clock.",
+            "When the bus came, I'd been waiting since six o'clock.",
+            "When the bus came, I had been waiting since six.",
+            "When the bus came, I'd been waiting since six.",
+            "When the bus came, I had been waiting at the bus stop for an hour.",
+            "When the bus came, I'd been waiting at the bus stop for an hour."
+          ],
+          "explanation": "The waiting continued up to a past moment (when the bus came) → **I had been waiting for an hour** (or *since six o'clock*)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u01-l4-work-life-balance",
+      "title": "Vocabulary: Work-Life Balance and Project Progress",
+      "summary": "Kosakata dan kolokasi tentang keseimbangan kerja-hidup serta kemajuan proyek.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use vocabulary for workload, stress and work-life balance",
+        "Use collocations for deadlines and progress (meet a deadline, fall behind, on track)",
+        "Combine the new vocabulary with perfect tenses to describe situations"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Talking about work-life balance\n*Work-life balance* means having enough time and energy for both your job and your personal life. These words help you describe it:\n\n| Word / phrase | Meaning | Example |\n| --- | --- | --- |\n| workload | the amount of work you have to do | My **workload** has doubled since March. |\n| burnout | extreme tiredness caused by too much work over a long time | She left the job because of **burnout**. |\n| juggle | manage several activities at the same time | He's been **juggling** a full-time job and a master's degree. |\n| switch off | stop thinking about work and relax | I find it hard to **switch off** at weekends. |\n| flexible hours | working times you can choose | **Flexible hours** have helped parents a lot. |\n| take time off | have a holiday or a break from work | You should **take** some **time off**. |\n\n### Talking about project progress\nProjects have **milestones** (important stages) and **deadlines** (final dates).\n\n| Collocation | Meaning |\n| --- | --- |\n| **meet** a deadline | finish on time |\n| **miss** a deadline | fail to finish on time |\n| **make** progress (on/with) | move forward (note: uncountable, *make*, not *do*) |\n| **be on track** (to do sth) | be progressing as planned |\n| **fall behind** (with/on sth) | fail to keep up with the plan |\n| **be ahead of / behind** schedule | earlier / later than planned |\n| **reach** a milestone | complete an important stage |\n\n### Using the vocabulary with perfect tenses\nThese words often appear with the tenses from this unit:\n- *We've been making steady progress, and we've already reached the first milestone.*\n- *By June, the team had fallen so far behind that the deadline was moved.*\n- *I've been juggling too many tasks lately, so I've decided to prioritise.*\n\n### Watch out\n- *Progress* is **uncountable**: *a lot of progress*, not *a progress* or *progresses*.\n- We say *make progress*, not *do progress*.\n- *Deadline* collocates with *meet/miss/extend*, not *fail* or *lose*.\n\n> **Catatan:** *Burnout* bukan sekadar 'capek'; artinya kelelahan fisik dan mental akibat stres kerja berkepanjangan. *Switch off* dalam konteks ini berarti 'berhenti memikirkan pekerjaan', bukan hanya 'mematikan alat'.",
+        "examples": [
+          { "en": "Since we hired two new developers, we've been making much faster progress.", "id": "Sejak kami merekrut dua pengembang baru, kemajuan kami jauh lebih cepat.", "note": "make progress (uncountable)" },
+          { "en": "The project fell behind schedule because the supplier had been delivering late.", "id": "Proyek itu terlambat dari jadwal karena pemasok terus mengirim barang terlambat.", "note": "fall behind schedule" },
+          { "en": "I've been working from home on Fridays, and it's helped me switch off at weekends.", "id": "Saya bekerja dari rumah setiap Jumat, dan itu membantu saya lepas dari urusan kerja di akhir pekan.", "note": "switch off" },
+          { "en": "Are we still on track to launch the app in September?", "id": "Apakah kita masih sesuai rencana untuk meluncurkan aplikasi pada bulan September?", "note": "on track to + verb" }
+        ],
+        "vocabulary": [
+          { "word": "workload", "pos": "noun", "ipa": "/ˈwɜːkləʊd/", "meaning": "beban kerja", "example": "Our workload always increases before the end of the year." },
+          { "word": "burnout", "pos": "noun", "ipa": "/ˈbɜːnaʊt/", "meaning": "kelelahan fisik dan mental akibat kerja berlebihan", "example": "Regular breaks can help prevent burnout." },
+          { "word": "juggle", "pos": "verb", "ipa": "/ˈdʒʌɡl/", "meaning": "mengatur beberapa kegiatan sekaligus", "example": "Many parents juggle work and childcare." },
+          { "word": "milestone", "pos": "noun", "ipa": "/ˈmaɪlstəʊn/", "meaning": "tonggak, tahap penting", "example": "Reaching 10,000 users was a major milestone." },
+          { "word": "prioritise", "pos": "verb", "ipa": "/praɪˈɒrətaɪz/", "meaning": "memprioritaskan", "example": "You need to prioritise the urgent tasks." },
+          { "word": "fall behind", "pos": "phrasal verb", "ipa": "/ˌfɔːl bɪˈhaɪnd/", "meaning": "tertinggal (dari jadwal/target)", "example": "If we don't hurry, we'll fall behind." }
+        ],
+        "grammar": [
+          { "pattern": "make progress on/with + noun", "example": "We've made good progress on the website.", "note": "Progress is uncountable." },
+          { "pattern": "be on track to + infinitive", "example": "The team is on track to finish by May.", "note": "Progressing as planned." },
+          { "pattern": "meet / miss / extend + a deadline", "example": "We've never missed a deadline.", "note": "Common deadline collocations." }
+        ],
+        "mistakes": [
+          { "wrong": "We have done a big progress this month.", "right": "We have made a lot of progress this month.", "why": "Progress is uncountable and collocates with make, not do." },
+          { "wrong": "I failed the deadline because of the flu.", "right": "I missed the deadline because of the flu.", "why": "The correct collocation is miss a deadline." },
+          { "wrong": "I can't switch out after work.", "right": "I can't switch off after work.", "why": "The phrasal verb meaning 'stop thinking about work' is switch off." }
+        ],
+        "summary": "Use **workload, burnout, juggle, switch off** and **flexible hours** to talk about work-life balance, and **meet/miss a deadline, make progress, be on track, fall behind** and **reach a milestone** to talk about projects. Remember: *progress* is uncountable. *Ringkasan: hafalkan kolokasinya sebagai satu paket (make progress, miss a deadline).*",
+        "reviewCards": [
+          { "front": "make progress", "back": "membuat kemajuan (uncountable: a lot of progress, not a progress)" },
+          { "front": "meet / miss a deadline", "back": "selesai tepat waktu / tidak selesai tepat waktu" },
+          { "front": "on track", "back": "sesuai rencana; progressing as planned" },
+          { "front": "switch off", "back": "berhenti memikirkan pekerjaan dan bersantai" },
+          { "front": "burnout", "back": "kelelahan fisik dan mental akibat kerja berlebihan dalam waktu lama" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u01-l4-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "work-life balance",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the word that best completes the sentence.",
+          "instructions": "Hint: the word describes extreme tiredness caused by too much work.",
+          "context": "After months of working twelve-hour days, Bayu suffered from ___: he felt physically and emotionally empty.",
+          "options": ["burnout", "workload", "milestone", "overtime"],
+          "answer": 0,
+          "explanation": "**Burnout** is extreme physical and mental exhaustion caused by long-term work stress. *Workload* is the amount of work, *milestone* is a stage in a project, and *overtime* is extra working hours."
+        },
+        {
+          "id": "b2-u01-l4-q2", "type": "matching", "category": "vocabulary", "topic": "project progress",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each phrase with its meaning.",
+          "pairs": [
+            { "left": "meet a deadline", "right": "finish something by the agreed time" },
+            { "left": "fall behind", "right": "fail to work as quickly as planned" },
+            { "left": "be on track", "right": "be progressing as planned" },
+            { "left": "switch off", "right": "stop thinking about work and relax" },
+            { "left": "juggle", "right": "manage several activities at the same time" }
+          ],
+          "explanation": "These collocations are very common in workplace English. Learn them as fixed chunks: *meet a deadline, fall behind, be on track, switch off, juggle tasks*."
+        },
+        {
+          "id": "b2-u01-l4-q3", "type": "fill_blank", "category": "vocabulary", "topic": "project progress",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with ONE word.",
+          "text": "We've been working hard, so the project is still ___ track to finish in May.",
+          "answers": [["on"]],
+          "explanation": "The fixed phrase is **be on track to** + infinitive: progressing as planned."
+        },
+        {
+          "id": "b2-u01-l4-q4", "type": "drag_drop", "category": "vocabulary", "topic": "work-life balance",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "Since Clara started working from home, her ___ has increased, and she has been finding it hard to ___ in the evenings. Her manager has advised her to ___ her tasks more carefully.",
+          "bank": ["workload", "switch off", "prioritise", "milestone", "fall behind"],
+          "answers": ["workload", "switch off", "prioritise"],
+          "explanation": "Her **workload** (amount of work) has increased; she can't **switch off** (stop thinking about work); her manager advised her to **prioritise** (decide which tasks are most important)."
+        },
+        {
+          "id": "b2-u01-l4-q5", "type": "single_choice", "category": "vocabulary", "topic": "collocations",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct collocation.",
+          "context": "We worked all weekend, but we still ___ the deadline by two days.",
+          "options": ["missed", "lost", "failed", "dropped"],
+          "answer": 0,
+          "explanation": "The collocation is **miss a deadline**. We don't say *lose/fail/drop a deadline*. Dalam bahasa Indonesia 'gagal memenuhi tenggat' tetap diterjemahkan *miss the deadline*."
+        },
+        {
+          "id": "b2-u01-l4-q6", "type": "dialogue_completion", "category": "conversation", "topic": "project progress",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best response to complete the conversation.",
+          "dialogue": [
+            { "speaker": "Manager", "text": "How's the website redesign going?" },
+            { "speaker": "Indra", "text": null },
+            { "speaker": "Manager", "text": "Great! So we can still launch it next month?" }
+          ],
+          "options": [
+            "We've been making good progress, and we've finished most of the main pages.",
+            "We've been doing a good progress, and we've finished most of the main pages.",
+            "We've fallen badly behind, so we've cancelled the launch.",
+            "We made a progress since last month, and we finish most pages."
+          ],
+          "answer": 0,
+          "explanation": "Only the first option is both correct and logical: **make progress** (not *do a progress*), and the positive news matches the manager's reply *Great!* Option 3 contradicts the manager's reaction, and option 4 has several errors (*a progress*, past simple with *since*)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u01-l5-progress-updates",
+      "title": "Giving Progress Updates",
+      "summary": "Menggabungkan present perfect simple, continuous, dan past perfect continuous untuk memberi laporan kemajuan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Structure a spoken or written progress update",
+        "Combine perfect tenses to describe activities, results and background",
+        "Use signposting phrases such as so far, over the past few weeks and the next step is"
+      ],
+      "completionCriteria": "Complete the speaking and writing tasks and score at least 70% on the mini quiz. (Selesaikan tugas berbicara dan menulis, lalu raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Why progress updates matter\nAt work and university you often need to report what you have been doing, what you have achieved and what comes next. A clear update uses **different perfect tenses for different jobs**.\n\n### A four-part structure\n| Part | Purpose | Tense / language | Example |\n| --- | --- | --- | --- |\n| 1. Context | Say what the update is about | present simple | *I'm writing to update you on the Riverside project.* |\n| 2. Activity | Describe ongoing work | present perfect continuous | *Over the past month, we've been testing the system.* |\n| 3. Results | Say what is finished | present perfect simple + *already/so far* | *So far, we've fixed 40 bugs.* |\n| 4. Next steps | Say what remains | present perfect + *yet*; future forms | *We haven't tested the payment page yet. The next step is...* |\n\n### Adding background\nIf you need to explain a past problem, use the **past perfect continuous** for the earlier activity:\n- *The launch was delayed because the supplier **had been sending** the wrong parts.*\n- *Before the reorganisation, the team **had been working** without a clear plan.*\n\n### Useful signposting phrases\n| Phrase | Typical tense |\n| --- | --- |\n| *Over the past few weeks/months, ...* | present perfect continuous |\n| *So far, ... / To date, ...* | present perfect simple |\n| *We've already ... / We haven't ... yet.* | present perfect simple |\n| *Up until last week, ...* | past perfect continuous or past simple |\n| *The next step is to ... / We're planning to ...* | present simple / present continuous |\n\n### Keep it balanced\nA good update is honest. Mention problems, but show what you are doing about them: *We've fallen slightly behind schedule, but we've hired a temporary designer, so we should be back on track by Friday.*\n\n> **Catatan:** Laporan kemajuan yang baik tidak hanya berkata *We are working on it*. Tunjukkan **aktivitas** (have been + -ing), **hasil konkret** (have + V3 + angka), dan **langkah berikutnya**. Hindari *already* dan *yet* di posisi yang salah: *already* sebelum V3 (*we've already signed*), *yet* di akhir kalimat negatif/tanya.",
+        "examples": [
+          { "en": "Over the past three weeks, we've been interviewing customers about the new menu.", "id": "Selama tiga minggu terakhir, kami mewawancarai pelanggan tentang menu baru.", "note": "Activity → continuous." },
+          { "en": "So far, we've received more than two hundred responses.", "id": "Sejauh ini, kami sudah menerima lebih dari dua ratus tanggapan.", "note": "Result with a number → simple." },
+          { "en": "We haven't analysed the data yet, but we're planning to finish by Friday.", "id": "Kami belum menganalisis datanya, tetapi kami berencana selesai paling lambat Jumat.", "note": "yet in negatives." },
+          { "en": "The survey started late because the team had been waiting for approval.", "id": "Survei dimulai terlambat karena tim sudah lama menunggu persetujuan.", "note": "Background → past perfect continuous." }
+        ],
+        "vocabulary": [
+          { "word": "update", "pos": "noun / verb", "ipa": "/ˈʌpdeɪt/ (n), /ʌpˈdeɪt/ (v)", "meaning": "kabar terbaru; memberi kabar terbaru", "example": "Could you give us a quick update on the budget?" },
+          { "word": "to date", "pos": "phrase", "ipa": "/tə ˈdeɪt/", "meaning": "sampai saat ini", "example": "To date, we have signed three contracts." },
+          { "word": "setback", "pos": "noun", "ipa": "/ˈsetbæk/", "meaning": "hambatan, kemunduran", "example": "Despite a few setbacks, the project is on track." },
+          { "word": "approval", "pos": "noun", "ipa": "/əˈpruːvl/", "meaning": "persetujuan", "example": "We've been waiting for approval since Monday." },
+          { "word": "supplier", "pos": "noun", "ipa": "/səˈplaɪə/", "meaning": "pemasok", "example": "The supplier has promised to deliver the parts this week." }
+        ],
+        "grammar": [
+          { "pattern": "Over the past + time, subject + have/has been + -ing", "example": "Over the past month, I've been collecting data.", "note": "Ongoing activity." },
+          { "pattern": "So far / To date, subject + have/has + past participle", "example": "So far, we've completed four interviews.", "note": "Results achieved." },
+          { "pattern": "subject + haven't/hasn't + past participle + yet", "example": "We haven't contacted the supplier yet.", "note": "What still needs to be done." }
+        ],
+        "mistakes": [
+          { "wrong": "So far, we have been completing four interviews.", "right": "So far, we have completed four interviews.", "why": "A number of finished interviews is a result, so use the simple form." },
+          { "wrong": "We didn't finish the report yet.", "right": "We haven't finished the report yet.", "why": "In a progress update connected to now, use the present perfect with yet (especially in British English)." },
+          { "wrong": "We have already been signing the contract.", "right": "We have already signed the contract.", "why": "Signing is a completed single action; already + present perfect simple." }
+        ],
+        "summary": "A strong progress update gives context, describes ongoing **activity** (present perfect continuous), reports **results** (present perfect simple + so far/already), adds **background** if needed (past perfect continuous), and states the **next steps**. *Ringkasan: aktivitas → have been + -ing; hasil → have + V3; latar belakang masalah → had been + -ing.*",
+        "reviewCards": [
+          { "front": "Over the past month, we've been ...", "back": "Opening for an ongoing activity (present perfect continuous)" },
+          { "front": "So far / To date, we've ...", "back": "Reporting results achieved (present perfect simple)" },
+          { "front": "We haven't ... yet.", "back": "Saying what still needs to be done (belum)" },
+          { "front": "setback", "back": "hambatan atau kemunduran dalam proyek" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u01-l5-q1", "type": "sentence_reconstruction", "category": "writing", "topic": "progress updates",
+          "difficulty": 3, "stage": "guided",
+          "prompt": "Put the fragments in the correct order to make one sentence from a progress report.",
+          "instructions": "Hint: start with the time phrase, then the ongoing activity, then the result.",
+          "fragments": ["Over the past three weeks,", "our team has been testing", "the new booking system,", "and so far we have fixed", "more than forty bugs."],
+          "explanation": "The sentence moves from the time frame → the ongoing activity (present perfect continuous) → the result with a number (present perfect simple)."
+        },
+        {
+          "id": "b2-u01-l5-q2", "type": "speaking_response", "category": "speaking", "topic": "progress updates",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Give a 45-second progress update on a project you are working on (at work, at university or at home). Say what you've been doing, what you've achieved so far and what you still need to do.",
+          "targetPhrases": ["I've been working on", "so far", "I've already", "I haven't ... yet", "the next step is"],
+          "sampleAnswer": "For the past two months, I've been redecorating my flat. So far, I've painted the living room and the bedroom, and I've already bought most of the furniture. I've been looking for a new sofa for weeks, but I haven't found the right one yet. The next step is to fix the lights in the kitchen, and I'm hoping to finish everything by the end of the month.",
+          "explanation": "A strong answer uses the continuous form for ongoing activities (*I've been looking for*), the simple form for results (*I've painted*), and *yet/already* correctly."
+        },
+        {
+          "id": "b2-u01-l5-q3", "type": "essay", "category": "writing", "topic": "progress updates",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Write a short email (80–130 words) to your manager or teacher giving a progress update on a task. Include an ongoing activity, at least two results, one small setback and the next step.",
+          "minWords": 80,
+          "maxWords": 130,
+          "rubric": "general-writing",
+          "explanation": "Use the four-part structure: context → activity (have been + -ing) → results (have + past participle, so far/already) → next steps (haven't ... yet, the next step is). Gunakan nada yang sopan dan jelas."
+        },
+        {
+          "id": "b2-u01-l5-q4", "type": "dropdown", "category": "writing", "topic": "progress updates",
+          "difficulty": 4, "stage": "quiz",
+          "prompt": "Complete the email with the correct verb forms.",
+          "text": "Dear Ms. Varga, I'm writing to update you on the Riverside project. Over the past month, we ___ with the suppliers, and we ___ two of the three contracts. Before the delay in March, the team ___ ahead of schedule.",
+          "choices": [
+            ["have been negotiating", "negotiate", "had negotiated"],
+            ["have already signed", "have already been signing", "already sign"],
+            ["had been working", "has been working", "works"]
+          ],
+          "answers": [0, 0, 0],
+          "explanation": "1) Ongoing activity over the past month → **have been negotiating**. 2) Two contracts = completed result → **have already signed**. 3) An activity before a past event (the delay in March) → **had been working**."
+        },
+        {
+          "id": "b2-u01-l5-q5", "type": "error_identification", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error in this sentence from a company report.",
+          "segments": ["So far this year,", "the company has been opening", "five new branches", "in the north of the island."],
+          "errorIndex": 1,
+          "correction": "has opened",
+          "explanation": "*Five new branches* is a completed result with a number, so we need the simple form: **the company has opened five new branches**."
+        },
+        {
+          "id": "b2-u01-l5-q6", "type": "short_answer", "category": "grammar", "topic": "already and yet",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with ONE word: \"We haven't finished the survey ___, but we expect to finish it by Friday.\"",
+          "answers": ["yet"],
+          "explanation": "**Yet** is used at the end of negative sentences and questions in the present perfect to mean 'up to now' (belum)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u01-t-q1", "type": "single_choice", "category": "grammar", "topic": "past perfect continuous",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "By the time the firefighters arrived, the old warehouse ___ for almost an hour.",
+      "options": ["had been burning", "has been burning", "is burning", "burns"],
+      "answer": 0,
+      "explanation": "The burning continued up to a past moment (*by the time the firefighters arrived*), so we use the past perfect continuous: **had been burning**."
+    },
+    {
+      "id": "b2-u01-t-q2", "type": "fill_blank", "category": "grammar", "topic": "present perfect continuous",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the reply with the correct form of the verb in brackets.",
+      "text": "A: You're really sunburnt! B: I know. I ___ (lie) on the beach all afternoon.",
+      "answers": [["have been lying"]],
+      "explanation": "The sunburn is the present result of an activity that lasted all afternoon → **have been lying**. Note the spelling: lie → lying."
+    },
+    {
+      "id": "b2-u01-t-q3", "type": "sentence_correction", "category": "grammar", "topic": "present perfect simple vs continuous",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Correct the sentence.",
+      "sentence": "How many times have you been calling the client this morning?",
+      "answers": ["How many times have you called the client this morning?"],
+      "explanation": "*How many times* asks about a number of completed actions, so we need the present perfect simple: **have you called**."
+    },
+    {
+      "id": "b2-u01-t-q4", "type": "translation", "category": "grammar", "topic": "present perfect continuous",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Rina sudah bekerja di perusahaan itu sejak tahun 2020.",
+      "direction": "id-en",
+      "answers": [
+        "Rina has been working at that company since 2020.",
+        "Rina's been working at that company since 2020.",
+        "Rina has been working for that company since 2020.",
+        "Rina's been working for that company since 2020.",
+        "Rina has worked at that company since 2020.",
+        "Rina has worked for that company since 2020.",
+        "Rina has been working at the company since 2020.",
+        "Rina has been working for the company since 2020.",
+        "Rina has worked at the company since 2020.",
+        "Rina has worked for the company since 2020."
+      ],
+      "explanation": "*Sudah ... sejak* + a situation that continues now → **Rina has been working at that company since 2020.** With *work* + *since*, the present perfect simple (*has worked*) is also correct."
+    },
+    {
+      "id": "b2-u01-t-q5", "type": "matching", "category": "grammar", "topic": "perfect tenses review",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Match each sentence with the use it shows.",
+      "pairs": [
+        { "left": "I've been waiting for ages.", "right": "an activity continuing up to now" },
+        { "left": "I've read three of her novels.", "right": "a completed result with a number" },
+        { "left": "We had been driving for hours when the car broke down.", "right": "an activity continuing up to a moment in the past" },
+        { "left": "I've known him since childhood.", "right": "a state verb with since" }
+      ],
+      "explanation": "Present perfect continuous = ongoing activity; present perfect simple = result/number or stative verb; past perfect continuous = activity up to a past moment."
+    },
+    {
+      "id": "b2-u01-t-q6", "type": "word_order", "category": "grammar", "topic": "past perfect continuous",
+      "difficulty": 4, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["They", "had", "been", "arguing", "for", "hours", "before", "they", "finally", "reached", "an", "agreement"],
+      "acceptedAnswers": ["Before they finally reached an agreement, they had been arguing for hours"],
+      "explanation": "Past perfect continuous (*had been arguing*) for the earlier, longer activity + *before* + past simple for the later event: **They had been arguing for hours before they finally reached an agreement.**"
+    },
+    {
+      "id": "b2-u01-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "project progress",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "What does the phrase in bold mean?",
+      "context": "Because two engineers were ill, the bridge project has **fallen behind schedule**.",
+      "options": ["It is later than planned.", "It is ahead of the plan.", "It has been cancelled.", "It has finished early."],
+      "answer": 0,
+      "explanation": "**Fall behind schedule** = progress more slowly than planned, so the project is later than planned (terlambat dari jadwal)."
+    }
+  ]
+}

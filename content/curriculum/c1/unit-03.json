@@ -1,0 +1,542 @@
+{
+  "slug": "c1-u03-impersonal",
+  "number": 3,
+  "title": "Distancing and Reporting",
+  "description": "Report claims, rumours and research findings objectively using impersonal passive structures: it is thought that ..., subject + is said to (have) ..., and there is believed to be .... Learn reporting verbs and adverbs that signal how certain a claim is.",
+  "objectives": [
+    "Use it + passive reporting verb + that-clause to report claims impersonally",
+    "Use subject + passive reporting verb + present, continuous and perfect infinitives",
+    "Use there + passive reporting verb + to be / to have been",
+    "Choose reporting verbs and adverbs that show distance from a claim"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u03-l1-it-is-thought",
+      "title": "It Is Thought That ...",
+      "summary": "Report general beliefs, rumours and estimates without naming the source, using it + passive reporting verb + that-clause.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form it + be + past participle + that-clause with common reporting verbs",
+        "Change the tense of be to show when the belief or report existed",
+        "Recognise verbs that cannot be used in this pattern"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why use impersonal structures?\nJournalists, researchers and officials often need to report information without (a) naming the source, (b) taking personal responsibility for the claim, or (c) presenting it as a certain fact. Compare:\n- 'People say the factory will close.' (informal, vague subject)\n- '**It is said that** the factory will close.' (formal, impersonal, neutral)\n\nThe impersonal passive creates **distance** between the writer and the claim. This is essential in news reports and academic writing.\n\n### The pattern\n**It + be + past participle of a reporting verb + that + clause**\n\n| Reporting verb | Example |\n|---|---|\n| say | It is said that the castle is haunted. |\n| believe | It is believed that the fire started in the kitchen. |\n| think | It is thought that the treaty will be signed soon. |\n| report | It has been reported that two ministers have resigned. |\n| estimate | It is estimated that 40% of the forest has been lost. |\n| expect | It is expected that interest rates will rise. |\n| claim / allege | It is alleged that the official accepted bribes. |\n| rumour | It is rumoured that the couple have separated. |\n| know | It is known that the virus spreads through water. |\n| consider | It is considered that the risk is low. |\n\n### Time reference\nThe tense of *be* shows **when people held the belief**; the tense in the that-clause shows **when the event happens**:\n- 'It **is** thought that the ship **sank** in 1890.' (people think now; the event was in the past)\n- 'It **was** thought that the earth **was** flat.' (people thought this in the past)\n- 'It **has been** reported that the talks **have collapsed**.' (recent reports)\n\nAdverbs such as *widely, generally, commonly, now, increasingly* often appear before the participle: 'It is **widely** believed that ...'.\n\n### Verbs that do not work\nNot every verb can be used this way. *Tell* and *inform* need a personal object, so '*It is told that ...*' and '*It is informed that ...*' are wrong. Use 'It is said that ...' or 'We have been told that ...' instead.\n\n### Register\nThe it-pattern is formal and slightly heavy. It is typical of news reports, academic papers, official statements and essays. In conversation, people say 'Apparently, ...' or 'They say that ...' instead.\n\n### Indonesian note\nThe structure is very close to Indonesian *Diyakini bahwa ...*, *Dikatakan bahwa ...*, *Diperkirakan bahwa ...*. The main difference is that English needs the dummy subject **it**: '*Is believed that ...*' is incorrect.",
+        "examples": [
+          { "en": "It is widely believed that the new law will reduce traffic accidents.", "id": "Secara luas diyakini bahwa undang-undang baru itu akan mengurangi kecelakaan lalu lintas.", "note": "'widely' strengthens the verb." },
+          { "en": "It has been reported that the airline will cancel all flights tomorrow.", "id": "Dilaporkan bahwa maskapai itu akan membatalkan semua penerbangan besok.", "note": "Present perfect passive for recent reports." },
+          { "en": "It was once thought that the island was uninhabited.", "id": "Dahulu dikira bahwa pulau itu tidak berpenghuni.", "note": "Past belief that is no longer held." },
+          { "en": "It is estimated that 3,000 households were affected by the flood.", "id": "Diperkirakan 3.000 rumah tangga terdampak banjir.", "note": "Estimates are commonly reported this way." }
+        ],
+        "vocabulary": [
+          { "word": "rumour", "pos": "noun / verb", "ipa": "/ˈruːmə(r)/", "meaning": "desas-desus, kabar angin", "example": "It is rumoured that the director will resign." },
+          { "word": "allege", "pos": "verb", "ipa": "/əˈledʒ/", "meaning": "menuduh, mendakwa (tanpa bukti)", "example": "It is alleged that the money was transferred abroad." },
+          { "word": "estimate", "pos": "verb", "ipa": "/ˈestɪmeɪt/", "meaning": "memperkirakan", "example": "It is estimated that the repairs will cost millions." },
+          { "word": "widely", "pos": "adverb", "ipa": "/ˈwaɪdli/", "meaning": "secara luas", "example": "It is widely accepted that exercise improves mood." },
+          { "word": "speculation", "pos": "noun", "ipa": "/ˌspekjuˈleɪʃn/", "meaning": "spekulasi, dugaan", "example": "There has been much speculation about the CEO's future." }
+        ],
+        "grammar": [
+          { "pattern": "It + is/was + past participle + that + clause", "example": "It is thought that the meeting will be postponed.", "note": "Reporting verbs: say, believe, think, report, expect, estimate, claim, allege." },
+          { "pattern": "It + has been + past participle + that + clause", "example": "It has been suggested that the rules are too strict.", "note": "Recent or ongoing reports." },
+          { "pattern": "It + is + adverb + past participle + that + clause", "example": "It is generally agreed that the plan was a success.", "note": "widely / generally / commonly / increasingly." }
+        ],
+        "mistakes": [
+          { "wrong": "Is believed that the painting is a fake.", "right": "It is believed that the painting is a fake.", "why": "English needs the dummy subject 'it'." },
+          { "wrong": "It is told that the shop will close.", "right": "It is said that the shop will close.", "why": "'Tell' needs a personal object; use 'say' in the impersonal pattern." },
+          { "wrong": "It is believing that the price will rise.", "right": "It is believed that the price will rise.", "why": "The pattern is passive: be + past participle." }
+        ],
+        "summary": "Use 'It + be + past participle (said, believed, thought, reported, estimated, expected, alleged) + that-clause' to report claims impersonally. The tense of be shows when the belief exists; the that-clause shows when the event happens. Do not use tell or inform in this pattern.",
+        "reviewCards": [
+          { "front": "People say the castle is haunted. (It ...)", "back": "It is said that the castle is haunted." },
+          { "front": "It is told that ... correct?", "back": "No. Use 'It is said that ...'." },
+          { "front": "Diperkirakan bahwa ...", "back": "It is estimated that ..." },
+          { "front": "allege", "back": "menuduh (tanpa bukti yang pasti)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u03-l1-q1", "type": "single_choice", "category": "grammar", "topic": "impersonal passive", "difficulty": 2, "stage": "guided",
+          "prompt": "Which sentence reports the claim most objectively, without naming a source or presenting it as a fact?",
+          "options": ["It is believed that the treasure is buried near the old lighthouse.", "I believe the treasure is buried near the old lighthouse.", "Everyone knows the treasure is buried near the old lighthouse.", "The treasure is definitely buried near the old lighthouse."],
+          "answer": 0,
+          "explanation": "'It is believed that ...' reports a belief impersonally. The other options give a personal opinion or present the claim as certain."
+        },
+        {
+          "id": "c1-u03-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "impersonal passive", "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence in a more formal, impersonal way.",
+          "sentence": "People say that the old factory is haunted.",
+          "cue": "Begin with: It is",
+          "answers": ["It is said that the old factory is haunted.", "It is said the old factory is haunted."],
+          "explanation": "'People say that ...' becomes 'It is said that ...': it + be + past participle + that-clause."
+        },
+        {
+          "id": "c1-u03-l1-q3", "type": "dropdown", "category": "grammar", "topic": "impersonal passive", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct form.",
+          "text": "It ___ that more than 10,000 people took part in yesterday's march.",
+          "choices": [["is estimated", "estimates", "is estimating", "estimated"]],
+          "answers": [0],
+          "explanation": "The impersonal pattern is passive: 'It is estimated that ...'."
+        },
+        {
+          "id": "c1-u03-l1-q4", "type": "fill_blank", "category": "grammar", "topic": "impersonal passive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with the correct passive form of the words in brackets.",
+          "text": "Last year it ___ (widely / expect) that the central bank would raise interest rates, but it did not.",
+          "answers": [["was widely expected"]],
+          "explanation": "The expectation existed in the past ('Last year'), so we use 'it was widely expected'. The adverb 'widely' goes between 'was' and the participle."
+        },
+        {
+          "id": "c1-u03-l1-q5", "type": "error_identification", "category": "grammar", "topic": "impersonal passive", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["It is believing", "that the painting", "was stolen", "by someone who worked at the museum."],
+          "errorIndex": 0,
+          "correction": "It is believed",
+          "explanation": "The impersonal structure is passive: 'It is believed that ...', not the continuous 'is believing'."
+        },
+        {
+          "id": "c1-u03-l1-q6", "type": "multiple_select", "category": "grammar", "topic": "impersonal passive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which verbs can correctly complete the sentence? 'It is ___ that the company will announce job cuts next week.' Select ALL that apply.",
+          "options": ["rumoured", "expected", "told", "thought", "informed"],
+          "answers": [0, 1, 3],
+          "explanation": "'It is rumoured / expected / thought that ...' are correct. 'Tell' and 'inform' require a personal object, so 'It is told / informed that ...' is wrong."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u03-l2-subject-to-infinitive",
+      "title": "He Is Said to Be ...: Personal Passive with Infinitives",
+      "summary": "Make the person or thing the subject of the reporting verb: subject + is said / believed / thought + to-infinitive.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Transform it-clauses into subject + passive + to-infinitive",
+        "Use the simple infinitive for present states, habits and future events",
+        "Use the continuous infinitive (to be doing) for actions in progress"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### From 'It is said that ...' to 'He is said to ...'\nThe it-pattern from Lesson 1 has a more concise alternative. Instead of starting with *it*, we make the **subject of the that-clause** the subject of the whole sentence and continue with a **to-infinitive**:\n- 'It is said that **the CEO** is very demanding.' → '**The CEO is said to be** very demanding.'\n- 'It is expected that **the minister** will resign.' → '**The minister is expected to resign**.'\n\nThis personal pattern is often more natural and elegant than the it-pattern, especially when the sentence is about a particular person or thing.\n\n### Choosing the infinitive\nThe form of the infinitive depends on the **relationship in time** between the reporting verb and the reported situation.\n\n| That-clause | Infinitive | Example |\n|---|---|---|\n| present simple (state/habit) | to + base verb | He is said **to own** three hotels. |\n| present continuous | to be + -ing | She is believed **to be working** on a new novel. |\n| future (will / be going to) | to + base verb | The bridge is expected **to open** in May. |\n| present simple passive | to be + past participle | The plan is thought **to be supported** by most staff. |\n\nPast events (to have done) are covered in Lesson 3.\n\n### Verbs used in this pattern\n*say, believe, think, know, report, consider, expect, estimate, allege, rumour, understand, presume, acknowledge.*\n\nNote:\n- *Rumour* is almost always passive: 'She **is rumoured to be** leaving.'\n- *Consider* can be followed by *to be* or directly by a noun/adjective: 'He is considered (to be) the best candidate.'\n- *Tell* in the passive has a different meaning: 'He was told to leave' = someone instructed him to leave; it does not report a belief.\n\n### Why use it?\n1. It keeps the **topic** (often a person) at the start of the sentence, which improves the flow of a text.\n2. It is shorter than the it-pattern.\n3. It still distances the writer from the claim: 'The singer **is rumoured to be** planning a comeback' does not say who started the rumour or whether it is true.\n\n### Indonesian note\nIndonesian commonly uses *Dia dikabarkan sedang ...* or *Dia dikenal sebagai ...*, which match this English pattern well: 'She is rumoured to be ...', 'He is known to be ...'. The challenge is choosing the correct infinitive (to be, to be doing, to have done).",
+        "examples": [
+          { "en": "The CEO is believed to be considering early retirement.", "id": "Sang CEO diyakini sedang mempertimbangkan pensiun dini.", "note": "Continuous infinitive: action in progress now." },
+          { "en": "The new stadium is expected to hold 60,000 spectators.", "id": "Stadion baru itu diperkirakan dapat menampung 60.000 penonton.", "note": "Future reference: to + base verb." },
+          { "en": "Mr. Wiryawan is known to be a generous supporter of local schools.", "id": "Pak Wiryawan dikenal sebagai pendukung sekolah-sekolah lokal yang dermawan.", "note": "Present state." },
+          { "en": "The singer is rumoured to be planning a comeback tour.", "id": "Penyanyi itu dikabarkan sedang merencanakan tur comeback.", "note": "'rumour' is almost always passive." }
+        ],
+        "vocabulary": [
+          { "word": "reclusive", "pos": "adjective", "ipa": "/rɪˈkluːsɪv/", "meaning": "suka menyendiri, tertutup", "example": "The reclusive author is said to live on a remote island." },
+          { "word": "insider", "pos": "noun", "ipa": "/ɪnˈsaɪdə(r)/", "meaning": "orang dalam", "example": "According to an insider, the deal is almost finished." },
+          { "word": "comeback", "pos": "noun", "ipa": "/ˈkʌmbæk/", "meaning": "kembalinya (seseorang ke dunia profesionalnya)", "example": "The boxer is rumoured to be planning a comeback." },
+          { "word": "presume", "pos": "verb", "ipa": "/prɪˈzjuːm/", "meaning": "menganggap, mengira (tanpa bukti pasti)", "example": "The missing sailor is presumed to be alive." },
+          { "word": "tycoon", "pos": "noun", "ipa": "/taɪˈkuːn/", "meaning": "taipan, pengusaha besar", "example": "The tycoon is said to own several islands." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + be + past participle + to + base verb", "example": "The museum is thought to attract a million visitors a year.", "note": "Present state, habit or future." },
+          { "pattern": "Subject + be + past participle + to be + -ing", "example": "The police are reported to be questioning two suspects.", "note": "Action in progress now." },
+          { "pattern": "Subject + be + past participle + to be + past participle", "example": "The proposal is understood to be supported by the board.", "note": "Passive infinitive." }
+        ],
+        "mistakes": [
+          { "wrong": "The singer is rumoured that she is writing a new album.", "right": "The singer is rumoured to be writing a new album.", "why": "When the person is the subject, use a to-infinitive, not a that-clause." },
+          { "wrong": "The company is believed to planning a merger.", "right": "The company is believed to be planning a merger.", "why": "The continuous infinitive needs 'to be' + -ing." },
+          { "wrong": "He is known being very generous.", "right": "He is known to be very generous.", "why": "Reporting verbs in this pattern are followed by a to-infinitive, not -ing." }
+        ],
+        "summary": "Use 'subject + is said/believed/thought/expected + to-infinitive' to report claims about a specific person or thing. Use 'to do' for states, habits and future events, 'to be doing' for actions in progress, and 'to be done' for passive meaning.",
+        "reviewCards": [
+          { "front": "It is said that he owns three hotels. (He ...)", "back": "He is said to own three hotels." },
+          { "front": "It is thought that she is writing a novel. (She ...)", "back": "She is thought to be writing a novel." },
+          { "front": "It is expected that the bridge will open in May.", "back": "The bridge is expected to open in May." },
+          { "front": "He was told to leave = ?", "back": "Someone instructed him to leave (not a reported belief)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u03-l2-q1", "type": "word_order", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "guided",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "CEO", "is", "believed", "to", "be", "considering", "early", "retirement"],
+          "explanation": "Subject + is believed + continuous infinitive (to be considering) + object."
+        },
+        {
+          "id": "c1-u03-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "It is thought that the company is planning a merger.",
+          "cue": "Begin with: The company",
+          "answers": ["The company is thought to be planning a merger."],
+          "explanation": "The that-clause is in the present continuous, so we use the continuous infinitive: 'is thought to be planning'."
+        },
+        {
+          "id": "c1-u03-l2-q3", "type": "drag_drop", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "The stolen car is ___ to ___ somewhere in the north of the city.",
+          "bank": ["thought", "be", "being", "been", "thinking"],
+          "answers": ["thought", "be"],
+          "explanation": "Subject + is + past participle (thought) + to + base verb (be): 'The stolen car is thought to be somewhere ...'."
+        },
+        {
+          "id": "c1-u03-l2-q4", "type": "sentence_transformation", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "People expect that the minister will announce the new budget on Friday.",
+          "cue": "Begin with: The minister",
+          "answers": ["The minister is expected to announce the new budget on Friday."],
+          "explanation": "A future event after 'expect' becomes a simple to-infinitive: 'The minister is expected to announce ...'."
+        },
+        {
+          "id": "c1-u03-l2-q5", "type": "single_choice", "category": "grammar", "topic": "personal passive", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the sentence: 'Mr. Darsono is known ___ a generous donor to local schools.'",
+          "options": ["to be", "being", "that he is", "to being"],
+          "answer": 0,
+          "explanation": "In the personal passive pattern, the reporting verb is followed by a to-infinitive: 'is known to be'."
+        },
+        {
+          "id": "c1-u03-l2-q6", "type": "sentence_correction", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "The singer is rumoured that she is writing a new album.",
+          "answers": ["The singer is rumoured to be writing a new album.", "It is rumoured that the singer is writing a new album."],
+          "explanation": "Either make the singer the subject and use a continuous infinitive ('is rumoured to be writing') or use the it-pattern ('It is rumoured that the singer is writing ...')."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u03-l3-perfect-infinitive",
+      "title": "He Is Thought to Have Left: Perfect Infinitives",
+      "summary": "Report beliefs about past events with the perfect infinitive (to have done / to have been done) and match tenses accurately.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use to have + past participle for events earlier than the reporting time",
+        "Use to have been + past participle for passive past events",
+        "Transform it-clauses into personal passives across different tenses"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### When the event is earlier than the report\nIf the reported situation happened **before** the time of believing or reporting, use the **perfect infinitive**: *to have + past participle*.\n- 'It is believed that the thieves **left** the country last night.' → 'The thieves are believed **to have left** the country last night.'\n- 'It is said that the castle **was built** in the 12th century.' → 'The castle is said **to have been built** in the 12th century.'\n\n### The complete tense map\n| It-pattern | Personal pattern |\n|---|---|\n| It is thought that he **lives** abroad. | He is thought **to live** abroad. |\n| It is thought that he **is living** abroad now. | He is thought **to be living** abroad now. |\n| It is thought that he **lived / has lived** abroad. | He is thought **to have lived** abroad. |\n| It is thought that he **was living** abroad then. | He is thought **to have been living** abroad then. |\n| It is thought that the house **was sold**. | The house is thought **to have been sold**. |\n| It **was** thought that he **lived** abroad. | He **was** thought **to live** abroad. |\n| It **was** thought that he **had lived** abroad. | He **was** thought **to have lived** abroad. |\n\nThe key question is always: *Is the reported event at the same time as the reporting, or earlier?* Same time → simple/continuous infinitive. Earlier → perfect infinitive.\n\n### Past simple and present perfect both become 'to have done'\nNotice that the infinitive cannot show the difference between past simple and present perfect. 'He is said to have won three medals' can mean 'He won' or 'He has won'. Time expressions (yesterday, in 2010, so far) make the meaning clear.\n\n### Passive perfect infinitive\nWhen the subject **receives** the action, use *to have been + past participle*:\n- 'The painting is believed **to have been stolen** in the 1990s.' (someone stole it)\n- 'Two ships are reported **to have been damaged** in the storm.'\n\nA frequent error is to use the simple passive infinitive for past events: '*The painting is believed to be stolen in the 1990s*' is wrong because the stealing happened in the past.\n\n### Perfect continuous infinitive\nFor a past action in progress or over a period: 'The suspect is believed **to have been living** under a false name for years.'\n\n### Use in news and history\nThese forms are extremely common in news reports about crimes, accidents and historical facts, because the writer usually reports what investigators or historians believe rather than confirmed facts: 'The fire is thought to have started in the kitchen.'\n\n### Indonesian note\nIndonesian uses *diyakini telah ...* or *diduga telah ...* for past events: *Pencuri itu diduga telah meninggalkan negara itu* → 'The thief is suspected / believed **to have left** the country.' The word *telah* is a useful signal that you need *to have done*.",
+        "examples": [
+          { "en": "The thieves are believed to have left the country last night.", "id": "Para pencuri itu diyakini telah meninggalkan negara itu tadi malam.", "note": "Past event → to have + past participle." },
+          { "en": "The castle is said to have been built in the twelfth century.", "id": "Kastel itu konon dibangun pada abad kedua belas.", "note": "Passive past event → to have been + past participle." },
+          { "en": "The fire is thought to have started in the kitchen.", "id": "Kebakaran itu diduga berawal dari dapur.", "note": "Typical news report." },
+          { "en": "The suspect is believed to have been living under a false name for years.", "id": "Tersangka diyakini telah tinggal dengan nama palsu selama bertahun-tahun.", "note": "Perfect continuous infinitive." }
+        ],
+        "vocabulary": [
+          { "word": "suspect", "pos": "noun / verb", "ipa": "/ˈsʌspekt/ (n), /səˈspekt/ (v)", "meaning": "tersangka; menduga", "example": "The suspect is thought to have fled abroad." },
+          { "word": "flee", "pos": "verb", "ipa": "/fliː/", "meaning": "melarikan diri", "example": "Thousands are reported to have fled the area." },
+          { "word": "originate", "pos": "verb", "ipa": "/əˈrɪdʒɪneɪt/", "meaning": "berasal, bermula", "example": "The custom is thought to have originated in the 1800s." },
+          { "word": "investigator", "pos": "noun", "ipa": "/ɪnˈvestɪɡeɪtə(r)/", "meaning": "penyelidik", "example": "Investigators believe the fire was started deliberately." },
+          { "word": "shipwreck", "pos": "noun", "ipa": "/ˈʃɪprek/", "meaning": "bangkai kapal; kapal karam", "example": "The shipwreck is believed to have lain there for centuries." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + be + past participle + to have + past participle", "example": "She is said to have won three national titles.", "note": "Event earlier than the time of reporting." },
+          { "pattern": "Subject + be + past participle + to have been + past participle", "example": "The document is thought to have been forged.", "note": "Passive past event." },
+          { "pattern": "Subject + be + past participle + to have been + -ing", "example": "He is believed to have been hiding in the forest.", "note": "Past action in progress or over a period." }
+        ],
+        "mistakes": [
+          { "wrong": "The painting is believed to be stolen in the 1990s.", "right": "The painting is believed to have been stolen in the 1990s.", "why": "A past passive event requires the perfect passive infinitive." },
+          { "wrong": "He is said to had lived in Paris.", "right": "He is said to have lived in Paris.", "why": "After 'to', use the base form 'have', never 'had'." },
+          { "wrong": "The fire is thought to start in the kitchen last night.", "right": "The fire is thought to have started in the kitchen last night.", "why": "'Last night' shows the event is earlier than the reporting, so use the perfect infinitive." }
+        ],
+        "summary": "When the reported event happened before the time of reporting, use the perfect infinitive: 'is said to have done'. For passive past events, use 'to have been done'; for past actions in progress, use 'to have been doing'. Ask: same time or earlier?",
+        "reviewCards": [
+          { "front": "It is said that he left. (He ...)", "back": "He is said to have left." },
+          { "front": "It is believed that the bridge was built in 1900.", "back": "The bridge is believed to have been built in 1900." },
+          { "front": "diyakini telah ...", "back": "is believed to have + past participle" },
+          { "front": "flee (past / past participle)", "back": "fled / fled — melarikan diri" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u03-l3-q1", "type": "dropdown", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the correct infinitive.",
+          "text": "The thieves are believed ___ the country last night.",
+          "choices": [["to have left", "to leave", "to be leaving"]],
+          "answers": [0],
+          "explanation": "'Last night' shows that the leaving happened before the time of believing, so the perfect infinitive 'to have left' is needed."
+        },
+        {
+          "id": "c1-u03-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "It is said that the castle was built in the twelfth century.",
+          "cue": "Begin with: The castle",
+          "answers": ["The castle is said to have been built in the twelfth century.", "The castle is said to have been built in the 12th century."],
+          "explanation": "The building happened in the past and the castle received the action, so use the perfect passive infinitive: 'to have been built'."
+        },
+        {
+          "id": "c1-u03-l3-q3", "type": "matching", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 4, "stage": "independent",
+          "prompt": "Match each it-sentence with its personal passive equivalent.",
+          "pairs": [
+            { "left": "It is thought that he lives abroad.", "right": "He is thought to live abroad." },
+            { "left": "It is thought that he lived abroad for years.", "right": "He is thought to have lived abroad for years." },
+            { "left": "It is thought that he is living abroad at the moment.", "right": "He is thought to be living abroad at the moment." },
+            { "left": "It was thought that he lived abroad.", "right": "He was thought to live abroad." },
+            { "left": "It was thought that he had lived abroad.", "right": "He was thought to have lived abroad." }
+          ],
+          "explanation": "Same time as the reporting → simple or continuous infinitive; earlier than the reporting → perfect infinitive. The tense of 'be' follows the tense of the reporting verb."
+        },
+        {
+          "id": "c1-u03-l3-q4", "type": "fill_blank", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with the correct infinitive form of the verb in brackets.",
+          "text": "The fire is thought ___ (start) in the kitchen at around 2 a.m.",
+          "answers": [["to have started"]],
+          "explanation": "The fire started before the time of reporting, so we use the perfect infinitive 'to have started'."
+        },
+        {
+          "id": "c1-u03-l3-q5", "type": "error_identification", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 4, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The painting", "is believed", "to be stolen", "during the 1990s."],
+          "errorIndex": 2,
+          "correction": "to have been stolen",
+          "explanation": "The theft happened in the past and the painting received the action, so the perfect passive infinitive 'to have been stolen' is required."
+        },
+        {
+          "id": "c1-u03-l3-q6", "type": "translation", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 4, "stage": "quiz",
+          "prompt": "Translate into English. Begin with 'The ship'.",
+          "source": "Kapal itu diyakini telah tenggelam pada tahun 1890.",
+          "direction": "id-en",
+          "answers": ["The ship is believed to have sunk in 1890.", "The ship is believed to have sunk in the year 1890.", "The ship is believed to have gone down in 1890.", "The ship is believed to have been sunk in 1890."],
+          "explanation": "'Diyakini telah' = 'is believed to have + past participle'. The sinking is a past event, so the perfect infinitive 'to have sunk' is used."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u03-l4-there-is-thought",
+      "title": "There Is Thought to Be ...",
+      "summary": "Report the existence of something impersonally with there + passive reporting verb + to be / to have been.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Transform 'It is thought that there is/are ...' into 'There is/are thought to be ...'",
+        "Use 'There are reported to have been ...' for past existence",
+        "Make the verb agree with the noun that follows"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Reporting existence\nWhen a claim is about the **existence** of something (there is / there are), we can use *there* as the subject of the reporting verb:\n- 'It is thought that **there are** 300 species of birds on the island.' → '**There are thought to be** 300 species of birds on the island.'\n- 'It is said that **there is** a secret tunnel under the palace.' → '**There is said to be** a secret tunnel under the palace.'\n\n### The pattern\n**There + be + past participle (said, believed, thought, reported, estimated, expected, known) + to be / to have been + noun phrase**\n\n| Time of the situation | Infinitive | Example |\n|---|---|---|\n| present | to be | There **is believed to be** a problem with the software. |\n| future | to be | There **are expected to be** delays on the motorway tomorrow. |\n| past (before reporting) | to have been | There **are reported to have been** three earthquakes last month. |\n| past belief, same time | to be | There **was thought to be** gold in the hills. |\n\n### Agreement\nThe verb *be* agrees with the noun phrase that follows, just as in 'there is / there are':\n- 'There **is** thought to be **a** survivor.'\n- 'There **are** thought to be **several** survivors.'\n- 'There **are** believed to be **no** survivors.' (plural noun 'survivors')\n\n### 'to be' not 'to have'\nA very common mistake is '*There is said to have a tunnel*'. Remember that the original sentence is 'there **is** a tunnel', so the infinitive must be **to be**. *There* cannot 'have' something.\n\n### Expected and estimated\nWith *expect*, the pattern often refers to the future: 'There **are expected to be** long queues at the border this weekend.' With *estimate*, it often gives numbers: 'There **are estimated to be** 2 million users.'\n\n### Why use it?\nThis pattern is compact and neutral, ideal for news, reports and scientific writing when the number or existence of something is uncertain. It avoids the heavier 'It is thought that there are ...'.\n\n### Indonesian note\nIndonesian expresses this with *Diperkirakan ada ...* or *Konon ada ...*: *Diperkirakan ada 300 spesies burung* → 'There are estimated to be 300 species of birds.' Notice how *ada* becomes *to be* in the English pattern.",
+        "examples": [
+          { "en": "There are thought to be more than 300 species of birds on the island.", "id": "Diperkirakan ada lebih dari 300 spesies burung di pulau itu.", "note": "Present existence: to be." },
+          { "en": "There is said to be a secret tunnel under the old palace.", "id": "Konon ada terowongan rahasia di bawah istana tua itu.", "note": "'is' agrees with 'a secret tunnel'." },
+          { "en": "There are reported to have been three minor earthquakes in the region last month.", "id": "Dilaporkan telah terjadi tiga gempa kecil di wilayah itu bulan lalu.", "note": "Past existence: to have been." },
+          { "en": "There are expected to be long delays on the toll road this weekend.", "id": "Diperkirakan akan ada kemacetan panjang di jalan tol akhir pekan ini.", "note": "Future: to be." }
+        ],
+        "vocabulary": [
+          { "word": "casualty", "pos": "noun", "ipa": "/ˈkæʒuəlti/", "meaning": "korban (luka atau tewas)", "example": "There are reported to have been no casualties." },
+          { "word": "deposit", "pos": "noun", "ipa": "/dɪˈpɒzɪt/", "meaning": "endapan, cadangan (mineral)", "example": "There are believed to be large gas deposits under the sea." },
+          { "word": "discrepancy", "pos": "noun", "ipa": "/dɪˈskrepənsi/", "meaning": "ketidaksesuaian, selisih", "example": "There is thought to be a discrepancy in the accounts." },
+          { "word": "shortage", "pos": "noun", "ipa": "/ˈʃɔːtɪdʒ/", "meaning": "kekurangan, kelangkaan", "example": "There is expected to be a shortage of nurses next year." },
+          { "word": "unconfirmed", "pos": "adjective", "ipa": "/ˌʌnkənˈfɜːmd/", "meaning": "belum dikonfirmasi", "example": "There are unconfirmed reports of a second explosion." }
+        ],
+        "grammar": [
+          { "pattern": "There + is/are + past participle + to be + noun phrase", "example": "There is believed to be a leak in the pipe.", "note": "Present or future existence." },
+          { "pattern": "There + is/are + past participle + to have been + noun phrase", "example": "There are said to have been several warnings before the collapse.", "note": "Past existence, reported now." },
+          { "pattern": "There + was/were + past participle + to be + noun phrase", "example": "There were thought to be wolves in the forest.", "note": "Past belief about the situation at that time." }
+        ],
+        "mistakes": [
+          { "wrong": "There is said to have a secret tunnel under the palace.", "right": "There is said to be a secret tunnel under the palace.", "why": "The original idea is 'there is a tunnel', so the infinitive is 'to be'." },
+          { "wrong": "There is thought to be several survivors.", "right": "There are thought to be several survivors.", "why": "'Be' agrees with the plural noun 'survivors'." },
+          { "wrong": "It is believed to be several problems with the design.", "right": "There are believed to be several problems with the design.", "why": "To report existence, use 'there', not 'it', as the subject." }
+        ],
+        "summary": "To report the existence of something impersonally, use 'There is/are + said/thought/believed/expected/estimated + to be' (present/future) or '+ to have been' (past). Make be agree with the following noun and never use 'to have' after 'there is said'.",
+        "reviewCards": [
+          { "front": "It is said that there is a ghost here. (There ...)", "back": "There is said to be a ghost here." },
+          { "front": "It is believed that there were warnings. (There ...)", "back": "There are believed to have been warnings." },
+          { "front": "Diperkirakan ada ...", "back": "There is/are estimated / thought to be ..." },
+          { "front": "casualty", "back": "korban (luka atau tewas)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u03-l4-q1", "type": "single_choice", "category": "grammar", "topic": "there is thought to be", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence: '___ to be more than 300 different species of birds on the island.'",
+          "options": ["There are thought", "It is thought", "There is thinking", "They are thought"],
+          "answer": 0,
+          "explanation": "To report existence, use 'There + be + past participle + to be'. 'Are' agrees with the plural 'species'."
+        },
+        {
+          "id": "c1-u03-l4-q2", "type": "sentence_transformation", "category": "grammar", "topic": "there is thought to be", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "It is believed that there are several survivors.",
+          "cue": "Begin with: There",
+          "answers": ["There are believed to be several survivors."],
+          "explanation": "'It is believed that there are ...' becomes 'There are believed to be ...'."
+        },
+        {
+          "id": "c1-u03-l4-q3", "type": "fill_blank", "category": "grammar", "topic": "there is thought to be", "difficulty": 4, "stage": "independent",
+          "prompt": "Complete the sentence with the correct present passive form of the verb in brackets.",
+          "text": "There ___ (report) to have been three minor earthquakes in the region last month.",
+          "answers": [["are reported"]],
+          "explanation": "The reports exist now ('are reported') and refer to past events ('to have been ... last month'). 'Are' agrees with 'three earthquakes'."
+        },
+        {
+          "id": "c1-u03-l4-q4", "type": "sentence_transformation", "category": "grammar", "topic": "there is thought to be", "difficulty": 4, "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "People now estimate that there were five thousand people at the concert.",
+          "cue": "Begin with: There are",
+          "answers": ["There are estimated to have been five thousand people at the concert.", "There are now estimated to have been five thousand people at the concert.", "There are estimated to have been 5,000 people at the concert.", "There are estimated to have been 5000 people at the concert.", "There are now estimated to have been 5,000 people at the concert.", "There are now estimated to have been 5000 people at the concert."],
+          "explanation": "The estimate is made now ('are estimated'), but the concert was in the past, so we use 'to have been'."
+        },
+        {
+          "id": "c1-u03-l4-q5", "type": "dropdown", "category": "grammar", "topic": "there is thought to be", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct options.",
+          "text": "Rescue teams are still searching, but at present there ___ believed to ___ no survivors.",
+          "choices": [["are", "is", "were"], ["be", "have", "being"]],
+          "answers": [0, 0],
+          "explanation": "'At present' requires the present tense, and 'are' agrees with the plural 'survivors'. The original idea is 'there are no survivors', so the infinitive is 'to be'."
+        },
+        {
+          "id": "c1-u03-l4-q6", "type": "error_identification", "category": "grammar", "topic": "there is thought to be", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["There is said", "to have", "a secret tunnel", "under the old palace."],
+          "errorIndex": 1,
+          "correction": "to be",
+          "explanation": "The underlying sentence is 'there is a secret tunnel', so the infinitive must be 'to be', not 'to have'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u03-l5-reporting-claims",
+      "title": "Allegedly, Reportedly: Reporting Claims Objectively",
+      "summary": "Use precise reporting verbs and distancing adverbs to show how reliable a claim is in news reports, research and discussions.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Distinguish reporting verbs such as claim, allege, maintain, deny, confirm and dispute",
+        "Use distancing adverbs such as reportedly, allegedly, apparently and supposedly",
+        "Write a short neutral report of unconfirmed information"
+      ],
+      "completionCriteria": "Read all sections, complete the writing task and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Reporting verbs carry attitude\nWhen you report what someone said, the verb you choose shows how you view the claim. 'The minister **said** ...' is neutral; 'The minister **claimed** ...' suggests the claim may not be true; 'The minister **admitted** ...' suggests something negative was confirmed.\n\n| Verb | Meaning / attitude | Example |\n|---|---|---|\n| claim | state something that may not be true | The company claims its product is 100% natural. |\n| allege | accuse someone of wrongdoing without proof | Police allege that he forged the documents. |\n| maintain / insist | keep stating firmly, despite doubts | She maintains that she is innocent. |\n| assert | state confidently and formally | The report asserts that the policy has failed. |\n| confirm | say officially that something is true | The ministry confirmed the reports. |\n| deny | say that something is not true | The spokesperson denied any wrongdoing. |\n| dispute | question whether something is true or valid | Several scientists dispute these figures. |\n| acknowledge | accept that something is true (often reluctantly) | The CEO acknowledged that mistakes had been made. |\n\n### Distancing adverbs\nAdverbs allow you to report a claim in a single word while signalling that you are not personally vouching for it:\n- **reportedly** = according to reports\n- **allegedly** = according to an accusation (crime, wrongdoing)\n- **apparently** = it seems so / I have heard\n- **supposedly** = people say so, but I doubt it\n- **purportedly / reputedly** = (formal) it is claimed / it is generally said\n\n'The painting, **reportedly** worth over a million dollars, was sold for a few hundred.'\n\n### According to ...\n*According to* introduces the source of information: 'According to the police, ...', 'According to recent research, ...'. Do **not** say '*according to me*'; use 'In my view / opinion, ...' instead.\n\n### Language of rumours and sources\nNews reports often describe the reliability of sources: *sources close to the minister*, *unconfirmed reports*, *an unnamed official*, *widespread speculation*, *the claims remain unsubstantiated* (= not supported by evidence). These phrases, combined with the impersonal passives from this unit, help you write balanced, objective reports.\n\n### Putting it together\n'The mayor **is alleged to have accepted** gifts from a construction firm. **According to** unconfirmed reports, the gifts included a car. The mayor **has denied** the allegations, and the firm **disputes** the claims, which **remain unsubstantiated**.'\n\n### Indonesian note\nIndonesian uses *konon*, *kabarnya*, *diduga* and *menurut* for similar purposes: *diduga* ≈ allegedly; *kabarnya* ≈ reportedly/apparently; *konon* ≈ supposedly/reputedly; *menurut* ≈ according to.",
+        "examples": [
+          { "en": "The suspect allegedly entered the building through a side door.", "id": "Tersangka diduga masuk ke gedung melalui pintu samping.", "note": "allegedly = according to an accusation." },
+          { "en": "According to sources close to the minister, she will resign next week.", "id": "Menurut sumber yang dekat dengan menteri itu, ia akan mengundurkan diri minggu depan.", "note": "Naming the type of source." },
+          { "en": "The company maintains that it followed all safety regulations.", "id": "Perusahaan itu tetap bersikeras bahwa mereka telah mematuhi semua peraturan keselamatan.", "note": "maintain = keep saying firmly." },
+          { "en": "The claims remain unsubstantiated.", "id": "Klaim-klaim itu masih belum didukung bukti.", "note": "Neutral, formal evaluation." }
+        ],
+        "vocabulary": [
+          { "word": "allegation", "pos": "noun", "ipa": "/ˌæləˈɡeɪʃn/", "meaning": "tuduhan (tanpa bukti)", "example": "He strongly denied the allegations." },
+          { "word": "unsubstantiated", "pos": "adjective", "ipa": "/ˌʌnsəbˈstænʃieɪtɪd/", "meaning": "tidak didukung bukti", "example": "The rumours are completely unsubstantiated." },
+          { "word": "reportedly", "pos": "adverb", "ipa": "/rɪˈpɔːtɪdli/", "meaning": "kabarnya, dilaporkan", "example": "The actor reportedly earned millions for the role." },
+          { "word": "spokesperson", "pos": "noun", "ipa": "/ˈspəʊkspɜːsn/", "meaning": "juru bicara", "example": "A spokesperson confirmed the news." },
+          { "word": "dispute", "pos": "verb", "ipa": "/dɪˈspjuːt/", "meaning": "membantah, mempersoalkan kebenaran", "example": "Economists dispute the government's figures." },
+          { "word": "maintain", "pos": "verb", "ipa": "/meɪnˈteɪn/", "meaning": "tetap menyatakan, bersikeras", "example": "He maintains that he was at home that night." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + claim / allege / maintain / deny + that + clause", "example": "The firm denies that it misled investors.", "note": "Choice of verb shows attitude." },
+          { "pattern": "Subject + deny + -ing / noun", "example": "He denied taking the money.", "note": "'deny' can also take -ing or a noun." },
+          { "pattern": "Reportedly / Allegedly / Apparently + clause", "example": "Apparently, the shop is closing down.", "note": "Distancing adverb, often at the start or before the verb." }
+        ],
+        "mistakes": [
+          { "wrong": "According to me, the report is biased.", "right": "In my view, the report is biased.", "why": "'According to' introduces another source, not your own opinion." },
+          { "wrong": "He denied to take the money.", "right": "He denied taking the money.", "why": "'Deny' is followed by -ing or a that-clause, not a to-infinitive." },
+          { "wrong": "The minister was alleged of corruption.", "right": "The minister was accused of corruption.", "why": "'Accuse someone of' is correct; 'allege' takes a that-clause or 'is alleged to have done'." }
+        ],
+        "summary": "Reporting verbs (claim, allege, maintain, confirm, deny, dispute, acknowledge) and adverbs (reportedly, allegedly, apparently, supposedly) show how reliable you consider a claim. Use 'according to' for sources, not for your own opinion, and combine these tools with impersonal passives to write objective reports.",
+        "reviewCards": [
+          { "front": "allege", "back": "claim someone did wrong, without proof (menuduh)" },
+          { "front": "deny + ?", "back": "deny + -ing / that-clause / noun (He denied stealing it.)" },
+          { "front": "According to me ... correct?", "back": "No. Use 'In my view / opinion ...'." },
+          { "front": "unsubstantiated", "back": "tidak didukung bukti" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u03-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "reporting adverbs", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the meaning of the word in bold.",
+          "context": "The senator **allegedly** accepted expensive gifts from a construction company.",
+          "options": ["it is claimed, but not proven, that", "it has been officially proven that", "it is completely impossible that", "the senator himself announced that"],
+          "answer": 0,
+          "explanation": "'Allegedly' means that someone has made an accusation that has not been proven. It distances the writer from the claim."
+        },
+        {
+          "id": "c1-u03-l5-q2", "type": "multiple_select", "category": "writing", "topic": "objective reporting", "difficulty": 3, "stage": "independent",
+          "prompt": "Which sentences report the information with appropriate distance, without presenting it as a certain fact? Select ALL that apply.",
+          "options": ["The suspect is alleged to have entered the building through a side door.", "Reportedly, the merger will be finalised next month.", "According to unconfirmed reports, the factory will close in June.", "The factory will definitely close in June.", "Everyone knows that the mayor lied about the budget."],
+          "answers": [0, 1, 2],
+          "explanation": "Options 1–3 use distancing devices (is alleged to have, reportedly, according to unconfirmed reports). Options 4 and 5 present claims as certain facts."
+        },
+        {
+          "id": "c1-u03-l5-q3", "type": "essay", "category": "writing", "topic": "objective reporting", "difficulty": 4, "stage": "independent",
+          "prompt": "You work for a local news website. Rewrite the following social media message as a short, neutral news report. Use at least two impersonal passive structures and at least two distancing adverbs or reporting verbs.\n\nMessage: 'OMG the new mall in Harapan Jaya is closing!!! My cousin says the owner ran off with the money and the workers haven't been paid for months. Apparently there were problems with the building too.'",
+          "minWords": 80,
+          "maxWords": 140,
+          "rubric": "news-report",
+          "explanation": "A good report avoids emotional language, names the type of source (e.g. 'local residents', 'unconfirmed reports'), uses structures such as 'is reported to', 'is alleged to have', 'there are said to have been', and includes a neutral statement that the claims have not been confirmed."
+        },
+        {
+          "id": "c1-u03-l5-q4", "type": "matching", "category": "vocabulary", "topic": "reporting verbs", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each reporting verb with its meaning.",
+          "pairs": [
+            { "left": "allege", "right": "claim that someone did something wrong, without proof" },
+            { "left": "deny", "right": "say that something is not true" },
+            { "left": "confirm", "right": "state officially that something is true" },
+            { "left": "maintain", "right": "keep stating something firmly, even if others doubt it" },
+            { "left": "dispute", "right": "question whether something is true or valid" }
+          ],
+          "explanation": "Each reporting verb signals a different attitude towards the information being reported."
+        },
+        {
+          "id": "c1-u03-l5-q5", "type": "single_choice", "category": "grammar", "topic": "reporting verbs", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence is NOT correct?",
+          "options": ["According to the report, unemployment has fallen slightly.", "According to me, the report is inaccurate.", "In my view, the report is inaccurate.", "The spokesperson denied that the company had misled investors."],
+          "answer": 1,
+          "explanation": "'According to' introduces an external source. For your own opinion, use 'In my view' or 'In my opinion'."
+        },
+        {
+          "id": "c1-u03-l5-q6", "type": "fill_blank", "category": "vocabulary", "topic": "reporting adverbs", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with ONE adverb that shows the information has not been confirmed.",
+          "text": "The painting, ___ worth over a million dollars, was sold at a village market for just a few hundred.",
+          "answers": [["reportedly", "supposedly", "allegedly", "apparently", "purportedly", "reputedly"]],
+          "explanation": "Distancing adverbs such as 'reportedly' or 'supposedly' show that the writer is passing on a claim rather than stating a verified fact."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u03-t-q1", "type": "sentence_transformation", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it means the same.",
+      "sentence": "People believe that the treasure was hidden by pirates.",
+      "cue": "Begin with: The treasure",
+      "answers": ["The treasure is believed to have been hidden by pirates."],
+      "explanation": "The hiding happened in the past and the treasure received the action, so use 'is believed to have been hidden'."
+    },
+    {
+      "id": "c1-u03-t-q2", "type": "dropdown", "category": "grammar", "topic": "perfect infinitive passive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct infinitive.",
+      "text": "The missing hikers are thought ___ shelter in a cave when the storm hit.",
+      "choices": [["to have taken", "to take", "taking"]],
+      "answers": [0],
+      "explanation": "The action happened in the past ('when the storm hit'), before the time of thinking, so we use 'to have taken'."
+    },
+    {
+      "id": "c1-u03-t-q3", "type": "sentence_transformation", "category": "grammar", "topic": "there is thought to be", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it means the same.",
+      "sentence": "It is said that there are wolves in these mountains.",
+      "cue": "Begin with: There",
+      "answers": ["There are said to be wolves in these mountains."],
+      "explanation": "'It is said that there are ...' becomes 'There are said to be ...'."
+    },
+    {
+      "id": "c1-u03-t-q4", "type": "error_identification", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["The minister", "is reported", "having resigned", "late last night."],
+      "errorIndex": 2,
+      "correction": "to have resigned",
+      "explanation": "Reporting verbs in the personal passive are followed by a to-infinitive. The resignation is in the past, so 'to have resigned' is correct."
+    },
+    {
+      "id": "c1-u03-t-q5", "type": "single_choice", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which sentence means 'People think the company is losing money at the moment'?",
+      "options": ["The company is thought to be losing money.", "The company is thought to have lost money.", "The company was thought to lose money.", "The company is thinking to lose money."],
+      "answer": 0,
+      "explanation": "An action in progress now is reported with the continuous infinitive 'to be losing'."
+    },
+    {
+      "id": "c1-u03-t-q6", "type": "translation", "category": "grammar", "topic": "personal passive", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English. Begin with 'Oil prices' and use the verb 'expect'.",
+      "source": "Harga minyak diperkirakan akan naik tahun depan.",
+      "direction": "id-en",
+      "answers": ["Oil prices are expected to rise next year.", "Oil prices are expected to increase next year.", "Oil prices are expected to go up next year."],
+      "explanation": "'Diperkirakan akan' = 'are expected to' + base verb, because the rise is a future event."
+    },
+    {
+      "id": "c1-u03-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "journalism vocabulary", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the meaning of the word in bold.",
+      "context": "Despite weeks of speculation in the press, the claims against the director remain **unsubstantiated**.",
+      "options": ["not supported by evidence", "officially approved", "widely celebrated", "carefully hidden"],
+      "answer": 0,
+      "explanation": "'Unsubstantiated' means that no evidence has been provided to prove the claims."
+    }
+  ]
+}

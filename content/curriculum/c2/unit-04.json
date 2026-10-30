@@ -1,0 +1,1359 @@
+{
+  "slug": "c2-u04-near-synonyms",
+  "number": 4,
+  "title": "Shades of Meaning",
+  "description": "Choose words with precision by distinguishing near synonyms by connotation and intensity, respecting collocational restrictions, and pairing gradable and ungradable adjectives with the right intensifiers.",
+  "objectives": [
+    "Distinguish near synonyms that differ in connotation (positive, neutral, negative)",
+    "Rank emotion words by intensity and choose the one that fits a situation precisely",
+    "Use fixed collocations such as pose a threat, bear a resemblance and flatly refuse",
+    "Combine gradable and ungradable adjectives with appropriate intensifiers",
+    "Use evaluative vocabulary to judge arguments, work and behaviour precisely"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u04-l1-connotation",
+      "title": "Thrifty or Stingy? Connotation in Near Synonyms",
+      "summary": "Recognise and control the positive, neutral or negative connotation of near synonyms.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Explain the difference between denotation and connotation",
+        "Choose between positive and negative near synonyms to match a writer's attitude",
+        "Detect when a word choice reveals an unintended judgement"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Denotation and connotation\nTwo words can refer to the same behaviour (their **denotation**) while carrying very different emotional overtones (their **connotation**). Someone who spends little money can be described as *thrifty* (approving), *economical* (neutral) or *stingy* (disapproving). The facts are identical; the speaker's judgement is not. At C2 level, choosing the wrong member of such a set is rarely a grammatical error, but it can make a reference letter sound insulting or a complaint sound oddly polite.\n\n### Common connotation sets\n| Positive | Neutral | Negative |\n|---|---|---|\n| thrifty, prudent | economical, careful with money | stingy, mean, tight-fisted, miserly |\n| slender, slim | thin | skinny, scrawny, bony |\n| determined, resolute | firm | obstinate, stubborn, pig-headed |\n| curious, inquisitive | interested | nosy, prying |\n| assertive, self-assured | confident | pushy, domineering, bossy |\n| youthful | young | childish, immature |\n| frank, candid | direct | blunt, tactless |\n\n### Connotation as a persuasive tool\nJournalists and politicians exploit connotation constantly. A group may be called *freedom fighters* by supporters and *insurgents* by opponents; a policy change may be a *reform* or an *upheaval*; a negotiator may be *firm* or *intransigent*. When you read critically, ask which word the writer **could** have chosen and what the actual choice reveals about their stance.\n\n### Context can flip connotation\nSome words change colour depending on context. *Ambitious* is positive in a job interview (*an ambitious graduate*) but can be negative when applied to a plan that is unrealistic (*an over-ambitious timetable*). *Innocent* is positive in a courtroom but may imply naivety in *an innocent question*. *Cunning* is negative when describing people but can be neutral or admiring when describing a plan or a device.\n\n### Practical strategies\n- In **reference letters and appraisals**, choose the positive member of a set: *meticulous* rather than *fussy*, *candid* rather than *blunt*.\n- In **complaints and critical reviews**, the negative member sharpens your point: *The staff were not merely unhelpful but dismissive.*\n- In **academic writing**, prefer the neutral member unless you are explicitly evaluating: *the sample was small* rather than *the sample was pitiful*.\n- When unsure, check a learner's dictionary: labels such as *approving* and *disapproving* indicate connotation directly.",
+        "examples": [
+          {
+            "en": "Ms. Arwen is thrifty with company funds and always finds sensible savings.",
+            "id": "Bu Arwen hemat dalam menggunakan dana perusahaan dan selalu menemukan penghematan yang masuk akal.",
+            "note": "Thrifty is approving; stingy would insult her."
+          },
+          {
+            "en": "Her critics call her obstinate, but her supporters see her as resolute.",
+            "id": "Para pengkritiknya menyebutnya keras kepala, tetapi para pendukungnya melihatnya sebagai sosok yang teguh.",
+            "note": "Same behaviour, opposite judgements."
+          },
+          {
+            "en": "The children were wonderfully inquisitive during the museum tour.",
+            "id": "Anak-anak itu sangat ingin tahu selama tur museum.",
+            "note": "Inquisitive is positive here; nosy would imply prying into private matters."
+          },
+          {
+            "en": "Supporters described the change as a long-overdue reform; opponents called it an upheaval.",
+            "id": "Para pendukung menyebut perubahan itu sebagai reformasi yang sudah lama tertunda; para penentang menyebutnya sebagai pergolakan.",
+            "note": "Word choice signals the writer's stance."
+          },
+          {
+            "en": "He was candid about the project's weaknesses, which the board appreciated.",
+            "id": "Dia berterus terang tentang kelemahan proyek itu, dan dewan direksi menghargainya.",
+            "note": "Candid is approving; blunt suggests a lack of tact."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "thrifty",
+            "pos": "adjective",
+            "ipa": "/ˈθrɪfti/",
+            "meaning": "hemat (bermakna positif)",
+            "example": "My thrifty grandmother never wasted a single grain of rice."
+          },
+          {
+            "word": "stingy",
+            "pos": "adjective",
+            "ipa": "/ˈstɪndʒi/",
+            "meaning": "pelit, kikir (bermakna negatif)",
+            "example": "The stingy landlord refused to repair the broken heater."
+          },
+          {
+            "word": "obstinate",
+            "pos": "adjective",
+            "ipa": "/ˈɒbstɪnət/",
+            "meaning": "keras kepala, tidak mau mengalah",
+            "example": "He remained obstinate even when the evidence was overwhelming."
+          },
+          {
+            "word": "resolute",
+            "pos": "adjective",
+            "ipa": "/ˈrezəluːt/",
+            "meaning": "teguh, tegas pendirian (positif)",
+            "example": "She remained resolute in her commitment to the project."
+          },
+          {
+            "word": "nosy",
+            "pos": "adjective",
+            "ipa": "/ˈnəʊzi/",
+            "meaning": "suka ikut campur, kepo",
+            "example": "Our nosy neighbour always asks where we are going."
+          },
+          {
+            "word": "candid",
+            "pos": "adjective",
+            "ipa": "/ˈkændɪd/",
+            "meaning": "terus terang, jujur apa adanya",
+            "example": "Thank you for your candid feedback on my draft."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Some call him X, but others see him as Y",
+            "example": "Some call him stubborn, but others see him as principled.",
+            "note": "A useful frame for contrasting connotations of the same trait."
+          },
+          {
+            "pattern": "not merely X but Y (escalating connotation)",
+            "example": "The response was not merely unhelpful but dismissive.",
+            "note": "Moves from a milder to a more negative near synonym."
+          },
+          {
+            "pattern": "be + adjective + with + noun (money, praise, time)",
+            "example": "She is thrifty with money but generous with her time.",
+            "note": "Common frame for adjectives such as thrifty, stingy, generous, economical."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "In her reference letter, the manager praised Lina for being so pushy with clients.",
+            "right": "In her reference letter, the manager praised Lina for being so assertive with clients.",
+            "why": "Pushy is disapproving and contradicts the idea of praise; assertive is the approving near synonym."
+          },
+          {
+            "wrong": "The model looked elegant and skinny in the photographs, the magazine wrote admiringly.",
+            "right": "The model looked elegant and slender in the photographs, the magazine wrote admiringly.",
+            "why": "Skinny often implies unattractive thinness; slender or slim matches an admiring tone."
+          },
+          {
+            "wrong": "We are looking for a nosy researcher who asks probing questions.",
+            "right": "We are looking for an inquisitive researcher who asks probing questions.",
+            "why": "Nosy means interfering in other people's private affairs; inquisitive is the positive word for intellectual curiosity."
+          }
+        ],
+        "summary": "Near synonyms often share a denotation but differ in connotation. Choose the approving, neutral or disapproving member of a set deliberately, and read others' word choices as clues to their stance. Context can shift the connotation of words such as ambitious or innocent.",
+        "reviewCards": [
+          {
+            "front": "thrifty / economical / stingy",
+            "back": "positive / neutral / negative words for someone who spends little"
+          },
+          {
+            "front": "resolute vs obstinate",
+            "back": "firm in a good cause (approving) vs unreasonably refusing to change (disapproving)"
+          },
+          {
+            "front": "inquisitive vs nosy",
+            "back": "eager to learn (positive) vs prying into others' private affairs (negative)"
+          },
+          {
+            "front": "candid vs blunt",
+            "back": "honest in a valued way vs honest without tact"
+          },
+          {
+            "front": "connotation",
+            "back": "the emotional associations of a word beyond its literal meaning (denotation)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u04-l1-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "connotation",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Complete the sentence from a reference letter: \"Ms. Arwen is ___ with company funds and always finds sensible ways to cut unnecessary costs.\"",
+          "instructions": "A reference letter aims to praise. Which word describes careful spending with an approving connotation?",
+          "options": ["stingy", "thrifty", "miserly", "tight-fisted"],
+          "answer": 1,
+          "explanation": "Thrifty is the approving word for someone who uses money carefully. Stingy, miserly and tight-fisted all describe the same habit with strong disapproval, which would undermine a reference letter.",
+          "misconception": "All four words mean 'spending little', but only thrifty has a positive connotation."
+        },
+        {
+          "id": "c2-u04-l1-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "connotation",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each approving adjective with its disapproving near synonym.",
+          "pairs": [
+            { "left": "thrifty", "right": "stingy" },
+            { "left": "slim", "right": "skinny" },
+            { "left": "resolute", "right": "obstinate" },
+            { "left": "inquisitive", "right": "nosy" },
+            { "left": "assertive", "right": "pushy" }
+          ],
+          "explanation": "Each pair describes similar behaviour or appearance: careful spending (thrifty/stingy), thinness (slim/skinny), firmness (resolute/obstinate), curiosity (inquisitive/nosy) and self-confidence in dealing with others (assertive/pushy). The second word in each pair carries criticism."
+        },
+        {
+          "id": "c2-u04-l1-q3",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "connotation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the word that matches each speaker's attitude.",
+          "text": "Her critics dismiss her as ___, while her admirers praise her as ___.",
+          "choices": [
+            ["steadfast", "pig-headed"],
+            ["single-minded", "bull-headed"]
+          ],
+          "answers": [1, 0],
+          "explanation": "Critics who 'dismiss' someone use a disapproving word: pig-headed (stupidly stubborn). Admirers who 'praise' use an approving word: single-minded (focused on one goal). Steadfast is approving, so it cannot express criticism, and bull-headed is disapproving, so it cannot express praise."
+        },
+        {
+          "id": "c2-u04-l1-q4",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "connotation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the word choice that clashes with the writer's approving tone.",
+          "segments": [
+            "The museum guide praised the children",
+            "for being so nosy",
+            "and asking",
+            "such thoughtful questions."
+          ],
+          "errorIndex": 1,
+          "correction": "for being so curious",
+          "explanation": "The guide is praising the children, so the adjective must be approving. Nosy implies prying into private matters and is disapproving; curious or inquisitive fits the context of thoughtful questions."
+        },
+        {
+          "id": "c2-u04-l1-q5",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "connotation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "\"The new manager is admirably assertive in meetings.\" Which word could replace 'assertive' while keeping the positive tone?",
+          "options": ["pushy", "self-assured", "overbearing", "bossy"],
+          "answer": 1,
+          "explanation": "Self-assured is approving, like assertive. Pushy, overbearing and bossy all criticise someone for imposing themselves on others, which contradicts 'admirably'."
+        },
+        {
+          "id": "c2-u04-l1-q6",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "connotation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it criticises the same habit, using one adjective with a negative connotation.",
+          "sentence": "He is very economical with his money.",
+          "cue": "Keep the structure 'He is very ... with his money.'",
+          "answers": [
+            "He is very stingy with his money.",
+            "He is very mean with his money.",
+            "He is very tight-fisted with his money.",
+            "He is very tight fisted with his money.",
+            "He is very miserly with his money.",
+            "He is very tight with his money.",
+            "He is very cheap with his money.",
+            "He is very penny-pinching with his money.",
+            "He's very stingy with his money.",
+            "He's very mean with his money.",
+            "He's very tight-fisted with his money.",
+            "He's very miserly with his money.",
+            "He's very tight with his money.",
+            "He's very cheap with his money."
+          ],
+          "explanation": "Economical is neutral. Stingy, mean (British English), tight-fisted, miserly, tight and cheap (especially American English) all describe the same habit disapprovingly."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u04-l2-emotion-nuance",
+      "title": "Irritated, Exasperated, Livid: Emotions by Degree",
+      "summary": "Distinguish emotion words by intensity and nuance to describe feelings precisely.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Rank anger, happiness and fear words by intensity",
+        "Distinguish emotions of memory and regret: wistful, nostalgic, rueful",
+        "Select the emotion word that fits the cause and context of a feeling"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why basic emotion words are not enough\nAt C1 you can say *angry*, *happy* or *afraid*. At C2 you are expected to show **how much** and **what kind** of emotion is involved. *Annoyed* and *livid* are both forms of anger, but confusing them would misrepresent a situation as badly as confusing a drizzle with a storm.\n\n### Scales of intensity\n| Mild | Moderate | Strong | Extreme |\n|---|---|---|---|\n| irritated, annoyed | cross, indignant | exasperated, incensed | livid, furious, seething |\n| content, pleased | glad, cheerful | delighted, thrilled | elated, ecstatic, overjoyed |\n| uneasy, apprehensive | anxious, nervous | frightened, alarmed | petrified, terrified, panic-stricken |\n| downcast, low | unhappy, sad | miserable, dejected | heartbroken, devastated, distraught |\n\nWords in the **Extreme** column are usually ungradable: we say *absolutely livid* or *utterly devastated*, not *very livid* (see Lesson 4).\n\n### Nuance beyond intensity\nSome near synonyms differ in the **cause** or **quality** of the emotion rather than its strength:\n- **exasperated**: annoyed because something keeps happening and you have run out of patience (*exasperated by the endless delays*).\n- **indignant**: angry because something is unfair (*indignant at the accusation*).\n- **apprehensive**: worried about something that is going to happen (*apprehensive about the interview*).\n- **wistful**: gently sad while longing for something lost or out of reach (*a wistful glance at the sea*).\n- **nostalgic**: affectionately remembering a happier time in the past (*nostalgic for her student days*).\n- **rueful**: expressing regret, often with a touch of humour (*a rueful smile at his own mistake*).\n- **content**: quietly satisfied; it does not mean excited.\n\n### Dependent prepositions\nEmotion adjectives often take fixed prepositions: *exasperated by/with*, *indignant at/about*, *apprehensive about*, *nostalgic for*, *elated at/by*, *petrified of*. Using the wrong preposition is a common C2-level slip.\n\n### Matching emotion to evidence\nIn writing, the emotion word should match the evidence you give. *She was devastated when her train was delayed by five minutes* sounds either ironic or exaggerated. Equally, *He was slightly irritated when his house burned down* is a deliberate understatement. Unless you intend irony or humour, keep intensity proportional to the cause.",
+        "examples": [
+          {
+            "en": "After the third cancelled meeting, Professor Hale was thoroughly exasperated.",
+            "id": "Setelah rapat dibatalkan untuk ketiga kalinya, Profesor Hale benar-benar habis kesabaran.",
+            "note": "Exasperated suggests patience exhausted by repetition."
+          },
+          {
+            "en": "The residents were indignant at the suggestion that they had caused the flooding.",
+            "id": "Para warga marah karena merasa diperlakukan tidak adil atas tuduhan bahwa merekalah penyebab banjir.",
+            "note": "Indignant = angry at unfair treatment."
+          },
+          {
+            "en": "Tomas was elated when he heard his novel would be published.",
+            "id": "Tomas sangat gembira ketika mendengar novelnya akan diterbitkan.",
+            "note": "Elated is an extreme degree of happiness."
+          },
+          {
+            "en": "She gave a rueful laugh when she realised she had locked herself out again.",
+            "id": "Dia tertawa getir ketika menyadari bahwa dia terkunci di luar lagi.",
+            "note": "Rueful = regretful, often with humour about one's own mistake."
+          },
+          {
+            "en": "Looking at the old photographs made him nostalgic for his childhood in Port Elvan.",
+            "id": "Melihat foto-foto lama membuatnya rindu akan masa kecilnya di Port Elvan.",
+            "note": "Nostalgic for + period or place in the past."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "exasperated",
+            "pos": "adjective",
+            "ipa": "/ɪɡˈzæspəreɪtɪd/",
+            "meaning": "jengkel karena kehabisan kesabaran",
+            "example": "The teacher was exasperated by the constant interruptions."
+          },
+          {
+            "word": "livid",
+            "pos": "adjective",
+            "ipa": "/ˈlɪvɪd/",
+            "meaning": "sangat marah, murka",
+            "example": "He was absolutely livid when he saw the damage to his car."
+          },
+          {
+            "word": "elated",
+            "pos": "adjective",
+            "ipa": "/iˈleɪtɪd/",
+            "meaning": "sangat gembira, girang sekali",
+            "example": "The team were elated by their unexpected victory."
+          },
+          {
+            "word": "apprehensive",
+            "pos": "adjective",
+            "ipa": "/ˌæprɪˈhensɪv/",
+            "meaning": "cemas, khawatir (tentang hal yang akan terjadi)",
+            "example": "Many staff are apprehensive about the planned restructuring."
+          },
+          {
+            "word": "wistful",
+            "pos": "adjective",
+            "ipa": "/ˈwɪstfl/",
+            "meaning": "sendu karena merindukan sesuatu yang hilang atau tak tercapai",
+            "example": "She cast a wistful look at the boats leaving the harbour."
+          },
+          {
+            "word": "rueful",
+            "pos": "adjective",
+            "ipa": "/ˈruːfl/",
+            "meaning": "menyesal (sering dengan sedikit humor)",
+            "example": "He gave a rueful shrug and admitted he had forgotten the tickets."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "absolutely / utterly + extreme emotion adjective",
+            "example": "She was absolutely livid.",
+            "note": "Extreme emotion words are ungradable and avoid very."
+          },
+          {
+            "pattern": "emotion adjective + dependent preposition",
+            "example": "apprehensive about, nostalgic for, indignant at, petrified of, exasperated by",
+            "note": "Learn the preposition together with the adjective."
+          },
+          {
+            "pattern": "a + emotion adjective + noun (smile, look, sigh, laugh)",
+            "example": "a rueful smile, a wistful sigh",
+            "note": "Wistful and rueful are most often used attributively before nouns like these."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "She was very elated about the news.",
+            "right": "She was absolutely elated about the news.",
+            "why": "Elated already expresses an extreme degree; very sounds unnatural with it."
+          },
+          {
+            "wrong": "He is nostalgic about the future and can't wait for it to begin.",
+            "right": "He is excited about the future and can't wait for it to begin.",
+            "why": "Nostalgia refers to the past; it cannot be directed at the future."
+          },
+          {
+            "wrong": "I was content when I won the lottery and screamed with joy.",
+            "right": "I was ecstatic when I won the lottery and screamed with joy.",
+            "why": "Content means quietly satisfied; screaming with joy requires an extreme word such as ecstatic or elated."
+          },
+          {
+            "wrong": "The villagers were petrified from the approaching storm.",
+            "right": "The villagers were petrified of the approaching storm.",
+            "why": "Petrified takes the preposition of (or by), not from."
+          }
+        ],
+        "summary": "Emotion words form scales of intensity (irritated → exasperated → livid; content → delighted → elated). Some near synonyms differ in cause or quality: indignant implies unfairness, apprehensive looks ahead, nostalgic and wistful look back, rueful implies regret. Keep the intensity proportional to the cause unless you intend irony.",
+        "reviewCards": [
+          {
+            "front": "irritated → exasperated → livid",
+            "back": "anger from mild to extreme"
+          },
+          {
+            "front": "apprehensive",
+            "back": "worried about something that is about to happen"
+          },
+          {
+            "front": "nostalgic vs wistful",
+            "back": "fondly remembering the past vs sadly longing for something lost or unattainable"
+          },
+          {
+            "front": "rueful",
+            "back": "regretful, often with a slightly humorous acceptance of one's own mistake"
+          },
+          {
+            "front": "indignant",
+            "back": "angry because something seems unfair (indignant at/about)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u04-l2-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "emotion vocabulary",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sequence moves correctly from the mildest to the strongest feeling of anger?",
+          "instructions": "Start with the word you might use when someone keeps tapping a pen near you, and end with the word for overwhelming rage.",
+          "options": [
+            "irritated → exasperated → livid",
+            "livid → irritated → exasperated",
+            "exasperated → livid → irritated",
+            "irritated → livid → exasperated"
+          ],
+          "answer": 0,
+          "explanation": "Irritated is mild annoyance, exasperated means your patience has run out, and livid is extreme anger. Every other sequence places livid before a weaker word."
+        },
+        {
+          "id": "c2-u04-l2-q2",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "emotion vocabulary",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Drag the words into the gaps. Pay attention to the modifiers and articles.",
+          "text": "After forty minutes on hold, Dara felt mildly ___. When the clerk finally admitted that her application had been lost, she was absolutely ___. Months later, she could recall the whole saga with a ___ smile.",
+          "bank": ["irritated", "livid", "rueful", "elated", "petrified", "apprehensive"],
+          "answers": ["irritated", "livid", "rueful"],
+          "explanation": "Mildly signals a weak emotion: irritated. Absolutely needs an extreme, ungradable adjective that fits the anger of the situation: livid. Looking back on one's frustration with a mixture of regret and humour is a rueful smile. Elated and petrified are extreme but express the wrong emotions, and 'a apprehensive' would be grammatically impossible."
+        },
+        {
+          "id": "c2-u04-l2-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "emotion vocabulary",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Match each adjective with its definition.",
+          "pairs": [
+            { "left": "wistful", "right": "gently sad while longing for something lost or out of reach" },
+            { "left": "nostalgic", "right": "affectionately remembering a happier time in the past" },
+            { "left": "rueful", "right": "expressing regret, often with a touch of humour" },
+            { "left": "apprehensive", "right": "worried that something unpleasant is going to happen" },
+            { "left": "elated", "right": "extremely happy and excited" }
+          ],
+          "explanation": "Wistful and nostalgic both look away from the present, but nostalgic is specifically about fond memories of the past, while wistful is a soft sadness of longing. Rueful involves regret, apprehensive looks forward with worry, and elated is an extreme form of happiness."
+        },
+        {
+          "id": "c2-u04-l2-q4",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "emotion vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the reply that is consistent in meaning.",
+          "dialogue": [
+            { "speaker": "Mira", "text": "How did you feel when they announced you'd won the scholarship?" },
+            { "speaker": "Jonah", "text": null }
+          ],
+          "options": [
+            "Elated — I couldn't stop grinning for days.",
+            "Livid — I'd worked so hard for it.",
+            "Apprehensive — I was thrilled beyond words.",
+            "Rueful — it was the best news of my life."
+          ],
+          "answer": 0,
+          "explanation": "Elated (extremely happy) matches grinning for days. Livid expresses anger, which makes no sense after winning. Apprehensive (worried) contradicts 'thrilled beyond words', and rueful (regretful) contradicts 'the best news of my life'."
+        },
+        {
+          "id": "c2-u04-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "emotion vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Correct the sentence by fixing the dependent preposition.",
+          "sentence": "Many employees are apprehensive for the planned restructuring.",
+          "answers": [
+            "Many employees are apprehensive about the planned restructuring.",
+            "Many employees are apprehensive of the planned restructuring."
+          ],
+          "explanation": "Apprehensive is followed by about (most common) or of. 'Apprehensive for' is used only in the sense of worrying on someone's behalf (apprehensive for her safety), which does not fit a restructuring."
+        },
+        {
+          "id": "c2-u04-l2-q6",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "emotion vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Aiko had explained the procedure for the fifth time, and the trainee still had not listened. Her tone was one of utter ___.",
+          "options": ["exasperation", "elation", "apprehension", "nostalgia"],
+          "answer": 0,
+          "explanation": "Exasperation is the feeling of having run out of patience because something keeps happening, which fits explaining the same thing five times. Elation (joy), apprehension (worry about the future) and nostalgia (fondness for the past) do not fit the situation."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u04-l3-collocational-restrictions",
+      "title": "Words That Keep Company: Collocational Restrictions",
+      "summary": "Use strong, natural collocations and avoid combinations that a proficient speaker would reject.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Explain why some combinations are natural (heavy rain) while near equivalents are not (strong rain)",
+        "Use verb + noun, adverb + adjective and adjective + noun collocations accurately",
+        "Correct collocation errors in formal writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is a collocational restriction?\nA **collocation** is a habitual combination of words. Many collocations cannot be predicted from meaning alone: we say *heavy rain* and *strong wind*, but not *strong rain* or *heavy wind*. We *commit* a crime but *make* a mistake. These limits are called **collocational restrictions**. Breaking them rarely blocks understanding, but it immediately marks writing as non-native. At C2, accurate collocation is one of the clearest signs of proficiency.\n\n### Key types\n| Type | Natural | Unnatural |\n|---|---|---|\n| adjective + noun | heavy rain, strong wind, a tall order, a narrow escape | strong rain, a high order, a thin escape |\n| verb + noun | commit a crime, pose a threat, bear a resemblance, pay tribute, raise doubts | do a crime, make a threat to (= endanger), have a resemblance to, give tribute |\n| adverb + adjective | bitterly disappointed, deeply moved, highly unlikely, painfully slow | strongly disappointed, highly moved, deeply unlikely |\n| adverb + verb | flatly refuse, strongly recommend, vaguely remember, firmly believe | heavily refuse, bitterly recommend |\n\n### Delexical verbs: make, do, take, have\nThe commonest mistakes involve verbs with little meaning of their own. As a guide, **make** often refers to producing or creating (*make a decision, make progress, make concessions, make an effort*) and **do** to performing tasks (*do research, do damage, do someone a favour*). **Take** appears in *take a decision* (British English, alongside *make a decision*), *take steps, take precedence*; **have** in *have an impact, have a word with someone*. These are tendencies, not rules, so collocations must be learned item by item.\n\n### Idiomatic collocations\nSome collocations have become fixed idioms:\n- *a tall order* = a very difficult task;\n- *turn a blind eye to* = deliberately ignore;\n- *a foregone conclusion* = a result that is certain in advance;\n- *a sweeping generalisation* = a statement that is far too broad.\n\nYou cannot replace the key word with a synonym: *a high order*, *close a blind eye*, *a finished conclusion* and *a wide generalisation* lose the idiomatic meaning.\n\n### How to learn collocations\n1. Record words with their partners, not alone: *pose (a threat / a question / a risk / a challenge)*.\n2. When reading, notice the adverbs used with adjectives (*acutely aware*, *eminently sensible*).\n3. Use a collocation dictionary or corpus examples to check combinations before using them in formal writing.\n4. Be suspicious of direct translation: Indonesian *hujan deras* is *heavy rain*, not *fast rain*.",
+        "examples": [
+          {
+            "en": "Heavy rain and strong winds are expected along the coast tonight.",
+            "id": "Hujan deras dan angin kencang diperkirakan terjadi di sepanjang pantai malam ini.",
+            "note": "heavy rain / strong wind — not strong rain / heavy wind."
+          },
+          {
+            "en": "The rising sea level poses a serious threat to the islands.",
+            "id": "Naiknya permukaan laut menimbulkan ancaman serius bagi pulau-pulau itu.",
+            "note": "pose a threat / risk / challenge."
+          },
+          {
+            "en": "The minister flatly refused to comment on the leaked report.",
+            "id": "Menteri itu dengan tegas menolak berkomentar tentang laporan yang bocor itu.",
+            "note": "flatly refuse / deny = completely and firmly."
+          },
+          {
+            "en": "Finishing the renovation before the festival is a tall order.",
+            "id": "Menyelesaikan renovasi sebelum festival adalah tugas yang sangat berat.",
+            "note": "a tall order = a very difficult task."
+          },
+          {
+            "en": "We were bitterly disappointed by the committee's decision.",
+            "id": "Kami sangat kecewa dengan keputusan komite itu.",
+            "note": "bitterly disappointed — not strongly disappointed."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "pose",
+            "pos": "verb",
+            "ipa": "/pəʊz/",
+            "meaning": "menimbulkan (ancaman, risiko, tantangan, pertanyaan)",
+            "example": "Antibiotic resistance poses a major challenge to modern medicine."
+          },
+          {
+            "word": "resemblance",
+            "pos": "noun",
+            "ipa": "/rɪˈzembləns/",
+            "meaning": "kemiripan",
+            "example": "The new building bears a striking resemblance to the old station."
+          },
+          {
+            "word": "flatly",
+            "pos": "adverb",
+            "ipa": "/ˈflætli/",
+            "meaning": "secara tegas/mentah-mentah (menolak, menyangkal)",
+            "example": "The company flatly denied any wrongdoing."
+          },
+          {
+            "word": "tall order",
+            "pos": "noun phrase",
+            "ipa": "/ˌtɔːl ˈɔːdə/",
+            "meaning": "tugas/permintaan yang sangat sulit",
+            "example": "Cutting costs by half without job losses is a tall order."
+          },
+          {
+            "word": "concession",
+            "pos": "noun",
+            "ipa": "/kənˈseʃn/",
+            "meaning": "konsesi, kelonggaran yang diberikan dalam negosiasi",
+            "example": "Both sides made concessions to reach an agreement."
+          },
+          {
+            "word": "sweeping",
+            "pos": "adjective",
+            "ipa": "/ˈswiːpɪŋ/",
+            "meaning": "terlalu luas/umum (generalisasi); menyeluruh (perubahan)",
+            "example": "It is a sweeping generalisation to say that all teenagers are lazy."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "pose + a threat / a risk / a challenge / a question + to + noun",
+            "example": "The new virus poses a risk to elderly patients.",
+            "note": "Pose is more formal than cause or present in this sense."
+          },
+          {
+            "pattern": "bear + a resemblance / no relation / the hallmarks + to/of",
+            "example": "The plan bears little resemblance to the original proposal.",
+            "note": "Bear (bore, borne) is the typical verb; have a resemblance is unnatural."
+          },
+          {
+            "pattern": "intensifying adverb + adjective (fixed pairings)",
+            "example": "bitterly disappointed, deeply moved, highly unlikely, acutely aware",
+            "note": "Each adverb collocates with a limited set of adjectives."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Both sides did important concessions.",
+            "right": "Both sides made important concessions.",
+            "why": "The verb that collocates with concession is make."
+          },
+          {
+            "wrong": "It is deeply disappointing that he strongly refused our offer.",
+            "right": "It is deeply disappointing that he flatly refused our offer.",
+            "why": "Refuse collocates with flatly (or point-blank), not strongly."
+          },
+          {
+            "wrong": "The two paintings have a strong resemblance.",
+            "right": "The two paintings bear a strong resemblance to each other.",
+            "why": "Resemblance is normally borne, not had, and is followed by to."
+          },
+          {
+            "wrong": "There was strong rain all night.",
+            "right": "There was heavy rain all night.",
+            "why": "Rain collocates with heavy; wind collocates with strong."
+          }
+        ],
+        "summary": "Collocations are habitual word partnerships that cannot be predicted from meaning alone: heavy rain, pose a threat, bear a resemblance, flatly refuse, bitterly disappointed. Learn words together with their partners, be especially careful with make/do/take/have, and treat idiomatic collocations such as a tall order as fixed.",
+        "reviewCards": [
+          {
+            "front": "___ rain / ___ wind",
+            "back": "heavy rain / strong wind"
+          },
+          {
+            "front": "pose ___",
+            "back": "a threat, a risk, a challenge, a question"
+          },
+          {
+            "front": "a tall order",
+            "back": "a task that is very difficult to achieve"
+          },
+          {
+            "front": "___ refuse / ___ deny",
+            "back": "flatly (or point-blank) refuse / flatly deny"
+          },
+          {
+            "front": "turn a blind eye to",
+            "back": "deliberately ignore something wrong"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u04-l3-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "collocation",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Choose the natural collocation: \"The match was postponed because of ___ rain.\"",
+          "instructions": "Think of the Indonesian 'hujan deras'. English uses an adjective related to weight, not force.",
+          "options": ["strong", "heavy", "thick", "powerful"],
+          "answer": 1,
+          "explanation": "Rain collocates with heavy (heavy rain, heavy snow). Strong and powerful collocate with wind, and thick collocates with fog or smoke, so none of them combine naturally with rain."
+        },
+        {
+          "id": "c2-u04-l3-q2",
+          "type": "multiple_select",
+          "category": "vocabulary",
+          "topic": "collocation",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Select ALL the natural collocations.",
+          "options": [
+            "commit a crime",
+            "pose a threat",
+            "make a crime",
+            "bear a resemblance",
+            "do a threat",
+            "flatly refuse",
+            "bitterly disappointed"
+          ],
+          "answers": [0, 1, 3, 5, 6],
+          "explanation": "Crimes are committed, threats are posed, resemblances are borne, refusals are flat and disappointment is bitter. 'Make a crime' and 'do a threat' break collocational restrictions and would be rejected by proficient speakers."
+        },
+        {
+          "id": "c2-u04-l3-q3",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "collocation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the natural collocation for each gap.",
+          "text": "Raising the full amount in a single week is a ___ order, but the committee is ___ determined to try.",
+          "choices": [
+            ["tall", "high", "steep"],
+            ["fiercely", "heavily", "bitterly"]
+          ],
+          "answers": [0, 0],
+          "explanation": "A tall order is the fixed expression for a very difficult task; high and steep do not form this idiom. Fiercely determined is a natural adverb + adjective collocation; heavily and bitterly do not combine with determined."
+        },
+        {
+          "id": "c2-u04-l3-q4",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "collocation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment with a collocation error.",
+          "segments": [
+            "Several delegates raised doubts,",
+            "but the chairman",
+            "made a blind eye",
+            "to their objections."
+          ],
+          "errorIndex": 2,
+          "correction": "turned a blind eye",
+          "explanation": "The fixed expression is turn a blind eye to (deliberately ignore). 'Raised doubts' in the first segment is a correct collocation."
+        },
+        {
+          "id": "c2-u04-l3-q5",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "collocation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into English using a natural collocation with 'threat'.",
+          "source": "Usulan itu menimbulkan ancaman serius bagi lingkungan.",
+          "direction": "id-en",
+          "answers": [
+            "The proposal poses a serious threat to the environment.",
+            "That proposal poses a serious threat to the environment.",
+            "The proposal posed a serious threat to the environment.",
+            "That proposal posed a serious threat to the environment.",
+            "The proposal presents a serious threat to the environment.",
+            "The proposal represents a serious threat to the environment.",
+            "The proposal constitutes a serious threat to the environment.",
+            "The suggestion poses a serious threat to the environment.",
+            "The plan poses a serious threat to the environment.",
+            "The proposal poses a grave threat to the environment.",
+            "The proposal poses a serious environmental threat."
+          ],
+          "explanation": "Menimbulkan ancaman is best rendered as pose a threat (to). Present, represent or constitute a threat are also acceptable; 'make a threat' would mean to threaten someone verbally, and 'cause a threat' is unidiomatic."
+        },
+        {
+          "id": "c2-u04-l3-q6",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "collocation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete with the verb that collocates with 'resemblance'.",
+          "text": "The finished portrait ___ little resemblance to the woman who sat for it.",
+          "answers": [["bears", "bore"]],
+          "explanation": "Resemblance collocates with bear (bears in the present, bore in the past). 'Has little resemblance' and 'makes little resemblance' are unnatural."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u04-l4-gradable-adjectives",
+      "title": "Very Good, Absolutely Superb: Gradable and Ungradable Adjectives",
+      "summary": "Pair gradable and ungradable adjectives with the intensifiers that suit them.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Distinguish gradable adjectives from extreme and absolute (ungradable) adjectives",
+        "Choose appropriate intensifiers and downtoners for each type",
+        "Interpret the two meanings of quite in British English"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Two kinds of adjective\n**Gradable** adjectives describe qualities that can exist in degrees: a room can be *slightly*, *fairly* or *very* cold. **Ungradable** adjectives describe either an **extreme** of a quality (*freezing, enormous, exhausted, furious*) or an **absolute**, all-or-nothing state (*unique, impossible, dead, perfect, unanimous*). Because ungradable adjectives already express a limit, they do not normally combine with *very*, *extremely* or *slightly*.\n\n### Matching intensifiers\n| Adjective type | Examples | Natural modifiers | Unnatural |\n|---|---|---|---|\n| Gradable | cold, tired, good, big, angry, hungry | very, extremely, fairly, slightly, a bit, rather, incredibly | absolutely, utterly, completely |\n| Extreme | freezing, exhausted, superb, enormous, furious, starving | absolutely, utterly, totally, really, quite (= completely) | very, extremely, slightly, a bit |\n| Absolute | impossible, unique, perfect, unanimous, identical | absolutely, completely, entirely, almost, virtually, nearly | very, a bit, slightly |\n\n*Really* is the flexible exception: it works with both types (*really cold*, *really freezing*).\n\n### Gradable–extreme pairs\n| Gradable | Extreme |\n|---|---|\n| tired | exhausted |\n| hungry | starving, famished |\n| small | tiny, minuscule |\n| good | superb, outstanding, excellent |\n| angry | furious, livid |\n| surprised | astonished, astounded |\n| frightened | terrified, petrified |\n\n### The two meanings of *quite*\nIn British English, *quite* with a **gradable** adjective means *fairly* or *moderately*: *The film was quite good* (= reasonably good, but not excellent). With an **ungradable** adjective it means *completely*: *You're quite right*, *That's quite impossible*. In American English, *quite* with gradable adjectives usually means *very*, so *quite good* sounds more positive to an American listener. Intonation and context help resolve the meaning.\n\n### Nuance in academic and formal writing\nIn formal writing, avoid piling intensifiers on extreme adjectives (*absolutely enormous*) unless you aim for emphasis, and prefer precise downtoners for gradable adjectives: *moderately successful*, *relatively small*, *marginally higher*. *Almost* and *virtually* are useful with absolutes: *The two samples were virtually identical.*\n\n### Breaking the rule for effect\nNative speakers sometimes say *very unique* or *very perfect*, and comic writers use *slightly terrified* for ironic effect. In careful writing and exams, however, follow the standard pattern: these combinations are widely regarded as errors.",
+        "examples": [
+          {
+            "en": "The view from the summit was absolutely magnificent.",
+            "id": "Pemandangan dari puncak benar-benar luar biasa megah.",
+            "note": "Magnificent is extreme, so absolutely, not very."
+          },
+          {
+            "en": "The water was very cold, but after an hour we were absolutely freezing.",
+            "id": "Airnya sangat dingin, tetapi setelah satu jam kami benar-benar kedinginan.",
+            "note": "Cold is gradable; freezing is extreme."
+          },
+          {
+            "en": "The two signatures are virtually identical.",
+            "id": "Kedua tanda tangan itu nyaris identik.",
+            "note": "Virtually/almost work with absolute adjectives."
+          },
+          {
+            "en": "\"Was the lecture any good?\" \"It was quite good, but I've heard better.\"",
+            "id": "\"Kuliahnya bagus?\" \"Lumayan bagus, tapi saya pernah mendengar yang lebih baik.\"",
+            "note": "British quite + gradable = fairly."
+          },
+          {
+            "en": "You're quite right: the deadline is quite impossible.",
+            "id": "Anda benar sekali: tenggat waktu itu sama sekali tidak mungkin dipenuhi.",
+            "note": "Quite + ungradable = completely."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "exhausted",
+            "pos": "adjective",
+            "ipa": "/ɪɡˈzɔːstɪd/",
+            "meaning": "sangat lelah, kehabisan tenaga",
+            "example": "After the night shift, the nurses were utterly exhausted."
+          },
+          {
+            "word": "minuscule",
+            "pos": "adjective",
+            "ipa": "/ˈmɪnəskjuːl/",
+            "meaning": "sangat kecil, amat sedikit",
+            "example": "The risk is minuscule compared with the benefits."
+          },
+          {
+            "word": "famished",
+            "pos": "adjective",
+            "ipa": "/ˈfæmɪʃt/",
+            "meaning": "sangat lapar, kelaparan",
+            "example": "We were famished after the long hike."
+          },
+          {
+            "word": "unanimous",
+            "pos": "adjective",
+            "ipa": "/juˈnænɪməs/",
+            "meaning": "bulat, disetujui semua pihak",
+            "example": "The board reached a unanimous decision."
+          },
+          {
+            "word": "virtually",
+            "pos": "adverb",
+            "ipa": "/ˈvɜːtʃuəli/",
+            "meaning": "hampir sepenuhnya, nyaris",
+            "example": "It is virtually impossible to get a ticket now."
+          },
+          {
+            "word": "astounded",
+            "pos": "adjective",
+            "ipa": "/əˈstaʊndɪd/",
+            "meaning": "sangat tercengang",
+            "example": "The audience was astounded by the young pianist's skill."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "very / extremely / fairly / slightly + gradable adjective",
+            "example": "The exam was extremely difficult.",
+            "note": "Gradable adjectives accept a full range of degree modifiers."
+          },
+          {
+            "pattern": "absolutely / utterly / totally + extreme adjective",
+            "example": "The exam was absolutely impossible to finish in time.",
+            "note": "Extreme adjectives reject very and slightly."
+          },
+          {
+            "pattern": "almost / virtually / nearly / completely + absolute adjective",
+            "example": "The results were almost identical.",
+            "note": "Absolute adjectives can be approached (almost) or confirmed (completely)."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "After the marathon I was very exhausted.",
+            "right": "After the marathon I was absolutely exhausted.",
+            "why": "Exhausted is extreme; use absolutely, utterly or completely, or use very tired."
+          },
+          {
+            "wrong": "The hotel was absolutely big.",
+            "right": "The hotel was absolutely enormous.",
+            "why": "Big is gradable and takes very or extremely; absolutely requires an extreme adjective such as enormous or huge."
+          },
+          {
+            "wrong": "Her design is very unique.",
+            "right": "Her design is truly unique.",
+            "why": "Unique is absolute (the only one of its kind), so very is widely considered incorrect; use truly, quite or absolutely."
+          },
+          {
+            "wrong": "The documentary was slightly fascinating.",
+            "right": "The documentary was absolutely fascinating.",
+            "why": "Fascinating is an extreme adjective; slightly cannot reduce an extreme."
+          }
+        ],
+        "summary": "Gradable adjectives take very, extremely, fairly and slightly; extreme and absolute adjectives take absolutely, utterly, completely, almost or virtually. Really works with both. In British English, quite means fairly with gradable adjectives and completely with ungradable ones.",
+        "reviewCards": [
+          {
+            "front": "very ___ / absolutely ___ (tired)",
+            "back": "very tired / absolutely exhausted"
+          },
+          {
+            "front": "Which intensifier works with both gradable and ungradable adjectives?",
+            "back": "really (really cold, really freezing)"
+          },
+          {
+            "front": "quite good vs quite impossible (BrE)",
+            "back": "fairly good vs completely impossible"
+          },
+          {
+            "front": "almost / virtually + ?",
+            "back": "absolute adjectives: almost impossible, virtually identical"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u04-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Choose the correct modifier: \"The view from the summit was ___ magnificent.\"",
+          "instructions": "Magnificent is already an extreme adjective. Which modifier can strengthen an extreme?",
+          "options": ["very", "absolutely", "slightly", "fairly"],
+          "answer": 1,
+          "explanation": "Magnificent is ungradable (extreme), so it takes absolutely. Very, slightly and fairly are degree modifiers for gradable adjectives such as beautiful or impressive."
+        },
+        {
+          "id": "c2-u04-l4-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Drag the correct modifier into each gap.",
+          "text": "Overall, the students' results were ___ good, and Mira's dissertation was ___ outstanding.",
+          "bank": ["very", "absolutely", "slightly", "a bit"],
+          "answers": ["very", "absolutely"],
+          "explanation": "Good is gradable and takes very; outstanding is extreme and takes absolutely. 'Absolutely good' and 'very outstanding' break the pattern, and slightly / a bit are used mainly with neutral or negative gradable adjectives, not to praise."
+        },
+        {
+          "id": "c2-u04-l4-q3",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Select ALL the adjectives that are ungradable (extreme or absolute) and therefore normally combine with 'absolutely' rather than 'very'.",
+          "options": ["furious", "angry", "exhausted", "tired", "unique", "interesting", "starving"],
+          "answers": [0, 2, 4, 6],
+          "explanation": "Furious, exhausted and starving are extreme forms of angry, tired and hungry; unique is absolute. Angry, tired and interesting are gradable and take very."
+        },
+        {
+          "id": "c2-u04-l4-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment with an inappropriate intensifier.",
+          "segments": [
+            "By the end of the marathon,",
+            "the runners were",
+            "very exhausted",
+            "and extremely thirsty."
+          ],
+          "errorIndex": 2,
+          "correction": "absolutely exhausted",
+          "explanation": "Exhausted is an extreme adjective, so it needs absolutely, utterly or completely. Thirsty is gradable, so extremely thirsty is correct."
+        },
+        {
+          "id": "c2-u04-l4-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "In British English, in which sentence does 'quite' mean 'completely'?",
+          "options": [
+            "The plan is quite good.",
+            "The plan is quite impossible.",
+            "The plan is quite interesting.",
+            "The plan is quite cheap."
+          ],
+          "answer": 1,
+          "explanation": "With an ungradable adjective such as impossible, quite means completely. With the gradable adjectives good, interesting and cheap, British quite means fairly or moderately."
+        },
+        {
+          "id": "c2-u04-l4-q6",
+          "type": "short_answer",
+          "category": "vocabulary",
+          "topic": "gradable and ungradable adjectives",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Write ONE extreme adjective that means 'very hungry' and can follow 'absolutely'.",
+          "answers": ["starving", "famished", "ravenous", "starved"],
+          "explanation": "Starving, famished and ravenous are extreme equivalents of very hungry, so they combine with absolutely (absolutely starving). Hungry itself is gradable."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u04-l5-evaluative-vocabulary",
+      "title": "Cogent, Dubious, Meticulous: The Language of Judgement",
+      "summary": "Evaluate arguments, work and behaviour with precise vocabulary of praise and criticism.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use precise adjectives to praise or criticise arguments and evidence",
+        "Distinguish positive and negative judgements of carefulness (meticulous vs pedantic)",
+        "Write balanced evaluations that combine praise and criticism"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why evaluation needs precise words\nReviews, peer assessments, reports and essays all require **evaluation**. Words such as *good* and *bad* reveal your opinion but not your reasons. Precise evaluative vocabulary tells the reader **what kind** of strength or weakness you see: is an argument *flawed* (it contains a mistake) or *spurious* (it only appears valid)? Is a researcher *meticulous* (admirably careful) or *pedantic* (fussy about trivial details)?\n\n### Evaluating arguments and evidence\n| Positive | Meaning | Negative | Meaning |\n|---|---|---|---|\n| cogent | clear, logical, convincing | flawed | containing a significant mistake |\n| compelling | so convincing it demands attention | spurious | false, though appearing genuine |\n| rigorous | thorough and exact | dubious | of uncertain truth or honesty |\n| well-founded | based on good evidence | tenuous | very weak or slight (a tenuous link) |\n| incisive | sharp and penetrating | specious | superficially plausible but wrong |\n\n### Evaluating actions and people\n| Positive | Negative near synonym |\n|---|---|\n| commendable, laudable, praiseworthy | misguided, ill-advised |\n| meticulous, painstaking | pedantic, fussy |\n| principled | dogmatic |\n| measured (calm, careful) | half-hearted, lukewarm |\n\n*Laudable* and *commendable* are often used for **intentions** that did not fully succeed: *a laudable aim, poorly executed*. This makes them useful in balanced criticism.\n\n### Structuring a balanced evaluation\nAt C2, evaluations are rarely all positive or all negative. Common frames include:\n- **concession + criticism**: *While the aims are laudable, the methodology is seriously flawed.*\n- **praise + limitation**: *The analysis is rigorous, if somewhat narrow in scope.*\n- **dismissal with hedge**: *The evidence is dubious at best.*\n\nThe phrase **at best** signals that even the most generous interpretation is negative: *The link between the two events is tenuous at best.* **To say the least** works similarly: *The timing was unfortunate, to say the least.*\n\n### Register\nMost words in this lesson are formal and typical of academic reviews, reports and quality journalism. In conversation, speakers are more likely to say *convincing*, *a bit fishy* or *fussy*. Choosing *cogent* or *specious* in a seminar or written review shows mastery; using them in casual chat may sound pompous.",
+        "examples": [
+          {
+            "en": "The author presents a cogent case for reforming the tax system.",
+            "id": "Penulis menyajikan argumen yang kuat dan logis untuk mereformasi sistem pajak.",
+            "note": "Cogent = logical and convincing."
+          },
+          {
+            "en": "While the aims of the scheme are laudable, its execution has been seriously flawed.",
+            "id": "Meskipun tujuan program itu patut dipuji, pelaksanaannya sangat bermasalah.",
+            "note": "Concession + criticism."
+          },
+          {
+            "en": "The link between diet and the disease is tenuous at best.",
+            "id": "Hubungan antara pola makan dan penyakit itu paling banter sangat lemah.",
+            "note": "At best signals a negative evaluation."
+          },
+          {
+            "en": "Dr. Okafor's meticulous record-keeping made the audit straightforward.",
+            "id": "Pencatatan Dr. Okafor yang sangat teliti membuat audit berjalan lancar.",
+            "note": "Meticulous is approving."
+          },
+          {
+            "en": "Correcting every comma while ignoring the argument struck the students as pedantic.",
+            "id": "Mengoreksi setiap koma sambil mengabaikan argumennya terkesan terlalu remeh-temeh bagi para mahasiswa.",
+            "note": "Pedantic is disapproving."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "cogent",
+            "pos": "adjective",
+            "ipa": "/ˈkəʊdʒənt/",
+            "meaning": "kuat, logis, dan meyakinkan (argumen)",
+            "example": "She offered a cogent explanation for the delay."
+          },
+          {
+            "word": "spurious",
+            "pos": "adjective",
+            "ipa": "/ˈspjʊəriəs/",
+            "meaning": "palsu, tidak sahih meskipun tampak benar",
+            "example": "The study relied on a spurious correlation."
+          },
+          {
+            "word": "dubious",
+            "pos": "adjective",
+            "ipa": "/ˈdjuːbiəs/",
+            "meaning": "meragukan, patut dicurigai",
+            "example": "The company has a dubious reputation."
+          },
+          {
+            "word": "laudable",
+            "pos": "adjective",
+            "ipa": "/ˈlɔːdəbl/",
+            "meaning": "patut dipuji",
+            "example": "Reducing waste is a laudable goal."
+          },
+          {
+            "word": "meticulous",
+            "pos": "adjective",
+            "ipa": "/məˈtɪkjələs/",
+            "meaning": "sangat teliti dan cermat",
+            "example": "The restoration required meticulous attention to detail."
+          },
+          {
+            "word": "pedantic",
+            "pos": "adjective",
+            "ipa": "/pɪˈdæntɪk/",
+            "meaning": "terlalu mempersoalkan hal-hal kecil atau aturan",
+            "example": "Don't be pedantic — everyone understood what she meant."
+          },
+          {
+            "word": "tenuous",
+            "pos": "adjective",
+            "ipa": "/ˈtenjuəs/",
+            "meaning": "sangat lemah, tipis (hubungan, bukti)",
+            "example": "The connection between the two cases is tenuous."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "While + positive evaluation, + negative evaluation",
+            "example": "While the proposal is commendable, its costs are unrealistic.",
+            "note": "Concession frame for balanced criticism."
+          },
+          {
+            "pattern": "adjective + at best / to say the least",
+            "example": "The evidence is dubious at best.",
+            "note": "Signals that even a generous reading is negative."
+          },
+          {
+            "pattern": "adjective + if + contrasting adjective",
+            "example": "a rigorous, if somewhat narrow, analysis",
+            "note": "If here means 'although'; formal written style."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Her pedantic research earned her the award for best dissertation.",
+            "right": "Her meticulous research earned her the award for best dissertation.",
+            "why": "Pedantic is disapproving; an award implies praise, so meticulous is required."
+          },
+          {
+            "wrong": "The argument was so spurious that it convinced the whole panel.",
+            "right": "The argument was so cogent that it convinced the whole panel.",
+            "why": "Spurious means false or invalid; an argument that convinces for good reasons is cogent."
+          },
+          {
+            "wrong": "The evidence is dubious at worst.",
+            "right": "The evidence is dubious at best.",
+            "why": "At best introduces the most favourable interpretation, which here is still negative; at worst would imply something even worse is the default."
+          }
+        ],
+        "summary": "Precise evaluative words specify the strength or weakness you see: cogent, compelling and rigorous praise arguments; flawed, spurious, dubious and tenuous criticise them. Meticulous is approving while pedantic is disapproving. Balanced C2 evaluations combine concession and criticism, often with frames such as while..., if... and at best.",
+        "reviewCards": [
+          {
+            "front": "cogent",
+            "back": "clear, logical and convincing"
+          },
+          {
+            "front": "spurious",
+            "back": "false or invalid, despite appearing genuine"
+          },
+          {
+            "front": "meticulous vs pedantic",
+            "back": "admirably careful vs excessively concerned with trivial details"
+          },
+          {
+            "front": "dubious at best",
+            "back": "even the most generous view is that it is doubtful"
+          },
+          {
+            "front": "laudable",
+            "back": "deserving praise (often of aims or intentions)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u04-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "evaluative vocabulary",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "\"The author presents a cogent case for reform, and few readers will finish the book unconvinced.\" What does 'cogent' mean here?",
+          "instructions": "Use the second half of the sentence as a clue: what effect does the case have on readers?",
+          "options": [
+            "clear, logical and convincing",
+            "long and repetitive",
+            "emotional but unsupported",
+            "controversial and offensive"
+          ],
+          "answer": 0,
+          "explanation": "Few readers remain unconvinced, so the case must be persuasive and logical: cogent. The other options describe weaknesses that would make readers less, not more, convinced."
+        },
+        {
+          "id": "c2-u04-l5-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "evaluative vocabulary",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Match each evaluative adjective with its meaning.",
+          "pairs": [
+            { "left": "commendable", "right": "deserving praise" },
+            { "left": "spurious", "right": "false, although it appears genuine" },
+            { "left": "dubious", "right": "of uncertain truth or honesty" },
+            { "left": "meticulous", "right": "showing great, admirable attention to detail" },
+            { "left": "pedantic", "right": "excessively concerned with minor details or rules" }
+          ],
+          "explanation": "Commendable and meticulous are approving; spurious, dubious and pedantic are disapproving. Note the contrast between meticulous (care that deserves praise) and pedantic (care for trivial points that irritates others)."
+        },
+        {
+          "id": "c2-u04-l5-q3",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "evaluative vocabulary",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Choose the word that fits each gap in this review.",
+          "text": "The study is ___ in its data collection but ___ in its conclusions, which go far beyond what the evidence supports.",
+          "choices": [
+            ["meticulous", "slapdash", "spurious"],
+            ["flawed", "cogent", "laudable"]
+          ],
+          "answers": [0, 0],
+          "explanation": "But signals a contrast, and the second half is clearly critical (conclusions go beyond the evidence), so the first gap must be positive: meticulous. Conclusions that overreach are flawed; cogent and laudable would contradict the relative clause. Slapdash (careless) would not contrast with the criticism, and spurious does not describe how data is collected."
+        },
+        {
+          "id": "c2-u04-l5-q4",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "evaluative vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the fragments in order to form a balanced evaluation.",
+          "fragments": [
+            "Although the committee's motives were laudable,",
+            "its methods were questionable at best,",
+            "and the final report",
+            "was riddled with errors."
+          ],
+          "explanation": "The sentence opens with a concession (Although ... laudable), followed by the main criticism (questionable at best) and an additional criticism joined by and. Riddled with errors means full of errors."
+        },
+        {
+          "id": "c2-u04-l5-q5",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "evaluative vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Ms. Varga corrected every misplaced comma in the volunteers' notes but ignored the serious factual errors. Many volunteers found her approach ___.",
+          "options": ["pedantic", "meticulous", "commendable", "cogent"],
+          "answer": 0,
+          "explanation": "Focusing on trivial details while ignoring what matters is pedantic, a disapproving word. Meticulous and commendable would praise her, which contradicts the criticism implied by 'but ignored the serious factual errors', and cogent describes arguments, not behaviour."
+        },
+        {
+          "id": "c2-u04-l5-q6",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "evaluative vocabulary",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into English using the adjective 'flawed'.",
+          "source": "Metodologi penelitian itu cacat.",
+          "direction": "id-en",
+          "answers": [
+            "The study's methodology is flawed.",
+            "The methodology of the study is flawed.",
+            "The research methodology is flawed.",
+            "The methodology of the research is flawed.",
+            "That study's methodology is flawed.",
+            "The methodology of that study is flawed.",
+            "The study's methodology was flawed.",
+            "The methodology of the study was flawed.",
+            "The research methodology was flawed.",
+            "The methodology of the research was flawed.",
+            "The research's methodology is flawed.",
+            "The methodology used in the study is flawed.",
+            "The methodology used in the research is flawed."
+          ],
+          "explanation": "Cacat, when describing a method or argument, is best translated as flawed (containing a significant weakness). Penelitian can be rendered as study or research."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u04-t-q1",
+      "type": "single_choice",
+      "category": "vocabulary",
+      "topic": "connotation",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "A travel brochure aims to attract visitors to a quiet coastal town. Which description is most suitable?",
+      "options": [
+        "a sleepy, backward village",
+        "a tranquil, unspoilt village",
+        "a dull, remote village",
+        "a deserted, neglected village"
+      ],
+      "answer": 1,
+      "explanation": "Tranquil and unspoilt present quietness and lack of development positively. Backward, dull, deserted and neglected all carry negative connotations that would discourage visitors."
+    },
+    {
+      "id": "c2-u04-t-q2",
+      "type": "fill_blank",
+      "category": "vocabulary",
+      "topic": "collocation",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete with one adverb that collocates naturally with 'refused'.",
+      "text": "The government has ___ refused to negotiate with the strikers.",
+      "answers": [["flatly", "point-blank", "categorically", "firmly", "steadfastly", "resolutely", "consistently", "repeatedly"]],
+      "explanation": "Flatly refuse is the strongest collocation, meaning refuse completely and firmly. Point-blank, categorically, firmly and resolutely are also natural, as are adverbs of frequency such as repeatedly. 'Strongly refused' is unidiomatic."
+    },
+    {
+      "id": "c2-u04-t-q3",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "gradable and ungradable adjectives",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the correct modifier for each gap.",
+      "text": "I was ___ terrified when the plane suddenly dropped, though the flight attendants seemed only ___ concerned.",
+      "choices": [
+        ["very", "absolutely"],
+        ["mildly", "utterly"]
+      ],
+      "answers": [1, 0],
+      "explanation": "Terrified is extreme, so it takes absolutely, not very. Concerned is gradable, and 'only' signals a low degree, so mildly fits; 'utterly concerned' is unnatural because utterly modifies extreme or absolute adjectives."
+    },
+    {
+      "id": "c2-u04-t-q4",
+      "type": "error_identification",
+      "category": "vocabulary",
+      "topic": "collocation",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Find the segment with a collocation error.",
+      "segments": [
+        "The negotiations",
+        "came to a deadlock",
+        "after neither side",
+        "was willing to do any concessions."
+      ],
+      "errorIndex": 3,
+      "correction": "was willing to make any concessions.",
+      "explanation": "Concessions are made, not done. Come to a deadlock is a correct collocation meaning reach a situation where no progress is possible."
+    },
+    {
+      "id": "c2-u04-t-q5",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "evaluative vocabulary",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "\"Despite the hostile questions, her response to the criticism was measured.\" Here, 'measured' suggests that her response was:",
+      "options": [
+        "calm, careful and restrained",
+        "expressed in precise numbers",
+        "slow and boring",
+        "angry but hidden"
+      ],
+      "answer": 0,
+      "explanation": "A measured response is calm and carefully controlled, which is notable precisely because the questions were hostile. The meaning 'expressed in numbers' relates to the literal verb measure, not this evaluative adjective."
+    },
+    {
+      "id": "c2-u04-t-q6",
+      "type": "sentence_transformation",
+      "category": "writing",
+      "topic": "connotation",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it describes the same behaviour approvingly, replacing only the adjective.",
+      "sentence": "The negotiator was pushy.",
+      "cue": "Keep the structure 'The negotiator was ...'.",
+      "answers": [
+        "The negotiator was assertive.",
+        "The negotiator was persistent.",
+        "The negotiator was determined.",
+        "The negotiator was confident.",
+        "The negotiator was self-assured.",
+        "The negotiator was tenacious.",
+        "The negotiator was resolute.",
+        "The negotiator was forthright.",
+        "The negotiator was firm.",
+        "The negotiator was persuasive."
+      ],
+      "explanation": "Pushy criticises someone for forcing their views on others. Assertive, persistent, determined, tenacious and similar words describe the same energy approvingly."
+    }
+  ]
+}

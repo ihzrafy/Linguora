@@ -1,0 +1,1562 @@
+{
+  "level": "B2",
+  "grammarTopics": [
+    {
+      "slug": "b2-perfect-continuous-tenses",
+      "title": "Perfect Continuous Tenses",
+      "category": "tense",
+      "explanation": "### What they have in common\nAll perfect continuous tenses use **been + verb-ing** and look back from a reference point (now, a past moment or a future moment) to stress the **duration** of an activity or the **activity itself** rather than its result.\n\n| Tense | Reference point | Example |\n| --- | --- | --- |\n| present perfect continuous | now | *I've been studying for three hours.* |\n| past perfect continuous | a moment in the past | *I'd been studying for three hours when you called.* |\n| future perfect continuous | a moment in the future | *By six, I'll have been studying for three hours.* |\n\n### Simple or continuous?\nUse the **simple** perfect for results, numbers and completed actions (*I've written three emails*), and for stative verbs (*I've known her for years*). Use the **continuous** for ongoing or recently finished activities, especially with *for, since, how long, all day, lately*.\n\n> **Catatan:** Pola *sudah ... selama/sejak* dalam bahasa Indonesia biasanya diterjemahkan dengan perfect continuous jika aktivitasnya masih berlangsung. Jangan pakai present continuous (*I am waiting since...* ✗).",
+      "formulas": [
+        { "label": "Present perfect continuous", "pattern": "Subject + have/has been + verb-ing" },
+        { "label": "Past perfect continuous", "pattern": "Subject + had been + verb-ing" },
+        { "label": "Future perfect continuous", "pattern": "Subject + will have been + verb-ing" }
+      ],
+      "examples": {
+        "positive": ["She has been working here since March.", "They had been waiting for an hour when the doors finally opened.", "By June, I'll have been teaching for ten years."],
+        "negative": ["I haven't been sleeping well lately.", "He hadn't been feeling well, so he stayed at home."],
+        "interrogative": ["How long have you been learning English?", "Had they been arguing before you arrived?"]
+      },
+      "comparison": "Present perfect simple = result or number (I've painted two rooms). Present perfect continuous = activity or duration (I've been painting all day). Stative verbs (know, own, believe) normally take only the simple form.",
+      "mistakes": [
+        { "wrong": "I am waiting here since 10 a.m.", "right": "I have been waiting here since 10 a.m.", "why": "An activity that started in the past and continues now needs the present perfect (continuous)." },
+        { "wrong": "We have been knowing each other since school.", "right": "We have known each other since school.", "why": "Know is a stative verb and is not used in continuous forms." }
+      ],
+      "keywords": ["for", "since", "how long", "lately", "all day", "by the time"],
+      "relatedLessons": ["b2-u01-l1-present-perfect-continuous", "b2-u01-l2-simple-vs-continuous", "b2-u01-l3-past-perfect-continuous", "b2-u01-l5-progress-updates"],
+      "exercises": [
+        {
+          "id": "b2-gr-perfect-continuous-q1", "type": "fill_blank", "category": "grammar", "topic": "present perfect continuous",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the present perfect continuous form of the verb in brackets.",
+          "text": "My hands are covered in flour because I ___ (bake) all morning.",
+          "answers": [["have been baking"]],
+          "explanation": "The flour is the present result of an activity that lasted all morning → **have been baking**."
+        },
+        {
+          "id": "b2-gr-perfect-continuous-q2", "type": "single_choice", "category": "grammar", "topic": "past perfect continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "context": "By the time the rescue team found them, the climbers ___ in the snow for two days.",
+          "options": ["had been waiting", "have been waiting", "were waiting since", "wait"],
+          "answer": 0,
+          "explanation": "Duration up to a moment in the past (*by the time the rescue team found them*) → **had been waiting**."
+        },
+        {
+          "id": "b2-gr-perfect-continuous-q3", "type": "error_identification", "category": "grammar", "topic": "present perfect simple vs continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Find the error.",
+          "segments": ["She", "has been writing", "four emails", "since lunch."],
+          "errorIndex": 1,
+          "correction": "has written",
+          "explanation": "*Four emails* is a number of completed items, so we need the simple form: **has written**."
+        },
+        {
+          "id": "b2-gr-perfect-continuous-q4", "type": "sentence_transformation", "category": "grammar", "topic": "present perfect continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Combine the information in one sentence.",
+          "sentence": "Tomi started playing the guitar when he was eight. He is eighteen now, and he still plays.",
+          "cue": "Use the present perfect continuous. Begin with: Tomi ...",
+          "answers": [
+            "Tomi has been playing the guitar for ten years.",
+            "Tomi has been playing the guitar since he was eight.",
+            "Tomi's been playing the guitar for ten years.",
+            "Tomi's been playing the guitar since he was eight."
+          ],
+          "explanation": "Started in the past + still continuing → **has been playing ... for ten years / since he was eight**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-future-continuous-and-perfect",
+      "title": "Future Continuous and Future Perfect",
+      "category": "tense",
+      "explanation": "### Three advanced future forms\n| Form | Use | Example |\n| --- | --- | --- |\n| future continuous (**will be + -ing**) | an action in progress at a future time; polite questions about plans | *This time tomorrow, I'll be flying to Jayapura.* |\n| future perfect (**will have + past participle**) | an action completed before a future time | *By 2030, the city will have built a new metro line.* |\n| future perfect continuous (**will have been + -ing**) | duration up to a future time | *In May, I'll have been living here for ten years.* |\n\n### Time expressions\n*this time tomorrow/next week, at 8 p.m. tomorrow, by + time, by the time + present simple, in + period*.\n\n### Related expressions\n*be about to* (very soon), *be due to* (scheduled), *be likely to* (probable), *be bound to* (certain).\n\n> **Catatan:** Setelah *by the time / when / before*, gunakan **present simple**, bukan *will*: *By the time you arrive, I'll have finished.* Kata *by* di sini berarti *paling lambat*.",
+      "formulas": [
+        { "label": "Future continuous", "pattern": "Subject + will be + verb-ing" },
+        { "label": "Future perfect", "pattern": "Subject + will have + past participle" },
+        { "label": "Future perfect continuous", "pattern": "Subject + will have been + verb-ing" }
+      ],
+      "examples": {
+        "positive": ["At nine tomorrow, we'll be sitting our final exam.", "By the end of the month, they will have moved into their new flat."],
+        "negative": ["Don't worry, I won't be using the car tonight.", "The workers won't have finished the road by Friday."],
+        "interrogative": ["Will you be passing the post office on your way home?", "Will you have finished the report by Monday?"]
+      },
+      "comparison": "Future continuous = in progress at a future moment (At 10, I'll be writing). Future perfect = finished before a future moment (By 10, I'll have written it).",
+      "mistakes": [
+        { "wrong": "By the time we will arrive, the show will have started.", "right": "By the time we arrive, the show will have started.", "why": "Use the present simple after by the time." },
+        { "wrong": "This time next week I will lie on a beach.", "right": "This time next week I will be lying on a beach.", "why": "An action in progress at a future time needs the future continuous." }
+      ],
+      "keywords": ["this time tomorrow", "by", "by the time", "in ten years' time", "be about to", "be due to"],
+      "relatedLessons": ["b2-u02-l1-future-continuous", "b2-u02-l2-future-perfect", "b2-u02-l3-about-to-due-to-likely-to", "b2-u02-l5-making-predictions"],
+      "exercises": [
+        {
+          "id": "b2-gr-future-forms-q1", "type": "dropdown", "category": "grammar", "topic": "future continuous",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct form.",
+          "text": "Please don't phone me between two and four tomorrow afternoon. I ___ an exam.",
+          "choices": [["will be taking", "will have taken", "take"]],
+          "answers": [0],
+          "explanation": "An action in progress during a future period → **will be taking**."
+        },
+        {
+          "id": "b2-gr-future-forms-q2", "type": "fill_blank", "category": "grammar", "topic": "future perfect",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the future perfect form of the verb in brackets.",
+          "text": "By the end of this year, Ana ___ (save) enough money for a new laptop.",
+          "answers": [["will have saved"]],
+          "explanation": "Completed before a future time (*by the end of this year*) → **will have saved**."
+        },
+        {
+          "id": "b2-gr-future-forms-q3", "type": "single_choice", "category": "grammar", "topic": "future perfect continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "context": "In June, my parents ___ in this house for exactly twenty years.",
+          "options": ["will have been living", "will be lived", "have been living", "are living"],
+          "answer": 0,
+          "explanation": "Duration (*for twenty years*) up to a future point (*in June*) → **will have been living**."
+        },
+        {
+          "id": "b2-gr-future-forms-q4", "type": "word_order", "category": "grammar", "topic": "future perfect",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Will", "the", "builders", "have", "finished", "the", "roof", "by", "Friday"],
+          "explanation": "Question form of the future perfect: **Will + subject + have + past participle**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-third-and-mixed-conditionals",
+      "title": "Third and Mixed Conditionals",
+      "category": "conditionals",
+      "explanation": "### Imagining a different past\n| Conditional | If-clause | Result | Example |\n| --- | --- | --- | --- |\n| third | had + past participle | would/could/might have + past participle | *If we had left earlier, we wouldn't have missed the train.* |\n| mixed (past → present) | had + past participle | would + infinitive | *If I had taken the job, I would live in Singapore now.* |\n| mixed (present → past) | past simple | would have + past participle | *If I were braver, I would have spoken up.* |\n\n### Conditions without if\n*unless* (= if not), *provided/providing (that), as long as* (= only if), *supposing* (= imagine), *otherwise* (= if not, referring back). Formal inversion: *Had I known, I would have helped.*\n\n> **Catatan:** Jangan pernah memakai *would have* di klausa if: *If I would have known* ✗ → *If I had known* ✓. Perhatikan kata keterangan waktu (*now, yesterday*) untuk memilih jenis conditional.",
+      "formulas": [
+        { "label": "Third conditional", "pattern": "If + had + past participle, would/could/might have + past participle" },
+        { "label": "Mixed: past → present", "pattern": "If + had + past participle, would + infinitive (now)" },
+        { "label": "Mixed: present → past", "pattern": "If + past simple, would have + past participle" }
+      ],
+      "examples": {
+        "positive": ["If she had studied law, she would have become a judge.", "If I hadn't missed the bus, I would be at the meeting now."],
+        "negative": ["We wouldn't have got lost if we had taken a map."],
+        "interrogative": ["What would you have done if the bank had refused your loan?", "Would you be happier now if you had stayed in your hometown?"]
+      },
+      "comparison": "Second conditional = unreal present (If I had time, I'd help). Third = unreal past (If I'd had time, I'd have helped). Mixed conditionals combine the two time frames.",
+      "mistakes": [
+        { "wrong": "If I would have known, I would have come.", "right": "If I had known, I would have come.", "why": "The if-clause uses the past perfect, never would have." },
+        { "wrong": "Unless you don't hurry, you'll miss the train.", "right": "Unless you hurry, you'll miss the train.", "why": "Unless already means if ... not." }
+      ],
+      "keywords": ["if", "unless", "provided that", "as long as", "supposing", "otherwise"],
+      "relatedLessons": ["b2-u03-l1-third-conditional", "b2-u03-l2-mixed-conditionals", "b2-u03-l3-conditionals-without-if", "b2-u03-l5-past-and-consequences"],
+      "exercises": [
+        {
+          "id": "b2-gr-conditionals-q1", "type": "fill_blank", "category": "grammar", "topic": "third conditional",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct form. Use the words in brackets.",
+          "text": "If the taxi ___ (not / arrive) on time, we would have missed our flight.",
+          "answers": [["hadn't arrived", "had not arrived"]],
+          "explanation": "Third conditional if-clause: **hadn't + past participle**."
+        },
+        {
+          "id": "b2-gr-conditionals-q2", "type": "dropdown", "category": "grammar", "topic": "mixed conditionals",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct forms.",
+          "context": "I never learned to drive, so I couldn't take my friend to the airport yesterday.",
+          "text": "If I ___ how to drive, I ___ you to the airport yesterday.",
+          "choices": [["knew", "know", "would know"], ["would have driven", "would drive", "will drive"]],
+          "answers": [0, 0],
+          "explanation": "A general present situation (not knowing how to drive) → **knew**; a past result (*yesterday*) → **would have driven**."
+        },
+        {
+          "id": "b2-gr-conditionals-q3", "type": "sentence_transformation", "category": "grammar", "topic": "as long as",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Rewrite the sentence using as long as.",
+          "sentence": "You can use my car, but only if you return it by six.",
+          "cue": "Begin with: You can use my car ...",
+          "answers": [
+            "You can use my car as long as you return it by six.",
+            "You can use my car so long as you return it by six."
+          ],
+          "explanation": "*Only if* = **as long as** + present simple."
+        },
+        {
+          "id": "b2-gr-conditionals-q4", "type": "error_identification", "category": "grammar", "topic": "supposing",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Find the error.",
+          "segments": ["Supposing", "you would lose", "your passport abroad,", "what would you do?"],
+          "errorIndex": 1,
+          "correction": "you lost",
+          "explanation": "An imaginary situation after *supposing* uses the past simple (like the second conditional): **Supposing you lost your passport...**"
+        }
+      ]
+    },
+    {
+      "slug": "b2-advanced-passive",
+      "title": "Advanced Passive and Causative",
+      "category": "voice",
+      "explanation": "### The passive in all forms\nThe passive is **be + past participle**; only *be* changes: *is done, is being done, was done, has been done, had been done, will be done, must be done, needs to be done, being done*.\n\n### Causative\n**have/get + object + past participle** = someone else does it for you (*I had my car serviced*), or something bad happens to you (*She had her bag stolen*). **get + person + to-infinitive** = persuade someone.\n\n### Passive reporting structures\n- *It is said/believed/thought that + clause*\n- *Subject + is said/believed + to + verb* (same time) / *to have + past participle* (earlier)\n\n> **Catatan:** Awalan *di-* dalam bahasa Indonesia = *be + V3*. *Sedang di-* = *is being + V3*; *sudah di-* = *has been + V3*; *konon/diyakini* = *is said/believed to*.",
+      "formulas": [
+        { "label": "Passive", "pattern": "Subject + be (any form) + past participle (+ by agent)" },
+        { "label": "Causative", "pattern": "Subject + have/get + object + past participle" },
+        { "label": "Reporting passive", "pattern": "Subject + is said/believed + to + verb / to have + past participle" }
+      ],
+      "examples": {
+        "positive": ["The bridge is being repaired at the moment.", "We had our roof replaced last year.", "The castle is believed to have been built in the 12th century."],
+        "negative": ["The results haven't been published yet.", "This medicine shouldn't be taken with alcohol."],
+        "interrogative": ["Has the parcel been delivered yet?", "Where do you get your hair cut?"]
+      },
+      "comparison": "I repaired the bike (I did it). I had the bike repaired (a mechanic did it). I got my dad to repair the bike (I persuaded him).",
+      "mistakes": [
+        { "wrong": "The accident was happened at night.", "right": "The accident happened at night.", "why": "Happen is intransitive and cannot be passive." },
+        { "wrong": "I cut my hair at the salon yesterday.", "right": "I had my hair cut at the salon yesterday.", "why": "Use the causative when a professional does it for you." }
+      ],
+      "keywords": ["by", "being", "been", "have something done", "it is said that", "is believed to"],
+      "relatedLessons": ["b2-u04-l1-passive-all-tenses", "b2-u04-l2-passive-modals", "b2-u04-l3-causative-have-get", "b2-u04-l4-reporting-passive", "b2-u04-l5-crime-justice-media"],
+      "exercises": [
+        {
+          "id": "b2-gr-passive-q1", "type": "fill_blank", "category": "grammar", "topic": "future passive",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the passive form of the verb in brackets.",
+          "text": "The new hospital ___ (open) by the mayor next week.",
+          "answers": [["will be opened", "is going to be opened", "is being opened"]],
+          "explanation": "A future action with the focus on the hospital → **will be opened** (future passive)."
+        },
+        {
+          "id": "b2-gr-passive-q2", "type": "sentence_transformation", "category": "grammar", "topic": "passive reporting verbs",
+          "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "People think that the fire was started deliberately.",
+          "cue": "Begin with: The fire ...",
+          "answers": ["The fire is thought to have been started deliberately."],
+          "explanation": "Earlier action + passive meaning → **to have been + past participle**: *The fire is thought to have been started deliberately.*"
+        },
+        {
+          "id": "b2-gr-passive-q3", "type": "single_choice", "category": "grammar", "topic": "causative",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "context": "We don't clean the windows ourselves. We ___ them cleaned every three months.",
+          "options": ["have", "are having been", "make", "get to"],
+          "answer": 0,
+          "explanation": "Causative: **have + object + past participle** → *We have them cleaned.*"
+        },
+        {
+          "id": "b2-gr-passive-q4", "type": "error_identification", "category": "grammar", "topic": "passive with modals",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Find the error.",
+          "segments": ["All application forms", "must be", "fill in", "using black ink."],
+          "errorIndex": 2,
+          "correction": "filled in",
+          "explanation": "Modal passive: **must be + past participle** → *must be filled in*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-reporting-verbs",
+      "title": "Reporting Verbs and Reported Commands",
+      "category": "reported_speech",
+      "explanation": "### Patterns after reporting verbs\n| Pattern | Verbs |\n| --- | --- |\n| + to-infinitive | agree, offer, promise, refuse, threaten, claim |\n| + object + to-infinitive | advise, warn, remind, persuade, encourage, invite, tell, ask, order, urge |\n| + -ing | admit, deny, suggest, recommend |\n| + preposition + -ing | apologise for, insist on, object to |\n| + object + preposition + -ing | accuse of, blame for, congratulate on, thank for |\n| + that-clause | explain (to sb), complain, point out, announce, admit, deny, agree |\n\n### Without backshift\nKeep the original tense when the reporting verb is present (*She says she's busy*), when the information is still true, or for general facts.\n\n> **Catatan:** Kesalahan paling umum: *suggest someone to do* ✗ → *suggest doing / suggest that someone (should) do* ✓, dan *explain me* ✗ → *explain to me* ✓.",
+      "formulas": [
+        { "label": "Verb + to-infinitive", "pattern": "Subject + refuse/offer/promise + (not) to + verb" },
+        { "label": "Verb + object + to-infinitive", "pattern": "Subject + warn/advise/remind + object + (not) to + verb" },
+        { "label": "Verb + -ing", "pattern": "Subject + deny/admit/suggest + (not) + verb-ing" }
+      ],
+      "examples": {
+        "positive": ["The landlord agreed to lower the rent.", "She accused him of lying.", "He pointed out that the contract wasn't signed."],
+        "negative": ["She warned us not to swim there.", "He apologised for not calling."],
+        "interrogative": ["Did they ask you to wait outside?", "Who suggested taking the train?"]
+      },
+      "comparison": "Tell + person (He told me to wait). Say (+ to person) (He said to me that...). Ask + person + to (requests). Ask + if/whether (questions).",
+      "mistakes": [
+        { "wrong": "She suggested me to take a taxi.", "right": "She suggested taking a taxi.", "why": "Suggest is not followed by object + to-infinitive." },
+        { "wrong": "He told me don't worry.", "right": "He told me not to worry.", "why": "Reported negative commands use not to + verb." }
+      ],
+      "keywords": ["agree to", "warn not to", "deny -ing", "accuse of", "insist on", "point out that"],
+      "relatedLessons": ["b2-u05-l1-reporting-verbs-infinitive", "b2-u05-l2-reporting-verbs-ing", "b2-u05-l3-reporting-verbs-that", "b2-u05-l4-reported-commands-requests", "b2-u05-l5-summarising-negotiations"],
+      "exercises": [
+        {
+          "id": "b2-gr-reporting-q1", "type": "dropdown", "category": "grammar", "topic": "reporting verbs + -ing",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the verb that fits the pattern.",
+          "text": "The shop assistant ___ checking the stockroom for my size.",
+          "choices": [["offered", "suggested", "promised"]],
+          "answers": [1],
+          "explanation": "**suggest + -ing** is correct. *Offer* and *promise* are followed by a to-infinitive (*offered to check*)."
+        },
+        {
+          "id": "b2-gr-reporting-q2", "type": "sentence_transformation", "category": "grammar", "topic": "remind",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Report the sentence using reminded.",
+          "sentence": "\"Don't forget to bring your passport,\" my mother said to me.",
+          "cue": "Begin with: My mother ...",
+          "answers": [
+            "My mother reminded me to bring my passport.",
+            "My mother reminded me to take my passport."
+          ],
+          "explanation": "**remind + object + to-infinitive**. *Don't forget to...* becomes *reminded me to...*"
+        },
+        {
+          "id": "b2-gr-reporting-q3", "type": "drag_drop", "category": "grammar", "topic": "reporting verb patterns",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "The director congratulated us ___ winning the contract and thanked the team ___ working so hard. Then he warned us ___ to relax too much.",
+          "bank": ["on", "for", "not", "of", "with"],
+          "answers": ["on", "for", "not"],
+          "explanation": "**congratulate on**, **thank for**, **warn + object + not to**."
+        },
+        {
+          "id": "b2-gr-reporting-q4", "type": "single_choice", "category": "grammar", "topic": "reported speech without backshift",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Yesterday my teacher said, \"The library closes at 8 p.m. on weekdays.\" It is still true. Which report is correct?",
+          "options": [
+            "My teacher said that the library closes at 8 p.m. on weekdays.",
+            "My teacher said that the library had closed at 8 p.m. on weekdays.",
+            "My teacher told that the library closes at 8 p.m. on weekdays.",
+            "My teacher said me that the library closes at 8 p.m. on weekdays."
+          ],
+          "answer": 0,
+          "explanation": "The information is still true, so the present tense is fine. *Told* needs an object, and *said me* is wrong."
+        }
+      ]
+    },
+    {
+      "slug": "b2-advanced-relative-clauses",
+      "title": "Advanced Relative Clauses",
+      "category": "clauses",
+      "explanation": "### Types\n| Type | Example |\n| --- | --- |\n| non-defining (commas, no *that*) | *My aunt, who lives in Bali, is a painter.* |\n| with prepositions (formal) | *the town in which I grew up* |\n| with prepositions (informal) | *the town I grew up in* |\n| reduced: active → -ing | *the woman standing by the door* |\n| reduced: passive → past participle | *a temple built in the 9th century* |\n| the first/last/only + to-infinitive | *the first person to arrive* |\n| comment clause | *He was late, which annoyed everyone.* |\n| quantifier + of whom/which | *three sisters, all of whom are doctors* |\n\n> **Catatan:** Setelah koma, jangan pakai *that*. Setelah preposisi, gunakan *whom* (orang) atau *which* (benda). *Most of whom* = sebagian besar dari mereka (orang).",
+      "formulas": [
+        { "label": "Non-defining", "pattern": "noun, + who/which/whose/where + clause, + ..." },
+        { "label": "Preposition + relative", "pattern": "noun + preposition + whom/which + clause" },
+        { "label": "Quantifier + of whom/which", "pattern": "noun, + all/most/some/none + of whom/which + verb" }
+      ],
+      "examples": {
+        "positive": ["Mr. Tan, whose paintings hang in the gallery, is ninety.", "The man sitting in the corner is a famous poet.", "She has two brothers, both of whom are engineers."],
+        "negative": ["The museum, which wasn't open on Mondays, now opens every day."],
+        "interrogative": ["Is this the book you were telling me about?", "Who was the first person to climb the mountain?"]
+      },
+      "comparison": "Defining clauses identify (My sister who lives in Bali = one of several sisters). Non-defining clauses add information (My sister, who lives in Bali, = my only sister).",
+      "mistakes": [
+        { "wrong": "The festival, that takes place in August, is famous.", "right": "The festival, which takes place in August, is famous.", "why": "That cannot be used in non-defining clauses." },
+        { "wrong": "I have many friends, most of them live abroad.", "right": "I have many friends, most of whom live abroad.", "why": "Use most of whom after a comma to make one correct sentence." }
+      ],
+      "keywords": ["who", "which", "whose", "whom", "where", "of whom", "of which"],
+      "relatedLessons": ["b2-u06-l1-non-defining-relative-clauses", "b2-u06-l2-relative-clauses-prepositions", "b2-u06-l3-reduced-relative-clauses", "b2-u06-l5-richer-descriptions"],
+      "exercises": [
+        {
+          "id": "b2-gr-relative-q1", "type": "dropdown", "category": "grammar", "topic": "relative pronouns",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct relative pronoun.",
+          "text": "Our new manager, ___ I met for the first time yesterday, seems very friendly.",
+          "choices": [["whom", "which", "whose"]],
+          "answers": [0],
+          "explanation": "A person, object of *met*, in a non-defining clause → **whom** (or *who* in informal style)."
+        },
+        {
+          "id": "b2-gr-relative-q2", "type": "sentence_transformation", "category": "grammar", "topic": "quantifier + of whom",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Combine the sentences.",
+          "sentence": "Ali has two sisters. Both of them are doctors.",
+          "cue": "Begin with: Ali has two sisters, both ...",
+          "answers": ["Ali has two sisters, both of whom are doctors."],
+          "explanation": "People → **both of whom**."
+        },
+        {
+          "id": "b2-gr-relative-q3", "type": "fill_blank", "category": "grammar", "topic": "reduced relative clauses",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the reduced relative clause with the correct form of the verb in brackets.",
+          "text": "The documents ___ (send) to you last week contained an error.",
+          "answers": [["sent"]],
+          "explanation": "Passive meaning (*which were sent*) → past participle **sent**."
+        },
+        {
+          "id": "b2-gr-relative-q4", "type": "error_identification", "category": "grammar", "topic": "comment clauses",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Find the error.",
+          "segments": ["He failed his driving test again,", "what", "really upset", "his parents."],
+          "errorIndex": 1,
+          "correction": "which",
+          "explanation": "To comment on a whole clause, use **, which** (not *what*)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-past-modals",
+      "title": "Modal Perfects: Speculation and Criticism",
+      "category": "modals",
+      "explanation": "### modal + have + past participle\n| Modal perfect | Meaning | Example |\n| --- | --- | --- |\n| must have | almost certain it happened | *She must have left already.* |\n| can't/couldn't have | almost certain it didn't happen | *He can't have seen us.* |\n| might/may/could have | perhaps it happened | *They might have got lost.* |\n| should have | good idea, but it didn't happen | *You should have called.* |\n| shouldn't have | bad idea, but it happened | *I shouldn't have said that.* |\n| could have | possible, but it didn't happen | *You could have been hurt!* |\n| needn't have | happened, but wasn't necessary | *You needn't have bought flowers.* |\n\n*Didn't need to + infinitive* = it wasn't necessary (usually it didn't happen).\n\n> **Catatan:** Kebalikan *must have* adalah **can't have**, bukan *mustn't have*. Dalam percakapan, *have* diucapkan lemah: *must've, should've* — tetapi jangan menulis *must of*.",
+      "formulas": [
+        { "label": "Deduction", "pattern": "Subject + must/can't/might + have + past participle" },
+        { "label": "Criticism / regret", "pattern": "Subject + should(n't) + have + past participle" },
+        { "label": "Unnecessary action", "pattern": "Subject + needn't + have + past participle" }
+      ],
+      "examples": {
+        "positive": ["The streets are wet; it must have rained.", "You should have told me earlier."],
+        "negative": ["She can't have forgotten; I reminded her twice.", "We needn't have hurried; the train was late."],
+        "interrogative": ["Could he have taken the wrong bus?", "Should I have called the police?"]
+      },
+      "comparison": "must have = deduction (He must have taken the wrong road). should have = criticism (He should have taken the other road).",
+      "mistakes": [
+        { "wrong": "She mustn't have heard the news.", "right": "She can't have heard the news.", "why": "For negative deductions, use can't have." },
+        { "wrong": "I should have went to bed earlier.", "right": "I should have gone to bed earlier.", "why": "Use the past participle after have." }
+      ],
+      "keywords": ["must have", "can't have", "might have", "should have", "needn't have", "didn't need to"],
+      "relatedLessons": ["b2-u07-l1-must-have-cant-have", "b2-u07-l2-might-could-have", "b2-u07-l3-should-have", "b2-u07-l4-neednt-have", "b2-u07-l5-mysteries-investigation"],
+      "exercises": [
+        {
+          "id": "b2-gr-past-modals-q1", "type": "dropdown", "category": "grammar", "topic": "can't have",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "Rani ___ my message. Her phone was switched off all day.",
+          "choices": [["can't have received", "must have received", "should have received"]],
+          "answers": [0],
+          "explanation": "The phone was off, so it's (almost) impossible → **can't have received**."
+        },
+        {
+          "id": "b2-gr-past-modals-q2", "type": "fill_blank", "category": "grammar", "topic": "needn't have",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence using the words in brackets.",
+          "text": "We took a taxi, but the station was only five minutes away. We ___ (needn't / take) a taxi.",
+          "answers": [["needn't have taken", "need not have taken"]],
+          "explanation": "The action happened but was unnecessary → **needn't have taken**."
+        },
+        {
+          "id": "b2-gr-past-modals-q3", "type": "sentence_transformation", "category": "grammar", "topic": "should have",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using should.",
+          "sentence": "It was a mistake not to back up the files.",
+          "cue": "Begin with: We ...",
+          "answers": [
+            "We should have backed up the files.",
+            "We should have backed the files up."
+          ],
+          "explanation": "Regret about something that didn't happen → **should have + past participle**."
+        },
+        {
+          "id": "b2-gr-past-modals-q4", "type": "single_choice", "category": "grammar", "topic": "might have",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "\"He might have taken the wrong train.\" How sure is the speaker?",
+          "options": [
+            "Not sure: it's a possibility.",
+            "Completely sure that it happened.",
+            "Sure that it didn't happen.",
+            "It was necessary for him to take it."
+          ],
+          "answer": 0,
+          "explanation": "**Might have** expresses a possibility, not certainty."
+        }
+      ]
+    },
+    {
+      "slug": "b2-linking-words",
+      "title": "Linking Words: Contrast, Purpose, Result and Addition",
+      "category": "sentence_structure",
+      "explanation": "### Choosing the right linker\n| Function | + clause | + noun / -ing | between sentences |\n| --- | --- | --- | --- |\n| contrast | although, even though, whereas, while | despite, in spite of | However, Nevertheless, On the other hand |\n| purpose | so that (+ can/could/will/would) | to / in order to / so as to + verb | — |\n| result | so ... that, such ... that | as a result of | Therefore, As a result, Consequently |\n| addition | — | in addition to, besides | Furthermore, Moreover, In addition |\n\n### Punctuation\n*However, therefore, moreover* start a new sentence (or follow a semicolon) and are followed by a comma.\n\n> **Catatan:** Jangan gabungkan *although* dengan *but*. *Despite* tidak pernah diikuti *of* atau klausa lengkap. *In addition to* diikuti **-ing**.",
+      "formulas": [
+        { "label": "Contrast", "pattern": "Although + clause, clause / Despite + noun/-ing, clause" },
+        { "label": "Purpose", "pattern": "clause + so that + subject + could/would / in order to + verb" },
+        { "label": "Result", "pattern": "so + adjective + that / such + (a) + adjective + noun + that" }
+      ],
+      "examples": {
+        "positive": ["Despite the rain, the match went ahead.", "She saved money so that she could travel.", "It was such a long film that I fell asleep."],
+        "negative": ["We left early so as not to miss the train."],
+        "interrogative": ["Why did you go even though you were ill?"]
+      },
+      "comparison": "Although + clause (Although it rained...). Despite + noun/-ing (Despite the rain / Despite feeling ill...). However + new sentence (It rained. However, ...).",
+      "mistakes": [
+        { "wrong": "Although it was late, but we kept working.", "right": "Although it was late, we kept working.", "why": "Don't use although and but together." },
+        { "wrong": "Despite of the cost, they bought it.", "right": "Despite the cost, they bought it.", "why": "Despite is never followed by of." }
+      ],
+      "keywords": ["although", "despite", "however", "so that", "in order to", "such ... that", "therefore", "moreover"],
+      "relatedLessons": ["b2-u08-l1-although-whereas", "b2-u08-l2-despite-however", "b2-u08-l3-purpose", "b2-u08-l4-result", "b2-u08-l5-argumentative-essay"],
+      "exercises": [
+        {
+          "id": "b2-gr-linking-q1", "type": "dropdown", "category": "grammar", "topic": "despite the fact that",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct linker.",
+          "text": "___ the fact that he had no experience, he got the job.",
+          "choices": [["Despite", "Although", "However"]],
+          "answers": [0],
+          "explanation": "**Despite the fact that + clause**. *Although* would not be followed by *the fact that* here."
+        },
+        {
+          "id": "b2-gr-linking-q2", "type": "sentence_transformation", "category": "grammar", "topic": "so as not to",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using so as not to.",
+          "sentence": "He drove slowly because he didn't want to have an accident.",
+          "cue": "Begin with: He drove slowly ...",
+          "answers": ["He drove slowly so as not to have an accident."],
+          "explanation": "Negative purpose → **so as not to + verb**."
+        },
+        {
+          "id": "b2-gr-linking-q3", "type": "fill_blank", "category": "grammar", "topic": "so ... that",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with ONE word.",
+          "text": "The traffic was ___ heavy that we missed the start of the film.",
+          "answers": [["so"]],
+          "explanation": "**so + adjective + that** shows result."
+        },
+        {
+          "id": "b2-gr-linking-q4", "type": "error_identification", "category": "grammar", "topic": "even though",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Find the error.",
+          "segments": ["Even though", "the evidence was weak,", "but the jury", "found him guilty."],
+          "errorIndex": 2,
+          "correction": "the jury",
+          "explanation": "Don't use *but* after an *even though* clause: **Even though the evidence was weak, the jury found him guilty.**"
+        }
+      ]
+    },
+    {
+      "slug": "b2-wishes-and-preferences",
+      "title": "Wishes, Preferences and It's Time",
+      "category": "conditionals",
+      "explanation": "### Unreal past forms with present meaning\n| Structure | Use | Example |\n| --- | --- | --- |\n| wish / if only + past simple | unreal present | *I wish I had more time.* |\n| wish / if only + past perfect | past regret | *I wish I hadn't said that.* |\n| wish + would | annoying habit / desired change | *I wish he would stop shouting.* |\n| would rather + bare infinitive | own preference | *I'd rather stay in.* |\n| would rather + subject + past simple | preference about others | *I'd rather you didn't smoke.* |\n| it's (high/about) time + subject + past simple | it should happen now | *It's high time we left.* |\n\n> **Catatan:** Bentuk lampau di sini tidak berarti masa lalu; itu menunjukkan sesuatu yang **tidak nyata** atau **belum terjadi**. Jangan pakai *I wish I would* atau *wish ... would have*.",
+      "formulas": [
+        { "label": "Past regret", "pattern": "Subject + wish / If only + subject + had + past participle" },
+        { "label": "Complaint", "pattern": "Subject + wish + other subject + would (not) + verb" },
+        { "label": "Preference", "pattern": "Subject + would rather + subject + past simple" }
+      ],
+      "examples": {
+        "positive": ["I wish I had listened to your advice.", "It's time we went home.", "I'd rather you came tomorrow."],
+        "negative": ["I wish you wouldn't interrupt me.", "I'd rather not talk about it."],
+        "interrogative": ["Do you ever wish you had studied abroad?", "Would you rather eat in or go out?"]
+      },
+      "comparison": "I wish I knew (present) vs I wish I had known (past). I wish you would listen (habit/change) vs I wish you were here (state).",
+      "mistakes": [
+        { "wrong": "I wish I would have a bigger flat.", "right": "I wish I had a bigger flat.", "why": "Don't use I wish I would; use the past simple for a present state." },
+        { "wrong": "It's time we go home.", "right": "It's time we went home.", "why": "Use the past simple after it's time + subject." }
+      ],
+      "keywords": ["wish", "if only", "would rather", "it's time", "it's high time", "would prefer"],
+      "relatedLessons": ["b2-u09-l1-wish-past-perfect", "b2-u09-l2-wish-would", "b2-u09-l3-would-rather", "b2-u09-l4-its-time"],
+      "exercises": [
+        {
+          "id": "b2-gr-wishes-q1", "type": "dropdown", "category": "grammar", "topic": "wish + past perfect",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "I wish I ___ the bus this morning. I was late for my interview.",
+          "choices": [["hadn't missed", "didn't miss", "wouldn't miss"]],
+          "answers": [0],
+          "explanation": "A past regret (*this morning*) → **wish + past perfect**: *hadn't missed*."
+        },
+        {
+          "id": "b2-gr-wishes-q2", "type": "fill_blank", "category": "grammar", "topic": "would rather",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete using the words in brackets.",
+          "text": "I'd rather ___ (not / talk) about it right now, if you don't mind.",
+          "answers": [["not talk"]],
+          "explanation": "Negative of *would rather* + bare infinitive → **would rather not talk**."
+        },
+        {
+          "id": "b2-gr-wishes-q3", "type": "sentence_transformation", "category": "grammar", "topic": "it's high time",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using high time.",
+          "sentence": "You should start revising now. You've left it very late.",
+          "cue": "Begin with: It's high time you ...",
+          "answers": [
+            "It's high time you started revising.",
+            "It is high time you started revising.",
+            "It's high time you started revising now.",
+            "It's high time you began revising."
+          ],
+          "explanation": "**It's high time + subject + past simple**: *It's high time you started revising.*"
+        },
+        {
+          "id": "b2-gr-wishes-q4", "type": "single_choice", "category": "grammar", "topic": "wish + would",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I wish you would stop tapping your pen.",
+            "I wish I would stop tapping my pen.",
+            "I wish you stop tapping your pen.",
+            "I wish you would to stop tapping your pen."
+          ],
+          "answer": 0,
+          "explanation": "Complaint about someone else's habit → **wish + you + would + bare infinitive**."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "slug": "b2-rd-1-rooftop-farms",
+      "title": "Rooftop Farms Take Root in Port Selatan",
+      "genre": "news",
+      "body": "PORT SELATAN — Above the noise of one of the busiest shopping streets in Port Selatan, rows of tomatoes, chillies and spinach are growing where air-conditioning units once stood. The rooftop of the old Merdeka Department Store, which closed in 2019, has been turned into the city's largest urban farm, and it is expected to produce around four tonnes of vegetables this year.\n\nThe project was set up by a group of young engineers who had been looking for ways to reduce the distance food travels before it reaches people's plates. “Most of the vegetables sold in our markets have been transported for hundreds of kilometres,” said co-founder Dita Prameswari, 29. “We wanted to show that a city can feed itself, at least partly.”\n\nThe farm uses a hydroponic system, in which plants grow in water rich in nutrients instead of soil. According to the team, this method uses up to 70 per cent less water than traditional farming, although this figure has not been independently confirmed. Rainwater is collected from the roof, and solar panels power the pumps.\n\nNot everyone is convinced. Some local farmers have complained that the project receives support from the city council while they struggle with rising costs. “It's a nice idea, but rooftops will never replace real farms,” said Bambang Wirawan, who grows rice outside the city. Building experts have also warned that many older roofs are not strong enough to carry the weight of water and equipment, and that inspections should be carried out before similar farms are built.\n\nDespite these concerns, the council has announced that it will offer grants to building owners who want to install green roofs. Officials believe that by 2030, more than fifty rooftops in the city will have been converted. The farm's vegetables are currently sold to nearby restaurants, and a weekly market for residents is due to open next month.\n\nFor Dita, the project is about more than food. “When people see vegetables growing in the middle of the city, they start thinking differently about where their food comes from. That's the real change we want.”",
+      "glossary": [
+        { "word": "hydroponic", "meaning": "hidroponik (menanam tanpa tanah, dengan air bernutrisi)" },
+        { "word": "grant", "meaning": "hibah, dana bantuan" },
+        { "word": "convert", "meaning": "mengubah (fungsi)" },
+        { "word": "inspection", "meaning": "pemeriksaan" },
+        { "word": "independently confirmed", "meaning": "dikonfirmasi oleh pihak lain yang netral" }
+      ],
+      "questions": [
+        {
+          "id": "b2-rd-1-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-1-rooftop-farms",
+          "prompt": "What is the article mainly about?",
+          "options": [
+            "A rooftop farm in a city centre and people's reactions to it",
+            "The closure of a department store in 2019",
+            "A conflict between rice farmers and engineers",
+            "How to build a hydroponic system at home"
+          ],
+          "answer": 0,
+          "explanation": "The article describes the rooftop farm, how it works, criticism of it and the council's plans (main idea). Gagasan utama mencakup seluruh teks, bukan satu detail."
+        },
+        {
+          "id": "b2-rd-1-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-1-rooftop-farms",
+          "prompt": "Where does the farm get the energy for its pumps?",
+          "options": [
+            "From solar panels",
+            "From the city's electricity network",
+            "From a diesel generator",
+            "From the old air-conditioning units"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 3: *solar panels power the pumps*."
+        },
+        {
+          "id": "b2-rd-1-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 4, "stage": "independent", "passageSlug": "b2-rd-1-rooftop-farms",
+          "prompt": "Why does the writer mention that the 70 per cent figure \"has not been independently confirmed\"?",
+          "options": [
+            "To show that the claim comes only from the project team",
+            "To prove that the figure is definitely wrong",
+            "To criticise the city council",
+            "To suggest that hydroponics uses more water than soil farming"
+          ],
+          "answer": 0,
+          "explanation": "The writer is being careful: the number comes *according to the team*, and nobody else has checked it. This is typical distancing language in news reports."
+        },
+        {
+          "id": "b2-rd-1-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-1-rooftop-farms",
+          "prompt": "In paragraph 4, \"struggle with rising costs\" means...",
+          "options": [
+            "have difficulty paying costs that are increasing",
+            "fight against the city council",
+            "refuse to pay their costs",
+            "reduce their costs easily"
+          ],
+          "answer": 0,
+          "explanation": "*Struggle with* = have great difficulty with; *rising costs* = costs that are going up."
+        },
+        {
+          "id": "b2-rd-1-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-1-rooftop-farms",
+          "prompt": "What is due to happen next month?",
+          "options": [
+            "A weekly market for residents will open.",
+            "The council will close the farm.",
+            "Fifty rooftops will be converted.",
+            "Inspections will be carried out on all roofs."
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 5: *a weekly market for residents is due to open next month* (be due to = scheduled)."
+        }
+      ]
+    },
+    {
+      "slug": "b2-rd-2-psychology-of-regret",
+      "title": "Why We Regret What We Didn't Do",
+      "genre": "academic",
+      "body": "Regret is one of the most common negative emotions that people report, yet psychologists have only relatively recently begun to study it systematically. A key distinction in the research is between regrets of action (things we did and wish we hadn't done) and regrets of inaction (things we didn't do and wish we had).\n\nEarlier studies suggested that, in the short term, people tend to feel worse about their actions. If you make a rude comment at a meeting, for example, you are likely to regret it intensely that evening. Over longer periods, however, the pattern appears to reverse: when people look back on their lives, they mention missed opportunities far more often than mistakes. Typical examples include not studying harder, not travelling, or not spending enough time with family.\n\nA study carried out at Northfield University asked 600 adults aged 30 to 80 to list their biggest regrets. Around two-thirds of the regrets described were regrets of inaction. The researchers proposed two explanations. First, people usually take steps to repair the consequences of their actions, by apologising, for instance, whereas inaction leaves nothing to repair. Second, when we imagine what would have happened if we had acted, the imagined outcome is often unrealistically positive, which makes the regret stronger.\n\nIt should be noted that the study relied on people's memories, which are known to be unreliable, and that all the participants came from one country. Cultural factors may influence what people regret; in societies that place great value on family duty, for example, regrets about relationships might be more common than regrets about career choices.\n\nNevertheless, the findings have practical implications. Some psychologists argue that regret, although painful, can be useful if it motivates people to change their behaviour. The authors of the Northfield study concluded that people who are unsure whether to take an opportunity might benefit from asking themselves a simple question: “Which choice am I more likely to regret in ten years' time?”",
+      "glossary": [
+        { "word": "systematically", "meaning": "secara sistematis" },
+        { "word": "inaction", "meaning": "tidak bertindak" },
+        { "word": "reverse", "meaning": "berbalik" },
+        { "word": "unreliable", "meaning": "tidak dapat diandalkan" },
+        { "word": "implication", "meaning": "implikasi, dampak" }
+      ],
+      "questions": [
+        {
+          "id": "b2-rd-2-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-2-psychology-of-regret",
+          "prompt": "What is the main purpose of the text?",
+          "options": [
+            "To summarise research on the kinds of regret people feel over time",
+            "To persuade readers to travel more",
+            "To criticise psychologists who study emotions",
+            "To explain how to apologise effectively"
+          ],
+          "answer": 0,
+          "explanation": "The text describes research findings about regrets of action and inaction, their explanations and limitations."
+        },
+        {
+          "id": "b2-rd-2-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-2-psychology-of-regret",
+          "prompt": "According to the Northfield study, what proportion of regrets were about inaction?",
+          "options": ["about two-thirds", "about one-third", "about half", "almost all"],
+          "answer": 0,
+          "explanation": "Paragraph 3: *Around two-thirds of the regrets described were regrets of inaction.*"
+        },
+        {
+          "id": "b2-rd-2-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 4, "stage": "independent", "passageSlug": "b2-rd-2-psychology-of-regret",
+          "prompt": "Why does the writer mention that all the participants came from one country?",
+          "options": [
+            "To point out a limitation of the study",
+            "To show that the results apply to everyone",
+            "To explain why the study was cheap",
+            "To prove that culture does not matter"
+          ],
+          "answer": 0,
+          "explanation": "*It should be noted that...* introduces limitations: the results might be different in other cultures."
+        },
+        {
+          "id": "b2-rd-2-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-2-psychology-of-regret",
+          "prompt": "In paragraph 3, \"take steps to repair\" is closest in meaning to...",
+          "options": ["do things to fix", "walk away from", "refuse to accept", "forget about"],
+          "answer": 0,
+          "explanation": "*Take steps* = take action; *repair the consequences* = fix the results. Contoh: meminta maaf."
+        },
+        {
+          "id": "b2-rd-2-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-2-psychology-of-regret",
+          "prompt": "According to the researchers, why are regrets of inaction often stronger?",
+          "options": [
+            "People imagine the alternative outcome as better than it would really have been.",
+            "They are easy to repair with an apology.",
+            "They are usually forgotten quickly.",
+            "They only happen in the short term."
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 3: *the imagined outcome is often unrealistically positive, which makes the regret stronger.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-rd-3-four-day-week",
+      "title": "The Four-Day Week: Fad or Future?",
+      "genre": "article",
+      "body": "Imagine finishing work on Thursday afternoon and not returning until Monday, without any cut in pay. For a growing number of employees, this is no longer a fantasy. Over the past few years, companies in several countries have been experimenting with a four-day working week, and many say they have no intention of going back.\n\nSupporters argue that a shorter week makes staff happier and healthier. Because employees have more time to rest, they are less likely to suffer from burnout and they take fewer days off sick. What is more, some firms claim that productivity has actually risen, since people waste less time in unnecessary meetings when they know their time is limited. A software company in Eastport, which introduced the scheme two years ago, reports that it has received three times as many job applications since the change.\n\nOn the other hand, critics point out that the model does not suit every industry. Hospitals, schools and shops cannot simply close for an extra day, so they would need to hire more staff in order to cover the missing hours, which would increase costs. Others worry that squeezing five days of work into four could lead to longer, more stressful days, especially for employees who were already struggling with heavy workloads. There are also concerns that customers might be frustrated if they cannot contact a business on Fridays.\n\nMany of the success stories so far come from office-based companies whose work can be measured by results rather than by hours. It is therefore too early to say whether the idea could work across the whole economy. Some experts suggest a more flexible approach: rather than a fixed four-day week for everyone, employers could let staff choose how to organise their hours, provided that targets are met.\n\nWhatever happens, the debate has forced many organisations to ask an important question: are long hours really the same as hard work?",
+      "glossary": [
+        { "word": "fad", "meaning": "tren sesaat" },
+        { "word": "productivity", "meaning": "produktivitas" },
+        { "word": "scheme", "meaning": "program, skema" },
+        { "word": "squeeze", "meaning": "memadatkan, memeras" },
+        { "word": "frustrated", "meaning": "kesal, frustrasi" }
+      ],
+      "questions": [
+        {
+          "id": "b2-rd-3-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-3-four-day-week",
+          "prompt": "What is the writer's main purpose?",
+          "options": [
+            "To present arguments for and against the four-day week",
+            "To persuade every company to adopt the four-day week immediately",
+            "To explain how hospitals organise their shifts",
+            "To describe the history of the five-day week"
+          ],
+          "answer": 0,
+          "explanation": "The article is balanced: paragraph 2 gives arguments for, paragraph 3 gives arguments against, and paragraph 4 suggests a compromise."
+        },
+        {
+          "id": "b2-rd-3-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-3-four-day-week",
+          "prompt": "What happened at the software company in Eastport?",
+          "options": [
+            "It received many more job applications.",
+            "It went back to a five-day week.",
+            "Its productivity fell sharply.",
+            "It lost customers because it closed on Fridays."
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 2: *it has received three times as many job applications since the change.*"
+        },
+        {
+          "id": "b2-rd-3-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-3-four-day-week",
+          "prompt": "According to the article, which type of organisation would probably find the four-day week easiest?",
+          "options": [
+            "An office-based firm that measures results rather than hours",
+            "A hospital",
+            "A small shop that opens every day",
+            "A school"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 4 says most success stories come from office-based companies whose work is measured by results."
+        },
+        {
+          "id": "b2-rd-3-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-3-four-day-week",
+          "prompt": "\"Squeezing five days of work into four\" (paragraph 3) means...",
+          "options": [
+            "doing the same amount of work in less time",
+            "reducing the total amount of work",
+            "working five days a week",
+            "paying staff for only four days"
+          ],
+          "answer": 0,
+          "explanation": "*Squeeze into* = force something into a smaller space or time (memadatkan)."
+        },
+        {
+          "id": "b2-rd-3-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-3-four-day-week",
+          "prompt": "What compromise do some experts suggest?",
+          "options": [
+            "Letting employees choose how to organise their hours if they meet their targets",
+            "Closing all businesses on Fridays",
+            "Reducing everyone's pay by twenty per cent",
+            "Banning meetings completely"
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 4: *employers could let staff choose how to organise their hours, provided that targets are met.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-rd-4-missing-manuscript",
+      "title": "The Missing Manuscript",
+      "genre": "story",
+      "body": "When Professor Hana Kirana arrived at the Old Harbour Library on Monday morning, she knew immediately that something was wrong. The glass case in the reading room, which had held the library's most valuable object, a 300-year-old manuscript of local poems, was empty.\n\nThere was no sign of a break-in. The doors had been locked all weekend, the alarm had not gone off, and the glass had not been broken. Someone must have opened the case with a key, Hana thought. But only three people had keys: Hana herself, the head librarian, Mr. Darmawan, and the cleaner, Bu Sari.\n\nMr. Darmawan was horrified when he heard the news. “It can't have been Bu Sari,” he said. “She's worked here for twenty years. And I was at my daughter's wedding in Bandung all weekend. Two hundred guests saw me there.”\n\nHana went to look at the case again. On the floor next to it, she noticed something small: a drop of blue wax. The library used blue wax to seal important letters, but the wax was kept in Mr. Darmawan's office, and his office had been locked too.\n\nThen she remembered something. On Friday afternoon, a visiting researcher had asked to see the manuscript. Mr. Darmawan had opened the case for him and had then left the room for a few minutes to answer the phone. Hana checked the visitors' book. The researcher had signed his name as “Dr. A. Wirya”, but the address he had written did not exist.\n\n“He might have made a copy of the key while you were out of the room,” Hana told Mr. Darmawan. “Wax is the easiest way to do it. You press the key into soft wax, and you have a perfect mould.”\n\nMr. Darmawan went pale. “I left my keys on the table,” he admitted. “I should never have left him alone.”\n\nThree weeks later, the police tracked down “Dr. Wirya” in another city. The manuscript was found in his flat, undamaged. Hana insisted on putting it back in the case herself, and this time she had the lock changed.",
+      "glossary": [
+        { "word": "manuscript", "meaning": "naskah (tulisan tangan kuno)" },
+        { "word": "break-in", "meaning": "pembobolan" },
+        { "word": "wax", "meaning": "lilin" },
+        { "word": "mould", "meaning": "cetakan" },
+        { "word": "horrified", "meaning": "sangat terkejut dan ngeri" }
+      ],
+      "questions": [
+        {
+          "id": "b2-rd-4-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-4-missing-manuscript",
+          "prompt": "What is the story mainly about?",
+          "options": [
+            "How a stolen manuscript was traced to a fake researcher",
+            "A wedding in Bandung",
+            "A cleaner who lost her job",
+            "The history of a collection of local poems"
+          ],
+          "answer": 0,
+          "explanation": "The story follows Hana as she works out how the manuscript was stolen and who did it."
+        },
+        {
+          "id": "b2-rd-4-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-4-missing-manuscript",
+          "prompt": "Why couldn't Mr. Darmawan have stolen the manuscript during the weekend?",
+          "options": [
+            "He was at his daughter's wedding, and many guests saw him.",
+            "He was in the library with Hana.",
+            "He had lost his keys.",
+            "He was in his locked office."
+          ],
+          "answer": 0,
+          "explanation": "Paragraph 3: he has an alibi: *I was at my daughter's wedding in Bandung all weekend.*"
+        },
+        {
+          "id": "b2-rd-4-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-4-missing-manuscript",
+          "prompt": "How did the thief most probably open the glass case?",
+          "options": [
+            "With a copy of the key made from a wax mould",
+            "By breaking the glass",
+            "By switching off the alarm",
+            "With the cleaner's key"
+          ],
+          "answer": 0,
+          "explanation": "The wax on the floor and Hana's explanation suggest he made a mould of the key while Mr. Darmawan was out of the room."
+        },
+        {
+          "id": "b2-rd-4-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context",
+          "difficulty": 3, "stage": "independent", "passageSlug": "b2-rd-4-missing-manuscript",
+          "prompt": "\"Mr. Darmawan went pale\" suggests that he...",
+          "options": [
+            "suddenly felt shocked and worried",
+            "became angry with Hana",
+            "felt relieved",
+            "started to laugh"
+          ],
+          "answer": 0,
+          "explanation": "*Go pale* = lose colour in your face, usually from shock or fear. He realised his mistake."
+        },
+        {
+          "id": "b2-rd-4-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "passageSlug": "b2-rd-4-missing-manuscript",
+          "prompt": "What did Hana do after the manuscript was found?",
+          "options": [
+            "She had the lock changed.",
+            "She sold the manuscript.",
+            "She dismissed Mr. Darmawan.",
+            "She moved the manuscript to another city."
+          ],
+          "answer": 0,
+          "explanation": "Last paragraph: *this time she had the lock changed* (causative: someone changed it for her)."
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "slug": "b2-ls-1-career-change",
+      "title": "Second Careers: From Banking to Baking",
+      "kind": "interview",
+      "script": [
+        { "speaker": "Host", "text": "Welcome back to Second Careers. My guest today is Rudi Santoso, who spent twelve years working in a bank before opening a bakery in Malang. Rudi, what made you change?" },
+        { "speaker": "Rudi", "text": "Honestly, I'd been feeling bored for years, but I was too afraid to leave. Then the bank was reorganised, and my department was closed. If that hadn't happened, I'd probably still be sitting behind a desk today." },
+        { "speaker": "Host", "text": "So, in a way, losing your job was a turning point." },
+        { "speaker": "Rudi", "text": "Exactly. At the time it felt like a disaster, but in hindsight it was the best thing that could have happened. I took a six-month baking course, and I'd been baking bread at weekends since I was a teenager, so I wasn't starting from zero." },
+        { "speaker": "Host", "text": "Do you have any regrets?" },
+        { "speaker": "Rudi", "text": "Just one, really. I wish I'd made the move earlier. I spent so many years waiting for the perfect moment, and of course it never comes. I also should have learned more about accounting before I started. The first year was hard because I'd underestimated the costs." },
+        { "speaker": "Host", "text": "What advice would you give listeners who are thinking about a career change?" },
+        { "speaker": "Rudi", "text": "Try it out before you jump. Do a short course, help out at a friend's business, test the idea. And talk to your family. I couldn't have done it without my wife's support." },
+        { "speaker": "Host", "text": "Rudi Santoso, thank you very much." }
+      ],
+      "questions": [
+        {
+          "id": "b2-ls-1-q1", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "b2-ls-1-career-change",
+          "prompt": "What was Rudi's job before he opened the bakery?",
+          "options": ["He worked in a bank.", "He taught baking.", "He was an accountant in a bakery.", "He worked in a hotel."],
+          "answer": 0,
+          "explanation": "The host says Rudi *spent twelve years working in a bank*."
+        },
+        {
+          "id": "b2-ls-1-q2", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-1-career-change",
+          "prompt": "Why did Rudi finally leave his old job?",
+          "options": ["His department was closed.", "He won a baking competition.", "His wife asked him to leave.", "He was offered a job in Malang."],
+          "answer": 0,
+          "explanation": "*The bank was reorganised, and my department was closed.*"
+        },
+        {
+          "id": "b2-ls-1-q3", "type": "listening_comprehension", "category": "listening", "topic": "inference",
+          "difficulty": 3, "stage": "independent", "listeningSlug": "b2-ls-1-career-change",
+          "prompt": "What does Rudi regret most?",
+          "options": ["Not changing careers earlier", "Taking a baking course", "Moving to Malang", "Asking his family for advice"],
+          "answer": 0,
+          "explanation": "*I wish I'd made the move earlier* (wish + past perfect = past regret)."
+        },
+        {
+          "id": "b2-ls-1-q4", "type": "listening_comprehension", "category": "listening", "topic": "main idea",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-1-career-change",
+          "prompt": "What is Rudi's main advice for people considering a career change?",
+          "options": [
+            "Test the idea before making a big change.",
+            "Never leave a secure job.",
+            "Start a business as quickly as possible.",
+            "Ignore what your family says."
+          ],
+          "answer": 0,
+          "explanation": "*Try it out before you jump... test the idea.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-ls-2-internet-complaint",
+      "title": "A Complaint to an Internet Provider",
+      "kind": "phone_call",
+      "script": [
+        { "speaker": "Agent", "text": "Good morning, Linkway customer service, Fajar speaking. How can I help you?" },
+        { "speaker": "Mrs. Wulan", "text": "Good morning. I'm afraid I'm calling about my internet connection again. It's been cutting out several times a day for the past two weeks." },
+        { "speaker": "Agent", "text": "I'm sorry to hear that. Could you give me your account number, please?" },
+        { "speaker": "Mrs. Wulan", "text": "Yes, it's four, seven, two, nine, one, five. I've already called three times, and each time I was told that an engineer would contact me, but nobody has." },
+        { "speaker": "Agent", "text": "Let me check. Yes, I can see your previous calls. I'm afraid your request wasn't passed on to our technical team. I apologise for that." },
+        { "speaker": "Mrs. Wulan", "text": "To be honest, I'm fed up with it. I work from home, so I can't put up with a connection that keeps failing. I wish someone had told me that there was a problem with my request." },
+        { "speaker": "Agent", "text": "I completely understand. I've now booked an engineer for tomorrow between nine and twelve. Would that suit you?" },
+        { "speaker": "Mrs. Wulan", "text": "Tomorrow morning is fine. But I'd also like some compensation for the two weeks I've been paying for a service that hasn't worked properly." },
+        { "speaker": "Agent", "text": "That's reasonable. I can offer you a fifty per cent discount on this month's bill. I'll send you an email to confirm." },
+        { "speaker": "Mrs. Wulan", "text": "Thank you. Of course I'd rather the problem had never happened, but that helps." }
+      ],
+      "questions": [
+        {
+          "id": "b2-ls-2-q1", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "b2-ls-2-internet-complaint",
+          "prompt": "How long has Mrs. Wulan had the problem?",
+          "options": ["About two weeks", "Three days", "About a month", "Since yesterday"],
+          "answer": 0,
+          "explanation": "*It's been cutting out several times a day for the past two weeks.*"
+        },
+        {
+          "id": "b2-ls-2-q2", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-2-internet-complaint",
+          "prompt": "Why hadn't an engineer contacted her?",
+          "options": [
+            "Her request was not passed on to the technical team.",
+            "The engineer was ill.",
+            "She had given the wrong account number.",
+            "She had cancelled the visit."
+          ],
+          "answer": 0,
+          "explanation": "The agent says: *your request wasn't passed on to our technical team.*"
+        },
+        {
+          "id": "b2-ls-2-q3", "type": "listening_comprehension", "category": "listening", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-2-internet-complaint",
+          "prompt": "Why is a reliable connection especially important to her?",
+          "options": ["She works from home.", "She runs an internet café.", "She is studying online at night.", "She streams films every evening."],
+          "answer": 0,
+          "explanation": "*I work from home, so I can't put up with a connection that keeps failing.*"
+        },
+        {
+          "id": "b2-ls-2-q4", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-2-internet-complaint",
+          "prompt": "What compensation is she offered?",
+          "options": [
+            "A fifty per cent discount on this month's bill",
+            "A free month of internet",
+            "A new router",
+            "A full refund for the year"
+          ],
+          "answer": 0,
+          "explanation": "*I can offer you a fifty per cent discount on this month's bill.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-ls-3-project-meeting",
+      "title": "Negotiating a New Deadline",
+      "kind": "dialogue",
+      "script": [
+        { "speaker": "Maya", "text": "Thanks for joining us, Ken. As I mentioned in my email, we'd like to discuss the deadline for the new website." },
+        { "speaker": "Ken", "text": "Yes. I have to say I was surprised. When we signed the contract, you promised to deliver everything by the first of June." },
+        { "speaker": "Maya", "text": "That's right, and we've been working hard. So far, we've finished the main pages and the booking system. However, last month your team asked us to add an online shop, which wasn't in the original plan." },
+        { "speaker": "Ken", "text": "I see your point, but our board is expecting the launch in June." },
+        { "speaker": "Dewi", "text": "If I could just add something: the shop needs at least three extra weeks of testing. If we launched it without proper testing, customers might have problems with their payments." },
+        { "speaker": "Ken", "text": "Hmm. That would be worse than a delay. What do you suggest?" },
+        { "speaker": "Maya", "text": "We'd propose launching the main website on the first of June, as planned, and adding the shop on the twenty-second. That way, the board gets its launch, and we don't take any risks with payments." },
+        { "speaker": "Ken", "text": "That sounds like a reasonable compromise. I'll need to check with the board, but I think they'll accept it. Could you send me a revised timeline by Friday?" },
+        { "speaker": "Maya", "text": "Of course. I'll send it on Thursday." }
+      ],
+      "questions": [
+        {
+          "id": "b2-ls-3-q1", "type": "listening_comprehension", "category": "listening", "topic": "main idea",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-3-project-meeting",
+          "prompt": "What is the main purpose of the meeting?",
+          "options": [
+            "To agree on a new timeline for the website",
+            "To sign a new contract",
+            "To hire a new designer",
+            "To cancel the online shop"
+          ],
+          "answer": 0,
+          "explanation": "Maya opens with: *we'd like to discuss the deadline for the new website*, and they agree on a revised plan."
+        },
+        {
+          "id": "b2-ls-3-q2", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "b2-ls-3-project-meeting",
+          "prompt": "Why is the project behind schedule?",
+          "options": [
+            "The client asked for an online shop that wasn't in the original plan.",
+            "The designer was ill for three weeks.",
+            "The booking system didn't work.",
+            "The board changed the launch date."
+          ],
+          "answer": 0,
+          "explanation": "*Your team asked us to add an online shop, which wasn't in the original plan.*"
+        },
+        {
+          "id": "b2-ls-3-q3", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 3, "stage": "independent", "listeningSlug": "b2-ls-3-project-meeting",
+          "prompt": "What does Maya propose?",
+          "options": [
+            "Launching the website in June and adding the shop three weeks later",
+            "Delaying everything until July",
+            "Launching the shop without testing",
+            "Removing the booking system"
+          ],
+          "answer": 0,
+          "explanation": "*Launching the main website on the first of June... and adding the shop on the twenty-second.*"
+        },
+        {
+          "id": "b2-ls-3-q4", "type": "listening_comprehension", "category": "listening", "topic": "inference",
+          "difficulty": 3, "stage": "independent", "listeningSlug": "b2-ls-3-project-meeting",
+          "prompt": "How does Ken feel about the proposal at the end?",
+          "options": [
+            "He thinks it is a fair compromise but must check with the board.",
+            "He rejects it completely.",
+            "He is angry and wants to cancel the contract.",
+            "He has already got the board's approval."
+          ],
+          "answer": 0,
+          "explanation": "*That sounds like a reasonable compromise. I'll need to check with the board...*"
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "slug": "b2-sp-recent-achievements",
+      "title": "What Have You Been Doing Lately?",
+      "kind": "guided",
+      "prompt": "Talk for about one minute about something you have been working on recently (a project, a course, a hobby or a goal). Explain how long you have been doing it, what you have achieved so far, and what you still haven't done.",
+      "targetPhrases": ["I've been working on", "for the past few months", "so far I've", "I haven't ... yet", "by the end of the year I'll have"],
+      "sampleAnswer": "For the past six months, I've been learning to code in my free time. I've been doing an online course for about two hours every evening, and so far I've built two small websites, one for my cousin's café and one for myself. I haven't learned how to work with databases yet, which is the next step. If everything goes well, by the end of the year I'll have finished the course and I'll be applying for junior developer jobs.",
+      "tips": [
+        "Use the present perfect continuous for the activity and the present perfect simple for results with numbers.",
+        "Finish with a future perfect or future continuous sentence to show your plans.",
+        "Gunakan penanda waktu yang jelas: for, since, so far, by the end of."
+      ]
+    },
+    {
+      "slug": "b2-sp-city-2050",
+      "title": "My City in 2050",
+      "kind": "situation",
+      "prompt": "A local radio station has asked listeners to predict what their city will be like in 2050. Make at least four predictions about transport, housing, work and technology, and show how certain you are about each one.",
+      "targetPhrases": ["will probably", "is likely to", "may well", "I doubt that", "will have + past participle", "will be + -ing"],
+      "sampleAnswer": "I think by 2050 my city will have built a proper metro system, so traffic jams will probably be much less common. Most people will be working from home at least part of the week, which is likely to change the city centre: many offices may well become flats. Housing is bound to be more expensive because more people will have moved here from the countryside. However, I doubt that we'll have flying taxis. They're too noisy and dangerous.",
+      "tips": [
+        "Vary your degree of certainty: definitely, probably, may well, I doubt.",
+        "Remember the adverb position: will probably / probably won't.",
+        "Give a reason for each prediction with because, so or which means."
+      ]
+    },
+    {
+      "slug": "b2-sp-turning-point",
+      "title": "A Turning Point",
+      "kind": "guided",
+      "prompt": "Describe a decision or event that changed your life (or the life of someone you know). Explain what happened, what would have happened if things had been different, and how it affects your life now.",
+      "targetPhrases": ["it was a turning point", "if I hadn't", "I would never have", "I wouldn't be ... now", "in hindsight"],
+      "sampleAnswer": "A real turning point for me was failing my first university entrance exam. At the time, I was devastated. But because I failed, I spent a year working in a hotel, and that's where I discovered that I loved hospitality. If I hadn't failed the exam, I would never have taken that job, and I wouldn't be studying hotel management now. In hindsight, failing was the best thing that could have happened to me.",
+      "tips": [
+        "Use the third conditional for the imaginary past and a mixed conditional for the present result.",
+        "Expressions like in hindsight and looking back make your story sound natural.",
+        "Jangan lupa: If I had known (bukan If I would have known)."
+      ]
+    },
+    {
+      "slug": "b2-sp-hotel-complaint",
+      "title": "Complaining at a Hotel Reception",
+      "kind": "role_play",
+      "prompt": "You booked a quiet room with a sea view, but you have been given a noisy room next to the lift with a view of the car park. The Wi-Fi isn't working either. Complain politely to the receptionist and ask for a solution.",
+      "targetPhrases": ["I'm afraid there's a problem with", "I'd rather you", "I wish I had been told", "Could you possibly", "I would be grateful if"],
+      "sampleAnswer": "Excuse me, I'm afraid there's a problem with my room. When I booked, I asked for a quiet room with a sea view, but my room is right next to the lift and looks out onto the car park. The Wi-Fi isn't working either, and I need it for work. I wish I had been told about this when I checked in. Could you possibly move me to another room? I'd rather you didn't charge me for tonight until the problem is solved. I would be grateful if you could sort this out as soon as possible.",
+      "tips": [
+        "Start politely and explain the problem clearly before asking for a solution.",
+        "Use would rather + past simple to make a firm but polite request.",
+        "Hindari nada marah; keluhan yang sopan biasanya lebih berhasil."
+      ]
+    },
+    {
+      "slug": "b2-sp-social-media-debate",
+      "title": "Debate: Should Under-16s Use Social Media?",
+      "kind": "situation",
+      "prompt": "In a class debate, give a balanced opinion on whether children under 16 should be allowed to use social media. Present at least one argument on each side, and then give your conclusion.",
+      "targetPhrases": ["on the one hand", "on the other hand", "although", "despite", "what is more", "on balance"],
+      "sampleAnswer": "On the one hand, social media helps teenagers stay in touch with friends and find information about their interests. What is more, many young people learn useful digital skills online. On the other hand, there is growing concern that it can affect sleep and self-esteem, and young users may not be aware of the risks of sharing personal information. Although a total ban would be difficult to enforce, I think on balance there should be stricter age checks, so that younger children are better protected.",
+      "tips": [
+        "Signpost both sides clearly before giving your opinion.",
+        "Use a range of linkers: although, despite, however, so that, therefore.",
+        "Use cautious language: there is growing concern that..., it could be argued that..."
+      ]
+    },
+    {
+      "slug": "b2-sp-job-interview",
+      "title": "Job Interview: Strengths and Experience",
+      "kind": "role_play",
+      "prompt": "You are being interviewed for a job as an assistant event manager. Answer the interviewer's questions: Tell me about your experience. What are your strengths? Why do you want this job?",
+      "targetPhrases": ["I have gained experience in", "I'm responsible for", "I'm good at", "I'm keen on", "I came up with"],
+      "sampleAnswer": "I've gained about three years of experience in hospitality. In my current job, I'm responsible for organising weekly events for hotel guests, and I've dealt with everything from booking musicians to handling complaints. I'm good at working under pressure, and I'm very familiar with planning software. Last year I came up with a new system for managing bookings, which cut our costs by around fifteen per cent. I'm keen on taking on more responsibility, and I'd love to work for a company that runs large international events like yours.",
+      "tips": [
+        "Use collocations such as gain experience, meet targets, take on responsibility.",
+        "Check your adjective + preposition combinations: good at, responsible for, keen on, familiar with.",
+        "Berikan contoh konkret dengan angka atau hasil untuk mendukung klaim Anda."
+      ]
+    },
+    {
+      "slug": "b2-sp-weak-forms-modals",
+      "title": "Pronunciation: Weak Forms in Modal Perfects",
+      "kind": "pronunciation",
+      "prompt": "Read these sentences aloud, using the weak form of have /əv/: \"You should've told me.\" \"She must've forgotten.\" \"They might've got lost.\" \"We could've won.\" \"He can't've seen us.\" Then make three sentences of your own about a recent mistake.",
+      "targetPhrases": ["should've /ˈʃʊdəv/", "must've /ˈmʌstəv/", "might've /ˈmaɪtəv/", "could've /ˈkʊdəv/"],
+      "sampleAnswer": "You should've told me. She must've forgotten. They might've got lost. We could've won. He can't've seen us. My own sentences: I should've checked the train times. I must've left my umbrella at the café. My friend might've been waiting for ages.",
+      "tips": [
+        "In natural speech, have in modal perfects sounds like /əv/, not /hæv/.",
+        "Stress the modal and the main verb: you SHOULD've TOLD me.",
+        "Ingat: ucapannya mirip 'of', tetapi tulisannya tetap have (bukan should of)."
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "slug": "b2-wr-progress-report-email",
+      "title": "Progress Report Email",
+      "kind": "email_formal",
+      "instructions": "You are working on a project (at work or university). Write an email to your manager or supervisor giving a progress update. Describe what you have been doing, what you have achieved so far (with numbers), one problem you had and how you dealt with it, and the next steps. Use the present perfect simple and continuous and at least one past perfect continuous form.",
+      "minWords": 120,
+      "maxWords": 180,
+      "modelAnswer": "Dear Ms. Hartini,\n\nI am writing to update you on the customer survey project. Over the past three weeks, my team has been collecting feedback from customers in our five city branches. So far, we have received 640 responses, and we have already analysed the data from three branches.\n\nThere was a short delay at the beginning, because the online form had been sending responses to the wrong address. Our IT department fixed the problem within two days, and we have been on track since then.\n\nWe haven't finished the analysis for the two remaining branches yet, but we expect to complete it by next Wednesday. The next step will be to prepare a summary of the main findings and recommendations, which I will send you by 20 May.\n\nPlease let me know if you would like any further information.\n\nKind regards,\nBayu Pratama"
+    },
+    {
+      "slug": "b2-wr-remote-work-essay",
+      "title": "For-and-Against Essay: Working from Home",
+      "kind": "essay",
+      "instructions": "\"Working from home is better for employees than working in an office.\" Write a balanced essay discussing both sides of this statement and give your own opinion in the conclusion. Use four paragraphs and a range of linkers for contrast, addition, purpose and result.",
+      "minWords": 200,
+      "maxWords": 260,
+      "modelAnswer": "Since the start of the decade, millions of people have been working from home at least part of the week. Many believe this is a positive change, while others feel that the traditional office still has important advantages.\n\nOn the one hand, working from home saves time and money. Employees no longer need to commute, so they can spend more time with their families or on exercise. Furthermore, many people find that they can concentrate better at home, as there are fewer interruptions than in a busy open-plan office. As a result, some companies report higher productivity.\n\nOn the other hand, working from home can be lonely. Although video calls are useful, they cannot fully replace face-to-face contact with colleagues. What is more, it can be difficult to switch off when your home is also your workplace, which may lead to longer working hours and even burnout. Young employees, in particular, may miss opportunities to learn from more experienced colleagues.\n\nIn conclusion, working from home offers clear benefits in terms of flexibility and time. Nevertheless, it does not suit everyone. On balance, I believe a mixed system is best, in which employees spend two or three days in the office so that they can stay connected while still enjoying the advantages of remote work."
+    },
+    {
+      "slug": "b2-wr-free-museums-opinion",
+      "title": "Opinion Paragraphs: Should Museums Be Free?",
+      "kind": "opinion",
+      "instructions": "Write your opinion on the question: \"Should national museums be free for everyone?\" Give at least two reasons with examples, mention one opposing argument and explain why you disagree with it. Include at least two relative clauses and one passive structure.",
+      "minWords": 150,
+      "maxWords": 200,
+      "modelAnswer": "In my opinion, national museums should be free for everyone. Museums protect our cultural heritage, which belongs to all citizens, not only to those who can afford a ticket. When entry is free, families on low incomes, many of whom would otherwise never visit, can learn about their history and traditions.\n\nSecondly, free museums are good for education. Schools can organise visits without asking parents to pay, and young people who are interested in art or history can return as often as they like.\n\nIt is sometimes argued that museums need ticket money in order to survive. However, I believe that this problem could be solved in other ways. Museums could be funded by the government, and visitors could be asked to make voluntary donations. Shops and cafés inside museums also earn money.\n\nIn short, our heritage should be enjoyed by everyone, not just by those who can pay for it."
+    },
+    {
+      "slug": "b2-wr-four-day-week-summary",
+      "title": "Summary: The Four-Day Week",
+      "kind": "summary",
+      "instructions": "Read the article \"The Four-Day Week: Fad or Future?\" in the reading section. Write a summary of the main arguments for and against the four-day week in your own words. Do not copy whole sentences, and do not include your own opinion.",
+      "minWords": 80,
+      "maxWords": 120,
+      "modelAnswer": "The article discusses the four-day working week, which several companies have been testing in recent years. Supporters claim that it improves employees' health and happiness, reduces burnout and sick days, and may even increase productivity because staff use their time more efficiently. One company also reports that it attracts more job applicants. However, critics argue that the model is unsuitable for industries such as healthcare, education and retail, where extra staff would be needed. They also fear that longer working days could increase stress. The writer concludes that it is too early to judge and mentions a more flexible alternative based on meeting targets."
+    },
+    {
+      "slug": "b2-wr-regret-email-informal",
+      "title": "Email to a Friend: News and Regrets",
+      "kind": "email_informal",
+      "instructions": "Write an email to an English-speaking friend you haven't contacted for a long time. Apologise for not writing, tell them your news (what you have been doing), mention something you regret and something you wish were different now, and suggest meeting up.",
+      "minWords": 120,
+      "maxWords": 170,
+      "modelAnswer": "Hi Sam,\n\nI'm so sorry I haven't written for ages. I really should have replied to your last message months ago!\n\nThings have been pretty busy here. I've been working at a design agency in Surabaya since January, and I've just finished my first big project, a website for a chain of cafés. I've also been learning to surf at weekends, although I'm still terrible at it!\n\nMy only regret is that I didn't take the job in Singapore last year. If I had accepted it, I would be living closer to you now. I wish I had more free time, too, because I'd love to travel more.\n\nAnyway, I'm going to be in Kuala Lumpur for a conference in March. Will you be around then? It's high time we met up! Let me know.\n\nTake care,\nNadia"
+    },
+    {
+      "slug": "b2-wr-error-correction",
+      "title": "Proofreading: Correct the Report",
+      "kind": "correction",
+      "instructions": "The following paragraph from a student report contains eight errors (grammar and collocation). Rewrite the paragraph correctly: \"Despite of the rain, the survey was carried out last weekend. We have interviewed forty residents since Saturday, most of them said that traffic is the biggest problem. Although the council has promised improvements, but nothing has done yet. One resident suggested us to write to the mayor. I wish we would have more time, because we did a lot of mistakes in the first questionnaire. If we had tested it earlier, we would avoid these problems.\"",
+      "minWords": 60,
+      "maxWords": 110,
+      "modelAnswer": "Despite the rain, the survey was carried out last weekend. We have interviewed forty residents since Saturday, most of whom said that traffic is the biggest problem. Although the council has promised improvements, nothing has been done yet. One resident suggested writing to the mayor. I wish we had more time, because we made a lot of mistakes in the first questionnaire. If we had tested it earlier, we would have avoided these problems."
+    }
+  ],
+  "vocabulary": [
+    { "word": "workload", "pos": "noun", "ipa": "/ˈwɜːkləʊd/", "definition": "the amount of work that a person has to do", "meaning": "beban kerja", "examples": [{ "en": "My workload has doubled since my colleague left.", "id": "Beban kerja saya berlipat ganda sejak rekan saya keluar." }], "synonyms": ["amount of work"], "antonyms": [], "collocations": ["heavy workload", "manage a workload", "reduce the workload"], "phrases": ["cope with a heavy workload"], "related": ["overtime", "deadline"], "topic": "work-life balance" },
+    { "word": "burnout", "pos": "noun", "ipa": "/ˈbɜːnaʊt/", "definition": "extreme physical and mental tiredness caused by working too hard for a long time", "meaning": "kelelahan fisik dan mental akibat kerja berlebihan", "examples": [{ "en": "Regular breaks can help prevent burnout.", "id": "Istirahat teratur dapat membantu mencegah burnout." }], "synonyms": ["exhaustion"], "antonyms": ["well-being"], "collocations": ["suffer from burnout", "prevent burnout", "risk of burnout"], "phrases": ["on the verge of burnout"], "related": ["stress", "workload"], "topic": "work-life balance" },
+    { "word": "prioritise", "pos": "verb", "ipa": "/praɪˈɒrətaɪz/", "definition": "to decide which tasks are most important and do them first", "meaning": "memprioritaskan", "examples": [{ "en": "You need to prioritise the tasks that are due this week.", "id": "Kamu perlu memprioritaskan tugas yang jatuh tempo minggu ini." }], "synonyms": ["put first", "rank"], "antonyms": ["neglect"], "collocations": ["prioritise tasks", "prioritise safety"], "phrases": ["learn to prioritise"], "related": ["priority"], "topic": "work-life balance" },
+    { "word": "delegate", "pos": "verb", "ipa": "/ˈdelɪɡeɪt/", "definition": "to give part of your work or responsibility to someone else", "meaning": "mendelegasikan", "examples": [{ "en": "Good managers know how to delegate.", "id": "Manajer yang baik tahu cara mendelegasikan tugas." }], "synonyms": ["hand over", "assign"], "antonyms": ["keep", "take on"], "collocations": ["delegate tasks", "delegate responsibility"], "phrases": ["delegate work to a colleague"], "related": ["delegation"], "topic": "work-life balance" },
+    { "word": "productivity", "pos": "noun", "ipa": "/ˌprɒdʌkˈtɪvəti/", "definition": "the rate at which a person or company produces work or goods", "meaning": "produktivitas", "examples": [{ "en": "Shorter meetings have improved our productivity.", "id": "Rapat yang lebih singkat telah meningkatkan produktivitas kami." }], "synonyms": ["efficiency", "output"], "antonyms": ["inefficiency"], "collocations": ["increase productivity", "boost productivity", "productivity falls"], "phrases": ["a drop in productivity"], "related": ["productive", "produce"], "topic": "work-life balance" },
+    { "word": "deadline", "pos": "noun", "ipa": "/ˈdedlaɪn/", "definition": "the time or date by which something must be finished", "meaning": "tenggat waktu", "examples": [{ "en": "We worked all weekend to meet the deadline.", "id": "Kami bekerja sepanjang akhir pekan agar memenuhi tenggat waktu." }], "synonyms": ["due date", "time limit"], "antonyms": [], "collocations": ["meet a deadline", "miss a deadline", "extend a deadline", "tight deadline"], "phrases": ["work to a deadline"], "related": ["schedule", "milestone"], "topic": "projects and progress" },
+    { "word": "setback", "pos": "noun", "ipa": "/ˈsetbæk/", "definition": "a problem that delays progress or makes a situation worse", "meaning": "hambatan, kemunduran", "examples": [{ "en": "Despite a few setbacks, the project was finished on time.", "id": "Meskipun ada beberapa hambatan, proyek itu selesai tepat waktu." }], "synonyms": ["obstacle", "delay", "hitch"], "antonyms": ["breakthrough", "progress"], "collocations": ["suffer a setback", "a major setback", "overcome a setback"], "phrases": ["a temporary setback"], "related": ["delay"], "topic": "projects and progress" },
+    { "word": "sustainable", "pos": "adjective", "ipa": "/səˈsteɪnəbl/", "definition": "able to continue for a long time without harming the environment", "meaning": "berkelanjutan", "examples": [{ "en": "The city is investing in sustainable transport.", "id": "Kota ini berinvestasi pada transportasi berkelanjutan." }], "synonyms": ["eco-friendly", "renewable"], "antonyms": ["unsustainable", "wasteful"], "collocations": ["sustainable development", "sustainable energy", "sustainable growth"], "phrases": ["in a sustainable way"], "related": ["sustainability", "sustain"], "topic": "science and society" },
+    { "word": "infrastructure", "pos": "noun", "ipa": "/ˈɪnfrəstrʌktʃə/", "definition": "the basic systems a country or city needs, such as roads, transport, water and power", "meaning": "infrastruktur", "examples": [{ "en": "The region needs better infrastructure to attract investment.", "id": "Wilayah itu membutuhkan infrastruktur yang lebih baik untuk menarik investasi." }], "synonyms": ["facilities", "public works"], "antonyms": [], "collocations": ["invest in infrastructure", "transport infrastructure", "improve infrastructure"], "phrases": ["roads and other infrastructure"], "related": ["urban planning"], "topic": "science and society" },
+    { "word": "breakthrough", "pos": "noun", "ipa": "/ˈbreɪkθruː/", "definition": "an important new discovery or development", "meaning": "terobosan", "examples": [{ "en": "Scientists have made a breakthrough in battery technology.", "id": "Para ilmuwan telah membuat terobosan dalam teknologi baterai." }], "synonyms": ["discovery", "advance"], "antonyms": ["setback"], "collocations": ["make a breakthrough", "a major breakthrough", "a scientific breakthrough"], "phrases": ["a breakthrough in medicine"], "related": ["innovation"], "topic": "science and society" },
+    { "word": "automation", "pos": "noun", "ipa": "/ˌɔːtəˈmeɪʃn/", "definition": "the use of machines and computers to do work that people used to do", "meaning": "otomatisasi", "examples": [{ "en": "Automation is likely to change many factory jobs.", "id": "Otomatisasi kemungkinan besar akan mengubah banyak pekerjaan di pabrik." }], "synonyms": ["mechanisation"], "antonyms": ["manual work"], "collocations": ["increased automation", "the impact of automation"], "phrases": ["jobs lost to automation"], "related": ["automate", "automatic", "robot"], "topic": "science and society" },
+    { "word": "urbanisation", "pos": "noun", "ipa": "/ˌɜːbənaɪˈzeɪʃn/", "definition": "the process by which more people move from the countryside to live in cities", "meaning": "urbanisasi", "examples": [{ "en": "Rapid urbanisation has put pressure on housing.", "id": "Urbanisasi yang cepat telah menekan ketersediaan perumahan." }], "synonyms": ["urban growth"], "antonyms": ["ruralisation"], "collocations": ["rapid urbanisation", "the effects of urbanisation"], "phrases": ["the rate of urbanisation"], "related": ["urban", "city"], "topic": "science and society" },
+    { "word": "inevitable", "pos": "adjective", "ipa": "/ɪnˈevɪtəbl/", "definition": "certain to happen and impossible to avoid", "meaning": "tak terelakkan", "examples": [{ "en": "Some job losses are inevitable when factories modernise.", "id": "Beberapa PHK tidak terelakkan ketika pabrik melakukan modernisasi." }], "synonyms": ["unavoidable", "bound to happen"], "antonyms": ["avoidable", "unlikely"], "collocations": ["almost inevitable", "the inevitable result"], "phrases": ["it was inevitable that..."], "related": ["inevitably"], "topic": "science and society" },
+    { "word": "forecast", "pos": "noun / verb", "ipa": "/ˈfɔːkɑːst/", "definition": "a statement about what is expected to happen in the future; to predict", "meaning": "prakiraan; meramalkan", "examples": [{ "en": "Economists forecast that prices will rise next year.", "id": "Para ekonom memperkirakan harga akan naik tahun depan." }], "synonyms": ["prediction", "predict"], "antonyms": [], "collocations": ["weather forecast", "economic forecast", "forecast growth"], "phrases": ["according to the forecast"], "related": ["prediction", "projection"], "topic": "science and society" },
+    { "word": "emerge", "pos": "verb", "ipa": "/ɪˈmɜːdʒ/", "definition": "to appear or become known", "meaning": "muncul", "examples": [{ "en": "New problems emerged during the testing stage.", "id": "Masalah-masalah baru muncul selama tahap pengujian." }], "synonyms": ["appear", "arise"], "antonyms": ["disappear"], "collocations": ["emerge from", "a pattern emerges", "evidence emerged"], "phrases": ["it has emerged that..."], "related": ["emerging", "emergence"], "topic": "science and society" },
+    { "word": "hindsight", "pos": "noun", "ipa": "/ˈhaɪndsaɪt/", "definition": "the understanding of a situation that you have only after it has happened", "meaning": "pemahaman setelah kejadian", "examples": [{ "en": "In hindsight, I should have accepted the offer.", "id": "Kalau dipikir sekarang, seharusnya saya menerima tawaran itu." }], "synonyms": ["looking back"], "antonyms": ["foresight"], "collocations": ["in hindsight", "with hindsight", "the benefit of hindsight"], "phrases": ["Hindsight is a wonderful thing."], "related": ["regret"], "topic": "decisions" },
+    { "word": "dilemma", "pos": "noun", "ipa": "/dɪˈlemə/", "definition": "a situation in which you have to make a difficult choice between two options", "meaning": "dilema", "examples": [{ "en": "She faced a dilemma: stay with her family or take the job abroad.", "id": "Dia menghadapi dilema: tinggal bersama keluarga atau menerima pekerjaan di luar negeri." }], "synonyms": ["difficult choice", "predicament"], "antonyms": [], "collocations": ["face a dilemma", "a moral dilemma", "resolve a dilemma"], "phrases": ["be in a dilemma"], "related": ["decision"], "topic": "decisions" },
+    { "word": "consequence", "pos": "noun", "ipa": "/ˈkɒnsɪkwəns/", "definition": "a result of an action or situation, often a bad one", "meaning": "akibat, konsekuensi", "examples": [{ "en": "If you ignore the warning, you'll have to face the consequences.", "id": "Jika kamu mengabaikan peringatan itu, kamu harus menanggung akibatnya." }], "synonyms": ["result", "effect", "outcome"], "antonyms": ["cause"], "collocations": ["face the consequences", "serious consequences", "as a consequence"], "phrases": ["have consequences for"], "related": ["consequently"], "topic": "decisions" },
+    { "word": "regret", "pos": "verb / noun", "ipa": "/rɪˈɡret/", "definition": "to feel sorry about something you did or did not do; the feeling of being sorry", "meaning": "menyesal; penyesalan", "examples": [{ "en": "I regret not travelling more when I was younger.", "id": "Saya menyesal tidak lebih banyak bepergian ketika masih muda." }], "synonyms": ["be sorry about"], "antonyms": ["be glad about"], "collocations": ["deeply regret", "have no regrets", "regret doing something"], "phrases": ["to my regret"], "related": ["regretful", "wish"], "topic": "decisions" },
+    { "word": "fortunate", "pos": "adjective", "ipa": "/ˈfɔːtʃənət/", "definition": "lucky", "meaning": "beruntung", "examples": [{ "en": "We were fortunate to find a hotel so late at night.", "id": "Kami beruntung menemukan hotel selarut itu." }], "synonyms": ["lucky"], "antonyms": ["unfortunate", "unlucky"], "collocations": ["extremely fortunate", "fortunate enough to"], "phrases": ["the less fortunate"], "related": ["fortunately", "fortune"], "topic": "decisions" },
+    { "word": "spontaneous", "pos": "adjective", "ipa": "/spɒnˈteɪniəs/", "definition": "happening or done suddenly, without planning", "meaning": "spontan", "examples": [{ "en": "Our trip to the islands was completely spontaneous.", "id": "Perjalanan kami ke pulau-pulau itu benar-benar spontan." }], "synonyms": ["unplanned", "impulsive"], "antonyms": ["planned", "deliberate"], "collocations": ["a spontaneous decision", "spontaneous applause"], "phrases": ["on the spur of the moment"], "related": ["spontaneously"], "topic": "decisions" },
+    { "word": "suspect", "pos": "noun", "ipa": "/ˈsʌspekt/", "definition": "a person who is thought to have committed a crime", "meaning": "tersangka", "examples": [{ "en": "The police are questioning two suspects.", "id": "Polisi sedang menginterogasi dua tersangka." }], "synonyms": ["accused person"], "antonyms": ["victim", "witness"], "collocations": ["main suspect", "arrest a suspect", "question a suspect"], "phrases": ["a suspect in the case"], "related": ["suspicious", "suspicion"], "topic": "crime and justice" },
+    { "word": "witness", "pos": "noun / verb", "ipa": "/ˈwɪtnəs/", "definition": "a person who sees an event, especially a crime; to see something happen", "meaning": "saksi; menyaksikan", "examples": [{ "en": "Several people witnessed the accident.", "id": "Beberapa orang menyaksikan kecelakaan itu." }], "synonyms": ["eyewitness", "observer"], "antonyms": [], "collocations": ["key witness", "witness statement", "witness a crime"], "phrases": ["appeal for witnesses"], "related": ["testimony"], "topic": "crime and justice" },
+    { "word": "evidence", "pos": "noun (uncountable)", "ipa": "/ˈevɪdəns/", "definition": "facts or objects that show that something is true", "meaning": "bukti", "examples": [{ "en": "There wasn't enough evidence to prove he was guilty.", "id": "Tidak ada cukup bukti untuk membuktikan dia bersalah." }], "synonyms": ["proof"], "antonyms": [], "collocations": ["strong evidence", "find evidence", "evidence suggests"], "phrases": ["a piece of evidence"], "related": ["evident", "clue"], "topic": "crime and justice" },
+    { "word": "verdict", "pos": "noun", "ipa": "/ˈvɜːdɪkt/", "definition": "the decision of a court about whether someone is guilty", "meaning": "putusan (pengadilan)", "examples": [{ "en": "The jury took two days to reach a verdict.", "id": "Juri membutuhkan dua hari untuk mencapai putusan." }], "synonyms": ["judgement", "decision"], "antonyms": [], "collocations": ["reach a verdict", "a guilty verdict", "announce the verdict"], "phrases": ["the verdict of the court"], "related": ["trial", "sentence"], "topic": "crime and justice" },
+    { "word": "allegedly", "pos": "adverb", "ipa": "/əˈledʒɪdli/", "definition": "according to what people say, although it has not been proved", "meaning": "konon, diduga", "examples": [{ "en": "The man allegedly stole documents from the office.", "id": "Pria itu diduga mencuri dokumen dari kantor." }], "synonyms": ["reportedly", "supposedly"], "antonyms": ["definitely", "proven"], "collocations": ["allegedly involved", "allegedly stolen"], "phrases": [], "related": ["allege", "allegation"], "topic": "media" },
+    { "word": "investigate", "pos": "verb", "ipa": "/ɪnˈvestɪɡeɪt/", "definition": "to examine a situation carefully to discover the truth", "meaning": "menyelidiki", "examples": [{ "en": "The police are investigating the fire.", "id": "Polisi sedang menyelidiki kebakaran itu." }], "synonyms": ["look into", "examine"], "antonyms": ["ignore"], "collocations": ["investigate a crime", "investigate a complaint", "fully investigate"], "phrases": ["under investigation"], "related": ["investigation", "investigator"], "topic": "crime and justice" },
+    { "word": "headline", "pos": "noun", "ipa": "/ˈhedlaɪn/", "definition": "the title of a newspaper article, printed in large letters", "meaning": "judul berita utama", "examples": [{ "en": "The story made headlines around the country.", "id": "Berita itu menjadi berita utama di seluruh negeri." }], "synonyms": ["title"], "antonyms": [], "collocations": ["make headlines", "front-page headline", "hit the headlines"], "phrases": ["read the headlines"], "related": ["article", "news"], "topic": "media" },
+    { "word": "coverage", "pos": "noun", "ipa": "/ˈkʌvərɪdʒ/", "definition": "the reporting of news and events in the media", "meaning": "liputan", "examples": [{ "en": "The election received a lot of media coverage.", "id": "Pemilu itu mendapat banyak liputan media." }], "synonyms": ["reporting"], "antonyms": [], "collocations": ["media coverage", "live coverage", "extensive coverage"], "phrases": ["coverage of the event"], "related": ["cover (a story)"], "topic": "media" },
+    { "word": "compromise", "pos": "noun / verb", "ipa": "/ˈkɒmprəmaɪz/", "definition": "an agreement in which both sides accept less than they wanted; to make such an agreement", "meaning": "kompromi; berkompromi", "examples": [{ "en": "After hours of talks, they finally reached a compromise.", "id": "Setelah berjam-jam berunding, mereka akhirnya mencapai kompromi." }], "synonyms": ["middle ground", "deal"], "antonyms": ["deadlock", "disagreement"], "collocations": ["reach a compromise", "agree to a compromise", "a fair compromise"], "phrases": ["meet somebody halfway"], "related": ["negotiation", "concession"], "topic": "negotiation" },
+    { "word": "concession", "pos": "noun", "ipa": "/kənˈseʃn/", "definition": "something you give up or allow in order to reach an agreement", "meaning": "konsesi, kelonggaran", "examples": [{ "en": "The company made several concessions to the union.", "id": "Perusahaan memberikan beberapa konsesi kepada serikat pekerja." }], "synonyms": ["compromise", "allowance"], "antonyms": ["demand"], "collocations": ["make a concession", "win concessions"], "phrases": ["as a concession to"], "related": ["concede"], "topic": "negotiation" },
+    { "word": "persuade", "pos": "verb", "ipa": "/pəˈsweɪd/", "definition": "to make someone agree to do something by giving them reasons", "meaning": "membujuk", "examples": [{ "en": "I persuaded my brother to come with us.", "id": "Saya membujuk adik saya untuk ikut bersama kami." }], "synonyms": ["convince", "talk into"], "antonyms": ["dissuade", "discourage"], "collocations": ["persuade someone to do something", "try to persuade"], "phrases": ["easily persuaded"], "related": ["persuasive", "persuasion"], "topic": "negotiation" },
+    { "word": "convince", "pos": "verb", "ipa": "/kənˈvɪns/", "definition": "to make someone believe that something is true", "meaning": "meyakinkan", "examples": [{ "en": "She convinced the panel that her plan would work.", "id": "Dia meyakinkan panel bahwa rencananya akan berhasil." }], "synonyms": ["persuade", "satisfy"], "antonyms": [], "collocations": ["convince someone of something", "convince someone that"], "phrases": ["I'm not convinced"], "related": ["convincing", "convinced"], "topic": "negotiation" },
+    { "word": "negotiate", "pos": "verb", "ipa": "/nɪˈɡəʊʃieɪt/", "definition": "to discuss something formally in order to reach an agreement", "meaning": "bernegosiasi", "examples": [{ "en": "We negotiated a lower price with the supplier.", "id": "Kami menegosiasikan harga yang lebih rendah dengan pemasok." }], "synonyms": ["bargain", "discuss terms"], "antonyms": [], "collocations": ["negotiate a deal", "negotiate a contract", "negotiate with"], "phrases": ["the negotiating table"], "related": ["negotiation", "negotiator"], "topic": "negotiation" },
+    { "word": "proposal", "pos": "noun", "ipa": "/prəˈpəʊzl/", "definition": "a plan or suggestion, often a formal one", "meaning": "proposal, usulan", "examples": [{ "en": "The board rejected our first proposal.", "id": "Dewan menolak usulan pertama kami." }], "synonyms": ["plan", "suggestion"], "antonyms": [], "collocations": ["submit a proposal", "reject a proposal", "accept a proposal"], "phrases": ["a proposal for"], "related": ["propose"], "topic": "negotiation" },
+    { "word": "heritage", "pos": "noun", "ipa": "/ˈherɪtɪdʒ/", "definition": "the traditions, buildings and culture of a society that come from the past", "meaning": "warisan budaya", "examples": [{ "en": "Batik is an important part of our cultural heritage.", "id": "Batik adalah bagian penting dari warisan budaya kita." }], "synonyms": ["tradition", "legacy"], "antonyms": [], "collocations": ["cultural heritage", "national heritage", "heritage site"], "phrases": ["protect our heritage"], "related": ["tradition"], "topic": "culture and heritage" },
+    { "word": "preserve", "pos": "verb", "ipa": "/prɪˈzɜːv/", "definition": "to keep something in its original state or in good condition", "meaning": "melestarikan", "examples": [{ "en": "The old town has been beautifully preserved.", "id": "Kota tua itu dilestarikan dengan indah." }], "synonyms": ["protect", "conserve"], "antonyms": ["destroy", "neglect"], "collocations": ["preserve traditions", "well preserved"], "phrases": ["preserve for future generations"], "related": ["preservation"], "topic": "culture and heritage" },
+    { "word": "legacy", "pos": "noun", "ipa": "/ˈleɡəsi/", "definition": "something that a person or event leaves behind for the future", "meaning": "warisan, peninggalan", "examples": [{ "en": "Her greatest legacy is the school she founded.", "id": "Warisan terbesarnya adalah sekolah yang ia dirikan." }], "synonyms": ["heritage", "inheritance"], "antonyms": [], "collocations": ["leave a legacy", "lasting legacy"], "phrases": ["the legacy of the past"], "related": ["heritage"], "topic": "culture and heritage" },
+    { "word": "renowned", "pos": "adjective", "ipa": "/rɪˈnaʊnd/", "definition": "famous and admired for a special skill or quality", "meaning": "termasyhur", "examples": [{ "en": "The town is renowned for its silverwork.", "id": "Kota itu termasyhur karena kerajinan peraknya." }], "synonyms": ["famous", "celebrated", "acclaimed"], "antonyms": ["unknown", "obscure"], "collocations": ["world-renowned", "renowned for"], "phrases": ["internationally renowned"], "related": ["renown", "reputation"], "topic": "culture and heritage" },
+    { "word": "artefact", "pos": "noun", "ipa": "/ˈɑːtɪfækt/", "definition": "an object made by people, especially one of historical interest", "meaning": "artefak", "examples": [{ "en": "The museum displays artefacts from the 10th century.", "id": "Museum itu memamerkan artefak dari abad ke-10." }], "synonyms": ["object", "relic"], "antonyms": [], "collocations": ["ancient artefacts", "cultural artefacts"], "phrases": [], "related": ["archaeology", "museum"], "topic": "culture and heritage" },
+    { "word": "indigenous", "pos": "adjective", "ipa": "/ɪnˈdɪdʒənəs/", "definition": "belonging to a place originally rather than coming from somewhere else", "meaning": "asli, pribumi", "examples": [{ "en": "The region has more than twenty indigenous languages.", "id": "Wilayah itu memiliki lebih dari dua puluh bahasa asli." }], "synonyms": ["native", "local"], "antonyms": ["foreign", "introduced"], "collocations": ["indigenous people", "indigenous culture"], "phrases": ["indigenous to"], "related": ["native"], "topic": "culture and heritage" },
+    { "word": "clue", "pos": "noun", "ipa": "/kluː/", "definition": "a piece of information that helps to solve a problem or mystery", "meaning": "petunjuk", "examples": [{ "en": "The footprint was the only clue the police had.", "id": "Jejak kaki itu adalah satu-satunya petunjuk yang dimiliki polisi." }], "synonyms": ["hint", "lead"], "antonyms": [], "collocations": ["find a clue", "a vital clue", "look for clues"], "phrases": ["not have a clue (informal)"], "related": ["evidence"], "topic": "mysteries and investigation" },
+    { "word": "motive", "pos": "noun", "ipa": "/ˈməʊtɪv/", "definition": "a reason for doing something, especially a crime", "meaning": "motif", "examples": [{ "en": "Nobody could understand his motive for the attack.", "id": "Tidak ada yang bisa memahami motifnya melakukan serangan itu." }], "synonyms": ["reason", "intention"], "antonyms": [], "collocations": ["a strong motive", "the motive for"], "phrases": ["have a motive"], "related": ["motivation"], "topic": "mysteries and investigation" },
+    { "word": "alibi", "pos": "noun", "ipa": "/ˈæləbaɪ/", "definition": "proof that someone was somewhere else when a crime happened", "meaning": "alibi", "examples": [{ "en": "Her alibi was confirmed by three witnesses.", "id": "Alibinya dikonfirmasi oleh tiga orang saksi." }], "synonyms": ["defence"], "antonyms": [], "collocations": ["a solid alibi", "check an alibi", "have an alibi"], "phrases": [], "related": ["suspect", "witness"], "topic": "mysteries and investigation" },
+    { "word": "deduce", "pos": "verb", "ipa": "/dɪˈdjuːs/", "definition": "to reach a conclusion by thinking about the facts you have", "meaning": "menyimpulkan", "examples": [{ "en": "From the evidence, the detective deduced that the thief had a key.", "id": "Dari bukti itu, detektif menyimpulkan bahwa pencuri memiliki kunci." }], "synonyms": ["conclude", "infer", "work out"], "antonyms": [], "collocations": ["deduce from", "deduce that"], "phrases": [], "related": ["deduction"], "topic": "mysteries and investigation" },
+    { "word": "vanish", "pos": "verb", "ipa": "/ˈvænɪʃ/", "definition": "to disappear suddenly and completely", "meaning": "lenyap", "examples": [{ "en": "The ship vanished without a trace.", "id": "Kapal itu lenyap tanpa jejak." }], "synonyms": ["disappear"], "antonyms": ["appear", "reappear"], "collocations": ["vanish without a trace", "vanish into thin air"], "phrases": [], "related": ["disappearance"], "topic": "mysteries and investigation" },
+    { "word": "poverty", "pos": "noun", "ipa": "/ˈpɒvəti/", "definition": "the state of being extremely poor", "meaning": "kemiskinan", "examples": [{ "en": "Education is one of the best ways to reduce poverty.", "id": "Pendidikan adalah salah satu cara terbaik untuk mengurangi kemiskinan." }], "synonyms": ["hardship", "deprivation"], "antonyms": ["wealth", "prosperity"], "collocations": ["live in poverty", "reduce poverty", "extreme poverty"], "phrases": ["below the poverty line"], "related": ["poor"], "topic": "social issues" },
+    { "word": "inequality", "pos": "noun", "ipa": "/ˌɪnɪˈkwɒləti/", "definition": "an unfair situation in which some people have more money, rights or chances than others", "meaning": "ketimpangan, ketidaksetaraan", "examples": [{ "en": "The report highlights growing inequality between rich and poor regions.", "id": "Laporan itu menyoroti ketimpangan yang makin besar antara wilayah kaya dan miskin." }], "synonyms": ["disparity", "imbalance"], "antonyms": ["equality"], "collocations": ["income inequality", "reduce inequality", "social inequality"], "phrases": [], "related": ["equal", "fairness"], "topic": "social issues" },
+    { "word": "discrimination", "pos": "noun", "ipa": "/dɪˌskrɪmɪˈneɪʃn/", "definition": "treating a person or group unfairly because of their race, gender, age, etc.", "meaning": "diskriminasi", "examples": [{ "en": "The law protects workers from discrimination.", "id": "Undang-undang itu melindungi pekerja dari diskriminasi." }], "synonyms": ["prejudice", "bias"], "antonyms": ["equality", "fairness"], "collocations": ["face discrimination", "age discrimination", "fight discrimination"], "phrases": ["discrimination against"], "related": ["discriminate"], "topic": "social issues" },
+    { "word": "controversial", "pos": "adjective", "ipa": "/ˌkɒntrəˈvɜːʃl/", "definition": "causing a lot of disagreement or strong feelings", "meaning": "kontroversial", "examples": [{ "en": "The new tax is highly controversial.", "id": "Pajak baru itu sangat kontroversial." }], "synonyms": ["disputed", "debatable"], "antonyms": ["uncontroversial", "accepted"], "collocations": ["highly controversial", "a controversial decision", "a controversial issue"], "phrases": [], "related": ["controversy"], "topic": "social issues" },
+    { "word": "tackle", "pos": "verb", "ipa": "/ˈtækl/", "definition": "to make a determined effort to deal with a difficult problem", "meaning": "menangani, mengatasi", "examples": [{ "en": "The government must tackle unemployment among young people.", "id": "Pemerintah harus mengatasi pengangguran di kalangan anak muda." }], "synonyms": ["address", "deal with"], "antonyms": ["ignore", "avoid"], "collocations": ["tackle a problem", "tackle climate change", "tackle crime"], "phrases": [], "related": ["solve"], "topic": "social issues" },
+    { "word": "welfare", "pos": "noun", "ipa": "/ˈwelfeə/", "definition": "help (often money) given by the state to people who need it; general health and happiness", "meaning": "kesejahteraan; bantuan sosial", "examples": [{ "en": "Animal welfare is a growing concern for consumers.", "id": "Kesejahteraan hewan menjadi perhatian yang makin besar bagi konsumen." }], "synonyms": ["well-being", "social security"], "antonyms": [], "collocations": ["welfare system", "child welfare", "animal welfare"], "phrases": ["on welfare (US)"], "related": ["benefits"], "topic": "social issues" },
+    { "word": "sedentary", "pos": "adjective", "ipa": "/ˈsedntri/", "definition": "involving a lot of sitting and not much physical activity", "meaning": "banyak duduk, kurang bergerak", "examples": [{ "en": "A sedentary lifestyle can lead to health problems.", "id": "Gaya hidup yang kurang bergerak dapat menyebabkan masalah kesehatan." }], "synonyms": ["inactive"], "antonyms": ["active"], "collocations": ["sedentary lifestyle", "sedentary job"], "phrases": [], "related": ["exercise"], "topic": "lifestyle and habits" },
+    { "word": "moderation", "pos": "noun", "ipa": "/ˌmɒdəˈreɪʃn/", "definition": "the quality of not doing or having too much of something", "meaning": "kewajaran, tidak berlebihan", "examples": [{ "en": "Coffee is fine in moderation.", "id": "Kopi tidak masalah asalkan tidak berlebihan." }], "synonyms": ["balance", "self-control"], "antonyms": ["excess"], "collocations": ["in moderation", "drink in moderation"], "phrases": ["everything in moderation"], "related": ["moderate"], "topic": "lifestyle and habits" },
+    { "word": "refund", "pos": "noun / verb", "ipa": "/ˈriːfʌnd/ (n), /rɪˈfʌnd/ (v)", "definition": "money that is paid back to you, for example when you return a product", "meaning": "pengembalian uang; mengembalikan uang", "examples": [{ "en": "I returned the faulty kettle and asked for a refund.", "id": "Saya mengembalikan ketel yang rusak dan meminta pengembalian uang." }], "synonyms": ["repayment", "reimbursement"], "antonyms": ["charge"], "collocations": ["full refund", "ask for a refund", "give a refund"], "phrases": ["no refunds without a receipt"], "related": ["receipt", "compensation"], "topic": "complaints" },
+    { "word": "faulty", "pos": "adjective", "ipa": "/ˈfɔːlti/", "definition": "not working correctly or not made correctly", "meaning": "rusak, cacat", "examples": [{ "en": "The fire was caused by faulty wiring.", "id": "Kebakaran itu disebabkan oleh kabel yang rusak." }], "synonyms": ["defective", "broken"], "antonyms": ["working", "perfect"], "collocations": ["faulty product", "faulty wiring", "faulty goods"], "phrases": [], "related": ["fault"], "topic": "complaints" },
+    { "word": "compensation", "pos": "noun", "ipa": "/ˌkɒmpenˈseɪʃn/", "definition": "money paid to someone because they have suffered loss, injury or a problem", "meaning": "ganti rugi, kompensasi", "examples": [{ "en": "Passengers received compensation for the delayed flight.", "id": "Penumpang menerima kompensasi atas penerbangan yang tertunda." }], "synonyms": ["damages", "reimbursement"], "antonyms": [], "collocations": ["claim compensation", "receive compensation", "pay compensation"], "phrases": ["compensation for"], "related": ["compensate", "refund"], "topic": "complaints" },
+    { "word": "entrepreneur", "pos": "noun", "ipa": "/ˌɒntrəprəˈnɜː/", "definition": "a person who starts their own business", "meaning": "wirausahawan", "examples": [{ "en": "The young entrepreneur set up her first company at 22.", "id": "Wirausahawan muda itu mendirikan perusahaan pertamanya pada usia 22 tahun." }], "synonyms": ["business owner", "founder"], "antonyms": ["employee"], "collocations": ["successful entrepreneur", "young entrepreneur"], "phrases": [], "related": ["entrepreneurial", "start-up"], "topic": "business and career" },
+    { "word": "recruit", "pos": "verb / noun", "ipa": "/rɪˈkruːt/", "definition": "to find new people to work for a company; a new member of staff", "meaning": "merekrut; karyawan baru", "examples": [{ "en": "We're recruiting three new sales staff.", "id": "Kami sedang merekrut tiga staf penjualan baru." }], "synonyms": ["hire", "take on"], "antonyms": ["dismiss", "fire"], "collocations": ["recruit staff", "new recruits"], "phrases": [], "related": ["recruitment"], "topic": "business and career" },
+    { "word": "revenue", "pos": "noun", "ipa": "/ˈrevənjuː/", "definition": "the money a company or government receives", "meaning": "pendapatan", "examples": [{ "en": "The company's revenue rose by ten per cent last year.", "id": "Pendapatan perusahaan naik sepuluh persen tahun lalu." }], "synonyms": ["income", "earnings"], "antonyms": ["expenditure", "costs"], "collocations": ["generate revenue", "annual revenue", "revenue falls"], "phrases": ["a source of revenue"], "related": ["profit"], "topic": "business and career" },
+    { "word": "launch", "pos": "verb / noun", "ipa": "/lɔːntʃ/", "definition": "to introduce a new product or start an activity; the event of doing this", "meaning": "meluncurkan; peluncuran", "examples": [{ "en": "The app will be launched in September.", "id": "Aplikasi itu akan diluncurkan pada bulan September." }], "synonyms": ["introduce", "release"], "antonyms": ["withdraw"], "collocations": ["launch a product", "launch a campaign", "product launch"], "phrases": [], "related": ["release"], "topic": "business and career" },
+    { "word": "promotion", "pos": "noun", "ipa": "/prəˈməʊʃn/", "definition": "a move to a more important job in the same organisation; advertising activity", "meaning": "kenaikan jabatan; promosi", "examples": [{ "en": "She got a promotion after only a year.", "id": "Dia mendapat kenaikan jabatan setelah hanya setahun." }], "synonyms": ["advancement", "upgrade"], "antonyms": ["demotion"], "collocations": ["get a promotion", "be up for promotion"], "phrases": ["climb the career ladder"], "related": ["promote"], "topic": "business and career" },
+    { "word": "significant", "pos": "adjective", "ipa": "/sɪɡˈnɪfɪkənt/", "definition": "large or important enough to have an effect or be noticed", "meaning": "signifikan, berarti", "examples": [{ "en": "There has been a significant increase in online sales.", "id": "Ada peningkatan signifikan dalam penjualan daring." }], "synonyms": ["considerable", "important", "notable"], "antonyms": ["insignificant", "minor"], "collocations": ["significant increase", "significant difference", "statistically significant"], "phrases": [], "related": ["significance", "significantly"], "topic": "academic language" },
+    { "word": "evaluate", "pos": "verb", "ipa": "/ɪˈvæljueɪt/", "definition": "to judge how good, useful or successful something is", "meaning": "mengevaluasi, menilai", "examples": [{ "en": "We need to evaluate the results before we decide.", "id": "Kita perlu mengevaluasi hasilnya sebelum memutuskan." }], "synonyms": ["assess", "judge"], "antonyms": [], "collocations": ["evaluate the evidence", "evaluate performance"], "phrases": [], "related": ["evaluation"], "topic": "academic language" },
+    { "word": "hypothesis", "pos": "noun", "ipa": "/haɪˈpɒθəsɪs/", "definition": "an idea that is suggested as an explanation but has not yet been proved", "meaning": "hipotesis", "examples": [{ "en": "The results supported the researchers' hypothesis.", "id": "Hasil penelitian mendukung hipotesis para peneliti." }], "synonyms": ["theory", "assumption"], "antonyms": ["fact", "proof"], "collocations": ["test a hypothesis", "support a hypothesis", "reject a hypothesis"], "phrases": [], "related": ["hypothetical", "theory"], "topic": "academic language" }
+  ],
+  "examQuestions": [
+    {
+      "id": "b2-exam-q1", "type": "single_choice", "category": "grammar", "topic": "present perfect continuous",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Choose the correct option.",
+      "context": "I'm exhausted. I ___ for this exam since six o'clock this morning.",
+      "options": ["have been studying", "am studying", "studied", "had studied"],
+      "answer": 0,
+      "explanation": "An activity that started in the past (*since six o'clock*) and continues up to now → **have been studying**."
+    },
+    {
+      "id": "b2-exam-q2", "type": "dropdown", "category": "grammar", "topic": "future perfect",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the correct option.",
+      "text": "There's so much traffic. By the time we get to the stadium, the match ___.",
+      "choices": [["will have started", "will start", "is starting"]],
+      "answers": [0],
+      "explanation": "Completed before a future moment (*by the time we get there*) → **will have started**."
+    },
+    {
+      "id": "b2-exam-q3", "type": "fill_blank", "category": "grammar", "topic": "third conditional",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Complete with the correct form of the verb in brackets.",
+      "text": "If you ___ (tell) me about the problem earlier, I could have helped you.",
+      "answers": [["had told"]],
+      "explanation": "Third conditional if-clause → **had told** (+ *could have helped*)."
+    },
+    {
+      "id": "b2-exam-q4", "type": "sentence_transformation", "category": "grammar", "topic": "mixed conditionals",
+      "difficulty": 4, "stage": "exam",
+      "prompt": "Rewrite the situation as a conditional sentence.",
+      "sentence": "I didn't bring my umbrella, so I'm wet now.",
+      "cue": "Begin with: If I had brought ...",
+      "answers": [
+        "If I had brought my umbrella, I wouldn't be wet now.",
+        "If I had brought my umbrella, I would not be wet now.",
+        "If I had brought my umbrella, I wouldn't be wet.",
+        "If I had brought my umbrella, I would not be wet."
+      ],
+      "explanation": "Past condition (*had brought*) + present result (*now*) → mixed conditional: **I wouldn't be wet now**."
+    },
+    {
+      "id": "b2-exam-q5", "type": "error_identification", "category": "grammar", "topic": "passive voice",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Find the error.",
+      "segments": ["The new shopping centre", "is building", "on the site of", "the old football stadium."],
+      "errorIndex": 1,
+      "correction": "is being built",
+      "explanation": "The shopping centre receives the action, and it is in progress → present continuous passive: **is being built**."
+    },
+    {
+      "id": "b2-exam-q6", "type": "multiple_select", "category": "grammar", "topic": "causative",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Which sentences describe a service that SOMEONE ELSE did for the subject? Select all that apply.",
+      "options": [
+        "I had my eyes tested.",
+        "I tested my eyes.",
+        "She got her car repaired.",
+        "He repaired his car.",
+        "We had the carpet cleaned."
+      ],
+      "answers": [0, 2, 4],
+      "explanation": "The causative **have/get + object + past participle** shows that someone else did the job."
+    },
+    {
+      "id": "b2-exam-q7", "type": "dropdown", "category": "grammar", "topic": "reporting verbs",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the correct options.",
+      "text": "The manager apologised ___ the mistake and promised ___ it again.",
+      "choices": [["for", "of", "on"], ["not to make", "not making", "to not making"]],
+      "answers": [0, 0],
+      "explanation": "**apologise for** + noun/-ing; **promise not to + verb**."
+    },
+    {
+      "id": "b2-exam-q8", "type": "sentence_transformation", "category": "grammar", "topic": "reporting verbs",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Report the sentence using offered.",
+      "sentence": "\"I'll help you with the move,\" Pedro said to me.",
+      "cue": "Begin with: Pedro ...",
+      "answers": [
+        "Pedro offered to help me with the move.",
+        "Pedro offered to help with the move."
+      ],
+      "explanation": "**offer + to-infinitive**: *Pedro offered to help me with the move.*"
+    },
+    {
+      "id": "b2-exam-q9", "type": "single_choice", "category": "grammar", "topic": "non-defining relative clauses",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Choose the correct option.",
+      "context": "The Grand Pelangi Hotel, ___ was built in 1920, has been beautifully restored.",
+      "options": ["which", "that", "where", "who"],
+      "answer": 0,
+      "explanation": "A thing in a non-defining clause (between commas) → **which**. *That* is not allowed after a comma."
+    },
+    {
+      "id": "b2-exam-q10", "type": "word_order", "category": "grammar", "topic": "reduced relative clauses",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Put the words in the correct order.",
+      "words": ["The", "students", "invited", "to", "the", "ceremony", "were", "all", "from", "local", "schools"],
+      "explanation": "Reduced passive relative clause: *The students **invited to the ceremony** were all from local schools.*"
+    },
+    {
+      "id": "b2-exam-q11", "type": "fill_blank", "category": "grammar", "topic": "might have",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Complete using the words in brackets.",
+      "text": "Lina isn't answering her phone. She ___ (might / leave) it at home.",
+      "answers": [["might have left"]],
+      "explanation": "Past possibility → **might have + past participle**."
+    },
+    {
+      "id": "b2-exam-q12", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "investigation",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "What does the phrase in bold mean?",
+      "context": "After examining the car, the police have **ruled out** an accident.",
+      "options": [
+        "They have decided that it was not an accident.",
+        "They have proved that it was an accident.",
+        "They are still investigating the accident.",
+        "They have caused an accident."
+      ],
+      "answer": 0,
+      "explanation": "**Rule out** = decide that something is not possible (mengesampingkan kemungkinan)."
+    },
+    {
+      "id": "b2-exam-q13", "type": "drag_drop", "category": "grammar", "topic": "linking words",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Complete the text with words from the bank.",
+      "text": "___ the heavy traffic, we arrived on time. We had left early ___ that we could find a parking space. ___, the meeting started late anyway!",
+      "bank": ["Despite", "so", "However", "Although", "such"],
+      "answers": ["Despite", "so", "However"],
+      "explanation": "**Despite** + noun; **so that** + clause (purpose); **However,** links two sentences. *Although* would need a clause."
+    },
+    {
+      "id": "b2-exam-q14", "type": "translation", "category": "grammar", "topic": "wish + past perfect",
+      "difficulty": 4, "stage": "exam",
+      "prompt": "Translate into English.",
+      "source": "Saya menyesal tidak belajar bahasa Inggris lebih awal.",
+      "direction": "id-en",
+      "answers": [
+        "I wish I had learned English earlier.",
+        "I wish I had learnt English earlier.",
+        "I wish I'd learned English earlier.",
+        "I wish I'd learnt English earlier.",
+        "I regret not learning English earlier.",
+        "I regret not having learned English earlier.",
+        "I regret not having learnt English earlier.",
+        "I regret that I didn't learn English earlier.",
+        "I wish I had started learning English earlier.",
+        "I wish I had studied English earlier.",
+        "I regret not studying English earlier.",
+        "If only I had learned English earlier."
+      ],
+      "explanation": "Past regret → **I wish I had + past participle** or **I regret not + -ing**."
+    },
+    {
+      "id": "b2-exam-q15", "type": "dialogue_completion", "category": "business", "topic": "collocations",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the correct reply.",
+      "dialogue": [
+        { "speaker": "Director", "text": "Have you made a decision about the new supplier?" },
+        { "speaker": "Manager", "text": null }
+      ],
+      "options": [
+        "Not yet. We need to take the delivery costs into account first.",
+        "Not yet. We need to take into the delivery costs account first.",
+        "Not yet. We need to make the delivery costs into account first.",
+        "Not yet. We need to do account of the delivery costs first."
+      ],
+      "answer": 0,
+      "explanation": "The collocation is **take something into account** (mempertimbangkan)."
+    },
+    {
+      "id": "b2-exam-q16", "type": "short_answer", "category": "grammar", "topic": "adjective + preposition",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Complete with ONE word: \"In her new job, Sinta is responsible ___ training all new staff.\"",
+      "answers": ["for"],
+      "explanation": "**responsible for** + noun/-ing."
+    }
+  ],
+  "placementQuestions": [
+    {
+      "id": "b2-place-q1", "type": "single_choice", "category": "grammar", "topic": "present perfect continuous",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "context": "So you're still at the same company? How long ___ there?",
+      "options": ["have you been working", "are you working", "do you work", "were you working"],
+      "answer": 0,
+      "explanation": "Duration up to now → present perfect continuous: **have you been working**."
+    },
+    {
+      "id": "b2-place-q2", "type": "single_choice", "category": "grammar", "topic": "third conditional",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "context": "If I ___ about the train strike, I would have taken a taxi.",
+      "options": ["had known", "knew", "would know", "have known"],
+      "answer": 0,
+      "explanation": "Third conditional if-clause → past perfect: **had known**."
+    },
+    {
+      "id": "b2-place-q3", "type": "fill_blank", "category": "grammar", "topic": "passive voice",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Complete with the passive form of the verb in brackets.",
+      "text": "The bridge ___ (repair) at the moment, so the road is closed.",
+      "answers": [["is being repaired"]],
+      "explanation": "Action in progress + passive → **is being repaired**."
+    },
+    {
+      "id": "b2-place-q4", "type": "dropdown", "category": "grammar", "topic": "reporting verbs",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "text": "The minister denied ___ the secret documents.",
+      "choices": [["taking", "to take", "take"]],
+      "answers": [0],
+      "explanation": "**deny + -ing**."
+    },
+    {
+      "id": "b2-place-q5", "type": "single_choice", "category": "grammar", "topic": "despite",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "context": "Despite ___ very tired, she finished the marathon.",
+      "options": ["being", "she was", "of being", "to be"],
+      "answer": 0,
+      "explanation": "**Despite + -ing**: *Despite being very tired...*"
+    },
+    {
+      "id": "b2-place-q6", "type": "single_choice", "category": "grammar", "topic": "should have",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "context": "You ___ have told me you were moving house. I would have helped!",
+      "options": ["should", "must", "can't", "needn't"],
+      "answer": 0,
+      "explanation": "Criticism of something that didn't happen → **should have told**."
+    },
+    {
+      "id": "b2-place-q7", "type": "dropdown", "category": "grammar", "topic": "would rather",
+      "difficulty": 4, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "text": "I'd rather you ___ my laptop without asking.",
+      "choices": [["didn't use", "don't use", "not use"]],
+      "answers": [0],
+      "explanation": "**would rather + subject + past simple**: *I'd rather you didn't use...*"
+    },
+    {
+      "id": "b2-place-q8", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "business collocations",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "What does the phrase in bold mean?",
+      "context": "After a difficult year, the company had to **cut costs**.",
+      "options": ["reduce spending", "increase prices", "dismiss the director", "sell the company"],
+      "answer": 0,
+      "explanation": "**Cut costs** = reduce the amount of money spent."
+    },
+    {
+      "id": "b2-place-q9", "type": "error_identification", "category": "grammar", "topic": "non-defining relative clauses",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Find the error.",
+      "segments": ["My grandfather,", "that was a teacher,", "taught me", "to play chess."],
+      "errorIndex": 1,
+      "correction": "who was a teacher,",
+      "explanation": "*That* cannot be used in a non-defining relative clause; use **who** for people."
+    },
+    {
+      "id": "b2-place-q10", "type": "single_choice", "category": "grammar", "topic": "so and such",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "context": "It was ___ that we stayed at home all weekend.",
+      "options": ["such bad weather", "so bad weather", "such a bad weather", "so a bad weather"],
+      "answer": 0,
+      "explanation": "*Weather* is uncountable, so: **such + adjective + uncountable noun** → *such bad weather* (no *a*)."
+    }
+  ]
+}

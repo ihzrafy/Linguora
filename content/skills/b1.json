@@ -1,0 +1,4638 @@
+{
+  "level": "B1",
+  "grammarTopics": [
+    {
+      "slug": "b1-gr-present-perfect-vs-past-simple",
+      "title": "Present Perfect vs Past Simple",
+      "category": "tense",
+      "explanation": "### Dua tense, dua cara melihat waktu\nBahasa Indonesia tidak mengubah bentuk kata kerja untuk waktu, jadi perbedaan ini sering membingungkan. The **past simple** talks about a finished action at a **finished time** (yesterday, in 2020, two years ago, last week). The **present perfect** (have/has + past participle) connects the past to **now**: life experiences with no specific time, changes and results that matter now, and situations that started in the past and continue until now.\n\n### Kapan memakai yang mana?\n| Situasi | Tense | Contoh |\n| --- | --- | --- |\n| Waktu selesai disebut | Past simple | I *moved* here in 2019. |\n| Pengalaman, waktu tidak penting | Present perfect | I *have lived* abroad. |\n| Hasil yang terlihat sekarang | Present perfect | She *has cut* her hair. |\n| Masih berlanjut sampai sekarang | Present perfect + for/since | We *have known* each other since 2015. |\n| Baru saja / sudah / belum | Present perfect + just/already/yet | He *hasn't replied* yet. |\n\n### Kata kunci\nPast simple: *yesterday, ago, last..., in + year, when...?* Present perfect: *ever, never, so far, recently, just, already, yet, for, since*. Remember: **never use ago or a finished time with the present perfect**. A common pattern in conversation is to open with the present perfect and continue with the past simple for details: *Have you ever been to Port Selwyn? — Yes, I went there last summer.*",
+      "formulas": [
+        {
+          "label": "Present perfect (+)",
+          "pattern": "Subject + have/has + past participle"
+        },
+        {
+          "label": "Present perfect (−)",
+          "pattern": "Subject + haven't/hasn't + past participle"
+        },
+        {
+          "label": "Present perfect (?)",
+          "pattern": "Have/Has + subject + past participle ...?"
+        },
+        {
+          "label": "Past simple (+)",
+          "pattern": "Subject + verb-ed / irregular past form"
+        },
+        {
+          "label": "Duration",
+          "pattern": "have/has + past participle + for (a period) / since (a starting point)"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "Nadia has worked at the hospital since 2018.",
+          "I visited my grandparents last weekend.",
+          "We've just finished our final exams."
+        ],
+        "negative": [
+          "Bayu hasn't found a new flat yet.",
+          "They didn't go to the wedding in March."
+        ],
+        "interrogative": [
+          "Have you ever won a competition?",
+          "When did you graduate from university?"
+        ]
+      },
+      "comparison": "Bandingkan: *I lost my phone yesterday* (fokus pada kejadian kemarin) vs *I've lost my phone* (fokus pada hasil sekarang: saya tidak punya ponsel). In questions with **When...?** always use the past simple.",
+      "mistakes": [
+        {
+          "wrong": "I have finished the report two hours ago.",
+          "right": "I finished the report two hours ago.",
+          "why": "*Ago* menunjukkan waktu yang sudah selesai, jadi pakai past simple."
+        },
+        {
+          "wrong": "I live in this town since 2020.",
+          "right": "I have lived in this town since 2020.",
+          "why": "Situasi yang dimulai di masa lalu dan masih berlanjut memakai present perfect, bukan present simple."
+        },
+        {
+          "wrong": "When have you started your new job?",
+          "right": "When did you start your new job?",
+          "why": "Pertanyaan *When* menanyakan waktu spesifik → past simple."
+        }
+      ],
+      "keywords": [
+        "ever",
+        "never",
+        "for",
+        "since",
+        "just",
+        "already",
+        "yet",
+        "ago",
+        "last"
+      ],
+      "relatedLessons": [
+        "b1-u01-l1-present-perfect-changes",
+        "b1-u01-l2-perfect-vs-past",
+        "b1-u01-l3-for-since",
+        "b1-u01-l4-just-already-yet",
+        "b1-u01-l5-recent-news"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-present-perfect-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct option: Mira ___ in Port Selwyn since she was twelve.",
+          "options": [
+            "lived",
+            "has lived",
+            "lives",
+            "is living"
+          ],
+          "answer": 1,
+          "explanation": "*Since she was twelve* menunjukkan situasi yang dimulai di masa lalu dan masih berlanjut. With **since** we use the present perfect: *has lived*."
+        },
+        {
+          "id": "b1-gr-present-perfect-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete with the correct form of the verbs in brackets.",
+          "text": "We ___ (not / see) Pak Darto since the meeting last month, but he ___ (call) me yesterday.",
+          "answers": [
+            [
+              "haven't seen",
+              "have not seen"
+            ],
+            [
+              "called"
+            ]
+          ],
+          "explanation": "Gap 1: *since the meeting* → present perfect negatif **haven't seen**. Gap 2: *yesterday* is a finished time → past simple **called**."
+        },
+        {
+          "id": "b1-gr-present-perfect-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "My brother",
+            "has bought",
+            "a new motorbike",
+            "last weekend."
+          ],
+          "errorIndex": 1,
+          "correction": "bought",
+          "explanation": "*Last weekend* adalah waktu yang sudah selesai, jadi harus past simple: **bought**. The present perfect cannot be used with a finished time expression."
+        },
+        {
+          "id": "b1-gr-present-perfect-q4",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "for and since",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "I started playing the guitar three years ago (and I still play it).",
+          "cue": "Use for. Begin with: I have ...",
+          "answers": [
+            "I have played the guitar for three years.",
+            "I've played the guitar for three years.",
+            "I have been playing the guitar for three years.",
+            "I've been playing the guitar for three years."
+          ],
+          "explanation": "*Started ... three years ago* + masih berlanjut → present perfect + **for three years** (durasi). Ago → for when we change past simple into present perfect."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-narrative-tenses",
+      "title": "Narrative Tenses: Past Simple, Past Continuous and Past Perfect",
+      "category": "tense",
+      "explanation": "### Tiga tense untuk bercerita\nWhen we tell a story in English, we usually combine three past tenses. Masing-masing punya tugas yang berbeda:\n\n| Tense | Fungsi | Contoh |\n| --- | --- | --- |\n| Past continuous | Latar/background, aksi yang sedang berlangsung | The sun *was shining* and birds *were singing*. |\n| Past simple | Kejadian utama, berurutan | I *opened* the door and *saw* a stranger. |\n| Past perfect | Kejadian yang terjadi **lebih dulu** dari titik cerita | He *had left* before I arrived. |\n\n### Past continuous + past simple\nA longer action in progress is often interrupted by a short action: *I was cooking when the phone rang.* Gunakan **while** sebelum aksi panjang dan **when** sebelum aksi pendek.\n\n### Past perfect (had + past participle)\nThe past perfect shows the **earlier** of two past events. Bandingkan:\n- *When I arrived, the film started.* (saya datang → film mulai)\n- *When I arrived, the film had started.* (film sudah mulai sebelum saya datang)\n\nCommon time words: *by the time, already, before, after, never ... before, just*. You do not need the past perfect when the order is already clear with *after* or *before*, but it is never wrong for the earlier action.\n\n### Tips bercerita\nStart with background (past continuous), move the story forward with the past simple, and jump back in time with the past perfect. Connectors such as *suddenly, luckily, unfortunately* and *in the end* make your story easier to follow.",
+      "formulas": [
+        {
+          "label": "Past continuous",
+          "pattern": "Subject + was/were + verb-ing"
+        },
+        {
+          "label": "Past perfect (+)",
+          "pattern": "Subject + had + past participle"
+        },
+        {
+          "label": "Past perfect (−)",
+          "pattern": "Subject + hadn't + past participle"
+        },
+        {
+          "label": "Interrupted action",
+          "pattern": "While + past continuous, past simple / Past continuous + when + past simple"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "It was raining heavily when we left the cinema.",
+          "By the time the police arrived, the thief had escaped.",
+          "Lina had never seen snow before her trip to the mountains."
+        ],
+        "negative": [
+          "I hadn't finished my homework when my friends called.",
+          "We weren't watching TV when the lights went out."
+        ],
+        "interrogative": [
+          "What were you doing when the earthquake started?",
+          "Had you ever met him before the party?"
+        ]
+      },
+      "comparison": "*When I got to the station, the train left* (saya lihat kereta berangkat) vs *When I got to the station, the train had left* (kereta sudah pergi, saya terlambat).",
+      "mistakes": [
+        {
+          "wrong": "When I arrived, everyone had went home.",
+          "right": "When I arrived, everyone had gone home.",
+          "why": "Past perfect memakai past participle (*gone*), bukan bentuk past simple (*went*)."
+        },
+        {
+          "wrong": "While I walked home, I was seeing an accident.",
+          "right": "While I was walking home, I saw an accident.",
+          "why": "Aksi panjang (latar) memakai past continuous; aksi pendek yang menyela memakai past simple."
+        },
+        {
+          "wrong": "She was knowing the answer.",
+          "right": "She knew the answer.",
+          "why": "Stative verbs seperti *know* tidak dipakai dalam bentuk continuous."
+        }
+      ],
+      "keywords": [
+        "when",
+        "while",
+        "by the time",
+        "already",
+        "before",
+        "after",
+        "suddenly"
+      ],
+      "relatedLessons": [
+        "b1-u02-l1-past-continuous-background",
+        "b1-u02-l2-past-perfect-form",
+        "b1-u02-l3-past-perfect-vs-past-simple",
+        "b1-u02-l4-narrative-tenses",
+        "b1-u02-l5-telling-stories"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-narrative-tenses-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "past perfect vs past simple",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Choose the correct verb forms.",
+          "text": "When we ___ at the cinema, the film ___. We missed the first ten minutes.",
+          "choices": [
+            [
+              "arrived",
+              "had arrived",
+              "were arriving"
+            ],
+            [
+              "already started",
+              "had already started",
+              "has already started"
+            ]
+          ],
+          "answers": [
+            0,
+            1
+          ],
+          "explanation": "Kedatangan kami adalah titik cerita (past simple **arrived**). The film started **before** that, so we use the past perfect **had already started**."
+        },
+        {
+          "id": "b1-gr-narrative-tenses-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "past continuous for background",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the correct form of the verb in brackets.",
+          "text": "It ___ (rain) heavily when Sinta left the office, so she opened her umbrella.",
+          "answers": [
+            [
+              "was raining",
+              "had been raining"
+            ]
+          ],
+          "explanation": "Hujan adalah latar yang sedang berlangsung saat Sinta keluar → past continuous **was raining**. The short action *left* is in the past simple."
+        },
+        {
+          "id": "b1-gr-narrative-tenses-q3",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "past perfect",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": [
+            "By the time the firefighters arrived,",
+            "the neighbours",
+            "had already put out",
+            "the fire."
+          ],
+          "acceptedAnswers": [
+            "The neighbours had already put out the fire by the time the firefighters arrived."
+          ],
+          "explanation": "*By the time* + past simple, lalu past perfect untuk aksi yang selesai lebih dulu. The neighbours finished before the firefighters came."
+        },
+        {
+          "id": "b1-gr-narrative-tenses-q4",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "narrative tenses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentences are grammatically correct? Choose all that apply.",
+          "options": [
+            "I was cooking dinner when the lights went out.",
+            "She had never flown before, so she felt nervous on the plane.",
+            "When I arrived, everyone had went home.",
+            "I didn't recognise him because he had grew a beard."
+          ],
+          "answers": [
+            0,
+            1
+          ],
+          "explanation": "Kalimat 3 dan 4 salah karena past perfect harus memakai past participle: *had gone*, *had grown*. Sentences 1 and 2 use the narrative tenses correctly."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-future-forms",
+      "title": "Future Forms: Will, Be Going To, Present Continuous, Might/May",
+      "category": "tense",
+      "explanation": "### Banyak cara membicarakan masa depan\nBahasa Inggris tidak punya satu future tense saja. The form you choose depends on **how certain** you are and **when** you made the decision.\n\n| Bentuk | Fungsi | Contoh |\n| --- | --- | --- |\n| will | Keputusan spontan, janji, tawaran, prediksi berdasarkan pendapat | I think robots *will* do most housework one day. |\n| be going to | Rencana yang sudah diputuskan; prediksi dengan bukti sekarang | Look at those clouds — it*'s going to* rain. |\n| present continuous | Janji temu/arrangement yang sudah diatur (waktu, tempat, orang lain) | I*'m meeting* the dentist at 4 tomorrow. |\n| might / may | Kemungkinan (sekitar 50% atau kurang) | We *might* move to a bigger flat next year. |\n\n### Future time clauses\nAfter **when, as soon as, before, after, until** we use the **present simple**, not *will*, even though the meaning is future. Ini sering salah karena dalam bahasa Indonesia kita bilang *ketika saya akan sampai*.\n- *I'll text you **when I arrive**.* (bukan *when I will arrive*)\n- *As soon as the results **are** ready, we'll send them to you.*\n\n### Might and may\n*Might* and *may* are followed by the **base form** without *to*: *It might rain* (bukan *might to rain*). The negative is *might not / may not*. Untuk tingkat kepastian, gunakan *will definitely* (pasti), *will probably* (mungkin besar), *might* (mungkin), *probably won't* (kemungkinan tidak).",
+      "formulas": [
+        {
+          "label": "will",
+          "pattern": "Subject + will ('ll) + base verb"
+        },
+        {
+          "label": "be going to",
+          "pattern": "Subject + am/is/are + going to + base verb"
+        },
+        {
+          "label": "Arrangement",
+          "pattern": "Subject + am/is/are + verb-ing + future time"
+        },
+        {
+          "label": "Time clause",
+          "pattern": "When/As soon as/Before/After + present simple, will + base verb"
+        },
+        {
+          "label": "Possibility",
+          "pattern": "Subject + might/may (not) + base verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I'm flying to Kotabaru on Friday morning.",
+          "We're going to buy a new laptop next month.",
+          "Electric cars will probably become cheaper in the future."
+        ],
+        "negative": [
+          "I won't tell anyone your secret, I promise.",
+          "Rudi might not come to the party because he's tired."
+        ],
+        "interrogative": [
+          "What are you doing this weekend?",
+          "Will you call me as soon as you get home?"
+        ]
+      },
+      "comparison": "*I'm going to visit my aunt* (rencana pribadi) vs *I'm visiting my aunt on Sunday* (sudah diatur dengan bibi, waktunya jelas). Both are possible for plans; the present continuous emphasises a fixed arrangement.",
+      "mistakes": [
+        {
+          "wrong": "I'll call you when I will arrive at the hotel.",
+          "right": "I'll call you when I arrive at the hotel.",
+          "why": "Setelah *when* dalam future time clause, gunakan present simple."
+        },
+        {
+          "wrong": "It might to snow tonight.",
+          "right": "It might snow tonight.",
+          "why": "*Might* langsung diikuti base verb tanpa *to*."
+        },
+        {
+          "wrong": "A: The phone is ringing. B: I'm going to answer it!",
+          "right": "A: The phone is ringing. B: I'll answer it!",
+          "why": "Keputusan spontan pada saat berbicara memakai *will*."
+        }
+      ],
+      "keywords": [
+        "will",
+        "going to",
+        "might",
+        "may",
+        "when",
+        "as soon as",
+        "probably",
+        "definitely"
+      ],
+      "relatedLessons": [
+        "b1-u03-l1-plans-and-arrangements",
+        "b1-u03-l2-predictions",
+        "b1-u03-l3-future-time-clauses",
+        "b1-u03-l4-might-may",
+        "b1-u03-l5-technology-future"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-future-forms-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "predictions with evidence",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Look at those black clouds! It ___ rain.",
+          "options": [
+            "is going to",
+            "is raining to",
+            "might to",
+            "rains"
+          ],
+          "answer": 0,
+          "explanation": "Ada bukti sekarang (awan hitam) → **be going to** untuk prediksi. *Might to* dan *is raining to* tidak gramatikal."
+        },
+        {
+          "id": "b1-gr-future-forms-q2",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "will vs present continuous",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Choose the best future form for each gap.",
+          "text": "A: The phone's ringing! B: Don't worry, I ___ it. A: Thanks. Are you free on Saturday, by the way? B: Sorry, I'm not. I ___ my cousin's wedding in Kotabaru. We booked the train tickets last week.",
+          "choices": [
+            [
+              "'ll get",
+              "get",
+              "got"
+            ],
+            [
+              "'m attending",
+              "attend",
+              "attended"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Gap 1: keputusan spontan → **'ll get**. Gap 2: an arrangement that is already fixed (tickets are booked) → present continuous **'m attending**."
+        },
+        {
+          "id": "b1-gr-future-forms-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "future time clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete with the correct form of the verbs in brackets.",
+          "text": "As soon as the new app ___ (be) ready, we ___ (send) you a link.",
+          "answers": [
+            [
+              "is",
+              "'s"
+            ],
+            [
+              "will send",
+              "'ll send",
+              "are going to send",
+              "'re going to send"
+            ]
+          ],
+          "explanation": "Setelah *as soon as* pakai present simple (**is**), dan di klausa utama pakai **will send**. Never use *will* directly after *as soon as*."
+        },
+        {
+          "id": "b1-gr-future-forms-q4",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "might and may",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "I'm not sure yet, but we may to move to Port Selwyn next year.",
+          "answers": [
+            "I'm not sure yet, but we may move to Port Selwyn next year.",
+            "I am not sure yet, but we may move to Port Selwyn next year."
+          ],
+          "explanation": "*May* adalah modal verb, jadi langsung diikuti base verb: **may move**. Modal verbs never take *to* after them (except *ought to* and *have to*)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-zero-first-conditional",
+      "title": "Zero and First Conditional, Unless and As Long As",
+      "category": "conditionals",
+      "explanation": "### Kondisi yang nyata\nReal conditionals talk about situations that are true in general or **possible** in the future. Kalimat *if* terdiri dari dua bagian: the **if-clause** (syarat) and the **main clause** (hasil). The order can change; use a comma when the if-clause comes first.\n\n| Jenis | Bentuk | Fungsi | Contoh |\n| --- | --- | --- | --- |\n| Zero conditional | If + present simple, present simple | Fakta umum, hukum alam, kebiasaan | If you heat ice, it melts. |\n| First conditional | If + present simple, will + base verb | Kemungkinan nyata di masa depan | If it rains, we'll stay at home. |\n\n### If vs when\n*When* is used for things we are **sure** will happen; *if* is for things that **may or may not** happen. *When I get home, I'll cook* (pasti pulang) vs *If I get home early, I'll cook* (belum tentu).\n\n### Unless and as long as\n- **unless** = *if ... not*: *You won't pass unless you study.* = *If you don't study, you won't pass.* Jangan gunakan *not* lagi setelah *unless*.\n- **as long as** = *only if* (syarat): *You can borrow my bike as long as you bring it back tonight.*\n\n### Ingat!\nDo not use *will* in the if-clause: *If it **rains** tomorrow* (bukan *If it will rain*). In the main clause you can also use other modals or the imperative: *If you feel tired, take a break. If we leave now, we might catch the bus.*",
+      "formulas": [
+        {
+          "label": "Zero conditional",
+          "pattern": "If/When + present simple, present simple"
+        },
+        {
+          "label": "First conditional",
+          "pattern": "If + present simple, will/won't + base verb"
+        },
+        {
+          "label": "Unless",
+          "pattern": "Main clause + unless + present simple (positive meaning 'if not')"
+        },
+        {
+          "label": "As long as",
+          "pattern": "Main clause + as long as + present simple"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "If you mix blue and yellow, you get green.",
+          "If we recycle more, there will be less rubbish in the sea.",
+          "You can stay out late as long as you call us."
+        ],
+        "negative": [
+          "If you don't water plants, they die.",
+          "We won't finish on time unless everyone helps."
+        ],
+        "interrogative": [
+          "What will you do if the bus doesn't come?",
+          "Will you help me if I get stuck?"
+        ]
+      },
+      "comparison": "Zero conditional = selalu benar (*If you press this button, the machine stops*). First conditional = satu situasi spesifik di masa depan (*If you press that button now, the machine will stop*).",
+      "mistakes": [
+        {
+          "wrong": "If it will rain tomorrow, we will cancel the trip.",
+          "right": "If it rains tomorrow, we will cancel the trip.",
+          "why": "Klausa *if* memakai present simple walaupun maknanya masa depan."
+        },
+        {
+          "wrong": "Unless you don't hurry, you'll be late.",
+          "right": "Unless you hurry, you'll be late.",
+          "why": "*Unless* sudah berarti *if not*, jadi tidak perlu *don't*."
+        },
+        {
+          "wrong": "If you will heat water to 100°C, it boils.",
+          "right": "If you heat water to 100°C, it boils.",
+          "why": "Zero conditional memakai present simple di kedua klausa."
+        }
+      ],
+      "keywords": [
+        "if",
+        "when",
+        "unless",
+        "as long as",
+        "will",
+        "present simple"
+      ],
+      "relatedLessons": [
+        "b1-u04-l1-zero-conditional",
+        "b1-u04-l2-first-conditional",
+        "b1-u04-l3-if-vs-when",
+        "b1-u04-l4-unless-as-long-as",
+        "b1-u04-l5-environment-consequences"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-real-conditionals-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "zero conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "If you leave butter in the sun, it ___.",
+          "options": [
+            "melts",
+            "melted",
+            "is melt",
+            "melting"
+          ],
+          "answer": 0,
+          "explanation": "Fakta umum → zero conditional: present simple di kedua klausa (**melts**). This is always true, not a single future event."
+        },
+        {
+          "id": "b1-gr-real-conditionals-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "first conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the first conditional sentence with the verbs in brackets.",
+          "text": "If we ___ (not / leave) now, we ___ (miss) the last ferry.",
+          "answers": [
+            [
+              "don't leave",
+              "do not leave"
+            ],
+            [
+              "will miss",
+              "'ll miss",
+              "are going to miss",
+              "'re going to miss"
+            ]
+          ],
+          "explanation": "Klausa *if* → present simple (**don't leave**); main clause → **will miss**. This is a real possibility in the future."
+        },
+        {
+          "id": "b1-gr-real-conditionals-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "unless",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence using unless.",
+          "sentence": "If you don't book early, you won't get a seat.",
+          "cue": "Begin with: You won't get a seat ...",
+          "answers": [
+            "You won't get a seat unless you book early.",
+            "You will not get a seat unless you book early."
+          ],
+          "explanation": "*If you don't book* = **unless you book**. Setelah *unless* kalimatnya positif."
+        },
+        {
+          "id": "b1-gr-real-conditionals-q4",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "as long as",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct linking word.",
+          "text": "You can borrow my camera ___ you bring it back by Friday.",
+          "choices": [
+            [
+              "as long as",
+              "unless",
+              "so"
+            ]
+          ],
+          "answers": [
+            0
+          ],
+          "explanation": "**As long as** = dengan syarat (*only if*). *Unless* would mean 'if you don't bring it back', which makes no sense here."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-second-conditional-wish",
+      "title": "Second Conditional and I Wish",
+      "category": "conditionals",
+      "explanation": "### Situasi tidak nyata atau imajiner\nThe **second conditional** describes situations that are **unreal, imaginary or very unlikely** now or in the future. Walaupun kata kerjanya berbentuk past, maknanya **bukan** masa lalu.\n\n| Bagian | Bentuk | Contoh |\n| --- | --- | --- |\n| If-clause | If + past simple | If I *had* more money, |\n| Main clause | would/could + base verb | I *would travel* around the world. |\n\n### Were untuk semua subjek\nIn formal and written English we often use **were** for all subjects: *If I were rich...*, *If she were here...* The phrase **If I were you, I'd...** is a common way to give advice. (*If I was...* is common in informal speech.)\n\n### First vs second conditional\n- *If I **win** the race, I'll buy everyone a drink.* → mungkin terjadi (saya sedang ikut lomba).\n- *If I **won** the lottery, I'd buy a house.* → kecil kemungkinannya / khayalan.\n\nThe choice depends on how **realistic** the speaker thinks the situation is.\n\n### I wish + past simple\nUse **I wish + past simple** for present situations that you would like to be different. Artinya: kenyataan sekarang **berlawanan**.\n- *I wish I **had** a car.* (Kenyataannya: saya tidak punya mobil.)\n- *I wish I **could** speak Japanese.* (Saya tidak bisa.)\n- *I wish it **weren't** so hot today.* (Hari ini sangat panas.)\n\nJangan pakai *will* atau *would* setelah *If* dalam second conditional, and use *could* (not *can*) after *I wish*.",
+      "formulas": [
+        {
+          "label": "Second conditional",
+          "pattern": "If + past simple, would/could + base verb"
+        },
+        {
+          "label": "Advice",
+          "pattern": "If I were you, I would ('d) + base verb"
+        },
+        {
+          "label": "Present wish",
+          "pattern": "I wish + subject + past simple / could + base verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "If I lived by the sea, I would go swimming every morning.",
+          "If I were you, I'd talk to your manager.",
+          "I wish I knew the answer."
+        ],
+        "negative": [
+          "If he didn't work so much, he wouldn't be so tired.",
+          "I wish my flat weren't so small."
+        ],
+        "interrogative": [
+          "What would you do if you found a wallet in the street?",
+          "If you could live anywhere, where would you live?"
+        ]
+      },
+      "comparison": "*If it's sunny tomorrow, we'll go to the beach* (nyata, mungkin) vs *If I had wings, I'd fly to the beach* (tidak mungkin).",
+      "mistakes": [
+        {
+          "wrong": "If I would have more time, I would learn to dive.",
+          "right": "If I had more time, I would learn to dive.",
+          "why": "Klausa *if* dalam second conditional memakai past simple, bukan *would*."
+        },
+        {
+          "wrong": "I wish I can speak Japanese fluently.",
+          "right": "I wish I could speak Japanese fluently.",
+          "why": "Setelah *I wish*, *can* berubah menjadi *could*."
+        },
+        {
+          "wrong": "If I am you, I would apologise.",
+          "right": "If I were you, I would apologise.",
+          "why": "Ungkapan saran yang tetap adalah *If I were you*."
+        }
+      ],
+      "keywords": [
+        "if",
+        "would",
+        "could",
+        "were",
+        "I wish",
+        "imagine"
+      ],
+      "relatedLessons": [
+        "b1-u05-l1-second-conditional",
+        "b1-u05-l2-if-i-were-you",
+        "b1-u05-l3-i-wish",
+        "b1-u05-l4-first-vs-second",
+        "b1-u05-l5-money-and-dreams"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-unreal-conditionals-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "second conditional",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "If I ___ more free time, I would learn to play the piano.",
+          "options": [
+            "had",
+            "have",
+            "would have",
+            "will have"
+          ],
+          "answer": 0,
+          "explanation": "Second conditional: **If + past simple** (*had*), lalu *would + base verb*. The situation is imaginary — I don't have much free time now."
+        },
+        {
+          "id": "b1-gr-unreal-conditionals-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "if I were you",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the advice with the verbs in brackets.",
+          "text": "If I ___ (be) you, I ___ (apologise) to her before the party.",
+          "answers": [
+            [
+              "were",
+              "was"
+            ],
+            [
+              "would apologise",
+              "'d apologise",
+              "would apologize",
+              "'d apologize"
+            ]
+          ],
+          "explanation": "Ungkapan saran: **If I were you, I would/I'd...** *Was* is also heard in informal English, but *were* is the standard form."
+        },
+        {
+          "id": "b1-gr-unreal-conditionals-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "I wish",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "I wish",
+            "I can speak",
+            "Japanese",
+            "fluently."
+          ],
+          "errorIndex": 1,
+          "correction": "I could speak",
+          "explanation": "Setelah *I wish* untuk situasi sekarang, gunakan bentuk past: *can* → **could**."
+        },
+        {
+          "id": "b1-gr-unreal-conditionals-q4",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "first vs second conditional",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Match the beginnings with the correct endings.",
+          "pairs": [
+            {
+              "left": "If it rains tomorrow,",
+              "right": "we'll stay at home."
+            },
+            {
+              "left": "If I lived by the sea,",
+              "right": "I would go swimming every morning."
+            },
+            {
+              "left": "If you mix red and white,",
+              "right": "you get pink."
+            },
+            {
+              "left": "I wish I",
+              "right": "had a bigger flat."
+            }
+          ],
+          "explanation": "Present simple + *will* = first conditional; past simple + *would* = second conditional; present + present = zero conditional (fakta); *I wish* + past simple = keinginan tentang sekarang."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-modals-obligation-advice-deduction",
+      "title": "Modals: Obligation, Advice and Deduction",
+      "category": "modals",
+      "explanation": "### Obligation (kewajiban)\n| Modal | Makna | Contoh |\n| --- | --- | --- |\n| must | Kewajiban kuat, sering dari pembicara/aturan tertulis | You *must* wear a helmet. |\n| have to | Kewajiban dari luar (aturan, hukum) | I *have to* start work at 7. |\n| need to | Perlu | You *need to* renew your passport. |\n| mustn't | **Dilarang** | You *mustn't* smoke here. |\n| don't have to / don't need to | **Tidak perlu** (boleh, tapi tidak wajib) | You *don't have to* bring food. |\n\nPerhatikan: *mustn't* dan *don't have to* sangat berbeda! *Mustn't* = it is not allowed. *Don't have to* = it is not necessary. For the past, use **had to**: *I had to work late yesterday* (there is no past form of *must* for obligation).\n\n### Advice (saran)\n**Should** and **ought to** give advice and have almost the same meaning: *You should / ought to see a doctor.* **Had better ('d better)** is stronger and suggests a problem if you don't follow the advice: *You'd better leave now or you'll miss the train.* Negative: *had better not* (bukan *hadn't better*).\n\n### Deduction (menyimpulkan tentang sekarang)\n- **must** = saya yakin benar (*He must be tired — he worked all night.*)\n- **might / may / could** = mungkin (*She might be at the library.*)\n- **can't** = saya yakin tidak benar (*That can't be Tono — he's in Kotabaru.*)\n\nFor deduction, the opposite of *must* is **can't**, not *mustn't*.",
+      "formulas": [
+        {
+          "label": "Obligation",
+          "pattern": "must / have to / need to + base verb"
+        },
+        {
+          "label": "No obligation",
+          "pattern": "don't/doesn't have to / don't need to + base verb"
+        },
+        {
+          "label": "Prohibition",
+          "pattern": "mustn't + base verb"
+        },
+        {
+          "label": "Advice",
+          "pattern": "should / ought to / had better (not) + base verb"
+        },
+        {
+          "label": "Deduction",
+          "pattern": "must / might / can't + be / base verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "All visitors must sign in at reception.",
+          "You ought to back up your files every week.",
+          "She must be very proud of her son."
+        ],
+        "negative": [
+          "You mustn't use your phone during the exam.",
+          "We don't have to wear a uniform on Fridays.",
+          "That can't be the right address — it's a car park."
+        ],
+        "interrogative": [
+          "Do we have to bring our own laptops?",
+          "Should I tell my manager about the mistake?"
+        ]
+      },
+      "comparison": "*You mustn't park here* (dilarang) vs *You don't have to park here* (tidak wajib, ada pilihan lain). In deduction: *must be* (pasti ya) vs *can't be* (pasti tidak).",
+      "mistakes": [
+        {
+          "wrong": "You don't have to touch the machines — it's dangerous.",
+          "right": "You mustn't touch the machines — it's dangerous.",
+          "why": "Untuk larangan gunakan *mustn't*; *don't have to* berarti tidak perlu."
+        },
+        {
+          "wrong": "He mustn't be at home — his car isn't there.",
+          "right": "He can't be at home — his car isn't there.",
+          "why": "Kesimpulan negatif (pasti tidak) memakai *can't*, bukan *mustn't*."
+        },
+        {
+          "wrong": "You had better to see a doctor.",
+          "right": "You had better see a doctor.",
+          "why": "*Had better* langsung diikuti base verb tanpa *to*."
+        }
+      ],
+      "keywords": [
+        "must",
+        "have to",
+        "need to",
+        "mustn't",
+        "don't have to",
+        "should",
+        "ought to",
+        "had better",
+        "might",
+        "can't"
+      ],
+      "relatedLessons": [
+        "b1-u06-l1-must-have-to",
+        "b1-u06-l2-dont-have-to-need-to",
+        "b1-u06-l3-should-ought-to-had-better",
+        "b1-u06-l4-deduction",
+        "b1-u06-l5-rules-and-regulations"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-modals-q1",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "no obligation",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Which sentences mean 'It is not necessary to wear a tie'? Choose all that apply.",
+          "options": [
+            "You don't have to wear a tie.",
+            "You mustn't wear a tie.",
+            "You don't need to wear a tie.",
+            "You shouldn't wear a tie."
+          ],
+          "answers": [
+            0,
+            2
+          ],
+          "explanation": "**Don't have to** dan **don't need to** = tidak perlu. *Mustn't* = dilarang, and *shouldn't* = it's a bad idea."
+        },
+        {
+          "id": "b1-gr-modals-q2",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "deduction",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Raka has been at work since 6 a.m. and hasn't eaten anything. He ___ be hungry.",
+          "options": [
+            "must",
+            "can't",
+            "mustn't",
+            "doesn't have to"
+          ],
+          "answer": 0,
+          "explanation": "Ada bukti kuat → kesimpulan yakin: **must be**. *Can't* would mean we are sure he is not hungry, which is illogical here."
+        },
+        {
+          "id": "b1-gr-modals-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "had better",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the sentence with the negative form of had better.",
+          "text": "The roads are very icy tonight. You ___ drive home — stay with us instead.",
+          "answers": [
+            [
+              "had better not",
+              "'d better not"
+            ]
+          ],
+          "explanation": "Bentuk negatif *had better* adalah **had better not** ('d better not), bukan *hadn't better*. It gives strong advice about a dangerous situation."
+        },
+        {
+          "id": "b1-gr-modals-q4",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "deduction",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            {
+              "speaker": "Ari",
+              "text": "Whose phone is this? It's got a cat sticker on the back."
+            },
+            {
+              "speaker": "Sekar",
+              "text": null
+            }
+          ],
+          "options": [
+            "It must be Nadia's. She loves cats.",
+            "It can't be Nadia's. She loves cats.",
+            "It must Nadia's. She loves cats.",
+            "It might to be Nadia's. She loves cats."
+          ],
+          "answer": 0,
+          "explanation": "Bukti (Nadia suka kucing) → **must be** Nadia's. *Can't be* contradicts the evidence, and *must Nadia's* / *might to be* are ungrammatical."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-passive-voice",
+      "title": "The Passive: Present Simple and Past Simple",
+      "category": "voice",
+      "explanation": "### Apa itu passive?\nIn an active sentence, the subject **does** the action: *Workers **pack** the tea.* In a passive sentence, the subject **receives** the action: *The tea **is packed** by workers.* Mirip dengan bentuk *di-* dalam bahasa Indonesia (*teh dikemas oleh pekerja*).\n\n### Bentuk\n| Tense | Active | Passive |\n| --- | --- | --- |\n| Present simple | They *make* paper from wood. | Paper *is made* from wood. |\n| Past simple | Someone *stole* my bike. | My bike *was stolen*. |\n\nPassive = **be** (sesuai tense dan subjek) + **past participle**. Negatives and questions are made with *be*: *It **isn't** made in this country. **Was** the bridge built in 1990? **When was** it built?*\n\n### Kapan memakai passive?\n- When the action or result is more important than the person who does it (proses, produk, sejarah).\n- When we don't know who did it, or it is obvious: *My wallet was stolen. Rice is grown in many parts of Asia.*\n- In descriptions of processes: *First, the beans are cleaned. Then they are roasted.*\n\n### By + agent\nUse **by** only when the agent (pelaku) is important or new information: *The museum was designed **by** a famous local architect.* Jangan tambahkan *by people / by someone / by them* — informasi itu tidak berguna.\n\nCatatan: hanya kata kerja yang punya objek (transitive verbs) yang bisa dibuat passive. *Happen, arrive, die* tidak bisa dipasifkan.",
+      "formulas": [
+        {
+          "label": "Present simple passive",
+          "pattern": "am/is/are + past participle"
+        },
+        {
+          "label": "Past simple passive",
+          "pattern": "was/were + past participle"
+        },
+        {
+          "label": "Negative",
+          "pattern": "isn't/aren't/wasn't/weren't + past participle"
+        },
+        {
+          "label": "Question",
+          "pattern": "(Wh-) + am/is/are/was/were + subject + past participle?"
+        },
+        {
+          "label": "Agent",
+          "pattern": "... + by + agent"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "Most of our vegetables are grown on local farms.",
+          "The old station was turned into a museum in 2015.",
+          "This song was written by my uncle."
+        ],
+        "negative": [
+          "The letters weren't delivered on time.",
+          "Plastic bags aren't used in this supermarket anymore."
+        ],
+        "interrogative": [
+          "Where are these phones made?",
+          "Was anyone hurt in the accident?"
+        ]
+      },
+      "comparison": "Active: *A young engineer designed the bridge.* (fokus pada insinyur) — Passive: *The bridge was designed by a young engineer.* (fokus pada jembatan)",
+      "mistakes": [
+        {
+          "wrong": "The bridge was build in 1998.",
+          "right": "The bridge was built in 1998.",
+          "why": "Passive memakai past participle (*built*), bukan base verb."
+        },
+        {
+          "wrong": "The accident was happened at night.",
+          "right": "The accident happened at night.",
+          "why": "*Happen* tidak punya objek, jadi tidak bisa dipasifkan."
+        },
+        {
+          "wrong": "The letter was wrote by my sister.",
+          "right": "The letter was written by my sister.",
+          "why": "Passive selalu memakai be + past participle (V3). The past participle of write is written, not wrote."
+        }
+      ],
+      "keywords": [
+        "be + past participle",
+        "by",
+        "made",
+        "built",
+        "invented",
+        "produced"
+      ],
+      "relatedLessons": [
+        "b1-u07-l1-present-passive",
+        "b1-u07-l2-past-passive",
+        "b1-u07-l3-by-agent",
+        "b1-u07-l4-passive-questions-negatives",
+        "b1-u07-l5-processes-and-inventions"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-passive-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "present simple passive",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the present simple passive of the verb in brackets.",
+          "text": "In our factory, the bottles ___ (wash) and then they ___ (fill) with juice.",
+          "answers": [
+            [
+              "are washed"
+            ],
+            [
+              "are filled",
+              "'re filled"
+            ]
+          ],
+          "explanation": "Proses → present simple passive: **are + past participle** (*are washed, are filled*). The subject *bottles* is plural, so we use *are*."
+        },
+        {
+          "id": "b1-gr-passive-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "past simple passive",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence in the passive.",
+          "sentence": "A young engineer designed the bridge in 1998.",
+          "cue": "Begin with: The bridge ...",
+          "answers": [
+            "The bridge was designed by a young engineer in 1998.",
+            "The bridge was designed in 1998 by a young engineer."
+          ],
+          "explanation": "Past simple active → **was + past participle**. The agent is new information, so we keep **by a young engineer**."
+        },
+        {
+          "id": "b1-gr-passive-q3",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "passive questions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "When ___ this temple built?",
+          "options": [
+            "was",
+            "did",
+            "is",
+            "were"
+          ],
+          "answer": 0,
+          "explanation": "Pertanyaan passive memakai *be*, bukan *did*. *Temple* is singular and the building happened in the past → **was**."
+        },
+        {
+          "id": "b1-gr-passive-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "present simple passive",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "These shoes",
+            "are produce",
+            "in a small factory",
+            "near Kalibaru."
+          ],
+          "errorIndex": 1,
+          "correction": "are produced",
+          "explanation": "Passive membutuhkan past participle: **are produced**, bukan base verb *produce*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-relative-clauses",
+      "title": "Defining Relative Clauses",
+      "category": "clauses",
+      "explanation": "### Fungsi relative clause\nA defining relative clause tells us **exactly which** person, thing or place we mean. Tanpa klausa ini, kalimatnya tidak jelas: *The woman is a pilot* (wanita yang mana?) → *The woman **who lives next door** is a pilot.*\n\n### Relative pronouns\n| Pronoun | Untuk | Contoh |\n| --- | --- | --- |\n| who / that | orang | The man *who* fixed my car was very friendly. |\n| which / that | benda, hewan | The bag *which* I bought is too small. |\n| where | tempat | That's the café *where* we first met. |\n| whose | kepemilikan (punya siapa) | I have a friend *whose* father is a chef. |\n| when | waktu | I remember the day *when* we moved here. |\n\n### Menghilangkan pronoun\nYou can leave out *who/which/that* when it is the **object** of the relative clause — that is, when another subject follows it:\n- *The book (that) **I** borrowed was great.* → boleh dihilangkan.\n- *The man **who called** you is my uncle.* → tidak boleh, karena *who* adalah subjek dari *called*.\n\n### Hal penting\n- Do not repeat the pronoun: *The phone which I bought ~~it~~ is broken.* Dalam bahasa Indonesia kita kadang mengulang (*yang saya beli itu*), tetapi dalam bahasa Inggris tidak.\n- *Whose* is followed by a noun: *the girl whose bike was stolen*.\n- Defining relative clauses do not use commas.",
+      "formulas": [
+        {
+          "label": "People",
+          "pattern": "noun + who/that + verb ..."
+        },
+        {
+          "label": "Things",
+          "pattern": "noun + which/that + verb ..."
+        },
+        {
+          "label": "Place / possession / time",
+          "pattern": "noun + where/whose + noun/when + clause"
+        },
+        {
+          "label": "Object pronoun omitted",
+          "pattern": "noun + (that/which/who) + subject + verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "A chef is a person who cooks in a restaurant.",
+          "This is the village where my grandmother was born.",
+          "The jacket I bought last week is already torn."
+        ],
+        "negative": [
+          "I don't like films that have sad endings.",
+          "He isn't the teacher whose class I joined."
+        ],
+        "interrogative": [
+          "Is this the hotel where you stayed last year?",
+          "Do you know anyone who speaks Korean?"
+        ]
+      },
+      "comparison": "*The film **that** we watched* (that = object, boleh dihilangkan: *the film we watched*) vs *the film **that** won the prize* (that = subject, tidak boleh dihilangkan).",
+      "mistakes": [
+        {
+          "wrong": "The man which helped me was very kind.",
+          "right": "The man who helped me was very kind.",
+          "why": "Untuk orang gunakan *who* atau *that*, bukan *which*."
+        },
+        {
+          "wrong": "This is the shop which I bought my phone.",
+          "right": "This is the shop where I bought my phone.",
+          "why": "Untuk tempat (di mana sesuatu terjadi) gunakan *where*."
+        },
+        {
+          "wrong": "The cake that I made it was delicious.",
+          "right": "The cake that I made was delicious.",
+          "why": "Jangan mengulang objek (*it*) di dalam relative clause."
+        }
+      ],
+      "keywords": [
+        "who",
+        "which",
+        "that",
+        "where",
+        "whose",
+        "when"
+      ],
+      "relatedLessons": [
+        "b1-u08-l1-who-which-that",
+        "b1-u08-l2-where-whose-when",
+        "b1-u08-l3-omitting-relative-pronoun",
+        "b1-u08-l4-definitions",
+        "b1-u08-l5-describing-places"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-relative-clauses-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "relative pronouns",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct relative words.",
+          "text": "The woman ___ lives next door is a pilot. The café ___ we first met has closed down.",
+          "choices": [
+            [
+              "who",
+              "which",
+              "whose"
+            ],
+            [
+              "where",
+              "which",
+              "who"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Orang → **who**. Tempat di mana sesuatu terjadi → **where**. *The café which we first met* is wrong because *met* needs a place adverbial, not an object."
+        },
+        {
+          "id": "b1-gr-relative-clauses-q2",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "omitting the relative pronoun",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "In which sentences can you leave out the relative pronoun? Choose all that apply.",
+          "options": [
+            "The book that I borrowed from Tono was great.",
+            "The man who called you is my uncle.",
+            "The film which we watched last night was scary.",
+            "The dog that bit the postman belongs to Mr. Ruslan."
+          ],
+          "answers": [
+            0,
+            2
+          ],
+          "explanation": "Pronoun boleh dihilangkan jika ia objek (diikuti subjek lain: *I borrowed*, *we watched*). In sentences 2 and 4, *who/that* is the subject of *called/bit*, so it must stay."
+        },
+        {
+          "id": "b1-gr-relative-clauses-q3",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "where",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": [
+            "That's the hotel",
+            "where my parents",
+            "stayed",
+            "on their honeymoon."
+          ],
+          "explanation": "*Where* memperkenalkan klausa tentang tempat: *the hotel where my parents stayed*. The relative clause comes directly after the noun it describes."
+        },
+        {
+          "id": "b1-gr-relative-clauses-q4",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "definitions with relative clauses",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Complete the definition with one relative pronoun.",
+          "text": "A thermometer is a device ___ measures temperature.",
+          "answers": [
+            [
+              "that",
+              "which"
+            ]
+          ],
+          "explanation": "Benda → **which** atau **that**. The pronoun is the subject of *measures*, so it cannot be left out."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-reported-speech",
+      "title": "Reported Speech: Statements, Questions, Say and Tell",
+      "category": "reported_speech",
+      "explanation": "### Melaporkan perkataan orang lain\nWhen we report what someone said, the tense usually moves **one step back** (backshift), because the words were said in the past. Pronoun dan keterangan waktu juga berubah sesuai situasi.\n\n| Direct speech | Reported speech |\n| --- | --- |\n| present simple: *I am tired.* | past simple: She said she *was* tired. |\n| present continuous: *I'm working.* | past continuous: He said he *was working*. |\n| past simple / present perfect: *I've finished / I finished.* | past perfect: She said she *had finished*. |\n| will: *I'll help.* | would: He said he *would help*. |\n| can: *I can swim.* | could: She said she *could swim*. |\n\nTime words: *today → that day, tomorrow → the next day, yesterday → the day before, here → there, this → that*.\n\n### Reported questions\nIn reported questions we use **statement word order** (subjek + kata kerja) and **no do/does/did**, no question mark.\n- *Where do you work?* → He asked me where I **worked**.\n- Yes/no questions use **if** or **whether**: *Are you ready?* → She asked if I **was** ready.\n\n### Say vs tell\n- **say** + (that) + clause: *She said (that) she was busy.* — *say to someone* juga bisa, tapi jarang.\n- **tell** + **person** + (that) + clause: *She told **me** (that) she was busy.* *Tell* selalu membutuhkan objek orang.\n\nOther useful reporting verbs: *explain, mention, reply, add, complain*.",
+      "formulas": [
+        {
+          "label": "Statement",
+          "pattern": "Subject + said (that) / told + person + (that) + backshifted clause"
+        },
+        {
+          "label": "Wh- question",
+          "pattern": "Subject + asked (+ person) + wh-word + subject + verb"
+        },
+        {
+          "label": "Yes/no question",
+          "pattern": "Subject + asked (+ person) + if/whether + subject + verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "Laila said she was tired.",
+          "Dimas told me that he had lost his wallet.",
+          "The receptionist asked us what time we wanted to check out."
+        ],
+        "negative": [
+          "He said he didn't like spicy food.",
+          "She told us she wouldn't be at the meeting."
+        ],
+        "interrogative": [
+          "What did the doctor say?",
+          "Did she tell you why she was late?"
+        ]
+      },
+      "comparison": "*She said me...* ✗ → *She **told** me...* ✓ / *She **said** that...* ✓. Reported question: *He asked where I lived* ✓ (bukan *where did I live*).",
+      "mistakes": [
+        {
+          "wrong": "She said me that she was busy.",
+          "right": "She told me that she was busy.",
+          "why": "*Say* tidak langsung diikuti orang; gunakan *tell + person*."
+        },
+        {
+          "wrong": "He asked me where did I live.",
+          "right": "He asked me where I lived.",
+          "why": "Reported question memakai susunan kalimat pernyataan, tanpa *did*."
+        },
+        {
+          "wrong": "She asked me do I like coffee.",
+          "right": "She asked me if I liked coffee.",
+          "why": "Yes/no question dilaporkan dengan *if/whether* + susunan pernyataan."
+        }
+      ],
+      "keywords": [
+        "said",
+        "told",
+        "asked",
+        "if",
+        "whether",
+        "backshift",
+        "that"
+      ],
+      "relatedLessons": [
+        "b1-u09-l1-reported-statements",
+        "b1-u09-l2-time-place-changes",
+        "b1-u09-l3-reported-questions",
+        "b1-u09-l4-say-vs-tell",
+        "b1-u09-l5-news-and-gossip"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-reported-speech-q1",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "reported statements",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Report the sentence. Use tense backshift.",
+          "sentence": "\"I can't find my glasses,\" said Grandma.",
+          "cue": "Begin with: Grandma said ...",
+          "answers": [
+            "Grandma said she couldn't find her glasses.",
+            "Grandma said that she couldn't find her glasses.",
+            "Grandma said she could not find her glasses.",
+            "Grandma said that she could not find her glasses."
+          ],
+          "explanation": "*Can't* → **couldn't**, dan *my* → **her**. The word *that* is optional after *said*."
+        },
+        {
+          "id": "b1-gr-reported-speech-q2",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "say vs tell",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Dimas ___ me that he had lost his wallet.",
+          "options": [
+            "told",
+            "said",
+            "spoke",
+            "talked"
+          ],
+          "answer": 0,
+          "explanation": "Setelah kosong ada orang (*me*) lalu klausa → **told**. *Said*, *spoke* and *talked* cannot be followed directly by a person + that-clause."
+        },
+        {
+          "id": "b1-gr-reported-speech-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "reported questions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Report the question. Use tense backshift.",
+          "context": "\"Do you work on Saturdays?\" the manager asked me.",
+          "text": "The manager asked me ___ I ___ on Saturdays.",
+          "answers": [
+            [
+              "if",
+              "whether"
+            ],
+            [
+              "worked"
+            ]
+          ],
+          "explanation": "Yes/no question → **if/whether**; *do you work* → **I worked** (susunan pernyataan, tanpa *do*)."
+        },
+        {
+          "id": "b1-gr-reported-speech-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "reported questions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "She asked me",
+            "where did I buy",
+            "my new jacket."
+          ],
+          "errorIndex": 1,
+          "correction": "where I had bought",
+          "explanation": "Dalam reported question tidak ada *did* dan susunannya subjek + kata kerja: **where I had bought** (or *where I bought*)."
+        }
+      ]
+    },
+    {
+      "slug": "b1-gr-verb-patterns-used-to",
+      "title": "Verb Patterns, Used To and Be/Get Used To",
+      "category": "sentence_structure",
+      "explanation": "### Verb + -ing atau verb + to-infinitive?\nSome verbs are followed by **-ing**, others by **to + base verb**. Tidak ada aturan pasti, jadi pelajari sebagai pasangan (chunks).\n\n| + -ing | + to-infinitive |\n| --- | --- |\n| enjoy, avoid, finish, mind, keep, suggest, give up, consider | want, decide, hope, plan, agree, refuse, afford, manage, promise |\n\nSome verbs, such as *like, love, hate, start, begin*, can take both with little change in meaning. Setelah **preposisi** (about, of, at, before, after, without) selalu gunakan **-ing**: *I'm thinking **about moving***.\n\n### Used to + base verb (kebiasaan masa lalu)\n**Used to** describes past habits or states that are **no longer true**. Dalam bahasa Indonesia mirip dengan *dulu (sering)...*\n- *I **used to** play football every afternoon.* (sekarang tidak lagi)\n- Negative: *I **didn't use to** like vegetables.* Question: ***Did** you **use to** live here?* (tanpa *-d* setelah *did*)\n\n### Be used to / get used to + -ing / noun\nThese have a **different meaning**: *be used to* = sudah terbiasa; *get used to* = mulai terbiasa (proses).\n- *I'**m used to getting** up early.* (sudah biasa)\n- *It took me months to **get used to** the cold weather.* (proses menjadi biasa)\n\nNote: in *be/get used to*, **to** is a preposition, so it is followed by **-ing** or a noun, not a base verb.\n\n| Bentuk | Makna | Diikuti |\n| --- | --- | --- |\n| used to | dulu (sekarang tidak) | base verb |\n| be used to | sudah terbiasa | -ing / noun |\n| get used to | menjadi terbiasa | -ing / noun |",
+      "formulas": [
+        {
+          "label": "Verb + -ing",
+          "pattern": "enjoy / avoid / finish / mind / give up + verb-ing"
+        },
+        {
+          "label": "Verb + to-infinitive",
+          "pattern": "want / decide / hope / plan / refuse + to + base verb"
+        },
+        {
+          "label": "Past habit",
+          "pattern": "used to / didn't use to + base verb"
+        },
+        {
+          "label": "Familiarity",
+          "pattern": "be / get used to + verb-ing / noun"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I've decided to take up yoga.",
+          "My grandfather used to walk five kilometres to school.",
+          "Ana is used to working at night now."
+        ],
+        "negative": [
+          "We didn't use to have a car.",
+          "I can't get used to driving on the left."
+        ],
+        "interrogative": [
+          "Did you use to have long hair?",
+          "Would you mind closing the window?"
+        ]
+      },
+      "comparison": "*I used to live alone* (dulu, sekarang tidak) vs *I'm used to living alone* (sudah terbiasa sekarang).",
+      "mistakes": [
+        {
+          "wrong": "I enjoy to cook for my friends.",
+          "right": "I enjoy cooking for my friends.",
+          "why": "*Enjoy* selalu diikuti -ing."
+        },
+        {
+          "wrong": "Did you used to play an instrument?",
+          "right": "Did you use to play an instrument?",
+          "why": "Setelah *did*, gunakan *use to* tanpa -d."
+        },
+        {
+          "wrong": "I'm used to get up at 5 a.m.",
+          "right": "I'm used to getting up at 5 a.m.",
+          "why": "*To* dalam *be used to* adalah preposisi, jadi diikuti -ing."
+        }
+      ],
+      "keywords": [
+        "enjoy",
+        "avoid",
+        "decide",
+        "refuse",
+        "used to",
+        "be used to",
+        "get used to"
+      ],
+      "relatedLessons": [
+        "b1-u10-l1-verb-ing",
+        "b1-u10-l2-verb-to-infinitive",
+        "b1-u10-l3-used-to",
+        "b1-u10-l4-be-used-to-get-used-to",
+        "b1-u10-l5-lifestyle-change"
+      ],
+      "exercises": [
+        {
+          "id": "b1-gr-verb-patterns-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "verb + -ing vs to-infinitive",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct verb forms.",
+          "text": "Rudi has decided ___ a new job, and he avoids ___ fast food because he wants to be healthier.",
+          "choices": [
+            [
+              "to look for",
+              "looking for"
+            ],
+            [
+              "eating",
+              "to eat"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "*Decide* + **to-infinitive** (*to look for*); *avoid* + **-ing** (*eating*)."
+        },
+        {
+          "id": "b1-gr-verb-patterns-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "used to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the correct form of used to.",
+          "text": "My grandfather ___ smoke, but he gave up ten years ago.",
+          "answers": [
+            [
+              "used to"
+            ]
+          ],
+          "explanation": "Kebiasaan masa lalu yang sudah berhenti → **used to + base verb**."
+        },
+        {
+          "id": "b1-gr-verb-patterns-q3",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "be used to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Ana moved to a cold country last year. At first it was hard, but now she ___ the cold weather.",
+          "options": [
+            "is used to",
+            "used to",
+            "use to",
+            "is use to"
+          ],
+          "answer": 0,
+          "explanation": "Sekarang sudah terbiasa → **is used to** + noun. *Used to* alone would describe a past habit that is no longer true."
+        },
+        {
+          "id": "b1-gr-verb-patterns-q4",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "used to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English. Use used to.",
+          "source": "Dulu saya tidak suka sayur, tetapi sekarang saya menyukainya.",
+          "direction": "id-en",
+          "answers": [
+            "I didn't use to like vegetables, but now I like them.",
+            "I didn't use to like vegetables, but now I do.",
+            "I didn't use to like vegetables, but I like them now.",
+            "I did not use to like vegetables, but now I like them.",
+            "I did not use to like vegetables, but now I do.",
+            "I did not use to like vegetables, but I like them now.",
+            "I never used to like vegetables, but now I like them.",
+            "I never used to like vegetables, but now I do.",
+            "I never used to like vegetables, but I like them now."
+          ],
+          "explanation": "*Dulu tidak...* → **didn't use to** + base verb (tanpa -d setelah *didn't*). *Never used to* is also correct."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "slug": "b1-rd-1-repair-cafe",
+      "title": "Fix It, Don't Throw It Away",
+      "genre": "article",
+      "body": "Every first Saturday of the month, the community hall in Millbrook becomes a very busy place. People arrive carrying broken lamps, torn jackets, old radios and bicycles with flat tyres. They have come to the Millbrook Repair Café, where volunteers fix things for free.\n\nThe café was started three years ago by Helen Marsh, a retired engineer. \"I was tired of seeing perfectly good things in the rubbish bin,\" she explains. \"Most of them only needed a small repair.\" Today, more than twenty volunteers help her. Some are electricians, some are good at sewing, and one is a former bicycle mechanic.\n\nVisitors don't have to pay, but they are asked to stay and watch while their item is repaired. \"We want people to learn,\" says Helen. \"If you see how something is fixed, you might be able to do it yourself next time.\" Coffee and cake are sold at a small table, and the money is used to buy tools.\n\nThe café has become popular with young people, too. Twenty-year-old student Tom Reyes brought his laptop last month. \"The shop told me I needed a new one,\" he says. \"Here, they found a loose cable in ten minutes. I couldn't believe it.\"\n\nAccording to the volunteers' records, around 1,500 items have been repaired since the café opened. That is a lot of waste that didn't end up in landfill. Helen hopes other towns will follow Millbrook's example. \"You don't need a big budget,\" she says. \"You just need people who are happy to share their skills.\"",
+      "glossary": [
+        {
+          "word": "volunteer",
+          "meaning": "relawan"
+        },
+        {
+          "word": "retired",
+          "meaning": "pensiunan; sudah pensiun"
+        },
+        {
+          "word": "loose",
+          "meaning": "longgar; kendur"
+        },
+        {
+          "word": "landfill",
+          "meaning": "tempat pembuangan akhir (TPA)"
+        },
+        {
+          "word": "follow someone's example",
+          "meaning": "mengikuti contoh seseorang"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-rd-1-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "b1-rd-1-repair-cafe",
+          "prompt": "What is the article mainly about?",
+          "options": [
+            "a place where volunteers repair people's things for free",
+            "a shop that sells second-hand electronics",
+            "a course that trains people to become engineers",
+            "a café that is famous for its coffee and cake"
+          ],
+          "answer": 0,
+          "explanation": "Main idea: seluruh artikel membahas **Millbrook Repair Café**, tempat relawan memperbaiki barang secara gratis. Coffee and cake are only a small detail."
+        },
+        {
+          "id": "b1-rd-1-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-1-repair-cafe",
+          "prompt": "Why are visitors asked to stay while their item is repaired?",
+          "options": [
+            "so that they can learn how to fix things themselves",
+            "because they have to pay before they leave",
+            "because the volunteers need their help",
+            "so that they can buy coffee and cake"
+          ],
+          "answer": 0,
+          "explanation": "Paragraf 3: *\"We want people to learn ... you might be able to do it yourself next time.\"* Tujuannya agar pengunjung belajar."
+        },
+        {
+          "id": "b1-rd-1-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-1-repair-cafe",
+          "prompt": "What can we infer about Tom's laptop?",
+          "options": [
+            "It did not really need to be replaced.",
+            "It was too old to repair.",
+            "He bought it at the Repair Café.",
+            "The shop repaired it for free."
+          ],
+          "answer": 0,
+          "explanation": "Toko bilang dia butuh laptop baru, tetapi relawan hanya menemukan kabel yang longgar dalam sepuluh menit. So the laptop didn't need to be replaced — kita menyimpulkannya, tidak tertulis langsung."
+        },
+        {
+          "id": "b1-rd-1-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-1-repair-cafe",
+          "prompt": "In the last paragraph, 'landfill' most likely means:",
+          "options": [
+            "a place where rubbish is buried",
+            "a factory where new products are made",
+            "a shop that sells used items",
+            "a field where farmers grow food"
+          ],
+          "answer": 0,
+          "explanation": "Konteksnya adalah *waste* (sampah) yang tidak berakhir di *landfill*. Jadi landfill adalah tempat sampah dikubur — **tempat pembuangan akhir**."
+        },
+        {
+          "id": "b1-rd-1-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-1-repair-cafe",
+          "prompt": "What is the money from the coffee and cake used for?",
+          "options": [
+            "buying tools",
+            "paying the volunteers",
+            "renting the community hall",
+            "buying new laptops"
+          ],
+          "answer": 0,
+          "explanation": "Paragraf 3: *the money is used to buy tools* — uangnya dipakai untuk membeli peralatan."
+        }
+      ]
+    },
+    {
+      "slug": "b1-rd-2-wrong-train",
+      "title": "The Wrong Stop",
+      "genre": "story",
+      "body": "Maya had never felt so nervous. It was the morning of her first job interview, and she was sitting on the 7.15 train to Port Selwyn. She had prepared for days: she had read everything about the company, and she had practised her answers in front of the mirror the night before. But she hadn't slept well, and as the train was moving gently through the green countryside, her eyes slowly closed.\n\nWhen she woke up, the train was standing at a small station that she didn't recognise. A sign on the platform said 'Ashby Junction'. Maya's heart sank. She had missed her stop, and the interview was starting in forty minutes.\n\nShe ran to the ticket office, but it was closed. While she was looking desperately at the timetable, an elderly man with a walking stick came up to her. \"You look worried,\" he said kindly. Maya explained everything. The man smiled. \"My daughter is driving to Port Selwyn in five minutes. I'm sure she can take you.\"\n\nThe daughter, a cheerful woman called Ruth, drove fast but carefully, and Maya arrived at the office with two minutes to spare. She was out of breath, but she was there. The receptionist took her into a meeting room — and Maya couldn't believe her eyes. Sitting behind the desk was Ruth.\n\n\"Well,\" Ruth laughed, \"at least I already know that you can stay calm when things go wrong.\" The interview went brilliantly, and a week later Maya got the job. She never fell asleep on a train again.",
+      "glossary": [
+        {
+          "word": "my heart sank",
+          "meaning": "hatiku langsung lemas / kecewa dan cemas"
+        },
+        {
+          "word": "desperately",
+          "meaning": "dengan putus asa; mati-matian"
+        },
+        {
+          "word": "elderly",
+          "meaning": "lanjut usia"
+        },
+        {
+          "word": "with two minutes to spare",
+          "meaning": "dengan sisa waktu dua menit"
+        },
+        {
+          "word": "out of breath",
+          "meaning": "terengah-engah"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-rd-2-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "b1-rd-2-wrong-train",
+          "prompt": "What is the best summary of the story?",
+          "options": [
+            "A woman misses her stop on the way to an interview, but a stranger's help leads to a happy ending.",
+            "A woman decides not to go to her interview because she is too nervous.",
+            "An old man gets lost at a small station, and a young woman helps him.",
+            "A woman fails an interview because she arrives late."
+          ],
+          "answer": 0,
+          "explanation": "Maya tertidur dan terlewat stasiunnya, lalu seorang bapak tua dan putrinya membantu. In the end she gets the job — akhir yang bahagia."
+        },
+        {
+          "id": "b1-rd-2-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-2-wrong-train",
+          "prompt": "Why did Maya fall asleep on the train?",
+          "options": [
+            "She hadn't slept well the night before.",
+            "She had worked late the night before.",
+            "The journey was very long and boring.",
+            "She had taken some medicine."
+          ],
+          "answer": 0,
+          "explanation": "Paragraf 1: *But she hadn't slept well* — perhatikan past perfect untuk menjelaskan sebab yang terjadi lebih dulu."
+        },
+        {
+          "id": "b1-rd-2-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-2-wrong-train",
+          "prompt": "Why did Ruth say she already knew that Maya could stay calm when things went wrong?",
+          "options": [
+            "She had seen how Maya solved a stressful problem that morning.",
+            "She had read about Maya in the company's records.",
+            "Maya had told her about her past jobs in the car.",
+            "She had interviewed Maya once before."
+          ],
+          "answer": 0,
+          "explanation": "Ruth adalah orang yang mengantar Maya. She saw Maya deal with missing her stop and still arrive on time, jadi Ruth sudah melihat sendiri bagaimana Maya menghadapi masalah."
+        },
+        {
+          "id": "b1-rd-2-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-2-wrong-train",
+          "prompt": "In paragraph 2, 'Maya's heart sank' means that she suddenly felt:",
+          "options": [
+            "worried and disappointed",
+            "excited and happy",
+            "tired and sleepy",
+            "angry with other people"
+          ],
+          "answer": 0,
+          "explanation": "Kalimat berikutnya menjelaskan dia terlewat stasiun dan wawancaranya 40 menit lagi. *My heart sank* = tiba-tiba merasa cemas dan kecewa."
+        },
+        {
+          "id": "b1-rd-2-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-2-wrong-train",
+          "prompt": "When did Maya arrive at the office?",
+          "options": [
+            "two minutes before the interview",
+            "forty minutes before the interview",
+            "five minutes after the interview started",
+            "the next morning"
+          ],
+          "answer": 0,
+          "explanation": "*Maya arrived at the office with two minutes to spare* = dia tiba dua menit sebelum wawancara dimulai."
+        }
+      ]
+    },
+    {
+      "slug": "b1-rd-3-email-from-northfield",
+      "title": "Greetings from Northfield",
+      "genre": "email",
+      "body": "Subject: Greetings from Northfield!\n\nHi Anisa,\n\nSorry I haven't written for so long! It's been a crazy month. As you know, I started my new job at the Northfield Science Museum three weeks ago, and I'm finally starting to feel at home.\n\nThe job is great, but there are a lot of rules. We have to wear a uniform – a dark green shirt with the museum logo – and we must wear our ID badges at all times. We aren't allowed to use our phones when we're with visitors, and that was hard at first, because I used to check my phone every five minutes! The good news is that we don't have to work on Mondays, because the museum is closed.\n\nThe weather is the biggest challenge. It's so cold here! I'm not used to wearing three layers of clothes, and it gets dark at four o'clock in the afternoon. My colleagues say I'll get used to it, but I'm not so sure. On the other hand, the people are really friendly. Last weekend my manager invited me to her house for dinner, and her husband cooked an amazing fish soup.\n\nHow are things with you? Have you finished your course yet? You should come and visit in the spring – it must be beautiful here when the snow melts. You could stay in my flat. The sofa is quite comfortable!\n\nWrite soon,\nDewi",
+      "glossary": [
+        {
+          "word": "feel at home",
+          "meaning": "merasa nyaman / betah"
+        },
+        {
+          "word": "at all times",
+          "meaning": "setiap saat"
+        },
+        {
+          "word": "layer",
+          "meaning": "lapisan"
+        },
+        {
+          "word": "challenge",
+          "meaning": "tantangan"
+        },
+        {
+          "word": "melt",
+          "meaning": "mencair; meleleh"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-rd-3-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "b1-rd-3-email-from-northfield",
+          "prompt": "What is the main purpose of Dewi's email?",
+          "options": [
+            "to tell her friend about her new job and life",
+            "to complain to her manager about the rules",
+            "to apply for a job at a museum",
+            "to ask her friend for advice about cold weather"
+          ],
+          "answer": 0,
+          "explanation": "Dewi menulis kepada temannya tentang pekerjaan baru, aturan, cuaca dan rekan kerja. It's a friendly news email, bukan keluhan atau lamaran kerja."
+        },
+        {
+          "id": "b1-rd-3-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-3-email-from-northfield",
+          "prompt": "Which of these is NOT a rule at Dewi's workplace?",
+          "options": [
+            "Staff must work on Mondays.",
+            "Staff must wear an ID badge.",
+            "Staff have to wear a uniform.",
+            "Staff can't use their phones when they are with visitors."
+          ],
+          "answer": 0,
+          "explanation": "Dewi menulis *we don't have to work on Mondays, because the museum is closed*. Aturan lainnya disebutkan dalam paragraf 2."
+        },
+        {
+          "id": "b1-rd-3-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-3-email-from-northfield",
+          "prompt": "What can we infer about the place where Dewi lived before?",
+          "options": [
+            "It was warmer than Northfield.",
+            "It was colder than Northfield.",
+            "It had a science museum where she worked.",
+            "It got dark earlier than Northfield."
+          ],
+          "answer": 0,
+          "explanation": "Dewi *isn't used to* memakai tiga lapis pakaian dan mengeluh tentang dingin. So we can infer that her previous home was warmer."
+        },
+        {
+          "id": "b1-rd-3-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-3-email-from-northfield",
+          "prompt": "In paragraph 1, 'starting to feel at home' means Dewi is starting to:",
+          "options": [
+            "feel comfortable and relaxed in the new place",
+            "want to go back to her own country",
+            "spend more time in her flat",
+            "feel tired after work every day"
+          ],
+          "answer": 0,
+          "explanation": "*Feel at home* = merasa nyaman dan betah di suatu tempat, walaupun itu bukan rumahnya sendiri."
+        }
+      ]
+    },
+    {
+      "slug": "b1-rd-4-solar-charger",
+      "title": "Students' Solar Charger Wins National Prize",
+      "genre": "news",
+      "body": "A group of four students from Greenhill Secondary School in Lakemoor has won first prize in this year's National Young Inventors Competition. Their invention, a low-cost solar charger for mobile phones, was chosen from more than 300 entries.\n\nThe charger is made from recycled materials, including old plastic bottles and parts from broken radios. It can charge a phone in about three hours on a sunny day. According to the team, each charger costs less than five dollars to produce.\n\nThe idea came from sixteen-year-old team member Farah Idris. She told reporters that her village often had power cuts and that her grandparents had once been unable to call a doctor because their phone battery was empty. \"I wanted to find a simple solution that anyone could build,\" she said.\n\nThe students worked on the project for eight months, mostly after school and at weekends. Their science teacher, Mr. Colin Hart, said he had never seen such a determined group. \"They failed many times,\" he explained, \"but they never gave up.\"\n\nThe prize includes 10,000 dollars and a visit to a technology company. The team said they would use the money to build fifty chargers for families in their area. A local company has also asked whether it could produce the charger on a larger scale.\n\nThe competition is organised every year by the Young Science Council and is open to students aged 13 to 18.",
+      "glossary": [
+        {
+          "word": "entry",
+          "meaning": "karya yang didaftarkan (dalam lomba)"
+        },
+        {
+          "word": "power cut",
+          "meaning": "pemadaman listrik"
+        },
+        {
+          "word": "determined",
+          "meaning": "gigih; bertekad kuat"
+        },
+        {
+          "word": "on a larger scale",
+          "meaning": "dalam skala yang lebih besar"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-rd-4-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "b1-rd-4-solar-charger",
+          "prompt": "What is the news story mainly about?",
+          "options": [
+            "students who won a prize for a cheap solar phone charger",
+            "a company that sells solar panels to schools",
+            "a village that often has power cuts",
+            "a science teacher who invented a new phone"
+          ],
+          "answer": 0,
+          "explanation": "Judul dan paragraf pertama menyampaikan main idea: **empat siswa memenangkan lomba** dengan charger tenaga surya yang murah."
+        },
+        {
+          "id": "b1-rd-4-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-4-solar-charger",
+          "prompt": "What is the charger made from?",
+          "options": [
+            "recycled materials such as plastic bottles and old radio parts",
+            "new parts bought from a technology company",
+            "glass and metal from old mobile phones",
+            "materials that cost more than five dollars each"
+          ],
+          "answer": 0,
+          "explanation": "Paragraf 2: *The charger is made from recycled materials, including old plastic bottles and parts from broken radios* (present simple passive)."
+        },
+        {
+          "id": "b1-rd-4-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-4-solar-charger",
+          "prompt": "Why was the project personally important to Farah?",
+          "options": [
+            "Her own family had had problems because of power cuts.",
+            "She wanted to start her own technology company.",
+            "Her teacher asked her to find an idea for the competition.",
+            "Her grandparents worked in a radio factory."
+          ],
+          "answer": 0,
+          "explanation": "Farah bercerita bahwa kakek-neneknya pernah tidak bisa menelepon dokter karena baterai habis saat listrik padam. So the problem affected her own family."
+        },
+        {
+          "id": "b1-rd-4-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 3,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-4-solar-charger",
+          "prompt": "In paragraph 4, 'determined' is closest in meaning to:",
+          "options": [
+            "not willing to stop trying, even when something is difficult",
+            "very intelligent and good at science",
+            "easily disappointed by problems",
+            "very lucky"
+          ],
+          "answer": 0,
+          "explanation": "Kalimat berikutnya menjelaskannya: *They failed many times, but they never gave up.* **Determined** = gigih, pantang menyerah."
+        },
+        {
+          "id": "b1-rd-4-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "passageSlug": "b1-rd-4-solar-charger",
+          "prompt": "What did the team say they would do with the prize money?",
+          "options": [
+            "build fifty chargers for families in their area",
+            "buy new computers for their school",
+            "visit a technology company abroad",
+            "start selling the charger online"
+          ],
+          "answer": 0,
+          "explanation": "Reported speech di paragraf 5: *The team said they would use the money to build fifty chargers for families in their area.*"
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "slug": "b1-ls-1-weekend-plans",
+      "title": "Plans for the Weekend",
+      "kind": "dialogue",
+      "script": [
+        {
+          "speaker": "Rina",
+          "text": "Hi, Tomi! Are you doing anything this weekend?"
+        },
+        {
+          "speaker": "Tomi",
+          "text": "Yes, I'm visiting my cousin in Port Selwyn on Saturday. My train leaves at nine."
+        },
+        {
+          "speaker": "Rina",
+          "text": "Oh, nice. What are you going to do there?"
+        },
+        {
+          "speaker": "Tomi",
+          "text": "We're going to walk along the coast path if the weather's good. The forecast says it might rain in the afternoon, though."
+        },
+        {
+          "speaker": "Rina",
+          "text": "Then you'd better take a raincoat! What about Sunday?"
+        },
+        {
+          "speaker": "Tomi",
+          "text": "I haven't decided yet. I might stay at home and study. I've got an exam on Tuesday."
+        },
+        {
+          "speaker": "Rina",
+          "text": "Well, a few of us are going to the new Thai restaurant on Sunday evening. Do you want to come?"
+        },
+        {
+          "speaker": "Tomi",
+          "text": "That sounds great. If I finish my revision in time, I'll definitely join you. What time are you meeting?"
+        },
+        {
+          "speaker": "Rina",
+          "text": "At seven, outside the cinema. I'll send you the address as soon as I get home."
+        },
+        {
+          "speaker": "Tomi",
+          "text": "Perfect. Thanks, Rina. See you on Sunday, I hope!"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-ls-1-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "b1-ls-1-weekend-plans",
+          "prompt": "What is Tomi doing on Saturday?",
+          "options": [
+            "visiting his cousin in Port Selwyn",
+            "studying for his exam at home",
+            "going to a Thai restaurant",
+            "working at the cinema"
+          ],
+          "answer": 0,
+          "explanation": "Tomi berkata *I'm visiting my cousin in Port Selwyn on Saturday* — present continuous untuk rencana yang sudah diatur (arrangement)."
+        },
+        {
+          "id": "b1-ls-1-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-1-weekend-plans",
+          "prompt": "Why might Tomi NOT go to the restaurant on Sunday?",
+          "options": [
+            "He may need more time to study for his exam.",
+            "He doesn't like Thai food.",
+            "He will still be in Port Selwyn.",
+            "He doesn't know where the cinema is."
+          ],
+          "answer": 0,
+          "explanation": "*If I finish my revision in time, I'll definitely join you* — dia hanya ikut kalau belajarnya selesai. So he might need the time to study."
+        },
+        {
+          "id": "b1-ls-1-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-1-weekend-plans",
+          "prompt": "What does Rina advise Tomi to take on Saturday?",
+          "options": [
+            "a raincoat",
+            "an umbrella and boots",
+            "a map of the coast",
+            "some food for the train"
+          ],
+          "answer": 0,
+          "explanation": "Rina berkata *you'd better take a raincoat* karena ramalan cuaca mengatakan mungkin hujan."
+        },
+        {
+          "id": "b1-ls-1-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-1-weekend-plans",
+          "prompt": "Where and when are Rina and her friends meeting on Sunday?",
+          "options": [
+            "at seven, outside the cinema",
+            "at nine, at the train station",
+            "at seven, inside the restaurant",
+            "in the afternoon, on the coast path"
+          ],
+          "answer": 0,
+          "explanation": "Rina: *At seven, outside the cinema.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-ls-2-lost-property",
+      "title": "A Call to Lost Property",
+      "kind": "phone_call",
+      "script": [
+        {
+          "speaker": "Officer",
+          "text": "Good morning, Eastline Railways lost property office. How can I help you?"
+        },
+        {
+          "speaker": "Adi",
+          "text": "Hello. I left my bag on a train yesterday evening, and I was wondering if anyone had found it."
+        },
+        {
+          "speaker": "Officer",
+          "text": "I'm sorry to hear that. Which train were you on?"
+        },
+        {
+          "speaker": "Adi",
+          "text": "The 6.40 from Kotabaru to Lakemoor. I was reading a book when I suddenly realised it was my stop, so I jumped off quickly. I'd put the bag on the shelf above my seat, and I completely forgot about it."
+        },
+        {
+          "speaker": "Officer",
+          "text": "Can you describe the bag, please?"
+        },
+        {
+          "speaker": "Adi",
+          "text": "It's a small black backpack with a red zip. There's a laptop inside, and a blue water bottle."
+        },
+        {
+          "speaker": "Officer",
+          "text": "Just a moment, please. Yes, a black backpack was handed in by one of our cleaners last night. Does yours have a name tag?"
+        },
+        {
+          "speaker": "Adi",
+          "text": "Yes! It says 'A. Santoso'."
+        },
+        {
+          "speaker": "Officer",
+          "text": "Then it must be yours. You can collect it from our office at Lakemoor Station. You'll need to bring some ID."
+        },
+        {
+          "speaker": "Adi",
+          "text": "That's fantastic. When are you open?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "From eight in the morning until six in the evening, Monday to Saturday."
+        },
+        {
+          "speaker": "Adi",
+          "text": "Great, I'll come this afternoon. Thank you so much!"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-ls-2-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "b1-ls-2-lost-property",
+          "prompt": "Why did Adi leave his bag on the train?",
+          "options": [
+            "He got off in a hurry and forgot about it.",
+            "Someone took it while he was sleeping.",
+            "He gave it to a cleaner by mistake.",
+            "He left it at the ticket office."
+          ],
+          "answer": 0,
+          "explanation": "Adi sedang membaca, tiba-tiba sadar itu stasiunnya, lalu *jumped off quickly* dan lupa tasnya."
+        },
+        {
+          "id": "b1-ls-2-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-2-lost-property",
+          "prompt": "Who found the bag?",
+          "options": [
+            "a cleaner",
+            "a passenger",
+            "the train driver",
+            "a police officer"
+          ],
+          "answer": 0,
+          "explanation": "*A black backpack was handed in by one of our cleaners* — passive dengan by + agent."
+        },
+        {
+          "id": "b1-ls-2-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-2-lost-property",
+          "prompt": "What does Adi need to bring when he collects the bag?",
+          "options": [
+            "some identification",
+            "his train ticket",
+            "a description of the laptop",
+            "a small fee"
+          ],
+          "answer": 0,
+          "explanation": "Petugas berkata *You'll need to bring some ID* — ID = identification (kartu identitas)."
+        },
+        {
+          "id": "b1-ls-2-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-2-lost-property",
+          "prompt": "Why is the officer sure that the bag belongs to Adi?",
+          "options": [
+            "It has a name tag with his name on it.",
+            "Adi knows the cleaner who found it.",
+            "Adi can describe the book inside it.",
+            "It was found on the 6.40 train from Lakemoor."
+          ],
+          "answer": 0,
+          "explanation": "Setelah Adi menyebut name tag *A. Santoso*, petugas membuat deduction: *Then it must be yours.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-ls-3-sports-centre",
+      "title": "Welcome to Riverside Sports Centre",
+      "kind": "announcement",
+      "script": [
+        {
+          "speaker": "Announcer",
+          "text": "Good morning, and welcome to Riverside Sports Centre. Please listen carefully to the following information."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "All visitors must sign in at reception and show their membership card. If you have forgotten your card, our staff can find your name on the computer."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Please note that the main swimming pool is closed for cleaning until two o'clock today. The small pool is open as usual."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Swimmers have to wear a swimming cap in both pools. Caps can be bought at reception for two dollars."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Food and drinks are not allowed in the changing rooms. You can buy snacks in the café on the first floor."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Children under twelve mustn't use the gym, but they are very welcome to join our junior fitness classes on Saturday mornings."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "You don't need to book yoga classes in advance. Just arrive ten minutes before the class starts."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Finally, all lockers must be emptied before the centre closes at ten p.m. Thank you, and enjoy your visit."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-ls-3-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "b1-ls-3-sports-centre",
+          "prompt": "When will the main swimming pool open today?",
+          "options": [
+            "at two o'clock",
+            "at ten o'clock",
+            "on Saturday morning",
+            "It won't open today."
+          ],
+          "answer": 0,
+          "explanation": "*The main swimming pool is closed for cleaning until two o'clock today* — jadi dibuka pukul dua."
+        },
+        {
+          "id": "b1-ls-3-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-3-sports-centre",
+          "prompt": "What is true about the yoga classes?",
+          "options": [
+            "You don't have to book them before you come.",
+            "You must book them at reception.",
+            "They are only for children under twelve.",
+            "They start ten minutes late."
+          ],
+          "answer": 0,
+          "explanation": "*You don't need to book yoga classes in advance* = tidak perlu memesan sebelumnya (no obligation)."
+        },
+        {
+          "id": "b1-ls-3-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-3-sports-centre",
+          "prompt": "Where are visitors allowed to eat?",
+          "options": [
+            "in the café on the first floor",
+            "in the changing rooms",
+            "next to the small pool",
+            "at reception"
+          ],
+          "answer": 0,
+          "explanation": "Makanan dilarang di ruang ganti, tetapi *You can buy snacks in the café on the first floor.*"
+        },
+        {
+          "id": "b1-ls-3-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-3-sports-centre",
+          "prompt": "A ten-year-old girl wants to exercise at the centre. What can she do?",
+          "options": [
+            "join a junior fitness class on Saturday morning",
+            "use the gym with her parents",
+            "use the gym after ten p.m.",
+            "nothing, because children aren't allowed in the centre"
+          ],
+          "answer": 0,
+          "explanation": "Anak di bawah 12 tahun *mustn't use the gym* (dilarang), tetapi boleh ikut *junior fitness classes on Saturday mornings*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-ls-4-office-to-farm",
+      "title": "From Office to Farm",
+      "kind": "interview",
+      "script": [
+        {
+          "speaker": "Host",
+          "text": "Today I'm talking to Marco Lestari. He used to be an accountant in the city, and now he runs a small organic farm. Marco, what made you change?"
+        },
+        {
+          "speaker": "Marco",
+          "text": "Well, I used to spend ten hours a day in front of a computer, and I was always stressed. One day my doctor told me that I needed to change my lifestyle. That was when I decided to do something completely different."
+        },
+        {
+          "speaker": "Host",
+          "text": "Was it difficult at first?"
+        },
+        {
+          "speaker": "Marco",
+          "text": "Very! I wasn't used to physical work, so my back hurt every evening. And I had to learn everything about plants. I didn't even know how to grow tomatoes!"
+        },
+        {
+          "speaker": "Host",
+          "text": "And now?"
+        },
+        {
+          "speaker": "Marco",
+          "text": "Now I'm used to getting up at five, and I really enjoy working outside. I've lost ten kilos, and I sleep much better."
+        },
+        {
+          "speaker": "Host",
+          "text": "Do you miss anything about your old life?"
+        },
+        {
+          "speaker": "Marco",
+          "text": "I miss seeing my old colleagues, but I definitely don't miss the traffic. I used to spend two hours commuting every day."
+        },
+        {
+          "speaker": "Host",
+          "text": "What advice would you give to listeners who are thinking about a big change?"
+        },
+        {
+          "speaker": "Marco",
+          "text": "Don't expect it to be easy. But if you really want it, you should try. You can always go back."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-ls-4-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "b1-ls-4-office-to-farm",
+          "prompt": "What was Marco's job before he became a farmer?",
+          "options": [
+            "an accountant",
+            "a doctor",
+            "a computer engineer",
+            "a taxi driver"
+          ],
+          "answer": 0,
+          "explanation": "*He used to be an accountant in the city* — used to untuk keadaan di masa lalu."
+        },
+        {
+          "id": "b1-ls-4-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-4-office-to-farm",
+          "prompt": "Why did Marco decide to change his life?",
+          "options": [
+            "His doctor told him he needed a different lifestyle.",
+            "He lost his job at the office.",
+            "His family owned a farm.",
+            "He wanted to earn more money."
+          ],
+          "answer": 0,
+          "explanation": "Reported speech: *my doctor told me that I needed to change my lifestyle.*"
+        },
+        {
+          "id": "b1-ls-4-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 3,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-4-office-to-farm",
+          "prompt": "What was difficult for Marco at the beginning?",
+          "options": [
+            "He wasn't used to physical work.",
+            "He couldn't sell his tomatoes.",
+            "He had to get up at five.",
+            "He missed his long commute."
+          ],
+          "answer": 0,
+          "explanation": "*I wasn't used to physical work, so my back hurt every evening* — be used to untuk sesuatu yang sudah biasa."
+        },
+        {
+          "id": "b1-ls-4-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "quiz",
+          "listeningSlug": "b1-ls-4-office-to-farm",
+          "prompt": "What is Marco's general attitude to big life changes?",
+          "options": [
+            "They are hard, but worth trying if you really want them.",
+            "They are easy if you plan carefully.",
+            "People should never leave a safe job.",
+            "They are only possible for young people."
+          ],
+          "answer": 0,
+          "explanation": "Marco: *Don't expect it to be easy. But if you really want it, you should try.* Artinya sulit, tetapi layak dicoba."
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "slug": "b1-sp-recent-changes",
+      "title": "Recent Changes in My Life",
+      "kind": "guided",
+      "prompt": "Talk for one to two minutes about how your life has changed recently. Mention at least three changes (for example: work, studies, home, hobbies, friends). Say how long each situation has lasted and when it started.",
+      "targetPhrases": [
+        "I've just ...",
+        "I've been ... for/since ...",
+        "I haven't ... yet",
+        "Last year I ...",
+        "Since then, I've ..."
+      ],
+      "sampleAnswer": "A lot has changed in my life recently. Last year I graduated from university, and in March I started my first full-time job at a design company. I've worked there for seven months now, and I've already learned a lot. I've also moved house. I used to live with my parents, but since August I've had my own small flat near the office. I haven't bought all the furniture yet, but it already feels like home. Finally, I've just joined a badminton club, so I play twice a week now.",
+      "tips": [
+        "Pakai past simple untuk waktu yang selesai (last year, in March) dan present perfect untuk situasi yang masih berlangsung (for / since).",
+        "Use just / already / yet to sound natural when you talk about recent news."
+      ]
+    },
+    {
+      "slug": "b1-sp-unexpected-event",
+      "title": "A Story About an Unexpected Event",
+      "kind": "guided",
+      "prompt": "Tell a story about a day when something unexpected happened to you or someone you know. Describe the background, the main events in order, and how you felt at the end.",
+      "targetPhrases": [
+        "It was raining / I was walking ...",
+        "Suddenly ...",
+        "I had never ... before",
+        "By the time ..., ... had ...",
+        "In the end ..."
+      ],
+      "sampleAnswer": "It was a hot Saturday afternoon, and I was waiting for a bus in the city centre. I had just bought a birthday present for my sister. Suddenly, an old woman next to me fell and dropped her shopping. I helped her to sit down and called her son. By the time he arrived, a café owner had brought her a glass of water. I had never done anything like that before, and I felt nervous, but in the end the woman was fine. Her son was so grateful that he invited me to his restaurant for dinner.",
+      "tips": [
+        "Use the past continuous for the background, the past simple for the main events, and the past perfect for things that happened earlier.",
+        "Gunakan kata penghubung seperti suddenly, luckily, after that, in the end agar ceritamu runtut."
+      ]
+    },
+    {
+      "slug": "b1-sp-if-i-won",
+      "title": "If I Won a Big Prize",
+      "kind": "situation",
+      "prompt": "Imagine you have won a prize of 100,000 dollars. What would you do with the money? Would your life change? Also say one thing you wish were different in your life right now.",
+      "targetPhrases": [
+        "If I won ..., I would ...",
+        "I'd probably ...",
+        "I wouldn't ...",
+        "I could ...",
+        "I wish I had / were / could ..."
+      ],
+      "sampleAnswer": "If I won 100,000 dollars, I would first pay for my parents' house repairs, because the roof is very old. Then I'd probably save half of the money. I wouldn't buy an expensive car, because I don't really need one. If I had some money left, I could travel to South America; I've always wanted to see the mountains there. To be honest, my life wouldn't change very much. Right now, I wish I had more free time, because I work six days a week.",
+      "tips": [
+        "Second conditional: If + past simple, would / could + V1. Ingat: If I were ..., bukan If I am ...",
+        "I wish + past simple untuk keinginan tentang masa sekarang: I wish I had more time."
+      ]
+    },
+    {
+      "slug": "b1-sp-new-job-rules",
+      "title": "Asking About Rules at a New Job",
+      "kind": "role_play",
+      "prompt": "Role-play: It's your first day at a new job in a hotel. Ask your manager at least four questions about the rules (uniform, breaks, phones, working hours). Then repeat the rules back to check you understood.",
+      "targetPhrases": [
+        "Do I have to ...?",
+        "Am I allowed to ...?",
+        "Do I need to ...?",
+        "So I mustn't ...",
+        "So I don't have to ..."
+      ],
+      "sampleAnswer": "Good morning! I have a few questions about the rules. Do I have to wear a uniform every day? And am I allowed to use my phone during my shift? Do I need to bring my own lunch, or is there a staff canteen? What time do I have to arrive on Saturdays? ... OK, so I have to wear the uniform, but I don't have to bring lunch because there's a canteen. And I mustn't use my phone at reception. Thank you, that's very clear.",
+      "tips": [
+        "Bedakan mustn't (dilarang) dan don't have to (tidak wajib) saat mengulang aturan.",
+        "Use polite question forms: Do I have to ...? / Am I allowed to ...?"
+      ]
+    },
+    {
+      "slug": "b1-sp-passing-on-news",
+      "title": "Passing On a Message",
+      "kind": "role_play",
+      "prompt": "Role-play: Your colleague Siska phoned while your manager was out. Siska said: \"I'm stuck in traffic. I'll be thirty minutes late. Can you start the meeting without me? I've sent the report by email.\" Now tell your manager what Siska said and what she asked.",
+      "targetPhrases": [
+        "Siska called and said (that) ...",
+        "She told me (that) ...",
+        "She asked if ...",
+        "She said she would ...",
+        "She mentioned that ..."
+      ],
+      "sampleAnswer": "Siska called about ten minutes ago. She said that she was stuck in traffic and that she would be thirty minutes late. She asked if we could start the meeting without her. She also told me that she had sent the report by email, so it should be in your inbox.",
+      "tips": [
+        "Gunakan backshift: am → was, will → would, can → could, have sent → had sent.",
+        "Ingat: say something, tell someone something. Untuk pertanyaan: She asked if / whether ..."
+      ]
+    },
+    {
+      "slug": "b1-sp-future-technology",
+      "title": "Life in Twenty Years",
+      "kind": "situation",
+      "prompt": "Give your predictions about daily life in twenty years. Talk about transport, work and technology at home. Say which predictions you are sure about and which are only possible.",
+      "targetPhrases": [
+        "I think ... will ...",
+        "... will probably / definitely ...",
+        "... might / may ...",
+        "I don't think ... will ...",
+        "When ..., we'll ..."
+      ],
+      "sampleAnswer": "I think daily life will be very different in twenty years. Cars will probably drive themselves, so people might not need a driving licence. More people will definitely work from home, and offices may become smaller. At home, I think robots will do some of the cleaning, but I don't think they'll cook as well as my mother! When electric cars become cheaper, our cities will be much quieter and cleaner.",
+      "tips": [
+        "Will + probably/definitely untuk prediksi yang cukup yakin; might / may untuk kemungkinan.",
+        "After when / as soon as, use the present simple: When cars become cheaper ..."
+      ]
+    },
+    {
+      "slug": "b1-sp-pron-contractions",
+      "title": "Pronouncing Contractions: I'd, You'd, Wouldn't",
+      "kind": "pronunciation",
+      "prompt": "Read these sentences aloud three times. Focus on the short forms: 'd /d/, wouldn't /ˈwʊdnt/ and you'd better /juːd ˈbetə/. 1) If I were you, I'd call her. 2) You'd better not be late. 3) I wouldn't buy it if I were you. 4) We'd love to come.",
+      "targetPhrases": [
+        "I'd call her",
+        "You'd better not",
+        "I wouldn't buy it",
+        "We'd love to come"
+      ],
+      "sampleAnswer": "If I were you, I'd call her. You'd better not be late. I wouldn't buy it if I were you. We'd love to come.",
+      "tips": [
+        "Bunyi 'd sangat pendek, hampir tidak terdengar: I'd /aɪd/, we'd /wiːd/. Jangan ucapkan 'I would' terlalu jelas dalam percakapan santai.",
+        "In wouldn't, the 'l' is silent: /ˈwʊdnt/."
+      ]
+    },
+    {
+      "slug": "b1-sp-pron-used-to",
+      "title": "Pronouncing Used To and -ed Endings",
+      "kind": "pronunciation",
+      "prompt": "Read these sentences aloud. Pay attention to used to /ˈjuːs tə/ and the past participle endings /t/, /d/ and /ɪd/. 1) I used to live in a village. 2) She's worked here since May. 3) They've moved to Lakemoor. 4) We've decided to stay.",
+      "targetPhrases": [
+        "used to /ˈjuːs tə/",
+        "worked /wɜːkt/",
+        "moved /muːvd/",
+        "decided /dɪˈsaɪdɪd/"
+      ],
+      "sampleAnswer": "I used to live in a village. She's worked here since May. They've moved to Lakemoor. We've decided to stay.",
+      "tips": [
+        "Used to diucapkan /ˈjuːs tə/ dengan bunyi /s/, bukan /z/, dan 'to' diucapkan lemah /tə/.",
+        "-ed is pronounced /ɪd/ only after /t/ or /d/ (decided, wanted). After other sounds, it is /t/ or /d/ (worked, moved)."
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "slug": "b1-wr-news-email",
+      "title": "Email to a Friend: My News",
+      "kind": "email_informal",
+      "instructions": "You haven't written to your friend Joko for six months. Write an informal email telling him your news. Include: (1) something important that has happened recently, (2) something you haven't done yet but plan to do, (3) a question about his life. Use the present perfect and the past simple correctly.",
+      "minWords": 80,
+      "maxWords": 140,
+      "modelAnswer": "Hi Joko,\n\nSorry I haven't written for so long! A lot has happened since my last email. The biggest news is that I've changed jobs. In July I left the bank and started working for a small travel company. I've been there for three months now, and I love it. I've already visited two new cities for work!\n\nI haven't found a new flat yet, so I'm still living with my brother, but I'm going to look for one next month.\n\nHow about you? Have you finished your course? And how is your new puppy?\n\nWrite soon,\nAri"
+    },
+    {
+      "slug": "b1-wr-complaint-email",
+      "title": "Formal Email: A Problem with an Order",
+      "kind": "email_formal",
+      "instructions": "You ordered a coffee machine online from a shop called HomeBright, but it arrived damaged. Write a formal email to customer service. Explain when you ordered it and when it was delivered, describe the problem, and say what you would like them to do. Use at least two passive sentences.",
+      "minWords": 100,
+      "maxWords": 160,
+      "modelAnswer": "Dear Sir or Madam,\n\nI am writing to complain about a coffee machine that I ordered from your website on 3 May (order number 45872).\n\nThe machine was delivered yesterday, but when I opened the box, I saw that the glass jug was broken and the side of the machine was badly scratched. The box was not damaged, so I believe the machine was packed carelessly.\n\nI have attached two photos of the damage. I would be grateful if you could send me a replacement as soon as possible. If this is not possible, I would like a full refund.\n\nI look forward to hearing from you.\n\nYours faithfully,\nLaras Wibowo"
+    },
+    {
+      "slug": "b1-wr-car-free-centre",
+      "title": "Opinion: A Car-Free City Centre",
+      "kind": "opinion",
+      "instructions": "Your town council is considering a plan to ban cars from the city centre. Write your opinion for the council's website. Give at least two reasons and one possible problem. Use first conditional sentences (If ..., ... will ...) and unless / as long as at least once.",
+      "minWords": 120,
+      "maxWords": 180,
+      "modelAnswer": "In my opinion, banning cars from the city centre is a good idea, as long as the council improves public transport first.\n\nFirstly, if there are no cars in the centre, the air will be much cleaner. Many children walk to school along the main street, and they breathe in polluted air every day. Secondly, if the streets are quieter, people will spend more time in the centre. Cafés and shops will probably get more customers.\n\nHowever, there is one possible problem. Older people and people with disabilities will find it difficult to reach the centre unless there are enough buses and parking areas nearby.\n\nTo sum up, I support the plan, but the council must think carefully about people who can't walk long distances."
+    },
+    {
+      "slug": "b1-wr-everything-went-wrong",
+      "title": "A Story: The Day Everything Went Wrong",
+      "kind": "paragraph",
+      "instructions": "Write a short story that begins with this sentence: 'It was supposed to be a perfect day.' Use the past continuous for background, the past simple for the main events, and the past perfect at least twice. Finish with how the day ended.",
+      "minWords": 100,
+      "maxWords": 170,
+      "modelAnswer": "It was supposed to be a perfect day. The sun was shining and the birds were singing when I left home for my best friend's wedding. Unfortunately, I had forgotten to check the train times, and when I arrived at the station, my train had just left. I took a taxi, but halfway there it started to rain heavily and we got stuck in traffic. By the time I reached the hall, the ceremony had already started. I was wet, embarrassed and very late. I quietly sat down at the back. Then my friend turned around, saw me and smiled. After the ceremony she hugged me and said, 'You're here — that's what matters.' In the end, it was a perfect day after all."
+    },
+    {
+      "slug": "b1-wr-summary-repair-cafe",
+      "title": "Summary: The Repair Café",
+      "kind": "summary",
+      "instructions": "Read the article 'Fix It, Don't Throw It Away' in the Reading section. Write a summary of the main points in your own words. Include who started the café, what happens there, and why it is useful. Do not copy whole sentences from the article.",
+      "minWords": 50,
+      "maxWords": 90,
+      "modelAnswer": "The Millbrook Repair Café was started three years ago by a retired engineer called Helen Marsh. Once a month, volunteers fix broken items such as lamps, clothes and laptops for free. Visitors watch the repairs so that they can learn to do them themselves. The café is useful because it saves people money and stops a lot of things from becoming waste. About 1,500 items have been repaired so far, and Helen hopes other towns will start similar cafés."
+    },
+    {
+      "slug": "b1-wr-correct-the-paragraph",
+      "title": "Correct the Paragraph",
+      "kind": "correction",
+      "instructions": "The paragraph below has six mistakes (verb patterns, used to, passive and reported speech). Rewrite it correctly.\n\n'When I was a child, I use to live near a big factory. Chocolate was make there, and the whole street smelled sweet. I enjoyed to watch the lorries arrive every morning. One day my teacher said me that the factory was closing. I asked her why was it closing, but she didn't know. Now I'm used to live in the city, but I still miss that smell.'",
+      "minWords": 50,
+      "maxWords": 90,
+      "modelAnswer": "When I was a child, I used to live near a big factory. Chocolate was made there, and the whole street smelled sweet. I enjoyed watching the lorries arrive every morning. One day my teacher told me that the factory was closing. I asked her why it was closing, but she didn't know. Now I'm used to living in the city, but I still miss that smell."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "graduate",
+      "pos": "verb",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "definition": "to complete a university or college course and receive a degree",
+      "meaning": "lulus (dari universitas/sekolah)",
+      "examples": [
+        {
+          "en": "My sister graduated from university last year.",
+          "id": "Kakakku lulus dari universitas tahun lalu."
+        }
+      ],
+      "synonyms": [
+        "finish your studies"
+      ],
+      "collocations": [
+        "graduate from university",
+        "graduate with a degree in"
+      ],
+      "related": [
+        "graduation",
+        "graduate (noun)"
+      ],
+      "topic": "life changes"
+    },
+    {
+      "word": "promotion",
+      "pos": "noun",
+      "ipa": "/prəˈməʊʃn/",
+      "definition": "a move to a more important job or position in a company",
+      "meaning": "kenaikan jabatan; promosi",
+      "examples": [
+        {
+          "en": "Rina has just got a promotion, so she's now the team leader.",
+          "id": "Rina baru saja naik jabatan, jadi sekarang dia ketua tim."
+        }
+      ],
+      "collocations": [
+        "get a promotion",
+        "be offered a promotion"
+      ],
+      "related": [
+        "promote",
+        "get promoted"
+      ],
+      "topic": "life changes"
+    },
+    {
+      "word": "achievement",
+      "pos": "noun",
+      "ipa": "/əˈtʃiːvmənt/",
+      "definition": "something good that you have succeeded in doing after a lot of effort",
+      "meaning": "pencapaian; prestasi",
+      "examples": [
+        {
+          "en": "Running a marathon was my biggest achievement this year.",
+          "id": "Berlari maraton adalah pencapaian terbesarku tahun ini."
+        }
+      ],
+      "synonyms": [
+        "accomplishment",
+        "success"
+      ],
+      "collocations": [
+        "a great achievement",
+        "a sense of achievement"
+      ],
+      "related": [
+        "achieve"
+      ],
+      "topic": "life changes"
+    },
+    {
+      "word": "settle down",
+      "pos": "phrasal verb",
+      "ipa": "/ˈsetl daʊn/",
+      "definition": "to start living a quiet, stable life in one place, often with a partner",
+      "meaning": "menetap; hidup mapan",
+      "examples": [
+        {
+          "en": "After years of travelling, Bayu settled down in a small town by the sea.",
+          "id": "Setelah bertahun-tahun bepergian, Bayu menetap di sebuah kota kecil di tepi laut."
+        }
+      ],
+      "related": [
+        "settle"
+      ],
+      "topic": "life changes"
+    },
+    {
+      "word": "retire",
+      "pos": "verb",
+      "ipa": "/rɪˈtaɪə(r)/",
+      "definition": "to stop working, usually because you have reached a certain age",
+      "meaning": "pensiun",
+      "examples": [
+        {
+          "en": "My grandfather retired when he was sixty-five.",
+          "id": "Kakekku pensiun saat berusia enam puluh lima tahun."
+        }
+      ],
+      "collocations": [
+        "retire early",
+        "retire from work"
+      ],
+      "related": [
+        "retirement",
+        "retired"
+      ],
+      "topic": "life changes"
+    },
+    {
+      "word": "career",
+      "pos": "noun",
+      "ipa": "/kəˈrɪə(r)/",
+      "definition": "the series of jobs that you have in a particular area of work during your life",
+      "meaning": "karier",
+      "examples": [
+        {
+          "en": "She has had a long career in teaching.",
+          "id": "Dia memiliki karier yang panjang di bidang pengajaran."
+        }
+      ],
+      "collocations": [
+        "a successful career",
+        "change career",
+        "career path"
+      ],
+      "topic": "life changes"
+    },
+    {
+      "word": "suddenly",
+      "pos": "adverb",
+      "ipa": "/ˈsʌdənli/",
+      "definition": "quickly and unexpectedly",
+      "meaning": "tiba-tiba",
+      "examples": [
+        {
+          "en": "We were having dinner when suddenly the lights went out.",
+          "id": "Kami sedang makan malam ketika tiba-tiba lampu padam."
+        }
+      ],
+      "synonyms": [
+        "all of a sudden"
+      ],
+      "antonyms": [
+        "gradually"
+      ],
+      "topic": "storytelling"
+    },
+    {
+      "word": "relieved",
+      "pos": "adjective",
+      "ipa": "/rɪˈliːvd/",
+      "definition": "happy because something bad did not happen or has ended",
+      "meaning": "lega",
+      "examples": [
+        {
+          "en": "I was so relieved when I found my passport.",
+          "id": "Aku sangat lega ketika menemukan pasporku."
+        }
+      ],
+      "collocations": [
+        "feel relieved",
+        "relieved to hear"
+      ],
+      "related": [
+        "relief"
+      ],
+      "topic": "emotions"
+    },
+    {
+      "word": "embarrassed",
+      "pos": "adjective",
+      "ipa": "/ɪmˈbærəst/",
+      "definition": "feeling shy or uncomfortable because of something you did in front of other people",
+      "meaning": "malu",
+      "examples": [
+        {
+          "en": "He felt embarrassed when he called his teacher 'Mum'.",
+          "id": "Dia merasa malu ketika memanggil gurunya 'Ibu' seperti memanggil ibunya sendiri."
+        }
+      ],
+      "related": [
+        "embarrassing",
+        "embarrassment"
+      ],
+      "topic": "emotions"
+    },
+    {
+      "word": "frightened",
+      "pos": "adjective",
+      "ipa": "/ˈfraɪtnd/",
+      "definition": "afraid or scared",
+      "meaning": "takut",
+      "examples": [
+        {
+          "en": "The children were frightened by the storm.",
+          "id": "Anak-anak ketakutan karena badai itu."
+        }
+      ],
+      "synonyms": [
+        "scared",
+        "afraid"
+      ],
+      "collocations": [
+        "frightened of"
+      ],
+      "related": [
+        "frightening"
+      ],
+      "topic": "emotions"
+    },
+    {
+      "word": "eventually",
+      "pos": "adverb",
+      "ipa": "/ɪˈventʃuəli/",
+      "definition": "in the end, after a long time or a lot of problems",
+      "meaning": "akhirnya",
+      "examples": [
+        {
+          "en": "We waited for two hours, but eventually the bus arrived.",
+          "id": "Kami menunggu dua jam, tetapi akhirnya bus itu datang."
+        }
+      ],
+      "synonyms": [
+        "finally",
+        "in the end"
+      ],
+      "topic": "storytelling"
+    },
+    {
+      "word": "disappointed",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "definition": "sad because something was not as good as you hoped",
+      "meaning": "kecewa",
+      "examples": [
+        {
+          "en": "She was disappointed with her exam results.",
+          "id": "Dia kecewa dengan hasil ujiannya."
+        }
+      ],
+      "collocations": [
+        "disappointed with",
+        "bitterly disappointed"
+      ],
+      "related": [
+        "disappointing",
+        "disappointment"
+      ],
+      "topic": "emotions"
+    },
+    {
+      "word": "unexpected",
+      "pos": "adjective",
+      "ipa": "/ˌʌnɪkˈspektɪd/",
+      "definition": "surprising because you did not think it would happen",
+      "meaning": "tidak terduga",
+      "examples": [
+        {
+          "en": "We had an unexpected visitor on Sunday morning.",
+          "id": "Kami kedatangan tamu tak terduga pada Minggu pagi."
+        }
+      ],
+      "synonyms": [
+        "surprising"
+      ],
+      "antonyms": [
+        "expected"
+      ],
+      "topic": "storytelling"
+    },
+    {
+      "word": "device",
+      "pos": "noun",
+      "ipa": "/dɪˈvaɪs/",
+      "definition": "a machine or tool that does a special job",
+      "meaning": "perangkat; alat",
+      "examples": [
+        {
+          "en": "Please switch off all electronic devices during the flight.",
+          "id": "Harap matikan semua perangkat elektronik selama penerbangan."
+        }
+      ],
+      "synonyms": [
+        "gadget",
+        "machine"
+      ],
+      "collocations": [
+        "electronic device",
+        "mobile device"
+      ],
+      "topic": "technology"
+    },
+    {
+      "word": "prediction",
+      "pos": "noun",
+      "ipa": "/prɪˈdɪkʃn/",
+      "definition": "a statement about what you think will happen in the future",
+      "meaning": "prediksi; ramalan",
+      "examples": [
+        {
+          "en": "My prediction is that electric cars will be cheaper in ten years.",
+          "id": "Prediksiku adalah mobil listrik akan lebih murah dalam sepuluh tahun."
+        }
+      ],
+      "collocations": [
+        "make a prediction"
+      ],
+      "related": [
+        "predict"
+      ],
+      "topic": "the future"
+    },
+    {
+      "word": "wireless",
+      "pos": "adjective",
+      "ipa": "/ˈwaɪələs/",
+      "definition": "working without wires or cables",
+      "meaning": "nirkabel",
+      "examples": [
+        {
+          "en": "I've bought some wireless headphones.",
+          "id": "Aku sudah membeli headphone nirkabel."
+        }
+      ],
+      "collocations": [
+        "wireless connection",
+        "wireless charger"
+      ],
+      "topic": "technology"
+    },
+    {
+      "word": "likely",
+      "pos": "adjective",
+      "ipa": "/ˈlaɪkli/",
+      "definition": "probably going to happen or be true",
+      "meaning": "kemungkinan besar",
+      "examples": [
+        {
+          "en": "It's likely to rain this afternoon.",
+          "id": "Kemungkinan besar akan hujan sore ini."
+        }
+      ],
+      "synonyms": [
+        "probable"
+      ],
+      "antonyms": [
+        "unlikely"
+      ],
+      "collocations": [
+        "be likely to + verb"
+      ],
+      "topic": "the future"
+    },
+    {
+      "word": "develop",
+      "pos": "verb",
+      "ipa": "/dɪˈveləp/",
+      "definition": "to create something new or make something grow and improve",
+      "meaning": "mengembangkan; berkembang",
+      "examples": [
+        {
+          "en": "The company is developing a new app for students.",
+          "id": "Perusahaan itu sedang mengembangkan aplikasi baru untuk pelajar."
+        }
+      ],
+      "collocations": [
+        "develop a product",
+        "develop skills"
+      ],
+      "related": [
+        "development"
+      ],
+      "topic": "technology"
+    },
+    {
+      "word": "replace",
+      "pos": "verb",
+      "ipa": "/rɪˈpleɪs/",
+      "definition": "to take the place of something, or to put a new thing in place of an old one",
+      "meaning": "menggantikan; mengganti",
+      "examples": [
+        {
+          "en": "Will robots replace teachers one day?",
+          "id": "Apakah suatu hari robot akan menggantikan guru?"
+        }
+      ],
+      "collocations": [
+        "replace something with something"
+      ],
+      "related": [
+        "replacement"
+      ],
+      "topic": "the future"
+    },
+    {
+      "word": "pollution",
+      "pos": "noun",
+      "ipa": "/pəˈluːʃn/",
+      "definition": "dirty or harmful substances in the air, water or soil",
+      "meaning": "polusi; pencemaran",
+      "examples": [
+        {
+          "en": "Air pollution is a serious problem in big cities.",
+          "id": "Polusi udara adalah masalah serius di kota-kota besar."
+        }
+      ],
+      "collocations": [
+        "air pollution",
+        "water pollution",
+        "reduce pollution"
+      ],
+      "related": [
+        "pollute",
+        "polluted"
+      ],
+      "topic": "environment"
+    },
+    {
+      "word": "recycle",
+      "pos": "verb",
+      "ipa": "/ˌriːˈsaɪkl/",
+      "definition": "to treat used materials so that they can be used again",
+      "meaning": "mendaur ulang",
+      "examples": [
+        {
+          "en": "If we recycle paper, we save trees.",
+          "id": "Jika kita mendaur ulang kertas, kita menyelamatkan pohon."
+        }
+      ],
+      "collocations": [
+        "recycle bottles",
+        "recycling bin"
+      ],
+      "related": [
+        "recycling",
+        "recycled"
+      ],
+      "topic": "environment"
+    },
+    {
+      "word": "waste",
+      "pos": "noun / verb",
+      "ipa": "/weɪst/",
+      "definition": "(n) things that are thrown away because they are not wanted; (v) to use something badly or carelessly",
+      "meaning": "sampah; limbah / membuang-buang",
+      "examples": [
+        {
+          "en": "Don't waste water when you brush your teeth.",
+          "id": "Jangan membuang-buang air saat menyikat gigi."
+        }
+      ],
+      "collocations": [
+        "food waste",
+        "a waste of time",
+        "waste money"
+      ],
+      "topic": "environment"
+    },
+    {
+      "word": "reduce",
+      "pos": "verb",
+      "ipa": "/rɪˈdjuːs/",
+      "definition": "to make something smaller in size or amount",
+      "meaning": "mengurangi",
+      "examples": [
+        {
+          "en": "We need to reduce the amount of plastic we use.",
+          "id": "Kita perlu mengurangi jumlah plastik yang kita gunakan."
+        }
+      ],
+      "synonyms": [
+        "cut down on",
+        "decrease"
+      ],
+      "antonyms": [
+        "increase"
+      ],
+      "related": [
+        "reduction"
+      ],
+      "topic": "environment"
+    },
+    {
+      "word": "protect",
+      "pos": "verb",
+      "ipa": "/prəˈtekt/",
+      "definition": "to keep someone or something safe from harm",
+      "meaning": "melindungi",
+      "examples": [
+        {
+          "en": "Sunscreen protects your skin from the sun.",
+          "id": "Tabir surya melindungi kulitmu dari sinar matahari."
+        }
+      ],
+      "collocations": [
+        "protect the environment",
+        "protect something from"
+      ],
+      "related": [
+        "protection"
+      ],
+      "topic": "environment"
+    },
+    {
+      "word": "environment",
+      "pos": "noun",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "definition": "the natural world of land, sea, air, plants and animals",
+      "meaning": "lingkungan (hidup)",
+      "examples": [
+        {
+          "en": "Plastic bags are bad for the environment.",
+          "id": "Kantong plastik buruk bagi lingkungan."
+        }
+      ],
+      "collocations": [
+        "protect the environment",
+        "harm the environment"
+      ],
+      "related": [
+        "environmental",
+        "environmentally friendly"
+      ],
+      "topic": "environment"
+    },
+    {
+      "word": "afford",
+      "pos": "verb",
+      "ipa": "/əˈfɔːd/",
+      "definition": "to have enough money or time to do or buy something",
+      "meaning": "mampu (membeli/membayar)",
+      "examples": [
+        {
+          "en": "We can't afford to go on holiday this year.",
+          "id": "Kami tidak mampu pergi berlibur tahun ini."
+        }
+      ],
+      "collocations": [
+        "can't afford to + verb",
+        "afford a car"
+      ],
+      "related": [
+        "affordable"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "save",
+      "pos": "verb",
+      "ipa": "/seɪv/",
+      "definition": "to keep money so that you can use it later",
+      "meaning": "menabung; menghemat",
+      "examples": [
+        {
+          "en": "I'm saving for a new laptop.",
+          "id": "Aku sedang menabung untuk laptop baru."
+        }
+      ],
+      "antonyms": [
+        "spend"
+      ],
+      "collocations": [
+        "save money",
+        "save up for"
+      ],
+      "related": [
+        "savings"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "borrow",
+      "pos": "verb",
+      "ipa": "/ˈbɒrəʊ/",
+      "definition": "to take and use something that belongs to someone else and give it back later",
+      "meaning": "meminjam",
+      "examples": [
+        {
+          "en": "Can I borrow your pen for a minute?",
+          "id": "Boleh aku pinjam pulpenmu sebentar?"
+        }
+      ],
+      "antonyms": [
+        "lend"
+      ],
+      "collocations": [
+        "borrow something from someone",
+        "borrow money"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "lend",
+      "pos": "verb",
+      "ipa": "/lend/",
+      "definition": "to give something to someone for a short time, expecting it back",
+      "meaning": "meminjamkan",
+      "examples": [
+        {
+          "en": "My brother lent me fifty dollars.",
+          "id": "Kakakku meminjamkan aku lima puluh dolar."
+        }
+      ],
+      "antonyms": [
+        "borrow"
+      ],
+      "collocations": [
+        "lend someone something",
+        "lend money to"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "earn",
+      "pos": "verb",
+      "ipa": "/ɜːn/",
+      "definition": "to get money for work that you do",
+      "meaning": "mendapatkan (uang); berpenghasilan",
+      "examples": [
+        {
+          "en": "She earns more than her husband.",
+          "id": "Dia berpenghasilan lebih banyak daripada suaminya."
+        }
+      ],
+      "collocations": [
+        "earn money",
+        "earn a living"
+      ],
+      "related": [
+        "earnings"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "debt",
+      "pos": "noun",
+      "ipa": "/det/",
+      "definition": "money that you owe to someone",
+      "meaning": "utang",
+      "examples": [
+        {
+          "en": "It took him five years to pay off his debt.",
+          "id": "Dia butuh lima tahun untuk melunasi utangnya."
+        }
+      ],
+      "collocations": [
+        "be in debt",
+        "pay off a debt"
+      ],
+      "related": [
+        "owe"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "budget",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪt/",
+      "definition": "a plan of how much money you can spend",
+      "meaning": "anggaran",
+      "examples": [
+        {
+          "en": "Our budget for the trip is 500 dollars.",
+          "id": "Anggaran kami untuk perjalanan itu adalah 500 dolar."
+        }
+      ],
+      "collocations": [
+        "on a tight budget",
+        "stick to a budget",
+        "make a budget"
+      ],
+      "topic": "money"
+    },
+    {
+      "word": "compulsory",
+      "pos": "adjective",
+      "ipa": "/kəmˈpʌlsəri/",
+      "definition": "that must be done because of a rule or law",
+      "meaning": "wajib",
+      "examples": [
+        {
+          "en": "Wearing a seat belt is compulsory.",
+          "id": "Memakai sabuk pengaman itu wajib."
+        }
+      ],
+      "synonyms": [
+        "obligatory"
+      ],
+      "antonyms": [
+        "optional"
+      ],
+      "topic": "rules"
+    },
+    {
+      "word": "forbidden",
+      "pos": "adjective",
+      "ipa": "/fəˈbɪdn/",
+      "definition": "not allowed by a rule or law",
+      "meaning": "dilarang",
+      "examples": [
+        {
+          "en": "Swimming in the lake is forbidden.",
+          "id": "Berenang di danau itu dilarang."
+        }
+      ],
+      "synonyms": [
+        "not allowed",
+        "prohibited"
+      ],
+      "antonyms": [
+        "allowed"
+      ],
+      "related": [
+        "forbid"
+      ],
+      "topic": "rules"
+    },
+    {
+      "word": "deadline",
+      "pos": "noun",
+      "ipa": "/ˈdedlaɪn/",
+      "definition": "the time or date by which you must finish something",
+      "meaning": "tenggat waktu",
+      "examples": [
+        {
+          "en": "The deadline for the project is Friday.",
+          "id": "Tenggat proyek itu adalah hari Jumat."
+        }
+      ],
+      "collocations": [
+        "meet a deadline",
+        "miss a deadline",
+        "deadline for"
+      ],
+      "topic": "workplace"
+    },
+    {
+      "word": "fine",
+      "pos": "noun",
+      "ipa": "/faɪn/",
+      "definition": "money you have to pay as a punishment for breaking a rule",
+      "meaning": "denda",
+      "examples": [
+        {
+          "en": "He got a fine for parking in the wrong place.",
+          "id": "Dia kena denda karena parkir di tempat yang salah."
+        }
+      ],
+      "collocations": [
+        "get a fine",
+        "pay a fine"
+      ],
+      "topic": "rules"
+    },
+    {
+      "word": "permit",
+      "pos": "noun",
+      "ipa": "/ˈpɜːmɪt/",
+      "definition": "an official document that allows you to do something",
+      "meaning": "surat izin",
+      "examples": [
+        {
+          "en": "You need a permit to fish in this river.",
+          "id": "Kamu butuh surat izin untuk memancing di sungai ini."
+        }
+      ],
+      "collocations": [
+        "work permit",
+        "parking permit"
+      ],
+      "related": [
+        "permission",
+        "permit (verb)"
+      ],
+      "topic": "rules"
+    },
+    {
+      "word": "colleague",
+      "pos": "noun",
+      "ipa": "/ˈkɒliːɡ/",
+      "definition": "a person you work with",
+      "meaning": "rekan kerja",
+      "examples": [
+        {
+          "en": "My colleagues organised a party for my birthday.",
+          "id": "Rekan-rekan kerjaku mengadakan pesta untuk ulang tahunku."
+        }
+      ],
+      "synonyms": [
+        "co-worker"
+      ],
+      "topic": "workplace"
+    },
+    {
+      "word": "obligation",
+      "pos": "noun",
+      "ipa": "/ˌɒblɪˈɡeɪʃn/",
+      "definition": "something that you must do because of a rule, law or duty",
+      "meaning": "kewajiban",
+      "examples": [
+        {
+          "en": "Employers have an obligation to keep workers safe.",
+          "id": "Pemberi kerja memiliki kewajiban untuk menjaga keselamatan pekerja."
+        }
+      ],
+      "synonyms": [
+        "duty"
+      ],
+      "related": [
+        "oblige",
+        "obligatory"
+      ],
+      "topic": "rules"
+    },
+    {
+      "word": "manufacture",
+      "pos": "verb",
+      "ipa": "/ˌmænjuˈfæktʃə(r)/",
+      "definition": "to make goods in large numbers, usually in a factory",
+      "meaning": "memproduksi; membuat (di pabrik)",
+      "examples": [
+        {
+          "en": "These bicycles are manufactured in Kalibaru.",
+          "id": "Sepeda-sepeda ini diproduksi di Kalibaru."
+        }
+      ],
+      "synonyms": [
+        "produce",
+        "make"
+      ],
+      "related": [
+        "manufacturer"
+      ],
+      "topic": "products and processes"
+    },
+    {
+      "word": "invent",
+      "pos": "verb",
+      "ipa": "/ɪnˈvent/",
+      "definition": "to design or create something that did not exist before",
+      "meaning": "menemukan; menciptakan",
+      "examples": [
+        {
+          "en": "Who invented the first camera?",
+          "id": "Siapa yang menemukan kamera pertama?"
+        }
+      ],
+      "related": [
+        "invention",
+        "inventor"
+      ],
+      "topic": "inventions"
+    },
+    {
+      "word": "ingredient",
+      "pos": "noun",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "definition": "one of the foods or substances used to make something, especially a dish",
+      "meaning": "bahan (masakan)",
+      "examples": [
+        {
+          "en": "The main ingredients of this cake are flour, eggs and coconut milk.",
+          "id": "Bahan utama kue ini adalah tepung, telur dan santan."
+        }
+      ],
+      "collocations": [
+        "main ingredient",
+        "fresh ingredients"
+      ],
+      "topic": "products and processes"
+    },
+    {
+      "word": "export",
+      "pos": "verb",
+      "ipa": "/ɪkˈspɔːt/",
+      "definition": "to sell and send goods to another country",
+      "meaning": "mengekspor",
+      "examples": [
+        {
+          "en": "Most of the coffee is exported to Europe.",
+          "id": "Sebagian besar kopi itu diekspor ke Eropa."
+        }
+      ],
+      "antonyms": [
+        "import"
+      ],
+      "related": [
+        "export (noun) /ˈekspɔːt/"
+      ],
+      "topic": "products and processes"
+    },
+    {
+      "word": "harvest",
+      "pos": "verb / noun",
+      "ipa": "/ˈhɑːvɪst/",
+      "definition": "(v) to collect crops from the fields; (n) the time when crops are collected",
+      "meaning": "memanen; panen",
+      "examples": [
+        {
+          "en": "The tea leaves are harvested by hand.",
+          "id": "Daun teh dipanen dengan tangan."
+        }
+      ],
+      "collocations": [
+        "harvest time",
+        "a good harvest"
+      ],
+      "topic": "products and processes"
+    },
+    {
+      "word": "process",
+      "pos": "noun",
+      "ipa": "/ˈprəʊses/",
+      "definition": "a series of actions that you take to make or achieve something",
+      "meaning": "proses",
+      "examples": [
+        {
+          "en": "Making paper by hand is a long process.",
+          "id": "Membuat kertas dengan tangan adalah proses yang panjang."
+        }
+      ],
+      "collocations": [
+        "the production process",
+        "a slow process"
+      ],
+      "topic": "products and processes"
+    },
+    {
+      "word": "generous",
+      "pos": "adjective",
+      "ipa": "/ˈdʒenərəs/",
+      "definition": "happy to give money, time or help to other people",
+      "meaning": "murah hati; dermawan",
+      "examples": [
+        {
+          "en": "My uncle is a generous man who always helps his neighbours.",
+          "id": "Pamanku adalah orang murah hati yang selalu membantu tetangganya."
+        }
+      ],
+      "antonyms": [
+        "mean",
+        "selfish"
+      ],
+      "related": [
+        "generosity"
+      ],
+      "topic": "describing people"
+    },
+    {
+      "word": "reliable",
+      "pos": "adjective",
+      "ipa": "/rɪˈlaɪəbl/",
+      "definition": "that you can trust to do something well or to work correctly",
+      "meaning": "dapat diandalkan",
+      "examples": [
+        {
+          "en": "I need a reliable car that doesn't break down.",
+          "id": "Aku butuh mobil yang dapat diandalkan dan tidak mogok."
+        }
+      ],
+      "synonyms": [
+        "dependable",
+        "trustworthy"
+      ],
+      "antonyms": [
+        "unreliable"
+      ],
+      "related": [
+        "rely on"
+      ],
+      "topic": "describing people"
+    },
+    {
+      "word": "crowded",
+      "pos": "adjective",
+      "ipa": "/ˈkraʊdɪd/",
+      "definition": "full of people",
+      "meaning": "ramai; penuh sesak",
+      "examples": [
+        {
+          "en": "The market is always crowded on Saturday mornings.",
+          "id": "Pasar itu selalu ramai pada Sabtu pagi."
+        }
+      ],
+      "synonyms": [
+        "busy",
+        "packed"
+      ],
+      "antonyms": [
+        "empty",
+        "quiet"
+      ],
+      "related": [
+        "crowd"
+      ],
+      "topic": "describing places"
+    },
+    {
+      "word": "peaceful",
+      "pos": "adjective",
+      "ipa": "/ˈpiːsfl/",
+      "definition": "quiet and calm",
+      "meaning": "tenang; damai",
+      "examples": [
+        {
+          "en": "We stayed in a peaceful village in the mountains.",
+          "id": "Kami menginap di sebuah desa yang tenang di pegunungan."
+        }
+      ],
+      "synonyms": [
+        "calm",
+        "quiet"
+      ],
+      "antonyms": [
+        "noisy"
+      ],
+      "related": [
+        "peace"
+      ],
+      "topic": "describing places"
+    },
+    {
+      "word": "landmark",
+      "pos": "noun",
+      "ipa": "/ˈlændmɑːk/",
+      "definition": "a famous building or place that is easy to recognise",
+      "meaning": "tengara; bangunan/tempat terkenal",
+      "examples": [
+        {
+          "en": "The old clock tower is the town's most famous landmark.",
+          "id": "Menara jam tua itu adalah tengara paling terkenal di kota itu."
+        }
+      ],
+      "topic": "describing places"
+    },
+    {
+      "word": "spacious",
+      "pos": "adjective",
+      "ipa": "/ˈspeɪʃəs/",
+      "definition": "having a lot of space inside",
+      "meaning": "luas; lapang",
+      "examples": [
+        {
+          "en": "The new flat is bright and spacious.",
+          "id": "Flat baru itu terang dan luas."
+        }
+      ],
+      "synonyms": [
+        "roomy",
+        "big"
+      ],
+      "antonyms": [
+        "cramped"
+      ],
+      "related": [
+        "space"
+      ],
+      "topic": "describing places"
+    },
+    {
+      "word": "announce",
+      "pos": "verb",
+      "ipa": "/əˈnaʊns/",
+      "definition": "to tell people something officially or publicly",
+      "meaning": "mengumumkan",
+      "examples": [
+        {
+          "en": "The company announced that it would open a new office.",
+          "id": "Perusahaan itu mengumumkan bahwa mereka akan membuka kantor baru."
+        }
+      ],
+      "related": [
+        "announcement"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "rumour",
+      "pos": "noun",
+      "ipa": "/ˈruːmə(r)/",
+      "definition": "a story that people talk about, which may not be true",
+      "meaning": "kabar angin; desas-desus",
+      "examples": [
+        {
+          "en": "There's a rumour that our manager is leaving.",
+          "id": "Ada desas-desus bahwa manajer kami akan keluar."
+        }
+      ],
+      "collocations": [
+        "spread a rumour",
+        "hear a rumour"
+      ],
+      "related": [
+        "gossip"
+      ],
+      "topic": "news and gossip"
+    },
+    {
+      "word": "gossip",
+      "pos": "noun / verb",
+      "ipa": "/ˈɡɒsɪp/",
+      "definition": "conversation about other people's private lives, often unkind or untrue",
+      "meaning": "gosip; bergosip",
+      "examples": [
+        {
+          "en": "Don't believe all the gossip you hear at work.",
+          "id": "Jangan percaya semua gosip yang kamu dengar di tempat kerja."
+        }
+      ],
+      "related": [
+        "rumour"
+      ],
+      "topic": "news and gossip"
+    },
+    {
+      "word": "mention",
+      "pos": "verb",
+      "ipa": "/ˈmenʃn/",
+      "definition": "to say something about someone or something briefly",
+      "meaning": "menyebutkan",
+      "examples": [
+        {
+          "en": "She mentioned that she was moving to Lakemoor.",
+          "id": "Dia menyebutkan bahwa dia akan pindah ke Lakemoor."
+        }
+      ],
+      "collocations": [
+        "mention something to someone"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "reply",
+      "pos": "verb / noun",
+      "ipa": "/rɪˈplaɪ/",
+      "definition": "to answer someone in speech or writing",
+      "meaning": "membalas; menjawab",
+      "examples": [
+        {
+          "en": "He replied that he was too busy to come.",
+          "id": "Dia menjawab bahwa dia terlalu sibuk untuk datang."
+        }
+      ],
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "collocations": [
+        "reply to an email"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "headline",
+      "pos": "noun",
+      "ipa": "/ˈhedlaɪn/",
+      "definition": "the title of a newspaper story, printed in large letters",
+      "meaning": "judul berita; tajuk utama",
+      "examples": [
+        {
+          "en": "The headline said that the river had flooded the town.",
+          "id": "Judul berita itu mengatakan bahwa sungai telah membanjiri kota."
+        }
+      ],
+      "collocations": [
+        "make the headlines",
+        "front-page headline"
+      ],
+      "topic": "news and gossip"
+    },
+    {
+      "word": "habit",
+      "pos": "noun",
+      "ipa": "/ˈhæbɪt/",
+      "definition": "something that you do often and regularly, often without thinking",
+      "meaning": "kebiasaan",
+      "examples": [
+        {
+          "en": "Biting your nails is a bad habit.",
+          "id": "Menggigit kuku adalah kebiasaan buruk."
+        }
+      ],
+      "collocations": [
+        "a bad habit",
+        "break a habit",
+        "get into the habit of"
+      ],
+      "related": [
+        "habitual"
+      ],
+      "topic": "habits"
+    },
+    {
+      "word": "routine",
+      "pos": "noun",
+      "ipa": "/ruːˈtiːn/",
+      "definition": "the usual order in which you do things every day",
+      "meaning": "rutinitas",
+      "examples": [
+        {
+          "en": "Exercise is now part of my daily routine.",
+          "id": "Olahraga sekarang menjadi bagian dari rutinitas harianku."
+        }
+      ],
+      "collocations": [
+        "daily routine",
+        "morning routine"
+      ],
+      "topic": "habits"
+    },
+    {
+      "word": "avoid",
+      "pos": "verb",
+      "ipa": "/əˈvɔɪd/",
+      "definition": "to stay away from someone or something, or to try not to do something",
+      "meaning": "menghindari",
+      "examples": [
+        {
+          "en": "I try to avoid eating after nine p.m.",
+          "id": "Aku berusaha menghindari makan setelah jam sembilan malam."
+        }
+      ],
+      "collocations": [
+        "avoid + -ing",
+        "avoid the traffic"
+      ],
+      "topic": "habits"
+    },
+    {
+      "word": "give up",
+      "pos": "phrasal verb",
+      "ipa": "/ɡɪv ʌp/",
+      "definition": "to stop doing or having something, especially a habit",
+      "meaning": "berhenti (dari kebiasaan); menyerah",
+      "examples": [
+        {
+          "en": "My father gave up smoking ten years ago.",
+          "id": "Ayahku berhenti merokok sepuluh tahun yang lalu."
+        }
+      ],
+      "synonyms": [
+        "quit",
+        "stop"
+      ],
+      "antonyms": [
+        "take up"
+      ],
+      "collocations": [
+        "give up + -ing",
+        "never give up"
+      ],
+      "topic": "lifestyle"
+    },
+    {
+      "word": "cut down on",
+      "pos": "phrasal verb",
+      "ipa": "/kʌt daʊn ɒn/",
+      "definition": "to eat, drink or use less of something",
+      "meaning": "mengurangi",
+      "examples": [
+        {
+          "en": "I'm trying to cut down on sugar.",
+          "id": "Aku sedang berusaha mengurangi gula."
+        }
+      ],
+      "synonyms": [
+        "reduce"
+      ],
+      "topic": "lifestyle"
+    },
+    {
+      "word": "lifestyle",
+      "pos": "noun",
+      "ipa": "/ˈlaɪfstaɪl/",
+      "definition": "the way in which a person lives",
+      "meaning": "gaya hidup",
+      "examples": [
+        {
+          "en": "She changed her lifestyle and started cycling to work.",
+          "id": "Dia mengubah gaya hidupnya dan mulai bersepeda ke tempat kerja."
+        }
+      ],
+      "collocations": [
+        "a healthy lifestyle",
+        "an active lifestyle"
+      ],
+      "topic": "lifestyle"
+    },
+    {
+      "word": "commute",
+      "pos": "verb / noun",
+      "ipa": "/kəˈmjuːt/",
+      "definition": "(v) to travel regularly between home and work; (n) the journey you make to work",
+      "meaning": "pulang-pergi (kerja); perjalanan ke tempat kerja",
+      "examples": [
+        {
+          "en": "My commute takes forty minutes by train.",
+          "id": "Perjalananku ke tempat kerja memakan waktu empat puluh menit dengan kereta."
+        }
+      ],
+      "related": [
+        "commuter"
+      ],
+      "topic": "lifestyle"
+    },
+    {
+      "word": "take up",
+      "pos": "phrasal verb",
+      "ipa": "/teɪk ʌp/",
+      "definition": "to start doing a new hobby or activity",
+      "meaning": "mulai menekuni (hobi/kegiatan)",
+      "examples": [
+        {
+          "en": "Last year my mother took up painting.",
+          "id": "Tahun lalu ibuku mulai menekuni melukis."
+        }
+      ],
+      "antonyms": [
+        "give up"
+      ],
+      "collocations": [
+        "take up a hobby",
+        "take up + -ing"
+      ],
+      "topic": "lifestyle"
+    }
+  ],
+  "examQuestions": [
+    {
+      "id": "b1-exam-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present perfect (been / gone)",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "A: Is Pak Harun in the office? B: No, he ___ to the bank. He'll be back in an hour.",
+      "options": [
+        "has gone",
+        "has been",
+        "went yesterday",
+        "goes"
+      ],
+      "answer": 0,
+      "explanation": "Pak Harun pergi dan belum kembali → **has gone**. *Has been* berarti sudah pergi dan sudah kembali, jadi tidak cocok."
+    },
+    {
+      "id": "b1-exam-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "already / yet",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Complete the dialogue with already or yet.",
+      "text": "A: Have you booked the hotel ___? B: Yes, I've ___ done it. I booked it this morning.",
+      "answers": [
+        [
+          "yet"
+        ],
+        [
+          "already"
+        ]
+      ],
+      "explanation": "**Yet** dipakai di akhir pertanyaan present perfect; **already** di tengah kalimat positive untuk sesuatu yang terjadi lebih cepat dari dugaan."
+    },
+    {
+      "id": "b1-exam-q3",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "past perfect",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": [
+        "When I got to the station,",
+        "the train",
+        "already left,",
+        "so I took a taxi."
+      ],
+      "errorIndex": 2,
+      "correction": "had already left",
+      "explanation": "Kereta berangkat **sebelum** saya tiba, jadi pakai past perfect: *the train had already left*."
+    },
+    {
+      "id": "b1-exam-q4",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "future time clauses",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Please turn off the lights before you ___ the office tonight.",
+      "options": [
+        "leave",
+        "will leave",
+        "left",
+        "would leave"
+      ],
+      "answer": 0,
+      "explanation": "Setelah time conjunction seperti **before / when / as soon as**, kita memakai present simple untuk masa depan: *before you leave*."
+    },
+    {
+      "id": "b1-exam-q5",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "unless",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Rewrite the sentence using unless.",
+      "sentence": "If you don't water these plants, they'll die.",
+      "cue": "Begin with: These plants ...",
+      "answers": [
+        "These plants will die unless you water them.",
+        "These plants'll die unless you water them.",
+        "These plants will die unless you water them regularly."
+      ],
+      "explanation": "**Unless** = *if ... not*. Jadi *If you don't water them* → *unless you water them* (tanpa not)."
+    },
+    {
+      "id": "b1-exam-q6",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "I wish + past simple",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "I'm tired of taking two buses to work. I wish I ___ a car.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "am having"
+      ],
+      "answer": 0,
+      "explanation": "Keinginan tentang masa sekarang → **I wish + past simple**: *I wish I had a car.*"
+    },
+    {
+      "id": "b1-exam-q7",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "first vs second conditional",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Choose the correct verb form for each gap.",
+      "text": "If it ___ tomorrow, we'll cancel the picnic. But if I ___ a million dollars, I'd buy a house by the sea.",
+      "choices": [
+        [
+          "rains",
+          "rained"
+        ],
+        [
+          "have",
+          "had"
+        ]
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Kalimat pertama adalah kemungkinan nyata (*we'll*) → first conditional: **rains**. Kalimat kedua imajiner (*I'd*) → second conditional: **had**."
+    },
+    {
+      "id": "b1-exam-q8",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "prohibition",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Which sentences mean that parking here is NOT allowed? Choose all correct answers.",
+      "options": [
+        "You mustn't park here.",
+        "You don't have to park here.",
+        "You aren't allowed to park here.",
+        "You can't park here.",
+        "You needn't park here."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "**Mustn't, aren't allowed to, can't** = larangan. *Don't have to* dan *needn't* hanya berarti tidak perlu."
+    },
+    {
+      "id": "b1-exam-q9",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "present and past passive",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Complete the sentences with the passive form of the verbs in brackets.",
+      "text": "Our school ___ (build) in 1965. Today, it ___ (paint) every five years.",
+      "answers": [
+        [
+          "was built"
+        ],
+        [
+          "is painted"
+        ]
+      ],
+      "explanation": "Fakta sejarah → past simple passive: **was built**. Kebiasaan sekarang → present simple passive: **is painted**."
+    },
+    {
+      "id": "b1-exam-q10",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "passive with by",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Rewrite the sentence in the passive.",
+      "sentence": "Thousands of tourists visit the old castle every year.",
+      "cue": "Begin with: The old castle ...",
+      "answers": [
+        "The old castle is visited by thousands of tourists every year.",
+        "The old castle is visited every year by thousands of tourists."
+      ],
+      "explanation": "Present simple passive: **is + V3**, dan pelakunya penting (ribuan turis) → *by thousands of tourists*."
+    },
+    {
+      "id": "b1-exam-q11",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "whose",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "That's the man ___ car was stolen last night.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": 0,
+      "explanation": "**Whose** menunjukkan kepemilikan: mobil milik pria itu → *the man whose car was stolen*."
+    },
+    {
+      "id": "b1-exam-q12",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "where in relative clauses",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Put the words in the correct order.",
+      "words": [
+        "The",
+        "restaurant",
+        "where",
+        "we",
+        "had",
+        "lunch",
+        "was",
+        "very",
+        "expensive"
+      ],
+      "explanation": "Relative clause **where we had lunch** menjelaskan *the restaurant*, lalu kalimat utama berlanjut: *was very expensive*."
+    },
+    {
+      "id": "b1-exam-q13",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "reported statements",
+      "difficulty": 4,
+      "stage": "exam",
+      "prompt": "A week later, you report what Siti said. Use tense backshift and change the time word.",
+      "sentence": "\"I'm working from home today,\" Siti said.",
+      "cue": "Begin with: Siti said ...",
+      "answers": [
+        "Siti said she was working from home that day.",
+        "Siti said that she was working from home that day."
+      ],
+      "explanation": "Present continuous → past continuous (**was working**), *I* → *she*, dan *today* → **that day** karena dilaporkan seminggu kemudian."
+    },
+    {
+      "id": "b1-exam-q14",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "say vs tell",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Raka ___ that he was moving to Kotabaru.",
+      "options": [
+        "said",
+        "told",
+        "said me",
+        "told to"
+      ],
+      "answer": 0,
+      "explanation": "**Say + that** (tanpa orang). *Tell* harus diikuti orang: *told me that ...*"
+    },
+    {
+      "id": "b1-exam-q15",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "reported questions",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Report the question. Use tense backshift.",
+      "context": "\"Where do you live?\" the receptionist asked me.",
+      "text": "The receptionist asked me where I ___.",
+      "answers": [
+        [
+          "lived"
+        ]
+      ],
+      "explanation": "Reported question memakai susunan pernyataan (tanpa *do*) dan backshift: *do you live* → **I lived**."
+    },
+    {
+      "id": "b1-exam-q16",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "-ing vs to-infinitive",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Choose the correct form for each gap.",
+      "text": "I'm thinking of ___ to drive, and my father has promised ___ me.",
+      "choices": [
+        [
+          "learning",
+          "to learn"
+        ],
+        [
+          "teaching",
+          "to teach"
+        ]
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Setelah preposition (*of*) → V-ing: **learning**. **Promise + to + V1** → *to teach*."
+    },
+    {
+      "id": "b1-exam-q17",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "be used to + -ing",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": [
+        "My grandmother",
+        "is used to",
+        "walk",
+        "five kilometres every day."
+      ],
+      "errorIndex": 2,
+      "correction": "walking",
+      "explanation": "**Be used to + V-ing**: *is used to walking*. To di sini adalah preposition."
+    },
+    {
+      "id": "b1-exam-q18",
+      "type": "matching",
+      "category": "vocabulary",
+      "topic": "B1 vocabulary",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Match each word with its definition.",
+      "pairs": [
+        {
+          "left": "rumour",
+          "right": "a story that people talk about, which may not be true"
+        },
+        {
+          "left": "deadline",
+          "right": "the time by which you must finish something"
+        },
+        {
+          "left": "ingredient",
+          "right": "one of the foods used to make a dish"
+        },
+        {
+          "left": "landmark",
+          "right": "a famous building that is easy to recognise"
+        },
+        {
+          "left": "debt",
+          "right": "money that you owe to someone"
+        }
+      ],
+      "explanation": "**Rumour** = desas-desus, **deadline** = tenggat, **ingredient** = bahan masakan, **landmark** = tengara, **debt** = utang."
+    },
+    {
+      "id": "b1-exam-q19",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "past simple passive",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Translate into English.",
+      "source": "Jembatan itu dibangun pada tahun 1990.",
+      "direction": "id-en",
+      "answers": [
+        "The bridge was built in 1990.",
+        "That bridge was built in 1990."
+      ],
+      "explanation": "*Dibangun* (fakta di masa lalu) → past simple passive **was built**."
+    },
+    {
+      "id": "b1-exam-q20",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "deduction",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        {
+          "speaker": "Fani",
+          "text": "Look, Sinta is wearing a wedding ring!"
+        },
+        {
+          "speaker": "Hana",
+          "text": null
+        },
+        {
+          "speaker": "Fani",
+          "text": "I didn't know that. I'll congratulate her."
+        }
+      ],
+      "options": [
+        "She must be married now.",
+        "She can't be married now.",
+        "She must to be married now.",
+        "She mustn't be married now."
+      ],
+      "answer": 0,
+      "explanation": "Cincin kawin adalah bukti kuat → deduction **must be**. *Can't* berlawanan dengan bukti, *must to* salah bentuk, dan *mustn't* adalah larangan."
+    }
+  ],
+  "placementQuestions": [
+    {
+      "id": "b1-place-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present perfect with how long",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "How long ___ in this city?",
+      "options": [
+        "have you lived",
+        "do you live",
+        "are you living",
+        "you have lived"
+      ],
+      "answer": 0,
+      "explanation": "Situasi dari masa lalu sampai sekarang dengan *How long* → present perfect: **have you lived**."
+    },
+    {
+      "id": "b1-place-q2",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "past perfect",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "When I arrived at the party, most of the guests ___ home.",
+      "options": [
+        "had gone",
+        "have gone",
+        "go",
+        "will go"
+      ],
+      "answer": 0,
+      "explanation": "Para tamu pulang **sebelum** saya tiba → past perfect **had gone**."
+    },
+    {
+      "id": "b1-place-q3",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "second conditional",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "If she ___ the answer, she would tell us.",
+      "options": [
+        "knew",
+        "knows",
+        "will know",
+        "has known"
+      ],
+      "answer": 0,
+      "explanation": "Second conditional (*would tell*) → if-clause memakai past simple: **knew**."
+    },
+    {
+      "id": "b1-place-q4",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "mustn't",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "You ___ smoke in the hospital. It's against the rules.",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "needn't",
+        "don't need"
+      ],
+      "answer": 0,
+      "explanation": "*Against the rules* = larangan → **mustn't**."
+    },
+    {
+      "id": "b1-place-q5",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "present simple passive",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "text": "Paper ___ from wood.",
+      "choices": [
+        [
+          "is made",
+          "makes",
+          "is making",
+          "made"
+        ]
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Fakta umum tentang proses → present simple passive: **is made**."
+    },
+    {
+      "id": "b1-place-q6",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "relative pronouns",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "I've lost the book ___ you lent me.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": 0,
+      "explanation": "Untuk benda kita memakai **that/which**. *Who* untuk orang, *where* untuk tempat, *whose* untuk kepemilikan."
+    },
+    {
+      "id": "b1-place-q7",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "reported speech",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "\"I saw the film last week,\" said Doni. → Doni told me he ___ the film the week before.",
+      "options": [
+        "had seen",
+        "has seen",
+        "sees",
+        "will see"
+      ],
+      "answer": 0,
+      "explanation": "Dalam reported speech, past simple (*saw*) mundur menjadi past perfect: **had seen**."
+    },
+    {
+      "id": "b1-place-q8",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "decide + to-infinitive",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Complete the sentence with the correct form of the verb in brackets.",
+      "text": "It was raining, so we decided ___ (stay) at home.",
+      "answers": [
+        [
+          "to stay"
+        ]
+      ],
+      "explanation": "**Decide + to + V1**: *decided to stay*."
+    },
+    {
+      "id": "b1-place-q9",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "future time clauses",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "We'll start the meeting when everyone ___.",
+      "options": [
+        "arrives",
+        "will arrive",
+        "arrived",
+        "would arrive"
+      ],
+      "answer": 0,
+      "explanation": "Setelah *when* untuk masa depan, pakai present simple: **arrives**."
+    },
+    {
+      "id": "b1-place-q10",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "B1 vocabulary",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "\"The museum is very crowded at weekends, so I prefer to go on weekdays.\" What does 'crowded' mean?",
+      "options": [
+        "full of people",
+        "closed",
+        "very expensive",
+        "far away"
+      ],
+      "answer": 0,
+      "explanation": "**Crowded** = penuh orang / ramai. Karena itu pembicara memilih datang pada hari kerja."
+    },
+    {
+      "id": "b1-place-q11",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "used to",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "When I was a child, I ___ play football in the street every afternoon.",
+      "options": [
+        "used to",
+        "use to",
+        "am used to",
+        "was used"
+      ],
+      "answer": 0,
+      "explanation": "Kebiasaan di masa lalu yang sudah berubah → **used to + V1**."
+    },
+    {
+      "id": "b1-place-q12",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "first conditional",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Complete the sentence with the correct form of the verb in brackets.",
+      "text": "If it ___ (rain) tomorrow, we'll stay at home.",
+      "answers": [
+        [
+          "rains"
+        ]
+      ],
+      "explanation": "First conditional: **If + present simple**, will + V1. Jangan pakai *will* di if-clause."
+    }
+  ]
+}

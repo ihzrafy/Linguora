@@ -1,0 +1,814 @@
+{
+  "slug": "c2-u02-ellipsis",
+  "number": 2,
+  "title": "Ellipsis and Substitution",
+  "description": "Learn how proficient speakers and writers avoid repetition by leaving out recoverable words and by using substitutes such as so, not, do so and one(s), adjusting the choice to register.",
+  "objectives": [
+    "Use ellipsis after auxiliaries, modals and infinitive 'to'",
+    "Respond economically with so/neither/nor, short answers, tags and echo questions",
+    "Substitute clauses with so and not, including if so and if not",
+    "Choose correctly between do so, do it, do too and one/ones",
+    "Write concise formal prose using gapping, respectively and related devices"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u02-l1-clausal-ellipsis",
+      "title": "Ellipsis after Auxiliaries and To",
+      "summary": "Leave out a repeated verb phrase while keeping the auxiliary, modal or infinitive 'to'.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Omit a repeated verb phrase after an auxiliary or modal",
+        "Use do/does/did when the first clause has no auxiliary",
+        "Keep 'to' when omitting an infinitive after verbs such as would like, have, ought and used"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is ellipsis?\n**Ellipsis** means leaving out words that the listener or reader can recover from the context. It is not laziness: in English, repeating a whole verb phrase usually sounds heavy or even unnatural. Compare:\n- *She said she would finish the report, and she finished the report.* (clumsy)\n- *She said she would finish the report, and she **did**.* (natural)\n\n### Ellipsis after auxiliaries and modals\nThe most common type keeps the **auxiliary or modal** and drops everything after it:\n\n| Full form | Elliptical form |\n|---|---|\n| I haven't read it yet, but I will read it. | I haven't read it yet, but I **will**. |\n| He can't come, but his deputy can come. | He can't come, but his deputy **can**. |\n| You should have told me. — I know I should have told you. | — I know I **should have**. |\n| Is she coming? — She might be coming. | — She **might be**. |\n\nIf the first clause has no auxiliary (present simple or past simple), use **do / does / did**: *Lina enjoys opera, and so **does** her brother. She promised to call, and she **did**.*\n\nThe auxiliary must match the **verb you are replacing**: ✗ *He can't swim, but his sister does* → *... but his sister **can***. With *be* as a main verb, keep *be*: *She isn't ready, but I **am**.* With perfect and passive forms you may keep one or more auxiliaries: *Has the parcel been sent? — It **has** / It **has been**.*\n\n### Ellipsis after infinitive 'to'\nAfter verbs such as *want, would like, would love, hope, try, need, have, used, ought, mean, plan*, you can drop the verb phrase but must **keep *to***:\n- *Are you coming to the gala? — I'd love **to**, but I'm working.*\n- *I didn't want to apologise, but I had **to**.*\n- *She doesn't sing as much as she used **to**.*\n\nDropping *to* as well is wrong after *would like, would love, need, have, ought, used*: ✗ *I'd like, but I can't.* In conditional and relative clauses after *want* and *like*, however, the whole infinitive can disappear: *Come with us if you **want**. Take as many as you **like**.*\n\n### Stress and pronunciation\nIn elliptical clauses the final **auxiliary is stressed** and pronounced in its full form: *I'm not sure she'll come, but I hope she **will** /wɪl/.* A contraction cannot end the clause: ✗ *... but I hope she'll.* ✗ *I don't know if I can, but I'll.*\n\n### Register\nEllipsis is used in all registers. In formal writing it keeps sentences concise; in conversation it is essential for sounding natural. Full repetition can sound robotic, pedantic or even sarcastic: *Did you lock the door? — Yes, I locked the door.*",
+        "examples": [
+          { "en": "I haven't read the minutes yet, but I will.", "id": "Saya belum membaca notulennya, tetapi saya akan membacanya.", "note": "The modal 'will' remains; 'read the minutes' is omitted." },
+          { "en": "Raka said he would apologise, and he did.", "id": "Raka bilang dia akan meminta maaf, dan dia memang melakukannya.", "note": "'Did' replaces the past simple verb phrase." },
+          { "en": "Are you joining us for dinner? — I'd love to, but I've got an early flight.", "id": "Kamu ikut makan malam bersama kami? — Saya ingin sekali, tapi saya ada penerbangan pagi.", "note": "Keep 'to' after 'would love'." },
+          { "en": "She doesn't paint as often as she used to.", "id": "Dia tidak melukis sesering dulu.", "note": "'Used to' keeps 'to' when the verb is omitted." },
+          { "en": "Mr. Hartley can't attend, but his deputy can.", "id": "Pak Hartley tidak bisa hadir, tetapi wakilnya bisa.", "note": "The same modal is repeated in the elliptical clause." }
+        ],
+        "vocabulary": [
+          { "word": "rebut", "pos": "verb", "ipa": "/rɪˈbʌt/", "meaning": "membantah (dengan argumen)", "example": "She tried to rebut every point, but she couldn't." },
+          { "word": "interject", "pos": "verb", "ipa": "/ˌɪntəˈdʒekt/", "meaning": "menyela pembicaraan", "example": "I wanted to interject, but the chair wouldn't let me." },
+          { "word": "reiterate", "pos": "verb", "ipa": "/riˈɪtəreɪt/", "meaning": "menegaskan atau mengulangi kembali", "example": "Let me reiterate our position: we will not sign." },
+          { "word": "redundant", "pos": "adjective", "ipa": "/rɪˈdʌndənt/", "meaning": "berlebihan, tidak perlu (berulang)", "example": "Repeating the verb phrase would be redundant." },
+          { "word": "elliptical", "pos": "adjective", "ipa": "/ɪˈlɪptɪkl/", "meaning": "eliptis; menghilangkan bagian kalimat yang dapat dipahami", "example": "Her elliptical reply, 'I'd rather not,' ended the discussion." },
+          { "word": "recoverable", "pos": "adjective", "ipa": "/rɪˈkʌvərəbl/", "meaning": "dapat dipahami kembali dari konteks", "example": "Ellipsis is only possible when the missing words are recoverable." }
+        ],
+        "grammar": [
+          { "pattern": "Clause + and/but + subject + auxiliary/modal (rest omitted)", "example": "I can't drive, but my sister can.", "note": "The auxiliary must match the omitted verb phrase." },
+          { "pattern": "do/does/did when the first clause has no auxiliary", "example": "Nobody expected her to win, but she did.", "note": "Used for present simple and past simple." },
+          { "pattern": "Verb + to (infinitive phrase omitted)", "example": "I didn't want to leave, but I had to.", "note": "Keep 'to' after would like/love, have, need, ought, used." }
+        ],
+        "mistakes": [
+          { "wrong": "I'd like, but I can't.", "right": "I'd like to, but I can't.", "why": "'Would like' needs 'to' when the infinitive phrase is omitted." },
+          { "wrong": "He can't swim, but his sister does.", "right": "He can't swim, but his sister can.", "why": "The auxiliary in the elliptical clause must match the modal 'can'." },
+          { "wrong": "I don't know if she'll come, but I hope she'll.", "right": "I don't know if she'll come, but I hope she will.", "why": "A contracted auxiliary cannot end an elliptical clause; use the stressed full form." }
+        ],
+        "summary": "Ellipsis omits a recoverable verb phrase while keeping the auxiliary, modal or infinitive 'to'. Use do/does/did when there is no auxiliary, match the auxiliary to the omitted verb, and pronounce the final auxiliary in its full, stressed form.",
+        "reviewCards": [
+          { "front": "Are you coming? — I'd love ___, but ...", "back": "to — keep 'to' after would love/like." },
+          { "front": "She promised to call, and she ___.", "back": "did — do-support replaces a past simple verb phrase." },
+          { "front": "He can't swim, but his sister ___.", "back": "can — match the auxiliary to the omitted verb." },
+          { "front": "Can a contraction end an elliptical clause?", "back": "No: ... but I hope she will (not she'll)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u02-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "ellipsis",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Complete the reply: 'Are you coming to the reunion?' — 'I'd love ___, but I'm working that weekend.'",
+          "instructions": "After 'would love', the omitted infinitive leaves something behind.",
+          "options": ["to", "so", "doing", "for"],
+          "answer": 0,
+          "explanation": "When the infinitive phrase after 'would love' is omitted, 'to' must stay: I'd love to (come). 'So' does not substitute for an infinitive here, and 'doing' and 'for' are ungrammatical after 'would love' in this position."
+        },
+        {
+          "id": "c2-u02-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "ellipsis",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Complete the sentence with one word.",
+          "text": "Nobody forced Lina to resign; she simply felt she ought ___.",
+          "answers": [["to"]],
+          "explanation": "'Ought to' keeps 'to' when the rest of the verb phrase (resign) is omitted: she felt she ought to."
+        },
+        {
+          "id": "c2-u02-l1-q3",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "ellipsis",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Correct the reply.",
+          "context": "A: Will you help us move the piano on Saturday?",
+          "sentence": "B: I'd like, but I can't.",
+          "answers": [
+            "B: I'd like to, but I can't.",
+            "B: I would like to, but I can't.",
+            "B: I'd like to, but I cannot.",
+            "B: I would like to, but I cannot.",
+            "I'd like to, but I can't.",
+            "I would like to, but I can't.",
+            "I'd like to, but I cannot.",
+            "I would like to, but I cannot."
+          ],
+          "explanation": "After 'would like', ellipsis of the infinitive phrase must keep 'to': I'd like to (help), but I can't."
+        },
+        {
+          "id": "c2-u02-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "ellipsis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["The new interns", "can't access", "the archive yet,", "but their supervisors", "do."],
+          "errorIndex": 4,
+          "correction": "can.",
+          "explanation": "The elliptical clause replaces 'can access the archive', so it must keep the modal: but their supervisors can. 'Do' would only replace a verb without an auxiliary."
+        },
+        {
+          "id": "c2-u02-l1-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "ellipsis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the correct auxiliary for each gap.",
+          "text": "Nobody asked Lina to stay late, but she ___ anyway. Looking back, she wishes she ___.",
+          "choices": [
+            ["did", "was", "had"],
+            ["hadn't", "didn't", "wasn't"]
+          ],
+          "answers": [0, 0],
+          "explanation": "The first gap replaces the past simple 'stayed late', so 'did' is needed. The second refers to a past regret after 'wish', which requires the past perfect: she wishes she hadn't (stayed late)."
+        },
+        {
+          "id": "c2-u02-l1-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "ellipsis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "instructions": "Use ellipsis in the second clause instead of repeating the verb.",
+          "source": "Saya belum membaca laporan itu, tetapi saya akan membacanya.",
+          "direction": "id-en",
+          "answers": [
+            "I haven't read the report yet, but I will.",
+            "I have not read the report yet, but I will.",
+            "I haven't yet read the report, but I will.",
+            "I have not yet read the report, but I will.",
+            "I haven't read the report, but I will.",
+            "I have not read the report, but I will.",
+            "I haven't read that report yet, but I will.",
+            "I have not read that report yet, but I will."
+          ],
+          "explanation": "The second clause keeps only the modal: 'but I will' (= but I will read it). Repeating 'read it' is unnecessary."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u02-l2-response-ellipsis",
+      "title": "Elliptical Responses in Conversation",
+      "summary": "Respond economically with so/neither/nor, short answers, question tags, echo questions and situational ellipsis, adjusting to register.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Agree with positive and negative statements using so/neither/nor + auxiliary + subject",
+        "Distinguish 'So do I' (addition) from 'So I do' (confirmation)",
+        "Recognise situational ellipsis and keep it out of formal writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Agreeing and adding: so / neither / nor\nTo say that the same is true of another person, English uses *so* (positive) or *neither / nor* (negative) + **auxiliary + subject** (inverted):\n\n| Statement | Same for me | Different for me |\n|---|---|---|\n| I've finished. | So **have I**. | I haven't. |\n| I can't swim. | Neither / Nor **can I**. | I can. |\n| I loved the film. | So **did I**. | I didn't. |\n| I'm not tired. | Neither **am I**. | I am. |\n| I'd rather walk. | So **would I**. | I wouldn't. |\n\nThe auxiliary must match the statement (have → have, can't → can, past simple → did). Informal alternatives are *Me too* (positive) and *Me neither* (negative); they are fine in conversation but too casual for formal writing. *I did too* and *I haven't either* are neutral.\n\n### 'So do I' versus 'So I do'\n*So + auxiliary + subject* (inverted) **adds a new person**: *Lina speaks Thai. — **So does Raka**.* *So + subject + auxiliary* (not inverted) **confirms something surprising about the same subject**: *You're standing on my foot! — **So I am**. Sorry!*\n\n### Short answers and tags\nShort answers repeat the auxiliary, not the main verb: *Have you seen the report? — Yes, I **have**. / No, I **haven't**.* (✗ *Yes, I have seen.*) Question tags work the same way: *You'll call me, **won't you**?* Negative words such as *nobody, never, hardly* make the tag positive, and *nobody / somebody / everyone* take *they*: *Nobody called, **did they**?*\n\n### Echo questions\nShort echo questions with the auxiliary show interest, surprise or doubt: *I've resigned. — **Have you?** Why?* *She doesn't eat meat. — **Doesn't she?***\n\n### Situational ellipsis in speech\nIn informal conversation, speakers drop subjects and auxiliaries at the start of a sentence when the context makes them obvious:\n- *(That) Sounds good.*\n- *(Have you) Seen Raka anywhere?*\n- *(I) Told you so.*\n- *(Are you) Coming tonight?*\n\nThis is natural in speech and text messages but **not appropriate in formal writing**: ✗ *Dear Dr. Okafor, Received your report. Looks excellent.*\n\n### Register summary\n| Formal / neutral | Informal |\n|---|---|\n| So do I. / Neither can I. | Me too. / Me neither. |\n| Did you receive the file? | Get the file? |\n| That sounds excellent. | Sounds great. |\n\nIn debates and meetings, elliptical responses make agreement and disagreement quick and polite: *I don't think the plan is affordable. — **Nor do I**, frankly.*",
+        "examples": [
+          { "en": "I've never been to the Westmere Festival. — Neither have I.", "id": "Saya belum pernah ke Festival Westmere. — Saya juga belum.", "note": "Negative statement → neither + auxiliary + subject." },
+          { "en": "Lina voted for the motion, and so did most of the board.", "id": "Lina mendukung mosi itu, dan begitu pula sebagian besar anggota dewan.", "note": "Past simple → so did." },
+          { "en": "You've left your keys in the door! — So I have. Thanks.", "id": "Kuncimu tertinggal di pintu! — Oh iya, benar. Terima kasih.", "note": "So + subject + auxiliary confirms a surprising fact about the same person." },
+          { "en": "Nobody noticed the error, did they?", "id": "Tidak ada yang menyadari kesalahan itu, kan?", "note": "Negative subject 'nobody' → positive tag with 'they'." },
+          { "en": "Sounds good — see you at eight.", "id": "Kedengarannya bagus — sampai jumpa jam delapan.", "note": "Situational ellipsis; informal only." }
+        ],
+        "vocabulary": [
+          { "word": "rejoinder", "pos": "noun", "ipa": "/rɪˈdʒɔɪndə/", "meaning": "jawaban balasan (yang cepat atau tajam)", "example": "Her rejoinder, 'Nor do I,' drew laughter from the panel." },
+          { "word": "concur", "pos": "verb", "ipa": "/kənˈkɜː/", "meaning": "setuju, sependapat (formal)", "example": "The other judges concurred with the ruling." },
+          { "word": "retort", "pos": "verb", "ipa": "/rɪˈtɔːt/", "meaning": "membalas dengan tajam", "example": "'So do you!' she retorted." },
+          { "word": "banter", "pos": "noun", "ipa": "/ˈbæntə/", "meaning": "senda gurau, olok-olok ramah", "example": "Their friendly banter relaxed the nervous candidates." },
+          { "word": "terse", "pos": "adjective", "ipa": "/tɜːs/", "meaning": "singkat dan ketus", "example": "His terse reply, 'Can't,' offended the organisers." },
+          { "word": "affirm", "pos": "verb", "ipa": "/əˈfɜːm/", "meaning": "menegaskan, membenarkan", "example": "She affirmed her support with a simple 'I do'." }
+        ],
+        "grammar": [
+          { "pattern": "So + auxiliary + subject", "example": "I'm exhausted. — So am I.", "note": "Adds another person to a positive statement." },
+          { "pattern": "Neither / Nor + auxiliary + subject", "example": "Raka didn't enjoy the play, and neither did I.", "note": "Adds another person to a negative statement." },
+          { "pattern": "So + subject + auxiliary (confirmation)", "example": "Look, it's snowing! — So it is.", "note": "Confirms a fact that the speaker had not noticed." }
+        ],
+        "mistakes": [
+          { "wrong": "I can't drive. — Neither I can.", "right": "I can't drive. — Neither can I.", "why": "Neither/nor/so are followed by inversion: auxiliary + subject." },
+          { "wrong": "I loved the concert. — So loved I.", "right": "I loved the concert. — So did I.", "why": "Main verbs do not invert; use do-support." },
+          { "wrong": "I haven't finished. — Me too.", "right": "I haven't finished. — Me neither. / Neither have I.", "why": "A negative statement needs a negative response." },
+          { "wrong": "Have you signed the form? — Yes, I have signed.", "right": "Have you signed the form? — Yes, I have.", "why": "Short answers keep only the auxiliary." }
+        ],
+        "summary": "Use so/neither/nor + auxiliary + subject to add another person to a statement, matching the auxiliary and polarity. 'So I am' confirms rather than adds. Short answers, tags and echo questions repeat only the auxiliary, and situational ellipsis belongs to informal speech.",
+        "reviewCards": [
+          { "front": "I can't swim. — ___", "back": "Neither/Nor can I. (informal: Me neither.)" },
+          { "front": "So does Raka vs So Raka does", "back": "Inverted = adds a person; not inverted = confirms a fact." },
+          { "front": "Nobody called, ___?", "back": "did they — positive tag, 'they' for nobody." },
+          { "front": "'Sounds good.' — formal?", "back": "No: situational ellipsis is informal; write 'That sounds good.'" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u02-l2-q1",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "response ellipsis",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Choose the reply that agrees with the speaker.",
+          "instructions": "Check whether the statement is positive or negative, and which auxiliary it uses.",
+          "dialogue": [
+            { "speaker": "Mr. Hartley", "text": "I've never understood the appeal of reality television." },
+            { "speaker": "Lina", "text": null }
+          ],
+          "options": ["Neither have I.", "Neither I have.", "So have I.", "Neither did I."],
+          "answer": 0,
+          "explanation": "The statement is negative ('never') and uses the present perfect auxiliary 'have', so the agreeing reply is 'Neither have I'. 'Neither I have' lacks inversion, 'So have I' has the wrong polarity, and 'did' does not match the present perfect."
+        },
+        {
+          "id": "c2-u02-l2-q2",
+          "type": "matching",
+          "category": "conversation",
+          "topic": "response ellipsis",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Match each statement with the reply that agrees with it.",
+          "pairs": [
+            { "left": "I can't stand long meetings.", "right": "Nor can I." },
+            { "left": "Raka was late again this morning.", "right": "So was Lina." },
+            { "left": "I didn't get the email about the venue.", "right": "Neither did I." },
+            { "left": "I've already booked my ticket.", "right": "So have I." },
+            { "left": "I'd rather walk than take the bus.", "right": "So would I." }
+          ],
+          "explanation": "Each reply copies the auxiliary of the statement (can, was, did, have, would) and matches its polarity: negative statements take neither/nor, positive ones take so."
+        },
+        {
+          "id": "c2-u02-l2-q3",
+          "type": "multiple_select",
+          "category": "conversation",
+          "topic": "response ellipsis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Your colleague says, 'I really enjoyed the lecture.' Select ALL the replies that mean 'I enjoyed it too.'",
+          "options": ["So did I.", "Me too.", "Neither did I.", "So I did.", "I did too.", "Me neither."],
+          "answers": [0, 1, 4],
+          "explanation": "'So did I', 'Me too' and 'I did too' add the speaker to a positive statement. 'Neither did I' and 'Me neither' are for negative statements, and 'So I did' (no inversion) confirms a fact about oneself rather than agreeing with someone else."
+        },
+        {
+          "id": "c2-u02-l2-q4",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "response ellipsis",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the short answer with one word.",
+          "text": "A: You'll remember to lock the gate, won't you? B: Of course I ___.",
+          "answers": [["will"]],
+          "explanation": "Short answers repeat the auxiliary of the question or statement. 'You'll' = 'you will', so the answer is 'Of course I will'. A contraction ('I'll') cannot end the clause."
+        },
+        {
+          "id": "c2-u02-l2-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "question tags",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the correct question tag: 'Nobody phoned while I was out, ___?'",
+          "options": ["did they", "didn't they", "was it", "didn't it"],
+          "answer": 0,
+          "explanation": "'Nobody' makes the sentence negative, so the tag is positive; it refers back with 'they' and uses the past simple auxiliary 'did'."
+        },
+        {
+          "id": "c2-u02-l2-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "response ellipsis",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Combine the two sentences into one, using the cue.",
+          "sentence": "Lina has applied for the scholarship. Raka has applied for it too.",
+          "cue": "Use: and so",
+          "answers": [
+            "Lina has applied for the scholarship, and so has Raka."
+          ],
+          "explanation": "'And so + auxiliary + subject' adds Raka without repeating the verb phrase. The auxiliary 'has' matches the present perfect in the first clause."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u02-l3-so-not-substitution",
+      "title": "Substituting Clauses with So and Not",
+      "summary": "Replace whole clauses with so and not after verbs such as think, hope and be afraid, and use if so / if not in formal writing.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use so/not after think, believe, expect, suppose, hope and be afraid",
+        "Choose between 'I don't think so' and the formal 'I think not'",
+        "Use 'if so' and 'if not' to write concise formal instructions"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Substituting a whole clause\nAfter certain verbs and expressions, English replaces an entire *that*-clause with **so** (positive) or **not** (negative):\n\n- *Will the ferry run tomorrow? — I **think so**.* (= I think that it will run.)\n- *Is the museum open on Mondays? — I'm **afraid not**.* (= I'm afraid that it isn't open.)\n\n### Which verbs?\n| Expression | Positive | Negative |\n|---|---|---|\n| think, believe, expect, suppose, imagine | I think so. | I don't think so. (neutral) / I think not. (formal) |\n| hope | I hope so. | I hope not. (✗ I don't hope so) |\n| be afraid (= regret) | I'm afraid so. | I'm afraid not. |\n| guess (informal) | I guess so. | I guess not. |\n| appear, seem | It appears so. / So it seems. | It seems not. / It appears not. |\n| say, tell, hear | So I've heard. / He said so. | — |\n\n### Two negative patterns\nWith *think, believe, expect, suppose, imagine*, the usual negative puts *not* on the main verb: *I **don't think** so.* The form *I think not* exists but sounds formal, emphatic or even dismissive: *Will the minister resign? — **I think not**.* With *hope* and *be afraid*, only the *not* pattern is possible: ✗ *I don't hope so.* ✗ *I'm not afraid so.*\n\n### If so / if not\nIn formal writing, *if so* and *if not* replace a whole conditional clause:\n- *Please indicate whether you require accommodation and, **if so**, for how many nights.*\n- *Check whether the form has been signed. **If not**, return it to the sender.*\n\nThese are much more concise than *if you do require accommodation* or *if it has not been signed*.\n\n### So at the front\n*So* can also be fronted to refer back to information someone else has given: *The lecture has been cancelled. — **So I've heard** / **So I understand**.* The order is so + subject + verb, without inversion.\n\n### What cannot be substituted\n*So* is not normally used after *be sure, be certain* or *agree*: ✗ *I'm sure so* (say *I'm sure* or *I'm sure it will*); ✗ *I agree so* (say *I agree*). With *know*, simply say *I know* or *I don't know*. Never use *it* for this function: ✗ *I think it.* ✗ *I hope it.*\n\n### Tone\nShort *so / not* replies are economical but can sound cool or noncommittal. Adding a reason softens them: *I don't think so — the forecast is terrible.* In negotiations and meetings, *I'm afraid not* is the standard polite refusal, while *I think not* can sound superior unless used playfully.",
+        "examples": [
+          { "en": "Will the results be published today? — I believe so.", "id": "Apakah hasilnya akan diumumkan hari ini? — Saya kira begitu.", "note": "'So' replaces 'that they will be published today'." },
+          { "en": "Is there any chance of a refund? — I'm afraid not.", "id": "Apakah ada kemungkinan uang dikembalikan? — Sayangnya tidak.", "note": "Polite negative answer." },
+          { "en": "Applicants should state whether they hold a driving licence and, if so, give its number.", "id": "Pelamar harus menyatakan apakah mereka memiliki SIM dan, jika ya, mencantumkan nomornya.", "note": "'If so' replaces 'if they hold one'." },
+          { "en": "Will the board approve the merger? — I think not.", "id": "Apakah dewan akan menyetujui merger itu? — Saya kira tidak.", "note": "Formal and rather emphatic." },
+          { "en": "The festival has been postponed. — So I've heard.", "id": "Festivalnya ditunda. — Begitulah yang saya dengar.", "note": "Fronted 'so' referring to information already given." }
+        ],
+        "vocabulary": [
+          { "word": "tentative", "pos": "adjective", "ipa": "/ˈtentətɪv/", "meaning": "tentatif, belum pasti", "example": "Her tentative 'I suppose so' suggested real doubt." },
+          { "word": "presume", "pos": "verb", "ipa": "/prɪˈzjuːm/", "meaning": "menduga, menganggap", "example": "Is the hall booked? — I presume so." },
+          { "word": "dismissive", "pos": "adjective", "ipa": "/dɪsˈmɪsɪv/", "meaning": "meremehkan, menganggap tidak penting", "example": "His dismissive 'I think not' annoyed the committee." },
+          { "word": "noncommittal", "pos": "adjective", "ipa": "/ˌnɒnkəˈmɪtl/", "meaning": "tidak memberi jawaban atau sikap yang pasti", "example": "The spokesperson gave a noncommittal 'We'll see'." },
+          { "word": "emphatic", "pos": "adjective", "ipa": "/ɪmˈfætɪk/", "meaning": "tegas, penuh penekanan", "example": "Her answer was an emphatic 'Certainly not'." }
+        ],
+        "grammar": [
+          { "pattern": "think / believe / expect / suppose + so; don't + verb + so", "example": "I expect so. / I don't expect so.", "note": "'I think not' is a formal alternative." },
+          { "pattern": "hope / be afraid + so / not", "example": "Will it rain? — I hope not.", "note": "Never 'I don't hope so' or 'I'm not afraid so'." },
+          { "pattern": "if so / if not", "example": "Is the form complete? If not, please return it.", "note": "Concise formal substitute for a conditional clause." }
+        ],
+        "mistakes": [
+          { "wrong": "Will it rain tomorrow? — I don't hope so.", "right": "Will it rain tomorrow? — I hope not.", "why": "With 'hope', the negative is expressed by 'not' after the verb." },
+          { "wrong": "Is the shop open? — I think it.", "right": "Is the shop open? — I think so.", "why": "'So', not 'it', replaces a that-clause after think." },
+          { "wrong": "Will they win? — I'm sure so.", "right": "Will they win? — I'm sure they will.", "why": "'Be sure' does not take 'so' as a clause substitute." }
+        ],
+        "summary": "So and not replace a whole that-clause after verbs of thinking, hoping and regretting. Use 'I don't think so' as the neutral negative, but only 'I hope not' and 'I'm afraid not' with hope and be afraid. In formal writing, 'if so' and 'if not' make instructions concise.",
+        "reviewCards": [
+          { "front": "Negative of 'I hope so'", "back": "I hope not (never 'I don't hope so')." },
+          { "front": "I think not", "back": "Formal/emphatic version of 'I don't think so'; can sound dismissive." },
+          { "front": "... and, if so, for how many nights", "back": "'If so' replaces a whole conditional clause in formal writing." },
+          { "front": "So I've heard.", "back": "Fronted 'so' (no inversion) referring to news already given." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u02-l3-q1",
+          "type": "dropdown",
+          "category": "conversation",
+          "topic": "clause substitution",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Choose the word that completes the reply.",
+          "instructions": "The speaker regrets that the answer is 'yes'.",
+          "text": "A: Will the ferry be cancelled? B: I'm afraid ___. The storm is getting worse.",
+          "choices": [["so", "it", "yes"]],
+          "answers": [0],
+          "explanation": "'I'm afraid so' replaces 'I'm afraid that it will be cancelled'. 'It' cannot substitute for a clause here, and 'yes' is not used after 'I'm afraid'."
+        },
+        {
+          "id": "c2-u02-l3-q2",
+          "type": "short_answer",
+          "category": "conversation",
+          "topic": "clause substitution",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "A colleague asks, 'Do you think it will rain during the outdoor ceremony?' You do not want it to rain. Reply in exactly three words, using clause substitution.",
+          "answers": ["I hope not"],
+          "explanation": "With 'hope', a negative wish is expressed as 'I hope not' (= I hope that it won't rain). 'I don't hope so' is not standard English."
+        },
+        {
+          "id": "c2-u02-l3-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "clause substitution",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["A: Is Raka joining us tonight?", "B: I don't hope so;", "he has been rude", "to everyone all week."],
+          "errorIndex": 1,
+          "correction": "B: I hope not;",
+          "explanation": "'Hope' does not form its negative with 'don't ... so'. The correct substitute is 'I hope not'."
+        },
+        {
+          "id": "c2-u02-l3-q4",
+          "type": "fill_blank",
+          "category": "writing",
+          "topic": "clause substitution",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the formal instruction with one word.",
+          "text": "Applicants should state whether they require accommodation and, if ___, for how many nights.",
+          "answers": [["so"]],
+          "explanation": "'If so' replaces 'if they require accommodation', avoiding repetition in formal writing."
+        },
+        {
+          "id": "c2-u02-l3-q5",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "clause substitution",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the most appropriate reply from the receptionist.",
+          "dialogue": [
+            { "speaker": "Guest", "text": "Is the conference room wheelchair accessible?" },
+            { "speaker": "Receptionist", "text": null }
+          ],
+          "options": [
+            "I believe so, but I'll check with the manager.",
+            "I believe it, but I'll check with the manager.",
+            "I believe not so, but I'll check with the manager.",
+            "I believe yes, but I'll check with the manager."
+          ],
+          "answer": 0,
+          "explanation": "'I believe so' replaces 'I believe that it is accessible'. 'It' and 'yes' cannot substitute for the clause, and 'not so' is not a valid negative after 'believe' (use 'I don't believe so' or 'I believe not')."
+        },
+        {
+          "id": "c2-u02-l3-q6",
+          "type": "single_choice",
+          "category": "conversation",
+          "topic": "clause substitution",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "A journalist asks, 'Will the minister resign?' The spokesperson replies, 'I think not.' Which statement best describes the reply?",
+          "options": [
+            "It is a formal, rather emphatic way of saying 'I don't think so'.",
+            "It means 'I have not thought about it yet'.",
+            "It is ungrammatical and should be 'I don't think it'.",
+            "It means 'I think so, but I'm not certain'."
+          ],
+          "answer": 0,
+          "explanation": "'I think not' is a grammatical, formal alternative to 'I don't think so', often sounding firm or dismissive. It does not mean 'I haven't considered it', and it expresses a negative, not a positive, expectation."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u02-l4-do-so-one",
+      "title": "Do So, Do It and One(s)",
+      "summary": "Substitute verb phrases with do so, do it, do that and do too, and nouns with one and ones, respecting their grammatical restrictions.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use do so in formal writing to replace an intentional action",
+        "Avoid do so and do it with stative verbs",
+        "Use one/ones only for countable nouns and avoid it with uncountables and bare possessives"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Substituting a verb phrase: do so, do it, do that\nBesides simple ellipsis (*She said she would, and she **did***), English can replace a verb phrase with a substitute form.\n\n| Form | Register | Example | Notes |\n|---|---|---|---|\n| **do so** | formal | *Applicants wishing to withdraw must **do so** in writing.* | Replaces an action; common in rules, reports and academic prose |\n| **do it** | neutral/informal | *I need to fix the gate — I'll **do it** tomorrow.* | Refers to a specific, deliberate action |\n| **do that** | neutral | *Please don't lean on the glass. Don't **do that**.* | Demonstrative, more emphatic or contrastive |\n| **do too / do as well** | neutral | *Lina owns a flat, and Raka **does too**.* | Simple addition; works with any verb |\n\n### Restrictions on do so and do it\n*Do so* and *do it* replace **dynamic, intentional actions**. They sound wrong with **stative** verbs such as *know, own, believe, resemble, contain*:\n- ✗ *Lina owns a flat in Port Elvan, and Raka **does so** too.*\n- ✓ *Lina owns a flat in Port Elvan, and Raka **does** too.*\n\n*Do so* sounds stiff in casual speech; there, use plain ellipsis or *do it*. In formal writing it is very useful, especially with a new subject, time or manner: *The delegates were invited to comment, and several **did so** at length.*\n\n### Substituting a noun: one and ones\n*One* (singular) and *ones* (plural) replace a **countable** noun that has already been mentioned, usually after an adjective, *the, this/that, which* or *every*:\n- *I prefer the red scarf to the blue **one**.*\n- *These boots are too tight. Have you got any bigger **ones**?*\n- *Which proposal did they choose? — **The one** from Westmere University.*\n\n### Restrictions on one(s)\n1. **Not with uncountable nouns.** ✗ *I prefer white rice to brown one* → *... to brown* / *... to brown rice*. ✗ *She gave me advice, a useful one* → *some useful advice*.\n2. **Not directly after a possessive** in careful English: *Your laptop is faster than **mine*** (not *my one*). With an adjective it is fine: *my old one*.\n3. **Not 'a one' without an adjective.** ✗ *I need a pen — have you got a one?* → *Have you got **one**?*\n4. **Not after a number alone.** ✗ *I ordered three ones* → *I ordered **three***; but *three large ones* is fine.\n5. In formal writing, prefer *these* or *those* on their own to *these ones / those ones*.\n\n### Choosing the right substitute\nAsk two questions:\n1. Is the repeated element a **noun** (→ *one/ones*, or simple ellipsis) or a **verb phrase** (→ auxiliary ellipsis, *do so*, *do it*, *do too*)?\n2. Is the verb **dynamic** (any form possible) or **stative** (→ only plain *do/does/did*, often with *too* or *so* + inversion)?\n\n| Repeated element | Formal | Neutral/informal |\n|---|---|---|\n| intentional action | did so | did it / did |\n| state (own, know) | did / so did ... | did too |\n| countable noun | the one(s) | the one(s) |\n| uncountable noun | ellipsis (*brown*) | ellipsis |",
+        "examples": [
+          { "en": "Candidates who wish to appeal must do so within fourteen days.", "id": "Kandidat yang ingin mengajukan banding harus melakukannya dalam waktu empat belas hari.", "note": "Formal 'do so' replacing 'appeal'." },
+          { "en": "I keep meaning to call the bank, and I'll do it after lunch.", "id": "Saya terus berniat menelepon bank, dan saya akan melakukannya setelah makan siang.", "note": "'Do it' for a specific, planned action." },
+          { "en": "Of the two proposals, the committee preferred the one from Westmere University.", "id": "Dari dua usulan itu, komite lebih menyukai usulan dari Universitas Westmere.", "note": "'The one' + post-modifier." },
+          { "en": "These samples are contaminated; please send us fresh ones.", "id": "Sampel-sampel ini terkontaminasi; tolong kirimkan sampel yang baru.", "note": "Plural 'ones' after an adjective." },
+          { "en": "Lina believes the report is accurate, and Raka does too.", "id": "Lina yakin laporan itu akurat, dan Raka juga.", "note": "Stative verb → 'does too', not 'does so'." }
+        ],
+        "vocabulary": [
+          { "word": "withdraw", "pos": "verb", "ipa": "/wɪðˈdrɔː/", "meaning": "menarik diri, mengundurkan diri", "example": "Students may withdraw from the course, but they must do so before week four." },
+          { "word": "stipulate", "pos": "verb", "ipa": "/ˈstɪpjuleɪt/", "meaning": "menetapkan (sebagai syarat)", "example": "The contract stipulates that payment must be made in advance." },
+          { "word": "proceed", "pos": "verb", "ipa": "/prəˈsiːd/", "meaning": "melanjutkan", "example": "If you wish to proceed, please do so with caution." },
+          { "word": "endorse", "pos": "verb", "ipa": "/ɪnˈdɔːs/", "meaning": "mendukung secara resmi", "example": "The union endorsed the plan, and the council did so too." },
+          { "word": "refrain", "pos": "verb", "ipa": "/rɪˈfreɪn/", "meaning": "menahan diri (dari melakukan sesuatu)", "example": "Please refrain from using your phone during the performance." },
+          { "word": "appeal", "pos": "verb", "ipa": "/əˈpiːl/", "meaning": "mengajukan banding", "example": "She decided to appeal against the decision." }
+        ],
+        "grammar": [
+          { "pattern": "subject + do so (formal substitute for an action)", "example": "The delegates were invited to comment, and several did so at length.", "note": "Only with dynamic, intentional verbs." },
+          { "pattern": "adjective / the / which + one / ones (countable nouns)", "example": "Which seats would you like? — The ones near the stage.", "note": "Not used for uncountable nouns." },
+          { "pattern": "stative verb → do/does/did (+ too)", "example": "Raka resembles his father, and so does his brother.", "note": "Avoid 'do so' and 'do it' with states." }
+        ],
+        "mistakes": [
+          { "wrong": "I prefer white rice to brown one.", "right": "I prefer white rice to brown.", "why": "'Rice' is uncountable, so it cannot be replaced by 'one'." },
+          { "wrong": "Lina knows the answer, and Raka does so too.", "right": "Lina knows the answer, and Raka does too.", "why": "'Do so' replaces intentional actions, not states such as 'know'." },
+          { "wrong": "I need an umbrella. Have you got a one?", "right": "I need an umbrella. Have you got one?", "why": "'A one' is only possible with an adjective (a big one)." }
+        ],
+        "summary": "Use 'do so' for intentional actions in formal writing, 'do it/that' for specific actions in neutral speech, and plain do/does/did (+ too) with stative verbs. Replace countable nouns with one/ones, but use ellipsis for uncountable nouns and a possessive pronoun instead of 'my one'.",
+        "reviewCards": [
+          { "front": "Applicants who wish to withdraw must ___ in writing.", "back": "do so — formal substitute for an action." },
+          { "front": "Lina owns a car, and Raka ___ too.", "back": "does — stative verbs don't take 'do so'." },
+          { "front": "white rice / brown one?", "back": "No: uncountable → 'brown' or 'brown rice'." },
+          { "front": "Have you got a one?", "back": "No: 'Have you got one?' ('a one' needs an adjective)." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u02-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "substitution with one",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sentence uses 'one' correctly?",
+          "instructions": "'One' can only replace a countable noun.",
+          "options": [
+            "Of the two proposals, I prefer the one from the regional office.",
+            "I needed some advice, and Raka gave me a useful one.",
+            "This new furniture is far nicer than the old one.",
+            "She wanted a new bicycle, so she bought a one yesterday."
+          ],
+          "answer": 0,
+          "explanation": "'Proposal' is countable, so 'the one from the regional office' is correct. 'Advice' and 'furniture' are uncountable and cannot be replaced by 'one', and 'a one' needs an adjective (a red one)."
+        },
+        {
+          "id": "c2-u02-l4-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "substitution with one",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete the sentence with one word that avoids repeating the noun.",
+          "text": "Two of the projectors in the lecture hall were faulty, so the technicians replaced the broken ___ within a week.",
+          "answers": [["ones"]],
+          "explanation": "'Projectors' is a plural countable noun, so after the adjective 'broken' it is replaced by 'ones'."
+        },
+        {
+          "id": "c2-u02-l4-q3",
+          "type": "drag_drop",
+          "category": "writing",
+          "topic": "do so",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Drag the correct substitute into the gap.",
+          "text": "Members who wish to vote by post may ___, provided they register before 1 March.",
+          "bank": ["do so", "so do", "make so", "do such"],
+          "answers": ["do so"],
+          "explanation": "'Do so' is the formal substitute for 'vote by post'. 'So do' is an addition structure (So do I), and 'make so' and 'do such' are not English substitutes."
+        },
+        {
+          "id": "c2-u02-l4-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "substitution with one",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["The village shop", "stocks fresh milk", "as well as", "a long-life one."],
+          "errorIndex": 3,
+          "correction": "long-life milk.",
+          "explanation": "'Milk' is uncountable, so it cannot be replaced by 'one'. Repeat the noun or rephrase: ... fresh milk as well as long-life milk."
+        },
+        {
+          "id": "c2-u02-l4-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "do so",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Which sentence is grammatically acceptable?",
+          "options": [
+            "Mr. Hartley resembles his grandfather, and his son does too.",
+            "Mr. Hartley resembles his grandfather, and his son does so too.",
+            "Mr. Hartley resembles his grandfather, and his son does it too.",
+            "Mr. Hartley resembles his grandfather, and his son so does."
+          ],
+          "answer": 0,
+          "explanation": "'Resemble' is a stative verb, so it cannot be replaced by 'do so' or 'do it', which require intentional actions. Plain 'does too' is correct. 'His son so does' has the wrong word order (it should be 'so does his son')."
+        },
+        {
+          "id": "c2-u02-l4-q6",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "do so",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence to avoid repetition.",
+          "sentence": "The tenants were asked to vacate the building by noon, and most of them vacated the building without complaint.",
+          "cue": "Replace the repeated verb phrase with 'did so'.",
+          "answers": [
+            "The tenants were asked to vacate the building by noon, and most of them did so without complaint.",
+            "The tenants were asked to vacate the building by noon, and most did so without complaint."
+          ],
+          "explanation": "'Did so' replaces the intentional action 'vacated the building', which is appropriate in formal writing."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u02-l5-formal-economy",
+      "title": "Economy in Formal Writing",
+      "summary": "Avoid repetition in formal writing with gapping, conjunction reduction, respectively, likewise, the same and such.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Use gapping and conjunction reduction with parallel structures",
+        "Link ordered lists with 'respectively'",
+        "Use likewise, do the same and such to refer back concisely without creating ambiguity"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Economy in formal writing\nFormal and academic writing values concision. Instead of repeating verbs, nouns or whole clauses, skilled writers use a set of reduction devices. Each device must leave the meaning completely clear.\n\n### 1. Gapping\nIn coordinated clauses with parallel structure, the repeated **verb** (and sometimes other material) can be left out of the second clause. A comma often marks the gap:\n- *Lina chose economics, and Raka, law.* (= and Raka chose law)\n- *Exports fell by 4%; imports, by 2%.*\n\nGapping works only when the clauses are parallel and the omitted verb is identical in form: ✗ *Lina has chosen economics, and Raka, studying law.*\n\n### 2. Conjunction reduction\nWhen two clauses share a subject or auxiliary, the shared element is stated only once, but the remaining parts must be **grammatically parallel**:\n- ✓ *The scheme was welcomed by staff and criticised by unions.* (was + participle, [was] + participle)\n- ✗ *The scheme was welcomed by staff and criticising by unions.*\n\n### 3. Respectively\n*Respectively* links two lists **in order**, replacing two separate sentences:\n- *The first and second sites produced 400 and 250 units **respectively**.*\n- *Dr. Amara and Professor Lund were appointed dean and vice-dean, **respectively**.*\n\nThe lists must match in number and order, and *respectively* normally comes at the end of the clause. It cannot be used with a single item.\n\n### 4. Likewise, the same and such\n| Device | Use | Example |\n|---|---|---|\n| *likewise* | the same applies to something else | *Staff must wear badges. **Likewise**, visitors must sign in.* |\n| *do the same* | repeat an action with a new subject | *The north campus banned cars, and the south campus **did the same**.* |\n| *such* + noun | refers back to a type already described | *Exemptions may be granted in exceptional cases. **Such** cases must be documented.* |\n\n### 5. Comparative ellipsis\nAfter *than* and *as*, repeated material is omitted: *Costs were higher in 2024 **than in 2023**.* *The northern route is as long as **the southern**.*\n\n### Clarity first\nEconomy must never create ambiguity. *Raka visited Lina more often than his parents* could mean *than he visited his parents* or *than his parents visited her*. In such cases, add an auxiliary or a pronoun: *... than his parents **did*** or *... than he visited his parents*.\n\n### Revision checklist\n1. Is anything repeated that the reader could easily recover?\n2. Are coordinated parts parallel in form?\n3. Do lists linked by *respectively* match in number and order?\n4. Could any reduced sentence be read in two ways?",
+        "examples": [
+          { "en": "Lina chose economics, and Raka, law.", "id": "Lina memilih ekonomi, dan Raka, hukum.", "note": "Gapping: the second 'chose' is omitted; the comma marks the gap." },
+          { "en": "The first and second phases cost 2 million and 3.5 million respectively.", "id": "Tahap pertama dan kedua masing-masing menelan biaya 2 juta dan 3,5 juta.", "note": "'Respectively' pairs the two lists in order." },
+          { "en": "The north campus banned private cars, and the south campus did the same.", "id": "Kampus utara melarang mobil pribadi, dan kampus selatan melakukan hal yang sama.", "note": "'Did the same' avoids repeating the verb phrase." },
+          { "en": "Exemptions may be granted in exceptional circumstances; such circumstances must be documented.", "id": "Pengecualian dapat diberikan dalam keadaan luar biasa; keadaan semacam itu harus didokumentasikan.", "note": "'Such' refers back to a type already described." },
+          { "en": "Raka visited Lina more often than his parents did.", "id": "Raka lebih sering mengunjungi Lina daripada orang tuanya mengunjungi Lina.", "note": "The auxiliary 'did' removes the ambiguity." }
+        ],
+        "vocabulary": [
+          { "word": "respectively", "pos": "adverb", "ipa": "/rɪˈspektɪvli/", "meaning": "masing-masing (sesuai urutan yang disebut)", "example": "The two branches reported profits of 5% and 8% respectively." },
+          { "word": "likewise", "pos": "adverb", "ipa": "/ˈlaɪkwaɪz/", "meaning": "demikian pula", "example": "Employees must complete the training; likewise, contractors must attend a briefing." },
+          { "word": "concise", "pos": "adjective", "ipa": "/kənˈsaɪs/", "meaning": "ringkas", "example": "Keep the abstract concise." },
+          { "word": "verbose", "pos": "adjective", "ipa": "/vɜːˈbəʊs/", "meaning": "bertele-tele, terlalu banyak kata", "example": "The first draft was verbose and repetitive." },
+          { "word": "succinct", "pos": "adjective", "ipa": "/səkˈsɪŋkt/", "meaning": "ringkas dan padat", "example": "Her summary was succinct yet complete." },
+          { "word": "aforementioned", "pos": "adjective", "ipa": "/əˈfɔːmenʃənd/", "meaning": "yang disebutkan sebelumnya", "example": "The aforementioned changes take effect in May." }
+        ],
+        "grammar": [
+          { "pattern": "Subject 1 + verb + X, and subject 2, Y (gapping)", "example": "Revenue rose by 5%, and costs, by 3%.", "note": "Only when the omitted verb is identical in form." },
+          { "pattern": "A and B + verb + X and Y + respectively", "example": "Tama and Sari scored 81 and 76 respectively.", "note": "Lists must match in number and order." },
+          { "pattern": "... and + subject + did the same / Likewise, ... / Such + noun", "example": "The council approved the plan, and the mayor did the same.", "note": "Refer back concisely without repeating the clause." }
+        ],
+        "mistakes": [
+          { "wrong": "Lina has chosen economics, and Raka, studying law.", "right": "Lina has chosen economics, and Raka, law.", "why": "Gapping requires parallel structures; the omitted verb must be the same as in the first clause." },
+          { "wrong": "Tama scored 81 respectively.", "right": "Tama and Sari scored 81 and 76 respectively.", "why": "'Respectively' needs two matching lists." },
+          { "wrong": "Raka visited Lina more often than his parents.", "right": "Raka visited Lina more often than his parents did.", "why": "Without 'did' the sentence is ambiguous; economy must not sacrifice clarity." }
+        ],
+        "summary": "Formal economy relies on gapping, conjunction reduction, respectively, likewise, do the same and such. All of them require parallel structures or matching lists, and none should create ambiguity; when in doubt, keep the auxiliary.",
+        "reviewCards": [
+          { "front": "Lina chose economics, and Raka, law.", "back": "Gapping: the repeated verb is omitted; a comma marks the gap." },
+          { "front": "respectively", "back": "Pairs two lists in order: A and B ... X and Y respectively." },
+          { "front": "welcomed by staff and criticising by unions?", "back": "No — keep parallel forms: welcomed ... and criticised ..." },
+          { "front": "Main risk of ellipsis in formal writing", "back": "Ambiguity — add an auxiliary (did) when two readings are possible." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u02-l5-q1",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "gapping",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sentence uses gapping correctly?",
+          "instructions": "In gapping, only the repeated verb disappears; the rest of the second clause stays parallel.",
+          "options": [
+            "Sari ordered the soup, and Tama, the risotto.",
+            "Sari ordered the soup, and Tama ordered, the risotto.",
+            "Sari the soup ordered, and Tama the risotto.",
+            "Sari ordered the soup, and Tama did the risotto it."
+          ],
+          "answer": 0,
+          "explanation": "Gapping omits the repeated verb 'ordered' in the second clause, and a comma marks the gap. Option B keeps the verb but adds a meaningless comma, C distorts word order, and D is ungrammatical."
+        },
+        {
+          "id": "c2-u02-l5-q2",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "respectively",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Combine the information into one concise sentence.",
+          "sentence": "The first site produced 400 units, and the second site produced 250 units.",
+          "cue": "Use: respectively",
+          "answers": [
+            "The first and second sites produced 400 and 250 units respectively.",
+            "The first and second sites produced 400 units and 250 units respectively.",
+            "The first and the second site produced 400 and 250 units respectively.",
+            "The first and the second sites produced 400 and 250 units respectively.",
+            "The first and second sites produced 400 and 250 units, respectively."
+          ],
+          "explanation": "'Respectively' pairs the two subjects with the two figures in order, so the verb 'produced' appears only once."
+        },
+        {
+          "id": "c2-u02-l5-q3",
+          "type": "error_identification",
+          "category": "writing",
+          "topic": "conjunction reduction",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains an error.",
+          "segments": ["The proposal", "was praised by investors,", "questioned by analysts", "and rejecting", "by the regulator."],
+          "errorIndex": 3,
+          "correction": "and rejected",
+          "explanation": "The shared auxiliary 'was' governs all three participles, so they must be parallel past participles: praised, questioned and rejected."
+        },
+        {
+          "id": "c2-u02-l5-q4",
+          "type": "fill_blank",
+          "category": "writing",
+          "topic": "gapping",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the gapped clause with one word.",
+          "text": "Last year the eastern branch grew by 12%; the western branch, ___ 8%.",
+          "answers": [["by"]],
+          "explanation": "The verb 'grew' is gapped, but the preposition must remain parallel to the first clause: grew by 12% ... (grew) by 8%."
+        },
+        {
+          "id": "c2-u02-l5-q5",
+          "type": "matching",
+          "category": "writing",
+          "topic": "formal economy",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Match each device with the sentence that illustrates it.",
+          "pairs": [
+            { "left": "Gapping", "right": "The engineers proposed a tunnel, and the planners, a bridge." },
+            { "left": "Respectively", "right": "Tama and Sari scored 81 and 76 respectively." },
+            { "left": "Likewise", "right": "Drivers must carry their licence. Likewise, cyclists must wear a helmet." },
+            { "left": "Do the same", "right": "The Senate rejected the bill, and the Assembly did the same." },
+            { "left": "Such + noun", "right": "Such requests are rarely granted." }
+          ],
+          "explanation": "Gapping omits a repeated verb; 'respectively' pairs two lists; 'likewise' extends a rule to a new group; 'did the same' replaces a repeated action; 'such' + noun refers back to a type already mentioned."
+        },
+        {
+          "id": "c2-u02-l5-q6",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "respectively",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the fragments in order to form a concise formal sentence.",
+          "fragments": ["The interim and final reports", "were submitted", "in March and September", "respectively."],
+          "acceptedAnswers": ["The interim and final reports were submitted respectively in March and September."],
+          "explanation": "The two subjects (interim, final) are paired in order with the two months (March, September); 'respectively' normally closes the clause."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u02-t-q1",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "ellipsis",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the correct reply.",
+      "dialogue": [
+        { "speaker": "Raka", "text": "Have you ever met the new director?" },
+        { "speaker": "Lina", "text": null }
+      ],
+      "options": ["No, but I'd like to.", "No, but I'd like.", "No, but I'd like it.", "No, but I'd like so."],
+      "answer": 0,
+      "explanation": "When the infinitive phrase after 'would like' is omitted, 'to' must remain: I'd like to (meet him/her). The other options drop 'to' or use an invalid substitute."
+    },
+    {
+      "id": "c2-u02-t-q2",
+      "type": "fill_blank",
+      "category": "conversation",
+      "topic": "clause substitution",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete the reply with one word.",
+      "text": "A: Will the shipment arrive before the deadline? B: I'm afraid ___. The supplier has warned us of a two-week delay.",
+      "answers": [["not"]],
+      "explanation": "The speaker regrets a negative answer, so 'I'm afraid not' (= I'm afraid that it won't arrive) is required. 'I'm not afraid so' is not English."
+    },
+    {
+      "id": "c2-u02-t-q3",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "ellipsis and substitution",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Select ALL the sentences that use ellipsis or substitution correctly.",
+      "options": [
+        "She said she'd call, and she did.",
+        "I don't like horror films, and neither does my brother.",
+        "He can swim, and so does his sister.",
+        "I prefer hot weather to a cold one.",
+        "Do you need a parking permit? If so, please let us know by Friday."
+      ],
+      "answers": [0, 1, 4],
+      "explanation": "Options A, B and E are correct. In C the auxiliary must match the modal (so can his sister). In D 'weather' is uncountable and cannot be replaced by 'one' (use 'to cold weather')."
+    },
+    {
+      "id": "c2-u02-t-q4",
+      "type": "sentence_transformation",
+      "category": "writing",
+      "topic": "gapping",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that the second clause uses gapping.",
+      "sentence": "Lina got a distinction in statistics, and Raka got a distinction in law.",
+      "cue": "Omit the repeated words in the second clause.",
+      "answers": [
+        "Lina got a distinction in statistics, and Raka in law.",
+        "Lina got a distinction in statistics, and Raka, in law.",
+        "Lina got a distinction in statistics, and Raka one in law."
+      ],
+      "explanation": "Because the verb and object are identical, they can be omitted in the second clause, leaving only the contrasting elements: and Raka (got a distinction) in law."
+    },
+    {
+      "id": "c2-u02-t-q5",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "response ellipsis",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the segment that contains an error.",
+      "segments": ["Raka", "isn't coming", "to the dinner,", "and neither", "does Lina."],
+      "errorIndex": 4,
+      "correction": "is Lina.",
+      "explanation": "The first clause uses the auxiliary 'is' (present continuous), so the addition must copy it: and neither is Lina."
+    },
+    {
+      "id": "c2-u02-t-q6",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "ellipsis",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Translate into English, using ellipsis in the second clause.",
+      "source": "Dia bilang dia akan datang, tetapi dia tidak datang.",
+      "direction": "id-en",
+      "answers": [
+        "She said she would come, but she didn't.",
+        "She said she would come, but she did not.",
+        "She said she'd come, but she didn't.",
+        "She said she'd come, but she did not.",
+        "He said he would come, but he didn't.",
+        "He said he would come, but he did not.",
+        "He said he'd come, but he didn't.",
+        "He said he'd come, but he did not.",
+        "She said she would come, but she never did.",
+        "He said he would come, but he never did."
+      ],
+      "explanation": "The second clause replaces 'didn't come' with the auxiliary alone: but she didn't. Indonesian 'dia' can be translated as 'he' or 'she'."
+    }
+  ]
+}

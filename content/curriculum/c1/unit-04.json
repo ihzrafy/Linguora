@@ -1,0 +1,537 @@
+{
+  "slug": "c1-u04-participle-clauses",
+  "number": 4,
+  "title": "Concise Sentences",
+  "description": "Write concise, sophisticated sentences with present, past and perfect participle clauses. Learn to avoid dangling participles, use conjunctions and negatives with participles, and apply these structures in narratives, process descriptions and reports.",
+  "objectives": [
+    "Use present participle clauses for simultaneous actions, reasons and results",
+    "Use past participle clauses with passive meaning and reduced relative clauses",
+    "Use perfect participle clauses (Having done / Having been done) for sequence and reason",
+    "Avoid dangling participles and use absolute clauses and fixed participial expressions"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u04-l1-present-participle",
+      "title": "Walking Along the Beach ...: Present Participle Clauses",
+      "summary": "Use -ing clauses to replace adverbial and relative clauses, showing simultaneous actions, reasons and results concisely.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Replace adverbial clauses (when, as, because) with -ing clauses",
+        "Use -ing clauses after the main clause to show a result",
+        "Reduce active relative clauses (who is standing → standing)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is a participle clause?\nA **participle clause** is a clause that begins with a participle (*walking, built, having finished*) instead of a subject and a finite verb. It allows us to pack more information into a sentence without repeating the subject or using conjunctions. Participle clauses are typical of written English: novels, reports, journalism and academic texts.\n\n### Present participle (-ing) clauses: active meaning\nThe -ing form has an **active** meaning: the subject of the main clause **does** the action.\n\n| Function | Full clause | Participle clause |\n|---|---|---|\n| simultaneous action | While she was walking along the beach, Lina found a bottle. | **Walking** along the beach, Lina found a bottle. |\n| reason | Because he felt tired, Rudi left early. | **Feeling** tired, Rudi left early. |\n| result | The river burst its banks, and this flooded hundreds of homes. | The river burst its banks, **flooding** hundreds of homes. |\n| reduced relative | The woman who is sitting by the window is our director. | The woman **sitting** by the window is our director. |\n\n### The subject rule\nThe participle clause normally has the **same subject** as the main clause. In 'Walking along the beach, Lina found a bottle', it is Lina who is walking. If the subjects differ, the sentence becomes confusing or comic (this is called a *dangling participle*, covered in Lesson 4).\n\n### Result clauses\nA participle clause **after** the main clause often expresses a result or consequence: 'Prices rose sharply, **causing** widespread protests.' Here *causing* refers to the whole event in the main clause. Typical verbs: *causing, leading to, resulting in, making, leaving, forcing*.\n\n### Reduced relative clauses\nIn a defining relative clause with an active verb, we can drop *who/which/that* + *be* (or change the verb to -ing):\n- 'Passengers **who travel** to Bali must ...' → 'Passengers **travelling** to Bali must ...'\n- 'A report **that contains** 200 pages ...' → 'A report **containing** 200 pages ...'\n\nNote that this works for continuous and simple meanings, but not for single completed past actions: 'The man **who broke** the window' cannot become '*the man breaking the window*' if you mean a past, completed event.\n\n### Punctuation\nWhen a participle clause comes **before** the main clause, use a comma after it. When it follows the main clause to show a result, a comma usually separates it. Reduced relative clauses (defining) take no commas.\n\n### Indonesian note\nIndonesian often uses *sambil*, *karena* or *sehingga*: *Sambil berjalan di pantai, Lina menemukan botol* → 'Walking along the beach, Lina found a bottle.' English drops the conjunction and the subject, which makes the sentence shorter and more formal.",
+        "examples": [
+          { "en": "Walking along the beach, Lina found an old glass bottle.", "id": "Sambil berjalan di sepanjang pantai, Lina menemukan sebuah botol kaca tua.", "note": "Simultaneous action." },
+          { "en": "Feeling exhausted, Dewi went to bed before nine.", "id": "Karena merasa sangat lelah, Dewi tidur sebelum jam sembilan.", "note": "Reason." },
+          { "en": "The river burst its banks, flooding hundreds of homes.", "id": "Sungai itu meluap, sehingga membanjiri ratusan rumah.", "note": "Result after the main clause." },
+          { "en": "Passengers travelling to Bali should go to Gate 7.", "id": "Penumpang yang bepergian ke Bali harap menuju Gerbang 7.", "note": "Reduced relative clause." }
+        ],
+        "vocabulary": [
+          { "word": "burst its banks", "pos": "phrase", "ipa": "/bɜːst ɪts bæŋks/", "meaning": "meluap (sungai)", "example": "After days of rain, the river burst its banks." },
+          { "word": "trigger", "pos": "verb", "ipa": "/ˈtrɪɡə(r)/", "meaning": "memicu", "example": "The announcement triggered protests, leading to several arrests." },
+          { "word": "glance", "pos": "verb", "ipa": "/ɡlɑːns/", "meaning": "melirik, melihat sekilas", "example": "Glancing at her watch, she realised she was late." },
+          { "word": "widespread", "pos": "adjective", "ipa": "/ˈwaɪdspred/", "meaning": "meluas, tersebar luas", "example": "The decision caused widespread anger." },
+          { "word": "stranded", "pos": "adjective", "ipa": "/ˈstrændɪd/", "meaning": "terdampar, terjebak (tidak bisa pergi)", "example": "The storm closed the airport, leaving thousands of passengers stranded." }
+        ],
+        "grammar": [
+          { "pattern": "-ing clause, + main clause", "example": "Hearing the alarm, the staff left the building.", "note": "Same subject; time or reason." },
+          { "pattern": "Main clause, + -ing clause (result)", "example": "The company cut prices, attracting thousands of new customers.", "note": "The -ing clause shows a consequence." },
+          { "pattern": "Noun + -ing phrase (reduced relative)", "example": "Students wishing to apply must register online.", "note": "= Students who wish to apply ..." }
+        ],
+        "mistakes": [
+          { "wrong": "Prices rose sharply, caused widespread protests.", "right": "Prices rose sharply, causing widespread protests.", "why": "A result clause with active meaning needs the -ing form." },
+          { "wrong": "Walking along the beach, a bottle was found by Lina.", "right": "Walking along the beach, Lina found a bottle.", "why": "The subject of the main clause must be the person doing the -ing action." },
+          { "wrong": "The man breaking the window yesterday was arrested.", "right": "The man who broke the window yesterday was arrested.", "why": "A single completed past action cannot be reduced to an -ing relative clause." }
+        ],
+        "summary": "Present participle (-ing) clauses have active meaning and can replace clauses of time, reason and result, or active relative clauses. Keep the same subject in both clauses, put a comma after an introductory participle clause, and use -ing after the main clause to show a result.",
+        "reviewCards": [
+          { "front": "Because she felt tired, she left. (participle)", "back": "Feeling tired, she left." },
+          { "front": "Result clause: The storm hit the coast, ___ (leave) thousands homeless.", "back": "leaving" },
+          { "front": "People who live near the airport ... (reduce)", "back": "People living near the airport ..." },
+          { "front": "stranded", "back": "terdampar, terjebak" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u04-l1-q1", "type": "single_choice", "category": "grammar", "topic": "present participle clauses", "difficulty": 3, "stage": "guided",
+          "prompt": "Which sentence uses a present participle clause correctly?",
+          "options": ["Walking along the beach, Lina found an old bottle.", "Walked along the beach, Lina found an old bottle.", "Walking along the beach, an old bottle was found by Lina.", "Lina walking along the beach, she found an old bottle."],
+          "answer": 0,
+          "explanation": "The -ing clause has active meaning and shares its subject with the main clause (Lina was walking). Option 3 makes 'an old bottle' the subject, which is illogical."
+        },
+        {
+          "id": "c1-u04-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "present participle clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using a participle clause.",
+          "sentence": "Because she felt exhausted, Dewi went to bed early.",
+          "cue": "Begin with: Feeling",
+          "answers": ["Feeling exhausted, Dewi went to bed early."],
+          "explanation": "The reason clause 'Because she felt exhausted' becomes the participle clause 'Feeling exhausted'; the subject is the same (Dewi)."
+        },
+        {
+          "id": "c1-u04-l1-q3", "type": "fill_blank", "category": "grammar", "topic": "present participle clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence with the correct participle form of the verb in brackets.",
+          "text": "After three days of heavy rain, the river burst its banks, ___ (flood) hundreds of homes.",
+          "answers": [["flooding"]],
+          "explanation": "A participle clause after the main clause expressing a result uses the -ing form: 'flooding hundreds of homes'."
+        },
+        {
+          "id": "c1-u04-l1-q4", "type": "sentence_transformation", "category": "grammar", "topic": "reduced relative clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Shorten the sentence by replacing the relative clause with a participle phrase.",
+          "sentence": "The woman who is sitting by the window is our new director.",
+          "cue": "Begin with: The woman",
+          "answers": ["The woman sitting by the window is our new director."],
+          "explanation": "Drop 'who is' and keep the -ing form: 'The woman sitting by the window ...'."
+        },
+        {
+          "id": "c1-u04-l1-q5", "type": "error_identification", "category": "grammar", "topic": "present participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Prices", "rose sharply,", "caused", "widespread protests across the country."],
+          "errorIndex": 2,
+          "correction": "causing",
+          "explanation": "The participle clause expresses a result with active meaning, so the -ing form 'causing' is required."
+        },
+        {
+          "id": "c1-u04-l1-q6", "type": "drag_drop", "category": "grammar", "topic": "present participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Drag the correct participles into the gaps.",
+          "text": "___ the email again, Sari realised she had attached the wrong file. The correct file, ___ over two hundred pages, was far too large to send.",
+          "bank": ["Reading", "Read", "containing", "contained", "Having"],
+          "answers": ["Reading", "containing"],
+          "explanation": "'Reading the email again' has active meaning (Sari read it). 'Containing over two hundred pages' is a reduced relative clause (= which contained)."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u04-l2-past-participle",
+      "title": "Built in 1890 ...: Past Participle Clauses",
+      "summary": "Use past participle clauses with passive meaning to give background, reasons and conditions, and to reduce passive relative clauses.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use past participle clauses with passive meaning",
+        "Reduce passive relative clauses (which was sent → sent)",
+        "Express conditions concisely (If stored correctly → Stored correctly)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Passive meaning\nA **past participle clause** (*built, written, surrounded*) has a **passive** meaning: the subject of the main clause **receives** the action.\n- 'The bridge was built in 1890. It is the oldest in the city.' → '**Built in 1890**, the bridge is the oldest in the city.'\n- 'The actor was surrounded by journalists, so he refused to answer.' → '**Surrounded by journalists**, the actor refused to answer.'\n\n### Functions\n| Function | Full clause | Participle clause |\n|---|---|---|\n| background information | The palace, which was designed by a Dutch architect, ... | **Designed by a Dutch architect**, the palace ... |\n| reason | Because he was shocked by the news, he ... | **Shocked by the news**, he ... |\n| condition | If it is stored correctly, the vaccine lasts two years. | **Stored correctly**, the vaccine lasts two years. |\n| reduced relative | The documents that were sent yesterday ... | The documents **sent** yesterday ... |\n\n### Reduced passive relative clauses\nThis is one of the most frequent uses in reports and academic writing:\n- 'Most of the products **sold** in this shop are made locally.' (= that are sold)\n- 'The data **collected** during the survey were analysed by computer.' (= that were collected)\n\nNotice that the reduced clause comes **after** the noun and has no commas when it is defining.\n\n### -ed or -ing?\nChoosing between the two participles depends on whether the meaning is active or passive:\n- '**Exhausted** after the journey, we went to bed.' (we were exhausted — passive/state)\n- '*Exhausting after the journey, we ...*' is wrong.\n- 'The **exhausting** journey ...' (the journey caused exhaustion — active)\n\nThis follows the same logic as adjectives such as *bored/boring* and *interested/interesting*.\n\n### The subject rule again\nThe past participle must describe the subject of the main clause: '*Shocked by the news, the phone fell from her hand*' suggests the phone was shocked. Correct: 'Shocked by the news, she dropped the phone.'\n\n### Style\nPast participle clauses at the start of a sentence are common in guidebooks, biographies and descriptions of places ('Founded in 1920, the university ...', 'Set in beautiful gardens, the hotel ...'). Reduced relatives are essential in scientific and business writing, where they keep noun phrases compact.\n\n### Indonesian note\nIndonesian *di-* verbs often correspond to English past participles: *Dibangun pada tahun 1890, jembatan itu ...* → 'Built in 1890, the bridge ...'. This parallel makes the structure easy to recognise, but remember to keep the subject the same in both clauses.",
+        "examples": [
+          { "en": "Built in 1890, the bridge is the oldest in the city.", "id": "Dibangun pada tahun 1890, jembatan itu adalah yang tertua di kota.", "note": "Background information." },
+          { "en": "Surrounded by journalists, the actor refused to answer any questions.", "id": "Dikerumuni wartawan, aktor itu menolak menjawab pertanyaan apa pun.", "note": "Reason / circumstance." },
+          { "en": "Stored correctly, the vaccine can last for two years.", "id": "Jika disimpan dengan benar, vaksin itu bisa bertahan dua tahun.", "note": "Condition." },
+          { "en": "The data collected during the survey were analysed by an independent team.", "id": "Data yang dikumpulkan selama survei dianalisis oleh tim independen.", "note": "Reduced passive relative clause." }
+        ],
+        "vocabulary": [
+          { "word": "renovate", "pos": "verb", "ipa": "/ˈrenəveɪt/", "meaning": "merenovasi, memperbarui", "example": "Renovated in 2020, the museum now has a rooftop café." },
+          { "word": "commission", "pos": "verb", "ipa": "/kəˈmɪʃn/", "meaning": "memesan secara resmi (karya, laporan)", "example": "Commissioned by the government, the report was published in May." },
+          { "word": "overlook", "pos": "verb", "ipa": "/ˌəʊvəˈlʊk/", "meaning": "menghadap ke (pemandangan); mengabaikan", "example": "Set on a hill overlooking the bay, the villa is very popular." },
+          { "word": "be located", "pos": "phrase", "ipa": "/bi ləʊˈkeɪtɪd/", "meaning": "terletak", "example": "Located in the old town, the hotel is close to all the sights." },
+          { "word": "acclaimed", "pos": "adjective", "ipa": "/əˈkleɪmd/", "meaning": "mendapat pujian luas", "example": "Acclaimed by critics, the film went on to win three awards." }
+        ],
+        "grammar": [
+          { "pattern": "Past participle clause, + main clause", "example": "Written in a hurry, the letter contained several mistakes.", "note": "Passive meaning; the subject received the action." },
+          { "pattern": "Noun + past participle phrase (reduced relative)", "example": "The goods ordered last week have not arrived.", "note": "= The goods that were ordered ..." },
+          { "pattern": "Past participle clause = if-clause", "example": "Taken twice a day, the medicine is very effective.", "note": "= If it is taken twice a day ..." }
+        ],
+        "mistakes": [
+          { "wrong": "Interviewing by the police, the witness described the car.", "right": "Interviewed by the police, the witness described the car.", "why": "The witness received the action, so the passive (past) participle is needed." },
+          { "wrong": "Exhausting after the long journey, we went straight to bed.", "right": "Exhausted after the long journey, we went straight to bed.", "why": "'Exhausted' describes how we felt (passive/state); 'exhausting' describes what causes tiredness." },
+          { "wrong": "Shocked by the news, the phone fell from her hand.", "right": "Shocked by the news, she dropped the phone.", "why": "The participle must refer to the subject of the main clause." }
+        ],
+        "summary": "Past participle clauses have passive meaning. Use them at the start of a sentence for background, reason or condition (Built in 1890, ...; Stored correctly, ...), and after nouns as reduced passive relatives (the data collected ...). Make sure the participle describes the subject of the main clause.",
+        "reviewCards": [
+          { "front": "The bridge, which was built in 1890, ... (participle)", "back": "Built in 1890, the bridge ..." },
+          { "front": "If it is used correctly, ... (participle)", "back": "Used correctly, ..." },
+          { "front": "The letters that were sent yesterday ... (reduce)", "back": "The letters sent yesterday ..." },
+          { "front": "acclaimed", "back": "mendapat pujian luas" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u04-l2-q1", "type": "dropdown", "category": "grammar", "topic": "past participle clauses", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct participle.",
+          "text": "___ in 1890, the bridge is the oldest in the city.",
+          "choices": [["Built", "Building", "Having built"]],
+          "answers": [0],
+          "explanation": "The bridge received the action (someone built it), so a past participle with passive meaning is required."
+        },
+        {
+          "id": "c1-u04-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "past participle clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using a participle clause.",
+          "sentence": "If it is stored correctly, the vaccine can last for two years.",
+          "cue": "Begin with: Stored",
+          "answers": ["Stored correctly, the vaccine can last for two years.", "Stored correctly, the vaccine can last two years."],
+          "explanation": "The conditional clause 'If it is stored correctly' reduces to the past participle clause 'Stored correctly'."
+        },
+        {
+          "id": "c1-u04-l2-q3", "type": "word_order", "category": "grammar", "topic": "reduced relative clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["The", "documents", "sent", "by", "the", "client", "contained", "several", "errors"],
+          "explanation": "'Sent by the client' is a reduced passive relative clause (= that were sent by the client) placed after the noun 'documents'."
+        },
+        {
+          "id": "c1-u04-l2-q4", "type": "multiple_select", "category": "grammar", "topic": "past participle clauses", "difficulty": 4, "stage": "quiz",
+          "prompt": "Select ALL the sentences in which the participle clause is used correctly.",
+          "options": ["Surrounded by journalists, the actor refused to answer any questions.", "Most of the products sold in this shop are made locally.", "Shocked by the news, the phone fell from her hand.", "Written in a hurry, the letter contained several mistakes.", "Exhausting after the long journey, we went straight to bed."],
+          "answers": [0, 1, 3],
+          "explanation": "Options 1, 2 and 4 are correct. Option 3 suggests the phone was shocked (dangling participle), and option 5 needs 'Exhausted'."
+        },
+        {
+          "id": "c1-u04-l2-q5", "type": "sentence_correction", "category": "grammar", "topic": "past participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "Interviewing by the police, the witness described the car in detail.",
+          "answers": ["Interviewed by the police, the witness described the car in detail.", "When interviewed by the police, the witness described the car in detail.", "Having been interviewed by the police, the witness described the car in detail.", "Being interviewed by the police, the witness described the car in detail."],
+          "explanation": "The witness was interviewed (passive meaning), so the past participle 'Interviewed' is needed."
+        },
+        {
+          "id": "c1-u04-l2-q6", "type": "translation", "category": "grammar", "topic": "past participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English using a participle clause at the beginning.",
+          "source": "Dibangun pada abad ke-16, masjid itu adalah yang tertua di kota ini.",
+          "direction": "id-en",
+          "answers": ["Built in the 16th century, the mosque is the oldest in this city.", "Built in the sixteenth century, the mosque is the oldest in this city.", "Built in the 16th century, the mosque is the oldest in the city.", "Built in the sixteenth century, the mosque is the oldest in the city.", "Built in the 16th century, the mosque is the oldest one in this city.", "Built in the sixteenth century, the mosque is the oldest one in this city.", "Built in the 16th century, the mosque is the oldest mosque in this city.", "Built in the sixteenth century, the mosque is the oldest mosque in this city.", "Built in the 16th century, the mosque is the oldest in this town.", "Built in the sixteenth century, the mosque is the oldest in this town.", "Built in the 16th century, the mosque is the oldest in town.", "Built in the sixteenth century, the mosque is the oldest in town.", "Built in the 16th century, this mosque is the oldest in the city.", "Built in the sixteenth century, this mosque is the oldest in the city."],
+          "explanation": "'Dibangun' corresponds to the past participle 'Built', which describes the subject 'the mosque'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u04-l3-perfect-participle",
+      "title": "Having Finished ...: Perfect Participle Clauses",
+      "summary": "Use having + past participle to show that one action was completed before another, often implying a reason.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use Having + past participle for completed earlier actions",
+        "Use Having been + past participle for passive earlier actions",
+        "Form negative perfect participle clauses (Not having / Having never)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Showing sequence clearly\nA **perfect participle clause** (*having + past participle*) shows that the action in the participle clause was **completed before** the action in the main clause:\n- 'After he had finished the report, Mr. Santoso sent it to the board.' → '**Having finished** the report, Mr. Santoso sent it to the board.'\n\nIt often also implies a **reason**: 'Having lived in Tokyo for ten years, she spoke fluent Japanese.' (= because she had lived there)\n\n### Active and passive forms\n| Form | Meaning | Example |\n|---|---|---|\n| Having + past participle | active, earlier | **Having read** the contract, we decided not to sign. |\n| Having been + past participle | passive, earlier | **Having been warned** about the storm, the fishermen stayed in port. |\n| Not having + past participle | negative | **Not having received** a reply, she called the office. |\n| Having never / Having not + past participle | negative (less common) | **Having never flown** before, Sari was nervous. |\n\n### When is the perfect form necessary?\nWith actions that happen in quick sequence, a present participle is often enough: 'Opening the door, he stepped inside.' But when the first action **must be complete** before the second starts, or when it lasted a period of time, the perfect form is needed:\n- '*Living in Tokyo for ten years, she spoke ...*' (unclear) → '**Having lived** in Tokyo for ten years, she spoke ...'\n- '*Eating lunch, we went for a walk*' (suggests we walked while eating) → '**Having eaten** lunch, we went for a walk.'\n\n### Perfect participle vs past participle\nDo not confuse the passive perfect participle with the simple past participle:\n- '**Rejected** by three publishers, the novel ...' (focus on the state)\n- '**Having been rejected** by three publishers, the novel finally became a bestseller.' (focus on the earlier completed events)\n\nBoth are correct, but *having been* stresses the sequence.\n\n### Common error: mixing active and passive\n'*Having been finished his homework, Bayu ...*' is wrong because Bayu did the finishing (active). Use 'Having finished his homework, ...'. Ask yourself: did the subject do the action (active) or receive it (passive)?\n\n### Style\nPerfect participle clauses are formal and are especially common in narratives, biographies and reports of procedures: 'Having analysed the data, the researchers concluded ...'. In conversation, 'After I'd finished ...' is more natural.\n\n### Indonesian note\nIndonesian expresses the same idea with *Setelah ...*: *Setelah menyelesaikan laporan, Pak Santoso mengirimkannya* → 'Having finished the report, Mr. Santoso sent it.' Watch the passive: *Setelah diperingatkan* → 'Having been warned'.",
+        "examples": [
+          { "en": "Having finished the report, Mr. Santoso sent it to the board.", "id": "Setelah menyelesaikan laporan itu, Pak Santoso mengirimkannya kepada dewan direksi.", "note": "Completed earlier action." },
+          { "en": "Having been warned about the storm, the fishermen stayed in the harbour.", "id": "Karena sudah diperingatkan tentang badai, para nelayan tetap berada di pelabuhan.", "note": "Passive + reason." },
+          { "en": "Not having received a reply, Nadia sent a second email.", "id": "Karena belum menerima balasan, Nadia mengirim email kedua.", "note": "Negative: Not having + past participle." },
+          { "en": "Having lived in Tokyo for ten years, she spoke fluent Japanese.", "id": "Karena telah tinggal di Tokyo selama sepuluh tahun, ia fasih berbahasa Jepang.", "note": "Period of time before the main action." }
+        ],
+        "vocabulary": [
+          { "word": "thoroughly", "pos": "adverb", "ipa": "/ˈθʌrəli/", "meaning": "secara menyeluruh, teliti", "example": "Having thoroughly checked the figures, the auditor signed the report." },
+          { "word": "shortlist", "pos": "verb", "ipa": "/ˈʃɔːtlɪst/", "meaning": "memasukkan ke daftar pendek (seleksi)", "example": "Having been shortlisted, she was invited to a final interview." },
+          { "word": "resume", "pos": "verb", "ipa": "/rɪˈzjuːm/", "meaning": "melanjutkan kembali", "example": "Having recovered from the injury, he resumed training." },
+          { "word": "hand in", "pos": "phrasal verb", "ipa": "/hænd ɪn/", "meaning": "menyerahkan (tugas, surat)", "example": "Having handed in her notice, she started looking for a new job." },
+          { "word": "embark on", "pos": "phrasal verb", "ipa": "/ɪmˈbɑːk ɒn/", "meaning": "memulai (sesuatu yang besar/baru)", "example": "Having graduated, he embarked on a career in law." }
+        ],
+        "grammar": [
+          { "pattern": "Having + past participle, + main clause", "example": "Having checked the figures, she approved the budget.", "note": "Active; earlier completed action." },
+          { "pattern": "Having been + past participle, + main clause", "example": "Having been shortlisted, he prepared for the final interview.", "note": "Passive; earlier completed action." },
+          { "pattern": "Not having + past participle, + main clause", "example": "Not having studied, Andi failed the test.", "note": "Negative; often implies a reason." }
+        ],
+        "mistakes": [
+          { "wrong": "Having been finished his homework, Bayu went out.", "right": "Having finished his homework, Bayu went out.", "why": "Bayu did the action (active), so 'Having finished' is needed." },
+          { "wrong": "Having not received a reply, she called.", "right": "Not having received a reply, she called.", "why": "The usual position of 'not' is before 'having'." },
+          { "wrong": "Eating lunch, we went for a walk.", "right": "Having eaten lunch, we went for a walk.", "why": "The first action was completed before the second, so the perfect participle is clearer." }
+        ],
+        "summary": "Use 'Having + past participle' for an action completed before the main action (often implying a reason), 'Having been + past participle' for passive earlier actions, and 'Not having + past participle' for negatives. Check whether the subject did or received the action.",
+        "reviewCards": [
+          { "front": "After she had read the email, she replied. (Having ...)", "back": "Having read the email, she replied." },
+          { "front": "Because he had been warned, he stayed home. (Having ...)", "back": "Having been warned, he stayed home." },
+          { "front": "Negative perfect participle", "back": "Not having + past participle (Not having slept, ...)" },
+          { "front": "embark on", "back": "memulai (sesuatu yang besar/baru)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u04-l3-q1", "type": "single_choice", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence: '___ the report, Mr. Santoso sent it to the board.'",
+          "options": ["Having finished", "Finished", "Having been finished", "Being finished"],
+          "answer": 0,
+          "explanation": "Mr. Santoso completed the report before sending it, and he did the action, so the active perfect participle 'Having finished' is correct."
+        },
+        {
+          "id": "c1-u04-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using a perfect participle clause.",
+          "sentence": "After she had lived in Tokyo for ten years, she spoke fluent Japanese.",
+          "cue": "Begin with: Having",
+          "answers": ["Having lived in Tokyo for ten years, she spoke fluent Japanese."],
+          "explanation": "'After she had lived' becomes 'Having lived', showing the earlier period of time that explains the result."
+        },
+        {
+          "id": "c1-u04-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 4, "stage": "independent",
+          "prompt": "Complete the sentence with a perfect passive participle of the verb in brackets.",
+          "text": "___ (reject) by three publishers, the novel finally became a bestseller in 2021.",
+          "answers": [["Having been rejected"]],
+          "explanation": "The novel received the action (passive), and the rejections happened earlier, so we use 'Having been rejected'."
+        },
+        {
+          "id": "c1-u04-l3-q4", "type": "matching", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match the participle clauses with the most logical main clauses.",
+          "pairs": [
+            { "left": "Having lost his passport,", "right": "Arman had to contact the embassy." },
+            { "left": "Having been warned about the storm,", "right": "the fishermen stayed in the harbour." },
+            { "left": "Having never travelled abroad before,", "right": "Sari felt nervous at the airport." },
+            { "left": "Having read the contract carefully,", "right": "we decided not to sign it." }
+          ],
+          "explanation": "Each perfect participle clause describes an earlier action that explains the main clause."
+        },
+        {
+          "id": "c1-u04-l3-q5", "type": "error_identification", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Having been finished", "his homework,", "Bayu went out", "to play football."],
+          "errorIndex": 0,
+          "correction": "Having finished",
+          "explanation": "Bayu performed the action, so the active form 'Having finished' is required, not the passive 'Having been finished'."
+        },
+        {
+          "id": "c1-u04-l3-q6", "type": "sentence_transformation", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 4, "stage": "quiz",
+          "prompt": "Rewrite the sentence using a perfect participle clause.",
+          "sentence": "The team had been criticised by the media, so they were determined to win.",
+          "cue": "Begin with: Having",
+          "answers": ["Having been criticised by the media, the team were determined to win.", "Having been criticised by the media, the team was determined to win.", "Having been criticized by the media, the team were determined to win.", "Having been criticized by the media, the team was determined to win."],
+          "explanation": "The team received the criticism earlier, so we use the passive perfect participle 'Having been criticised'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u04-l4-dangling-participles",
+      "title": "Avoiding Dangling Participles",
+      "summary": "Keep participle clauses logically attached to the right subject, form negatives, and combine participles with conjunctions such as while, once and although.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Identify and correct dangling (misrelated) participles",
+        "Form negative participle clauses with not",
+        "Use conjunction + participle (while waiting, once completed, although tired)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is a dangling participle?\nThe implied subject of a participle clause is the **subject of the main clause**. If the two do not match, the participle 'dangles' and the sentence becomes illogical or unintentionally funny:\n- '*Driving to work, a deer jumped in front of my car.*' (The deer was driving?)\n- '*Walking into the office, the lights were off.*' (The lights were walking?)\n\n### How to fix it\n1. **Change the main clause subject**: 'Walking into the office, **I** noticed the lights were off.'\n2. **Use a full clause**: '**While I was driving** to work, a deer jumped in front of my car.'\n\n| Dangling (wrong) | Corrected |\n|---|---|\n| Looking out of the window, the mountains were beautiful. | Looking out of the window, we admired the beautiful mountains. |\n| Being a public holiday, the banks were closed. | As it was a public holiday, the banks were closed. |\n| Having finished dinner, the dishes were washed. | Having finished dinner, we washed the dishes. |\n\n### Negative participle clauses\nPut **not** (or *never*) **before** the participle:\n- '**Not knowing** what to say, she remained silent.'\n- '**Not having received** a reply, he called again.'\n- '**Never having seen** snow, the children were amazed.'\n\nDo not use *don't*: '*Don't knowing ...*' is incorrect, and '*Knowing not ...*' is archaic.\n\n### Conjunction + participle\nTo make the relationship between clauses clearer, we can keep the conjunction and drop only the subject and auxiliary:\n\n| Conjunction | Example |\n|---|---|\n| while / when | **While waiting** for the bus, I read the news. **When asked** about the delay, he refused to comment. |\n| after / before | **After finishing** the project, the team celebrated. **Before leaving**, check the windows. |\n| once / until | **Once opened**, the jar should be kept in the fridge. |\n| although / though | **Although tired**, the volunteers kept working. |\n| if / unless | **If accepted**, the proposal will save millions. **Unless instructed** otherwise, wait here. |\n\nNote: after *after*, *before*, *since* (prepositions) use **-ing**: '*After finish ...*' is wrong.\n\n### Accepted exceptions\nSome fixed expressions are not considered dangling because they comment on the whole sentence: *Generally speaking, Judging by ..., Considering ..., Given that ..., Assuming that ...* (see Lesson 5).\n\n### Indonesian note\nIndonesian can omit subjects more freely than English: *Waktu menyetir ke kantor, seekor rusa melompat ke depan mobil saya* is acceptable in Indonesian, but its literal English translation dangles. In English, check that the subject of the main clause is the one performing the participle action.",
+        "examples": [
+          { "en": "Walking into the office, I noticed that the lights were off.", "id": "Saat berjalan masuk ke kantor, saya melihat bahwa lampunya mati.", "note": "The subject 'I' does the walking." },
+          { "en": "Not knowing what to say, she remained silent.", "id": "Karena tidak tahu harus berkata apa, ia diam saja.", "note": "Negative participle clause." },
+          { "en": "Once opened, the jar should be kept in the fridge.", "id": "Setelah dibuka, toples itu harus disimpan di lemari es.", "note": "Conjunction + past participle." },
+          { "en": "When asked about the delay, the spokesperson refused to comment.", "id": "Ketika ditanya tentang keterlambatan itu, juru bicara menolak berkomentar.", "note": "Conjunction + past participle." }
+        ],
+        "vocabulary": [
+          { "word": "ambiguous", "pos": "adjective", "ipa": "/æmˈbɪɡjuəs/", "meaning": "ambigu, bermakna ganda", "example": "Dangling participles can make a sentence ambiguous." },
+          { "word": "unintentionally", "pos": "adverb", "ipa": "/ˌʌnɪnˈtenʃənəli/", "meaning": "secara tidak sengaja", "example": "The headline was unintentionally funny." },
+          { "word": "instruct", "pos": "verb", "ipa": "/ɪnˈstrʌkt/", "meaning": "menginstruksikan, memerintahkan", "example": "Unless instructed otherwise, remain in your seats." },
+          { "word": "refrain from", "pos": "verb", "ipa": "/rɪˈfreɪn frɒm/", "meaning": "menahan diri dari", "example": "When asked, she refrained from criticising her colleagues." },
+          { "word": "proofread", "pos": "verb", "ipa": "/ˈpruːfriːd/", "meaning": "membaca ulang untuk mengoreksi", "example": "After proofreading the essay, he found three dangling participles." }
+        ],
+        "grammar": [
+          { "pattern": "Participle clause + main clause with the SAME subject", "example": "Opening the parcel, Rina found a handwritten note.", "note": "Rina opened the parcel." },
+          { "pattern": "Not / Never + participle", "example": "Never having been to Europe, he was excited.", "note": "Negative participle clause." },
+          { "pattern": "Conjunction (while, when, once, although, if) + participle", "example": "Although injured, the player finished the match.", "note": "Clarifies the relationship between clauses." }
+        ],
+        "mistakes": [
+          { "wrong": "Driving to work, a deer jumped in front of my car.", "right": "While I was driving to work, a deer jumped in front of my car.", "why": "The deer was not driving; the participle must refer to the subject of the main clause." },
+          { "wrong": "Don't knowing the answer, he guessed.", "right": "Not knowing the answer, he guessed.", "why": "Negative participle clauses use 'not' before the participle." },
+          { "wrong": "After finish the project, the team celebrated.", "right": "After finishing the project, the team celebrated.", "why": "After the preposition 'after', use the -ing form." }
+        ],
+        "summary": "A participle clause must refer to the subject of the main clause; otherwise it dangles. Fix dangling participles by changing the subject or using a full clause. Form negatives with not + participle, and use conjunctions such as while, once, although and when to clarify meaning.",
+        "reviewCards": [
+          { "front": "Walking into the room, the TV was on. (fix)", "back": "Walking into the room, I saw that the TV was on." },
+          { "front": "Negative participle", "back": "Not knowing / Not having seen ..." },
+          { "front": "Setelah dibuka, ... (conjunction + participle)", "back": "Once opened, ..." },
+          { "front": "ambiguous", "back": "ambigu, bermakna ganda" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u04-l4-q1", "type": "single_choice", "category": "grammar", "topic": "dangling participles", "difficulty": 3, "stage": "guided",
+          "prompt": "Which sentence contains a dangling participle?",
+          "options": ["Walking into the office, I noticed that the lights were off.", "Walking into the office, the lights were off.", "Walking into the office, she noticed a strange smell.", "Having walked into the office, Rudi switched on the lights."],
+          "answer": 1,
+          "explanation": "In option 2 the subject of the main clause is 'the lights', which cannot walk. The participle clause therefore dangles."
+        },
+        {
+          "id": "c1-u04-l4-q2", "type": "sentence_correction", "category": "grammar", "topic": "dangling participles", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it is logical. Keep the deer as the subject of the main clause and use a full time clause with 'I'.",
+          "sentence": "Driving to work, a deer jumped in front of my car.",
+          "answers": ["While I was driving to work, a deer jumped in front of my car.", "As I was driving to work, a deer jumped in front of my car.", "When I was driving to work, a deer jumped in front of my car.", "While I was driving to work a deer jumped in front of my car.", "As I drove to work, a deer jumped in front of my car.", "While I drove to work, a deer jumped in front of my car.", "When I was driving to work a deer jumped in front of my car."],
+          "explanation": "The deer was not driving. Replace the participle clause with a full clause that has its own subject: 'While/As/When I was driving to work, ...'."
+        },
+        {
+          "id": "c1-u04-l4-q3", "type": "dropdown", "category": "grammar", "topic": "negative participle clauses", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct form.",
+          "text": "___ what to say, she remained silent for the rest of the meeting.",
+          "choices": [["Not knowing", "Knowing not", "Don't knowing", "No knowing"]],
+          "answers": [0],
+          "explanation": "Negative participle clauses place 'not' before the participle: 'Not knowing ...'."
+        },
+        {
+          "id": "c1-u04-l4-q4", "type": "fill_blank", "category": "grammar", "topic": "conjunction plus participle", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete each sentence with ONE suitable conjunction.",
+          "text": "___ waiting for the bus, I read the latest news on my phone. ___ completed, the application form should be returned to the reception desk.",
+          "answers": [["While", "When"], ["Once", "When", "If"]],
+          "explanation": "'While/When waiting' shows simultaneous time. 'Once/When completed' means 'after it has been completed'; 'If completed' is also possible."
+        },
+        {
+          "id": "c1-u04-l4-q5", "type": "error_identification", "category": "grammar", "topic": "conjunction plus participle", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["After finish", "the project,", "the whole team celebrated", "with a dinner by the river."],
+          "errorIndex": 0,
+          "correction": "After finishing",
+          "explanation": "'After' is a preposition here, so it must be followed by the -ing form: 'After finishing'."
+        },
+        {
+          "id": "c1-u04-l4-q6", "type": "multiple_select", "category": "grammar", "topic": "dangling participles", "difficulty": 4, "stage": "quiz",
+          "prompt": "Select ALL the sentences that are correct and logical.",
+          "options": ["Not having received a reply, Nadia sent a second email.", "Once opened, the jar should be kept in the fridge.", "Looking out of the window, the mountains were beautiful.", "Although tired, the volunteers continued working until midnight.", "Being a public holiday, the banks were closed."],
+          "answers": [0, 1, 3],
+          "explanation": "Options 1, 2 and 4 have participles that refer to the subject. In option 3 'the mountains' were not looking, and in option 5 'the banks' were not a public holiday; both dangle."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u04-l5-participles-in-reports",
+      "title": "With Prices Rising ...: Participles in Reports and Processes",
+      "summary": "Use absolute clauses, with + noun + participle, fixed participial expressions and participles in process descriptions.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use with + noun + participle and absolute clauses with their own subject",
+        "Use fixed expressions such as judging by, given that and all things considered",
+        "Describe processes concisely with participle clauses"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Absolute clauses: participles with their own subject\nSo far, participle clauses have shared the subject of the main clause. An **absolute clause** has **its own subject** placed before the participle. It is formal and typical of written narratives and reports:\n- 'As the weather was fine, the ceremony was held outdoors.' → '**The weather being fine**, the ceremony was held outdoors.'\n- '**All things considered**, the project was a success.'\n- '**The meeting over**, the delegates went to lunch.' (participle *being* omitted)\n\n### With + noun + participle\nA more common and less formal version uses **with**:\n- '**With prices rising**, many families are cutting back on spending.' (active, -ing)\n- '**With the contract signed**, work can begin next week.' (passive, past participle)\n- '**With so many people watching**, she felt nervous.'\n\n| Pattern | Meaning | Example |\n|---|---|---|\n| with + noun + -ing | something happening (often a cause) | With inflation rising, savings are losing value. |\n| with + noun + past participle | something done/completed | With the work finished, we went home. |\n| noun + being + adjective/noun | reason (formal) | The road being closed, we took a detour. |\n\n### Fixed participial expressions\nSome expressions are so common that they do not need to match the subject. They comment on the whole sentence:\n- *Generally / Broadly / Strictly speaking*, ...\n- *Judging by / from* the reviews, ...\n- *Considering* his age, ...\n- *Given (that)* the budget is limited, ...\n- *Assuming (that)* the data are correct, ...\n- *All things considered*, ...\n\n### Participles in process descriptions\nReports that describe how something is made or done rely heavily on passive participles and conjunctions:\n'**Once harvested**, the coffee cherries are spread out on mats and left to dry. **Having been dried** for two weeks, they are hulled, **leaving** the green beans. **Sorted by size**, the beans are then packed and dispatched.'\n\nUseful process verbs: *harvest, sort, grind, ferment, refine, assemble, inspect, package, dispatch*. Useful sequencers: *initially, subsequently, once ..., after being ...*.\n\n### Style balance\nParticiple clauses make writing concise, but too many in a row create heavy, difficult sentences. Combine them with ordinary clauses and keep each sentence to one or two participle structures.\n\n### Indonesian note\n*Dengan harga yang terus naik, ...* translates neatly as 'With prices rising, ...'. *Mengingat ...* ≈ 'Given / Considering ...', and *Secara umum* ≈ 'Generally speaking'.",
+        "examples": [
+          { "en": "With prices rising, many families are cutting back on non-essential spending.", "id": "Dengan harga yang terus naik, banyak keluarga mengurangi pengeluaran yang tidak penting.", "note": "with + noun + -ing." },
+          { "en": "The weather being fine, the ceremony was held in the garden.", "id": "Karena cuacanya cerah, upacara diadakan di taman.", "note": "Absolute clause (formal)." },
+          { "en": "Judging by the empty shelves, the new phone has been a huge success.", "id": "Dilihat dari rak-rak yang kosong, ponsel baru itu sangat sukses.", "note": "Fixed participial expression." },
+          { "en": "Once harvested, the cocoa beans are fermented for five to seven days.", "id": "Setelah dipanen, biji kakao difermentasi selama lima hingga tujuh hari.", "note": "Process description." }
+        ],
+        "vocabulary": [
+          { "word": "harvest", "pos": "verb / noun", "ipa": "/ˈhɑːvɪst/", "meaning": "memanen; panen", "example": "Once harvested, the tea leaves are withered." },
+          { "word": "ferment", "pos": "verb", "ipa": "/fəˈment/", "meaning": "memfermentasi, berfermentasi", "example": "The beans are left to ferment in wooden boxes." },
+          { "word": "dispatch", "pos": "verb", "ipa": "/dɪˈspætʃ/", "meaning": "mengirimkan", "example": "Orders are dispatched within 24 hours." },
+          { "word": "subsequently", "pos": "adverb", "ipa": "/ˈsʌbsɪkwəntli/", "meaning": "selanjutnya, kemudian", "example": "The samples were subsequently tested in a laboratory." },
+          { "word": "refine", "pos": "verb", "ipa": "/rɪˈfaɪn/", "meaning": "memurnikan; menyempurnakan", "example": "Crude oil is refined into petrol and diesel." }
+        ],
+        "grammar": [
+          { "pattern": "With + noun + -ing / past participle, + main clause", "example": "With the exams finished, the students went on holiday.", "note": "Circumstance or cause." },
+          { "pattern": "Noun + participle (absolute clause), + main clause", "example": "Their savings gone, they had to sell the car.", "note": "Formal; the clause has its own subject." },
+          { "pattern": "Fixed expression (Judging by, Given that, Generally speaking), + clause", "example": "Given that time is short, we will skip the break.", "note": "Not considered dangling." }
+        ],
+        "mistakes": [
+          { "wrong": "With prices rise, people spend less.", "right": "With prices rising, people spend less.", "why": "After 'with + noun', use a participle, not a base verb." },
+          { "wrong": "The weather was fine, the ceremony was held outdoors.", "right": "The weather being fine, the ceremony was held outdoors.", "why": "Two main clauses cannot be joined with only a comma; use an absolute participle clause (or 'As the weather was fine ...')." },
+          { "wrong": "Judge by the reviews, the film is excellent.", "right": "Judging by the reviews, the film is excellent.", "why": "The fixed expression is 'Judging by / from'." }
+        ],
+        "summary": "Absolute clauses (The weather being fine, ...) and with + noun + participle (With prices rising, ...) let a participle clause have its own subject. Fixed expressions like judging by, given that and generally speaking comment on the whole sentence. In process descriptions, participles (Once harvested, Having been dried) create concise, formal sequences.",
+        "reviewCards": [
+          { "front": "Because prices are rising, ... (with)", "back": "With prices rising, ..." },
+          { "front": "As the meeting was over, ... (absolute)", "back": "The meeting (being) over, ..." },
+          { "front": "Dilihat dari ...", "back": "Judging by / from ..." },
+          { "front": "dispatch", "back": "mengirimkan (barang, pesanan)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u04-l5-q1", "type": "dropdown", "category": "grammar", "topic": "absolute clauses", "difficulty": 3, "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "text": "With prices ___ every month, many families are cutting back on spending.",
+          "choices": [["rising", "risen", "rise"]],
+          "answers": [0],
+          "explanation": "'With + noun + -ing' describes an ongoing situation: 'With prices rising ...'."
+        },
+        {
+          "id": "c1-u04-l5-q2", "type": "sentence_reconstruction", "category": "writing", "topic": "process description", "difficulty": 3, "stage": "independent",
+          "prompt": "Put the fragments in the correct order to make a sentence from a process description.",
+          "fragments": ["Once harvested,", "the coffee cherries are", "spread out on large mats", "and left to dry", "in the sun for two weeks."],
+          "explanation": "The participle clause 'Once harvested' comes first, followed by the main clause in the passive and the further details of the process."
+        },
+        {
+          "id": "c1-u04-l5-q3", "type": "sentence_transformation", "category": "grammar", "topic": "absolute clauses", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence using an absolute participle clause.",
+          "sentence": "As the weather was fine, the ceremony was held outdoors.",
+          "cue": "Begin with: The weather",
+          "answers": ["The weather being fine, the ceremony was held outdoors."],
+          "explanation": "An absolute clause keeps its own subject ('the weather') followed by a participle ('being'): 'The weather being fine, ...'."
+        },
+        {
+          "id": "c1-u04-l5-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "fixed participial expressions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the meaning of the phrase in bold.",
+          "context": "**Judging by** the empty shelves, the new phone has been a huge success.",
+          "options": ["based on what we can see from", "in spite of", "instead of looking at", "in order to measure"],
+          "answer": 0,
+          "explanation": "'Judging by' introduces the evidence on which a conclusion is based."
+        },
+        {
+          "id": "c1-u04-l5-q5", "type": "matching", "category": "vocabulary", "topic": "fixed participial expressions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "All things considered", "right": "after thinking about all the facts" },
+            { "left": "Generally speaking", "right": "in most cases" },
+            { "left": "Given that", "right": "taking into account the fact that" },
+            { "left": "Strictly speaking", "right": "if we are being completely accurate" },
+            { "left": "Assuming that", "right": "if we accept as true that" }
+          ],
+          "explanation": "These fixed participial expressions comment on the whole sentence and are not considered dangling participles."
+        },
+        {
+          "id": "c1-u04-l5-q6", "type": "translation", "category": "writing", "topic": "process description", "difficulty": 4, "stage": "quiz",
+          "prompt": "Translate into English. Begin with a participle clause.",
+          "source": "Setelah dipanen, biji kakao difermentasi selama lima hari.",
+          "direction": "id-en",
+          "answers": ["Once harvested, the cocoa beans are fermented for five days.", "Once harvested, cocoa beans are fermented for five days.", "After being harvested, the cocoa beans are fermented for five days.", "After being harvested, cocoa beans are fermented for five days.", "Having been harvested, the cocoa beans are fermented for five days.", "Having been harvested, cocoa beans are fermented for five days.", "When harvested, the cocoa beans are fermented for five days.", "When harvested, cocoa beans are fermented for five days.", "Once harvested, the cacao beans are fermented for five days.", "Once harvested, cacao beans are fermented for five days."],
+          "explanation": "'Setelah dipanen' becomes a passive participle clause such as 'Once harvested' or 'Having been harvested'; the main clause uses the present simple passive 'are fermented'."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u04-t-q1", "type": "sentence_transformation", "category": "grammar", "topic": "negative participle clauses", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence using a negative participle clause.",
+      "sentence": "Because he didn't have enough money, Hendra couldn't buy the ticket.",
+      "cue": "Begin with: Not having",
+      "answers": ["Not having enough money, Hendra couldn't buy the ticket.", "Not having enough money, Hendra could not buy the ticket.", "Not having enough money, Hendra was unable to buy the ticket."],
+      "explanation": "The reason clause becomes 'Not having enough money'; the subject Hendra is shared with the main clause."
+    },
+    {
+      "id": "c1-u04-t-q2", "type": "dropdown", "category": "grammar", "topic": "past participle clauses", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct participle.",
+      "text": "___ by the unexpected results, the researchers decided to repeat the experiment.",
+      "choices": [["Puzzled", "Puzzling", "Having puzzled"]],
+      "answers": [0],
+      "explanation": "The researchers were puzzled (passive meaning / feeling), so the past participle 'Puzzled' is correct."
+    },
+    {
+      "id": "c1-u04-t-q3", "type": "error_identification", "category": "grammar", "topic": "perfect participle clauses", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["Having been lived", "abroad for many years,", "Tomi found it hard", "to readjust to life at home."],
+      "errorIndex": 0,
+      "correction": "Having lived",
+      "explanation": "'Live' is intransitive and Tomi performed the action, so the active perfect participle 'Having lived' is required."
+    },
+    {
+      "id": "c1-u04-t-q4", "type": "sentence_transformation", "category": "grammar", "topic": "reduced relative clauses", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Shorten the sentence by replacing the relative clause with a participle phrase.",
+      "sentence": "The products which are made in this factory are exported to Japan.",
+      "cue": "Begin with: The products",
+      "answers": ["The products made in this factory are exported to Japan."],
+      "explanation": "A passive relative clause ('which are made') is reduced to the past participle 'made'."
+    },
+    {
+      "id": "c1-u04-t-q5", "type": "single_choice", "category": "grammar", "topic": "dangling participles", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which sentence is correct?",
+      "options": ["Arriving late, the meeting had already started.", "Arriving late, Joko found that the meeting had already started.", "Arrived late, Joko found that the meeting had already started.", "Having arrive late, Joko found that the meeting had already started."],
+      "answer": 1,
+      "explanation": "Option 2 has a correctly formed participle that refers to the subject (Joko). Option 1 dangles, option 3 uses the wrong participle and option 4 has the wrong verb form."
+    },
+    {
+      "id": "c1-u04-t-q6", "type": "drag_drop", "category": "grammar", "topic": "participle clauses review", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Drag the correct expressions into the gaps.",
+      "text": "___ in 1998, the company now employs over 2,000 people. ___ its success at home, it plans to expand into Vietnam. ___ the economic risks, however, the board is proceeding cautiously.",
+      "bank": ["Founded", "Encouraged by", "Given", "Founding", "Encouraging"],
+      "answers": ["Founded", "Encouraged by", "Given"],
+      "explanation": "'Founded' (passive: the company was founded), 'Encouraged by' (the company was encouraged) and 'Given' (= taking into account) complete the text logically."
+    },
+    {
+      "id": "c1-u04-t-q7", "type": "sentence_reconstruction", "category": "grammar", "topic": "negative participle clauses", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Put the fragments in the correct order to make a sentence.",
+      "fragments": ["Not wanting to disturb the meeting,", "the assistant", "waited quietly outside", "until everyone had left."],
+      "explanation": "The negative participle clause comes first, followed by the subject it refers to ('the assistant') and the rest of the main clause."
+    }
+  ]
+}

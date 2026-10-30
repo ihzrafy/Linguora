@@ -1,0 +1,829 @@
+{
+  "slug": "b1-u10-verb-patterns",
+  "number": 10,
+  "title": "Habits and Verb Patterns",
+  "description": "Membicarakan kebiasaan, gaya hidup, dan perubahan. Kamu akan belajar verb + -ing dan verb + to-infinitive, used to untuk kebiasaan di masa lalu, serta be used to / get used to untuk beradaptasi dengan hal baru.",
+  "objectives": [
+    "Memilih pola verb + -ing atau verb + to-infinitive untuk kata kerja yang umum",
+    "Membicarakan kebiasaan dan keadaan di masa lalu dengan used to / didn't use to",
+    "Membedakan used to + V1 dari be used to / get used to + noun / V-ing",
+    "Menceritakan perubahan gaya hidup dengan kosakata seperti take up, give up dan cut down on"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u10-l1-verb-ing",
+      "title": "Verbs Followed by -ing",
+      "summary": "Memakai V-ing setelah kata kerja seperti enjoy, avoid, finish, mind, suggest, keep, give up dan consider.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengenali kata kerja yang selalu diikuti V-ing",
+        "Memakai V-ing setelah preposition (good at, interested in, ...)",
+        "Membentuk kalimat positive, negative dan pertanyaan dengan pola verb + -ing"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Verb + verb\nIn English, when one verb follows another verb, the second verb has a special form. Kadang bentuknya **V-ing** (*enjoy swimming*), kadang **to + V1** (*decide to swim*). Tidak ada aturan logis yang sempurna — kita harus **menghafal** kata kerja yang umum. In this lesson we focus on verbs followed by **-ing**.\n\nYou already know some from A1: *I like / love / hate cooking.*\n\n### Kata kerja + V-ing\n| Verb | Arti | Contoh |\n|---|---|---|\n| enjoy | menikmati | I enjoy **reading** before bed. |\n| avoid | menghindari | Try to avoid **eating** late at night. |\n| finish | selesai | Have you finished **cleaning** your room? |\n| (not) mind | (tidak) keberatan | I don't mind **waiting**. |\n| suggest | menyarankan | Rina suggested **taking** a taxi. |\n| keep | terus-menerus | He keeps **checking** his phone. |\n| give up | berhenti (kebiasaan) | She gave up **eating** meat. |\n| consider | mempertimbangkan | We're considering **moving** to Tanjung Arum. |\n| can't stand | sangat tidak suka | I can't stand **waiting** in queues. |\n| practise / miss / imagine | berlatih / rindu / membayangkan | I miss **living** near the sea. |\n\nUseful polite request: ***Would you mind** opening the window?* = Bisakah kamu membuka jendela?\n\n### Negative\nTo make the second verb negative, put **not** before the -ing form: *I suggest **not** going out in this storm.* Untuk kata kerja pertama, gunakan auxiliary biasa: *I **don't** enjoy cooking.*\n\n### Setelah preposition → selalu V-ing\nThis is a very useful rule: after a preposition (*at, in, of, about, for, before, after, without*), the verb is always **-ing**.\n- *She's good **at** drawing.*\n- *I'm interested **in** learning Korean.*\n- *Thanks **for** helping me.*\n- *Wash your hands **before** eating.*\n\n### Ejaan -ing (review)\n- make → making (hapus -e)\n- stop → stopping, swim → swimming (gandakan konsonan)\n- lie → lying\n\n### Hati-hati\nDalam bahasa Indonesia kita tidak mengubah bentuk kata kerja: *Saya menikmati membaca*. Karena itu pelajar sering menulis ✗ *I enjoy to read* atau ✗ *I enjoy read*. Remember: **enjoy + -ing**, always.",
+        "examples": [
+          { "en": "My grandmother enjoys gardening in the morning.", "id": "Nenekku senang berkebun di pagi hari.", "note": "enjoy + V-ing." },
+          { "en": "We should avoid driving during rush hour.", "id": "Kita sebaiknya menghindari menyetir pada jam sibuk.", "note": "avoid + V-ing." },
+          { "en": "Do you mind sharing a table with us?", "id": "Apakah kamu keberatan berbagi meja dengan kami?", "note": "mind + V-ing (pertanyaan sopan)." },
+          { "en": "Bayu kept talking during the whole film.", "id": "Bayu terus berbicara sepanjang film.", "note": "keep + V-ing = terus-menerus." },
+          { "en": "I'm thinking about joining a running club.", "id": "Aku sedang memikirkan untuk bergabung dengan klub lari.", "note": "Setelah preposition about → V-ing." }
+        ],
+        "vocabulary": [
+          { "word": "avoid", "pos": "verb", "ipa": "/əˈvɔɪd/", "meaning": "menghindari", "example": "I avoid drinking coffee after 4 p.m." },
+          { "word": "consider", "pos": "verb", "ipa": "/kənˈsɪdə(r)/", "meaning": "mempertimbangkan", "example": "Have you considered studying abroad?" },
+          { "word": "suggest", "pos": "verb", "ipa": "/səˈdʒest/", "meaning": "menyarankan; mengusulkan", "example": "He suggested meeting at the library." },
+          { "word": "mind", "pos": "verb", "ipa": "/maɪnd/", "meaning": "keberatan", "example": "I don't mind working at weekends." },
+          { "word": "can't stand", "pos": "phrase", "ipa": "/kɑːnt stænd/", "meaning": "sangat tidak suka; tidak tahan", "example": "She can't stand hearing people chew loudly." },
+          { "word": "practise", "pos": "verb", "ipa": "/ˈpræktɪs/", "meaning": "berlatih", "example": "You should practise speaking every day." }
+        ],
+        "grammar": [
+          { "pattern": "enjoy / avoid / finish / mind / keep + V-ing", "example": "Have you finished writing the email?", "note": "Hafalkan daftar kata kerja ini." },
+          { "pattern": "suggest / consider / give up / can't stand + V-ing", "example": "They're considering buying a smaller car.", "note": "Bukan to + V1." },
+          { "pattern": "verb + not + V-ing", "example": "I suggest not telling him yet.", "note": "Negative untuk kata kerja kedua." },
+          { "pattern": "preposition + V-ing", "example": "She left without saying goodbye.", "note": "Setelah preposition selalu V-ing." }
+        ],
+        "mistakes": [
+          { "wrong": "I enjoy to cook for my friends.", "right": "I enjoy cooking for my friends.", "why": "Enjoy selalu diikuti V-ing." },
+          { "wrong": "Would you mind to close the door?", "right": "Would you mind closing the door?", "why": "Mind diikuti V-ing." },
+          { "wrong": "She's interested in learn photography.", "right": "She's interested in learning photography.", "why": "Setelah preposition (in) kata kerja memakai V-ing." },
+          { "wrong": "He suggested to go to the beach.", "right": "He suggested going to the beach.", "why": "Suggest + V-ing, bukan to + V1." }
+        ],
+        "summary": "Some verbs are always followed by **-ing**: *enjoy, avoid, finish, mind, suggest, keep, give up, consider, can't stand, miss, practise.* Setelah **preposition** juga selalu V-ing (*good at singing, before leaving*). Jangan menulis *enjoy to* atau *suggest to*.",
+        "reviewCards": [
+          { "front": "enjoy + ?", "back": "V-ing — I enjoy swimming." },
+          { "front": "Would you mind ___ (help) me?", "back": "helping" },
+          { "front": "Dia menyarankan naik taksi.", "back": "She suggested taking a taxi." },
+          { "front": "Setelah preposition (at, in, before...)", "back": "selalu V-ing — good at drawing, before eating" },
+          { "front": "keep + V-ing artinya?", "back": "terus-menerus melakukan sesuatu — He keeps losing his keys." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u10-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "verb + -ing",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "My brother has finally given up ___ fizzy drinks. He only drinks water now.",
+          "instructions": "Give up selalu diikuti bentuk yang sama seperti enjoy.",
+          "options": ["drinking", "to drink", "drink", "drank"],
+          "answer": 0,
+          "explanation": "**Give up + V-ing**: *given up drinking*. Bentuk to + V1, V1 dan V2 tidak dipakai setelah give up.",
+          "misconception": "Setelah kata kerja selalu memakai to + V1."
+        },
+        {
+          "id": "b1-u10-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "mind + -ing",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete the polite request with the correct form of the verb in brackets.",
+          "text": "It's quite cold in here. Would you mind ___ (close) the window?",
+          "answers": [["closing"]],
+          "explanation": "**Would you mind + V-ing?** adalah permintaan sopan. *Close* → *closing* (hapus -e, tambah -ing)."
+        },
+        {
+          "id": "b1-u10-l1-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "enjoy + -ing",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Aku menikmati berjalan-jalan di taman setiap pagi.",
+          "direction": "id-en",
+          "answers": [
+            "I enjoy walking in the park every morning.",
+            "I enjoy walking around the park every morning.",
+            "I enjoy going for a walk in the park every morning.",
+            "I enjoy taking a walk in the park every morning.",
+            "I enjoy having a walk in the park every morning.",
+            "Every morning I enjoy walking in the park.",
+            "Every morning, I enjoy walking in the park.",
+            "I enjoy strolling in the park every morning."
+          ],
+          "explanation": "*Menikmati* = **enjoy**, dan setelah enjoy kita memakai **V-ing**: *I enjoy walking ...* (bukan *enjoy to walk*)."
+        },
+        {
+          "id": "b1-u10-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "avoid + -ing",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["Doctors say", "we should avoid", "to eat", "too much sugar", "before bedtime."],
+          "errorIndex": 2,
+          "correction": "eating",
+          "explanation": "**Avoid + V-ing**: *we should avoid eating too much sugar*. Bentuk *to eat* salah setelah avoid."
+        },
+        {
+          "id": "b1-u10-l1-q5",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "verb + -ing",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which verbs are followed by the -ing form (e.g. ___ swimming)? Choose all correct answers.",
+          "options": ["enjoy", "decide", "avoid", "hope", "keep", "promise"],
+          "answers": [0, 2, 4],
+          "explanation": "**Enjoy, avoid, keep** + V-ing. *Decide, hope, promise* diikuti **to + V1** (*decide to go, hope to see, promise to call*) — kita pelajari di lesson berikutnya."
+        },
+        {
+          "id": "b1-u10-l1-q6",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "suggest + -ing",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Dimas", "suggested", "going", "to", "the", "night", "market"],
+          "explanation": "**Suggest + V-ing**: *Dimas suggested going to the night market.* Di sini *to* adalah preposition sebelum *the night market*, bukan to-infinitive."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u10-l2-verb-to-infinitive",
+      "title": "Verbs Followed by To-Infinitive",
+      "summary": "Memakai to + V1 setelah kata kerja seperti decide, hope, plan, agree, refuse, promise, manage, offer dan afford, dan membandingkannya dengan verb + -ing.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengenali kata kerja yang diikuti to + V1",
+        "Membuat bentuk negative dengan not to + V1",
+        "Memilih antara verb + -ing dan verb + to-infinitive"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Verb + to + V1\nIn A2 you learned *want to, need to, would like to*. Many other common verbs follow the same pattern: **verb + to + V1** (to-infinitive). Banyak di antaranya berhubungan dengan **keputusan, rencana, harapan, dan janji** — hal yang mengarah ke masa depan.\n\n| Verb | Arti | Contoh |\n|---|---|---|\n| decide | memutuskan | We decided **to stay** at home. |\n| hope | berharap | I hope **to see** you soon. |\n| plan | berencana | They're planning **to open** a bakery. |\n| agree | setuju | He agreed **to help** us. |\n| refuse | menolak | She refused **to answer**. |\n| promise | berjanji | I promise **to call** you tonight. |\n| manage | berhasil (walaupun sulit) | Did you manage **to find** a seat? |\n| offer | menawarkan (diri) | Tono offered **to carry** my bag. |\n| afford | mampu (membeli) | I can't afford **to buy** a new laptop. |\n| learn / seem / expect | belajar / tampaknya / mengharapkan | She seems **to be** tired. |\n\n### Negative: not to + V1\nPut **not** before *to*: *I decided **not to** go.* (Aku memutuskan untuk tidak pergi.) Bandingkan: *I **didn't decide** to go* = aku tidak memutuskan untuk pergi — artinya berbeda.\n\n### -ing atau to + V1?\n| + V-ing | + to + V1 |\n|---|---|\n| enjoy, avoid, finish, mind, keep | decide, hope, plan, agree, refuse |\n| suggest, consider, give up, can't stand | promise, manage, offer, afford, learn |\n\nA rough tip: verbs about **future plans and decisions** often take *to + V1*; verbs about **experiences and feelings** often take *-ing*. Ini hanya tips, bukan aturan pasti — tetap hafalkan daftarnya.\n\n### Kata kerja yang bisa keduanya\nSome verbs can take both forms with almost the same meaning: **like, love, hate, start, begin, continue**.\n- *It started **raining** / **to rain**.*\n- *I like **cooking** / **to cook**.*\n\nA few verbs (*stop, remember, try, forget*) change meaning with -ing or to — kamu akan mempelajarinya di level B2.\n\n### Hati-hati\n- ✗ *I hope seeing you* → ✓ *I hope **to see** you.*\n- ✗ *She refused answering* → ✓ *She refused **to answer**.*\n- Setelah *to* selalu **V1**: ✗ *I decided to went* → ✓ *I decided to go*.",
+        "examples": [
+          { "en": "After a long discussion, we decided to postpone the trip.", "id": "Setelah diskusi panjang, kami memutuskan untuk menunda perjalanan itu.", "note": "decide + to + V1." },
+          { "en": "I can't afford to eat out every day.", "id": "Aku tidak mampu makan di luar setiap hari.", "note": "afford + to + V1." },
+          { "en": "Ayu promised not to tell anyone.", "id": "Ayu berjanji untuk tidak memberi tahu siapa pun.", "note": "not to + V1." },
+          { "en": "Did you manage to get tickets for the concert?", "id": "Apakah kamu berhasil mendapatkan tiket konser itu?", "note": "manage + to + V1." },
+          { "en": "The shop assistant offered to wrap the present for me.", "id": "Pramuniaga menawarkan untuk membungkus hadiah itu untukku.", "note": "offer + to + V1." }
+        ],
+        "vocabulary": [
+          { "word": "afford", "pos": "verb", "ipa": "/əˈfɔːd/", "meaning": "mampu (membeli/melakukan)", "example": "We can't afford to go abroad this year." },
+          { "word": "manage", "pos": "verb", "ipa": "/ˈmænɪdʒ/", "meaning": "berhasil (melakukan sesuatu yang sulit)", "example": "She managed to finish on time." },
+          { "word": "refuse", "pos": "verb", "ipa": "/rɪˈfjuːz/", "meaning": "menolak", "example": "He refused to pay for the broken glass." },
+          { "word": "promise", "pos": "verb", "ipa": "/ˈprɒmɪs/", "meaning": "berjanji", "example": "I promise to be careful." },
+          { "word": "offer", "pos": "verb", "ipa": "/ˈɒfə(r)/", "meaning": "menawarkan", "example": "My neighbour offered to water my plants." },
+          { "word": "postpone", "pos": "verb", "ipa": "/pəˈspəʊn/", "meaning": "menunda", "example": "They decided to postpone the wedding." }
+        ],
+        "grammar": [
+          { "pattern": "decide / hope / plan / agree / refuse + to + V1", "example": "They agreed to share the costs.", "note": "Keputusan dan rencana." },
+          { "pattern": "promise / manage / offer / afford / learn + to + V1", "example": "He learned to swim when he was six.", "note": "Setelah to selalu V1." },
+          { "pattern": "verb + not to + V1", "example": "She decided not to apply for the job.", "note": "Not sebelum to." },
+          { "pattern": "like / love / hate / start / begin + V-ing or to + V1", "example": "It began snowing. / It began to snow.", "note": "Keduanya benar, arti hampir sama." }
+        ],
+        "mistakes": [
+          { "wrong": "We hope seeing you at the wedding.", "right": "We hope to see you at the wedding.", "why": "Hope diikuti to + V1." },
+          { "wrong": "I decided to not go to the party.", "right": "I decided not to go to the party.", "why": "Bentuk standar: not to + V1." },
+          { "wrong": "He managed to passed the exam.", "right": "He managed to pass the exam.", "why": "Setelah to selalu V1, bukan V2." },
+          { "wrong": "They can't afford buying a house.", "right": "They can't afford to buy a house.", "why": "Afford diikuti to + V1." }
+        ],
+        "summary": "Verbs such as **decide, hope, plan, agree, refuse, promise, manage, offer, afford** are followed by **to + V1**. Bentuk negative-nya **not to + V1**. Bandingkan dengan *enjoy, avoid, finish, suggest* yang diikuti V-ing. *Like, love, start, begin* bisa diikuti keduanya.",
+        "reviewCards": [
+          { "front": "decide + ?", "back": "to + V1 — We decided to leave." },
+          { "front": "Aku memutuskan untuk tidak pergi.", "back": "I decided not to go." },
+          { "front": "afford + ?", "back": "to + V1 — I can't afford to buy it." },
+          { "front": "suggest vs agree", "back": "suggest + V-ing; agree + to + V1" },
+          { "front": "It started ___ (rain).", "back": "raining / to rain — keduanya benar" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u10-l2-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "verb + to-infinitive",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the correct form.",
+          "instructions": "Agree termasuk kelompok kata kerja keputusan.",
+          "text": "After a long discussion, the team agreed ___ the meeting to Thursday.",
+          "choices": [["to move", "moving", "move"]],
+          "answers": [0],
+          "explanation": "**Agree + to + V1**: *agreed to move the meeting*. *Moving* dan *move* salah setelah agree."
+        },
+        {
+          "id": "b1-u10-l2-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "-ing vs to-infinitive",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Drag the correct forms into the gaps.",
+          "text": "Rudi can't afford ___ a new car, so he's considering ___ a second-hand one.",
+          "bank": ["to buy", "buying", "buy", "to buying"],
+          "answers": ["to buy", "buying"],
+          "explanation": "**Afford + to + V1** → *can't afford to buy*. **Consider + V-ing** → *considering buying*."
+        },
+        {
+          "id": "b1-u10-l2-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "offer + to-infinitive",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence using the verb given.",
+          "sentence": "Lina said, \"I'll help you with your homework if you like.\"",
+          "cue": "Use offered. Begin with: Lina offered ...",
+          "answers": [
+            "Lina offered to help me with my homework.",
+            "Lina offered to help me with the homework.",
+            "Lina offered to help me with my homework if I liked."
+          ],
+          "explanation": "Menawarkan bantuan → **offer + to + V1**: *Lina offered to help me with my homework.*"
+        },
+        {
+          "id": "b1-u10-l2-q4",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "verb + to-infinitive",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the sentence with the correct forms of the verbs in brackets.",
+          "text": "I've decided ___ (not / eat) fast food this month, and I've already managed ___ (lose) two kilos.",
+          "answers": [["not to eat"], ["to lose"]],
+          "explanation": "**Decide + not to + V1** → *decided not to eat*. **Manage + to + V1** → *managed to lose*."
+        },
+        {
+          "id": "b1-u10-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "refuse + to-infinitive",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "The manager refused answering my question about the delivery.",
+          "answers": ["The manager refused to answer my question about the delivery."],
+          "explanation": "**Refuse + to + V1**: *refused to answer*."
+        },
+        {
+          "id": "b1-u10-l2-q6",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "hope + to-infinitive",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "We hope seeing you again soon.",
+            "We hope to see you again soon.",
+            "We hope see you again soon.",
+            "We hope to seeing you again soon."
+          ],
+          "answer": 1,
+          "explanation": "**Hope + to + V1**: *We hope to see you again soon.* Setelah *to* harus V1, jadi *to seeing* salah."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u10-l3-used-to",
+      "title": "Used To: Past Habits and States",
+      "summary": "Membicarakan kebiasaan dan keadaan di masa lalu yang sudah tidak terjadi lagi dengan used to, didn't use to dan Did you use to...?",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai used to + V1 untuk kebiasaan dan keadaan di masa lalu",
+        "Membuat negative dan pertanyaan dengan didn't use to / Did ... use to?",
+        "Membedakan used to dari past simple untuk kejadian satu kali"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Used to = dulu (sekarang tidak lagi)\nWe use **used to + V1** to talk about habits or states in the past that are **not true now**. Dalam bahasa Indonesia biasanya kita memakai kata **dulu** atau **dulu sering**.\n- *I **used to** play football every Saturday.* (Dulu aku main bola setiap Sabtu — sekarang tidak.)\n- *This café **used to** be a bookshop.* (Dulu kafe ini toko buku.)\n\nUsed to works for two things:\n| Jenis | Contoh |\n|---|---|\n| **Past habits** (kebiasaan berulang) | We used to visit our grandparents every holiday. |\n| **Past states** (keadaan) | He used to have long hair. / I used to live in Pinewood. |\n\n### Bentuk\n| | Bentuk | Contoh |\n|---|---|---|\n| Positive | used to + V1 | She **used to** work in a bank. |\n| Negative | didn't use to + V1 | I **didn't use to** like coffee. |\n| Question | Did + subject + use to + V1? | **Did** you **use to** walk to school? |\n\nPerhatikan: dalam negative dan pertanyaan, *did* sudah menunjukkan past, jadi kita menulis **use to** (tanpa -d) — sama seperti *didn't play*, bukan *didn't played*. You can also say **never used to**: *I never used to eat breakfast.*\n\n### Used to vs past simple\nUsed to is only for **repeated** habits or long states. Untuk kejadian **satu kali** atau jumlah kali yang spesifik, pakai **past simple**:\n- ✓ *I went to Lombok three times last year.*\n- ✗ *I used to go to Lombok three times last year.*\n- ✓ *I used to go to Lombok every summer when I was a child.*\n\nPast simple juga bisa dipakai untuk kebiasaan (*I walked to school every day*), tetapi **used to** lebih jelas menunjukkan bahwa kebiasaan itu **sudah berubah**.\n\n### Tidak ada bentuk present\nThere is no present form *use to*. Untuk kebiasaan sekarang, pakai present simple + **usually**:\n- ✗ *I use to get up at six.*\n- ✓ *I **usually** get up at six.*\n\n### Pengucapan\n*Used to* dan *use to* diucapkan sama: /ˈjuːs tə/. Jadi saat menulis, ingat aturan *did* di atas.",
+        "examples": [
+          { "en": "When I was a child, I used to climb the mango tree in our garden.", "id": "Waktu kecil, aku dulu sering memanjat pohon mangga di kebun kami.", "note": "Kebiasaan di masa lalu." },
+          { "en": "There used to be a cinema on this street.", "id": "Dulu ada bioskop di jalan ini.", "note": "Keadaan di masa lalu." },
+          { "en": "My dad didn't use to cook, but now he makes dinner every night.", "id": "Ayahku dulu tidak memasak, tetapi sekarang dia membuat makan malam setiap malam.", "note": "Negative: didn't use to." },
+          { "en": "Did you use to wear glasses?", "id": "Apakah dulu kamu memakai kacamata?", "note": "Pertanyaan: Did ... use to." },
+          { "en": "I never used to like spinach.", "id": "Dulu aku sama sekali tidak suka bayam.", "note": "never used to." }
+        ],
+        "vocabulary": [
+          { "word": "childhood", "pos": "noun", "ipa": "/ˈtʃaɪldhʊd/", "meaning": "masa kanak-kanak", "example": "I had a happy childhood in a small town." },
+          { "word": "habit", "pos": "noun", "ipa": "/ˈhæbɪt/", "meaning": "kebiasaan", "example": "Biting your nails is a bad habit." },
+          { "word": "neighbourhood", "pos": "noun", "ipa": "/ˈneɪbəhʊd/", "meaning": "lingkungan tempat tinggal", "example": "Our neighbourhood used to be very quiet." },
+          { "word": "grow up", "pos": "phrasal verb", "ipa": "/ɡrəʊ ʌp/", "meaning": "tumbuh besar; dibesarkan", "example": "I grew up in a fishing village." },
+          { "word": "village", "pos": "noun", "ipa": "/ˈvɪlɪdʒ/", "meaning": "desa", "example": "She used to live in a village near the mountains." },
+          { "word": "nowadays", "pos": "adverb", "ipa": "/ˈnaʊədeɪz/", "meaning": "sekarang ini; dewasa ini", "example": "Nowadays I usually work from home." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + used to + V1", "example": "We used to live in Kotabaru.", "note": "Kebiasaan/keadaan masa lalu yang sudah berubah." },
+          { "pattern": "Subject + didn't use to / never used to + V1", "example": "She didn't use to drink tea.", "note": "Tanpa -d setelah didn't." },
+          { "pattern": "Did + subject + use to + V1?", "example": "Did they use to play together?", "note": "Tanpa -d setelah did." },
+          { "pattern": "There used to be + noun", "example": "There used to be a big tree here.", "note": "Keadaan tempat di masa lalu." }
+        ],
+        "mistakes": [
+          { "wrong": "Did you used to live here?", "right": "Did you use to live here?", "why": "Setelah did, pakai use to (tanpa -d)." },
+          { "wrong": "I use to get up at six every day.", "right": "I usually get up at six every day.", "why": "Tidak ada bentuk present 'use to'; untuk kebiasaan sekarang pakai usually + present simple." },
+          { "wrong": "I used to visit Paris once in 2019.", "right": "I visited Paris once in 2019.", "why": "Kejadian satu kali memakai past simple, bukan used to." },
+          { "wrong": "She used to working in a hotel.", "right": "She used to work in a hotel.", "why": "Used to (kebiasaan masa lalu) diikuti V1." }
+        ],
+        "summary": "**Used to + V1** describes past habits and states that are not true now (*I used to live in Pinewood*). Negative: **didn't use to**; question: **Did you use to ...?** Untuk kejadian satu kali pakai past simple, dan untuk kebiasaan sekarang pakai *usually* + present simple.",
+        "reviewCards": [
+          { "front": "Dulu aku tinggal di desa.", "back": "I used to live in a village." },
+          { "front": "Negative of used to", "back": "didn't use to / never used to — I didn't use to like coffee." },
+          { "front": "Did you ___ to play the guitar?", "back": "use (tanpa -d setelah did)" },
+          { "front": "Present habit: I ___ get up at six.", "back": "usually (bukan use to)" },
+          { "front": "Satu kali kejadian: used to atau past simple?", "back": "Past simple — I went there once." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u10-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "used to for past habits",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "When I was a child, I ___ ride my bike to the river every afternoon.",
+          "instructions": "Kebiasaan berulang di masa lalu yang sekarang tidak terjadi lagi.",
+          "options": ["used to", "use to", "am used to", "was use to"],
+          "answer": 0,
+          "explanation": "Kebiasaan masa lalu → **used to + V1**: *I used to ride my bike*. *Use to* hanya dipakai setelah *did/didn't*.",
+          "misconception": "Use to bisa dipakai dalam kalimat positive."
+        },
+        {
+          "id": "b1-u10-l3-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "didn't use to",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Complete the sentence with the negative form of used to.",
+          "text": "My father ___ like vegetables, but now he eats a big salad every day.",
+          "answers": [["didn't use to", "did not use to", "never used to"]],
+          "explanation": "Negative: **didn't use to + V1** (tanpa -d setelah *didn't*). *Never used to* juga benar."
+        },
+        {
+          "id": "b1-u10-l3-q3",
+          "type": "dictation",
+          "category": "listening",
+          "topic": "used to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Listen and write the sentence you hear.",
+          "text": "When we were children, we used to swim in the river behind our grandmother's house.",
+          "explanation": "Perhatikan bahwa *used to* diucapkan /ˈjuːs tə/ — huruf *d* hampir tidak terdengar, tetapi tetap ditulis dalam kalimat positive."
+        },
+        {
+          "id": "b1-u10-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "used to questions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the question.",
+          "segments": ["Did you", "used to", "walk to school", "when you were young?"],
+          "errorIndex": 1,
+          "correction": "use to",
+          "explanation": "Dalam pertanyaan, *did* sudah menunjukkan past, jadi pakai **use to** (tanpa -d): *Did you use to walk to school?*"
+        },
+        {
+          "id": "b1-u10-l3-q5",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "used to for past states",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Nita", "text": "Have you always lived in the city?" },
+            { "speaker": "Yoga", "text": null },
+            { "speaker": "Nita", "text": "That sounds peaceful. Do you miss it?" }
+          ],
+          "options": [
+            "No, I used to live in a small village near the mountains.",
+            "No, I use to live in a small village near the mountains.",
+            "No, I'm used to live in a small village near the mountains.",
+            "No, I used to living in a small village near the mountains."
+          ],
+          "answer": 0,
+          "explanation": "Keadaan di masa lalu yang sudah berubah → **used to + V1**: *I used to live*. Opsi lain salah bentuk."
+        },
+        {
+          "id": "b1-u10-l3-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "used to for past states",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write the two missing words: 'I ___ ___ have long hair, but I cut it short last year.'",
+          "answers": ["used to"],
+          "explanation": "Keadaan di masa lalu yang sudah tidak benar sekarang → **used to + V1**: *I used to have long hair.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u10-l4-be-used-to-get-used-to",
+      "title": "Be Used To and Get Used To",
+      "summary": "Mengenal be used to (sudah terbiasa) dan get used to (mulai terbiasa) + noun / V-ing, dan membedakannya dari used to + V1.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memakai be used to + noun/V-ing untuk sesuatu yang sudah biasa",
+        "Memakai get used to + noun/V-ing untuk proses menjadi terbiasa",
+        "Membedakan used to + V1, be used to + V-ing dan get used to + V-ing"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tiga bentuk yang mirip\nThese three forms look similar but have different meanings. Ini sering membingungkan, jadi perhatikan tabel berikut.\n\n| Bentuk | Arti | Contoh |\n|---|---|---|\n| **used to + V1** | dulu (sekarang tidak) | I **used to live** alone. |\n| **be used to + noun / V-ing** | sudah terbiasa | I**'m used to living** alone. |\n| **get used to + noun / V-ing** | mulai/menjadi terbiasa | I'm **getting used to living** alone. |\n\n### Be used to = sudah terbiasa\n**Be used to** means something is **normal and familiar** for you; it isn't strange or difficult any more. Kata *to* di sini adalah **preposition**, jadi diikuti **noun** atau **V-ing** (ingat lesson 1: setelah preposition selalu V-ing).\n- *I'm used to **the noise** of the city.* (noun)\n- *She's used to **getting up** early.* (V-ing)\n- *He **isn't used to** cold weather.* (belum terbiasa)\n- *Are you used to **working** at night?*\n\nBagian **be** berubah sesuai waktu: *I **was** used to it*, *I **wasn't** used to it at first*.\n\n### Get used to = menjadi terbiasa (proses)\n**Get used to** describes the **process** of something becoming normal. Kita sering memakainya dengan berbagai tense:\n- *I'm **getting used to** my new job.* (sedang dalam proses)\n- *It took me a month to **get used to** driving on the left.*\n- *Don't worry — you'**ll get used to** it!*\n- *She **got used to** the spicy food very quickly.*\n\n### Contoh cerita singkat\n*When Tari moved to Northfield, she **wasn't used to** the cold. At first it was hard, but slowly she **got used to** it. Now she **is used to** wearing a thick coat every day. She **used to** wear sandals all year in Indonesia!*\n\n### Hati-hati\n- ✗ *I'm used to get up early.* → ✓ *I'm used to **getting** up early.*\n- ✗ *I used to getting up early.* (tanpa *be* → artinya 'dulu', jadi harus V1)\n- Jangan lupa **be**: ✗ *I used to the noise now.* → ✓ *I**'m** used to the noise now.*\n\nTip: tanyakan pada dirimu — apakah ada **be/get** sebelum *used to*? Kalau ya → noun/V-ing. Kalau tidak → V1.",
+        "examples": [
+          { "en": "I've lived here for ten years, so I'm used to the hot weather.", "id": "Aku sudah tinggal di sini sepuluh tahun, jadi aku sudah terbiasa dengan cuaca panas.", "note": "be used to + noun." },
+          { "en": "Nurses are used to working long shifts.", "id": "Perawat sudah terbiasa bekerja dengan shift panjang.", "note": "be used to + V-ing." },
+          { "en": "I'm still getting used to my new glasses.", "id": "Aku masih mulai terbiasa dengan kacamata baruku.", "note": "get used to: proses." },
+          { "en": "It took Bima a few weeks to get used to living in a dormitory.", "id": "Bima butuh beberapa minggu untuk terbiasa tinggal di asrama.", "note": "It took ... to get used to + V-ing." },
+          { "en": "Don't worry about the new software. You'll soon get used to it.", "id": "Jangan khawatir tentang perangkat lunak baru itu. Kamu akan segera terbiasa.", "note": "will get used to." }
+        ],
+        "vocabulary": [
+          { "word": "adapt", "pos": "verb", "ipa": "/əˈdæpt/", "meaning": "beradaptasi; menyesuaikan diri", "example": "Children usually adapt quickly to a new school." },
+          { "word": "adjust", "pos": "verb", "ipa": "/əˈdʒʌst/", "meaning": "menyesuaikan (diri)", "example": "It took me a while to adjust to the time difference." },
+          { "word": "familiar", "pos": "adjective", "ipa": "/fəˈmɪliə(r)/", "meaning": "akrab; sudah dikenal", "example": "After a month, the streets felt familiar." },
+          { "word": "homesick", "pos": "adjective", "ipa": "/ˈhəʊmsɪk/", "meaning": "rindu kampung halaman", "example": "She felt homesick during her first month abroad." },
+          { "word": "climate", "pos": "noun", "ipa": "/ˈklaɪmət/", "meaning": "iklim", "example": "I'm not used to a cold climate." },
+          { "word": "dormitory", "pos": "noun", "ipa": "/ˈdɔːmətri/", "meaning": "asrama", "example": "First-year students live in the dormitory." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + be (am/is/are/was/were) + used to + noun / V-ing", "example": "He's used to cooking for himself.", "note": "Sudah terbiasa." },
+          { "pattern": "Subject + be + not + used to + noun / V-ing", "example": "I'm not used to this keyboard.", "note": "Belum terbiasa." },
+          { "pattern": "Subject + get / got / will get / is getting + used to + noun / V-ing", "example": "She's getting used to the new timetable.", "note": "Proses menjadi terbiasa." },
+          { "pattern": "It took + person + time + to get used to + noun / V-ing", "example": "It took me a year to get used to the food.", "note": "Berapa lama prosesnya." }
+        ],
+        "mistakes": [
+          { "wrong": "I'm used to get up at 5 a.m.", "right": "I'm used to getting up at 5 a.m.", "why": "Be used to diikuti V-ing atau noun, karena to di sini adalah preposition." },
+          { "wrong": "I used to the noise now.", "right": "I'm used to the noise now.", "why": "Untuk 'sudah terbiasa' butuh be: I'm used to." },
+          { "wrong": "She is getting used to live alone.", "right": "She is getting used to living alone.", "why": "Get used to + V-ing." },
+          { "wrong": "I used to living in Jakarta, but now I live in Ternate.", "right": "I used to live in Jakarta, but now I live in Ternate.", "why": "Untuk arti 'dulu' (tanpa be/get), pakai used to + V1." }
+        ],
+        "summary": "**Be used to + noun/V-ing** = sudah terbiasa; **get used to + noun/V-ing** = proses menjadi terbiasa. Keduanya berbeda dari **used to + V1** (= dulu). Tip: jika ada *be* atau *get* sebelum *used to*, gunakan noun atau V-ing.",
+        "reviewCards": [
+          { "front": "be used to + ?", "back": "noun / V-ing — I'm used to working late." },
+          { "front": "Aku mulai terbiasa dengan pekerjaan baruku.", "back": "I'm getting used to my new job." },
+          { "front": "used to vs be used to", "back": "used to + V1 = dulu; be used to + V-ing = sudah terbiasa" },
+          { "front": "It took me a month to get used to ___ (drive) on the left.", "back": "driving" },
+          { "front": "Kamu akan segera terbiasa.", "back": "You'll soon get used to it." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u10-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "be used to",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "I've lived in Lakemoor for ten years, so I ___ the cold winters.",
+          "instructions": "Artinya: hal itu sudah normal bagiku.",
+          "options": ["am used to", "used to", "use to", "am use to"],
+          "answer": 0,
+          "explanation": "Sudah terbiasa → **be used to + noun**: *I am used to the cold winters.* *Used to* tanpa *be* berarti 'dulu' dan harus diikuti V1.",
+          "misconception": "Used to dan be used to artinya sama."
+        },
+        {
+          "id": "b1-u10-l4-q2",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "used to vs be/get used to",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Match each sentence with its meaning.",
+          "pairs": [
+            { "left": "I used to drive to work.", "right": "I drove to work regularly in the past, but I don't now." },
+            { "left": "I'm used to driving to work.", "right": "Driving to work is normal and easy for me." },
+            { "left": "I'm getting used to driving to work.", "right": "Driving to work is slowly becoming easier for me." },
+            { "left": "I'm not used to driving to work.", "right": "Driving to work still feels strange and difficult for me." }
+          ],
+          "explanation": "**Used to + V1** = dulu; **be used to** = sudah terbiasa; **getting used to** = sedang dalam proses; **not used to** = belum terbiasa."
+        },
+        {
+          "id": "b1-u10-l4-q3",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "be used to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into Indonesian.",
+          "source": "I'm not used to cold weather.",
+          "direction": "en-id",
+          "answers": [
+            "Aku tidak terbiasa dengan cuaca dingin.",
+            "Saya tidak terbiasa dengan cuaca dingin.",
+            "Aku belum terbiasa dengan cuaca dingin.",
+            "Saya belum terbiasa dengan cuaca dingin.",
+            "Aku tidak biasa dengan cuaca dingin.",
+            "Saya tidak biasa dengan cuaca dingin.",
+            "Aku tidak terbiasa dengan udara dingin.",
+            "Saya tidak terbiasa dengan udara dingin.",
+            "Aku belum terbiasa dengan udara dingin.",
+            "Saya belum terbiasa dengan udara dingin."
+          ],
+          "explanation": "**Be not used to** = *tidak/belum terbiasa dengan*. Ini bukan *dulu* — arti *dulu* hanya untuk *used to + V1* tanpa *be*."
+        },
+        {
+          "id": "b1-u10-l4-q4",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "be/get used to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct option for each gap.",
+          "text": "When Sari moved to Northfield, she wasn't used to ___ on the left. But after a few months, she ___ used to it.",
+          "choices": [["driving", "drive", "drove"], ["got", "use", "has"]],
+          "answers": [0, 0],
+          "explanation": "**Be used to + V-ing** → *wasn't used to driving*. Proses menjadi terbiasa di masa lalu → **got used to it**."
+        },
+        {
+          "id": "b1-u10-l4-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "get used to + -ing",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the mistake in the sentence.",
+          "sentence": "I'm slowly getting used to wake up at 5 a.m. for my new job.",
+          "answers": [
+            "I'm slowly getting used to waking up at 5 a.m. for my new job.",
+            "I am slowly getting used to waking up at 5 a.m. for my new job."
+          ],
+          "explanation": "**Get used to + V-ing** (to adalah preposition): *getting used to waking up*."
+        },
+        {
+          "id": "b1-u10-l4-q6",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "get used to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["It", "took", "me", "a", "long", "time", "to", "get", "used", "to", "the", "noise"],
+          "explanation": "Pola: **It took + person + time + to get used to + noun**: *It took me a long time to get used to the noise.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u10-l5-lifestyle-change",
+      "title": "Changing Your Lifestyle",
+      "summary": "Menceritakan perubahan gaya hidup dengan phrasal verbs seperti take up, give up, cut down on dan stick to, sambil menggabungkan used to dan verb patterns.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Memakai kosakata dan phrasal verbs tentang kebiasaan dan gaya hidup",
+        "Menggabungkan used to, be/get used to dan verb patterns untuk menceritakan perubahan",
+        "Membandingkan kehidupan dulu dan sekarang dengan jelas"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membicarakan perubahan gaya hidup\nPeople often change their habits: they start exercising, stop eating junk food, or move to a new place. To describe these changes, we combine everything from this unit: **used to**, **be/get used to**, and **verb patterns**.\n\n### Phrasal verbs penting\n| Phrasal verb | Arti | Pola | Contoh |\n|---|---|---|---|\n| take up | mulai (hobi/kegiatan baru) | + noun / V-ing | I've taken up yoga. |\n| give up | berhenti (kebiasaan) | + noun / V-ing | He gave up smoking. |\n| cut down on | mengurangi | + noun / V-ing | I'm cutting down on sugar. |\n| stick to | tetap pada (rencana) | + noun | It's hard to stick to a diet. |\n| stay up | begadang | (late) | I used to stay up until 2 a.m. |\n\nNote that *give up* and *take up* are followed by **-ing** when the next word is a verb: *take up running, give up eating meat.*\n\n### Struktur cerita 'dulu vs sekarang'\nA clear description of change usually has three parts:\n1. **The past**: *I used to eat a lot of fried food and I didn't use to exercise.*\n2. **The change**: *Last year I decided to change. I gave up fizzy drinks and took up cycling.*\n3. **Now**: *At first it was hard, but now I'm used to cycling to work. I enjoy feeling healthier.*\n\nPerhatikan bagaimana setiap bagian memakai grammar dari unit ini: **used to** (dulu), **decide to / give up + -ing** (perubahan), **be used to / enjoy + -ing** (sekarang). Kamu juga bisa memakai **present perfect** dari Unit 1: *I've lost five kilos since I started.*\n\n### Kosakata gaya hidup\n- **lifestyle** — gaya hidup; **a healthy / an unhealthy lifestyle**\n- **balanced diet** — pola makan seimbang\n- **commute** — perjalanan pulang-pergi kerja (*My commute takes an hour.*)\n- **work-life balance** — keseimbangan kerja dan kehidupan pribadi\n- **routine** — rutinitas\n\n### Tips\nGunakan kata penghubung waktu agar ceritamu runtut: *when I was younger, a few years ago, at first, after a while, nowadays*. Dan ingat: kebiasaan sekarang memakai **present simple** + *usually*, bukan *use to*.",
+        "examples": [
+          { "en": "I used to stay up late every night, but now I usually go to bed at ten.", "id": "Dulu aku begadang setiap malam, tetapi sekarang aku biasanya tidur jam sepuluh.", "note": "used to vs usually." },
+          { "en": "Last year my mother took up swimming, and she really enjoys it.", "id": "Tahun lalu ibuku mulai berenang, dan dia sangat menikmatinya.", "note": "take up + V-ing." },
+          { "en": "We're trying to cut down on plastic bags.", "id": "Kami sedang berusaha mengurangi kantong plastik.", "note": "cut down on + noun." },
+          { "en": "It was hard to stick to my new routine at first, but I've got used to it.", "id": "Awalnya sulit untuk tetap pada rutinitas baruku, tetapi sekarang aku sudah terbiasa.", "note": "stick to + noun; get used to." },
+          { "en": "Since he started working from home, Arman has had a better work-life balance.", "id": "Sejak mulai bekerja dari rumah, Arman memiliki keseimbangan kerja dan hidup yang lebih baik.", "note": "Present perfect untuk perubahan sampai sekarang." }
+        ],
+        "vocabulary": [
+          { "word": "lifestyle", "pos": "noun", "ipa": "/ˈlaɪfstaɪl/", "meaning": "gaya hidup", "example": "She has a very active lifestyle." },
+          { "word": "take up", "pos": "phrasal verb", "ipa": "/teɪk ʌp/", "meaning": "mulai menekuni (hobi/kegiatan)", "example": "I've taken up painting." },
+          { "word": "cut down on", "pos": "phrasal verb", "ipa": "/kʌt daʊn ɒn/", "meaning": "mengurangi", "example": "You should cut down on salt." },
+          { "word": "stick to", "pos": "phrasal verb", "ipa": "/stɪk tuː/", "meaning": "tetap pada; konsisten dengan", "example": "Try to stick to your budget." },
+          { "word": "commute", "pos": "noun / verb", "ipa": "/kəˈmjuːt/", "meaning": "perjalanan pulang-pergi kerja; pulang-pergi", "example": "My commute takes forty minutes." },
+          { "word": "balanced diet", "pos": "noun", "ipa": "/ˈbælənst ˈdaɪət/", "meaning": "pola makan seimbang", "example": "A balanced diet includes fruit and vegetables." },
+          { "word": "routine", "pos": "noun", "ipa": "/ruːˈtiːn/", "meaning": "rutinitas", "example": "Exercise is now part of my daily routine." }
+        ],
+        "grammar": [
+          { "pattern": "take up / give up + noun / V-ing", "example": "He took up running last spring.", "note": "Mulai / berhenti kebiasaan." },
+          { "pattern": "cut down on + noun / V-ing", "example": "I'm cutting down on coffee.", "note": "Mengurangi, tidak berhenti total." },
+          { "pattern": "used to + V1 ... but now + present simple", "example": "I used to drive, but now I cycle.", "note": "Membandingkan dulu dan sekarang." },
+          { "pattern": "spend + time + V-ing", "example": "I used to spend two hours commuting.", "note": "Menghabiskan waktu untuk melakukan sesuatu." }
+        ],
+        "mistakes": [
+          { "wrong": "I've taken up to run.", "right": "I've taken up running.", "why": "Take up diikuti noun atau V-ing." },
+          { "wrong": "I'm cutting down sugar.", "right": "I'm cutting down on sugar.", "why": "Phrasal verb lengkapnya cut down on + noun." },
+          { "wrong": "Now I use to go to the gym three times a week.", "right": "Now I usually go to the gym three times a week.", "why": "Untuk kebiasaan sekarang pakai usually + present simple." },
+          { "wrong": "I spend an hour to cook every evening.", "right": "I spend an hour cooking every evening.", "why": "Spend + waktu + V-ing." }
+        ],
+        "summary": "To describe lifestyle changes, use **used to** for the past, **decide to / give up / take up / cut down on** for the change, and **be used to / enjoy + -ing** or present simple for now. Phrasal verb penting: *take up* (mulai), *give up* (berhenti), *cut down on* (mengurangi), *stick to* (tetap pada).",
+        "reviewCards": [
+          { "front": "take up", "back": "mulai hobi/kegiatan baru — I've taken up yoga." },
+          { "front": "cut down on", "back": "mengurangi — cut down on sugar" },
+          { "front": "Aku menghabiskan satu jam untuk memasak.", "back": "I spend an hour cooking." },
+          { "front": "stick to", "back": "tetap pada / konsisten — stick to a plan" },
+          { "front": "give up vs cut down on", "back": "give up = berhenti total; cut down on = mengurangi" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u10-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "lifestyle phrasal verbs",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "\"After my doctor's warning, I've cut down on sugar. I only have one sweet drink a week now.\" What does 'cut down on' mean?",
+          "options": ["reduce", "stop completely", "increase", "buy more cheaply"],
+          "answer": 0,
+          "explanation": "**Cut down on** = mengurangi. Orang itu masih minum satu minuman manis per minggu, jadi dia tidak berhenti total (itu *give up*)."
+        },
+        {
+          "id": "b1-u10-l5-q2",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "describing lifestyle change",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Talk for about one minute about how your lifestyle has changed in the last few years. Say what you used to do, what changed, and what you are used to now. Use at least two verb patterns (e.g. decided to, gave up + -ing, enjoy + -ing).",
+          "targetPhrases": ["I used to", "I didn't use to", "I decided to", "I gave up", "I've taken up", "now I'm used to"],
+          "sampleAnswer": "A few years ago I used to stay up very late and I didn't use to do any exercise. I also used to spend two hours commuting every day. Last year I decided to change my routine. I gave up drinking fizzy drinks and I took up cycling. At first it was difficult, but now I'm used to getting up early, and I really enjoy riding my bike to work.",
+          "explanation": "Strukturkan jawabanmu: dulu (*used to / didn't use to*), perubahan (*decided to, gave up, took up*), sekarang (*I'm used to + V-ing, I enjoy + V-ing*)."
+        },
+        {
+          "id": "b1-u10-l5-q3",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "lifestyle phrasal verbs",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Last year I ___ yoga, and now I'm trying to ___ to a routine of three classes a week. I've also ___ smoking completely.",
+          "bank": ["took up", "stick", "given up", "cut down", "taken", "give up"],
+          "answers": ["took up", "stick", "given up"],
+          "explanation": "*Last year* → past simple **took up** (mulai). **Stick to a routine** = tetap pada rutinitas. *I've ... completely* → present perfect **given up** (berhenti total)."
+        },
+        {
+          "id": "b1-u10-l5-q4",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "lifestyle phrasal verbs",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Match each phrasal verb with its meaning.",
+          "pairs": [
+            { "left": "take up", "right": "start a new hobby or activity" },
+            { "left": "give up", "right": "stop doing something completely" },
+            { "left": "cut down on", "right": "do or use less of something" },
+            { "left": "stay up", "right": "go to bed later than usual" },
+            { "left": "stick to", "right": "continue doing something as you planned" }
+          ],
+          "explanation": "**Take up** = mulai, **give up** = berhenti total, **cut down on** = mengurangi, **stay up** = begadang, **stick to** = tetap pada rencana."
+        },
+        {
+          "id": "b1-u10-l5-q5",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "describing change",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the parts of the sentence in the correct order.",
+          "fragments": ["When I lived in the city,", "I used to", "spend two hours", "commuting every day,", "but now I work from home."],
+          "acceptedAnswers": ["I used to spend two hours commuting every day when I lived in the city, but now I work from home."],
+          "explanation": "Kalimat ini membandingkan dulu (**used to + V1**, *spend + time + V-ing*) dan sekarang (present simple): *When I lived in the city, I used to spend two hours commuting every day, but now I work from home.*"
+        },
+        {
+          "id": "b1-u10-l5-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "decide to + give up",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Ayahku memutuskan untuk berhenti merokok.",
+          "direction": "id-en",
+          "answers": [
+            "My father decided to give up smoking.",
+            "My father decided to stop smoking.",
+            "My father decided to quit smoking.",
+            "My dad decided to give up smoking.",
+            "My dad decided to stop smoking.",
+            "My dad decided to quit smoking.",
+            "My father has decided to give up smoking.",
+            "My father has decided to stop smoking.",
+            "My father has decided to quit smoking.",
+            "My dad has decided to give up smoking.",
+            "My dad has decided to stop smoking.",
+            "My dad has decided to quit smoking.",
+            "My father's decided to give up smoking.",
+            "My dad's decided to give up smoking."
+          ],
+          "explanation": "**Decide + to + V1** → *decided to give up*; lalu **give up + V-ing** → *give up smoking*. *Stop smoking* dan *quit smoking* juga benar."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u10-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "used to vs past simple",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Last summer we ___ to the beach three times.",
+      "options": ["went", "used to go", "were used to going", "use to go"],
+      "answer": 0,
+      "explanation": "Jumlah kali yang spesifik (*three times*) pada waktu tertentu (*last summer*) → **past simple**: *went*. Used to hanya untuk kebiasaan atau keadaan yang berulang/berlangsung lama."
+    },
+    {
+      "id": "b1-u10-t-q2",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "-ing vs to-infinitive",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the correct form for each gap.",
+      "text": "Tari is considering ___ a cooking course, and she hopes ___ her own café one day.",
+      "choices": [["taking", "to take"], ["opening", "to open"]],
+      "answers": [0, 1],
+      "explanation": "**Consider + V-ing** → *considering taking*. **Hope + to + V1** → *hopes to open*."
+    },
+    {
+      "id": "b1-u10-t-q3",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "used to",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Complete the sentences. Use used to in both gaps.",
+      "text": "My grandparents ___ (not / have) a TV when they were young. Instead, they ___ (listen) to the radio every evening.",
+      "answers": [["didn't use to have", "did not use to have", "never used to have"], ["used to listen"]],
+      "explanation": "Negative: **didn't use to + V1** (tanpa -d). Positive: **used to + V1** untuk kebiasaan masa lalu."
+    },
+    {
+      "id": "b1-u10-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "be used to + -ing",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["After two years in Seabrook,", "I'm finally used to", "speak English", "at work every day."],
+      "errorIndex": 2,
+      "correction": "speaking English",
+      "explanation": "**Be used to + V-ing**: *I'm finally used to speaking English.* Kata *to* di sini adalah preposition."
+    },
+    {
+      "id": "b1-u10-t-q5",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "be used to",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it has a similar meaning.",
+      "sentence": "Working at night is normal for Pak Hendra now. He has done it for years.",
+      "cue": "Use be used to. Begin with: Pak Hendra ...",
+      "answers": [
+        "Pak Hendra is used to working at night.",
+        "Pak Hendra's used to working at night.",
+        "Pak Hendra is used to working at night. He has done it for years.",
+        "Pak Hendra is used to working at night because he has done it for years."
+      ],
+      "explanation": "Sesuatu yang sudah normal → **be used to + V-ing**: *Pak Hendra is used to working at night.*"
+    },
+    {
+      "id": "b1-u10-t-q6",
+      "type": "matching",
+      "category": "grammar",
+      "topic": "verb patterns",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Match the sentence beginnings with the correct endings.",
+      "pairs": [
+        { "left": "I can't afford", "right": "to go on holiday this year." },
+        { "left": "Would you mind", "right": "waiting outside for a moment?" },
+        { "left": "She is slowly getting used to", "right": "living in a big city." },
+        { "left": "When I was young, I used to", "right": "spend hours reading comics." }
+      ],
+      "explanation": "**Afford + to + V1**; **mind + V-ing**; **getting used to + V-ing**; **used to + V1**."
+    },
+    {
+      "id": "b1-u10-t-q7",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "verb patterns",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Which sentences are correct? Choose all correct answers.",
+      "options": [
+        "He kept talking during the film.",
+        "We managed finding a parking space.",
+        "They promised to call us later.",
+        "I'm used to get up early.",
+        "She avoids driving in the rain."
+      ],
+      "answers": [0, 2, 4],
+      "explanation": "Benar: **kept talking** (keep + V-ing), **promised to call** (promise + to), **avoids driving** (avoid + V-ing). Salah: *managed finding* → *managed to find*; *I'm used to get up* → *I'm used to getting up*."
+    },
+    {
+      "id": "b1-u10-t-q8",
+      "type": "short_answer",
+      "category": "grammar",
+      "topic": "didn't use to",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Write ONE word to complete the sentence: 'Andi didn't ___ to like vegetables, but now he loves them.'",
+      "answers": ["use"],
+      "explanation": "Setelah *didn't*, kita memakai **use to** (tanpa -d): *Andi didn't use to like vegetables.*"
+    }
+  ]
+}

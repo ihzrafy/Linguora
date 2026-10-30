@@ -1,0 +1,538 @@
+{
+  "slug": "a2-u05-future-plans",
+  "number": 5,
+  "title": "Plans for the Future",
+  "description": "Membicarakan rencana, prediksi, janji temu, keputusan spontan, dan tawaran dengan be going to, present continuous, dan will, serta membuat dan menjawab undangan.",
+  "objectives": [
+    "Menggunakan be going to untuk rencana dan prediksi berdasarkan bukti",
+    "Menggunakan present continuous untuk janji atau acara yang sudah diatur",
+    "Menggunakan will untuk keputusan spontan dan tawaran",
+    "Membuat, menerima, dan menolak undangan dengan sopan"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u05-l1-going-to-plans",
+      "title": "Be Going To for Plans",
+      "summary": "Membicarakan rencana dan niat dengan am/is/are going to + kata kerja dasar.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk kalimat positif, negatif, dan pertanyaan dengan be going to",
+        "Menggunakan keterangan waktu masa depan: tomorrow, next week, this weekend"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Rencana yang sudah diputuskan\nKita memakai **be going to** untuk membicarakan **rencana atau niat** yang sudah kita putuskan **sebelum** berbicara.\n\n*I'**m going to** visit my grandparents next weekend.* (Saya akan/berencana mengunjungi kakek-nenek akhir pekan depan.)\n\n### Pola\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Positif | subject + **am/is/are going to** + base verb | *She's going to learn Japanese.* |\n| Negatif | subject + **am not / isn't / aren't going to** + base verb | *We aren't going to buy a car.* |\n| Pertanyaan | **Am/Is/Are** + subject + **going to** + base verb? | *Are you going to call him?* |\n| Short answer | Yes, I am. / No, she isn't. | |\n\nPerhatikan: *be* (am/is/are) mengikuti subjek, sama seperti di present continuous. Setelah *to*, kata kerja selalu **bentuk dasar**: *going to **visit***, bukan ~~going to visits~~ atau ~~going to visited~~.\n\n### Keterangan waktu masa depan\n| English | Indonesia |\n| --- | --- |\n| tonight | nanti malam |\n| tomorrow (morning) | besok (pagi) |\n| this weekend | akhir pekan ini |\n| next week / month / year | minggu / bulan / tahun depan |\n| in two weeks | dua minggu lagi |\n| soon | segera |\n\nPerhatikan: *next week* tanpa *the* dan tanpa *in*, sama seperti *last week*.\n\n### Pertanyaan wh-\n*What **are you going to do** after the exam?* (Apa yang akan kamu lakukan setelah ujian?)\n*Where **is she going to stay**?*\n\n### Catatan pelafalan\nDalam percakapan cepat, *going to* sering diucapkan /ˈɡʌnə/ (*gonna*). Kamu boleh mendengarnya, tetapi dalam tulisan formal tetap tulis **going to**.\n\n### Perbedaan dengan bahasa Indonesia\nBahasa Indonesia memakai *akan* untuk hampir semua bentuk masa depan. Bahasa Inggris membedakan rencana (**going to**), janji temu (**present continuous**), dan keputusan spontan (**will**). Kamu akan mempelajari semuanya di unit ini.",
+        "examples": [
+          { "en": "I'm going to start a cooking class next month.", "id": "Saya akan mulai kelas memasak bulan depan.", "note": "rencana yang sudah diputuskan" },
+          { "en": "My parents are going to paint the house this weekend.", "id": "Orang tua saya akan mengecat rumah akhir pekan ini.", "note": "are going to + paint" },
+          { "en": "We aren't going to travel this year. We're going to save money.", "id": "Kami tidak akan bepergian tahun ini. Kami akan menabung.", "note": "bentuk negatif" },
+          { "en": "What are you going to do after graduation?", "id": "Apa yang akan kamu lakukan setelah lulus?", "note": "pertanyaan wh-" }
+        ],
+        "vocabulary": [
+          { "word": "plan", "pos": "noun", "ipa": "/plæn/", "meaning": "rencana", "example": "What are your plans for the holiday?" },
+          { "word": "save money", "pos": "phrase", "ipa": "/seɪv ˈmʌni/", "meaning": "menabung", "example": "I'm going to save money for a new laptop." },
+          { "word": "next", "pos": "determiner", "ipa": "/nekst/", "meaning": "depan, berikutnya", "example": "We're going to move next year." },
+          { "word": "soon", "pos": "adverb", "ipa": "/suːn/", "meaning": "segera, sebentar lagi", "example": "She's going to call you soon." },
+          { "word": "course", "pos": "noun", "ipa": "/kɔːs/", "meaning": "kursus", "example": "He's going to take an English course." }
+        ],
+        "grammar": [
+          { "pattern": "Subject + am/is/are going to + base verb", "example": "They're going to open a café.", "note": "Rencana/niat." },
+          { "pattern": "Subject + am not/isn't/aren't going to + base verb", "example": "He isn't going to come.", "note": "Negatif." },
+          { "pattern": "(Wh-) + am/is/are + subject + going to + base verb?", "example": "When are you going to finish?", "note": "Pertanyaan." }
+        ],
+        "mistakes": [
+          { "wrong": "I going to visit my aunt tomorrow.", "right": "I'm going to visit my aunt tomorrow.", "why": "Be going to butuh am/is/are." },
+          { "wrong": "She is going to visits her aunt.", "right": "She is going to visit her aunt.", "why": "Setelah to, kata kerja memakai bentuk dasar." },
+          { "wrong": "We are going to travel in next month.", "right": "We are going to travel next month.", "why": "Next + waktu tidak memakai in." }
+        ],
+        "summary": "**be going to + base verb** untuk rencana yang sudah diputuskan. Jangan lupa *am/is/are*, dan pakai bentuk dasar setelah *to*. Keterangan waktu: *tonight, tomorrow, this weekend, next week, in two weeks*.",
+        "reviewCards": [
+          { "front": "Saya akan (berencana) belajar memasak.", "back": "I'm going to take a cooking class." },
+          { "front": "minggu depan", "back": "next week (tanpa in/the)" },
+          { "front": "Pertanyaan: you / going to / do / tonight", "back": "What are you going to do tonight?" },
+          { "front": "Are you going to come? (tidak)", "back": "No, I'm not." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u05-l1-q1", "type": "single_choice", "category": "grammar", "topic": "be going to", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option: I ___ visit my grandparents next weekend.",
+          "options": ["am going to", "going to", "am go to", "will going to"], "answer": 0,
+          "explanation": "Pola lengkapnya: I + am + going to + base verb.",
+          "misconception": "Menghilangkan am/is/are."
+        },
+        {
+          "id": "a2-u05-l1-q2", "type": "fill_blank", "category": "grammar", "topic": "be going to", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct form of be going to and the verbs in brackets.",
+          "text": "We ___ (buy) a new car next year, but we ___ (not / sell) our old one.",
+          "answers": [["are going to buy", "'re going to buy"], ["aren't going to sell", "are not going to sell", "'re not going to sell"]],
+          "explanation": "We → are going to buy. Negatif: aren't going to sell."
+        },
+        {
+          "id": "a2-u05-l1-q3", "type": "word_order", "category": "grammar", "topic": "be going to", "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["What", "are", "you", "going", "to", "do", "this", "weekend?"],
+          "explanation": "What + are + you + going to + do + keterangan waktu."
+        },
+        {
+          "id": "a2-u05-l1-q4", "type": "error_identification", "category": "grammar", "topic": "be going to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["She", "is going", "to visits", "her aunt tomorrow."],
+          "errorIndex": 2, "correction": "to visit",
+          "explanation": "Setelah going to, kata kerja memakai bentuk dasar: to visit."
+        },
+        {
+          "id": "a2-u05-l1-q5", "type": "sentence_transformation", "category": "grammar", "topic": "be going to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Make a yes/no question.",
+          "sentence": "They are going to stay at a hotel.",
+          "cue": "Begin with: Are ...",
+          "answers": ["Are they going to stay at a hotel?"],
+          "explanation": "Tukar posisi are dan subjek: Are they going to stay...?"
+        },
+        {
+          "id": "a2-u05-l1-q6", "type": "dialogue_completion", "category": "conversation", "topic": "be going to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Ibu", "text": "Are you going to study tonight?" },
+            { "speaker": "Doni", "text": null },
+            { "speaker": "Doni", "text": "I'm going to watch the football match with Dad." }
+          ],
+          "options": ["No, I'm not.", "Yes, I am.", "No, I don't.", "No, I won't going."], "answer": 0,
+          "explanation": "Doni akan menonton sepak bola, jadi jawabannya negatif. Pertanyaan Are you going to...? dijawab No, I'm not."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u05-l2-going-to-predictions",
+      "title": "Be Going To for Predictions",
+      "summary": "Membuat prediksi berdasarkan bukti yang terlihat sekarang.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan be going to untuk prediksi berdasarkan bukti",
+        "Membedakan rencana dan prediksi dengan be going to"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Prediksi dengan bukti\nSelain untuk rencana, **be going to** juga dipakai untuk **memprediksi** sesuatu ketika kita **melihat bukti** sekarang.\n\n*Look at those dark clouds! It'**s going to rain**.* (Lihat awan gelap itu! Sebentar lagi akan hujan.)\n\nBuktinya adalah awan gelap. Kita yakin hujan akan turun.\n\n### Contoh situasi\n| Bukti sekarang | Prediksi |\n| --- | --- |\n| The bus is leaving and the man is far away. | He'**s going to miss** the bus. |\n| The glass is at the edge of the table. | It'**s going to fall**. |\n| Siti practises every day. | She'**s going to win** the competition. |\n| It's 7:55 and the class starts at 8:00. We're still at home. | We'**re going to be** late! |\n\n### Kata-kata yang sering muncul\nPrediksi dengan *going to* sering diawali dengan kata yang menunjukkan bukti:\n- **Look!** / **Look at...!** — *Look at that child! He's going to fall.*\n- **Be careful!** / **Watch out!** — *Be careful! You're going to drop it.*\n- **Oh no!** — *Oh no! We're going to miss the train.*\n\n### Rencana atau prediksi?\nBentuknya **sama**, tetapi fungsinya berbeda:\n- **Rencana** (keputusan seseorang): *I'm going to buy a new phone.*\n- **Prediksi** (berdasarkan bukti): *That phone is going to break. Look at the screen!*\n\nCara membedakan: apakah ada **bukti** yang terlihat sekarang? Jika ya, itu prediksi.\n\n### It's going to be...\nUntuk cuaca dan situasi, kita sering memakai **It's going to be + adjective**:\n- *It's going to be a hot day.* (langit cerah, matahari terik)\n- *It's going to be difficult.* (soalnya sangat banyak)\n\n### Perbedaan dengan bahasa Indonesia\nBahasa Indonesia sering memakai *mau* atau *sebentar lagi*: *Mau hujan nih!* Dalam bahasa Inggris, pakai **It's going to rain!** — bukan ✗ *It wants to rain*.",
+        "examples": [
+          { "en": "Look at those clouds! It's going to rain.", "id": "Lihat awan itu! Sebentar lagi hujan.", "note": "bukti: awan gelap" },
+          { "en": "Be careful! You're going to fall off the ladder.", "id": "Hati-hati! Kamu akan jatuh dari tangga.", "note": "bukti: posisi berbahaya" },
+          { "en": "Our team is winning 3–0. We're going to win the match!", "id": "Tim kita unggul 3–0. Kita akan memenangkan pertandingan!", "note": "bukti: skor sekarang" },
+          { "en": "There's so much traffic. We're going to be late.", "id": "Lalu lintasnya sangat macet. Kita akan terlambat.", "note": "bukti: kemacetan" }
+        ],
+        "vocabulary": [
+          { "word": "cloud", "pos": "noun", "ipa": "/klaʊd/", "meaning": "awan", "example": "There are dark clouds in the sky." },
+          { "word": "fall", "pos": "verb", "ipa": "/fɔːl/", "meaning": "jatuh", "example": "Be careful! You're going to fall." },
+          { "word": "drop", "pos": "verb", "ipa": "/drɒp/", "meaning": "menjatuhkan", "example": "He's going to drop those plates!" },
+          { "word": "edge", "pos": "noun", "ipa": "/edʒ/", "meaning": "tepi, pinggir", "example": "The cup is on the edge of the table." },
+          { "word": "competition", "pos": "noun", "ipa": "/ˌkɒmpəˈtɪʃn/", "meaning": "kompetisi, lomba", "example": "She's going to win the singing competition." }
+        ],
+        "grammar": [
+          { "pattern": "Look! / Be careful! + subject + be going to + verb", "example": "Look! The baby is going to wake up.", "note": "Prediksi dengan bukti." },
+          { "pattern": "It's going to be + adjective / noun", "example": "It's going to be a long day.", "note": "Cuaca dan situasi." }
+        ],
+        "mistakes": [
+          { "wrong": "Look at those clouds! It wants to rain.", "right": "Look at those clouds! It's going to rain.", "why": "Mau hujan diterjemahkan dengan be going to, bukan want." },
+          { "wrong": "Be careful! You going to fall!", "right": "Be careful! You're going to fall!", "why": "Jangan lupa are: You are going to / You're going to." },
+          { "wrong": "Look! The glass is going to falls.", "right": "Look! The glass is going to fall.", "why": "Setelah going to, gunakan bentuk dasar." }
+        ],
+        "summary": "**be going to** juga dipakai untuk **prediksi berdasarkan bukti** yang terlihat sekarang: *Look at the clouds! It's going to rain.* Bentuknya sama dengan rencana; bedanya ada pada **bukti**.",
+        "reviewCards": [
+          { "front": "Mau hujan nih! (ada awan gelap)", "back": "It's going to rain!" },
+          { "front": "Hati-hati! Kamu akan jatuh!", "back": "Be careful! You're going to fall!" },
+          { "front": "Rencana atau prediksi? Look! He's going to drop the cake.", "back": "Prediksi (ada bukti)" },
+          { "front": "Kita akan terlambat! (macet)", "back": "We're going to be late!" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u05-l2-q1", "type": "single_choice", "category": "grammar", "topic": "going to predictions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct option: Look at those dark clouds! It ___.",
+          "options": ["is going to rain", "rained", "was rain", "rain"], "answer": 0,
+          "explanation": "Ada bukti (awan gelap), jadi kita memprediksi dengan be going to: It is going to rain.",
+          "misconception": "Memakai bentuk lampau atau bentuk dasar tanpa be going to."
+        },
+        {
+          "id": "a2-u05-l2-q2", "type": "matching", "category": "grammar", "topic": "going to predictions", "difficulty": 2, "stage": "independent",
+          "prompt": "Match each situation with the best prediction.",
+          "pairs": [
+            { "left": "The man is far from the bus stop, and the bus is leaving.", "right": "He's going to miss the bus." },
+            { "left": "The glass is on the edge of the table.", "right": "It's going to fall." },
+            { "left": "Rina studies for three hours every day.", "right": "She's going to pass the exam." },
+            { "left": "The sky is blue and there are no clouds.", "right": "It's going to be a sunny day." }
+          ],
+          "explanation": "Setiap prediksi didasarkan pada bukti dalam situasinya."
+        },
+        {
+          "id": "a2-u05-l2-q3", "type": "translation", "category": "grammar", "topic": "going to predictions", "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English. (Kamu = one person)",
+          "source": "Hati-hati! Kamu akan jatuh!", "direction": "id-en",
+          "answers": ["Be careful! You're going to fall!", "Be careful! You are going to fall!", "Careful! You're going to fall!", "Careful! You are going to fall!"],
+          "explanation": "Hati-hati = Be careful. Ada bukti bahaya, jadi pakai be going to: You're going to fall."
+        },
+        {
+          "id": "a2-u05-l2-q4", "type": "fill_blank", "category": "grammar", "topic": "going to predictions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with be going to and the verb in brackets.",
+          "text": "Oh no! It's 7:55 and the meeting starts at 8:00. I ___ (be) late for work.",
+          "answers": [["am going to be", "'m going to be"]],
+          "explanation": "Bukti: waktunya hampir habis. Prediksi: I am going to be late."
+        },
+        {
+          "id": "a2-u05-l2-q5", "type": "multiple_select", "category": "grammar", "topic": "going to predictions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentences are predictions based on evidence (not plans)? Choose all correct answers.",
+          "options": ["Look at the score. Our team is going to win!", "I'm going to start a new job in May.", "The baby is very tired. She's going to sleep soon.", "We're going to paint the kitchen this weekend.", "Those clouds are very dark. It's going to rain."],
+          "answers": [0, 2, 4],
+          "explanation": "Kalimat 1, 3, dan 5 punya bukti (skor, bayi lelah, awan gelap). Kalimat 2 dan 4 adalah rencana."
+        },
+        {
+          "id": "a2-u05-l2-q6", "type": "sentence_correction", "category": "grammar", "topic": "going to predictions", "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "Look at that sky! It going to rain.",
+          "answers": ["Look at that sky! It's going to rain.", "Look at that sky! It is going to rain."],
+          "explanation": "Be going to butuh is setelah it: It's / It is going to rain."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u05-l3-present-continuous-arrangements",
+      "title": "Present Continuous for Arrangements",
+      "summary": "Membicarakan janji dan acara yang sudah diatur dengan present continuous.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan present continuous untuk janji/acara di masa depan yang sudah diatur",
+        "Membedakan arrangement (present continuous) dan intention (going to)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Present continuous untuk masa depan?\nDi A1 kamu belajar present continuous untuk kegiatan yang sedang terjadi **sekarang**: *I'm reading a book.* Ternyata bentuk yang sama juga dipakai untuk **acara di masa depan yang sudah diatur** (*arrangements*) — biasanya sudah ada **waktu, tempat**, dan **orang lain** yang terlibat.\n\n*I'**m meeting** Sara at the café at six tomorrow.* (Saya ada janji bertemu Sara di kafe jam enam besok.)\n\n### Bagaimana membedakan dengan masa kini?\nLihat **keterangan waktu**. Jika ada *tomorrow, tonight, next Friday, at 7 p.m. on Saturday*, berarti masa depan.\n- *I'm working now.* (sekarang)\n- *I'm working on Saturday.* (masa depan — sudah dijadwalkan)\n\n### Seperti agenda atau kalender\nBayangkan agenda Lina:\n\n| Hari | Agenda |\n| --- | --- |\n| Monday | dentist, 4 p.m. |\n| Wednesday | lunch with Dewi |\n| Friday | cinema with Rudi, 7 p.m. |\n\n*On Monday Lina **is going** to the dentist. On Wednesday she'**s having** lunch with Dewi. On Friday she'**s going** to the cinema with Rudi.*\n\n### Arrangement vs intention\n| Present continuous | Be going to |\n| --- | --- |\n| sudah diatur, ada waktu/tempat/orang lain | niat atau rencana pribadi |\n| *I'm flying to Medan on Monday.* (tiket sudah dibeli) | *I'm going to visit Medan one day.* (baru niat) |\n\nDalam banyak kasus keduanya bisa dipakai, tetapi untuk janji yang jelas, penutur asli lebih sering memakai **present continuous**.\n\n### Pertanyaan yang umum\n- *What **are you doing** this weekend?* (Apa rencanamu akhir pekan ini?)\n- *Are you **doing** anything on Friday evening?*\n- *Who **are you meeting** tomorrow?*\n\n### Menolak dengan alasan\nPresent continuous sangat berguna untuk menolak ajakan dengan sopan: *Sorry, I can't. I'**m visiting** my aunt on Sunday.*",
+        "examples": [
+          { "en": "We're flying to Makassar on Saturday morning.", "id": "Kami terbang ke Makassar Sabtu pagi.", "note": "tiket sudah ada" },
+          { "en": "What are you doing this weekend?", "id": "Apa rencanamu akhir pekan ini?", "note": "pertanyaan tentang agenda" },
+          { "en": "I'm having dinner with my in-laws tonight.", "id": "Saya makan malam dengan mertua nanti malam.", "note": "janji dengan orang lain" },
+          { "en": "Dr. Lim isn't working tomorrow. She's taking a day off.", "id": "Dr. Lim tidak bekerja besok. Dia mengambil cuti sehari.", "note": "negatif untuk jadwal" }
+        ],
+        "vocabulary": [
+          { "word": "arrangement", "pos": "noun", "ipa": "/əˈreɪndʒmənt/", "meaning": "pengaturan, janji yang sudah diatur", "example": "We made an arrangement to meet at the station at five." },
+          { "word": "appointment", "pos": "noun", "ipa": "/əˈpɔɪntmənt/", "meaning": "janji temu (dokter, kantor)", "example": "I'm seeing the doctor. I have an appointment at 10." },
+          { "word": "diary", "pos": "noun", "ipa": "/ˈdaɪəri/", "meaning": "agenda, buku harian", "example": "Let me check my diary." },
+          { "word": "day off", "pos": "noun", "ipa": "/ˌdeɪ ˈɒf/", "meaning": "hari libur, cuti sehari", "example": "I'm taking a day off on Friday." },
+          { "word": "free", "pos": "adjective", "ipa": "/friː/", "meaning": "luang, tidak sibuk; gratis", "example": "Are you free on Thursday evening?" }
+        ],
+        "grammar": [
+          { "pattern": "Subject + am/is/are + verb-ing + future time", "example": "She's starting her new job next Monday.", "note": "Arrangement yang sudah diatur." },
+          { "pattern": "What + are you + doing + time?", "example": "What are you doing tonight?", "note": "Menanyakan agenda." }
+        ],
+        "mistakes": [
+          { "wrong": "I meet my manager at ten tomorrow morning.", "right": "I'm meeting my manager at ten tomorrow morning.", "why": "Untuk janji yang sudah diatur, pakai present continuous." },
+          { "wrong": "What do you do this weekend?", "right": "What are you doing this weekend?", "why": "What do you do? menanyakan pekerjaan/kebiasaan. Untuk rencana akhir pekan pakai present continuous." },
+          { "wrong": "We flying to Bali next week.", "right": "We're flying to Bali next week.", "why": "Present continuous butuh am/is/are." }
+        ],
+        "summary": "**Present continuous + keterangan waktu masa depan** dipakai untuk **acara yang sudah diatur** (ada waktu, tempat, orang lain): *I'm meeting Sara tomorrow.* Tanyakan agenda dengan *What are you doing this weekend?*",
+        "reviewCards": [
+          { "front": "Apa rencanamu akhir pekan ini?", "back": "What are you doing this weekend?" },
+          { "front": "Saya ada janji bertemu dokter besok jam 10.", "back": "I'm seeing the doctor at 10 tomorrow." },
+          { "front": "Arrangement atau intention? I'm flying to Medan on Monday. I have the ticket.", "back": "Arrangement (present continuous)" },
+          { "front": "janji temu (dokter)", "back": "appointment" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u05-l3-q1", "type": "single_choice", "category": "reading", "topic": "present continuous for future", "difficulty": 1, "stage": "guided",
+          "prompt": "Look at Lina's diary. What is she doing on Friday evening?",
+          "context": "**Monday:** dentist, 4 p.m.\n**Wednesday:** lunch with Dewi\n**Friday:** cinema with Rudi, 7 p.m.",
+          "options": ["She's going to the cinema with Rudi.", "She's having lunch with Dewi.", "She goes to the dentist.", "She went to the cinema."], "answer": 0,
+          "explanation": "Agenda Jumat: cinema with Rudi. Untuk acara yang sudah diatur kita memakai present continuous: She's going to the cinema."
+        },
+        {
+          "id": "a2-u05-l3-q2", "type": "fill_blank", "category": "grammar", "topic": "present continuous for future", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the present continuous of the verb in brackets.",
+          "text": "We ___ (fly) to Makassar on Saturday. We bought the tickets yesterday.",
+          "answers": [["are flying", "'re flying"]],
+          "explanation": "Tiket sudah dibeli → acara sudah diatur → present continuous: are flying."
+        },
+        {
+          "id": "a2-u05-l3-q3", "type": "dialogue_completion", "category": "conversation", "topic": "present continuous for future", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Rafi", "text": "Are you free on Thursday evening?" },
+            { "speaker": "Sekar", "text": null }
+          ],
+          "options": ["Sorry, I'm playing badminton with my colleagues.", "Sorry, I play badminton with my colleagues yesterday.", "Sorry, I'm play badminton.", "Yes, I was."], "answer": 0,
+          "explanation": "Sekar menjelaskan acaranya Kamis malam yang sudah diatur dengan present continuous: I'm playing badminton."
+        },
+        {
+          "id": "a2-u05-l3-q4", "type": "error_identification", "category": "grammar", "topic": "present continuous for future", "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": ["What", "do you do", "this", "weekend?"],
+          "errorIndex": 1, "correction": "are you doing",
+          "explanation": "Untuk menanyakan rencana akhir pekan, pakai present continuous: What are you doing this weekend?"
+        },
+        {
+          "id": "a2-u05-l3-q5", "type": "word_order", "category": "grammar", "topic": "present continuous for future", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Who", "are", "you", "having", "dinner", "with", "tonight?"],
+          "explanation": "Who + are + you + having dinner with + tonight? Preposisi with tetap di akhir."
+        },
+        {
+          "id": "a2-u05-l3-q6", "type": "short_answer", "category": "grammar", "topic": "present continuous for future", "difficulty": 2, "stage": "quiz",
+          "prompt": "Write a positive short answer: Is Maya coming to the meeting tomorrow?",
+          "answers": ["Yes, she is.", "Yes she is"],
+          "explanation": "Maya = she. Pertanyaan Is...? dijawab Yes, she is."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u05-l4-will-decisions-offers",
+      "title": "Will for Instant Decisions and Offers",
+      "summary": "Memakai will untuk keputusan saat berbicara dan untuk menawarkan bantuan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan will/'ll untuk keputusan spontan dan tawaran",
+        "Membedakan will (keputusan saat itu) dan be going to (keputusan sebelumnya)"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Keputusan saat berbicara\nKita memakai **will** (bentuk singkat **'ll**) ketika kita memutuskan sesuatu **pada saat berbicara**, tanpa rencana sebelumnya.\n\n*A: The phone is ringing.*\n*B: I'**ll** answer it.* (Biar saya yang angkat.)\n\nB tidak merencanakan ini sebelumnya — keputusannya spontan.\n\n### Menawarkan bantuan (offers)\n*Will* juga dipakai untuk **menawarkan bantuan**:\n- *That bag looks heavy. I'**ll carry** it for you.*\n- *You look tired. I'**ll make** you some tea.*\n- *Don't worry, I'**ll help** you.*\n\n### Pola\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Positif | subject + **will / 'll** + base verb | *I'll call him.* |\n| Negatif | subject + **won't** (will not) + base verb | *I won't tell anyone.* |\n| Pertanyaan | **Will** + subject + base verb? | *Will you help me?* |\n\n*Will* sama untuk semua subjek dan selalu diikuti **bentuk dasar**: ✗ *I'll to call*, ✗ *She'll calls*.\n\n### Will vs be going to\nPerbedaannya ada pada **kapan keputusan dibuat**:\n\n| will | be going to |\n| --- | --- |\n| keputusan **saat itu juga** | keputusan **sebelumnya** |\n| *A: We need milk. B: OK, I'll buy some.* | *I'm going to buy milk after work.* (sudah direncanakan) |\n\n### Memesan makanan\nDi restoran, *I'll have...* sangat umum untuk memesan: *I'll have the fried rice and an iced tea, please.*\n\n### Tips\nDalam percakapan, hampir selalu gunakan bentuk singkat **I'll, you'll, we'll**. Bentuk penuh *I will* terdengar tegas atau formal.",
+        "examples": [
+          { "en": "A: It's cold in here. B: I'll close the window.", "id": "A: Dingin di sini. B: Biar saya tutup jendelanya.", "note": "keputusan spontan" },
+          { "en": "I'll have the chicken soup, please.", "id": "Saya pesan sup ayam.", "note": "memesan makanan" },
+          { "en": "Don't worry about the dishes. I'll wash them.", "id": "Jangan khawatir soal piringnya. Biar saya cuci.", "note": "tawaran bantuan" },
+          { "en": "I'm going to visit Ani tomorrow. I decided last week.", "id": "Saya akan mengunjungi Ani besok. Saya memutuskannya minggu lalu.", "note": "bandingkan: rencana sebelumnya → going to" }
+        ],
+        "vocabulary": [
+          { "word": "offer", "pos": "noun/verb", "ipa": "/ˈɒfə/", "meaning": "tawaran; menawarkan", "example": "Thanks for the offer!" },
+          { "word": "carry", "pos": "verb", "ipa": "/ˈkæri/", "meaning": "membawa, mengangkat", "example": "I'll carry your suitcase." },
+          { "word": "explain", "pos": "verb", "ipa": "/ɪkˈspleɪn/", "meaning": "menjelaskan", "example": "I'll explain the exercise to you." },
+          { "word": "dishes", "pos": "noun", "ipa": "/ˈdɪʃɪz/", "meaning": "piring-piring kotor, cucian piring", "example": "I'll do the dishes tonight." },
+          { "word": "thirsty", "pos": "adjective", "ipa": "/ˈθɜːsti/", "meaning": "haus", "example": "I'm thirsty. I'll get some water." }
+        ],
+        "grammar": [
+          { "pattern": "I'll + base verb (instant decision)", "example": "The shop is closed? OK, I'll go tomorrow.", "note": "Diputuskan saat berbicara." },
+          { "pattern": "I'll + base verb + for you (offer)", "example": "I'll open the door for you.", "note": "Menawarkan bantuan." },
+          { "pattern": "Subject + won't + base verb", "example": "I won't be late, I promise.", "note": "won't = will not." }
+        ],
+        "mistakes": [
+          { "wrong": "The phone is ringing. I answer it.", "right": "The phone is ringing. I'll answer it.", "why": "Keputusan spontan memakai will/'ll." },
+          { "wrong": "I'll to help you with your bags.", "right": "I'll help you with your bags.", "why": "Setelah will, langsung bentuk dasar tanpa to." },
+          { "wrong": "I will visit my aunt tomorrow. I bought the bus ticket last week.", "right": "I'm going to visit my aunt tomorrow. I bought the bus ticket last week.", "why": "Rencana yang sudah diputuskan sebelumnya memakai be going to (atau present continuous)." }
+        ],
+        "summary": "**will / 'll + base verb** untuk **keputusan spontan** (*I'll answer it*) dan **tawaran** (*I'll carry it for you*). Untuk rencana yang sudah diputuskan sebelumnya, pakai **be going to**. Negatifnya **won't**.",
+        "reviewCards": [
+          { "front": "Telepon berdering. Biar saya angkat.", "back": "I'll answer it." },
+          { "front": "will not (bentuk singkat)", "back": "won't" },
+          { "front": "Keputusan spontan: will atau going to?", "back": "will" },
+          { "front": "Memesan makanan", "back": "I'll have ..., please." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u05-l4-q1", "type": "dialogue_completion", "category": "conversation", "topic": "will for decisions", "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Mum", "text": "The phone is ringing, and my hands are wet!" },
+            { "speaker": "Tia", "text": null }
+          ],
+          "options": ["I'll answer it.", "I'm going to answer it next week.", "I answer it.", "I answered it."], "answer": 0,
+          "explanation": "Tia memutuskan saat itu juga untuk membantu → will: I'll answer it.",
+          "misconception": "Memakai present simple untuk keputusan spontan."
+        },
+        {
+          "id": "a2-u05-l4-q2", "type": "matching", "category": "conversation", "topic": "will for offers", "difficulty": 1, "stage": "independent",
+          "prompt": "Match each problem with the best offer.",
+          "pairs": [
+            { "left": "This bag is very heavy.", "right": "I'll carry it for you." },
+            { "left": "I'm cold.", "right": "I'll close the window." },
+            { "left": "I don't understand this exercise.", "right": "I'll explain it to you." },
+            { "left": "We don't have any milk.", "right": "I'll buy some on my way home." },
+            { "left": "I'm really thirsty.", "right": "I'll get you some water." }
+          ],
+          "explanation": "Setiap tawaran memakai I'll + base verb untuk menyelesaikan masalah orang lain."
+        },
+        {
+          "id": "a2-u05-l4-q3", "type": "fill_blank", "category": "grammar", "topic": "will for decisions", "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the reply with the correct form of will.",
+          "text": "Waiter: Tea or coffee? Customer: Hmm... ___ have tea, please.",
+          "answers": [["I'll", "I will"]],
+          "explanation": "Memesan dan memutuskan saat itu juga → I'll have..."
+        },
+        {
+          "id": "a2-u05-l4-q4", "type": "single_choice", "category": "grammar", "topic": "will vs going to", "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the best option: I ___ paint my bedroom this weekend. I bought the paint yesterday.",
+          "options": ["am going to", "will", "painted"], "answer": 0,
+          "explanation": "Catnya sudah dibeli kemarin, berarti keputusannya sudah dibuat sebelumnya → be going to."
+        },
+        {
+          "id": "a2-u05-l4-q5", "type": "dropdown", "category": "grammar", "topic": "will vs going to", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best options.",
+          "text": "A: I'm hungry. B: Me too. I know! ___ make some sandwiches. A: Great! And tomorrow ___ visit Grandma. We planned it last week.",
+          "choices": [["I'll", "I'm going to"], ["we'll", "we're going to"]],
+          "answers": [0, 1],
+          "explanation": "Ide sandwich muncul saat itu juga → I'll. Kunjungan ke nenek sudah direncanakan minggu lalu → we're going to."
+        },
+        {
+          "id": "a2-u05-l4-q6", "type": "translation", "category": "grammar", "topic": "will for offers", "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English. (an offer)",
+          "source": "Biar saya bantu kamu mengerjakan PR-mu.", "direction": "id-en",
+          "answers": ["I'll help you with your homework.", "I will help you with your homework.", "I'll help you do your homework."],
+          "explanation": "Tawaran bantuan → I'll help you with your homework."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u05-l5-invitations-celebrations",
+      "title": "Invitations and Celebrations",
+      "summary": "Membuat, menerima, dan menolak undangan serta kosakata perayaan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Membuat undangan dan saran dengan Are you free...?, How about...?, Why don't we...?",
+        "Menerima dan menolak undangan dengan sopan",
+        "Menggunakan kosakata perayaan"
+      ],
+      "completionCriteria": "Baca semua bagian materi, tulis pesan undangan, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Mengajak dan mengundang\n| Ungkapan | Contoh |\n| --- | --- |\n| **Are you free** + waktu? | *Are you free on Saturday evening?* |\n| **Can you come to** + acara? | *Can you come to my birthday party?* |\n| **Let's** + base verb | *Let's go to the beach on Sunday!* |\n| **Why don't we** + base verb? | *Why don't we have a picnic?* |\n| **How about** + verb-ing / noun? | *How about going to the night market?* |\n\nPerhatikan: setelah **How about**, kata kerja memakai **-ing**: ✓ *How about going*, ✗ *How about go*.\n\n### Menerima undangan\n- *Sure! That sounds great.*\n- *I'd love to!* (Saya mau sekali! — ungkapan tetap yang sangat umum)\n- *Great idea! What time?*\n- *Thanks for inviting me. What can I bring?*\n\n### Menolak dengan sopan\nDalam budaya berbahasa Inggris, penolakan yang sopan biasanya punya tiga bagian: **maaf + alasan + alternatif**.\n\n*Sorry, I can't. I'm visiting my grandparents on Saturday. Maybe another time?*\n\n- *Sorry, I can't make it.* (Maaf, saya tidak bisa datang.)\n- *I'm afraid I'm busy that day.*\n- *Thanks, but I'm working on Sunday.*\n\nPerhatikan bagaimana **present continuous** (Lesson 3) dipakai untuk alasan: *I'm visiting..., I'm working...*\n\n### Kosakata perayaan (celebrations)\n| English | Indonesia |\n| --- | --- |\n| birthday party | pesta ulang tahun |\n| graduation party | pesta kelulusan |\n| farewell party | pesta perpisahan |\n| housewarming party | syukuran rumah baru |\n| (wedding) anniversary | ulang tahun pernikahan |\n| celebrate | merayakan |\n| decorate | menghias |\n| invite / invitation | mengundang / undangan |\n\n### Menulis pesan undangan singkat\n*Hi Sari! We're having a small party for Dimas's graduation on Saturday at 7 p.m. at my house. Can you come? Let me know! — Eka*\n\nSebutkan **acara, hari, jam, tempat**, dan minta jawaban (*Let me know!*).",
+        "examples": [
+          { "en": "Are you free on Friday? We're having a farewell party for Mr. Tan.", "id": "Kamu ada waktu hari Jumat? Kami mengadakan pesta perpisahan untuk Pak Tan.", "note": "undangan + present continuous" },
+          { "en": "How about watching a film after dinner?", "id": "Bagaimana kalau menonton film setelah makan malam?", "note": "How about + -ing" },
+          { "en": "I'd love to! What time does it start?", "id": "Saya mau sekali! Jam berapa mulainya?", "note": "menerima undangan" },
+          { "en": "Sorry, I can't make it. I'm working late that day. Maybe next time!", "id": "Maaf, saya tidak bisa datang. Saya kerja lembur hari itu. Mungkin lain kali!", "note": "maaf + alasan + alternatif" }
+        ],
+        "vocabulary": [
+          { "word": "invite", "pos": "verb", "ipa": "/ɪnˈvaɪt/", "meaning": "mengundang", "example": "They invited us to their wedding." },
+          { "word": "invitation", "pos": "noun", "ipa": "/ˌɪnvɪˈteɪʃn/", "meaning": "undangan", "example": "Thanks for the invitation!" },
+          { "word": "celebrate", "pos": "verb", "ipa": "/ˈselɪbreɪt/", "meaning": "merayakan", "example": "We're celebrating my mum's birthday tonight." },
+          { "word": "decorate", "pos": "verb", "ipa": "/ˈdekəreɪt/", "meaning": "menghias", "example": "We decorated the room with balloons." },
+          { "word": "farewell party", "pos": "noun", "ipa": "/ˌfeəˈwel ˈpɑːti/", "meaning": "pesta perpisahan", "example": "We're having a farewell party for our teacher." },
+          { "word": "anniversary", "pos": "noun", "ipa": "/ˌænɪˈvɜːsəri/", "meaning": "hari jadi, ulang tahun (pernikahan, perusahaan)", "example": "It's my parents' 25th wedding anniversary." }
+        ],
+        "grammar": [
+          { "pattern": "How about + verb-ing?", "example": "How about meeting at seven?", "note": "Kata kerja memakai -ing." },
+          { "pattern": "Why don't we / Let's + base verb", "example": "Let's celebrate at the new restaurant.", "note": "Saran untuk melakukan sesuatu bersama." },
+          { "pattern": "Sorry, I can't. + I'm + verb-ing (reason)", "example": "Sorry, I can't. I'm meeting a client.", "note": "Alasan dengan present continuous." }
+        ],
+        "mistakes": [
+          { "wrong": "How about go to the beach?", "right": "How about going to the beach?", "why": "Setelah how about, kata kerja memakai bentuk -ing." },
+          { "wrong": "Let's to have dinner together.", "right": "Let's have dinner together.", "why": "Setelah let's, langsung bentuk dasar tanpa to." },
+          { "wrong": "No, I don't want. (menolak undangan)", "right": "Sorry, I can't. I'm busy that day. Maybe another time?", "why": "Penolakan langsung terdengar kasar. Gunakan maaf + alasan + alternatif." }
+        ],
+        "summary": "Undang dengan **Are you free...?, Can you come...?, Let's..., Why don't we...?, How about + -ing?** Terima dengan **That sounds great! / I'd love to!** Tolak dengan sopan: **maaf + alasan (present continuous) + alternatif**.",
+        "reviewCards": [
+          { "front": "Bagaimana kalau pergi ke pantai?", "back": "How about going to the beach?" },
+          { "front": "Maaf, saya tidak bisa datang.", "back": "Sorry, I can't make it." },
+          { "front": "pesta perpisahan", "back": "farewell party" },
+          { "front": "Cara menerima undangan dengan antusias", "back": "I'd love to! / That sounds great!" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u05-l5-q1", "type": "single_choice", "category": "conversation", "topic": "invitations", "difficulty": 1, "stage": "guided",
+          "prompt": "Which is the most polite way to say no to an invitation?",
+          "options": ["Sorry, I can't. I'm working that evening. Maybe next time?", "No. I don't like parties.", "I can't come yesterday.", "Yes, I'm not free."], "answer": 0,
+          "explanation": "Penolakan yang sopan: maaf + alasan + alternatif.",
+          "misconception": "Menolak secara langsung tanpa alasan dianggap sopan."
+        },
+        {
+          "id": "a2-u05-l5-q2", "type": "essay", "category": "writing", "topic": "invitations", "difficulty": 2, "stage": "independent",
+          "prompt": "Write a short message to invite a friend to a celebration (a birthday, graduation, or farewell party). Say what the event is, when and where it is, and ask your friend to reply.",
+          "minWords": 30, "maxWords": 70, "rubric": "general-writing",
+          "explanation": "Sebutkan acara, hari, jam, tempat. Gunakan present continuous (We're having...) dan akhiri dengan Can you come? / Let me know!"
+        },
+        {
+          "id": "a2-u05-l5-q3", "type": "dialogue_completion", "category": "conversation", "topic": "invitations", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Gilang", "text": "Are you free on Saturday? We're having a barbecue at my house." },
+            { "speaker": "Putri", "text": null },
+            { "speaker": "Gilang", "text": "Just bring yourself! See you at six." }
+          ],
+          "options": ["That sounds great! What can I bring?", "Sorry, I can't. I'm visiting my grandparents.", "I went to a barbecue last week.", "How about Sunday?"], "answer": 0,
+          "explanation": "Gilang menjawab Just bring yourself! (cukup bawa dirimu), jadi Putri pasti bertanya What can I bring?"
+        },
+        {
+          "id": "a2-u05-l5-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "celebrations", "difficulty": 1, "stage": "quiz",
+          "prompt": "Choose the best word: Mr. Rahman is leaving the company next month, so we're having a ___ party for him.",
+          "options": ["farewell", "housewarming", "graduation", "wedding"], "answer": 0,
+          "explanation": "Seseorang akan pergi/meninggalkan perusahaan → farewell party (pesta perpisahan)."
+        },
+        {
+          "id": "a2-u05-l5-q5", "type": "sentence_reconstruction", "category": "conversation", "topic": "invitations", "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the parts in the correct order to make a suggestion.",
+          "fragments": ["Why don't we", "go to the night market", "on Friday evening", "after work?"],
+          "acceptedAnswers": ["Why don't we go to the night market after work on Friday evening?"],
+          "explanation": "Why don't we + base verb (go) + tempat + waktu."
+        },
+        {
+          "id": "a2-u05-l5-q6", "type": "matching", "category": "conversation", "topic": "invitations", "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each phrase with its function.",
+          "pairs": [
+            { "left": "Are you free on Sunday?", "right": "asking if someone is available" },
+            { "left": "I'd love to!", "right": "accepting an invitation" },
+            { "left": "Sorry, I can't make it.", "right": "refusing politely" },
+            { "left": "How about seven o'clock?", "right": "suggesting a time" }
+          ],
+          "explanation": "Are you free...? = menanyakan waktu luang; I'd love to = menerima; I can't make it = menolak; How about...? = menyarankan."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u05-t-q1", "type": "single_choice", "category": "grammar", "topic": "going to predictions", "difficulty": 1, "stage": "unit_test",
+      "prompt": "Choose the correct option: Look at that waiter! He's carrying too many plates. He ___ drop them.",
+      "options": ["is going to", "is going", "going to", "goes to"], "answer": 0,
+      "explanation": "Prediksi berdasarkan bukti: He is going to + base verb (drop)."
+    },
+    {
+      "id": "a2-u05-t-q2", "type": "fill_blank", "category": "grammar", "topic": "present continuous for future", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Complete the dialogue with one word in each gap.",
+      "text": "A: What ___ you doing tomorrow evening? B: I ___ meeting my cousin at the station.",
+      "answers": [["are"], ["am", "'m"]],
+      "explanation": "Present continuous untuk janji yang sudah diatur: What are you doing...? I am meeting..."
+    },
+    {
+      "id": "a2-u05-t-q3", "type": "sentence_transformation", "category": "grammar", "topic": "be going to", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Write a sentence about this plan with be going to.",
+      "sentence": "My plan: visit Lombok in December.",
+      "cue": "Begin with: I ...",
+      "answers": ["I'm going to visit Lombok in December.", "I am going to visit Lombok in December."],
+      "explanation": "Rencana pribadi → I'm going to + base verb."
+    },
+    {
+      "id": "a2-u05-t-q4", "type": "dialogue_completion", "category": "conversation", "topic": "will for offers", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        { "speaker": "Nina", "text": "Oh no! I dropped my coffee on the floor." },
+        { "speaker": "Andi", "text": null }
+      ],
+      "options": ["Don't worry. I'll get a cloth.", "Don't worry. I'm getting a cloth next week.", "Don't worry. I got a cloth tomorrow.", "Don't worry. I get a cloth."], "answer": 0,
+      "explanation": "Andi menawarkan bantuan secara spontan → I'll get a cloth."
+    },
+    {
+      "id": "a2-u05-t-q5", "type": "error_identification", "category": "grammar", "topic": "be going to", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": ["We", "going to", "have a picnic", "next Sunday."],
+      "errorIndex": 1, "correction": "are going to",
+      "explanation": "Be going to butuh are setelah we: We are going to have a picnic."
+    },
+    {
+      "id": "a2-u05-t-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "celebrations", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the best word: We're ___ the hall with balloons and flowers for the party.",
+      "options": ["decorating", "inviting", "refusing", "celebrating"], "answer": 0,
+      "explanation": "Menghias ruangan dengan balon dan bunga = decorating."
+    },
+    {
+      "id": "a2-u05-t-q7", "type": "translation", "category": "grammar", "topic": "present continuous for future", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English. (The party is already arranged.)",
+      "source": "Kami mengadakan pesta perpisahan hari Jumat.", "direction": "id-en",
+      "answers": [
+        "We're having a farewell party on Friday.",
+        "We are having a farewell party on Friday.",
+        "We're going to have a farewell party on Friday.",
+        "We are going to have a farewell party on Friday.",
+        "On Friday we're having a farewell party.",
+        "On Friday we are having a farewell party."
+      ],
+      "explanation": "Acara yang sudah diatur → present continuous (We're having...). Be going to juga diterima."
+    }
+  ]
+}

@@ -1,0 +1,1052 @@
+{
+  "slug": "c2-u05-register",
+  "number": 5,
+  "title": "Shifting Register",
+  "description": "Learn to move confidently between formal, neutral and informal English, recognise the conventions of journalistic and academic writing, and use indirectness and formal correspondence to suit audience and purpose.",
+  "objectives": [
+    "Distinguish formal, neutral and informal register through vocabulary, grammar and tone",
+    "Decode headline grammar and the conventions of neutral news reporting",
+    "Write in an impersonal academic style using precise reporting verbs",
+    "Use politeness strategies and indirectness to make requests, refuse and criticise tactfully",
+    "Produce formal letters and emails with conventional openings, closings and institutional phrasing"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u05-l1-register-spectrum",
+      "title": "The Register Spectrum",
+      "summary": "Recognise and control the vocabulary, grammar and tone that make English formal, neutral or informal.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Identify the linguistic features of formal, neutral and informal register",
+        "Replace informal phrasal verbs with precise Latinate equivalents in formal writing",
+        "Choose a register that matches the audience, channel and purpose of a text"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is register?\n**Register** is the variety of language we choose according to *who* we are addressing, *why*, and *through which channel*. The same message can be expressed in very different ways:\n\n| Register | Example | Typical context |\n|---|---|---|\n| Formal | The ceremony will **commence** at 10 a.m. | official notices, legal and academic texts |\n| Neutral | The ceremony will **start** at 10 a.m. | most emails, news, general writing |\n| Informal | The ceremony **kicks off** at ten. | chat, text messages, casual speech |\n\nNone of these is \"better\" in itself. A C2 user is not someone who always writes formally, but someone who can move along the spectrum deliberately and avoid **register clashes** – for example, *The board reckons the proposal is a bit dodgy* in an annual report.\n\n### Vocabulary: Latinate words vs phrasal verbs\nEnglish often has a pair of words for the same idea: a short Germanic word or phrasal verb, and a longer word of Latin or French origin. The Latinate word usually sounds more formal and precise.\n\n| Informal / neutral | Formal |\n|---|---|\n| find out | ascertain, establish |\n| put off | postpone, defer |\n| look into | investigate, examine |\n| go up | increase, rise |\n| live (in) | reside (in) |\n| get | obtain, receive |\n\nNot every phrasal verb is informal (*carry out research* is perfectly acceptable in academic writing), so learn register word by word.\n\n### Grammar and tone\n- **Contractions** (*can't, it's, we'll*) are normal in informal and much neutral writing but are avoided in formal documents.\n- **Ellipsis and fragments** (*Sounds good. Back in five.*) belong to informal speech and messages.\n- **Passive and impersonal structures** (*Applicants are advised that ...*) are typical of formal texts.\n- **Vague language** (*stuff, and that, sort of, loads of*) signals informality.\n- **Direct address and humour** are more frequent in informal register.\n\n### Choosing the right level\nAsk three questions before writing: *Who is my reader? What is my relationship with them? What is the purpose and channel?* A message to a colleague you know well may be neutral or informal; a complaint to a local council should be formal; a social media post for a youth campaign may deliberately be informal. Over-formality can be just as inappropriate as informality: writing *I should be most grateful if you would ascertain whether pizza is acceptable* to a flatmate sounds ironic.\n\n### A note for Indonesian speakers\nBahasa Indonesia also distinguishes *bahasa baku* and *bahasa gaul*. In English the shift is signalled less by special pronouns and more by word choice, contractions and sentence structure, so pay close attention to verbs.",
+        "examples": [
+          {
+            "en": "Residents are reminded that refuse collection will commence at 6 a.m. on Monday.",
+            "id": "Warga diingatkan bahwa pengangkutan sampah akan dimulai pukul 6 pagi pada hari Senin.",
+            "note": "Formal: passive, Latinate 'commence' and 'refuse' (= rubbish)."
+          },
+          {
+            "en": "The bins will be collected from 6 a.m. on Monday.",
+            "id": "Tempat sampah akan diangkut mulai pukul 6 pagi pada hari Senin.",
+            "note": "Neutral: clear and plain, suitable for most notices."
+          },
+          {
+            "en": "Heads up – bin men are coming round at six on Monday!",
+            "id": "Info nih – petugas sampah datang jam enam hari Senin!",
+            "note": "Informal: 'heads up', phrasal verb 'come round', exclamation."
+          },
+          {
+            "en": "The committee will investigate the complaint and notify you of its decision.",
+            "id": "Komite akan menyelidiki keluhan tersebut dan memberi tahu Anda keputusannya.",
+            "note": "Formal Latinate verbs replace 'look into' and 'let you know'."
+          },
+          {
+            "en": "We need to find out who reside... sorry, who lives in the flat.",
+            "id": "Kita perlu mencari tahu siapa yang tinggal di flat itu.",
+            "note": "A speaker self-correcting a register clash: 'reside' sounds odd in casual speech."
+          }
+        ],
+        "vocabulary": [
+          { "word": "register", "pos": "noun", "ipa": "/ˈredʒɪstə/", "meaning": "ragam bahasa (tingkat formalitas)", "example": "The report slips into an informal register in the final paragraph." },
+          { "word": "commence", "pos": "verb", "ipa": "/kəˈmens/", "meaning": "memulai, dimulai (formal)", "example": "Building work will commence in the spring." },
+          { "word": "reside", "pos": "verb", "ipa": "/rɪˈzaɪd/", "meaning": "bertempat tinggal, berdomisili (formal)", "example": "Applicants must reside in the district for at least two years." },
+          { "word": "ascertain", "pos": "verb", "ipa": "/ˌæsəˈteɪn/", "meaning": "memastikan, mengetahui dengan pasti", "example": "The inspectors were unable to ascertain the cause of the fire." },
+          { "word": "colloquial", "pos": "adjective", "ipa": "/kəˈləʊkwiəl/", "meaning": "bersifat percakapan sehari-hari, tidak baku", "example": "'Gonna' is too colloquial for a cover letter." },
+          { "word": "Latinate", "pos": "adjective", "ipa": "/ˈlætɪneɪt/", "meaning": "berasal dari bahasa Latin (tentang kosakata)", "example": "Legal English is full of Latinate vocabulary." }
+        ],
+        "grammar": [
+          { "pattern": "Formal: passive + Latinate verb", "example": "Visitors are requested to refrain from smoking.", "note": "Impersonal and distant; typical of notices and regulations." },
+          { "pattern": "Neutral: active + common verb", "example": "Please don't smoke inside the building.", "note": "Clear and polite; suitable for most audiences." },
+          { "pattern": "Informal: phrasal verb + contraction + ellipsis", "example": "No smoking inside, OK? Cheers.", "note": "Only for people you know well or deliberately casual contexts." }
+        ],
+        "mistakes": [
+          { "wrong": "Dear Professor Linde, I'm gonna be late for the seminar coz my train got cancelled.", "right": "Dear Professor Linde, I am afraid I will be late for the seminar because my train has been cancelled.", "why": "'Gonna' and 'coz' are colloquial spellings that clash with an email to a professor." },
+          { "wrong": "The council reckons that loads of residents are unhappy with the scheme.", "right": "The council believes that a considerable number of residents are dissatisfied with the scheme.", "why": "'Reckons' and 'loads of' are informal; an official report needs neutral or formal equivalents." },
+          { "wrong": "Hey Sam, I should be most grateful if you would ascertain whether you require a lift.", "right": "Hey Sam, can you let me know if you need a lift?", "why": "Over-formality is also a register error: with a friend it sounds cold or ironic." }
+        ],
+        "summary": "Register depends on audience, purpose and channel. Formal English favours Latinate vocabulary, passives and full forms; informal English uses phrasal verbs, contractions, ellipsis and vague language. Proficient writers avoid register clashes in both directions – neither too casual nor absurdly stiff.",
+        "reviewCards": [
+          { "front": "Formal equivalent of 'find out'", "back": "ascertain / establish" },
+          { "front": "Formal equivalent of 'put off'", "back": "postpone / defer" },
+          { "front": "What is a register clash?", "back": "Mixing incompatible levels of formality in one text, e.g. 'The board reckons ...' in an annual report." },
+          { "front": "Three questions for choosing register", "back": "Who is the reader? What is our relationship? What is the purpose and channel?" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u05-l1-q1",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "register",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "The following sentence will appear in an official notice from Westmere University to all academic staff. Which version is appropriate?",
+          "instructions": "Look for full forms, a Latinate verb and an impersonal tone.",
+          "options": [
+            "Staff are reminded that the annual review will commence at 9 a.m. in the Senate Room.",
+            "Heads up, guys – the annual review kicks off at nine in the Senate Room!",
+            "Staff are reminded that the annual review is gonna kick off at 9 a.m. in the Senate Room.",
+            "Just so you know, the annual review'll get going at nine-ish in the Senate Room."
+          ],
+          "answer": 0,
+          "explanation": "An official notice requires formal register: an impersonal passive (Staff are reminded), a Latinate verb (commence) and no contractions. The other options contain informal markers such as 'heads up', 'guys', 'gonna', 'review'll' and 'nine-ish'; option C is a register clash, mixing a formal opening with slang.",
+          "misconception": "A formal opening phrase does not make a sentence formal if colloquial items appear later."
+        },
+        {
+          "id": "c2-u05-l1-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "register",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each informal phrasal verb with its formal equivalent.",
+          "pairs": [
+            { "left": "put off", "right": "postpone" },
+            { "left": "find out", "right": "ascertain" },
+            { "left": "look into", "right": "investigate" },
+            { "left": "go up", "right": "increase" },
+            { "left": "cut down on", "right": "reduce" }
+          ],
+          "explanation": "Formal English often replaces phrasal verbs with single Latinate verbs: put off → postpone, find out → ascertain, look into → investigate, go up → increase, cut down on → reduce."
+        },
+        {
+          "id": "c2-u05-l1-q3",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "register",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the informal sentence for a formal report, using the verb 'resolve'.",
+          "sentence": "We need to sort out this problem quickly.",
+          "cue": "Begin with: This problem",
+          "answers": [
+            "This problem needs to be resolved quickly.",
+            "This problem needs to be resolved promptly.",
+            "This problem needs to be resolved swiftly.",
+            "This problem needs to be resolved urgently.",
+            "This problem needs to be resolved without delay.",
+            "This problem must be resolved quickly.",
+            "This problem must be resolved promptly.",
+            "This problem must be resolved swiftly.",
+            "This problem must be resolved urgently.",
+            "This problem must be resolved without delay.",
+            "This problem should be resolved quickly.",
+            "This problem should be resolved promptly.",
+            "This problem should be resolved swiftly.",
+            "This problem should be resolved without delay.",
+            "This problem needs resolving quickly.",
+            "This problem needs resolving promptly.",
+            "This problem requires resolving promptly.",
+            "This problem needs to be resolved as a matter of urgency.",
+            "This problem must be resolved as a matter of urgency."
+          ],
+          "explanation": "Formal register replaces the phrasal verb 'sort out' with 'resolve' and uses an impersonal passive (needs to be resolved / must be resolved), removing 'we'. Adverbs such as 'promptly' or 'without delay' are more formal than 'quickly', but all are accepted."
+        },
+        {
+          "id": "c2-u05-l1-q4",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "register",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the extract from a council regulation with the words that fit the formal register and the meaning.",
+          "text": "Applicants who ___ outside the Harrowmere district must ___ proof of address before 31 March.",
+          "choices": [
+            ["reside", "hang out", "crash"],
+            ["submit", "chuck in", "fork out"]
+          ],
+          "answers": [0, 0],
+          "explanation": "'Reside' is the formal verb for 'live', and 'submit' is the formal verb for handing in documents. 'Hang out' and 'crash' are slang with different meanings (spend time / sleep somewhere temporarily); 'chuck in' is informal (and can mean 'quit'), and 'fork out' means to pay money reluctantly."
+        },
+        {
+          "id": "c2-u05-l1-q5",
+          "type": "error_identification",
+          "category": "writing",
+          "topic": "register",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "This sentence comes from the minutes of a funding committee. Which segment is inappropriate in register?",
+          "segments": [
+            "The committee has",
+            "carefully considered your proposal",
+            "and reckons that it",
+            "merits further funding."
+          ],
+          "errorIndex": 2,
+          "correction": "and considers that it",
+          "explanation": "'Reckons' is informal and clashes with the formal tone of committee minutes ('carefully considered', 'merits'). 'Considers', 'believes' or 'is of the view' would be appropriate."
+        },
+        {
+          "id": "c2-u05-l1-q6",
+          "type": "multiple_select",
+          "category": "writing",
+          "topic": "register",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which features typically mark a text as informal? Select all that apply.",
+          "options": [
+            "Contractions such as 'we'll' and 'it's'",
+            "Colloquial phrasal verbs such as 'get round to'",
+            "Impersonal passives such as 'Applicants are advised that ...'",
+            "Vague expressions such as 'and stuff' or 'loads of'",
+            "Nominalisations such as 'the implementation of the policy'",
+            "Situational ellipsis such as 'Sounds good' or 'Back in five'"
+          ],
+          "answers": [0, 1, 3, 5],
+          "explanation": "Contractions, colloquial phrasal verbs, vague language and situational ellipsis are typical of informal register. Impersonal passives and nominalisations are characteristic of formal and academic writing."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u05-l2-journalistic-style",
+      "title": "Journalistic Style and Headlines",
+      "summary": "Decode the compressed grammar of headlines and recognise the conventions of neutral news reporting.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Interpret headline grammar: omitted words, tense shifts and infinitives for the future",
+        "Understand typical headline vocabulary such as axe, probe, vow, slam and row",
+        "Distinguish neutral, attributed reporting from opinion and editorialising"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why headlines look ungrammatical\nHeadlines must be short, eye-catching and fit a narrow space. Over time this has produced a special grammar sometimes called **headlinese**. Once you know its rules, headlines become easy to decode.\n\n| Headline rule | Headline | Full sentence |\n|---|---|---|\n| Articles and *be* omitted | MINISTER UNDER FIRE | The minister is under fire (being criticised). |\n| Present simple for a recent past event | LOCAL TEAM WINS CUP | A local team has won / won the cup. |\n| *to*-infinitive for the future | MAYOR TO QUIT | The mayor is going to resign. |\n| Past participle = passive | TEN HURT IN TRAIN CRASH | Ten people were hurt in a train crash. |\n| *-ing* for an ongoing situation | PRICES RISING | Prices are rising. |\n| Noun strings | CITY HALL PARKING FEE ROW | a dispute about parking fees at City Hall |\n\n### Headline vocabulary\nShort, dramatic words are preferred to longer neutral ones:\n\n| Headline word | Neutral meaning |\n|---|---|\n| axe | cut, abolish, dismiss |\n| probe | investigation / investigate |\n| vow | promise solemnly |\n| slam | criticise harshly |\n| bid | attempt |\n| row (/raʊ/) | noisy dispute |\n| quit | resign |\n| curb | restrict |\n| spark | cause (often trouble) |\n| back | support |\n\nThus **COUNCIL TO AXE YOUTH CENTRE IN CUTS BID** means *The council is going to close the youth centre in an attempt to cut costs.*\n\n### Conventions of the news report\nThe body of a news story follows different principles from the headline:\n- **The inverted pyramid.** The most important facts (who, what, when, where) come first; background and quotations follow.\n- **Attribution.** Claims are linked to a source: *according to a police spokesperson*, *the company said in a statement*, *it is understood that*. Unattributed opinion is avoided in news (but expected in editorials and columns).\n- **Reporting verbs carry stance.** *Said* is neutral; *claimed* or *alleged* distances the reporter from the claim; *admitted* implies the speaker conceded something unwelcome; *insisted* suggests resistance to doubt.\n- **Hedged legal language.** Suspects are *alleged* to have done things until a court decides.\n\n### News vs opinion\nCompare: *The scheme will continue until March, the ministry said on Tuesday* (news) and *The ministry's stubborn defence of this failing scheme is baffling* (opinion). A C2 reader notices evaluative words such as *stubborn*, *failing* and *baffling* and recognises that the writer has moved from reporting to commenting.",
+        "examples": [
+          {
+            "en": "MAYOR TO QUIT OVER BRIDGE ROW",
+            "id": "Wali kota akan mengundurkan diri karena perselisihan soal jembatan.",
+            "note": "to-infinitive = future; 'row' = dispute; articles omitted."
+          },
+          {
+            "en": "POLICE PROBE FACTORY FIRE",
+            "id": "Polisi menyelidiki kebakaran pabrik.",
+            "note": "'Probe' is a verb here; present simple for a current or recent action."
+          },
+          {
+            "en": "Union slams pay offer as 'insulting'",
+            "id": "Serikat pekerja mengecam keras tawaran gaji sebagai 'menghina'.",
+            "note": "'Slam' = criticise harshly; quotation marks show the union's words, not the paper's."
+          },
+          {
+            "en": "The company said in a statement that no jobs would be lost.",
+            "id": "Perusahaan menyatakan dalam sebuah pernyataan bahwa tidak akan ada pemutusan kerja.",
+            "note": "Neutral attribution with 'said' and backshifted reported speech."
+          },
+          {
+            "en": "Two men are alleged to have entered the building through a fire exit.",
+            "id": "Dua pria diduga memasuki gedung melalui pintu darurat.",
+            "note": "'Alleged' keeps the report legally neutral."
+          }
+        ],
+        "vocabulary": [
+          { "word": "probe", "pos": "noun / verb", "ipa": "/prəʊb/", "meaning": "penyelidikan; menyelidiki", "example": "Regulators have opened a probe into the bank's lending practices." },
+          { "word": "vow", "pos": "verb", "ipa": "/vaʊ/", "meaning": "bersumpah, berjanji dengan sungguh-sungguh", "example": "The new coach vowed to rebuild the team." },
+          { "word": "axe", "pos": "verb", "ipa": "/æks/", "meaning": "memangkas, menghapus, memberhentikan", "example": "The broadcaster has axed its late-night news programme." },
+          { "word": "row", "pos": "noun", "ipa": "/raʊ/", "meaning": "perselisihan, pertengkaran (publik)", "example": "A row has broken out over the new parking charges." },
+          { "word": "attribution", "pos": "noun", "ipa": "/ˌætrɪˈbjuːʃn/", "meaning": "penyebutan sumber (informasi atau kutipan)", "example": "Clear attribution allows readers to judge how reliable a claim is." },
+          { "word": "alleged", "pos": "adjective", "ipa": "/əˈledʒd/", "meaning": "diduga (belum terbukti)", "example": "The alleged fraud took place over three years." }
+        ],
+        "grammar": [
+          { "pattern": "Headline: noun + to-infinitive = future plan", "example": "AIRPORT TO CLOSE FOR REPAIRS", "note": "= The airport is going to close for repairs." },
+          { "pattern": "Headline: noun + past participle = passive", "example": "THREE RESCUED FROM FLOODED MINE", "note": "= Three people were rescued; 'were' is omitted." },
+          { "pattern": "Report: statement + reporting verb + source", "example": "The plant will reopen next week, a spokesperson said.", "note": "Attribution often comes at the end of the sentence in news style." }
+        ],
+        "mistakes": [
+          { "wrong": "Reading 'TEACHERS TO STRIKE' as 'Teachers went on strike.'", "right": "TEACHERS TO STRIKE = Teachers are going to strike.", "why": "In headlines a to-infinitive refers to the future, not the past." },
+          { "wrong": "Reading 'MINISTER SLAMMED' as 'The minister slammed something.'", "right": "MINISTER SLAMMED = The minister has been harshly criticised.", "why": "A past participle after the noun in a headline is passive; 'is/has been' is omitted." },
+          { "wrong": "The spokesperson admitted that the factory is the best in the region.", "right": "The spokesperson said / claimed that the factory is the best in the region.", "why": "'Admit' implies confessing something unwelcome; it does not fit a positive boast." }
+        ],
+        "summary": "Headlines omit articles and auxiliaries, use the present simple for recent events, the to-infinitive for the future and past participles for the passive, and favour short dramatic words such as axe, probe and slam. News reports put key facts first and attribute claims to sources, while reporting verbs subtly reveal stance.",
+        "reviewCards": [
+          { "front": "HOSPITAL TO SHUT WARD", "back": "The hospital is going to close a ward (to-infinitive = future)." },
+          { "front": "Headline meaning of 'slam'", "back": "criticise harshly" },
+          { "front": "Headline meaning of 'bid'", "back": "attempt (e.g. a bid to cut costs)" },
+          { "front": "What does 'alleged' signal in a news report?", "back": "The claim has not been proven; the reporter stays legally neutral." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u05-l2-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "headlines",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "What does the headline 'MAYOR TO QUIT OVER BRIDGE ROW' mean?",
+          "instructions": "In headlines, a to-infinitive refers to the future, and 'row' (rhyming with 'cow') means a dispute.",
+          "options": [
+            "The mayor is going to resign because of a dispute about the bridge.",
+            "The mayor resigned after a fight broke out on the bridge.",
+            "The mayor wants to stop people queuing on the bridge.",
+            "The mayor resigned yesterday because the bridge collapsed."
+          ],
+          "answer": 0,
+          "explanation": "'To quit' signals a future event (is going to resign), and 'row' means a public dispute. Options B and D wrongly read the infinitive as past, and option C misreads 'row' as a line of people.",
+          "misconception": "Learners often read headline infinitives as past events."
+        },
+        {
+          "id": "c2-u05-l2-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "headlines",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each headline word with its neutral meaning.",
+          "pairs": [
+            { "left": "axe", "right": "cut or abolish" },
+            { "left": "probe", "right": "investigation" },
+            { "left": "vow", "right": "promise solemnly" },
+            { "left": "slam", "right": "criticise harshly" },
+            { "left": "bid", "right": "attempt" }
+          ],
+          "explanation": "Headline writers prefer short, dramatic words: axe (cut/abolish), probe (investigation), vow (promise solemnly), slam (criticise harshly) and bid (attempt)."
+        },
+        {
+          "id": "c2-u05-l2-q3",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "headlines",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Expand the headline into a full news sentence using the present perfect passive and the verb 'criticised'.",
+          "sentence": "HOSPITAL CHIEF SLAMMED OVER WAITING TIMES",
+          "cue": "Begin with: The hospital chief",
+          "answers": [
+            "The hospital chief has been criticised over waiting times.",
+            "The hospital chief has been criticised over the waiting times.",
+            "The hospital chief has been criticised for waiting times.",
+            "The hospital chief has been criticised for the waiting times.",
+            "The hospital chief has been harshly criticised over waiting times.",
+            "The hospital chief has been harshly criticised over the waiting times.",
+            "The hospital chief has been strongly criticised over waiting times.",
+            "The hospital chief has been severely criticised over waiting times.",
+            "The hospital chief has been heavily criticised over waiting times.",
+            "The hospital chief has been fiercely criticised over waiting times.",
+            "The hospital chief has been harshly criticised for waiting times.",
+            "The hospital chief has been criticized over waiting times.",
+            "The hospital chief has been criticized over the waiting times.",
+            "The hospital chief has been harshly criticized over waiting times.",
+            "The hospital chief has been criticized for waiting times."
+          ],
+          "explanation": "A past participle after the noun in a headline is passive with the auxiliary omitted. 'Slammed' means harshly criticised, so the full sentence is: The hospital chief has been (harshly) criticised over waiting times."
+        },
+        {
+          "id": "c2-u05-l2-q4",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "headlines",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the headline with words from the bank, following headline conventions.",
+          "text": "MINISTER ___ TO ___ COAL SUBSIDIES AS CLIMATE ___ GROWS",
+          "bank": ["vows", "axe", "row", "axed", "axing", "slams"],
+          "answers": ["vows", "axe", "row"],
+          "explanation": "Headlines use the present simple (vows) with a singular subject, followed by a to-infinitive (to axe = to abolish). 'Climate row' is a noun string meaning a dispute about climate policy. 'Axed' and 'axing' cannot follow 'to', and 'slams to' is ungrammatical."
+        },
+        {
+          "id": "c2-u05-l2-q5",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "news reporting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence follows the conventions of neutral news reporting rather than opinion writing?",
+          "options": [
+            "The minister, who clearly has no idea what she is doing, said the scheme would continue.",
+            "According to a statement released on Tuesday, the scheme will continue until March.",
+            "Everyone knows the scheme is a disaster, yet it will continue until March.",
+            "Sadly and predictably, the scheme will continue until March."
+          ],
+          "answer": 1,
+          "explanation": "Option B attributes the information to a source and contains no evaluative language. The others insert the writer's judgement ('clearly has no idea', 'a disaster', 'sadly and predictably'), which belongs in opinion columns, not news reports."
+        },
+        {
+          "id": "c2-u05-l2-q6",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "news reporting",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Police have launched a probe into the collapse of a footbridge in Harrowmere. What does 'probe' mean in this sentence?",
+          "options": [
+            "an official investigation",
+            "a thin surgical instrument",
+            "an unmanned spacecraft",
+            "a public protest"
+          ],
+          "answer": 0,
+          "explanation": "In news language 'probe' means an official investigation. The other meanings exist (a medical instrument, a space probe) but do not fit a police inquiry into a collapse; 'probe' never means a protest."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u05-l3-academic-style",
+      "title": "Impersonal Academic Style",
+      "summary": "Write in an objective academic register using impersonal structures, nominalisation, cautious claims and precise reporting verbs.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Use impersonal structures and inanimate subjects to foreground ideas rather than the writer",
+        "Choose reporting verbs that convey the precise stance of a source",
+        "Replace informal and vague vocabulary with precise academic alternatives"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The goals of academic style\nAcademic writing aims to be **objective, precise and cautious**. The focus is on evidence and ideas rather than on the writer's feelings, so the language tends to be impersonal and dense. At C2 you need to control this style without making your prose unreadable.\n\n### Impersonal structures\n| Personal / informal | Impersonal / academic |\n|---|---|\n| We looked at 40 schools. | Forty schools were examined. |\n| I think this shows that ... | These findings suggest that ... |\n| You can see that costs rose. | Costs rose, as Figure 2 shows. |\n| People often say that ... | It is widely argued that ... |\n\nUseful devices include the passive, *it*-patterns (*It is evident that ...*), and **inanimate subjects**: *This study examines ..., The data indicate ..., Table 3 summarises ...*. Note that many disciplines now accept *we* in research articles (*We propose a new model*), but *you* addressing the reader and casual *I think* remain inappropriate.\n\n### Nominalisation and precision\nAcademic prose packs information into noun phrases: *The government decided to raise taxes, and this angered voters* becomes *The government's decision to raise taxes angered voters.* Replace vague words with precise ones: *a lot of* → *a substantial number of / considerable*; *things* → *factors, variables, issues*; *get better* → *improve*; *big* → *significant, substantial*.\n\n### Reporting verbs and stance\nThe verb you use to report a source reveals how you evaluate it.\n\n| Verb | What it signals |\n|---|---|\n| demonstrate, establish, show | the claim is treated as proven |\n| argue, contend, maintain | a position is defended; open to debate |\n| claim, assert | the writer may doubt the claim |\n| suggest, propose, posit | a tentative idea or hypothesis |\n| acknowledge, concede | the source admits a limitation or counter-point |\n| refute | the source proves a claim false |\n| speculate | the idea is unproven, possibly unsupported |\n\nThus *Marlow (2018) demonstrates that ...* commits you to the claim, whereas *Marlow (2018) claims that ...* signals scepticism.\n\n### Cautious claims\nAcademic writers hedge (C1): *may, appears to, tends to, to some extent*. They also avoid absolute words such as *always, prove* and *everyone* unless the evidence truly supports them.\n\n### What to avoid\n- contractions (*don't, it's*)\n- rhetorical questions and exclamations\n- colloquial phrasal verbs (*come up with* → *devise*, *find out* → *determine*)\n- emotional or evaluative adjectives without evidence (*amazing, terrible*)\n\nAcademic style is not about long words for their own sake: the best academic writing is precise, economical and clear.",
+        "examples": [
+          {
+            "en": "This study examines the relationship between commuting time and sleep quality.",
+            "id": "Studi ini meneliti hubungan antara waktu perjalanan ke tempat kerja dan kualitas tidur.",
+            "note": "Inanimate subject ('This study') replaces 'In this study I look at'."
+          },
+          {
+            "en": "It is widely argued that urban green spaces improve mental health.",
+            "id": "Banyak pihak berpendapat bahwa ruang hijau perkotaan meningkatkan kesehatan mental.",
+            "note": "It-pattern with a passive reporting verb."
+          },
+          {
+            "en": "Okonjo (2021) concedes that the sample was not nationally representative.",
+            "id": "Okonjo (2021) mengakui bahwa sampelnya tidak mewakili populasi nasional.",
+            "note": "'Concede' signals that the author admits a limitation."
+          },
+          {
+            "en": "The introduction of the scheme coincided with a significant decline in absenteeism.",
+            "id": "Diperkenalkannya program tersebut bertepatan dengan penurunan ketidakhadiran yang signifikan.",
+            "note": "Nominalisations ('introduction', 'decline') and a cautious verb ('coincided')."
+          }
+        ],
+        "vocabulary": [
+          { "word": "contend", "pos": "verb", "ipa": "/kənˈtend/", "meaning": "berpendapat, menyatakan (dalam perdebatan)", "example": "Some economists contend that the tax will harm small firms." },
+          { "word": "concede", "pos": "verb", "ipa": "/kənˈsiːd/", "meaning": "mengakui (biasanya hal yang tidak menguntungkan)", "example": "The authors concede that their model oversimplifies rural migration." },
+          { "word": "posit", "pos": "verb", "ipa": "/ˈpɒzɪt/", "meaning": "mengajukan (sebagai dasar teori/hipotesis)", "example": "The theory posits a link between diet and memory." },
+          { "word": "empirical", "pos": "adjective", "ipa": "/ɪmˈpɪrɪkl/", "meaning": "empiris, berdasarkan pengamatan atau percobaan", "example": "There is little empirical evidence for this claim." },
+          { "word": "generalisability", "pos": "noun", "ipa": "/ˌdʒenrəlaɪzəˈbɪləti/", "meaning": "sejauh mana hasil dapat digeneralisasikan", "example": "The small sample limits the generalisability of the findings." },
+          { "word": "refute", "pos": "verb", "ipa": "/rɪˈfjuːt/", "meaning": "membantah dengan bukti, menyanggah", "example": "Later studies refuted the original hypothesis." }
+        ],
+        "grammar": [
+          { "pattern": "Inanimate subject + present simple reporting verb", "example": "The data indicate a steady rise in enrolment.", "note": "Foregrounds evidence rather than the researcher." },
+          { "pattern": "It + passive reporting verb + that-clause", "example": "It has been suggested that the effect is temporary.", "note": "Distances the writer from the claim." },
+          { "pattern": "Author (year) + stance verb + that-clause", "example": "Ferreira (2019) maintains that the reform was premature.", "note": "Choose the verb to show how strongly you endorse the source." }
+        ],
+        "mistakes": [
+          { "wrong": "In this essay I'm going to look at why loads of students drop out.", "right": "This essay examines why a considerable number of students withdraw from university.", "why": "Contractions, 'look at' and 'loads of' are informal; academic style prefers inanimate subjects and precise vocabulary." },
+          { "wrong": "This proves that diet always affects memory.", "right": "These findings suggest that diet may affect memory.", "why": "'Prove' and 'always' overclaim; academic writing hedges conclusions drawn from limited data." },
+          { "wrong": "Reyes (2020) admits that the method is highly innovative.", "right": "Reyes (2020) argues / claims that the method is highly innovative.", "why": "'Admit' and 'concede' are used for limitations or counter-points, not for positive claims." }
+        ],
+        "summary": "Academic style is impersonal, precise and cautious. Use passives, it-patterns and inanimate subjects, compress ideas through nominalisation, avoid colloquial and vague language, and choose reporting verbs (demonstrate, argue, claim, concede, refute) that reflect your stance towards each source.",
+        "reviewCards": [
+          { "front": "Academic alternative to 'a lot of'", "back": "a substantial number of / a considerable amount of" },
+          { "front": "'X (2020) claims that ...' signals ...", "back": "possible scepticism about the claim" },
+          { "front": "'concede' is used for ...", "back": "admitting a limitation or a point against one's own position" },
+          { "front": "Rewrite: 'In this study I look at ...'", "back": "This study examines / investigates ..." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u05-l3-q1",
+          "type": "single_choice",
+          "category": "academic",
+          "topic": "academic style",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sentence is appropriate for the abstract of a research article?",
+          "instructions": "Look for an inanimate subject, precise vocabulary and a neutral tone.",
+          "options": [
+            "This study examines the effects of remote work on employee wellbeing in three regional firms.",
+            "In this study I'm gonna look at how working from home affects people.",
+            "We all know remote work is great, so this study proves it once and for all.",
+            "This study is about remote work and stuff like how people feel about it."
+          ],
+          "answer": 0,
+          "explanation": "Option A uses an inanimate subject (This study), a precise verb (examines) and neutral, specific language. B is colloquial ('I'm gonna look at'), C is emotive and overclaims ('We all know', 'proves it once and for all'), and D is vague ('and stuff')."
+        },
+        {
+          "id": "c2-u05-l3-q2",
+          "type": "sentence_transformation",
+          "category": "academic",
+          "topic": "academic style",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence in an impersonal academic style.",
+          "sentence": "We analysed the data and found that the scheme reduced costs.",
+          "cue": "Begin with: Analysis of the data",
+          "answers": [
+            "Analysis of the data showed that the scheme reduced costs.",
+            "Analysis of the data showed that the scheme had reduced costs.",
+            "Analysis of the data revealed that the scheme reduced costs.",
+            "Analysis of the data revealed that the scheme had reduced costs.",
+            "Analysis of the data indicated that the scheme reduced costs.",
+            "Analysis of the data indicated that the scheme had reduced costs.",
+            "Analysis of the data suggested that the scheme reduced costs.",
+            "Analysis of the data suggested that the scheme had reduced costs.",
+            "Analysis of the data demonstrated that the scheme reduced costs.",
+            "Analysis of the data demonstrated that the scheme had reduced costs.",
+            "Analysis of the data shows that the scheme reduced costs.",
+            "Analysis of the data indicates that the scheme reduced costs.",
+            "Analysis of the data reveals that the scheme reduced costs.",
+            "Analysis of the data suggests that the scheme reduced costs.",
+            "Analysis of the data showed that the scheme led to reduced costs.",
+            "Analysis of the data showed a reduction in costs as a result of the scheme."
+          ],
+          "explanation": "The nominalisation 'Analysis of the data' becomes an inanimate subject, so 'we' disappears and 'found' is replaced by a reporting verb such as showed, revealed or indicated. This foregrounds the evidence rather than the researchers."
+        },
+        {
+          "id": "c2-u05-l3-q3",
+          "type": "matching",
+          "category": "academic",
+          "topic": "reporting verbs",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Match each reporting verb with the stance it typically conveys.",
+          "pairs": [
+            { "left": "demonstrate", "right": "the writer accepts the claim as proven" },
+            { "left": "claim", "right": "the writer signals possible doubt about the claim" },
+            { "left": "concede", "right": "the source admits a point against its own position" },
+            { "left": "refute", "right": "the source shows that a claim is false" },
+            { "left": "speculate", "right": "the source offers a tentative, unproven idea" }
+          ],
+          "explanation": "Reporting verbs are not interchangeable: 'demonstrate' presents the claim as established, 'claim' distances the writer, 'concede' marks an admission, 'refute' means disproving, and 'speculate' marks an unproven idea."
+        },
+        {
+          "id": "c2-u05-l3-q4",
+          "type": "error_identification",
+          "category": "academic",
+          "topic": "academic style",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which segment of this sentence from a research report is inappropriate in register?",
+          "segments": [
+            "The results",
+            "indicate that",
+            "a lot of participants",
+            "were unable to complete the task within the time limit."
+          ],
+          "errorIndex": 2,
+          "correction": "a substantial proportion of participants",
+          "explanation": "'A lot of' is informal and imprecise. Academic writing prefers 'a substantial proportion of', 'a considerable number of' or 'many', or ideally an exact figure."
+        },
+        {
+          "id": "c2-u05-l3-q5",
+          "type": "dropdown",
+          "category": "academic",
+          "topic": "reporting verbs",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Complete the sentence from a literature review with the appropriate reporting verbs.",
+          "text": "Halvorsen (2019) ___ that the reform failed; however, she ___ that her sample was small, which limits the generalisability of her findings.",
+          "choices": [
+            ["argues", "reckons", "goes on about"],
+            ["acknowledges", "owns up", "lets on"]
+          ],
+          "answers": [0, 0],
+          "explanation": "'Argues' is a standard academic reporting verb for a position. 'Acknowledges' signals that the author admits a limitation. 'Reckons' and 'goes on about' are colloquial; 'owns up' needs 'to' and is informal, and 'lets on' means to reveal a secret, which is the wrong meaning and register."
+        },
+        {
+          "id": "c2-u05-l3-q6",
+          "type": "fill_blank",
+          "category": "academic",
+          "topic": "nominalisation",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the academic sentence with nouns formed from the verbs in brackets.",
+          "text": "The ___ (implement) of the new curriculum led to a marked ___ (improve) in attendance.",
+          "answers": [["implementation"], ["improvement"]],
+          "explanation": "Nominalisation turns verbs into nouns: implement → implementation, improve → improvement. This produces the compact noun phrases typical of academic prose."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u05-l4-politeness-indirectness",
+      "title": "Politeness and Indirectness",
+      "summary": "Use softeners, distancing and face-saving strategies to request, refuse and criticise tactfully.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Make requests more polite through modals, past-tense distancing and downtoners",
+        "Refuse invitations and requests in a face-saving way",
+        "Express disagreement and criticism tactfully without sounding sarcastic"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why indirectness matters\nIn English, especially British English, directness can sound rude even when the speaker intends none. Politeness is largely about protecting **face** – the public self-image of both speaker and listener. Requests, refusals and criticism all threaten face, so speakers soften them with grammar and vocabulary.\n\n### Scales of directness\n| Directness | Request |\n|---|---|\n| Very direct | Send me the file. |\n| Direct but polite | Please send me the file. |\n| Indirect | Could you send me the file? |\n| More indirect | Would you mind sending me the file? |\n| Very indirect | I was wondering if you could possibly send me the file. |\n\nThe more you are imposing, and the less familiar or more senior the listener, the more indirect you usually need to be. But excessive indirectness with a close friend can sound sarcastic or cold.\n\n### Grammatical softeners\n- **Modal verbs:** *could, would, might* (*Could you ...? It might be better to ...*).\n- **Past tense and progressive distancing:** *I was wondering ..., I wanted to ask ..., I was hoping you might ...* – the past form does not refer to past time; it creates social distance and makes the request easier to refuse.\n- **Conditionals:** *If you could let me know by Friday, that would be great.*\n- **Questions instead of statements:** *Shall we move on?* rather than *Move on.*\n\n### Lexical softeners (downtoners)\n*just, possibly, a little, slightly, a bit, perhaps, quite* reduce the force of a request or criticism: *Could I just ask a quick question? The introduction is slightly long.*\n\n### Refusing and disagreeing\nA face-saving refusal usually contains (1) appreciation or regret, (2) a reason, and sometimes (3) an alternative: *I'd love to, but I'm afraid I'm already committed on Friday. Could we do next week instead?* *I'm afraid* is a conventional marker of polite bad news.\n\nTactful disagreement acknowledges the other view first: *I see your point, but I'm not sure I entirely agree.* *That's one way of looking at it, although ...*\n\n### Criticising tactfully\nInstead of *This is wrong*, proficient speakers suggest: *It might be worth reconsidering the second section*, *You may want to check the figures in Table 2*, or use understatement: *The conclusion isn't quite as strong as it could be.* Be careful: phrases such as *With all due respect* can signal strong disagreement, and exaggerated politeness can become sarcasm.\n\n### A cross-cultural note\nIndonesian speakers often signal politeness with words such as *mohon*, *sekiranya* or *tolong*. Translating these as *please* in every sentence can sound insistent in English; modal verbs and distancing usually work better.",
+        "examples": [
+          {
+            "en": "I was wondering if you might be able to extend the deadline by a couple of days.",
+            "id": "Saya ingin bertanya apakah sekiranya Anda bisa memperpanjang tenggat waktu beberapa hari.",
+            "note": "Past progressive distancing plus 'might be able to' – very tentative."
+          },
+          {
+            "en": "I'd love to come, but I'm afraid I've already promised to help my sister move house.",
+            "id": "Saya ingin sekali datang, tetapi sayangnya saya sudah berjanji membantu kakak saya pindah rumah.",
+            "note": "Appreciation + regret marker + reason."
+          },
+          {
+            "en": "It might be worth checking the figures in the second table again.",
+            "id": "Mungkin ada baiknya angka-angka di tabel kedua diperiksa lagi.",
+            "note": "Criticism framed as a tentative suggestion."
+          },
+          {
+            "en": "I see what you mean, but I'm not sure I entirely agree.",
+            "id": "Saya mengerti maksud Anda, tetapi saya tidak yakin sepenuhnya setuju.",
+            "note": "Acknowledgement before disagreement; 'not entirely' softens it."
+          }
+        ],
+        "vocabulary": [
+          { "word": "tactful", "pos": "adjective", "ipa": "/ˈtæktfl/", "meaning": "bijaksana dalam berbicara, tidak menyinggung", "example": "She gave a tactful reply that offended nobody." },
+          { "word": "imposition", "pos": "noun", "ipa": "/ˌɪmpəˈzɪʃn/", "meaning": "hal yang membebani atau merepotkan orang lain", "example": "I hope it isn't too much of an imposition to ask." },
+          { "word": "face-saving", "pos": "adjective", "ipa": "/ˈfeɪs seɪvɪŋ/", "meaning": "untuk menjaga muka / harga diri", "example": "The committee offered a face-saving compromise." },
+          { "word": "downtoner", "pos": "noun", "ipa": "/ˈdaʊntəʊnə/", "meaning": "kata pelunak (mengurangi kekuatan ucapan)", "example": "'Slightly' is a common downtoner in feedback." },
+          { "word": "brusque", "pos": "adjective", "ipa": "/bruːsk/", "meaning": "ketus, kasar karena terlalu singkat", "example": "His brusque email upset the whole team." },
+          { "word": "decline", "pos": "verb", "ipa": "/dɪˈklaɪn/", "meaning": "menolak dengan sopan", "example": "She politely declined the invitation." }
+        ],
+        "grammar": [
+          { "pattern": "I was wondering if/whether + subject + could/might ...", "example": "I was wondering whether you could join us on Thursday.", "note": "Past progressive creates distance; refers to the present." },
+          { "pattern": "Would you mind + -ing / Would you mind if I + past simple", "example": "Would you mind if I opened the window?", "note": "Past simple after 'if' in this pattern is more tentative." },
+          { "pattern": "It might be worth + -ing", "example": "It might be worth asking the finance team first.", "note": "Turns criticism or advice into a gentle suggestion." }
+        ],
+        "mistakes": [
+          { "wrong": "Would you mind to send me the agenda?", "right": "Would you mind sending me the agenda?", "why": "'Mind' is followed by the -ing form, not a to-infinitive." },
+          { "wrong": "I was wondering if you can help me.", "right": "I was wondering if you could help me.", "why": "Keep the distancing consistent: 'could' matches the tentative past 'was wondering'." },
+          { "wrong": "No, I can't come on Friday.", "right": "I'm afraid I can't make it on Friday – I've got a prior commitment.", "why": "A bare 'No' sounds brusque; add a regret marker and a reason." }
+        ],
+        "summary": "Politeness in English relies on indirectness: modal verbs, past-tense distancing, conditionals and downtoners soften requests and criticism. Face-saving refusals combine regret, a reason and often an alternative, and tactful disagreement acknowledges the other view first. Match the degree of indirectness to the imposition and the relationship.",
+        "reviewCards": [
+          { "front": "Very indirect request frame", "back": "I was wondering if you could possibly ..." },
+          { "front": "Would you mind + ?", "back": "-ing form (Would you mind waiting?) or 'if I + past' (Would you mind if I left early?)" },
+          { "front": "Three parts of a face-saving refusal", "back": "appreciation/regret + reason + (alternative)" },
+          { "front": "Tactful way to criticise a report", "back": "It might be worth ... / You may want to ... / slightly / not quite" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u05-l4-q1",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "politeness",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the most appropriate reply: Ben wants to refuse politely without damaging his relationship with his colleague.",
+          "instructions": "A face-saving refusal usually includes regret and a reason.",
+          "dialogue": [
+            { "speaker": "Marta", "text": "Could you possibly cover my presentation on Friday? I've got a hospital appointment." },
+            { "speaker": "Ben", "text": null },
+            { "speaker": "Marta", "text": "Oh, of course – don't worry, I'll ask Priya." }
+          ],
+          "options": [
+            "I'd love to help, but I'm afraid I'm presenting in Room 4 at exactly the same time.",
+            "No. You'll have to sort it out yourself.",
+            "Why would I want to do your presentation for you?",
+            "I'm afraid I'd love to, so I'll be presenting in Room 4."
+          ],
+          "answer": 0,
+          "explanation": "Option A expresses willingness (I'd love to help), uses the regret marker 'I'm afraid' and gives a reason, so Marta's reply fits. B and C are brusque and face-threatening, and D is incoherent: 'I'm afraid' introduces bad news, and 'so' makes no logical sense."
+        },
+        {
+          "id": "c2-u05-l4-q2",
+          "type": "sentence_transformation",
+          "category": "conversation",
+          "topic": "politeness",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Make this direct instruction to a senior colleague into a polite, indirect request.",
+          "sentence": "Send me the report by Friday.",
+          "cue": "Begin with: I was wondering",
+          "answers": [
+            "I was wondering if you could send me the report by Friday.",
+            "I was wondering whether you could send me the report by Friday.",
+            "I was wondering if you could possibly send me the report by Friday.",
+            "I was wondering whether you could possibly send me the report by Friday.",
+            "I was wondering if you might be able to send me the report by Friday.",
+            "I was wondering whether you might be able to send me the report by Friday.",
+            "I was wondering if you would be able to send me the report by Friday.",
+            "I was wondering whether you would be able to send me the report by Friday.",
+            "I was wondering if you'd be able to send me the report by Friday.",
+            "I was wondering whether you'd be able to send me the report by Friday.",
+            "I was wondering if you would mind sending me the report by Friday.",
+            "I was wondering whether you would mind sending me the report by Friday.",
+            "I was wondering if you'd mind sending me the report by Friday.",
+            "I was wondering if you could send the report to me by Friday.",
+            "I was wondering if you might send me the report by Friday."
+          ],
+          "explanation": "'I was wondering if/whether' uses past progressive distancing and must be followed by a tentative modal such as could, might be able to or would be able to. 'Possibly' can be added as a downtoner."
+        },
+        {
+          "id": "c2-u05-l4-q3",
+          "type": "translation",
+          "category": "conversation",
+          "topic": "politeness",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Translate into polite, natural English for an email to your manager.",
+          "source": "Maaf, sepertinya saya tidak bisa menghadiri rapat besok.",
+          "direction": "id-en",
+          "answers": [
+            "I'm sorry, but I don't think I'll be able to attend the meeting tomorrow.",
+            "I am sorry, but I do not think I will be able to attend the meeting tomorrow.",
+            "I'm sorry, but I don't think I'll be able to attend tomorrow's meeting.",
+            "I am sorry, but I do not think I will be able to attend tomorrow's meeting.",
+            "I'm sorry, I don't think I'll be able to attend the meeting tomorrow.",
+            "I'm sorry, I don't think I'll be able to attend tomorrow's meeting.",
+            "I'm afraid I won't be able to attend the meeting tomorrow.",
+            "I'm afraid I won't be able to attend tomorrow's meeting.",
+            "I am afraid I will not be able to attend the meeting tomorrow.",
+            "I am afraid I will not be able to attend tomorrow's meeting.",
+            "I'm sorry, but it looks like I won't be able to attend the meeting tomorrow.",
+            "I'm sorry, but it looks like I won't be able to attend tomorrow's meeting.",
+            "I'm sorry, but it seems I won't be able to attend the meeting tomorrow.",
+            "I'm sorry, but it seems I won't be able to attend tomorrow's meeting.",
+            "Sorry, but I don't think I'll be able to attend the meeting tomorrow.",
+            "Sorry, but I don't think I'll be able to attend tomorrow's meeting.",
+            "I'm sorry, but I don't think I can attend the meeting tomorrow.",
+            "I'm sorry, but I don't think I can attend tomorrow's meeting.",
+            "I'm afraid I don't think I'll be able to attend tomorrow's meeting.",
+            "I'm sorry, but I'm afraid I won't be able to attend tomorrow's meeting."
+          ],
+          "explanation": "'Sepertinya' is best rendered with a softener such as 'I don't think I'll be able to', 'it looks like' or the regret marker 'I'm afraid'. 'Be able to attend' is more polite than a bare 'can't come'."
+        },
+        {
+          "id": "c2-u05-l4-q4",
+          "type": "multiple_select",
+          "category": "conversation",
+          "topic": "politeness",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which of these openings soften a request? Select all that apply.",
+          "options": [
+            "Would you mind ...",
+            "I was hoping you might ...",
+            "You must ...",
+            "Could you possibly ...",
+            "I demand that you ...",
+            "Could I just ask you to ..."
+          ],
+          "answers": [0, 1, 3, 5],
+          "explanation": "'Would you mind', past-tense distancing ('I was hoping you might'), 'Could you possibly' and the downtoner 'just' all soften a request. 'You must' and 'I demand that you' make it more forceful."
+        },
+        {
+          "id": "c2-u05-l4-q5",
+          "type": "single_choice",
+          "category": "conversation",
+          "topic": "politeness",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "A manager wants to point out tactfully, in a team meeting, that a colleague's draft report is too long. Which sentence achieves this without sounding rude or sarcastic?",
+          "options": [
+            "It might be worth trimming a few sections so that the key findings stand out more.",
+            "This report is far too long and nobody is going to read it.",
+            "Well, I suppose some people enjoy reading forty pages of waffle.",
+            "Cut it down. Today, please."
+          ],
+          "answer": 0,
+          "explanation": "Option A frames the criticism as a tentative suggestion ('It might be worth') and gives a positive reason. B is blunt, C is sarcastic, and D is a bare command; all three threaten the colleague's face in front of others."
+        },
+        {
+          "id": "c2-u05-l4-q6",
+          "type": "word_order",
+          "category": "conversation",
+          "topic": "politeness",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the words in order to make a very polite request.",
+          "words": ["I", "was", "wondering", "whether", "you", "might", "be", "able", "to", "help", "us"],
+          "explanation": "The frame 'I was wondering whether + subject + might be able to + verb' combines past progressive distancing with a tentative modal, making the request easy to refuse and therefore very polite."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u05-l5-formal-correspondence",
+      "title": "Formal Correspondence",
+      "summary": "Write formal letters and emails using conventional openings, closings and institutional phrasing adapted to the reader.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Use conventional salutations, openings and closings in formal letters and emails",
+        "Apply fixed institutional phrases such as 'further to', 'please find enclosed' and 'we regret to inform you'",
+        "Adapt tone and phrasing to the recipient and the purpose of the correspondence"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The frame of a formal letter or email\nFormal correspondence is highly conventional: readers expect certain phrases in certain places, and departing from them can sound careless or even rude.\n\n| Part | Conventional phrases |\n|---|---|\n| Salutation | *Dear Ms Rahman,* (name known) / *Dear Sir or Madam,* (name unknown) |\n| Opening line | *I am writing to enquire about ...* / *Further to our telephone conversation of 4 May, ...* / *With reference to your letter of 12 June, ...* / *Thank you for your email regarding ...* |\n| Enclosures | *Please find enclosed / attached ...* / *I enclose a copy of ...* |\n| Bad news | *We regret to inform you that ...* / *Unfortunately, we are unable to ...* |\n| Requests | *I would be grateful if you could ...* / *I would appreciate a reply at your earliest convenience.* |\n| Offer of help | *Please do not hesitate to contact me should you require any further information.* |\n| Pre-closing | *I look forward to hearing from you.* |\n| Closing (British) | *Yours sincerely* (after a name) / *Yours faithfully* (after *Dear Sir or Madam*) |\n\nIn American English, *Sincerely* or *Sincerely yours* is used in both cases. Emails between professionals are often slightly less formal: *Kind regards* or *Best regards* is now standard.\n\n### Grammar of formal letters\n- **Full forms**, not contractions: *I am writing*, not *I'm writing*.\n- **Inverted conditionals** (C1) are common: *Should you have any questions, ...* = *If you have any questions*.\n- **Passives and impersonal subjects** for institutional voice: *Your application has been forwarded to the admissions team.*\n- **Look forward to + -ing**: *I look forward to hearing from you* (not *to hear*). The participle form *Looking forward to hearing from you* is a fragment and too informal for formal letters.\n\n### Institutional vocabulary\n*in accordance with* (sesuai dengan), *pursuant to* (legal), *at your earliest convenience*, *forthwith* (legal, = immediately), *hereby*, *the undersigned*. Use legal words only in genuinely legal or official contexts; elsewhere they sound pompous.\n\n### Adapting to the reader\nA letter of complaint to a company, an email to a professor, and a rejection letter to an applicant are all formal, but they differ in tone. Rejection letters soften bad news (*on this occasion*, *we received a large number of strong applications*); complaints are firm but courteous (*I would expect a full refund*); requests to superiors are tentative (*I would be most grateful if ...*). Always consider what the reader needs to know, in what order, and how they are likely to feel.",
+        "examples": [
+          {
+            "en": "Further to our telephone conversation this morning, I am writing to confirm the details of your booking.",
+            "id": "Menindaklanjuti percakapan telepon kita tadi pagi, saya menulis untuk mengonfirmasi rincian pemesanan Anda.",
+            "note": "'Further to' links the letter to previous contact."
+          },
+          {
+            "en": "Please find enclosed a copy of the signed agreement.",
+            "id": "Terlampir salinan perjanjian yang telah ditandatangani.",
+            "note": "Fixed phrase; in emails use 'attached'."
+          },
+          {
+            "en": "We regret to inform you that your application has not been successful on this occasion.",
+            "id": "Dengan menyesal kami sampaikan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "note": "'On this occasion' softens the rejection and leaves the door open."
+          },
+          {
+            "en": "Should you require any further information, please do not hesitate to contact me.",
+            "id": "Apabila Anda memerlukan informasi lebih lanjut, jangan ragu untuk menghubungi saya.",
+            "note": "Inverted conditional typical of formal correspondence."
+          }
+        ],
+        "vocabulary": [
+          { "word": "enclosed", "pos": "adjective", "ipa": "/ɪnˈkləʊzd/", "meaning": "terlampir (dalam surat)", "example": "The enclosed form must be returned by 30 June." },
+          { "word": "correspondence", "pos": "noun", "ipa": "/ˌkɒrəˈspɒndəns/", "meaning": "surat-menyurat, korespondensi", "example": "Please quote this reference number in all future correspondence." },
+          { "word": "enquire", "pos": "verb", "ipa": "/ɪnˈkwaɪə/", "meaning": "menanyakan, meminta keterangan", "example": "I am writing to enquire about vacancies in your research unit." },
+          { "word": "at your earliest convenience", "pos": "phrase", "ipa": "/ət jɔːr ˈɜːliɪst kənˈviːniəns/", "meaning": "secepatnya, sesegera mungkin bagi Anda", "example": "Please return the signed contract at your earliest convenience." },
+          { "word": "pursuant to", "pos": "preposition", "ipa": "/pəˈsjuːənt tə/", "meaning": "sesuai dengan, berdasarkan (hukum/peraturan)", "example": "The fine was issued pursuant to Section 4 of the regulations." },
+          { "word": "forthwith", "pos": "adverb", "ipa": "/ˌfɔːθˈwɪθ/", "meaning": "segera, saat itu juga (formal/hukum)", "example": "The tenant must vacate the premises forthwith." }
+        ],
+        "grammar": [
+          { "pattern": "I look forward to + -ing", "example": "I look forward to receiving your reply.", "note": "'To' is a preposition here, so it takes -ing." },
+          { "pattern": "Should + subject + base verb, ...", "example": "Should you wish to discuss this further, please call me.", "note": "Formal inverted conditional = If you wish to ..." },
+          { "pattern": "We regret to inform you that + clause", "example": "We regret to inform you that the course has been cancelled.", "note": "Conventional opening for bad news." }
+        ],
+        "mistakes": [
+          { "wrong": "Dear Sir or Madam, ... Yours sincerely,", "right": "Dear Sir or Madam, ... Yours faithfully,", "why": "In British convention, 'Yours faithfully' follows an unnamed salutation; 'Yours sincerely' follows a name." },
+          { "wrong": "I look forward to hear from you.", "right": "I look forward to hearing from you.", "why": "'Look forward to' is followed by -ing because 'to' is a preposition." },
+          { "wrong": "Please find enclosed a copy of my CV. Cheers, Dani", "right": "Please find enclosed a copy of my CV. Yours sincerely, Dani Prasetyo", "why": "'Cheers' and a first name only are far too informal for a job application." }
+        ],
+        "summary": "Formal correspondence relies on fixed frames: conventional salutations and closings, opening lines such as 'I am writing to enquire' or 'Further to', and set phrases for enclosures, bad news and offers of help. Use full forms, inverted conditionals and 'look forward to + -ing', and adjust the tone to the reader's needs and feelings.",
+        "reviewCards": [
+          { "front": "Dear Sir or Madam → closing (BrE)?", "back": "Yours faithfully" },
+          { "front": "Dear Mr Tan → closing (BrE)?", "back": "Yours sincerely" },
+          { "front": "Formal way to say 'I'm sending you ...'", "back": "Please find enclosed / attached ..." },
+          { "front": "Formal way to say 'If you need anything, get in touch.'", "back": "Should you require any further information, please do not hesitate to contact me." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u05-l5-q1",
+          "type": "dropdown",
+          "category": "writing",
+          "topic": "formal correspondence",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Complete the formal letter, following British conventions.",
+          "instructions": "The recipient's name is unknown, which determines the closing.",
+          "text": "Dear Sir or Madam, ___ your letter of 3 March, I am writing to request a copy of my contract. I look forward to hearing from you. Yours ___, Nadia Kusuma",
+          "choices": [
+            ["With reference to", "In reference with", "Referring at"],
+            ["faithfully", "sincerely", "lovingly"]
+          ],
+          "answers": [0, 0],
+          "explanation": "'With reference to' is the fixed formal phrase; 'in reference with' and 'referring at' are ungrammatical. In British convention 'Dear Sir or Madam' is closed with 'Yours faithfully'; 'Yours sincerely' is used when you address the recipient by name, and 'lovingly' is for intimate letters."
+        },
+        {
+          "id": "c2-u05-l5-q2",
+          "type": "sentence_correction",
+          "category": "writing",
+          "topic": "formal correspondence",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "This closing line appears in an email to a new client. Rewrite it in a formal register, beginning with 'Please'.",
+          "sentence": "Don't hesitate to give me a shout if you've got any questions.",
+          "answers": [
+            "Please do not hesitate to contact me if you have any questions.",
+            "Please do not hesitate to contact me should you have any questions.",
+            "Please do not hesitate to contact me if you have any queries.",
+            "Please do not hesitate to contact me should you have any queries.",
+            "Please do not hesitate to contact me if you have any further questions.",
+            "Please do not hesitate to contact me should you have any further questions.",
+            "Please do not hesitate to contact me if you have any further queries.",
+            "Please do not hesitate to contact me should you have any further queries.",
+            "Please do not hesitate to get in touch if you have any questions.",
+            "Please do not hesitate to get in touch should you have any questions.",
+            "Please do not hesitate to contact us if you have any questions.",
+            "Please do not hesitate to contact us should you have any questions.",
+            "Please do not hesitate to contact me if you have any questions at all.",
+            "Please do not hesitate to contact me if there is anything you would like to ask."
+          ],
+          "explanation": "Formal correspondence uses full forms (do not, you have) and replaces the colloquial 'give me a shout' with 'contact me'. 'Should you have any questions' is an even more formal inverted conditional."
+        },
+        {
+          "id": "c2-u05-l5-q3",
+          "type": "translation",
+          "category": "writing",
+          "topic": "formal correspondence",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Translate this sentence from a rejection letter into formal Indonesian.",
+          "source": "We regret to inform you that your application has not been successful on this occasion.",
+          "direction": "en-id",
+          "answers": [
+            "Dengan menyesal kami memberitahukan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami sampaikan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami memberitahukan bahwa lamaran Anda tidak berhasil pada kesempatan ini.",
+            "Dengan menyesal kami sampaikan bahwa lamaran Anda tidak berhasil pada kesempatan ini.",
+            "Dengan berat hati kami memberitahukan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan berat hati kami sampaikan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami memberitahukan bahwa lamaran Anda belum berhasil kali ini.",
+            "Dengan menyesal kami sampaikan bahwa lamaran Anda belum berhasil kali ini.",
+            "Kami menyesal memberitahukan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Kami menyesal memberitahukan bahwa lamaran Anda tidak berhasil pada kesempatan ini.",
+            "Kami menyesal memberitahukan bahwa lamaran Anda belum berhasil kali ini.",
+            "Kami mohon maaf memberitahukan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami beritahukan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami informasikan bahwa lamaran Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami memberitahukan bahwa permohonan Anda belum berhasil pada kesempatan ini.",
+            "Dengan menyesal kami sampaikan bahwa permohonan Anda belum berhasil pada kesempatan ini."
+          ],
+          "explanation": "'We regret to inform you' corresponds to the formal Indonesian 'Dengan menyesal kami memberitahukan/sampaikan'. 'On this occasion' (pada kesempatan ini) softens the rejection; 'belum berhasil' keeps the same hopeful nuance."
+        },
+        {
+          "id": "c2-u05-l5-q4",
+          "type": "matching",
+          "category": "writing",
+          "topic": "formal correspondence",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each informal expression with its formal equivalent for a business letter.",
+          "pairs": [
+            { "left": "I'm sending you ...", "right": "Please find enclosed ..." },
+            { "left": "Can you reply soon?", "right": "I would appreciate a reply at your earliest convenience." },
+            { "left": "Sorry, but we can't ...", "right": "We regret that we are unable to ..." },
+            { "left": "As I said on the phone, ...", "right": "Further to our telephone conversation, ..." },
+            { "left": "Get in touch if you need anything.", "right": "Please do not hesitate to contact us should you require further assistance." }
+          ],
+          "explanation": "Each formal equivalent is a conventional fixed phrase of business correspondence: 'Please find enclosed' for attachments, 'at your earliest convenience' for requests, 'We regret that we are unable to' for refusals, 'Further to' for previous contact, and 'Please do not hesitate to contact us' for offers of help."
+        },
+        {
+          "id": "c2-u05-l5-q5",
+          "type": "error_identification",
+          "category": "writing",
+          "topic": "formal correspondence",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which segment of this formal letter contains an error?",
+          "segments": [
+            "Further to our meeting on 14 June,",
+            "I am pleased to confirm",
+            "that your contract has been approved.",
+            "Looking forward to hear from you."
+          ],
+          "errorIndex": 3,
+          "correction": "I look forward to hearing from you.",
+          "explanation": "'Look forward to' must be followed by -ing (hearing), and in a formal letter the full sentence 'I look forward to hearing from you' is required; the participle fragment 'Looking forward to ...' is too informal."
+        },
+        {
+          "id": "c2-u05-l5-q6",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "formal correspondence",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "The enclosed brochure outlines our terms. Should you require any further information, please contact our office. What does 'Should you require' mean here?",
+          "options": [
+            "If you need",
+            "You are obliged to request",
+            "Because you have asked for",
+            "Whether or not you want"
+          ],
+          "answer": 0,
+          "explanation": "'Should you require' is an inverted conditional meaning 'If you need'. 'Should' here does not express obligation, and it does not mean 'because' or 'whether or not'.",
+          "misconception": "Learners often read 'should' in inverted conditionals as an obligation."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u05-t-q1",
+      "type": "single_choice",
+      "category": "writing",
+      "topic": "register",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "You are emailing the admissions office of Kelbrook University for the first time. Which opening sentence is appropriate?",
+      "options": [
+        "I am writing to enquire whether late applications are still being accepted for the MSc in Urban Planning.",
+        "Hey there, quick question – are you guys still taking late applications?",
+        "Yo admissions team, can I still apply late or what?",
+        "I'm writing cos I wanna know if late applications are OK."
+      ],
+      "answer": 0,
+      "explanation": "A first email to an institution requires formal register: 'I am writing to enquire whether ...' with full forms and precise vocabulary. The other options contain slang ('Hey there', 'you guys', 'Yo', 'or what', 'cos', 'wanna')."
+    },
+    {
+      "id": "c2-u05-t-q2",
+      "type": "short_answer",
+      "category": "reading",
+      "topic": "headlines",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "In the headline 'COUNCIL TO AXE LIBRARY FUNDING', does 'to axe' refer to the past, the present or the future? Answer with one word.",
+      "answers": ["future", "the future"],
+      "explanation": "In headlines, noun + to-infinitive describes a planned future action: The council is going to cut library funding."
+    },
+    {
+      "id": "c2-u05-t-q3",
+      "type": "sentence_transformation",
+      "category": "conversation",
+      "topic": "politeness",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "You are speaking to a stranger on a train. Make the request more polite.",
+      "sentence": "Can you lower your voice?",
+      "cue": "Begin with: Would you mind",
+      "answers": [
+        "Would you mind lowering your voice?",
+        "Would you mind lowering your voice a little?",
+        "Would you mind lowering your voice a bit?",
+        "Would you mind lowering your voice slightly?",
+        "Would you mind lowering your voice, please?",
+        "Would you mind keeping your voice down?",
+        "Would you mind keeping your voice down a little?",
+        "Would you mind keeping your voice down a bit?",
+        "Would you mind speaking a little more quietly?",
+        "Would you mind speaking more quietly?",
+        "Would you mind speaking a bit more quietly?"
+      ],
+      "explanation": "'Would you mind' is followed by the -ing form (lowering). Downtoners such as 'a little' or 'slightly' make the request even more tactful."
+    },
+    {
+      "id": "c2-u05-t-q4",
+      "type": "drag_drop",
+      "category": "academic",
+      "topic": "academic style",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Complete the sentences from an academic article with words from the bank.",
+      "text": "Recent findings ___ doubt on the original theory. The authors themselves ___ that their sample was small.",
+      "bank": ["cast", "acknowledge", "put", "reckon", "casts", "own up"],
+      "answers": ["cast", "acknowledge"],
+      "explanation": "'Cast doubt on' is the fixed collocation (plural subject 'findings' takes 'cast'). 'Acknowledge' is the academic verb for admitting a limitation. 'Put doubt on' is not idiomatic, 'casts' does not agree with 'findings', 'reckon' is informal, and 'own up' needs 'to' and is colloquial."
+    },
+    {
+      "id": "c2-u05-t-q5",
+      "type": "matching",
+      "category": "reading",
+      "topic": "register",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Match each sentence with the text type in which it is most likely to appear.",
+      "pairs": [
+        { "left": "COUNCIL SLAMMED OVER BUS CUTS", "right": "a newspaper headline" },
+        { "left": "These findings are consistent with previous research.", "right": "an academic article" },
+        { "left": "We regret to inform you that the event has been cancelled.", "right": "a formal letter" },
+        { "left": "Can't make it tonight – rain check?", "right": "a text message to a friend" }
+      ],
+      "explanation": "Headlinese omits articles and auxiliaries; 'consistent with previous research' is academic; 'We regret to inform you' is a fixed formal-letter phrase; contractions, ellipsis and the idiom 'rain check' signal an informal text message."
+    },
+    {
+      "id": "c2-u05-t-q6",
+      "type": "error_identification",
+      "category": "conversation",
+      "topic": "politeness",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Which segment of this polite request contains a grammatical error?",
+      "segments": [
+        "I was wondering",
+        "if you could possibly",
+        "to send me",
+        "the revised schedule."
+      ],
+      "errorIndex": 2,
+      "correction": "send me",
+      "explanation": "After the modal 'could' the bare infinitive is required: 'if you could possibly send me'. 'To send' is ungrammatical after a modal verb."
+    }
+  ]
+}

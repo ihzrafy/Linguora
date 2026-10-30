@@ -1,0 +1,4595 @@
+{
+  "level": "A2",
+  "grammarTopics": [
+    {
+      "slug": "a2-was-were",
+      "title": "Past of Be: Was, Were, There Was/Were",
+      "category": "tense",
+      "explanation": "### Fungsi was/were\n**Was** dan **were** adalah bentuk lampau dari *am/is/are*. Dipakai untuk tempat, keadaan, perasaan, dan deskripsi di masa lalu: *I **was** at home yesterday. The film **was** boring.*\n\n| Subjek | Positif | Negatif | Pertanyaan |\n| --- | --- | --- | --- |\n| I / he / she / it | was | wasn't | Was he...? |\n| you / we / they | were | weren't | Were you...? |\n\n### There was / there were\nUntuk menyatakan *ada* di masa lalu: **there was** + benda tunggal/tak terhitung, **there were** + benda jamak. *There was a storm. There were fifty guests.*\n\n### Penting\nWas/were **tidak** memakai *did*: ✗ *Did you were tired?* ✓ *Were you tired?* Jawaban singkat: *Yes, I was. / No, they weren't.*",
+      "formulas": [
+        {
+          "label": "Positif",
+          "pattern": "Subject + was/were + place/adjective/noun"
+        },
+        {
+          "label": "Negatif",
+          "pattern": "Subject + wasn't/weren't + ..."
+        },
+        {
+          "label": "Pertanyaan",
+          "pattern": "(Wh-) + Was/Were + subject + ...?"
+        },
+        {
+          "label": "There was/were",
+          "pattern": "There was + singular/uncountable; There were + plural"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I was at the dentist yesterday.",
+          "My grandparents were teachers.",
+          "There was a big crowd at the stadium."
+        ],
+        "negative": [
+          "The shops weren't open on Sunday.",
+          "She wasn't happy with the hotel.",
+          "There weren't any taxis at the station."
+        ],
+        "interrogative": [
+          "Where were you last night?",
+          "Was the exam difficult?",
+          "Were there any problems?"
+        ]
+      },
+      "comparison": "Bahasa Indonesia tidak mengubah kata kerja untuk masa lampau (*Saya capek kemarin*). Bahasa Inggris wajib mengubah *am/is* menjadi **was** dan *are* menjadi **were**: *I **was** tired yesterday.*",
+      "mistakes": [
+        {
+          "wrong": "They was at the beach.",
+          "right": "They were at the beach.",
+          "why": "They memakai were."
+        },
+        {
+          "wrong": "Did you were at home?",
+          "right": "Were you at home?",
+          "why": "Pertanyaan dengan was/were tidak memakai did."
+        },
+        {
+          "wrong": "There was two cats in the garden.",
+          "right": "There were two cats in the garden.",
+          "why": "Two cats jamak → there were."
+        }
+      ],
+      "keywords": [
+        "was",
+        "were",
+        "wasn't",
+        "weren't",
+        "there was",
+        "there were",
+        "yesterday",
+        "ago"
+      ],
+      "relatedLessons": [
+        "a2-u01-l1-was-were-positive",
+        "a2-u01-l2-was-were-negative-questions",
+        "a2-u01-l3-past-time-expressions",
+        "a2-u01-l4-there-was-there-were"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-was-were-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "was/were",
+          "difficulty": 1,
+          "stage": "independent",
+          "prompt": "Write was, were, wasn't or weren't.",
+          "text": "Last Sunday the beach ___ very crowded, but the water ___ clean. My friends ___ there because they were sick.",
+          "answers": [
+            [
+              "was"
+            ],
+            [
+              "wasn't",
+              "was not"
+            ],
+            [
+              "weren't",
+              "were not"
+            ]
+          ],
+          "explanation": "The beach → was. Air tidak bersih (but) → wasn't. Teman-teman tidak ada di sana karena sakit → weren't."
+        },
+        {
+          "id": "a2-gr-was-were-q2",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "there was/were",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct option: ___ a lot of people at the night market yesterday?",
+          "options": [
+            "Were there",
+            "Was there",
+            "There were",
+            "Did there"
+          ],
+          "answer": 0,
+          "explanation": "People jamak → Were there...? Pertanyaan tidak memakai did."
+        },
+        {
+          "id": "a2-gr-was-were-q3",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "was/were",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Correct the question.",
+          "sentence": "Did the concert was good?",
+          "answers": [
+            "Was the concert good?"
+          ],
+          "explanation": "Untuk to be, pertanyaannya cukup dengan menukar posisi: Was the concert good?"
+        }
+      ]
+    },
+    {
+      "slug": "a2-past-simple",
+      "title": "Past Simple: Regular, Irregular, Negatives and Questions",
+      "category": "tense",
+      "explanation": "### Fungsi past simple\nPast simple dipakai untuk kegiatan yang **sudah selesai** di masa lalu, biasanya dengan waktu yang jelas: *yesterday, last week, in 2020, two days ago*.\n\n### Bentuk positif\n- Beraturan: **verb + -ed** (*worked, studied, stopped, lived*).\n- Tidak beraturan: dihafal (*went, had, saw, bought, took, made*).\n- Bentuknya sama untuk semua subjek.\n\n### Negatif dan pertanyaan\nGunakan **did** + bentuk dasar:\n\n| Bentuk | Pola | Contoh |\n| --- | --- | --- |\n| Negatif | didn't + base verb | *She didn't go.* |\n| Yes/No | Did + subject + base verb? | *Did you see it?* |\n| Wh- | Wh- + did + subject + base verb? | *Where did they stay?* |\n\nPertanyaan subjek tidak memakai did: *Who called you? What happened?*\n\n### Pelafalan -ed\n/t/ setelah bunyi tak bersuara (*worked*), /d/ setelah bunyi bersuara (*played*), /ɪd/ setelah t/d (*wanted*).",
+      "formulas": [
+        {
+          "label": "Positif",
+          "pattern": "Subject + verb-ed / irregular past"
+        },
+        {
+          "label": "Negatif",
+          "pattern": "Subject + didn't + base verb"
+        },
+        {
+          "label": "Pertanyaan",
+          "pattern": "(Wh-) + did + subject + base verb?"
+        },
+        {
+          "label": "Pertanyaan subjek",
+          "pattern": "Who/What + past verb ...?"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "We visited the museum last Saturday.",
+          "She bought a new bag and went home.",
+          "I studied until midnight."
+        ],
+        "negative": [
+          "I didn't sleep well.",
+          "They didn't take a taxi.",
+          "He didn't answer my message."
+        ],
+        "interrogative": [
+          "Did you enjoy the trip?",
+          "What did you eat for lunch?",
+          "Who told you the news?"
+        ]
+      },
+      "comparison": "Bahasa Indonesia memakai *tidak* tanpa mengubah kata kerja (*Dia tidak pergi*). Bahasa Inggris butuh **didn't** dan kata kerja kembali ke bentuk dasar: *She didn't go* (bukan *didn't went*).",
+      "mistakes": [
+        {
+          "wrong": "She didn't went to school.",
+          "right": "She didn't go to school.",
+          "why": "Setelah didn't, pakai bentuk dasar."
+        },
+        {
+          "wrong": "Where you went?",
+          "right": "Where did you go?",
+          "why": "Pertanyaan wh- butuh did + base verb."
+        },
+        {
+          "wrong": "I buyed a jacket.",
+          "right": "I bought a jacket.",
+          "why": "Buy adalah kata kerja tidak beraturan."
+        }
+      ],
+      "keywords": [
+        "-ed",
+        "irregular verbs",
+        "did",
+        "didn't",
+        "yesterday",
+        "last",
+        "ago"
+      ],
+      "relatedLessons": [
+        "a2-u02-l1-regular-verbs",
+        "a2-u02-l2-ed-pronunciation",
+        "a2-u02-l3-irregular-verbs",
+        "a2-u03-l1-past-negative",
+        "a2-u03-l2-did-questions",
+        "a2-u03-l3-wh-questions-past"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-past-simple-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "past simple",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the past simple of the verbs in brackets.",
+          "text": "Yesterday I ___ (take) the bus to work, but I ___ (not / bring) my umbrella, so I ___ (get) wet.",
+          "answers": [
+            [
+              "took"
+            ],
+            [
+              "didn't bring",
+              "did not bring"
+            ],
+            [
+              "got"
+            ]
+          ],
+          "explanation": "take → took; negatif → didn't bring (bentuk dasar); get → got."
+        },
+        {
+          "id": "a2-gr-past-simple-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "past simple questions",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": [
+            "How",
+            "long",
+            "did",
+            "you",
+            "stay",
+            "in",
+            "Malang?"
+          ],
+          "explanation": "How long + did + you + stay (bentuk dasar) + tempat."
+        },
+        {
+          "id": "a2-gr-past-simple-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "past simple questions",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Find the mistake.",
+          "segments": [
+            "Did",
+            "your sister",
+            "found",
+            "her passport?"
+          ],
+          "errorIndex": 2,
+          "correction": "find",
+          "explanation": "Setelah did, kata kerja kembali ke bentuk dasar: find."
+        }
+      ]
+    },
+    {
+      "slug": "a2-comparatives-superlatives",
+      "title": "Comparatives, Superlatives and As ... As",
+      "category": "parts_of_speech",
+      "explanation": "### Membandingkan\n| Jenis adjective | Comparative | Superlative |\n| --- | --- | --- |\n| pendek (cheap) | cheaper than | the cheapest |\n| berakhiran -e (nice) | nicer than | the nicest |\n| vokal + konsonan (big) | bigger than | the biggest |\n| berakhiran -y (easy) | easier than | the easiest |\n| panjang (expensive) | more expensive than | the most expensive |\n| good / bad / far | better / worse / further | the best / the worst / the furthest |\n\n### As ... as\n**as + adjective + as** = sama (*as tall as*). **not as + adjective + as** = kurang (*not as cheap as*). Adjective tetap bentuk dasar.\n\n### Penting\nJangan gabungkan *more* dan *-er* (✗ *more bigger*). Pakai **than** untuk comparative, dan **the** untuk superlative.",
+      "formulas": [
+        {
+          "label": "Comparative",
+          "pattern": "A + be + adjective-er / more + adjective + than + B"
+        },
+        {
+          "label": "Superlative",
+          "pattern": "the + adjective-est / the most + adjective (+ in/of ...)"
+        },
+        {
+          "label": "Sama",
+          "pattern": "A + be + as + adjective + as + B"
+        },
+        {
+          "label": "Kurang",
+          "pattern": "A + be + not as + adjective + as + B"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "The train is faster than the bus.",
+          "This is the most comfortable hotel in town.",
+          "My bag is as heavy as yours."
+        ],
+        "negative": [
+          "The village isn't as noisy as the city.",
+          "This phone isn't better than my old one.",
+          "It wasn't the worst film of the year."
+        ],
+        "interrogative": [
+          "Which is cheaper, the red one or the blue one?",
+          "Who is the tallest person in your family?",
+          "Is Bandung as hot as Jakarta?"
+        ]
+      },
+      "comparison": "Bahasa Indonesia memakai *lebih ... daripada*, *paling*, dan *se-* (*setinggi*). Bahasa Inggris memilih **-er/more**, **-est/most** berdasarkan panjang adjective, dan **as ... as** untuk *se-*.",
+      "mistakes": [
+        {
+          "wrong": "She is more taller than me.",
+          "right": "She is taller than me.",
+          "why": "Jangan gabungkan more dan -er."
+        },
+        {
+          "wrong": "It's the most cheap shop.",
+          "right": "It's the cheapest shop.",
+          "why": "Adjective pendek memakai -est."
+        },
+        {
+          "wrong": "My room is as big than yours.",
+          "right": "My room is as big as yours.",
+          "why": "Pasangannya as ... as."
+        }
+      ],
+      "keywords": [
+        "-er",
+        "more",
+        "than",
+        "the -est",
+        "the most",
+        "better",
+        "worse",
+        "as ... as"
+      ],
+      "relatedLessons": [
+        "a2-u04-l1-comparatives-short",
+        "a2-u04-l2-comparatives-long-irregular",
+        "a2-u04-l3-superlatives",
+        "a2-u04-l4-as-as",
+        "a2-u04-l5-comparing-cities-products"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-comparatives-superlatives-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "comparatives and superlatives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the correct form of the adjectives in brackets.",
+          "text": "Riverton is ___ (big) than Sunny Bay, but Sunny Bay has ___ (good) beaches in the region.",
+          "answers": [
+            [
+              "bigger"
+            ],
+            [
+              "the best"
+            ]
+          ],
+          "explanation": "Membandingkan dua kota → bigger than. Di antara semua pantai di wilayah → the best."
+        },
+        {
+          "id": "a2-gr-comparatives-superlatives-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "as ... as",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence so that it has the same meaning.",
+          "sentence": "The bus is slower than the train.",
+          "cue": "Begin with: The bus isn't as ...",
+          "answers": [
+            "The bus isn't as fast as the train.",
+            "The bus is not as fast as the train."
+          ],
+          "explanation": "Bus lebih lambat = bus tidak secepat kereta: isn't as fast as."
+        },
+        {
+          "id": "a2-gr-comparatives-superlatives-q3",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct option: It was ___ day of my holiday. It rained all day and I lost my wallet.",
+          "options": [
+            "the worst",
+            "the baddest",
+            "worse",
+            "the most bad"
+          ],
+          "answer": 0,
+          "explanation": "Superlative dari bad adalah the worst."
+        }
+      ]
+    },
+    {
+      "slug": "a2-future-forms",
+      "title": "Future Forms: Going To, Present Continuous, Will",
+      "category": "tense",
+      "explanation": "### Tiga cara membicarakan masa depan\n| Bentuk | Fungsi | Contoh |\n| --- | --- | --- |\n| **be going to** + verb | rencana/niat yang sudah diputuskan | *I'm going to learn Japanese.* |\n| **be going to** + verb | prediksi dengan bukti sekarang | *Look at the clouds! It's going to rain.* |\n| **present continuous** | acara yang sudah diatur (waktu/tempat/orang) | *I'm meeting Sara at six tomorrow.* |\n| **will** + verb | keputusan spontan, tawaran | *I'll help you.* |\n| **will** + verb | janji | *I won't forget, I promise.* |\n| **will** + verb | prediksi berdasarkan pendapat | *I think it will be sunny.* |\n\n### Tips memilih\n- Sudah diputuskan sebelumnya? → **going to**\n- Sudah ada jadwal/janji dengan orang lain? → **present continuous**\n- Diputuskan saat berbicara, menawarkan, berjanji? → **will**",
+      "formulas": [
+        {
+          "label": "Going to",
+          "pattern": "Subject + am/is/are + going to + base verb"
+        },
+        {
+          "label": "Arrangement",
+          "pattern": "Subject + am/is/are + verb-ing + future time"
+        },
+        {
+          "label": "Will",
+          "pattern": "Subject + will ('ll) / won't + base verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "We're going to paint the house next month.",
+          "I'm flying to Medan on Friday.",
+          "I'll carry that bag for you."
+        ],
+        "negative": [
+          "She isn't going to apply for the job.",
+          "We aren't having a party this year.",
+          "I won't tell anyone."
+        ],
+        "interrogative": [
+          "What are you going to do after the exam?",
+          "Are you doing anything on Saturday?",
+          "Will you be home tonight?"
+        ]
+      },
+      "comparison": "Bahasa Indonesia memakai *akan* untuk semua bentuk masa depan. Bahasa Inggris membedakan rencana (**going to**), jadwal (**present continuous**), dan keputusan/janji/pendapat (**will**).",
+      "mistakes": [
+        {
+          "wrong": "I going to visit my aunt.",
+          "right": "I'm going to visit my aunt.",
+          "why": "Going to butuh am/is/are."
+        },
+        {
+          "wrong": "The phone is ringing. I answer it.",
+          "right": "The phone is ringing. I'll answer it.",
+          "why": "Keputusan spontan memakai will."
+        },
+        {
+          "wrong": "I will to call you.",
+          "right": "I will call you.",
+          "why": "Setelah will langsung bentuk dasar."
+        }
+      ],
+      "keywords": [
+        "going to",
+        "will",
+        "won't",
+        "tomorrow",
+        "next week",
+        "tonight",
+        "I think"
+      ],
+      "relatedLessons": [
+        "a2-u05-l1-going-to-plans",
+        "a2-u05-l2-going-to-predictions",
+        "a2-u05-l3-present-continuous-arrangements",
+        "a2-u05-l4-will-decisions-offers",
+        "a2-u10-l4-will-promises-predictions"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-future-forms-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "future forms",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Choose the best future form.",
+          "text": "A: Do you have plans for Saturday? B: Yes, ___ my cousin at the airport at ten. She's arriving from Bali. A: That bag looks heavy. B: Oh, thanks! A: Don't worry, ___ it for you.",
+          "choices": [
+            [
+              "I'm meeting",
+              "I'll meet"
+            ],
+            [
+              "I'll carry",
+              "I'm carrying"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Jadwal yang sudah diatur (jam 10 di bandara) → present continuous. Tawaran spontan → I'll carry."
+        },
+        {
+          "id": "a2-gr-future-forms-q2",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "going to predictions",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the best option: Look at that boy on the wall! He ___ fall.",
+          "options": [
+            "is going to",
+            "goes to",
+            "going",
+            "is go to"
+          ],
+          "answer": 0,
+          "explanation": "Prediksi dengan bukti yang terlihat sekarang → is going to."
+        },
+        {
+          "id": "a2-gr-future-forms-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "be going to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into English. (a plan you made last month)",
+          "source": "Kami akan pindah ke Surabaya tahun depan.",
+          "direction": "id-en",
+          "answers": [
+            "We're going to move to Surabaya next year.",
+            "We are going to move to Surabaya next year.",
+            "Next year we're going to move to Surabaya.",
+            "We're moving to Surabaya next year.",
+            "We are moving to Surabaya next year."
+          ],
+          "explanation": "Rencana yang sudah diputuskan → be going to (present continuous juga diterima)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-modals-advice-obligation",
+      "title": "Should, Have To, Must",
+      "category": "modals",
+      "explanation": "### Empat makna penting\n| Bentuk | Arti | Contoh |\n| --- | --- | --- |\n| **should / shouldn't** | saran (ide baik/buruk) | *You should see a doctor.* |\n| **have to / has to** | wajib (karena aturan/keadaan) | *Nurses have to work at night.* |\n| **must** | wajib (aturan kuat) | *You must wear a seatbelt.* |\n| **mustn't** | **dilarang** | *You mustn't smoke here.* |\n| **don't have to** | **tidak perlu** | *You don't have to pay. It's free.* |\n\n### Bentuk\n- *should* dan *must* tidak berubah untuk he/she dan tidak memakai *to*: *She should rest.*\n- *have to* berubah seperti kata kerja biasa: *he **has to**, he **doesn't have to**, **Do** you have to...?*\n- Masa lalu: **had to** (tidak ada *musted*).\n\n### Jangan tertukar\n**mustn't** = tidak boleh; **don't have to** = tidak perlu.",
+      "formulas": [
+        {
+          "label": "Saran",
+          "pattern": "Subject + should/shouldn't + base verb"
+        },
+        {
+          "label": "Kewajiban",
+          "pattern": "Subject + have to/has to/must + base verb"
+        },
+        {
+          "label": "Larangan",
+          "pattern": "Subject + mustn't + base verb"
+        },
+        {
+          "label": "Tidak perlu",
+          "pattern": "Subject + don't/doesn't have to + base verb"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "You should drink more water.",
+          "She has to wear a uniform.",
+          "Visitors must sign in at reception."
+        ],
+        "negative": [
+          "You shouldn't stay up late.",
+          "We don't have to work on Sunday.",
+          "You mustn't park here."
+        ],
+        "interrogative": [
+          "Should I take this medicine?",
+          "Do you have to get up early?",
+          "What should we do?"
+        ]
+      },
+      "comparison": "Dalam bahasa Indonesia, *tidak harus* bisa berarti *tidak perlu* atau *tidak boleh*. Dalam bahasa Inggris maknanya dipisah: **don't have to** (tidak perlu) dan **mustn't** (tidak boleh).",
+      "mistakes": [
+        {
+          "wrong": "You should to rest.",
+          "right": "You should rest.",
+          "why": "Should langsung diikuti bentuk dasar."
+        },
+        {
+          "wrong": "She have to work late.",
+          "right": "She has to work late.",
+          "why": "She memakai has to."
+        },
+        {
+          "wrong": "It's free. You mustn't pay.",
+          "right": "It's free. You don't have to pay.",
+          "why": "Gratis berarti tidak perlu membayar."
+        }
+      ],
+      "keywords": [
+        "should",
+        "shouldn't",
+        "have to",
+        "has to",
+        "had to",
+        "must",
+        "mustn't",
+        "don't have to"
+      ],
+      "relatedLessons": [
+        "a2-u06-l2-should-advice",
+        "a2-u06-l3-have-to",
+        "a2-u06-l4-must-mustnt",
+        "a2-u06-l5-healthy-habits-doctor"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-modals-advice-obligation-q1",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "modals",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "At our school, students ___ wear a uniform from Monday to Thursday, but on Friday they ___ wear it. They ___ use their phones in class. That's a strict rule.",
+          "bank": [
+            "have to",
+            "don't have to",
+            "mustn't",
+            "should to",
+            "doesn't have to"
+          ],
+          "answers": [
+            "have to",
+            "don't have to",
+            "mustn't"
+          ],
+          "explanation": "Wajib → have to; tidak wajib → don't have to; dilarang (aturan ketat) → mustn't."
+        },
+        {
+          "id": "a2-gr-modals-advice-obligation-q2",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "should",
+          "difficulty": 1,
+          "stage": "independent",
+          "prompt": "Your friend has a bad cough. What is the best advice?",
+          "options": [
+            "You should drink some warm water with honey.",
+            "You mustn't drink water.",
+            "You should to rest.",
+            "You don't have to see a doctor ever."
+          ],
+          "answer": 0,
+          "explanation": "Saran yang masuk akal dan benar secara tata bahasa: You should + base verb."
+        },
+        {
+          "id": "a2-gr-modals-advice-obligation-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "have to",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the correct form of have to.",
+          "text": "Yesterday my brother ___ work until ten p.m. ___ he work late today too?",
+          "answers": [
+            [
+              "had to"
+            ],
+            [
+              "Does",
+              "does"
+            ]
+          ],
+          "explanation": "Masa lalu → had to. Pertanyaan untuk he → Does he have to...?"
+        }
+      ]
+    },
+    {
+      "slug": "a2-past-continuous",
+      "title": "Past Continuous and Past Simple",
+      "category": "tense",
+      "explanation": "### Past continuous\n**was/were + verb-ing** untuk kegiatan yang **sedang berlangsung** pada waktu tertentu di masa lalu, atau sebagai latar cerita: *At 8 p.m. I **was cooking**. The sun **was shining**.*\n\n### Bersama past simple\nKegiatan panjang (past continuous) disela kejadian singkat (past simple):\n- *I **was walking** home **when** it **started** to rain.*\n- ***While** we **were waiting**, the bus **arrived**.*\n\n| Kata | Biasanya diikuti |\n| --- | --- |\n| when | past simple (kejadian singkat) |\n| while | past continuous (kegiatan panjang) |\n\n### Kata kerja keadaan\n*know, like, want, need* biasanya tidak memakai -ing: ✗ *I was knowing*.",
+      "formulas": [
+        {
+          "label": "Positif",
+          "pattern": "Subject + was/were + verb-ing"
+        },
+        {
+          "label": "Negatif",
+          "pattern": "Subject + wasn't/weren't + verb-ing"
+        },
+        {
+          "label": "Pertanyaan",
+          "pattern": "(Wh-) + was/were + subject + verb-ing?"
+        },
+        {
+          "label": "Disela",
+          "pattern": "past continuous + when + past simple"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "At nine o'clock I was having breakfast.",
+          "They were playing football when it started to rain.",
+          "While she was reading, the lights went out."
+        ],
+        "negative": [
+          "I wasn't sleeping when you called.",
+          "We weren't watching TV at that time.",
+          "He wasn't wearing a helmet."
+        ],
+        "interrogative": [
+          "What were you doing at 10 p.m.?",
+          "Was it raining when you left?",
+          "Were they waiting long?"
+        ]
+      },
+      "comparison": "Bahasa Indonesia memakai *sedang* (*Saya sedang makan ketika dia datang*). Bahasa Inggris memakai **was/were + -ing** untuk *sedang* dan **past simple** untuk kejadian yang menyela.",
+      "mistakes": [
+        {
+          "wrong": "I was cook when she arrived.",
+          "right": "I was cooking when she arrived.",
+          "why": "Past continuous butuh verb-ing."
+        },
+        {
+          "wrong": "While I walked home, I was seeing an accident.",
+          "right": "While I was walking home, I saw an accident.",
+          "why": "Kegiatan panjang → past continuous; kejadian singkat → past simple."
+        },
+        {
+          "wrong": "They was waiting for us.",
+          "right": "They were waiting for us.",
+          "why": "They memakai were."
+        }
+      ],
+      "keywords": [
+        "was/were + -ing",
+        "when",
+        "while",
+        "at that time",
+        "at 8 p.m. yesterday"
+      ],
+      "relatedLessons": [
+        "a2-u07-l2-past-continuous",
+        "a2-u07-l3-when-while",
+        "a2-u07-l5-hotels-travel-problems"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-past-continuous-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "past continuous vs past simple",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the past simple or past continuous of the verbs in brackets.",
+          "text": "While Dani ___ (cook) dinner, he ___ (cut) his finger.",
+          "answers": [
+            [
+              "was cooking"
+            ],
+            [
+              "cut"
+            ]
+          ],
+          "explanation": "While + kegiatan panjang → was cooking. Kejadian singkat → cut (cut – cut – cut)."
+        },
+        {
+          "id": "a2-gr-past-continuous-q2",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "when/while",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": [
+            "We were driving",
+            "along the coast",
+            "when we saw",
+            "a beautiful rainbow."
+          ],
+          "acceptedAnswers": [
+            "When we saw a beautiful rainbow, we were driving along the coast."
+          ],
+          "explanation": "Kegiatan panjang (were driving) + when + kejadian singkat (saw)."
+        },
+        {
+          "id": "a2-gr-past-continuous-q3",
+          "type": "dialogue_completion",
+          "category": "grammar",
+          "topic": "past continuous",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            {
+              "speaker": "Rina",
+              "text": "I called you at nine last night, but you didn't answer."
+            },
+            {
+              "speaker": "Bayu",
+              "text": null
+            }
+          ],
+          "options": [
+            "Sorry, I was having a shower.",
+            "Sorry, I have a shower.",
+            "Sorry, I was have a shower.",
+            "Sorry, I'm having a shower."
+          ],
+          "answer": 0,
+          "explanation": "Kegiatan yang sedang berlangsung jam sembilan tadi malam → past continuous: I was having a shower."
+        }
+      ]
+    },
+    {
+      "slug": "a2-present-perfect-experience",
+      "title": "Present Perfect for Experiences",
+      "category": "tense",
+      "explanation": "### Fungsi\nPresent perfect (**have/has + past participle**) dipakai untuk **pengalaman hidup** sampai sekarang, ketika waktunya tidak disebutkan: *I've visited Japan. Have you ever ridden a horse?*\n\n### Ever, never, been, gone\n- **ever** dalam pertanyaan: *Have you **ever** tried durian?*\n- **never** = tidak pernah: *I've **never** flown.*\n- **been to** = pernah pergi dan sudah kembali; **gone to** = sudah pergi dan belum kembali.\n\n### Present perfect vs past simple\n| Present perfect | Past simple |\n| --- | --- |\n| waktu tidak disebutkan | waktu spesifik |\n| *I've been to Bali.* | *I went there in 2021.* |\n\nUntuk detail (when, where, who with), beralihlah ke past simple.",
+      "formulas": [
+        {
+          "label": "Positif",
+          "pattern": "Subject + have/has + past participle"
+        },
+        {
+          "label": "Negatif",
+          "pattern": "Subject + haven't/hasn't + past participle / have never + past participle"
+        },
+        {
+          "label": "Pertanyaan",
+          "pattern": "Have/Has + subject + ever + past participle?"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "I've eaten sushi many times.",
+          "She has been to Korea twice.",
+          "They've won three competitions."
+        ],
+        "negative": [
+          "I've never seen snow.",
+          "He hasn't driven a car.",
+          "We haven't tried that restaurant."
+        ],
+        "interrogative": [
+          "Have you ever been to Lombok?",
+          "Has she ever met a famous person?",
+          "How many times have you flown?"
+        ]
+      },
+      "comparison": "Present perfect sering diterjemahkan *pernah* atau *sudah pernah*. *Belum pernah* = **have never** + participle.",
+      "mistakes": [
+        {
+          "wrong": "I have went to Bali.",
+          "right": "I have been to Bali.",
+          "why": "Setelah have, pakai past participle (been)."
+        },
+        {
+          "wrong": "I have visited Bali last year.",
+          "right": "I visited Bali last year.",
+          "why": "Waktu spesifik memakai past simple."
+        },
+        {
+          "wrong": "I haven't never tried it.",
+          "right": "I've never tried it.",
+          "why": "Never sudah negatif."
+        }
+      ],
+      "keywords": [
+        "have/has",
+        "past participle",
+        "ever",
+        "never",
+        "been",
+        "gone",
+        "once",
+        "twice"
+      ],
+      "relatedLessons": [
+        "a2-u08-l1-present-perfect-form",
+        "a2-u08-l2-past-participles",
+        "a2-u08-l3-ever-never",
+        "a2-u08-l4-been-gone",
+        "a2-u08-l5-experiences-achievements"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-present-perfect-experience-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "present perfect",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the present perfect of the verbs in brackets.",
+          "text": "My father ___ (drive) a lot of different cars, but he ___ (never / ride) a motorbike.",
+          "answers": [
+            [
+              "has driven",
+              "'s driven"
+            ],
+            [
+              "has never ridden",
+              "'s never ridden"
+            ]
+          ],
+          "explanation": "drive → driven, ride → ridden. My father = he → has."
+        },
+        {
+          "id": "a2-gr-present-perfect-experience-q2",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "present perfect vs past simple",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Choose the correct forms.",
+          "text": "A: ___ you ever been to a music festival? B: Yes. I ___ to one in Jakarta last August.",
+          "choices": [
+            [
+              "Have",
+              "Did",
+              "Were"
+            ],
+            [
+              "went",
+              "have gone",
+              "have been"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Pengalaman → Have you ever been...? Detail dengan last August → past simple went."
+        },
+        {
+          "id": "a2-gr-present-perfect-experience-q3",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "been vs gone",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct option: Dad isn't home. He's ___ to the mosque.",
+          "options": [
+            "gone",
+            "been",
+            "went",
+            "go"
+          ],
+          "answer": 0,
+          "explanation": "Ayah belum kembali → has gone."
+        }
+      ]
+    },
+    {
+      "slug": "a2-quantifiers-adverbs",
+      "title": "Quantifiers and Adverbs of Manner",
+      "category": "parts_of_speech",
+      "explanation": "### Quantifiers\n| Arti | Countable (jamak) | Uncountable |\n| --- | --- | --- |\n| banyak | many / a lot of | much / a lot of |\n| sedikit (ada) | a few | a little |\n| berapa? | How many...? | How much...? |\n\n*Much* dan *many* paling umum dalam **negatif dan pertanyaan**; dalam kalimat positif pakai **a lot of**. Ingat: *information, advice, work, money, luggage* = uncountable.\n\n### Adverbs of manner\nMenjelaskan **bagaimana** sesuatu dilakukan: adjective + **-ly** (*quickly, carefully, easily*). Tidak beraturan: **good → well**, **fast → fast**, **hard → hard**, **late → late**. Letakkan setelah kata kerja atau objek: *She speaks English **well**.*",
+      "formulas": [
+        {
+          "label": "Countable",
+          "pattern": "many / a few / a lot of + plural noun"
+        },
+        {
+          "label": "Uncountable",
+          "pattern": "much / a little / a lot of + uncountable noun"
+        },
+        {
+          "label": "Adverb",
+          "pattern": "verb (+ object) + adjective-ly / well / fast / hard"
+        }
+      ],
+      "examples": {
+        "positive": [
+          "We have a lot of customers today.",
+          "There's a little milk left.",
+          "She works hard and speaks politely."
+        ],
+        "negative": [
+          "I don't have much time.",
+          "There aren't many buses after ten.",
+          "He doesn't drive carefully."
+        ],
+        "interrogative": [
+          "How many people work here?",
+          "How much luggage do you have?",
+          "Can you speak more slowly?"
+        ]
+      },
+      "comparison": "Bahasa Indonesia memakai *banyak* dan *sedikit* untuk semua benda. Bahasa Inggris membedakan countable (**many, a few**) dan uncountable (**much, a little**). *Dengan cepat* = **quickly**, *dengan baik* = **well**.",
+      "mistakes": [
+        {
+          "wrong": "How much people came?",
+          "right": "How many people came?",
+          "why": "People countable → many."
+        },
+        {
+          "wrong": "She sings very good.",
+          "right": "She sings very well.",
+          "why": "Menjelaskan kata kerja → adverb well."
+        },
+        {
+          "wrong": "I need some informations.",
+          "right": "I need some information.",
+          "why": "Information uncountable, tanpa -s."
+        }
+      ],
+      "keywords": [
+        "much",
+        "many",
+        "a lot of",
+        "a few",
+        "a little",
+        "-ly",
+        "well",
+        "hard"
+      ],
+      "relatedLessons": [
+        "a2-u09-l2-adverbs-of-manner",
+        "a2-u09-l4-quantifiers",
+        "a2-u09-l5-describing-jobs"
+      ],
+      "exercises": [
+        {
+          "id": "a2-gr-quantifiers-adverbs-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "quantifiers",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Choose the correct quantifiers.",
+          "text": "How ___ luggage do you have? — Not ___. Just one small bag and ___ souvenirs.",
+          "choices": [
+            [
+              "much",
+              "many"
+            ],
+            [
+              "much",
+              "many"
+            ],
+            [
+              "a few",
+              "a little"
+            ]
+          ],
+          "answers": [
+            0,
+            0,
+            0
+          ],
+          "explanation": "Luggage uncountable → How much; Not much. Souvenirs countable → a few."
+        },
+        {
+          "id": "a2-gr-quantifiers-adverbs-q2",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "adverbs of manner",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Which sentences are correct? Choose all correct answers.",
+          "options": [
+            "Please speak quietly in the library.",
+            "He answered the questions easy.",
+            "My grandmother cooks very well.",
+            "They worked hardly all day.",
+            "The children played happily in the garden."
+          ],
+          "answers": [
+            0,
+            2,
+            4
+          ],
+          "explanation": "Seharusnya answered easily (adverb) dan worked hard (hardly = hampir tidak)."
+        },
+        {
+          "id": "a2-gr-quantifiers-adverbs-q3",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "quantifiers",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "There aren't much tables free in the café.",
+          "answers": [
+            "There aren't many tables free in the café.",
+            "There are not many tables free in the café.",
+            "There aren't many free tables in the café."
+          ],
+          "explanation": "Tables countable (jamak) → many."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "slug": "a2-rd-1-weekend-in-the-hills",
+      "title": "A Weekend in the Hills",
+      "genre": "email",
+      "body": "Hi Nadia,\n\nHow are you? I'm sorry I didn't reply to your message last week. I was away for the weekend with my sister and two of her friends.\n\nWe went to a small village in the hills about three hours from the city. We left early on Saturday morning and arrived at about ten. The village was really quiet and the air was cool and fresh. There weren't any big hotels, so we stayed in a family guesthouse. The owner, Pak Wayan, was very friendly. On the first evening he cooked a delicious dinner for us with vegetables from his own garden.\n\nOn Sunday we got up at five and walked up the hill to watch the sunrise. It was hard work and I was tired, but the view from the top was amazing. I took about a hundred photos! After breakfast we visited a tea plantation and bought some tea for our parents.\n\nThe only problem was the road home. It rained heavily on Sunday afternoon, and the traffic was terrible. We didn't get home until eleven at night.\n\nAre you free next Saturday? I can show you the photos.\n\nLove,\nMeli",
+      "glossary": [
+        {
+          "word": "guesthouse",
+          "meaning": "penginapan kecil, rumah tamu"
+        },
+        {
+          "word": "owner",
+          "meaning": "pemilik"
+        },
+        {
+          "word": "sunrise",
+          "meaning": "matahari terbit"
+        },
+        {
+          "word": "plantation",
+          "meaning": "perkebunan"
+        },
+        {
+          "word": "heavily",
+          "meaning": "dengan lebat (hujan)"
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-rd-1-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-1-weekend-in-the-hills",
+          "prompt": "What is the main purpose of Meli's email?",
+          "options": [
+            "To tell Nadia about her weekend trip",
+            "To book a room at a guesthouse",
+            "To complain about the traffic",
+            "To invite Nadia to a tea plantation"
+          ],
+          "answer": 0,
+          "explanation": "Sebagian besar email menceritakan perjalanan akhir pekan Meli ke desa di perbukitan (main idea)."
+        },
+        {
+          "id": "a2-rd-1-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-1-weekend-in-the-hills",
+          "prompt": "Why did they stay in a guesthouse?",
+          "options": [
+            "There weren't any big hotels in the village.",
+            "The hotels were too expensive.",
+            "Pak Wayan is Meli's uncle.",
+            "The guesthouse was near the tea plantation."
+          ],
+          "answer": 0,
+          "explanation": "Teks: There weren't any big hotels, so we stayed in a family guesthouse."
+        },
+        {
+          "id": "a2-rd-1-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-1-weekend-in-the-hills",
+          "prompt": "How long was the journey home on Sunday?",
+          "options": [
+            "Longer than the journey to the village",
+            "Shorter than the journey to the village",
+            "About three hours, the same as usual",
+            "The text doesn't say they went home"
+          ],
+          "answer": 0,
+          "explanation": "Perjalanan berangkat sekitar tiga jam, tetapi saat pulang hujan lebat dan macet sehingga mereka baru tiba jam 11 malam. Jadi perjalanan pulang lebih lama (inferensi)."
+        },
+        {
+          "id": "a2-rd-1-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-1-weekend-in-the-hills",
+          "prompt": "In the text, 'the view from the top was amazing'. What does 'amazing' mean?",
+          "options": [
+            "very good and surprising",
+            "very dangerous",
+            "a little boring",
+            "too far"
+          ],
+          "answer": 0,
+          "explanation": "Meli mengambil sekitar seratus foto, jadi pemandangannya sangat indah — amazing = luar biasa."
+        },
+        {
+          "id": "a2-rd-1-q5",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-1-weekend-in-the-hills",
+          "prompt": "What did they buy at the tea plantation?",
+          "options": [
+            "Tea for their parents",
+            "Vegetables from the garden",
+            "Photos of the sunrise",
+            "Dinner for Pak Wayan"
+          ],
+          "answer": 0,
+          "explanation": "Teks: we visited a tea plantation and bought some tea for our parents."
+        }
+      ]
+    },
+    {
+      "slug": "a2-rd-2-the-wrong-suitcase",
+      "title": "The Wrong Suitcase",
+      "genre": "story",
+      "body": "Last December, Arman was flying home from a work trip. It was a long day. His first flight was delayed, so he nearly missed his connection. When he finally landed in Makassar, it was almost midnight and he was very tired.\n\nWhile he was waiting at the baggage belt, he was thinking about his bed. A black suitcase came round, and he took it quickly. Then he caught a taxi and went home.\n\nAt home, Arman opened the suitcase. He was looking for his toothbrush, but he found a pink dress, a pair of high-heeled shoes and a book in Japanese! It wasn't his suitcase. He looked at the label. The name on it was Yuki Tanaka, and there was a phone number.\n\nArman called the number immediately. A woman answered. She was still at the airport, and she was very worried because her suitcase was missing. Arman explained the situation and apologised. The next morning, he took the suitcase back to the airport, and Yuki gave him his own black suitcase. It looked exactly the same as hers!\n\nNow Arman always ties a bright orange ribbon to his luggage.",
+      "glossary": [
+        {
+          "word": "connection",
+          "meaning": "penerbangan lanjutan (transit)"
+        },
+        {
+          "word": "baggage belt",
+          "meaning": "ban berjalan bagasi"
+        },
+        {
+          "word": "label",
+          "meaning": "label, tanda nama"
+        },
+        {
+          "word": "apologise",
+          "meaning": "meminta maaf"
+        },
+        {
+          "word": "ribbon",
+          "meaning": "pita"
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-rd-2-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-2-the-wrong-suitcase",
+          "prompt": "What is the story mainly about?",
+          "options": [
+            "A man who took someone else's suitcase by mistake",
+            "A woman who lost her passport",
+            "A man who missed his flight",
+            "A taxi driver at the airport"
+          ],
+          "answer": 0,
+          "explanation": "Inti cerita: Arman salah mengambil koper milik orang lain lalu mengembalikannya."
+        },
+        {
+          "id": "a2-rd-2-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-2-the-wrong-suitcase",
+          "prompt": "What was Arman doing when he found the dress?",
+          "options": [
+            "Looking for his toothbrush",
+            "Waiting at the baggage belt",
+            "Talking to the taxi driver",
+            "Reading a book in Japanese"
+          ],
+          "answer": 0,
+          "explanation": "Teks: He was looking for his toothbrush, but he found a pink dress..."
+        },
+        {
+          "id": "a2-rd-2-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "independent",
+          "passageSlug": "a2-rd-2-the-wrong-suitcase",
+          "prompt": "Why does Arman now tie an orange ribbon to his luggage?",
+          "options": [
+            "So he can recognise his suitcase easily",
+            "Because orange is Yuki's favourite colour",
+            "Because the airport asked him to",
+            "So the suitcase looks more expensive"
+          ],
+          "answer": 0,
+          "explanation": "Kedua koper terlihat sama persis. Pita oranye membantunya mengenali kopernya sendiri (inferensi)."
+        },
+        {
+          "id": "a2-rd-2-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-2-the-wrong-suitcase",
+          "prompt": "'Arman called the number immediately.' What does 'immediately' mean?",
+          "options": [
+            "at once, without waiting",
+            "the next week",
+            "very slowly",
+            "a few times"
+          ],
+          "answer": 0,
+          "explanation": "Immediately = segera, tanpa menunggu."
+        }
+      ]
+    },
+    {
+      "slug": "a2-rd-3-two-cities",
+      "title": "Riverton or Sunny Bay?",
+      "genre": "article",
+      "body": "Are you thinking of moving to a new city? Riverton and Sunny Bay are two popular choices, but they are very different.\n\nRiverton is the biggest city in the region, with more than two million people. It's more modern than Sunny Bay, and there are a lot of shopping malls, offices and international restaurants. It's also the best place to find a job, especially in technology and finance. However, life in Riverton is expensive. Rents are much higher than in Sunny Bay, and the traffic is terrible in the morning and evening. The air is also more polluted.\n\nSunny Bay is a smaller town on the coast. It isn't as exciting as Riverton, and there aren't many big companies there. But it's cleaner, safer and much more peaceful. Most people live near the beach, and a lot of them go to work by bicycle. The cost of living is lower, so a salary goes further. The town is also famous for its seafood, which is cheaper and fresher than in Riverton.\n\nSo which city is better? It depends on you. If you want a busy career, Riverton is probably the right choice. If you prefer a quiet life, Sunny Bay is hard to beat.",
+      "glossary": [
+        {
+          "word": "region",
+          "meaning": "wilayah, daerah"
+        },
+        {
+          "word": "rent",
+          "meaning": "biaya sewa"
+        },
+        {
+          "word": "cost of living",
+          "meaning": "biaya hidup"
+        },
+        {
+          "word": "coast",
+          "meaning": "pesisir, pantai"
+        },
+        {
+          "word": "career",
+          "meaning": "karier"
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-rd-3-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-3-two-cities",
+          "prompt": "What is the main idea of the article?",
+          "options": [
+            "Riverton and Sunny Bay are good for different kinds of people.",
+            "Sunny Bay is better than Riverton in every way.",
+            "Riverton is too expensive for everyone.",
+            "Everybody in Sunny Bay works in technology."
+          ],
+          "answer": 0,
+          "explanation": "Artikel membandingkan kedua kota dan menyimpulkan bahwa pilihannya tergantung pada orangnya."
+        },
+        {
+          "id": "a2-rd-3-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-3-two-cities",
+          "prompt": "Which sentence about Sunny Bay is true?",
+          "options": [
+            "It is safer than Riverton.",
+            "It has more big companies than Riverton.",
+            "It is more modern than Riverton.",
+            "Rents are higher than in Riverton."
+          ],
+          "answer": 0,
+          "explanation": "Teks: it's cleaner, safer and much more peaceful."
+        },
+        {
+          "id": "a2-rd-3-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "independent",
+          "passageSlug": "a2-rd-3-two-cities",
+          "prompt": "Who would probably prefer Riverton?",
+          "options": [
+            "A young engineer who wants a job at a big technology company",
+            "A retired couple who want a quiet life by the sea",
+            "A family who want cheap fresh seafood",
+            "Someone who likes cycling to work on quiet roads"
+          ],
+          "answer": 0,
+          "explanation": "Riverton adalah tempat terbaik untuk mencari kerja, terutama di bidang teknologi (inferensi dari teks)."
+        },
+        {
+          "id": "a2-rd-3-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 3,
+          "stage": "independent",
+          "passageSlug": "a2-rd-3-two-cities",
+          "prompt": "'If you prefer a quiet life, Sunny Bay is hard to beat.' What does 'hard to beat' mean here?",
+          "options": [
+            "very difficult to find a better choice",
+            "very difficult to live in",
+            "very dangerous",
+            "very difficult to travel to"
+          ],
+          "answer": 0,
+          "explanation": "Hard to beat = sulit dikalahkan, artinya pilihan yang sangat bagus."
+        }
+      ]
+    },
+    {
+      "slug": "a2-rd-4-healthy-office",
+      "title": "Company Starts Healthy Workplace Plan",
+      "genre": "news",
+      "body": "Staff at Brightway Software in Green Hill are going to start a new healthy workplace programme next month. The company's manager, Mrs. Siregar, decided to start the programme because a lot of employees were feeling tired and stressed.\n\n\"Many of our staff sit at their computers for nine or ten hours a day,\" she said. \"They don't get enough exercise, and they often eat junk food at their desks. We want to change that.\"\n\nUnder the new plan, there will be some new rules. Employees must take a fifteen-minute break every two hours, and they mustn't eat lunch at their desks. The canteen is going to serve healthier food, with more fruit and vegetables and fewer fried snacks. Staff don't have to join the free yoga classes on Tuesday and Thursday evenings, but the company hopes that many of them will try.\n\nNot everyone is happy. \"I have a lot of work, and I don't have much time for breaks,\" said one programmer. But most staff like the idea. \"I think it's great,\" said Dodi, a designer. \"Last year I had terrible backaches. My doctor said I should move more. Now I'll have time to do that at work.\"",
+      "glossary": [
+        {
+          "word": "employee",
+          "meaning": "karyawan"
+        },
+        {
+          "word": "programme",
+          "meaning": "program"
+        },
+        {
+          "word": "stressed",
+          "meaning": "stres, tertekan"
+        },
+        {
+          "word": "break",
+          "meaning": "istirahat (jeda)"
+        },
+        {
+          "word": "fried snacks",
+          "meaning": "camilan gorengan"
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-rd-4-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-4-healthy-office",
+          "prompt": "What is the news story about?",
+          "options": [
+            "A company's new plan to make its staff healthier",
+            "A new yoga school in Green Hill",
+            "A programmer who lost his job",
+            "A canteen that closed last month"
+          ],
+          "answer": 0,
+          "explanation": "Berita ini tentang program tempat kerja sehat di Brightway Software."
+        },
+        {
+          "id": "a2-rd-4-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-4-healthy-office",
+          "prompt": "Which of these is NOT a rule? Staff ___",
+          "options": [
+            "have to go to yoga classes.",
+            "must take a break every two hours.",
+            "mustn't eat lunch at their desks.",
+            "can eat healthier food in the canteen."
+          ],
+          "answer": 0,
+          "explanation": "Teks: Staff don't have to join the free yoga classes — kelas yoga tidak wajib."
+        },
+        {
+          "id": "a2-rd-4-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-4-healthy-office",
+          "prompt": "Why is the programmer not happy about the plan?",
+          "options": [
+            "He thinks the breaks will make it harder to finish his work.",
+            "He doesn't like yoga.",
+            "He thinks the canteen food is too expensive.",
+            "He has a backache."
+          ],
+          "answer": 0,
+          "explanation": "Dia berkata punya banyak pekerjaan dan tidak punya banyak waktu untuk istirahat — jadi dia khawatir pekerjaannya tidak selesai (inferensi)."
+        },
+        {
+          "id": "a2-rd-4-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-4-healthy-office",
+          "prompt": "'They often eat junk food at their desks.' What is 'junk food'?",
+          "options": [
+            "food that is quick to eat but not healthy",
+            "food from a farm",
+            "food that you cook at home",
+            "fresh fruit and vegetables"
+          ],
+          "answer": 0,
+          "explanation": "Junk food = makanan cepat saji/tidak sehat. Kontrasnya: the canteen is going to serve healthier food."
+        }
+      ]
+    },
+    {
+      "slug": "a2-rd-5-the-interview",
+      "title": "The Job Interview",
+      "genre": "dialogue",
+      "body": "Mr. Hakim: Good morning, Ms. Putri. Please sit down. Would you like some water?\nPutri: Yes, please. Thank you.\nMr. Hakim: So, why would you like to work at the Grand Palm Hotel?\nPutri: I've always enjoyed working with people, and your hotel has a very good name. I'd like to learn more about hotel management.\nMr. Hakim: Have you ever worked in a hotel before?\nPutri: Yes, I have. I worked as a receptionist at a small guesthouse in Lombok for two years. I left last March because I moved to Surabaya with my family.\nMr. Hakim: What did you do there?\nPutri: I checked guests in and out, answered the phone and dealt with problems. Sometimes I had to work the night shift.\nMr. Hakim: How many languages do you speak?\nPutri: I speak Indonesian and English, and a little Japanese. I studied it for a year at university.\nMr. Hakim: Very good. The job is full-time, and you'll have to work some weekends. Is that a problem?\nPutri: No, not at all. I don't mind working at weekends.\nMr. Hakim: Excellent. We'll call you next week.",
+      "glossary": [
+        {
+          "word": "management",
+          "meaning": "manajemen, pengelolaan"
+        },
+        {
+          "word": "check in / check out",
+          "meaning": "melayani tamu datang / pergi"
+        },
+        {
+          "word": "deal with",
+          "meaning": "menangani (past: dealt with)"
+        },
+        {
+          "word": "full-time",
+          "meaning": "penuh waktu"
+        },
+        {
+          "word": "I don't mind",
+          "meaning": "saya tidak keberatan"
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-rd-5-q1",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "main idea",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-5-the-interview",
+          "prompt": "What is happening in the dialogue?",
+          "options": [
+            "Putri is having an interview for a hotel job.",
+            "Putri is booking a room at the Grand Palm Hotel.",
+            "Mr. Hakim is asking Putri for directions.",
+            "Putri is complaining about her room."
+          ],
+          "answer": 0,
+          "explanation": "Mr. Hakim menanyakan pengalaman dan kemampuan Putri untuk pekerjaan di hotel — ini wawancara kerja."
+        },
+        {
+          "id": "a2-rd-5-q2",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "passageSlug": "a2-rd-5-the-interview",
+          "prompt": "Why did Putri leave her job in Lombok?",
+          "options": [
+            "She moved to Surabaya with her family.",
+            "She didn't like the night shifts.",
+            "The guesthouse closed.",
+            "She wanted to study Japanese."
+          ],
+          "answer": 0,
+          "explanation": "Putri: I left last March because I moved to Surabaya with my family."
+        },
+        {
+          "id": "a2-rd-5-q3",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "inference",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-5-the-interview",
+          "prompt": "What does Mr. Hakim probably think of Putri?",
+          "options": [
+            "He has a good opinion of her.",
+            "He thinks she doesn't have enough experience.",
+            "He is angry with her.",
+            "He thinks her English is very bad."
+          ],
+          "answer": 0,
+          "explanation": "Dia berkata Very good dan Excellent, jadi kesannya positif (inferensi)."
+        },
+        {
+          "id": "a2-rd-5-q4",
+          "type": "reading_comprehension",
+          "category": "reading",
+          "topic": "vocabulary in context",
+          "difficulty": 2,
+          "stage": "independent",
+          "passageSlug": "a2-rd-5-the-interview",
+          "prompt": "'I don't mind working at weekends.' What does Putri mean?",
+          "options": [
+            "Working at weekends is OK for her.",
+            "She doesn't want to work at weekends.",
+            "She forgot about the weekends.",
+            "She always works at weekends now."
+          ],
+          "answer": 0,
+          "explanation": "I don't mind = saya tidak keberatan, artinya bekerja di akhir pekan tidak masalah baginya."
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "slug": "a2-ls-1-saturday-plans",
+      "title": "Saturday Plans",
+      "kind": "dialogue",
+      "script": [
+        {
+          "speaker": "Ayu",
+          "text": "Hi Reza! Are you free on Saturday? Some friends and I are going to the new night market in the old town."
+        },
+        {
+          "speaker": "Reza",
+          "text": "Saturday? Hmm, I'm helping my dad in his shop in the morning, but I'm free after four."
+        },
+        {
+          "speaker": "Ayu",
+          "text": "That's perfect. We're meeting at the bus station at six. Would you like to come?"
+        },
+        {
+          "speaker": "Reza",
+          "text": "I'd love to! How are you getting there?"
+        },
+        {
+          "speaker": "Ayu",
+          "text": "We're going to take the number twelve bus. It's cheaper than a taxi."
+        },
+        {
+          "speaker": "Reza",
+          "text": "OK. Oh, wait. I don't have much money this week."
+        },
+        {
+          "speaker": "Ayu",
+          "text": "Don't worry. The food there is really cheap. And I'll buy you a drink!"
+        },
+        {
+          "speaker": "Reza",
+          "text": "Thanks, Ayu! I'll see you at the bus station at six, then."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-ls-1-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-1-saturday-plans",
+          "prompt": "What is Reza doing on Saturday morning?",
+          "options": [
+            "Helping his dad in the shop",
+            "Going to the night market",
+            "Taking the bus to the old town",
+            "Meeting Ayu at the station"
+          ],
+          "answer": 0,
+          "explanation": "Reza: I'm helping my dad in his shop in the morning."
+        },
+        {
+          "id": "a2-ls-1-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-1-saturday-plans",
+          "prompt": "Where and when are they meeting?",
+          "options": [
+            "At the bus station at six",
+            "At the night market at four",
+            "At Reza's dad's shop at six",
+            "At the bus station at four"
+          ],
+          "answer": 0,
+          "explanation": "Ayu: We're meeting at the bus station at six."
+        },
+        {
+          "id": "a2-ls-1-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-1-saturday-plans",
+          "prompt": "Why does Ayu say 'I'll buy you a drink'?",
+          "options": [
+            "Because Reza doesn't have much money this week",
+            "Because it's Reza's birthday",
+            "Because Reza is helping her dad",
+            "Because the bus is expensive"
+          ],
+          "answer": 0,
+          "explanation": "Reza bilang uangnya tidak banyak minggu ini, jadi Ayu menawarkan membelikan minuman (tawaran dengan will)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-ls-2-airport-announcement",
+      "title": "Airport Announcement",
+      "kind": "announcement",
+      "script": [
+        {
+          "speaker": "Announcer",
+          "text": "Good afternoon, ladies and gentlemen. This is an announcement for passengers on Sky Island Airlines flight SI 427 to Denpasar."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "We're sorry, but this flight is delayed because of bad weather. The new departure time is 5:45 p.m., not 4:15 p.m."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Please also note that the flight will now leave from gate 14, not gate 9."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Passengers can get a free drink and a snack at the Sky Café near gate 12. Please show your boarding pass."
+        },
+        {
+          "speaker": "Announcer",
+          "text": "Boarding will start at 5:15 p.m. Thank you for your patience."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-ls-2-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 1,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-2-airport-announcement",
+          "prompt": "Why is the flight delayed?",
+          "options": [
+            "Because of bad weather",
+            "Because the plane is broken",
+            "Because some passengers are late",
+            "Because the gate is closed"
+          ],
+          "answer": 0,
+          "explanation": "Pengumuman: this flight is delayed because of bad weather."
+        },
+        {
+          "id": "a2-ls-2-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-2-airport-announcement",
+          "prompt": "Which gate will the flight leave from?",
+          "options": [
+            "Gate 14",
+            "Gate 9",
+            "Gate 12",
+            "Gate 4"
+          ],
+          "answer": 0,
+          "explanation": "The flight will now leave from gate 14, not gate 9. Gate 12 adalah lokasi kafe."
+        },
+        {
+          "id": "a2-ls-2-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-2-airport-announcement",
+          "prompt": "What do passengers need to get a free drink?",
+          "options": [
+            "Their boarding pass",
+            "Their passport",
+            "Some money",
+            "A new ticket"
+          ],
+          "answer": 0,
+          "explanation": "Please show your boarding pass — penumpang perlu menunjukkan boarding pass."
+        },
+        {
+          "id": "a2-ls-2-q4",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "inference",
+          "difficulty": 3,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-2-airport-announcement",
+          "prompt": "How late is the flight?",
+          "options": [
+            "One and a half hours",
+            "Thirty minutes",
+            "Two hours",
+            "Fifteen minutes"
+          ],
+          "answer": 0,
+          "explanation": "Jadwal awal 4:15, jadwal baru 5:45 → terlambat satu setengah jam (inferensi dari angka)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-ls-3-calling-the-clinic",
+      "title": "Calling the Clinic",
+      "kind": "phone_call",
+      "script": [
+        {
+          "speaker": "Receptionist",
+          "text": "Good morning, Green Valley Clinic. How can I help you?"
+        },
+        {
+          "speaker": "Mr. Bambang",
+          "text": "Good morning. This is Bambang Susilo. Could I make an appointment with Dr. Rahma, please?"
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Of course. What's the problem?"
+        },
+        {
+          "speaker": "Mr. Bambang",
+          "text": "I have a bad cough and a sore throat. It started four days ago, and last night I had a temperature."
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "I see. Dr. Rahma is very busy today, but she has a free appointment tomorrow at nine thirty. Is that OK?"
+        },
+        {
+          "speaker": "Mr. Bambang",
+          "text": "Tomorrow at nine thirty. Yes, that's fine."
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Good. Until then, you should drink a lot of warm water and rest. And you mustn't go to work if you have a temperature."
+        },
+        {
+          "speaker": "Mr. Bambang",
+          "text": "OK. Do I have to bring anything?"
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Just your ID card. You don't have to bring your old prescriptions."
+        },
+        {
+          "speaker": "Mr. Bambang",
+          "text": "Great. Thank you very much."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-ls-3-q1",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "main idea",
+          "difficulty": 1,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-3-calling-the-clinic",
+          "prompt": "Why is Mr. Bambang calling?",
+          "options": [
+            "To make an appointment with a doctor",
+            "To cancel his appointment",
+            "To ask about a prescription",
+            "To speak to his wife"
+          ],
+          "answer": 0,
+          "explanation": "Mr. Bambang: Could I make an appointment with Dr. Rahma, please?"
+        },
+        {
+          "id": "a2-ls-3-q2",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-3-calling-the-clinic",
+          "prompt": "When is his appointment?",
+          "options": [
+            "Tomorrow at 9:30",
+            "Today at 9:30",
+            "Tomorrow at 4:00",
+            "In four days"
+          ],
+          "answer": 0,
+          "explanation": "She has a free appointment tomorrow at nine thirty."
+        },
+        {
+          "id": "a2-ls-3-q3",
+          "type": "listening_comprehension",
+          "category": "listening",
+          "topic": "detail",
+          "difficulty": 2,
+          "stage": "independent",
+          "listeningSlug": "a2-ls-3-calling-the-clinic",
+          "prompt": "What does he have to bring?",
+          "options": [
+            "His ID card",
+            "His old prescriptions",
+            "Some warm water",
+            "A letter from work"
+          ],
+          "answer": 0,
+          "explanation": "Just your ID card. You don't have to bring your old prescriptions."
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "slug": "a2-sp-last-weekend",
+      "title": "Tell Me About Your Weekend",
+      "kind": "guided",
+      "prompt": "A colleague asks: 'How was your weekend?' Talk for 45–60 seconds. Say where you went, who you were with, what you did, and how you felt. Use the past simple and was/were.",
+      "targetPhrases": [
+        "It was",
+        "On Saturday",
+        "I went",
+        "We didn't"
+      ],
+      "sampleAnswer": "It was really nice, thanks! On Saturday morning I cleaned my flat and did some shopping. In the afternoon I met my cousin and we went to a new café near the river. The coffee was great, but it was quite expensive. On Sunday I visited my grandparents. My grandmother cooked soto ayam, and we ate in the garden. We didn't do anything special, but I was very relaxed.",
+      "tips": [
+        "Mulai dengan kesan umum: It was great / relaxing / busy.",
+        "Urutkan dengan On Saturday morning, In the afternoon, On Sunday.",
+        "Pastikan semua kata kerja dalam bentuk lampau (went, met, ate)."
+      ]
+    },
+    {
+      "slug": "a2-sp-book-a-hotel",
+      "title": "Booking a Hotel Room",
+      "kind": "role_play",
+      "prompt": "You are calling a hotel. Book a room for you and your partner for three nights next weekend. Ask about the price, breakfast, and check-out time.",
+      "targetPhrases": [
+        "Do you have any rooms available",
+        "Can I book a double room",
+        "How much is it per night",
+        "Is breakfast included"
+      ],
+      "sampleAnswer": "Good morning. Do you have any rooms available from Friday to Monday? ... Great. Can I book a double room for three nights, please? ... How much is it per night? ... Is breakfast included? ... And what time is check-out? ... OK, my name is Dewi Kartika, D-E-W-I. Thank you very much!",
+      "tips": [
+        "Gunakan Can I... atau Could I... agar sopan.",
+        "Ulangi informasi penting untuk memastikan: Three nights, from Friday?",
+        "Eja namamu dengan jelas."
+      ]
+    },
+    {
+      "slug": "a2-sp-give-health-advice",
+      "title": "Giving Health Advice",
+      "kind": "situation",
+      "prompt": "Your friend says: 'I have a headache every afternoon at work and I often feel tired.' Ask one or two questions about their habits, then give advice using should, shouldn't and have to.",
+      "targetPhrases": [
+        "How many hours do you sleep",
+        "You should",
+        "You shouldn't",
+        "You have to"
+      ],
+      "sampleAnswer": "Oh no, I'm sorry to hear that. How many hours do you sleep at night? And do you drink enough water at work? I think you should drink more water and take short breaks. You shouldn't look at your screen for hours without a break. You should also go to bed earlier. And if the headaches don't stop, you have to see a doctor.",
+      "tips": [
+        "Tunjukkan simpati dulu: I'm sorry to hear that.",
+        "Tanyakan kebiasaan sebelum memberi saran.",
+        "Gunakan I think you should... agar terdengar ramah."
+      ]
+    },
+    {
+      "slug": "a2-sp-compare-two-products",
+      "title": "Which One Should I Buy?",
+      "kind": "guided",
+      "prompt": "Compare two things you know well (for example, two phones, two motorbikes, or two cafés). Talk about price, quality, and size, and say which one you prefer and why.",
+      "targetPhrases": [
+        "cheaper than",
+        "more comfortable than",
+        "isn't as ... as",
+        "the best"
+      ],
+      "sampleAnswer": "I want to compare two phones, the Nova A5 and the Orbit Pro. The Nova is cheaper than the Orbit, and it's lighter. But the Orbit's camera is much better, and its battery lasts longer. The Nova isn't as fast as the Orbit, but it's fine for messages and social media. In my opinion, the Nova is the best choice for students, because it's good value.",
+      "tips": [
+        "Gunakan setidaknya satu comparative, satu superlative, dan satu not as ... as.",
+        "Beri pendapat dengan In my opinion dan alasan dengan because."
+      ]
+    },
+    {
+      "slug": "a2-sp-life-experiences",
+      "title": "Have You Ever...?",
+      "kind": "guided",
+      "prompt": "Talk about three interesting experiences in your life. For each one, say what you have done (present perfect) and then give details: when, where and how it was (past simple).",
+      "targetPhrases": [
+        "I've been to",
+        "I've never",
+        "I went there",
+        "It was"
+      ],
+      "sampleAnswer": "I've been to Lombok three times. The last time, I went there with my friends in 2023 and we climbed a small volcano. It was hard but amazing. I've also tried a lot of strange food. Once I ate fried crickets at a night market, and they were crunchy! But I've never flown abroad. I'd like to visit Japan one day.",
+      "tips": [
+        "Mulai dengan present perfect untuk pengalaman umum.",
+        "Beralihlah ke past simple saat menyebut waktu (in 2023, last year).",
+        "Ingat: been = pernah pergi dan sudah kembali."
+      ]
+    },
+    {
+      "slug": "a2-sp-ed-endings",
+      "title": "Pronunciation: -ed Endings",
+      "kind": "pronunciation",
+      "prompt": "Read these sentences aloud. Pay attention to the -ed endings: /t/, /d/ or /ɪd/. 'I walked to the station and waited for the train. It arrived late, so I called my boss. She laughed and said I needed a new watch!'",
+      "targetPhrases": [
+        "walked /wɔːkt/",
+        "waited /ˈweɪtɪd/",
+        "called /kɔːld/",
+        "needed /ˈniːdɪd/"
+      ],
+      "sampleAnswer": "I walked /wɔːkt/ to the station and waited /ˈweɪtɪd/ for the train. It arrived /əˈraɪvd/ late, so I called /kɔːld/ my boss. She laughed /lɑːft/ and said I needed /ˈniːdɪd/ a new watch!",
+      "tips": [
+        "Hanya waited dan needed yang menambah suku kata (/ɪd/).",
+        "Walked dan laughed diakhiri bunyi /t/ yang pendek, bukan 'ed'.",
+        "Rekam suaramu dan bandingkan dengan contoh."
+      ]
+    },
+    {
+      "slug": "a2-sp-invite-a-friend",
+      "title": "Inviting a Friend",
+      "kind": "role_play",
+      "prompt": "Invite a friend to a celebration (a birthday dinner, a graduation party or a concert). Say what it is, when and where. Then imagine your friend can't come on that day, and suggest another plan.",
+      "targetPhrases": [
+        "Are you free on",
+        "Would you like to",
+        "How about",
+        "Let's"
+      ],
+      "sampleAnswer": "Hi Tono! Are you free on Friday evening? We're having a small dinner for Sari's birthday at the Green Valley Café at seven. Would you like to come? ... Oh, you're working late? That's a pity. How about Saturday, then? Let's have lunch together and bring her a cake. I'll book a table.",
+      "tips": [
+        "Gunakan present continuous untuk acara yang sudah diatur: We're having...",
+        "Tawarkan alternatif dengan How about...? atau Let's...",
+        "Akhiri dengan janji/keputusan: I'll book a table."
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "slug": "a2-wr-holiday-story",
+      "title": "A Holiday to Remember",
+      "kind": "paragraph",
+      "instructions": "Tulis cerita tentang liburan atau perjalanan yang kamu ingat. Ceritakan ke mana kamu pergi, dengan siapa, apa yang terjadi (termasuk satu masalah atau kejutan), dan bagaimana perasaanmu. Gunakan past simple, past continuous (when/while), dan sequencers (First, Then, After that, Finally).",
+      "minWords": 80,
+      "maxWords": 140,
+      "modelAnswer": "Last year I went to Yogyakarta with my two best friends. First, we visited the old palace, and then we walked along the main street and bought some batik. On the second day we went to a beach in the south. While we were swimming, a big wave took my sunglasses! I was sad, but my friends laughed a lot. After that, we had grilled fish at a small restaurant near the beach. It was the best fish I've ever eaten. Finally, we took the night train home. We were tired, but it was an unforgettable trip."
+    },
+    {
+      "slug": "a2-wr-invitation-email",
+      "title": "An Invitation Email",
+      "kind": "email_informal",
+      "instructions": "Tulis email informal kepada seorang teman untuk mengundangnya ke sebuah acara (ulang tahun, kelulusan, atau syukuran rumah baru). Sebutkan acara, hari, jam, tempat, apa yang perlu dibawa, dan minta temanmu membalas. Gunakan Hi + nama dan penutup informal.",
+      "minWords": 50,
+      "maxWords": 100,
+      "modelAnswer": "Hi Lina,\n\nHow are you? I hope work isn't too busy! I've got some good news: we're moving into our new flat next week. We're having a small housewarming party on Saturday 14th at 7 p.m. The address is 23 Jalan Melati, flat 5B. Would you like to come? You don't have to bring anything, but if you want, you can bring some snacks. Please let me know by Thursday.\n\nSee you soon,\nSekar"
+    },
+    {
+      "slug": "a2-wr-compare-two-places",
+      "title": "Comparing Two Places",
+      "kind": "paragraph",
+      "instructions": "Tulis paragraf yang membandingkan dua tempat yang kamu kenal (dua kota, dua kafe, atau dua sekolah). Gunakan comparative, superlative, dan as ... as / not as ... as. Akhiri dengan pendapatmu dan alasannya.",
+      "minWords": 70,
+      "maxWords": 130,
+      "modelAnswer": "My hometown, Salatiga, is much smaller than Semarang. Semarang is busier and more modern, and there are a lot of shopping malls. However, it's hotter and more crowded, and the traffic is terrible. Salatiga isn't as exciting as Semarang, but it's cooler and more peaceful because it's in the hills. The food is also cheaper. In my opinion, Salatiga is the best place for families, because it's safer and quieter. But for young people who want a career, Semarang is probably better."
+    },
+    {
+      "slug": "a2-wr-hotel-booking-email",
+      "title": "Booking a Hotel by Email",
+      "kind": "email_formal",
+      "instructions": "Tulis email singkat dan sopan kepada sebuah hotel untuk memesan kamar. Sebutkan jenis kamar, tanggal datang dan pergi, jumlah orang, dan tanyakan dua hal (misalnya sarapan dan parkir). Gunakan Dear Sir or Madam dan Best regards.",
+      "minWords": 50,
+      "maxWords": 100,
+      "modelAnswer": "Dear Sir or Madam,\n\nI would like to book a double room for two adults from 12 to 15 June (three nights). We are arriving by car at about 4 p.m. on 12 June.\n\nCould you tell me the price per night? Is breakfast included? I would also like to know if there is free parking at the hotel.\n\nThank you for your help. I look forward to your reply.\n\nBest regards,\nAndi Wijaya"
+    },
+    {
+      "slug": "a2-wr-correct-the-message",
+      "title": "Correct the Message",
+      "kind": "correction",
+      "instructions": "Pesan berikut memiliki 6 kesalahan tata bahasa. Tulis ulang pesan dengan benar: \"Hi Dimas! Last weekend I go to Bandung with my family. We was very tired because the traffic was terrible. On Sunday we visit a tea plantation. It was more bigger than I thought. Did you went to the concert? I'm going call you tomorrow!\"",
+      "minWords": 30,
+      "maxWords": 70,
+      "modelAnswer": "Hi Dimas! Last weekend I went to Bandung with my family. We were very tired because the traffic was terrible. On Sunday we visited a tea plantation. It was bigger than I thought. Did you go to the concert? I'm going to call you tomorrow!"
+    },
+    {
+      "slug": "a2-wr-my-dream-job",
+      "title": "My Dream Job",
+      "kind": "opinion",
+      "instructions": "Tulis tentang pekerjaan impianmu. Jelaskan pekerjaan apa, di mana, apa yang dilakukan orang dengan pekerjaan itu, mengapa kamu menyukainya, dan apa yang perlu kamu lakukan untuk mendapatkannya. Gunakan want to / would like to / need to, adverbs of manner, dan should/have to.",
+      "minWords": 70,
+      "maxWords": 130,
+      "modelAnswer": "My dream job is to be a tour guide in Bali. Tour guides show visitors interesting places and explain the history and culture of the island. I'd like to do this job because I enjoy meeting people from different countries and I love my culture. A good guide has to speak clearly and patiently, and should know a lot about local food and traditions. To get this job, I need to improve my English and learn a little Japanese. I also want to take a course in tourism next year."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "nervous",
+      "pos": "adjective",
+      "ipa": "/ˈnɜːvəs/",
+      "definition": "worried and a little afraid before something happens",
+      "meaning": "gugup",
+      "examples": [
+        {
+          "en": "I was nervous before my job interview.",
+          "id": "Saya gugup sebelum wawancara kerja."
+        }
+      ],
+      "synonyms": [
+        "anxious",
+        "worried"
+      ],
+      "antonyms": [
+        "calm",
+        "relaxed"
+      ],
+      "collocations": [
+        "feel nervous",
+        "nervous about"
+      ],
+      "phrases": [
+        "a bag of nerves"
+      ],
+      "related": [
+        "nerve"
+      ],
+      "topic": "feelings"
+    },
+    {
+      "word": "proud",
+      "pos": "adjective",
+      "ipa": "/praʊd/",
+      "definition": "happy because you or someone close to you did something good",
+      "meaning": "bangga",
+      "examples": [
+        {
+          "en": "My parents were proud of me at my graduation.",
+          "id": "Orang tua saya bangga padaku saat wisuda."
+        }
+      ],
+      "synonyms": [
+        "pleased"
+      ],
+      "antonyms": [
+        "ashamed"
+      ],
+      "collocations": [
+        "proud of",
+        "feel proud"
+      ],
+      "phrases": [
+        "I'm so proud of you!"
+      ],
+      "related": [
+        "pride"
+      ],
+      "topic": "feelings"
+    },
+    {
+      "word": "disappointed",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "definition": "sad because something was not as good as you hoped",
+      "meaning": "kecewa",
+      "examples": [
+        {
+          "en": "We were disappointed with the hotel room.",
+          "id": "Kami kecewa dengan kamar hotelnya."
+        }
+      ],
+      "synonyms": [
+        "unhappy"
+      ],
+      "antonyms": [
+        "pleased",
+        "satisfied"
+      ],
+      "collocations": [
+        "disappointed with",
+        "disappointed about"
+      ],
+      "phrases": [],
+      "related": [
+        "disappointing",
+        "disappointment"
+      ],
+      "topic": "feelings"
+    },
+    {
+      "word": "wedding",
+      "pos": "noun",
+      "ipa": "/ˈwedɪŋ/",
+      "definition": "a ceremony when two people get married",
+      "meaning": "pernikahan",
+      "examples": [
+        {
+          "en": "My cousin's wedding was in a beautiful garden.",
+          "id": "Pernikahan sepupu saya diadakan di taman yang indah."
+        }
+      ],
+      "synonyms": [
+        "marriage ceremony"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "go to a wedding",
+        "wedding party",
+        "wedding dress"
+      ],
+      "phrases": [
+        "wedding anniversary"
+      ],
+      "related": [
+        "bride",
+        "groom",
+        "marry"
+      ],
+      "topic": "events"
+    },
+    {
+      "word": "exhibition",
+      "pos": "noun",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "definition": "a public show of art, photos or other things",
+      "meaning": "pameran",
+      "examples": [
+        {
+          "en": "There was a photo exhibition at the museum.",
+          "id": "Ada pameran foto di museum."
+        }
+      ],
+      "synonyms": [
+        "show",
+        "display"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "art exhibition",
+        "visit an exhibition"
+      ],
+      "phrases": [],
+      "related": [
+        "exhibit",
+        "museum",
+        "gallery"
+      ],
+      "topic": "events"
+    },
+    {
+      "word": "festival",
+      "pos": "noun",
+      "ipa": "/ˈfestɪvl/",
+      "definition": "a special event with music, food or celebrations",
+      "meaning": "festival, perayaan",
+      "examples": [
+        {
+          "en": "There was a food festival in the park last weekend.",
+          "id": "Ada festival makanan di taman akhir pekan lalu."
+        }
+      ],
+      "synonyms": [
+        "celebration"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "music festival",
+        "food festival"
+      ],
+      "phrases": [],
+      "related": [
+        "celebrate",
+        "event"
+      ],
+      "topic": "events"
+    },
+    {
+      "word": "crowd",
+      "pos": "noun",
+      "ipa": "/kraʊd/",
+      "definition": "a large group of people in one place",
+      "meaning": "kerumunan orang",
+      "examples": [
+        {
+          "en": "There was a huge crowd at the stadium.",
+          "id": "Ada kerumunan besar di stadion."
+        }
+      ],
+      "synonyms": [
+        "group"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "a big crowd",
+        "in the crowd"
+      ],
+      "phrases": [],
+      "related": [
+        "crowded"
+      ],
+      "topic": "events"
+    },
+    {
+      "word": "relatives",
+      "pos": "noun (plural)",
+      "ipa": "/ˈrelətɪvz/",
+      "definition": "people in your family, like aunts, uncles and cousins",
+      "meaning": "kerabat, sanak saudara",
+      "examples": [
+        {
+          "en": "We visited our relatives in Padang during the holiday.",
+          "id": "Kami mengunjungi kerabat di Padang saat liburan."
+        }
+      ],
+      "synonyms": [
+        "family members"
+      ],
+      "antonyms": [
+        "strangers"
+      ],
+      "collocations": [
+        "visit relatives",
+        "close relatives"
+      ],
+      "phrases": [],
+      "related": [
+        "relative",
+        "family"
+      ],
+      "topic": "holidays"
+    },
+    {
+      "word": "souvenir",
+      "pos": "noun",
+      "ipa": "/ˌsuːvəˈnɪə/",
+      "definition": "a small thing you buy on holiday to remember a place",
+      "meaning": "oleh-oleh, cendera mata",
+      "examples": [
+        {
+          "en": "She bought some souvenirs for her colleagues.",
+          "id": "Dia membeli oleh-oleh untuk rekan kerjanya."
+        }
+      ],
+      "synonyms": [
+        "keepsake"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "buy souvenirs",
+        "souvenir shop"
+      ],
+      "phrases": [],
+      "related": [
+        "gift",
+        "present"
+      ],
+      "topic": "holidays"
+    },
+    {
+      "word": "sightseeing",
+      "pos": "noun",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "definition": "visiting interesting places as a tourist",
+      "meaning": "jalan-jalan melihat tempat wisata",
+      "examples": [
+        {
+          "en": "We went sightseeing in the old town.",
+          "id": "Kami jalan-jalan melihat tempat wisata di kota tua."
+        }
+      ],
+      "synonyms": [
+        "touring"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "go sightseeing",
+        "sightseeing tour"
+      ],
+      "phrases": [],
+      "related": [
+        "tourist",
+        "sight"
+      ],
+      "topic": "holidays"
+    },
+    {
+      "word": "spend",
+      "pos": "verb",
+      "ipa": "/spend/",
+      "definition": "to use time or money (past: spent)",
+      "meaning": "menghabiskan (waktu/uang)",
+      "examples": [
+        {
+          "en": "We spent three days in Malang.",
+          "id": "Kami menghabiskan tiga hari di Malang."
+        }
+      ],
+      "synonyms": [
+        "use"
+      ],
+      "antonyms": [
+        "save"
+      ],
+      "collocations": [
+        "spend time",
+        "spend money",
+        "spend a week"
+      ],
+      "phrases": [],
+      "related": [
+        "spending"
+      ],
+      "topic": "holidays"
+    },
+    {
+      "word": "picnic",
+      "pos": "noun",
+      "ipa": "/ˈpɪknɪk/",
+      "definition": "a meal that you eat outside, for example in a park",
+      "meaning": "piknik",
+      "examples": [
+        {
+          "en": "We had a picnic by the lake.",
+          "id": "Kami berpiknik di tepi danau."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "have a picnic",
+        "picnic basket"
+      ],
+      "phrases": [],
+      "related": [
+        "barbecue"
+      ],
+      "topic": "holidays"
+    },
+    {
+      "word": "enjoy",
+      "pos": "verb",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "definition": "to like doing or having something",
+      "meaning": "menikmati",
+      "examples": [
+        {
+          "en": "Did you enjoy the concert?",
+          "id": "Apakah kamu menikmati konsernya?"
+        }
+      ],
+      "synonyms": [
+        "like",
+        "love"
+      ],
+      "antonyms": [
+        "dislike",
+        "hate"
+      ],
+      "collocations": [
+        "enjoy + -ing",
+        "enjoy yourself"
+      ],
+      "phrases": [
+        "Enjoy your meal!"
+      ],
+      "related": [
+        "enjoyable"
+      ],
+      "topic": "holidays"
+    },
+    {
+      "word": "grow up",
+      "pos": "phrasal verb",
+      "ipa": "/ɡrəʊ ʌp/",
+      "definition": "to change from a child into an adult (past: grew up)",
+      "meaning": "tumbuh besar",
+      "examples": [
+        {
+          "en": "I grew up in a small village near the sea.",
+          "id": "Saya tumbuh besar di desa kecil dekat laut."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "grow up in",
+        "grow up with"
+      ],
+      "phrases": [
+        "When I grow up, ..."
+      ],
+      "related": [
+        "grown-up",
+        "childhood"
+      ],
+      "topic": "life events"
+    },
+    {
+      "word": "graduate",
+      "pos": "verb",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "definition": "to finish your studies at a school or university",
+      "meaning": "lulus (sekolah/kuliah)",
+      "examples": [
+        {
+          "en": "She graduated from university in 2021.",
+          "id": "Dia lulus kuliah pada tahun 2021."
+        }
+      ],
+      "synonyms": [
+        "finish school"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "graduate from"
+      ],
+      "phrases": [],
+      "related": [
+        "graduation",
+        "graduate (noun)"
+      ],
+      "topic": "life events"
+    },
+    {
+      "word": "retire",
+      "pos": "verb",
+      "ipa": "/rɪˈtaɪə/",
+      "definition": "to stop working, usually because you are old",
+      "meaning": "pensiun",
+      "examples": [
+        {
+          "en": "My grandfather retired when he was sixty.",
+          "id": "Kakek saya pensiun saat berumur enam puluh."
+        }
+      ],
+      "synonyms": [
+        "stop working"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "retire from"
+      ],
+      "phrases": [],
+      "related": [
+        "retirement",
+        "retired"
+      ],
+      "topic": "life events"
+    },
+    {
+      "word": "get married",
+      "pos": "phrase",
+      "ipa": "/ɡet ˈmærid/",
+      "definition": "to become husband and wife (past: got married)",
+      "meaning": "menikah",
+      "examples": [
+        {
+          "en": "They got married last year.",
+          "id": "Mereka menikah tahun lalu."
+        }
+      ],
+      "synonyms": [
+        "marry"
+      ],
+      "antonyms": [
+        "get divorced"
+      ],
+      "collocations": [
+        "get married to someone"
+      ],
+      "phrases": [],
+      "related": [
+        "wedding",
+        "marriage"
+      ],
+      "topic": "life events"
+    },
+    {
+      "word": "suddenly",
+      "pos": "adverb",
+      "ipa": "/ˈsʌdənli/",
+      "definition": "quickly and when you do not expect it",
+      "meaning": "tiba-tiba",
+      "examples": [
+        {
+          "en": "Suddenly, all the lights went out.",
+          "id": "Tiba-tiba semua lampu padam."
+        }
+      ],
+      "synonyms": [
+        "all of a sudden"
+      ],
+      "antonyms": [
+        "slowly"
+      ],
+      "collocations": [],
+      "phrases": [
+        "all of a sudden"
+      ],
+      "related": [
+        "sudden"
+      ],
+      "topic": "stories"
+    },
+    {
+      "word": "lucky",
+      "pos": "adjective",
+      "ipa": "/ˈlʌki/",
+      "definition": "having good things happen to you by chance",
+      "meaning": "beruntung",
+      "examples": [
+        {
+          "en": "We were lucky. There was one room left.",
+          "id": "Kami beruntung. Masih ada satu kamar tersisa."
+        }
+      ],
+      "synonyms": [
+        "fortunate"
+      ],
+      "antonyms": [
+        "unlucky"
+      ],
+      "collocations": [
+        "lucky day",
+        "lucky number"
+      ],
+      "phrases": [
+        "Lucky you!"
+      ],
+      "related": [
+        "luck",
+        "luckily"
+      ],
+      "topic": "stories"
+    },
+    {
+      "word": "happen",
+      "pos": "verb",
+      "ipa": "/ˈhæpən/",
+      "definition": "to take place; to be an event",
+      "meaning": "terjadi",
+      "examples": [
+        {
+          "en": "What happened at the party?",
+          "id": "Apa yang terjadi di pesta itu?"
+        }
+      ],
+      "synonyms": [
+        "take place",
+        "occur"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "happen to someone"
+      ],
+      "phrases": [
+        "What happened?"
+      ],
+      "related": [
+        "event"
+      ],
+      "topic": "stories"
+    },
+    {
+      "word": "crowded",
+      "pos": "adjective",
+      "ipa": "/ˈkraʊdɪd/",
+      "definition": "full of people",
+      "meaning": "padat, penuh sesak",
+      "examples": [
+        {
+          "en": "The train was very crowded this morning.",
+          "id": "Keretanya sangat penuh sesak pagi ini."
+        }
+      ],
+      "synonyms": [
+        "busy",
+        "packed"
+      ],
+      "antonyms": [
+        "empty",
+        "quiet"
+      ],
+      "collocations": [
+        "crowded street",
+        "crowded bus"
+      ],
+      "phrases": [],
+      "related": [
+        "crowd"
+      ],
+      "topic": "places"
+    },
+    {
+      "word": "peaceful",
+      "pos": "adjective",
+      "ipa": "/ˈpiːsfl/",
+      "definition": "quiet and calm",
+      "meaning": "damai, tenang",
+      "examples": [
+        {
+          "en": "The village is more peaceful than the city.",
+          "id": "Desa itu lebih tenang daripada kota."
+        }
+      ],
+      "synonyms": [
+        "quiet",
+        "calm"
+      ],
+      "antonyms": [
+        "noisy",
+        "busy"
+      ],
+      "collocations": [
+        "peaceful place",
+        "peaceful life"
+      ],
+      "phrases": [],
+      "related": [
+        "peace"
+      ],
+      "topic": "places"
+    },
+    {
+      "word": "polluted",
+      "pos": "adjective",
+      "ipa": "/pəˈluːtɪd/",
+      "definition": "dirty because of smoke, rubbish or chemicals",
+      "meaning": "tercemar",
+      "examples": [
+        {
+          "en": "The air in big cities is often polluted.",
+          "id": "Udara di kota besar sering tercemar."
+        }
+      ],
+      "synonyms": [
+        "dirty"
+      ],
+      "antonyms": [
+        "clean"
+      ],
+      "collocations": [
+        "polluted air",
+        "polluted river"
+      ],
+      "phrases": [],
+      "related": [
+        "pollution"
+      ],
+      "topic": "places"
+    },
+    {
+      "word": "generous",
+      "pos": "adjective",
+      "ipa": "/ˈdʒenərəs/",
+      "definition": "happy to give money, time or help to other people",
+      "meaning": "murah hati, dermawan",
+      "examples": [
+        {
+          "en": "My aunt is the most generous person I know.",
+          "id": "Bibi saya adalah orang paling murah hati yang saya kenal."
+        }
+      ],
+      "synonyms": [
+        "kind"
+      ],
+      "antonyms": [
+        "mean",
+        "selfish"
+      ],
+      "collocations": [
+        "generous with",
+        "generous gift"
+      ],
+      "phrases": [],
+      "related": [
+        "generosity"
+      ],
+      "topic": "people"
+    },
+    {
+      "word": "reliable",
+      "pos": "adjective",
+      "ipa": "/rɪˈlaɪəbl/",
+      "definition": "that you can trust; that works well and does not break",
+      "meaning": "andal, dapat diandalkan",
+      "examples": [
+        {
+          "en": "This old car is very reliable.",
+          "id": "Mobil tua ini sangat andal."
+        }
+      ],
+      "synonyms": [
+        "dependable"
+      ],
+      "antonyms": [
+        "unreliable"
+      ],
+      "collocations": [
+        "reliable car",
+        "reliable friend"
+      ],
+      "phrases": [],
+      "related": [
+        "rely on"
+      ],
+      "topic": "products"
+    },
+    {
+      "word": "expensive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspensɪv/",
+      "definition": "costing a lot of money",
+      "meaning": "mahal",
+      "examples": [
+        {
+          "en": "Hotels near the beach are more expensive.",
+          "id": "Hotel di dekat pantai lebih mahal."
+        }
+      ],
+      "synonyms": [
+        "costly"
+      ],
+      "antonyms": [
+        "cheap"
+      ],
+      "collocations": [
+        "very expensive",
+        "too expensive"
+      ],
+      "phrases": [],
+      "related": [
+        "price",
+        "cost"
+      ],
+      "topic": "products"
+    },
+    {
+      "word": "comfortable",
+      "pos": "adjective",
+      "ipa": "/ˈkʌmftəbl/",
+      "definition": "nice to wear, sit on or be in; not causing pain",
+      "meaning": "nyaman",
+      "examples": [
+        {
+          "en": "These shoes are more comfortable than my old ones.",
+          "id": "Sepatu ini lebih nyaman daripada sepatu lamaku."
+        }
+      ],
+      "synonyms": [
+        "cosy"
+      ],
+      "antonyms": [
+        "uncomfortable"
+      ],
+      "collocations": [
+        "comfortable bed",
+        "feel comfortable"
+      ],
+      "phrases": [
+        "Make yourself comfortable."
+      ],
+      "related": [
+        "comfort"
+      ],
+      "topic": "products"
+    },
+    {
+      "word": "invite",
+      "pos": "verb",
+      "ipa": "/ɪnˈvaɪt/",
+      "definition": "to ask someone to come to an event",
+      "meaning": "mengundang",
+      "examples": [
+        {
+          "en": "They invited us to their housewarming party.",
+          "id": "Mereka mengundang kami ke syukuran rumah baru mereka."
+        }
+      ],
+      "synonyms": [
+        "ask"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "invite someone to",
+        "invite someone for dinner"
+      ],
+      "phrases": [],
+      "related": [
+        "invitation",
+        "guest"
+      ],
+      "topic": "celebrations"
+    },
+    {
+      "word": "invitation",
+      "pos": "noun",
+      "ipa": "/ˌɪnvɪˈteɪʃn/",
+      "definition": "a message that asks someone to come to an event",
+      "meaning": "undangan",
+      "examples": [
+        {
+          "en": "Thanks for the invitation! I'd love to come.",
+          "id": "Terima kasih atas undangannya! Saya mau sekali datang."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "accept an invitation",
+        "refuse an invitation",
+        "wedding invitation"
+      ],
+      "phrases": [],
+      "related": [
+        "invite"
+      ],
+      "topic": "celebrations"
+    },
+    {
+      "word": "celebrate",
+      "pos": "verb",
+      "ipa": "/ˈselɪbreɪt/",
+      "definition": "to do something special because of a happy event",
+      "meaning": "merayakan",
+      "examples": [
+        {
+          "en": "We celebrated my father's birthday at a restaurant.",
+          "id": "Kami merayakan ulang tahun ayah di restoran."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "celebrate a birthday",
+        "celebrate with friends"
+      ],
+      "phrases": [],
+      "related": [
+        "celebration"
+      ],
+      "topic": "celebrations"
+    },
+    {
+      "word": "decorate",
+      "pos": "verb",
+      "ipa": "/ˈdekəreɪt/",
+      "definition": "to make something look nice by adding beautiful things",
+      "meaning": "menghias",
+      "examples": [
+        {
+          "en": "We decorated the hall with balloons.",
+          "id": "Kami menghias aula dengan balon."
+        }
+      ],
+      "synonyms": [
+        "make beautiful"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "decorate a room",
+        "decorate with"
+      ],
+      "phrases": [],
+      "related": [
+        "decoration"
+      ],
+      "topic": "celebrations"
+    },
+    {
+      "word": "anniversary",
+      "pos": "noun",
+      "ipa": "/ˌænɪˈvɜːsəri/",
+      "definition": "the same date as an important event in an earlier year",
+      "meaning": "hari jadi, ulang tahun (pernikahan, perusahaan)",
+      "examples": [
+        {
+          "en": "It's my parents' 30th wedding anniversary.",
+          "id": "Ini ulang tahun pernikahan ke-30 orang tua saya."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "wedding anniversary",
+        "celebrate an anniversary"
+      ],
+      "phrases": [
+        "Happy anniversary!"
+      ],
+      "related": [
+        "birthday"
+      ],
+      "topic": "celebrations"
+    },
+    {
+      "word": "appointment",
+      "pos": "noun",
+      "ipa": "/əˈpɔɪntmənt/",
+      "definition": "a time you agree to meet someone, for example a doctor",
+      "meaning": "janji temu",
+      "examples": [
+        {
+          "en": "I have an appointment with the dentist at ten.",
+          "id": "Saya ada janji dengan dokter gigi jam sepuluh."
+        }
+      ],
+      "synonyms": [
+        "meeting"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "make an appointment",
+        "have an appointment",
+        "cancel an appointment"
+      ],
+      "phrases": [],
+      "related": [
+        "arrangement",
+        "schedule"
+      ],
+      "topic": "plans"
+    },
+    {
+      "word": "headache",
+      "pos": "noun",
+      "ipa": "/ˈhedeɪk/",
+      "definition": "a pain in your head",
+      "meaning": "sakit kepala",
+      "examples": [
+        {
+          "en": "I have a headache because I didn't sleep well.",
+          "id": "Saya sakit kepala karena tidak tidur nyenyak."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "have a headache",
+        "terrible headache"
+      ],
+      "phrases": [],
+      "related": [
+        "toothache",
+        "stomachache",
+        "backache"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "sore throat",
+      "pos": "noun",
+      "ipa": "/ˌsɔː ˈθrəʊt/",
+      "definition": "a pain in your throat, often when you swallow",
+      "meaning": "sakit tenggorokan",
+      "examples": [
+        {
+          "en": "She has a sore throat and can't talk much.",
+          "id": "Dia sakit tenggorokan dan tidak bisa banyak bicara."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "have a sore throat"
+      ],
+      "phrases": [],
+      "related": [
+        "cough",
+        "cold"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "temperature",
+      "pos": "noun",
+      "ipa": "/ˈtemprətʃə/",
+      "definition": "how hot your body is; a body heat that is too high",
+      "meaning": "suhu tubuh; demam",
+      "examples": [
+        {
+          "en": "He has a high temperature, so he's staying in bed.",
+          "id": "Dia demam tinggi, jadi dia tinggal di tempat tidur."
+        }
+      ],
+      "synonyms": [
+        "fever"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "have a temperature",
+        "take someone's temperature",
+        "high temperature"
+      ],
+      "phrases": [],
+      "related": [
+        "fever",
+        "thermometer"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "prescription",
+      "pos": "noun",
+      "ipa": "/prɪˈskrɪpʃn/",
+      "definition": "a paper from a doctor that says what medicine you need",
+      "meaning": "resep dokter",
+      "examples": [
+        {
+          "en": "Take this prescription to the pharmacy.",
+          "id": "Bawa resep ini ke apotek."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "write a prescription",
+        "get a prescription"
+      ],
+      "phrases": [],
+      "related": [
+        "medicine",
+        "pharmacy"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "pharmacy",
+      "pos": "noun",
+      "ipa": "/ˈfɑːməsi/",
+      "definition": "a shop where you can buy medicine",
+      "meaning": "apotek",
+      "examples": [
+        {
+          "en": "Is there a pharmacy near here?",
+          "id": "Apakah ada apotek di dekat sini?"
+        }
+      ],
+      "synonyms": [
+        "chemist's",
+        "drugstore"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "go to the pharmacy"
+      ],
+      "phrases": [],
+      "related": [
+        "pharmacist",
+        "medicine"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "symptom",
+      "pos": "noun",
+      "ipa": "/ˈsɪmptəm/",
+      "definition": "a sign that you are ill, like a cough or a fever",
+      "meaning": "gejala",
+      "examples": [
+        {
+          "en": "What are your symptoms?",
+          "id": "Apa saja gejalamu?"
+        }
+      ],
+      "synonyms": [
+        "sign"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "have symptoms",
+        "flu symptoms"
+      ],
+      "phrases": [],
+      "related": [
+        "illness"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "advice",
+      "pos": "noun (uncountable)",
+      "ipa": "/ədˈvaɪs/",
+      "definition": "an opinion about what someone should do",
+      "meaning": "saran, nasihat",
+      "examples": [
+        {
+          "en": "Can you give me some advice about my diet?",
+          "id": "Bisakah kamu memberi saya saran tentang pola makan saya?"
+        }
+      ],
+      "synonyms": [
+        "suggestion"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "give advice",
+        "take someone's advice",
+        "a piece of advice"
+      ],
+      "phrases": [],
+      "related": [
+        "advise",
+        "should"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "ipa": "/ˈhelθi/",
+      "definition": "good for your body; not ill",
+      "meaning": "sehat",
+      "examples": [
+        {
+          "en": "Fruit and vegetables are healthy food.",
+          "id": "Buah dan sayur adalah makanan sehat."
+        }
+      ],
+      "synonyms": [
+        "fit",
+        "well"
+      ],
+      "antonyms": [
+        "unhealthy",
+        "ill"
+      ],
+      "collocations": [
+        "healthy food",
+        "healthy habits",
+        "stay healthy"
+      ],
+      "phrases": [],
+      "related": [
+        "health"
+      ],
+      "topic": "health"
+    },
+    {
+      "word": "luggage",
+      "pos": "noun (uncountable)",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "definition": "the bags and suitcases you take when you travel",
+      "meaning": "bagasi, barang bawaan",
+      "examples": [
+        {
+          "en": "My luggage didn't arrive at the airport.",
+          "id": "Bagasi saya tidak sampai di bandara."
+        }
+      ],
+      "synonyms": [
+        "baggage"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "carry luggage",
+        "a piece of luggage",
+        "hand luggage"
+      ],
+      "phrases": [],
+      "related": [
+        "suitcase",
+        "bag"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "boarding pass",
+      "pos": "noun",
+      "ipa": "/ˈbɔːdɪŋ pɑːs/",
+      "definition": "a card that you need to get on a plane",
+      "meaning": "pas naik pesawat",
+      "examples": [
+        {
+          "en": "Please show your boarding pass at the gate.",
+          "id": "Silakan tunjukkan pas naik pesawat Anda di gerbang."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "show your boarding pass",
+        "print a boarding pass"
+      ],
+      "phrases": [],
+      "related": [
+        "ticket",
+        "gate",
+        "check in"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "delayed",
+      "pos": "adjective",
+      "ipa": "/dɪˈleɪd/",
+      "definition": "later than planned",
+      "meaning": "tertunda, terlambat",
+      "examples": [
+        {
+          "en": "Our flight was delayed by two hours.",
+          "id": "Penerbangan kami tertunda dua jam."
+        }
+      ],
+      "synonyms": [
+        "late"
+      ],
+      "antonyms": [
+        "on time"
+      ],
+      "collocations": [
+        "delayed flight",
+        "delayed by an hour"
+      ],
+      "phrases": [],
+      "related": [
+        "delay"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "cancelled",
+      "pos": "adjective",
+      "ipa": "/ˈkænsld/",
+      "definition": "stopped; not happening as planned",
+      "meaning": "dibatalkan",
+      "examples": [
+        {
+          "en": "The train was cancelled because of the flood.",
+          "id": "Keretanya dibatalkan karena banjir."
+        }
+      ],
+      "synonyms": [
+        "called off"
+      ],
+      "antonyms": [
+        "confirmed"
+      ],
+      "collocations": [
+        "cancelled flight",
+        "cancelled meeting"
+      ],
+      "phrases": [],
+      "related": [
+        "cancel",
+        "cancellation"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "journey",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːni/",
+      "definition": "travelling from one place to another",
+      "meaning": "perjalanan",
+      "examples": [
+        {
+          "en": "The journey from Jakarta to Bandung took three hours.",
+          "id": "Perjalanan dari Jakarta ke Bandung memakan waktu tiga jam."
+        }
+      ],
+      "synonyms": [
+        "trip"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "a long journey",
+        "go on a journey"
+      ],
+      "phrases": [
+        "Have a safe journey!"
+      ],
+      "related": [
+        "travel",
+        "trip"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "passenger",
+      "pos": "noun",
+      "ipa": "/ˈpæsɪndʒə/",
+      "definition": "a person who travels in a car, bus, train or plane but is not the driver",
+      "meaning": "penumpang",
+      "examples": [
+        {
+          "en": "All passengers must wear a seatbelt.",
+          "id": "Semua penumpang wajib memakai sabuk pengaman."
+        }
+      ],
+      "synonyms": [
+        "traveller"
+      ],
+      "antonyms": [
+        "driver"
+      ],
+      "collocations": [
+        "bus passenger",
+        "passenger seat"
+      ],
+      "phrases": [],
+      "related": [
+        "traveller"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "available",
+      "pos": "adjective",
+      "ipa": "/əˈveɪləbl/",
+      "definition": "free to use, buy or talk to",
+      "meaning": "tersedia; ada (bisa dihubungi)",
+      "examples": [
+        {
+          "en": "Are there any rooms available tonight?",
+          "id": "Apakah ada kamar tersedia malam ini?"
+        }
+      ],
+      "synonyms": [
+        "free"
+      ],
+      "antonyms": [
+        "unavailable",
+        "busy"
+      ],
+      "collocations": [
+        "rooms available",
+        "available for a meeting"
+      ],
+      "phrases": [],
+      "related": [
+        "availability"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "platform",
+      "pos": "noun",
+      "ipa": "/ˈplætfɔːm/",
+      "definition": "the place at a station where you get on and off trains",
+      "meaning": "peron",
+      "examples": [
+        {
+          "en": "The train to Solo leaves from platform 3.",
+          "id": "Kereta ke Solo berangkat dari peron 3."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "on platform 2",
+        "wait on the platform"
+      ],
+      "phrases": [],
+      "related": [
+        "station",
+        "train"
+      ],
+      "topic": "travel"
+    },
+    {
+      "word": "adventure",
+      "pos": "noun",
+      "ipa": "/ədˈventʃə/",
+      "definition": "an exciting and sometimes dangerous experience",
+      "meaning": "petualangan",
+      "examples": [
+        {
+          "en": "Our trip to the jungle was a real adventure.",
+          "id": "Perjalanan kami ke hutan adalah petualangan sungguhan."
+        }
+      ],
+      "synonyms": [
+        "exciting experience"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "have an adventure",
+        "adventure holiday"
+      ],
+      "phrases": [],
+      "related": [
+        "adventurous"
+      ],
+      "topic": "experiences"
+    },
+    {
+      "word": "achievement",
+      "pos": "noun",
+      "ipa": "/əˈtʃiːvmənt/",
+      "definition": "something good that you did with a lot of work",
+      "meaning": "prestasi, pencapaian",
+      "examples": [
+        {
+          "en": "Running a marathon was her biggest achievement.",
+          "id": "Lari maraton adalah prestasi terbesarnya."
+        }
+      ],
+      "synonyms": [
+        "success"
+      ],
+      "antonyms": [
+        "failure"
+      ],
+      "collocations": [
+        "a great achievement",
+        "proud of an achievement"
+      ],
+      "phrases": [],
+      "related": [
+        "achieve"
+      ],
+      "topic": "experiences"
+    },
+    {
+      "word": "brave",
+      "pos": "adjective",
+      "ipa": "/breɪv/",
+      "definition": "not afraid to do dangerous or difficult things",
+      "meaning": "berani",
+      "examples": [
+        {
+          "en": "You were very brave to swim with sharks!",
+          "id": "Kamu sangat berani berenang bersama hiu!"
+        }
+      ],
+      "synonyms": [
+        "courageous"
+      ],
+      "antonyms": [
+        "scared",
+        "afraid"
+      ],
+      "collocations": [
+        "very brave",
+        "brave decision"
+      ],
+      "phrases": [],
+      "related": [
+        "bravery"
+      ],
+      "topic": "experiences"
+    },
+    {
+      "word": "unforgettable",
+      "pos": "adjective",
+      "ipa": "/ˌʌnfəˈɡetəbl/",
+      "definition": "so special that you will always remember it",
+      "meaning": "tak terlupakan",
+      "examples": [
+        {
+          "en": "Watching the sunrise from the volcano was unforgettable.",
+          "id": "Melihat matahari terbit dari gunung berapi itu tak terlupakan."
+        }
+      ],
+      "synonyms": [
+        "memorable"
+      ],
+      "antonyms": [
+        "forgettable"
+      ],
+      "collocations": [
+        "an unforgettable day",
+        "unforgettable experience"
+      ],
+      "phrases": [],
+      "related": [
+        "forget"
+      ],
+      "topic": "experiences"
+    },
+    {
+      "word": "experience",
+      "pos": "noun",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "definition": "something that happened to you; knowledge from doing a job",
+      "meaning": "pengalaman",
+      "examples": [
+        {
+          "en": "She has a lot of experience in hotels.",
+          "id": "Dia punya banyak pengalaman di bidang perhotelan."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "work experience",
+        "a great experience",
+        "have experience"
+      ],
+      "phrases": [],
+      "related": [
+        "experienced"
+      ],
+      "topic": "experiences"
+    },
+    {
+      "word": "abroad",
+      "pos": "adverb",
+      "ipa": "/əˈbrɔːd/",
+      "definition": "in or to another country",
+      "meaning": "ke/di luar negeri",
+      "examples": [
+        {
+          "en": "Have you ever travelled abroad?",
+          "id": "Apakah kamu pernah bepergian ke luar negeri?"
+        }
+      ],
+      "synonyms": [
+        "overseas"
+      ],
+      "antonyms": [
+        "at home"
+      ],
+      "collocations": [
+        "go abroad",
+        "study abroad",
+        "work abroad"
+      ],
+      "phrases": [],
+      "related": [
+        "foreign"
+      ],
+      "topic": "experiences"
+    },
+    {
+      "word": "colleague",
+      "pos": "noun",
+      "ipa": "/ˈkɒliːɡ/",
+      "definition": "a person you work with",
+      "meaning": "rekan kerja",
+      "examples": [
+        {
+          "en": "I have lunch with my colleagues every day.",
+          "id": "Saya makan siang dengan rekan kerja setiap hari."
+        }
+      ],
+      "synonyms": [
+        "co-worker"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "work colleague",
+        "new colleague"
+      ],
+      "phrases": [],
+      "related": [
+        "team",
+        "boss"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "salary",
+      "pos": "noun",
+      "ipa": "/ˈsæləri/",
+      "definition": "the money you get every month for your job",
+      "meaning": "gaji",
+      "examples": [
+        {
+          "en": "The salary is good, but the hours are long.",
+          "id": "Gajinya bagus, tetapi jam kerjanya panjang."
+        }
+      ],
+      "synonyms": [
+        "pay",
+        "wages"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "a high salary",
+        "a low salary",
+        "earn a salary"
+      ],
+      "phrases": [],
+      "related": [
+        "well-paid",
+        "income"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "part-time",
+      "pos": "adjective/adverb",
+      "ipa": "/ˌpɑːt ˈtaɪm/",
+      "definition": "working only some hours or days of the week",
+      "meaning": "paruh waktu",
+      "examples": [
+        {
+          "en": "He works part-time in a bookshop.",
+          "id": "Dia bekerja paruh waktu di toko buku."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "full-time"
+      ],
+      "collocations": [
+        "part-time job",
+        "work part-time"
+      ],
+      "phrases": [],
+      "related": [
+        "full-time",
+        "shift"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "shift",
+      "pos": "noun",
+      "ipa": "/ʃɪft/",
+      "definition": "a period of time when a group of people work",
+      "meaning": "giliran kerja, sif",
+      "examples": [
+        {
+          "en": "Nurses often work the night shift.",
+          "id": "Perawat sering bekerja sif malam."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "night shift",
+        "work a shift",
+        "long shift"
+      ],
+      "phrases": [],
+      "related": [
+        "hours"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "customer",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmə/",
+      "definition": "a person who buys things or services",
+      "meaning": "pelanggan",
+      "examples": [
+        {
+          "en": "The shop had a lot of customers on Saturday.",
+          "id": "Toko itu punya banyak pelanggan hari Sabtu."
+        }
+      ],
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "antonyms": [
+        "seller"
+      ],
+      "collocations": [
+        "serve customers",
+        "customer service"
+      ],
+      "phrases": [],
+      "related": [
+        "client"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "apply for",
+      "pos": "phrasal verb",
+      "ipa": "/əˈplaɪ fɔː/",
+      "definition": "to ask formally for a job, usually in writing",
+      "meaning": "melamar (pekerjaan)",
+      "examples": [
+        {
+          "en": "I'd like to apply for the receptionist job.",
+          "id": "Saya ingin melamar pekerjaan resepsionis."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "apply for a job",
+        "apply for a visa"
+      ],
+      "phrases": [],
+      "related": [
+        "application",
+        "interview"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "promotion",
+      "pos": "noun",
+      "ipa": "/prəˈməʊʃn/",
+      "definition": "a move to a better and more important job in the same company",
+      "meaning": "kenaikan jabatan",
+      "examples": [
+        {
+          "en": "She hopes to get a promotion this year.",
+          "id": "Dia berharap mendapat kenaikan jabatan tahun ini."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "get a promotion",
+        "deserve a promotion"
+      ],
+      "phrases": [],
+      "related": [
+        "promote",
+        "career"
+      ],
+      "topic": "work"
+    },
+    {
+      "word": "borrow",
+      "pos": "verb",
+      "ipa": "/ˈbɒrəʊ/",
+      "definition": "to take something from someone and give it back later",
+      "meaning": "meminjam",
+      "examples": [
+        {
+          "en": "Could I borrow your charger?",
+          "id": "Boleh saya pinjam pengisi dayamu?"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "lend"
+      ],
+      "collocations": [
+        "borrow money",
+        "borrow something from someone"
+      ],
+      "phrases": [],
+      "related": [
+        "lend"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "lend",
+      "pos": "verb",
+      "ipa": "/lend/",
+      "definition": "to give something to someone for a short time (past: lent)",
+      "meaning": "meminjamkan",
+      "examples": [
+        {
+          "en": "Could you lend me your umbrella?",
+          "id": "Bisakah kamu meminjamkan payungmu?"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "borrow"
+      ],
+      "collocations": [
+        "lend money",
+        "lend someone something"
+      ],
+      "phrases": [],
+      "related": [
+        "borrow"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "message",
+      "pos": "noun",
+      "ipa": "/ˈmesɪdʒ/",
+      "definition": "a short piece of information that you send or leave for someone",
+      "meaning": "pesan",
+      "examples": [
+        {
+          "en": "She isn't here. Can I take a message?",
+          "id": "Dia tidak ada. Mau titip pesan?"
+        }
+      ],
+      "synonyms": [
+        "note",
+        "text"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "take a message",
+        "leave a message",
+        "send a message"
+      ],
+      "phrases": [],
+      "related": [
+        "text message",
+        "email"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "reply",
+      "pos": "verb/noun",
+      "ipa": "/rɪˈplaɪ/",
+      "definition": "to answer a message, letter or email",
+      "meaning": "membalas; balasan",
+      "examples": [
+        {
+          "en": "Sorry I didn't reply to your email sooner.",
+          "id": "Maaf saya tidak membalas emailmu lebih cepat."
+        }
+      ],
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "reply to an email",
+        "quick reply"
+      ],
+      "phrases": [],
+      "related": [
+        "answer"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "promise",
+      "pos": "verb/noun",
+      "ipa": "/ˈprɒmɪs/",
+      "definition": "to say that you will certainly do something",
+      "meaning": "berjanji; janji",
+      "examples": [
+        {
+          "en": "I promise I'll call you tonight.",
+          "id": "Saya janji akan meneleponmu nanti malam."
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "collocations": [
+        "make a promise",
+        "keep a promise",
+        "break a promise"
+      ],
+      "phrases": [
+        "I promise!"
+      ],
+      "related": [
+        "will"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "look for",
+      "pos": "phrasal verb",
+      "ipa": "/lʊk fɔː/",
+      "definition": "to try to find something or someone",
+      "meaning": "mencari",
+      "examples": [
+        {
+          "en": "I'm looking for my keys. Have you seen them?",
+          "id": "Saya sedang mencari kunci saya. Kamu melihatnya?"
+        }
+      ],
+      "synonyms": [
+        "search for"
+      ],
+      "antonyms": [
+        "find"
+      ],
+      "collocations": [
+        "look for a job",
+        "look for a flat"
+      ],
+      "phrases": [],
+      "related": [
+        "find",
+        "search"
+      ],
+      "topic": "communication"
+    },
+    {
+      "word": "turn off",
+      "pos": "phrasal verb",
+      "ipa": "/tɜːn ɒf/",
+      "definition": "to stop a machine, light or TV from working",
+      "meaning": "mematikan",
+      "examples": [
+        {
+          "en": "Please turn off your phones during the film.",
+          "id": "Mohon matikan ponsel selama film berlangsung."
+        }
+      ],
+      "synonyms": [
+        "switch off"
+      ],
+      "antonyms": [
+        "turn on"
+      ],
+      "collocations": [
+        "turn off the lights",
+        "turn off the TV"
+      ],
+      "phrases": [],
+      "related": [
+        "turn on",
+        "switch"
+      ],
+      "topic": "communication"
+    }
+  ],
+  "examQuestions": [
+    {
+      "id": "a2-exam-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "was/were",
+      "difficulty": 1,
+      "stage": "exam",
+      "prompt": "Choose the correct word: The concert tickets ___ very expensive, so we didn't buy them.",
+      "options": [
+        "were",
+        "was",
+        "are",
+        "did"
+      ],
+      "answer": 0,
+      "explanation": "The concert tickets (jamak) di masa lalu → were."
+    },
+    {
+      "id": "a2-exam-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "past simple",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Complete with the past simple of the verbs in brackets.",
+      "text": "Last summer we ___ (fly) to Lombok and ___ (stay) in a small hotel near the beach.",
+      "answers": [
+        [
+          "flew"
+        ],
+        [
+          "stayed"
+        ]
+      ],
+      "explanation": "fly → flew (tidak beraturan); stay → stayed (vokal + y → -ed)."
+    },
+    {
+      "id": "a2-exam-q3",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "past simple questions",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ you watch the badminton final last night? B: No, I ___. I was at work.",
+      "choices": [
+        [
+          "Did",
+          "Were",
+          "Do"
+        ],
+        [
+          "didn't",
+          "wasn't",
+          "don't"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "Watch adalah kata kerja biasa di masa lalu → Did you watch...? No, I didn't."
+    },
+    {
+      "id": "a2-exam-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "conjunctions",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": [
+        "I missed the last bus,",
+        "because",
+        "I took",
+        "a taxi home."
+      ],
+      "errorIndex": 1,
+      "correction": "so",
+      "explanation": "Ketinggalan bus (sebab) → naik taksi (akibat). Sebab, so akibat."
+    },
+    {
+      "id": "a2-exam-q5",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "comparatives",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the correct option: My new laptop is ___ than my old one, and it's much lighter.",
+      "options": [
+        "better",
+        "more good",
+        "best",
+        "gooder"
+      ],
+      "answer": 0,
+      "explanation": "Comparative dari good adalah better."
+    },
+    {
+      "id": "a2-exam-q6",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "as ... as",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Rewrite the sentence so that it has the same meaning.",
+      "sentence": "My brother is taller than me.",
+      "cue": "Begin with: I'm not as ...",
+      "answers": [
+        "I'm not as tall as my brother.",
+        "I am not as tall as my brother."
+      ],
+      "explanation": "Kakak lebih tinggi = saya tidak setinggi kakak: not as tall as."
+    },
+    {
+      "id": "a2-exam-q7",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "will for offers",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        {
+          "speaker": "Grandma",
+          "text": "I can't open this jar. It's too tight."
+        },
+        {
+          "speaker": "Rio",
+          "text": null
+        }
+      ],
+      "options": [
+        "Give it to me. I'll open it for you.",
+        "I'm going to open it next week.",
+        "I opened it for you yesterday.",
+        "I'm opening it tomorrow at nine."
+      ],
+      "answer": 0,
+      "explanation": "Tawaran spontan → I'll + base verb."
+    },
+    {
+      "id": "a2-exam-q8",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present continuous for future",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the correct option: What ___ this evening? — I'm meeting some friends at the night market.",
+      "options": [
+        "are you doing",
+        "do you do",
+        "did you do",
+        "will you doing"
+      ],
+      "answer": 0,
+      "explanation": "Menanyakan rencana yang sudah diatur → present continuous: What are you doing this evening?"
+    },
+    {
+      "id": "a2-exam-q9",
+      "type": "multiple_select",
+      "category": "grammar",
+      "topic": "must/mustn't",
+      "difficulty": 3,
+      "stage": "exam",
+      "prompt": "Which sentences mean that something is NOT allowed? Choose all correct answers.",
+      "options": [
+        "You mustn't touch the paintings.",
+        "You don't have to buy a ticket.",
+        "Visitors mustn't take photos inside.",
+        "You shouldn't worry so much.",
+        "Smoking is not allowed in the building."
+      ],
+      "answers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": "Mustn't dan not allowed = dilarang. Don't have to = tidak perlu; shouldn't = saran."
+    },
+    {
+      "id": "a2-exam-q10",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "have to",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Complete with the correct form of have to.",
+      "text": "My sister is a pilot, so she ___ wear a uniform at work. I'm a writer, so I ___ wear one.",
+      "answers": [
+        [
+          "has to"
+        ],
+        [
+          "don't have to",
+          "do not have to"
+        ]
+      ],
+      "explanation": "She → has to. Penulis tidak perlu memakai seragam → don't have to."
+    },
+    {
+      "id": "a2-exam-q11",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "past continuous vs past simple",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the correct verb forms.",
+      "text": "I ___ dinner when the electricity suddenly ___ off.",
+      "choices": [
+        [
+          "was cooking",
+          "cooked"
+        ],
+        [
+          "went",
+          "was going"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "Kegiatan panjang → was cooking. Kejadian singkat yang menyela → went off."
+    },
+    {
+      "id": "a2-exam-q12",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "present perfect",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "to",
+        "a",
+        "rock",
+        "concert?"
+      ],
+      "explanation": "Have + you + ever + been to + tempat/acara."
+    },
+    {
+      "id": "a2-exam-q13",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "past participles",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Correct the sentence.",
+      "sentence": "She has never ate Indonesian food.",
+      "answers": [
+        "She has never eaten Indonesian food.",
+        "She's never eaten Indonesian food."
+      ],
+      "explanation": "Setelah has, pakai past participle: eaten."
+    },
+    {
+      "id": "a2-exam-q14",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "been vs gone",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the correct option: Where's Tono? — He's ___ to the post office. He'll be back in ten minutes.",
+      "options": [
+        "gone",
+        "been",
+        "went",
+        "go"
+      ],
+      "answer": 0,
+      "explanation": "Tono belum kembali → has gone."
+    },
+    {
+      "id": "a2-exam-q15",
+      "type": "translation",
+      "category": "grammar",
+      "topic": "adverbs of manner",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Translate into English. (Dia = a man)",
+      "source": "Dia berbicara bahasa Inggris dengan sangat baik.",
+      "direction": "id-en",
+      "answers": [
+        "He speaks English very well.",
+        "He speaks very good English.",
+        "He speaks English really well."
+      ],
+      "explanation": "Dengan sangat baik (menjelaskan kata kerja) = very well. Adverb diletakkan setelah objek."
+    },
+    {
+      "id": "a2-exam-q16",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "quantifiers",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Complete with much, many, a few or a little.",
+      "text": "How ___ money do you need? — Just ___. About ten thousand rupiah for the bus.",
+      "answers": [
+        [
+          "much"
+        ],
+        [
+          "a little"
+        ]
+      ],
+      "explanation": "Money tak terhitung → How much...? Sedikit (tak terhitung) → a little."
+    },
+    {
+      "id": "a2-exam-q17",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "polite requests",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Choose the best word: Could you ___ me your pen, please? I left mine at home.",
+      "options": [
+        "lend",
+        "borrow",
+        "look for",
+        "turn off"
+      ],
+      "answer": 0,
+      "explanation": "Meminta orang lain meminjamkan → lend. Borrow = meminjam (dari orang lain)."
+    },
+    {
+      "id": "a2-exam-q18",
+      "type": "matching",
+      "category": "vocabulary",
+      "topic": "phrasal verbs",
+      "difficulty": 2,
+      "stage": "exam",
+      "prompt": "Match each phrasal verb with the best object.",
+      "pairs": [
+        {
+          "left": "put on",
+          "right": "your raincoat"
+        },
+        {
+          "left": "fill in",
+          "right": "this application form"
+        },
+        {
+          "left": "look for",
+          "right": "a new job"
+        },
+        {
+          "left": "pick up",
+          "right": "the children from school"
+        }
+      ],
+      "explanation": "put on your raincoat (memakai), fill in a form (mengisi), look for a job (mencari), pick up the children (menjemput)."
+    }
+  ],
+  "placementQuestions": [
+    {
+      "id": "a2-place-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "was/were",
+      "difficulty": 1,
+      "stage": "placement",
+      "prompt": "Where ___ you yesterday afternoon?",
+      "options": [
+        "were",
+        "was",
+        "are",
+        "did"
+      ],
+      "answer": 0,
+      "explanation": "You di masa lalu → were."
+    },
+    {
+      "id": "a2-place-q2",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "past simple",
+      "difficulty": 1,
+      "stage": "placement",
+      "prompt": "My sister ___ to the cinema with her friends last night.",
+      "options": [
+        "went",
+        "goes",
+        "go",
+        "gone"
+      ],
+      "answer": 0,
+      "explanation": "Last night → past simple: went."
+    },
+    {
+      "id": "a2-place-q3",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "past simple negative",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "I ___ like the film. It was really boring.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "answer": 0,
+      "explanation": "Negatif past simple dengan kata kerja like → didn't like."
+    },
+    {
+      "id": "a2-place-q4",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "comparatives",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Their house is ___ than ours. It has five bedrooms.",
+      "options": [
+        "bigger",
+        "more big",
+        "biggest",
+        "big"
+      ],
+      "answer": 0,
+      "explanation": "Membandingkan dua rumah → comparative: bigger than."
+    },
+    {
+      "id": "a2-place-q5",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "going to predictions",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Look at those black clouds. It ___ rain.",
+      "options": [
+        "is going to",
+        "will to",
+        "going",
+        "rains"
+      ],
+      "answer": 0,
+      "explanation": "Prediksi dengan bukti → is going to."
+    },
+    {
+      "id": "a2-place-q6",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "should",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "You look ill. You ___ see a doctor.",
+      "options": [
+        "should",
+        "should to",
+        "mustn't",
+        "don't have to"
+      ],
+      "answer": 0,
+      "explanation": "Saran → should + base verb."
+    },
+    {
+      "id": "a2-place-q7",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "past continuous",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "Complete with the correct form of the verb in brackets.",
+      "text": "While I ___ (walk) to the station, I met an old friend.",
+      "answers": [
+        [
+          "was walking"
+        ]
+      ],
+      "explanation": "While + kegiatan panjang → past continuous: was walking."
+    },
+    {
+      "id": "a2-place-q8",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present perfect",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "Have you ever ___ to Japan?",
+      "options": [
+        "been",
+        "gone",
+        "went",
+        "go"
+      ],
+      "answer": 0,
+      "explanation": "Pengalaman (pernah pergi dan kembali) → Have you ever been to...?"
+    },
+    {
+      "id": "a2-place-q9",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "quantifiers",
+      "difficulty": 3,
+      "stage": "placement",
+      "prompt": "Choose the correct words.",
+      "text": "There isn't ___ milk in the fridge, but there are ___ eggs.",
+      "choices": [
+        [
+          "much",
+          "many"
+        ],
+        [
+          "a few",
+          "a little"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "Milk tak terhitung → much. Eggs terhitung → a few."
+    },
+    {
+      "id": "a2-place-q10",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "verb + to-infinitive",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": [
+        "Next year",
+        "I want",
+        "learn",
+        "Spanish."
+      ],
+      "errorIndex": 2,
+      "correction": "to learn",
+      "explanation": "Want diikuti to + base verb: want to learn."
+    },
+    {
+      "id": "a2-place-q11",
+      "type": "word_order",
+      "category": "conversation",
+      "topic": "polite requests",
+      "difficulty": 2,
+      "stage": "placement",
+      "prompt": "Put the words in the correct order to make a polite request.",
+      "words": [
+        "Could",
+        "you",
+        "close",
+        "the",
+        "door,",
+        "please?"
+      ],
+      "acceptedAnswers": [
+        "Could you please close the door?"
+      ],
+      "explanation": "Could you + base verb + objek + please?"
+    },
+    {
+      "id": "a2-place-q12",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "adjectives",
+      "difficulty": 1,
+      "stage": "placement",
+      "prompt": "Choose the best word: The hotel was very ___. It cost two million rupiah a night!",
+      "options": [
+        "expensive",
+        "cheap",
+        "crowded",
+        "delayed"
+      ],
+      "answer": 0,
+      "explanation": "Dua juta rupiah per malam → expensive (mahal)."
+    }
+  ]
+}

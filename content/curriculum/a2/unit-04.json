@@ -1,0 +1,1405 @@
+{
+  "slug": "a2-u04-comparing",
+  "number": 4,
+  "title": "Comparing Things",
+  "description": "Membandingkan orang, tempat, dan produk dengan comparative, superlative, dan as ... as / not as ... as.",
+  "objectives": [
+    "Membentuk comparative adjectives (-er / more) dengan ejaan yang benar",
+    "Membentuk superlative adjectives (the -est / the most)",
+    "Menggunakan as ... as dan not as ... as",
+    "Membandingkan kota, produk, dan orang dengan kosakata yang tepat"
+  ],
+  "lessons": [
+    {
+      "slug": "a2-u04-l1-comparatives-short",
+      "title": "Comparatives: -er than",
+      "summary": "Membandingkan dua hal dengan adjective pendek + -er + than.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk comparative dari adjective satu suku kata dan adjective berakhiran -y",
+        "Menerapkan aturan ejaan: bigger, easier, nicer"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membandingkan dua hal\nDalam bahasa Indonesia kita berkata *lebih besar daripada*. Dalam bahasa Inggris, untuk adjective pendek kita menambahkan **-er** dan memakai **than** (daripada):\n\n*A bus is **bigger than** a car.* (Bus lebih besar daripada mobil.)\n\n### Pola\n**Subject + be + adjective-er + than + ...**\n\n### Aturan ejaan\n| Jenis adjective | Aturan | Contoh |\n| --- | --- | --- |\n| 1 suku kata (umum) | + **-er** | tall → tall**er**, cheap → cheap**er**, fast → fast**er** |\n| berakhiran **-e** | + **-r** | nice → nice**r**, large → large**r**, safe → safe**r** |\n| 1 vokal + 1 konsonan | **gandakan** + -er | big → bi**gger**, hot → ho**tter**, thin → thi**nner** |\n| 2 suku kata berakhiran **-y** | y → **-ier** | easy → eas**ier**, happy → happ**ier**, busy → bus**ier** |\n\nAturan menggandakan konsonan mirip dengan aturan *stop → stopped* di Unit 2. Tetapi jangan gandakan **w**: *new → newer*, *slow → slower*.\n\n### Than, bukan that atau from\nKesalahan umum: ✗ *bigger that*, ✗ *bigger from*. Kata pembanding yang benar adalah **than** /ðæn/.\n\n### Tanpa more\nUntuk adjective pendek, **jangan** tambahkan *more*: ✗ *more bigger*, ✗ *more tall*. Akhiran *-er* sudah berarti *lebih*.\n\n### Membandingkan di masa lalu\nKarena kamu sudah belajar was/were, kamu juga bisa membandingkan di masa lalu: *The exam was **easier than** last year's exam.*\n\n### Penekanan dengan much\nUntuk mengatakan *jauh lebih*, tambahkan **much** sebelum comparative: *My new flat is **much bigger** than my old one.*",
+        "examples": [
+          {
+            "en": "My brother is taller than my father.",
+            "id": "Kakak laki-lakiku lebih tinggi daripada ayahku.",
+            "note": "tall → taller"
+          },
+          {
+            "en": "Today is hotter than yesterday.",
+            "id": "Hari ini lebih panas daripada kemarin.",
+            "note": "hot → hotter (gandakan t)"
+          },
+          {
+            "en": "This exercise is easier than the last one.",
+            "id": "Latihan ini lebih mudah daripada yang terakhir.",
+            "note": "easy → easier"
+          },
+          {
+            "en": "The new flat is much bigger than our old flat.",
+            "id": "Apartemen baru jauh lebih besar daripada apartemen lama kami.",
+            "note": "much + comparative = jauh lebih"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "cheap",
+            "pos": "adjective",
+            "ipa": "/tʃiːp/",
+            "meaning": "murah",
+            "example": "Street food is cheaper than restaurant food."
+          },
+          {
+            "word": "large",
+            "pos": "adjective",
+            "ipa": "/lɑːdʒ/",
+            "meaning": "besar, luas",
+            "example": "Their garden is larger than ours."
+          },
+          {
+            "word": "thin",
+            "pos": "adjective",
+            "ipa": "/θɪn/",
+            "meaning": "tipis, kurus",
+            "example": "This phone is thinner than my old phone."
+          },
+          {
+            "word": "busy",
+            "pos": "adjective",
+            "ipa": "/ˈbɪzi/",
+            "meaning": "sibuk, ramai",
+            "example": "Saturdays are busier than Mondays at the mall."
+          },
+          {
+            "word": "than",
+            "pos": "preposition",
+            "ipa": "/ðæn/",
+            "meaning": "daripada",
+            "example": "Cats are smaller than dogs."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "A + be + adjective-er + than + B",
+            "example": "Bali is smaller than Java.",
+            "note": "Untuk adjective pendek."
+          },
+          {
+            "pattern": "much + adjective-er + than",
+            "example": "Planes are much faster than trains.",
+            "note": "much = jauh lebih."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "My house is more big than your house.",
+            "right": "My house is bigger than your house.",
+            "why": "Adjective pendek memakai -er, tanpa more."
+          },
+          {
+            "wrong": "She is taller that her sister.",
+            "right": "She is taller than her sister.",
+            "why": "Kata pembanding yang benar adalah than."
+          },
+          {
+            "wrong": "This test is easyer than the first one.",
+            "right": "This test is easier than the first one.",
+            "why": "Konsonan + y berubah menjadi -ier."
+          }
+        ],
+        "summary": "Comparative adjective pendek: **adjective + -er + than**. Ingat ejaan: *nice → nicer*, *big → bigger*, *easy → easier*. Jangan pakai *more* dengan -er, dan gunakan **than**, bukan *that/from*.",
+        "reviewCards": [
+          {
+            "front": "big (comparative)",
+            "back": "bigger"
+          },
+          {
+            "front": "easy (comparative)",
+            "back": "easier"
+          },
+          {
+            "front": "lebih ... daripada",
+            "back": "adjective-er + than"
+          },
+          {
+            "front": "jauh lebih murah",
+            "back": "much cheaper"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u04-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct option: A motorbike is ___ than a bicycle.",
+          "options": [
+            "faster",
+            "more fast",
+            "fastest",
+            "fast"
+          ],
+          "answer": 0,
+          "explanation": "Fast adalah adjective satu suku kata, jadi comparative-nya faster (tanpa more).",
+          "misconception": "Menambahkan more di depan adjective pendek."
+        },
+        {
+          "id": "a2-u04-l1-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 1,
+          "stage": "independent",
+          "prompt": "Complete with the comparative form of the adjectives in brackets.",
+          "text": "My brother is ___ (tall) than me, and my sister is ___ (young) than both of us.",
+          "answers": [
+            [
+              "taller"
+            ],
+            [
+              "younger"
+            ]
+          ],
+          "explanation": "Tall → taller, young → younger. Keduanya adjective satu suku kata + -er."
+        },
+        {
+          "id": "a2-u04-l1-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "comparative spelling",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each adjective with its comparative form.",
+          "pairs": [
+            {
+              "left": "big",
+              "right": "bigger"
+            },
+            {
+              "left": "easy",
+              "right": "easier"
+            },
+            {
+              "left": "nice",
+              "right": "nicer"
+            },
+            {
+              "left": "thin",
+              "right": "thinner"
+            },
+            {
+              "left": "cheap",
+              "right": "cheaper"
+            }
+          ],
+          "explanation": "big/thin → gandakan konsonan; easy → -ier; nice → tambah -r; cheap → tambah -er."
+        },
+        {
+          "id": "a2-u04-l1-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "Our new classroom",
+            "is",
+            "more big",
+            "than the old one."
+          ],
+          "errorIndex": 2,
+          "correction": "bigger",
+          "explanation": "Big adalah adjective pendek. Comparative-nya bigger, bukan more big."
+        },
+        {
+          "id": "a2-u04-l1-q5",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it has the same meaning.",
+          "sentence": "Rina is shorter than Dita.",
+          "cue": "Begin with: Dita is ...",
+          "answers": [
+            "Dita is taller than Rina."
+          ],
+          "explanation": "Jika Rina lebih pendek, berarti Dita lebih tinggi: Dita is taller than Rina."
+        },
+        {
+          "id": "a2-u04-l1-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "comparative spelling",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Which comparative forms are spelled correctly? Choose all correct answers.",
+          "options": [
+            "hotter",
+            "happier",
+            "biger",
+            "more cold",
+            "nicer",
+            "slowwer"
+          ],
+          "answers": [
+            0,
+            1,
+            4
+          ],
+          "explanation": "Benar: hotter, happier, nicer. Seharusnya bigger (gandakan g), colder (tanpa more), slower (w tidak digandakan)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u04-l2-comparatives-long-irregular",
+      "title": "More Expensive, Better, Worse",
+      "summary": "Comparative untuk adjective panjang (more + adjective) dan adjective tidak beraturan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk comparative dengan more untuk adjective dua suku kata atau lebih",
+        "Menggunakan better, worse, dan further/farther"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Adjective panjang: more + adjective\nUntuk adjective dengan **dua suku kata atau lebih** (kecuali yang berakhiran -y), kita **tidak** menambah -er. Kita memakai **more** di depannya:\n\n| Adjective | Comparative |\n| --- | --- |\n| expensive | **more** expensive |\n| comfortable | **more** comfortable |\n| interesting | **more** interesting |\n| beautiful | **more** beautiful |\n| modern | **more** modern |\n| famous | **more** famous |\n\n*This hotel is **more comfortable than** the other one.*\n\n### Ingat pengecualian -y\nAdjective dua suku kata berakhiran **-y** tetap memakai **-ier**: *easy → easier*, *happy → happier*, *busy → busier*, *funny → funnier*.\n\n### Adjective tidak beraturan\nTiga adjective ini harus dihafal:\n\n| Adjective | Comparative | Arti |\n| --- | --- | --- |\n| good | **better** | lebih baik/bagus |\n| bad | **worse** | lebih buruk |\n| far | **farther / further** | lebih jauh |\n\n✗ *gooder*, ✗ *more good*, ✗ *badder*.\n\n### Jangan gabungkan more dan -er\nSalah satu kesalahan paling umum: ✗ *more better*, ✗ *more cheaper*, ✗ *more quieter*. Pilih **salah satu**: -er **atau** more.\n\n### Less (lebih sedikit/kurang)\nKebalikan dari *more* adalah **less**: *This phone is **less expensive** than that one.* (Ponsel ini kurang mahal / lebih murah daripada yang itu.) Bentuk ini lebih sering dipakai dengan adjective panjang.\n\n### Ringkasan cara memilih\n1. Satu suku kata? → **-er** (*cheaper*)\n2. Dua suku kata berakhiran -y? → **-ier** (*easier*)\n3. Dua suku kata atau lebih lainnya? → **more** (*more modern*)\n4. good / bad / far? → **better / worse / further**\n\n### Contoh dalam percakapan\n*A: Which hotel is better, the Sunrise or the Palm?*\n*B: The Palm is **more expensive**, but it's **more comfortable** and **further** from the noisy main road. I think it's **better** for a family holiday.*\n\nPerhatikan bagaimana satu jawaban bisa memakai beberapa bentuk comparative sekaligus.",
+        "examples": [
+          {
+            "en": "Trains are more comfortable than buses.",
+            "id": "Kereta lebih nyaman daripada bus.",
+            "note": "more + comfortable"
+          },
+          {
+            "en": "My cooking is better than my brother's.",
+            "id": "Masakanku lebih enak daripada masakan kakakku.",
+            "note": "good → better"
+          },
+          {
+            "en": "The traffic was worse yesterday than today.",
+            "id": "Lalu lintas kemarin lebih buruk daripada hari ini.",
+            "note": "bad → worse"
+          },
+          {
+            "en": "The museum is further from the station than the park.",
+            "id": "Museum itu lebih jauh dari stasiun daripada taman.",
+            "note": "far → further"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "expensive",
+            "pos": "adjective",
+            "ipa": "/ɪkˈspensɪv/",
+            "meaning": "mahal",
+            "example": "Hotels in the city centre are more expensive."
+          },
+          {
+            "word": "comfortable",
+            "pos": "adjective",
+            "ipa": "/ˈkʌmftəbl/",
+            "meaning": "nyaman",
+            "example": "These shoes are more comfortable than my old ones."
+          },
+          {
+            "word": "famous",
+            "pos": "adjective",
+            "ipa": "/ˈfeɪməs/",
+            "meaning": "terkenal",
+            "example": "The singer is more famous now."
+          },
+          {
+            "word": "traffic",
+            "pos": "noun",
+            "ipa": "/ˈtræfɪk/",
+            "meaning": "lalu lintas",
+            "example": "The traffic is worse in the morning."
+          },
+          {
+            "word": "modern",
+            "pos": "adjective",
+            "ipa": "/ˈmɒdn/",
+            "meaning": "modern",
+            "example": "The new station is more modern."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "A + be + more + long adjective + than + B",
+            "example": "Gold is more expensive than silver.",
+            "note": "Dua suku kata atau lebih."
+          },
+          {
+            "pattern": "good → better; bad → worse; far → further/farther",
+            "example": "Your English is better than mine.",
+            "note": "Tidak beraturan."
+          },
+          {
+            "pattern": "less + adjective + than",
+            "example": "This route is less crowded than the main road.",
+            "note": "Kebalikan more."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "This phone is more better than that one.",
+            "right": "This phone is better than that one.",
+            "why": "Better sudah berarti lebih baik; jangan tambah more."
+          },
+          {
+            "wrong": "The film was interestinger than the book.",
+            "right": "The film was more interesting than the book.",
+            "why": "Interesting adalah adjective panjang, jadi memakai more."
+          },
+          {
+            "wrong": "My headache is badder today.",
+            "right": "My headache is worse today.",
+            "why": "Bad adalah adjective tidak beraturan: worse."
+          }
+        ],
+        "summary": "Adjective panjang memakai **more + adjective + than** (*more expensive than*). Adjective tidak beraturan: **good → better, bad → worse, far → further/farther**. Jangan gabungkan more dengan -er.",
+        "reviewCards": [
+          {
+            "front": "good (comparative)",
+            "back": "better"
+          },
+          {
+            "front": "bad (comparative)",
+            "back": "worse"
+          },
+          {
+            "front": "expensive (comparative)",
+            "back": "more expensive"
+          },
+          {
+            "front": "more better?",
+            "back": "Salah! Cukup better."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u04-l2-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct comparative form.",
+          "text": "This new sofa is ___ than the old one.",
+          "choices": [
+            [
+              "more comfortable",
+              "comfortabler",
+              "most comfortable"
+            ]
+          ],
+          "answers": [
+            0
+          ],
+          "explanation": "Comfortable adalah adjective panjang, jadi comparative-nya more comfortable.",
+          "misconception": "Menambah -er pada semua adjective."
+        },
+        {
+          "id": "a2-u04-l2-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "The new phone is ___ than the old one, but the camera is much ___.",
+          "bank": [
+            "more expensive",
+            "better",
+            "expensiver",
+            "gooder",
+            "more good"
+          ],
+          "answers": [
+            "more expensive",
+            "better"
+          ],
+          "explanation": "Expensive adalah adjective panjang → more expensive. Good → better (tidak beraturan)."
+        },
+        {
+          "id": "a2-u04-l2-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Cuaca hari ini lebih buruk daripada kemarin.",
+          "direction": "id-en",
+          "answers": [
+            "The weather today is worse than yesterday.",
+            "The weather is worse today than yesterday.",
+            "Today the weather is worse than yesterday.",
+            "Today's weather is worse than yesterday's.",
+            "The weather today is worse than it was yesterday.",
+            "Today the weather is worse than it was yesterday."
+          ],
+          "explanation": "Lebih buruk = worse (comparative tidak beraturan dari bad), daripada = than."
+        },
+        {
+          "id": "a2-u04-l2-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "My test result was ___ than last time. I got 90!",
+          "options": [
+            "better",
+            "gooder",
+            "more good",
+            "best"
+          ],
+          "answer": 0,
+          "explanation": "Good → better. Hasil 90 menunjukkan perbandingan dengan hasil sebelumnya."
+        },
+        {
+          "id": "a2-u04-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "This book is more interesting that the film.",
+          "answers": [
+            "This book is more interesting than the film."
+          ],
+          "explanation": "Kata pembanding yang benar adalah than, bukan that."
+        },
+        {
+          "id": "a2-u04-l2-q6",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "Life",
+            "in a village",
+            "is",
+            "more quieter",
+            "than life in a city."
+          ],
+          "errorIndex": 3,
+          "correction": "quieter",
+          "explanation": "Jangan gabungkan more dengan -er. Cukup quieter."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u04-l3-superlatives",
+      "title": "Superlatives: the Biggest, the Most Beautiful",
+      "summary": "Menyatakan yang paling dengan the + -est atau the most.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membentuk superlative dengan the -est, the most, the best, dan the worst",
+        "Memakai in dan of setelah superlative"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Superlative = paling\nComparative membandingkan **dua** hal. Superlative membandingkan **tiga atau lebih** hal dan menyatakan **yang paling**.\n\n*Rafi is **the tallest** student in our class.* (Rafi adalah murid paling tinggi di kelas kami.)\n\n### Pembentukan\n| Jenis adjective | Comparative | Superlative |\n| --- | --- | --- |\n| pendek | cheap**er** | **the** cheap**est** |\n| berakhiran -e | nice**r** | **the** nice**st** |\n| vokal + konsonan | bi**gger** | **the** bi**ggest** |\n| berakhiran -y | eas**ier** | **the** eas**iest** |\n| panjang | **more** famous | **the most** famous |\n| good | better | **the best** |\n| bad | worse | **the worst** |\n| far | further | **the furthest** |\n\nAturan ejaannya sama dengan comparative. Jadi jika kamu sudah menguasai *-er*, kamu juga bisa membuat *-est*.\n\n### Jangan lupa the\nSuperlative hampir selalu memakai **the**: ✗ *She is best student.* ✓ *She is **the best** student.* Kata *the* juga bisa diganti dengan kata kepemilikan: *my best friend* (sahabat terbaikku).\n\n### In atau of?\n- **in** + tempat atau kelompok: *the biggest city **in** the country*, *the youngest **in** my family*\n- **of** + periode waktu atau jumlah: *the best day **of** my life*, *the hottest month **of** the year*, *the cheapest **of** the three*\n\n### Superlative di masa lalu\n*It was **the worst** day of my holiday. I lost my bag and it rained all day.*\n\n### Tips untuk penutur bahasa Indonesia\nKata *paling* dalam bahasa Indonesia selalu sama, tetapi dalam bahasa Inggris kamu harus memilih **-est** atau **most** berdasarkan panjang adjective. Jangan gabungkan keduanya: ✗ *the most biggest*.",
+        "examples": [
+          {
+            "en": "This is the cheapest café in the area.",
+            "id": "Ini kafe termurah di daerah ini.",
+            "note": "the + cheap + -est"
+          },
+          {
+            "en": "It was the most exciting match of the season.",
+            "id": "Itu pertandingan paling seru musim ini.",
+            "note": "the most + adjective panjang; of + periode"
+          },
+          {
+            "en": "My grandmother makes the best sambal in the family.",
+            "id": "Nenek saya membuat sambal paling enak di keluarga.",
+            "note": "good → the best"
+          },
+          {
+            "en": "Monday was the worst day of my week.",
+            "id": "Senin adalah hari terburuk dalam mingguku.",
+            "note": "bad → the worst"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "exciting",
+            "pos": "adjective",
+            "ipa": "/ɪkˈsaɪtɪŋ/",
+            "meaning": "seru, mendebarkan",
+            "example": "It was the most exciting day of the trip."
+          },
+          {
+            "word": "clever",
+            "pos": "adjective",
+            "ipa": "/ˈklevə/",
+            "meaning": "pintar, cerdas",
+            "example": "She is the cleverest girl in the class."
+          },
+          {
+            "word": "popular",
+            "pos": "adjective",
+            "ipa": "/ˈpɒpjələ/",
+            "meaning": "populer, disukai banyak orang",
+            "example": "Fried rice is the most popular dish here."
+          },
+          {
+            "word": "area",
+            "pos": "noun",
+            "ipa": "/ˈeəriə/",
+            "meaning": "daerah, wilayah",
+            "example": "This is the quietest area of the city."
+          },
+          {
+            "word": "season",
+            "pos": "noun",
+            "ipa": "/ˈsiːzn/",
+            "meaning": "musim",
+            "example": "The rainy season is the wettest time of the year."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "the + adjective-est + in/of ...",
+            "example": "the longest river in the country",
+            "note": "Adjective pendek."
+          },
+          {
+            "pattern": "the most + long adjective + in/of ...",
+            "example": "the most beautiful beach on the island",
+            "note": "Adjective panjang."
+          },
+          {
+            "pattern": "the best / the worst / the furthest",
+            "example": "the best day of my life",
+            "note": "Tidak beraturan."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "She is the most tall girl in her family.",
+            "right": "She is the tallest girl in her family.",
+            "why": "Tall adalah adjective pendek, jadi pakai -est."
+          },
+          {
+            "wrong": "It is the most biggest mall in town.",
+            "right": "It is the biggest mall in town.",
+            "why": "Jangan gabungkan most dengan -est."
+          },
+          {
+            "wrong": "He is the best player of the team.",
+            "right": "He is the best player in the team.",
+            "why": "Untuk kelompok atau tempat, pakai in."
+          }
+        ],
+        "summary": "Superlative: **the + -est** untuk adjective pendek, **the most** untuk adjective panjang, dan **the best / the worst / the furthest** untuk yang tidak beraturan. Pakai **in** untuk tempat/kelompok dan **of** untuk periode waktu atau jumlah.",
+        "reviewCards": [
+          {
+            "front": "good (superlative)",
+            "back": "the best"
+          },
+          {
+            "front": "bad (superlative)",
+            "back": "the worst"
+          },
+          {
+            "front": "beautiful (superlative)",
+            "back": "the most beautiful"
+          },
+          {
+            "front": "the hottest month ___ the year",
+            "back": "of"
+          },
+          {
+            "front": "the tallest student ___ the class",
+            "back": "in"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u04-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct option: Everyone loves this place. It's ___ restaurant in our town.",
+          "options": [
+            "the best",
+            "the better",
+            "best",
+            "the goodest"
+          ],
+          "answer": 0,
+          "explanation": "Superlative dari good adalah the best. The tidak boleh dihilangkan.",
+          "misconception": "Lupa memakai the sebelum superlative."
+        },
+        {
+          "id": "a2-u04-l3-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with the superlative form of the adjectives in brackets. Include the.",
+          "text": "Sinta is ___ (clever) student in our class, and Pak Joko is ___ (funny) teacher in the school.",
+          "answers": [
+            [
+              "the cleverest",
+              "the most clever"
+            ],
+            [
+              "the funniest"
+            ]
+          ],
+          "explanation": "Clever → the cleverest (atau the most clever). Funny → the funniest (y → -iest)."
+        },
+        {
+          "id": "a2-u04-l3-q3",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": [
+            "It",
+            "was",
+            "the",
+            "most",
+            "beautiful",
+            "beach",
+            "on",
+            "the",
+            "island."
+          ],
+          "explanation": "It was + the most + adjective panjang + noun + on the island."
+        },
+        {
+          "id": "a2-u04-l3-q4",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the correct forms.",
+          "text": "Of all the hotels in the town, the Sunrise Hotel was ___, but the Palm Hotel was ___.",
+          "choices": [
+            [
+              "the cheapest",
+              "cheaper",
+              "the cheaper"
+            ],
+            [
+              "the most comfortable",
+              "more comfortable",
+              "the comfortablest"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Membandingkan semua hotel (lebih dari dua) → superlative: the cheapest dan the most comfortable."
+        },
+        {
+          "id": "a2-u04-l3-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "She",
+            "is",
+            "the most tall",
+            "girl",
+            "in her family."
+          ],
+          "errorIndex": 2,
+          "correction": "the tallest",
+          "explanation": "Tall adalah adjective pendek. Superlative-nya the tallest."
+        },
+        {
+          "id": "a2-u04-l3-q6",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "superlatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Write the missing word (superlative of bad): Last Tuesday was the ___ day of my week. I missed the bus and forgot my homework.",
+          "answers": [
+            "worst"
+          ],
+          "explanation": "Bad → worse → the worst. Hari itu buruk karena ketinggalan bus dan lupa PR."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u04-l4-as-as",
+      "title": "As ... As and Not As ... As",
+      "summary": "Menyatakan kesamaan dan perbedaan dengan as ... as dan not as ... as.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menyatakan dua hal yang sama dengan as + adjective + as",
+        "Menyatakan perbedaan dengan not as + adjective + as"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### As ... as = sama ...-nya\nUntuk mengatakan bahwa dua hal **sama**, gunakan **as + adjective (bentuk dasar) + as**:\n\n*My sister is **as tall as** my mother.* (Kakak perempuanku **setinggi** ibuku.)\n\nBahasa Indonesia memakai awalan *se-* (*setinggi, sebesar, semahal*). Bahasa Inggris memakai **as ... as**.\n\n### Not as ... as = tidak se...\nBentuk negatif menunjukkan bahwa hal pertama **kurang** daripada hal kedua:\n\n*My phone **isn't as expensive as** your phone.* (Ponselku tidak semahal ponselmu.)\n\nArtinya sama dengan: *Your phone is **more expensive than** my phone.* atau *My phone is **cheaper than** your phone.*\n\n| Kalimat | Arti |\n| --- | --- |\n| A is **as** big **as** B. | A = B |\n| A is**n't as** big **as** B. | A < B (B lebih besar) |\n| A is bigg**er than** B. | A > B |\n\n### Adjective tetap bentuk dasar\nDi antara *as ... as*, adjective **tidak** berubah: ✗ *as bigger as*, ✗ *as more expensive as*. ✓ *as big as*, ✓ *as expensive as*.\n\n### Jangan campur dengan than\n✗ *as tall than*. Pasangan yang benar selalu **as ... as**, sedangkan *than* hanya untuk comparative (-er/more).\n\n### Kapan memakai not as ... as?\n*Not as ... as* sering terdengar **lebih sopan** daripada comparative langsung. Bandingkan:\n- *Your cooking is worse than mine.* (terdengar kasar)\n- *Your cooking isn't as good as mine.* (lebih halus)\n\n### Di masa lalu\n*The test **wasn't as difficult as** I expected.* (Ujiannya tidak sesulit yang saya kira.)\n*The second film **was as good as** the first one.*",
+        "examples": [
+          {
+            "en": "Budi is as old as my brother. They're both 15.",
+            "id": "Budi seumuran dengan kakakku. Mereka berdua 15 tahun.",
+            "note": "as old as = seumuran"
+          },
+          {
+            "en": "The train isn't as fast as the plane.",
+            "id": "Kereta tidak secepat pesawat.",
+            "note": "not as ... as = tidak se..."
+          },
+          {
+            "en": "This hotel is as comfortable as a five-star hotel.",
+            "id": "Hotel ini senyaman hotel bintang lima.",
+            "note": "adjective panjang tetap tanpa more"
+          },
+          {
+            "en": "The test wasn't as difficult as last year's test.",
+            "id": "Ujiannya tidak sesulit ujian tahun lalu.",
+            "note": "bentuk lampau: wasn't as ... as"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "difficult",
+            "pos": "adjective",
+            "ipa": "/ˈdɪfɪkəlt/",
+            "meaning": "sulit",
+            "example": "Maths isn't as difficult as physics for me."
+          },
+          {
+            "word": "noisy",
+            "pos": "adjective",
+            "ipa": "/ˈnɔɪzi/",
+            "meaning": "berisik, bising",
+            "example": "My street isn't as noisy as yours."
+          },
+          {
+            "word": "strong",
+            "pos": "adjective",
+            "ipa": "/strɒŋ/",
+            "meaning": "kuat",
+            "example": "He is as strong as his father."
+          },
+          {
+            "word": "both",
+            "pos": "determiner",
+            "ipa": "/bəʊθ/",
+            "meaning": "keduanya",
+            "example": "Both cities are beautiful, but they are very different."
+          },
+          {
+            "word": "similar",
+            "pos": "adjective",
+            "ipa": "/ˈsɪmələ/",
+            "meaning": "mirip, serupa",
+            "example": "The two cities are very similar."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "A + be + as + adjective + as + B",
+            "example": "Her bag is as heavy as mine.",
+            "note": "A dan B sama."
+          },
+          {
+            "pattern": "A + be + not as + adjective + as + B",
+            "example": "Tea isn't as expensive as coffee here.",
+            "note": "A kurang dari B."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "This hotel is as comfortable than the other one.",
+            "right": "This hotel is as comfortable as the other one.",
+            "why": "Pasangan yang benar adalah as ... as, bukan as ... than."
+          },
+          {
+            "wrong": "My bag isn't as heavier as yours.",
+            "right": "My bag isn't as heavy as yours.",
+            "why": "Di antara as ... as, adjective memakai bentuk dasar."
+          },
+          {
+            "wrong": "She is so tall as her mother.",
+            "right": "She is as tall as her mother.",
+            "why": "Dalam kalimat positif, pakai as ... as."
+          }
+        ],
+        "summary": "**as + adjective + as** = sama (*as tall as* = setinggi). **not as + adjective + as** = kurang/tidak se- (*not as cheap as*). Adjective tetap bentuk dasar, dan jangan pakai *than* dengan *as*.",
+        "reviewCards": [
+          {
+            "front": "setinggi",
+            "back": "as tall as"
+          },
+          {
+            "front": "tidak semahal",
+            "back": "not as expensive as"
+          },
+          {
+            "front": "A isn't as big as B. Mana yang lebih besar?",
+            "back": "B"
+          },
+          {
+            "front": "as heavy ___ mine",
+            "back": "as (bukan than)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u04-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "as ... as",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the correct words: My bike isn't ___ fast ___ your motorbike.",
+          "options": [
+            "as / as",
+            "so / than",
+            "more / than",
+            "as / than"
+          ],
+          "answer": 0,
+          "explanation": "Pola yang benar adalah not as + adjective + as.",
+          "misconception": "Mencampur as dengan than."
+        },
+        {
+          "id": "a2-u04-l4-q2",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "as ... as",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence so that it has the same meaning.",
+          "sentence": "The mountain village is cooler than the city.",
+          "cue": "Begin with: The city isn't as ...",
+          "answers": [
+            "The city isn't as cool as the mountain village.",
+            "The city is not as cool as the mountain village."
+          ],
+          "explanation": "Jika desa lebih sejuk, berarti kota tidak sesejuk desa: The city isn't as cool as the mountain village."
+        },
+        {
+          "id": "a2-u04-l4-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "as ... as",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each sentence with its meaning.",
+          "pairs": [
+            {
+              "left": "Tom is as tall as Ben.",
+              "right": "They are the same height."
+            },
+            {
+              "left": "Tom isn't as tall as Ben.",
+              "right": "Ben is taller."
+            },
+            {
+              "left": "Ben isn't as tall as Tom.",
+              "right": "Tom is taller."
+            }
+          ],
+          "explanation": "As ... as = sama. A isn't as tall as B berarti B lebih tinggi."
+        },
+        {
+          "id": "a2-u04-l4-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "as ... as",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the mistake in the sentence.",
+          "segments": [
+            "This hotel",
+            "is",
+            "as comfortable",
+            "than the other one."
+          ],
+          "errorIndex": 3,
+          "correction": "as the other one.",
+          "explanation": "Pasangan yang benar adalah as ... as: as comfortable as the other one."
+        },
+        {
+          "id": "a2-u04-l4-q5",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "as ... as",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            {
+              "speaker": "Yuni",
+              "text": "Is the new café expensive?"
+            },
+            {
+              "speaker": "Hana",
+              "text": null
+            },
+            {
+              "speaker": "Yuni",
+              "text": "Great! Let's go there on Friday."
+            }
+          ],
+          "options": [
+            "No, it isn't as expensive as the old one.",
+            "Yes, it's more expensive than all the others.",
+            "No, it isn't as cheap as the old one.",
+            "Yes, it's the most expensive café in town."
+          ],
+          "answer": 0,
+          "explanation": "Yuni senang (Great!), jadi kafe itu tidak mahal. Not as expensive as = tidak semahal. Not as cheap as justru berarti lebih mahal."
+        },
+        {
+          "id": "a2-u04-l4-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "as ... as",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English. (kakak = older sister)",
+          "source": "Kamarku tidak sebesar kamar kakakku.",
+          "direction": "id-en",
+          "answers": [
+            "My room isn't as big as my sister's room.",
+            "My room is not as big as my sister's room.",
+            "My room isn't as big as my sister's.",
+            "My room is not as big as my sister's.",
+            "My room isn't as large as my sister's room.",
+            "My room isn't as large as my sister's.",
+            "My room isn't as big as my older sister's room.",
+            "My room isn't as big as my older sister's."
+          ],
+          "explanation": "Tidak sebesar = not as big as. Kamar kakakku = my sister's room (atau cukup my sister's)."
+        }
+      ]
+    },
+    {
+      "slug": "a2-u04-l5-comparing-cities-products",
+      "title": "Comparing Cities, Products and People",
+      "summary": "Kosakata adjective untuk orang, tempat, dan produk serta penggunaannya dalam perbandingan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan adjective untuk mendeskripsikan orang, tempat, dan produk",
+        "Membandingkan dua kota atau dua produk dengan semua bentuk perbandingan"
+      ],
+      "completionCriteria": "Baca semua bagian materi, coba latihan berbicara, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Adjective untuk tempat\n| Adjective | Arti | Lawan kata |\n| --- | --- | --- |\n| crowded | padat, penuh sesak | empty |\n| peaceful | damai, tenang | noisy |\n| modern | modern | old-fashioned |\n| polluted | tercemar | clean |\n| safe | aman | dangerous |\n\n### Adjective untuk orang\n*friendly* (ramah), *generous* (murah hati), *hard-working* (rajin), *lazy* (malas), *patient* (sabar), *polite* (sopan).\n\n### Adjective untuk produk\n*reliable* (andal, tidak mudah rusak), *light* (ringan), *heavy* (berat), *useful* (berguna), *good value* (sepadan dengan harganya).\n\n### Menggabungkan semua bentuk perbandingan\nSaat membandingkan dua kota atau produk, variasikan struktur kalimatmu:\n\n*Riverton is **bigger and more modern than** Sunny Bay, but it's **more polluted**. Sunny Bay **isn't as exciting as** Riverton, but it's **the most peaceful** town on the coast.*\n\n| Struktur | Fungsi |\n| --- | --- |\n| comparative + than | membandingkan dua hal |\n| superlative | yang paling di antara banyak hal |\n| as ... as / not as ... as | sama / kurang |\n\n### Memberi pendapat\nGunakan ungkapan berikut untuk memberi pendapat saat membandingkan:\n- *In my opinion, ...* (Menurut saya, ...)\n- *I think ... is better because ...*\n- *For me, the most important thing is ...*\n\n### Contoh: membandingkan dua laptop\n*The Nova 14 is **lighter** and **cheaper** than the Orbit X. The Orbit X has a bigger screen, but its battery **isn't as good**. In my opinion, the Nova 14 is **better value** for students.*\n\n### Tips\nJangan hanya memberi satu kalimat perbandingan. Berikan **alasan** dengan *because* dan **kontras** dengan *but*, seperti yang kamu pelajari di Unit 3.",
+        "examples": [
+          {
+            "en": "Sunny Bay is more peaceful than Riverton, but it isn't as modern.",
+            "id": "Sunny Bay lebih tenang daripada Riverton, tetapi tidak semodern Riverton.",
+            "note": "comparative + not as ... as"
+          },
+          {
+            "en": "My aunt is the most generous person in our family.",
+            "id": "Bibi saya adalah orang paling murah hati di keluarga kami.",
+            "note": "superlative untuk orang"
+          },
+          {
+            "en": "This laptop is lighter and more reliable than my old one.",
+            "id": "Laptop ini lebih ringan dan lebih andal daripada laptop lamaku.",
+            "note": "dua comparative dengan and"
+          },
+          {
+            "en": "In my opinion, the city centre is too crowded.",
+            "id": "Menurut saya, pusat kota terlalu padat.",
+            "note": "memberi pendapat"
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "crowded",
+            "pos": "adjective",
+            "ipa": "/ˈkraʊdɪd/",
+            "meaning": "padat, penuh sesak",
+            "example": "The market is very crowded on Sundays."
+          },
+          {
+            "word": "peaceful",
+            "pos": "adjective",
+            "ipa": "/ˈpiːsfl/",
+            "meaning": "damai, tenang",
+            "example": "The village is more peaceful than the city."
+          },
+          {
+            "word": "polluted",
+            "pos": "adjective",
+            "ipa": "/pəˈluːtɪd/",
+            "meaning": "tercemar",
+            "example": "The river is more polluted than ten years ago."
+          },
+          {
+            "word": "generous",
+            "pos": "adjective",
+            "ipa": "/ˈdʒenərəs/",
+            "meaning": "murah hati, dermawan",
+            "example": "My uncle is very generous with his time."
+          },
+          {
+            "word": "reliable",
+            "pos": "adjective",
+            "ipa": "/rɪˈlaɪəbl/",
+            "meaning": "andal, dapat diandalkan",
+            "example": "This car is more reliable than my old one."
+          },
+          {
+            "word": "hard-working",
+            "pos": "adjective",
+            "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+            "meaning": "rajin, pekerja keras",
+            "example": "Nina is the most hard-working student in the class."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "A is + comparative + than B, but + not as ... as",
+            "example": "The bus is cheaper than the train, but it isn't as fast.",
+            "note": "Menggabungkan kelebihan dan kekurangan."
+          },
+          {
+            "pattern": "In my opinion, A is + better/more ... because ...",
+            "example": "In my opinion, Sunny Bay is better because it's safer.",
+            "note": "Pendapat + alasan."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The city is very crowd.",
+            "right": "The city is very crowded.",
+            "why": "Adjective-nya crowded; crowd adalah kata benda (kerumunan)."
+          },
+          {
+            "wrong": "In my opinion, I think the village is better.",
+            "right": "In my opinion, the village is better.",
+            "why": "In my opinion dan I think artinya sama; pakai salah satu saja."
+          },
+          {
+            "wrong": "This laptop is more light than that one.",
+            "right": "This laptop is lighter than that one.",
+            "why": "Light adalah adjective pendek, jadi pakai -er."
+          }
+        ],
+        "summary": "Gunakan adjective yang tepat untuk **tempat** (*crowded, peaceful, polluted*), **orang** (*generous, hard-working*), dan **produk** (*reliable, light*). Variasikan comparative, superlative, dan as ... as, lalu beri pendapat dengan *In my opinion* dan alasan dengan *because*.",
+        "reviewCards": [
+          {
+            "front": "padat, penuh sesak",
+            "back": "crowded"
+          },
+          {
+            "front": "andal, tidak mudah rusak",
+            "back": "reliable"
+          },
+          {
+            "front": "murah hati",
+            "back": "generous"
+          },
+          {
+            "front": "Menurut saya, ...",
+            "back": "In my opinion, ..."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a2-u04-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "adjectives for places",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the best word: There are too many people and cars in the city centre. It's very ___.",
+          "options": [
+            "crowded",
+            "peaceful",
+            "generous",
+            "reliable"
+          ],
+          "answer": 0,
+          "explanation": "Terlalu banyak orang dan mobil → crowded (padat).",
+          "misconception": "Memilih peaceful, padahal artinya tenang."
+        },
+        {
+          "id": "a2-u04-l5-q2",
+          "type": "speaking_response",
+          "category": "speaking",
+          "topic": "comparing places",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Compare your town with another town or city you know. Talk for 45–60 seconds. Use at least one comparative, one superlative, and one not as ... as sentence.",
+          "targetPhrases": [
+            "is bigger than",
+            "isn't as ... as",
+            "the most",
+            "In my opinion"
+          ],
+          "sampleAnswer": "I live in a small town near Malang. Malang is much bigger than my town, and it's more modern. There are more shops and cafés. But my town isn't as crowded as Malang, and the air is cleaner. The most beautiful place in my town is the rice field behind my house. In my opinion, my town is better for families because it's safer and more peaceful.",
+          "explanation": "Pakai comparative (bigger than), superlative (the most beautiful), not as ... as, lalu tutup dengan pendapat dan alasan."
+        },
+        {
+          "id": "a2-u04-l5-q3",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "adjective opposites",
+          "difficulty": 1,
+          "stage": "independent",
+          "prompt": "Match each adjective with its opposite.",
+          "pairs": [
+            {
+              "left": "peaceful",
+              "right": "noisy"
+            },
+            {
+              "left": "modern",
+              "right": "old-fashioned"
+            },
+            {
+              "left": "safe",
+              "right": "dangerous"
+            },
+            {
+              "left": "polluted",
+              "right": "clean"
+            },
+            {
+              "left": "hard-working",
+              "right": "lazy"
+            }
+          ],
+          "explanation": "Lawan kata: peaceful–noisy, modern–old-fashioned, safe–dangerous, polluted–clean, hard-working–lazy."
+        },
+        {
+          "id": "a2-u04-l5-q4",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "comparing products",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Read the information. Which sentence is true?",
+          "context": "**Nova 14** — price: Rp 6,000,000 — weight: 1.2 kg — battery: 10 hours\n\n**Orbit X** — price: Rp 8,000,000 — weight: 2 kg — battery: 6 hours",
+          "options": [
+            "The Orbit X is lighter than the Nova 14.",
+            "The Nova 14 is cheaper and lighter than the Orbit X.",
+            "The Orbit X's battery is as good as the Nova 14's battery.",
+            "The Nova 14 is more expensive than the Orbit X."
+          ],
+          "answer": 1,
+          "explanation": "Nova 14 lebih murah (6 juta < 8 juta) dan lebih ringan (1,2 kg < 2 kg). Baterainya juga lebih tahan lama, jadi pilihan lain salah."
+        },
+        {
+          "id": "a2-u04-l5-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "comparatives",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Complete with the comparative form of the adjectives in brackets.",
+          "text": "Sunny Bay is ___ (safe) and ___ (peaceful) than Riverton, but Riverton is ___ (modern).",
+          "answers": [
+            [
+              "safer"
+            ],
+            [
+              "more peaceful"
+            ],
+            [
+              "more modern"
+            ]
+          ],
+          "explanation": "Safe → safer (berakhiran e, tambah -r). Peaceful dan modern adalah adjective dua suku kata → more."
+        },
+        {
+          "id": "a2-u04-l5-q6",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "giving opinions",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the parts in the correct order.",
+          "fragments": [
+            "In my opinion,",
+            "Riverton is",
+            "the most interesting city",
+            "in the country",
+            "because it has great museums."
+          ],
+          "explanation": "Pendapat (In my opinion) + subjek + superlative + in + tempat + alasan dengan because."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a2-u04-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "superlatives",
+      "difficulty": 1,
+      "stage": "unit_test",
+      "prompt": "Choose the correct option: Today is ___ day of the year. It's 38 degrees!",
+      "options": [
+        "the hottest",
+        "the hotest",
+        "hotter",
+        "the most hot"
+      ],
+      "answer": 0,
+      "explanation": "Hot → gandakan t → the hottest. Membandingkan dengan semua hari dalam setahun → superlative."
+    },
+    {
+      "id": "a2-u04-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "comparatives",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct form of the adjectives in brackets.",
+      "text": "Trains are ___ (comfortable) than buses, but they aren't as ___ (cheap) as buses.",
+      "answers": [
+        [
+          "more comfortable"
+        ],
+        [
+          "cheap"
+        ]
+      ],
+      "explanation": "Comfortable → more comfortable (comparative). Di antara as ... as, adjective tetap bentuk dasar: as cheap as."
+    },
+    {
+      "id": "a2-u04-t-q3",
+      "type": "matching",
+      "category": "grammar",
+      "topic": "superlatives",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Match each adjective with its superlative form.",
+      "pairs": [
+        {
+          "left": "good",
+          "right": "the best"
+        },
+        {
+          "left": "bad",
+          "right": "the worst"
+        },
+        {
+          "left": "busy",
+          "right": "the busiest"
+        },
+        {
+          "left": "famous",
+          "right": "the most famous"
+        }
+      ],
+      "explanation": "good → the best, bad → the worst (tidak beraturan), busy → the busiest (y → -iest), famous → the most famous (adjective panjang)."
+    },
+    {
+      "id": "a2-u04-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "comparatives",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Find the mistake in the sentence.",
+      "segments": [
+        "My new phone",
+        "is",
+        "more better",
+        "than my old one."
+      ],
+      "errorIndex": 2,
+      "correction": "better",
+      "explanation": "Better sudah berarti lebih baik. Jangan tambahkan more."
+    },
+    {
+      "id": "a2-u04-t-q5",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "superlatives",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it has the same meaning.",
+      "sentence": "No other student in the class is as tall as Bima.",
+      "cue": "Begin with: Bima is the ...",
+      "answers": [
+        "Bima is the tallest student in the class.",
+        "Bima is the tallest student in his class.",
+        "Bima is the tallest in the class."
+      ],
+      "explanation": "Tidak ada murid lain setinggi Bima → Bima adalah murid paling tinggi: the tallest student in the class."
+    },
+    {
+      "id": "a2-u04-t-q6",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "adjectives for products",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the best word: My old car broke down every week, but this new one never has problems. It's very ___.",
+      "options": [
+        "reliable",
+        "crowded",
+        "polluted",
+        "generous"
+      ],
+      "answer": 0,
+      "explanation": "Tidak pernah bermasalah → reliable (andal)."
+    },
+    {
+      "id": "a2-u04-t-q7",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "comparatives and superlatives",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the correct forms.",
+      "text": "The Grand Hotel was ___ hotel in the city, and the rooms were much ___ than ours.",
+      "choices": [
+        [
+          "the most expensive",
+          "more expensive",
+          "the expensivest"
+        ],
+        [
+          "bigger",
+          "the biggest",
+          "more big"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "Di antara semua hotel di kota → superlative: the most expensive. Membandingkan dua kamar (mereka vs kami) + than → comparative: bigger."
+    }
+  ]
+}

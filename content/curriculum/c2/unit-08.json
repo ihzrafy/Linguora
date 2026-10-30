@@ -1,0 +1,1340 @@
+{
+  "slug": "c2-u08-figurative",
+  "number": 8,
+  "title": "Figurative Language",
+  "description": "Interpret and use figurative language: the conceptual metaphors behind everyday English, abstract phrasal verbs, proverbs, cultural allusions and the literary devices writers use to create images and effects.",
+  "objectives": [
+    "Recognise conceptual metaphors (argument is war, time is money, ideas are food) in everyday language",
+    "Use idiomatic phrasal verbs with abstract meanings accurately",
+    "Understand proverbs, including truncated forms used in conversation",
+    "Interpret common classical and cultural allusions",
+    "Analyse personification, hyperbole, oxymoron and extended metaphor in literary texts"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u08-l1-metaphor-simile",
+      "title": "Shooting Down Arguments: Metaphor and Simile in Everyday English",
+      "summary": "Notice the conceptual metaphors and fixed similes that shape everyday English.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Identify conceptual metaphors behind ordinary expressions",
+        "Use fixed similes with as ... as and like accurately",
+        "Avoid mixed metaphors in formal writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Metaphor is everywhere\nMany learners think of metaphor as decoration used by poets. In fact, ordinary English is full of **conceptual metaphors**: whole systems of expressions that describe one area of experience in terms of another. We rarely notice them because they are so familiar.\n\n| Conceptual metaphor | Everyday expressions |\n|---|---|\n| ARGUMENT IS WAR | attack a position, defend a claim, shoot down an idea, demolish an argument, win/lose a debate |\n| TIME IS MONEY | spend/save/waste time, invest time in, run out of time, can't afford to lose time, borrowed time |\n| IDEAS ARE FOOD | half-baked idea, food for thought, digest information, swallow a story, chew something over, a raw fact |\n| MORE IS UP / LESS IS DOWN | prices soared, sales plummeted, spirits rose, the market sank |\n| LIFE IS A JOURNEY | at a crossroads, go off the rails, a dead end, take a different path |\n| UNDERSTANDING IS SEEING | I see what you mean, a clear explanation, shed light on, a murky argument |\n\nRecognising these systems helps you guess the meaning of new expressions and choose verbs that fit together. If an argument is a building, it can be *constructed*, *supported* and *demolished*; if it is war, it can be *attacked* and *defended*.\n\n### Similes\nA **simile** makes the comparison explicit with *like* or *as ... as*. English has many fixed similes, which must be learned as units:\n- *as cool as a cucumber* (calm under pressure), *as light as a feather*, *as old as the hills*, *as good as gold* (well-behaved children);\n- *sleep like a log*, *spread like wildfire*, *drink like a fish*, *stick out like a sore thumb*.\n\nSome fixed similes are **ironic**: *as clear as mud* means *very unclear*. Creative similes, by contrast, are fresh comparisons made by the writer: *The lake lay as smooth as a sheet of glass.*\n\n### Metaphor vs simile\n*Her voice is music* (metaphor: identity) is usually stronger than *Her voice is like music* (simile: comparison). Writers choose a simile when the comparison needs to be flagged or explained; a metaphor when they want the reader to make the connection.\n\n### Avoid mixed metaphors\nA **mixed metaphor** combines images from incompatible sources, often with comic effect: *The company is a sinking ship that needs to take off.* (A ship sinks; a plane takes off.) In formal writing, keep one image consistent: *The company is a sinking ship that urgently needs to change course.*\n\n### Dead and living metaphors\nMetaphors such as *the leg of a table* or *a bottleneck* are so familiar that they are \"dead\": nobody pictures a leg or a bottle. Living metaphors still create an image. Both are useful, but avoid overusing clichés (*at the end of the day*, *a level playing field*) in academic writing.",
+        "examples": [
+          {
+            "en": "The professor shot down every argument I made in the seminar.",
+            "id": "Profesor itu mematahkan setiap argumen yang saya ajukan di seminar.",
+            "note": "ARGUMENT IS WAR."
+          },
+          {
+            "en": "We can't afford to waste any more time on this proposal.",
+            "id": "Kita tidak boleh membuang-buang waktu lagi untuk usulan ini.",
+            "note": "TIME IS MONEY: afford, waste."
+          },
+          {
+            "en": "Your lecture has given me plenty of food for thought.",
+            "id": "Kuliah Anda memberi saya banyak bahan untuk direnungkan.",
+            "note": "IDEAS ARE FOOD."
+          },
+          {
+            "en": "Despite the chaos around her, the pilot remained as cool as a cucumber.",
+            "id": "Meskipun keadaan di sekitarnya kacau, pilot itu tetap sangat tenang.",
+            "note": "Fixed simile meaning very calm."
+          },
+          {
+            "en": "News of the closure spread like wildfire through the village.",
+            "id": "Kabar penutupan itu menyebar dengan sangat cepat ke seluruh desa.",
+            "note": "Simile with like."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "half-baked",
+            "pos": "adjective",
+            "ipa": "/ˌhɑːf ˈbeɪkt/",
+            "meaning": "setengah matang, belum dipikirkan dengan matang",
+            "example": "The council's half-baked scheme was abandoned within a month."
+          },
+          {
+            "word": "plummet",
+            "pos": "verb",
+            "ipa": "/ˈplʌmɪt/",
+            "meaning": "anjlok, turun drastis",
+            "example": "Ticket sales plummeted after the bad reviews."
+          },
+          {
+            "word": "shed light on",
+            "pos": "phrase",
+            "ipa": "/ʃed ˈlaɪt ɒn/",
+            "meaning": "menjelaskan, memberi pencerahan tentang",
+            "example": "The letters shed new light on the writer's early life."
+          },
+          {
+            "word": "crossroads",
+            "pos": "noun",
+            "ipa": "/ˈkrɒsrəʊdz/",
+            "meaning": "persimpangan; titik penentuan",
+            "example": "The organisation is at a crossroads."
+          },
+          {
+            "word": "mixed metaphor",
+            "pos": "noun phrase",
+            "ipa": "/ˌmɪkst ˈmetəfə/",
+            "meaning": "metafora campur aduk (menggabungkan citra yang tidak serasi)",
+            "example": "'We'll iron out the bottlenecks' is a mixed metaphor."
+          },
+          {
+            "word": "simile",
+            "pos": "noun",
+            "ipa": "/ˈsɪməli/",
+            "meaning": "simile, perumpamaan (dengan like/as)",
+            "example": "'As light as a feather' is a common simile."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "as + adjective + as + noun (fixed simile)",
+            "example": "The instructions were as clear as mud.",
+            "note": "Some fixed similes are ironic."
+          },
+          {
+            "pattern": "verb + like + noun (simile)",
+            "example": "She slept like a log after the journey.",
+            "note": "Like is a preposition here, followed by a noun phrase."
+          },
+          {
+            "pattern": "noun + be + noun (metaphor)",
+            "example": "This office is a zoo on Monday mornings.",
+            "note": "Identity rather than comparison makes the image stronger."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The company is a sinking ship that needs to take off.",
+            "right": "The company is a sinking ship that urgently needs to change course.",
+            "why": "Ships do not take off; keep the nautical image consistent to avoid a mixed metaphor."
+          },
+          {
+            "wrong": "After the hike I slept like a wood.",
+            "right": "After the hike I slept like a log.",
+            "why": "Fixed similes cannot be altered: the expression is sleep like a log."
+          },
+          {
+            "wrong": "The rumour spread as wildfire.",
+            "right": "The rumour spread like wildfire.",
+            "why": "With a verb + noun simile, use like; as ... as needs an adjective."
+          }
+        ],
+        "summary": "Everyday English is structured by conceptual metaphors such as argument is war, time is money and ideas are food. Fixed similes (as cool as a cucumber, spread like wildfire) must be learned as units, and some are ironic (as clear as mud). Keep metaphors consistent to avoid comic mixed metaphors.",
+        "reviewCards": [
+          {
+            "front": "ARGUMENT IS WAR",
+            "back": "attack, defend, shoot down, demolish an argument"
+          },
+          {
+            "front": "as clear as mud",
+            "back": "ironic simile: very unclear"
+          },
+          {
+            "front": "food for thought",
+            "back": "something that makes you think seriously (IDEAS ARE FOOD)"
+          },
+          {
+            "front": "mixed metaphor",
+            "back": "a combination of incompatible images, e.g. a sinking ship that needs to take off"
+          },
+          {
+            "front": "spread like wildfire",
+            "back": "spread very quickly"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u08-l1-q1",
+          "type": "single_choice",
+          "category": "vocabulary",
+          "topic": "conceptual metaphor",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Which verb continues the ARGUMENT IS WAR metaphor? \"In the seminar, the professor ___ every point in my essay.\"",
+          "instructions": "Think of what an army might do to a building or a defensive position.",
+          "options": ["demolished", "digested", "spent", "watered"],
+          "answer": 0,
+          "explanation": "Demolished belongs to the war/destruction image (demolish an argument). Digested belongs to IDEAS ARE FOOD, spent to TIME IS MONEY, and watered to a plant image, so none of them continues the war metaphor."
+        },
+        {
+          "id": "c2-u08-l1-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "conceptual metaphor",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each sentence with the conceptual metaphor it reflects.",
+          "pairs": [
+            { "left": "That's a half-baked idea.", "right": "IDEAS ARE FOOD" },
+            { "left": "Don't waste my time.", "right": "TIME IS MONEY" },
+            { "left": "She shot down every objection.", "right": "ARGUMENT IS WAR" },
+            { "left": "Prices soared last year.", "right": "MORE IS UP" },
+            { "left": "Our relationship is at a crossroads.", "right": "LIFE IS A JOURNEY" }
+          ],
+          "explanation": "Half-baked treats an idea as food that has not been cooked; waste treats time as money; shoot down treats an objection as an enemy; soar maps increase onto upward movement; and a crossroads is a decision point on a journey."
+        },
+        {
+          "id": "c2-u08-l1-q3",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "similes",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the fixed simile with one word.",
+          "text": "News of the minister's resignation spread like ___ through the capital.",
+          "answers": [["wildfire"]],
+          "explanation": "Spread like wildfire is the fixed simile for news or rumours that spread very quickly."
+        },
+        {
+          "id": "c2-u08-l1-q4",
+          "type": "drag_drop",
+          "category": "vocabulary",
+          "topic": "similes",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the fixed similes. Read the context carefully.",
+          "text": "The instructions were as clear as ___, so nobody knew what to do. Meanwhile, Mia stayed as cool as a ___ and calmly sorted out the problem.",
+          "bank": ["mud", "crystal", "cucumber", "feather", "log"],
+          "answers": ["mud", "cucumber"],
+          "explanation": "As clear as mud is ironic and means very unclear, which explains why nobody knew what to do; as clear as crystal would contradict the result. As cool as a cucumber means very calm under pressure."
+        },
+        {
+          "id": "c2-u08-l1-q5",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "mixed metaphor",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence contains a mixed metaphor?",
+          "options": [
+            "The company is a sinking ship that needs to take off before it is too late.",
+            "The company is a sinking ship.",
+            "Time is running out for the company.",
+            "The company's profits have plummeted."
+          ],
+          "answer": 0,
+          "explanation": "The first sentence combines a ship (which sinks) with a plane (which takes off), producing a mixed metaphor. The other sentences each use one consistent image."
+        },
+        {
+          "id": "c2-u08-l1-q6",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "conceptual metaphor",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English using a food metaphor.",
+          "source": "Idenya masih setengah matang.",
+          "direction": "id-en",
+          "answers": [
+            "The idea is still half-baked.",
+            "The idea is still half baked.",
+            "His idea is still half-baked.",
+            "Her idea is still half-baked.",
+            "Their idea is still half-baked.",
+            "That idea is still half-baked.",
+            "It's still a half-baked idea.",
+            "It is still a half-baked idea.",
+            "The idea is half-baked.",
+            "The idea is still rather half-baked."
+          ],
+          "explanation": "Setengah matang corresponds neatly to the English food metaphor half-baked: an idea that has not been properly thought through."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u08-l2-abstract-phrasal-verbs",
+      "title": "Glossing Over and Ironing Out: Abstract Phrasal Verbs",
+      "summary": "Use idiomatic phrasal verbs whose meanings are figurative rather than literal.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Understand the figurative meanings of phrasal verbs such as gloss over, play down and hinge on",
+        "Use dependent prepositions and objects correctly with these verbs",
+        "Choose between a phrasal verb and a formal single-word equivalent"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### From literal to abstract\nMany phrasal verbs began with a physical meaning and developed an abstract, figurative one. To *iron out* creases is literal; to *iron out* problems means to resolve small difficulties. To *stem from* is linked to a plant growing from its stem; abstractly, it means *to be caused by*. Knowing the original image often helps you remember the abstract meaning.\n\n### Key abstract phrasal verbs\n| Phrasal verb | Meaning | Example |\n|---|---|---|\n| gloss over | deal with something too briefly to avoid discussing problems | The report glosses over the cost overruns. |\n| play down | make something seem less important | The minister played down the risks. |\n| play up | emphasise; exaggerate | The press played up the scandal. |\n| bring about | cause (a change) | The reforms brought about lasting change. |\n| stem from | be caused by | Her anxiety stems from a lack of sleep. |\n| fall through | fail to happen | The deal fell through at the last minute. |\n| iron out | resolve (small problems) | We need to iron out a few details. |\n| hinge on | depend entirely on | Everything hinges on the vote. |\n| live up to | be as good as expected | The sequel failed to live up to the original. |\n| come across as | give an impression of being | He comes across as arrogant, but he is shy. |\n| write off | regard as a failure or loss | Critics wrote her off too early. |\n| pan out | develop or turn out | Let's see how things pan out. |\n\n### Grammar notes\n- **Transitive and separable**: *play down the risks / play the risks down / play them down* (pronouns go in the middle).\n- **Inseparable with prepositions**: *gloss over it*, *hinge on it*, *stem from it* (never *gloss it over*).\n- **Three-part verbs** are inseparable: *live up to expectations*, *come up with a solution*.\n- **Intransitive**: *fall through*, *pan out* take no object and cannot be passive.\n- *Stem from* and *hinge on* are not used in progressive forms: *The problem stems from ...* (not *is stemming from*).\n\n### Register\nAbstract phrasal verbs are common in journalism, business and educated speech. In very formal academic writing, a single-word Latinate verb is sometimes preferred: *bring about → cause / effect*, *play down → minimise*, *stem from → derive from / result from*, *hinge on → depend on*. Both are correct; the choice depends on register (see Unit 5).\n\n### Opposites and pairs\nSome verbs form useful pairs: *play up* vs *play down*; *write off* (regard as a failure) vs *bounce back* (recover). Learning them together sharpens contrast in your writing: *The government played down the deficit while the opposition played it up.*",
+        "examples": [
+          {
+            "en": "The annual report glosses over the company's environmental record.",
+            "id": "Laporan tahunan itu hanya sekilas membahas rekam jejak lingkungan perusahaan.",
+            "note": "Gloss over = avoid discussing in detail."
+          },
+          {
+            "en": "Officials played down fears of a second outbreak.",
+            "id": "Para pejabat mengecilkan kekhawatiran akan wabah kedua.",
+            "note": "Play down = minimise."
+          },
+          {
+            "en": "Much of the tension stems from a misunderstanding about the budget.",
+            "id": "Sebagian besar ketegangan itu berasal dari kesalahpahaman tentang anggaran.",
+            "note": "Stem from = be caused by."
+          },
+          {
+            "en": "The merger fell through when the banks withdrew their support.",
+            "id": "Merger itu batal ketika bank-bank menarik dukungan mereka.",
+            "note": "Fall through = fail to happen."
+          },
+          {
+            "en": "The new café has not lived up to the hype.",
+            "id": "Kafe baru itu tidak sesuai dengan gembar-gembornya.",
+            "note": "Live up to = meet expectations."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "gloss over",
+            "pos": "phrasal verb",
+            "ipa": "/ˌɡlɒs ˈəʊvə/",
+            "meaning": "menutupi/membahas sekilas agar masalah tidak terlihat",
+            "example": "The speech glossed over the government's failures."
+          },
+          {
+            "word": "hinge on",
+            "pos": "phrasal verb",
+            "ipa": "/ˈhɪndʒ ɒn/",
+            "meaning": "bergantung sepenuhnya pada",
+            "example": "The outcome of the trial hinges on one witness."
+          },
+          {
+            "word": "iron out",
+            "pos": "phrasal verb",
+            "ipa": "/ˌaɪən ˈaʊt/",
+            "meaning": "menyelesaikan (masalah kecil)",
+            "example": "We still need to iron out a few technical issues."
+          },
+          {
+            "word": "write off",
+            "pos": "phrasal verb",
+            "ipa": "/ˌraɪt ˈɒf/",
+            "meaning": "menganggap gagal/tidak berharga; menghapus (utang)",
+            "example": "Many critics wrote the young director off after her first film."
+          },
+          {
+            "word": "pan out",
+            "pos": "phrasal verb",
+            "ipa": "/ˌpæn ˈaʊt/",
+            "meaning": "berkembang, berakhir (dengan hasil tertentu)",
+            "example": "If the plan doesn't pan out, we have a backup."
+          },
+          {
+            "word": "come across as",
+            "pos": "phrasal verb",
+            "ipa": "/ˌkʌm əˈkrɒs əz/",
+            "meaning": "memberi kesan sebagai",
+            "example": "She comes across as confident in interviews."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "separable: play down + noun / play + pronoun + down",
+            "example": "They played the risks down. / They played them down.",
+            "note": "Object pronouns must go between verb and particle."
+          },
+          {
+            "pattern": "inseparable: verb + preposition + object",
+            "example": "The report glosses over it.",
+            "note": "Gloss over, hinge on, stem from cannot be split."
+          },
+          {
+            "pattern": "three-part: verb + particle + preposition + object",
+            "example": "The film failed to live up to our expectations.",
+            "note": "Always kept together."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The report glosses the problem over.",
+            "right": "The report glosses over the problem.",
+            "why": "Gloss over is inseparable; the object follows over."
+          },
+          {
+            "wrong": "The conflict is stemming from historical grievances.",
+            "right": "The conflict stems from historical grievances.",
+            "why": "Stem from describes a state (cause) and is not normally used in the progressive."
+          },
+          {
+            "wrong": "The deal was fallen through.",
+            "right": "The deal fell through.",
+            "why": "Fall through is intransitive and cannot be made passive."
+          },
+          {
+            "wrong": "The sequel didn't live up the original.",
+            "right": "The sequel didn't live up to the original.",
+            "why": "Live up to is a three-part verb; the preposition to cannot be omitted."
+          }
+        ],
+        "summary": "Many phrasal verbs have abstract, figurative meanings: gloss over, play down/up, bring about, stem from, fall through, iron out, hinge on, live up to, come across as, write off and pan out. Learn whether each is separable, inseparable or intransitive, and consider a single-word Latinate equivalent in very formal writing.",
+        "reviewCards": [
+          {
+            "front": "gloss over",
+            "back": "treat too briefly to avoid revealing problems"
+          },
+          {
+            "front": "play down vs play up",
+            "back": "make seem less important vs exaggerate or emphasise"
+          },
+          {
+            "front": "hinge on",
+            "back": "depend entirely on"
+          },
+          {
+            "front": "fall through",
+            "back": "fail to happen (intransitive, no passive)"
+          },
+          {
+            "front": "stem from (formal equivalent)",
+            "back": "result from / derive from"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u08-l2-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "abstract phrasal verbs",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "\"Months of negotiation were wasted when the deal fell through at the last minute.\" What does 'fell through' mean?",
+          "instructions": "The first part of the sentence says the negotiations were 'wasted'. What happened to the deal?",
+          "options": [
+            "failed to happen",
+            "was completed successfully",
+            "was physically dropped",
+            "was secretly renewed"
+          ],
+          "answer": 0,
+          "explanation": "Fall through means fail to happen, which is why the months of negotiation were wasted. A successful or renewed deal would not waste the negotiation, and the literal meaning of dropping something does not apply."
+        },
+        {
+          "id": "c2-u08-l2-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "abstract phrasal verbs",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each phrasal verb with its meaning.",
+          "pairs": [
+            { "left": "gloss over", "right": "treat a problem too briefly to avoid discussing it" },
+            { "left": "play down", "right": "make something seem less important than it is" },
+            { "left": "stem from", "right": "be caused by" },
+            { "left": "iron out", "right": "resolve minor difficulties" },
+            { "left": "hinge on", "right": "depend entirely on" }
+          ],
+          "explanation": "These verbs all have abstract meanings derived from physical images: polishing a surface (gloss), lowering volume (play down), a plant's stem (stem from), pressing creases (iron out) and a door's hinge (hinge on)."
+        },
+        {
+          "id": "c2-u08-l2-q3",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "abstract phrasal verbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the correct verb for each gap.",
+          "text": "The success of the project ___ on securing funding, and any remaining technical problems should be ___ out before the launch.",
+          "choices": [
+            ["hinges", "stems", "lives"],
+            ["ironed", "glossed", "written"]
+          ],
+          "answers": [0, 0],
+          "explanation": "Hinges on means depends entirely on. Problems are ironed out (resolved). Stems would need from, lives would need up to, glossed is used with over, and written out does not mean resolved."
+        },
+        {
+          "id": "c2-u08-l2-q4",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "abstract phrasal verbs",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the three-part phrasal verb with one word.",
+          "text": "Sadly, the film failed to live ___ to the hype surrounding its release.",
+          "answers": [["up"]],
+          "explanation": "Live up to means be as good as expected. All three parts are needed: live up to the hype."
+        },
+        {
+          "id": "c2-u08-l2-q5",
+          "type": "sentence_transformation",
+          "category": "vocabulary",
+          "topic": "abstract phrasal verbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence using the phrasal verb in the cue.",
+          "sentence": "The company's problems are caused by poor management.",
+          "cue": "Use: stem from",
+          "answers": [
+            "The company's problems stem from poor management.",
+            "The problems of the company stem from poor management.",
+            "The company's problems stem from bad management.",
+            "The company's problems all stem from poor management.",
+            "The company's problems stemmed from poor management."
+          ],
+          "explanation": "Stem from (be caused by) takes the cause as its object and is used in simple, not progressive, forms: The company's problems stem from poor management."
+        },
+        {
+          "id": "c2-u08-l2-q6",
+          "type": "error_identification",
+          "category": "vocabulary",
+          "topic": "abstract phrasal verbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment that contradicts the rest of the sentence.",
+          "segments": [
+            "In his speech, the minister",
+            "played up",
+            "the seriousness of the crisis,",
+            "insisting there was nothing to worry about."
+          ],
+          "errorIndex": 1,
+          "correction": "played down",
+          "explanation": "A minister who insists there is nothing to worry about is minimising the crisis, so the verb must be played down. Played up means exaggerated or emphasised, which contradicts the participle clause."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u08-l3-proverbs",
+      "title": "Every Cloud...: Proverbs and How They Are Used",
+      "summary": "Understand common English proverbs, including the shortened forms used in conversation.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Understand the meaning and use of common English proverbs",
+        "Recognise truncated proverbs in conversation",
+        "Find English equivalents for familiar Indonesian sayings"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What proverbs do\nA **proverb** is a short, traditional saying that expresses a general truth or piece of advice: *Don't put all your eggs in one basket.* Speakers use proverbs to comment on a situation, give advice indirectly or sum up an experience. Because proverbs are shared knowledge, they carry the authority of common wisdom, and they can soften criticism by making it sound general rather than personal.\n\n### Common proverbs and their meanings\n| Proverb | Meaning |\n|---|---|\n| Every cloud has a silver lining. | Every bad situation has some positive aspect. |\n| Don't count your chickens before they hatch. | Don't rely on a good result before it happens. |\n| The proof of the pudding is in the eating. | You can only judge something by trying it. |\n| When in Rome, do as the Romans do. | Follow local customs when you are somewhere new. |\n| People who live in glass houses shouldn't throw stones. | Don't criticise others for faults you also have. |\n| Too many cooks spoil the broth. | Too many people involved can ruin a task. |\n| Don't put all your eggs in one basket. | Don't risk everything on a single plan. |\n| It's no use crying over spilt milk. | Don't waste time regretting what cannot be changed. |\n| The grass is always greener on the other side. | Other people's situations always seem better. |\n| Actions speak louder than words. | What people do matters more than what they say. |\n\n### Truncated proverbs\nNative speakers often say only the **first half** of a well-known proverb, trusting the listener to complete it: *Well, every cloud...*, *When in Rome...*, *Glass houses, Raka!* Understanding these fragments is a mark of C2 listening ability. The fragment usually carries a slightly humorous or knowing tone.\n\n### Using proverbs appropriately\n- Proverbs are common in **conversation**, **journalism** and **speeches**, and less common in academic writing, where they may sound clichéd.\n- Writers often **adapt** proverbs for effect: *In this case, the proof of the pudding will be in the exam results.* or *The grass is not always greener in the private sector.*\n- Do not translate Indonesian sayings word for word. Find the English equivalent: *Nasi sudah menjadi bubur* ≈ *It's no use crying over spilt milk* / *What's done is done.* *Air beriak tanda tak dalam* ≈ *Empty vessels make the most noise.*\n\n### Grammar in proverbs\nProverbs often use archaic or compressed grammar: generic *he who* (*He who hesitates is lost*), omitted verbs (*Easy come, easy go*), imperatives (*Look before you leap*) and present simple for timeless truth. Keep the wording fixed: *Every cloud has a silver lining* (not *a golden lining*).",
+        "examples": [
+          {
+            "en": "\"I missed the train, but I met an old friend on the platform.\" \"Well, every cloud...\"",
+            "id": "\"Aku ketinggalan kereta, tapi aku bertemu teman lama di peron.\" \"Yah, selalu ada hikmahnya...\"",
+            "note": "Truncated: every cloud has a silver lining."
+          },
+          {
+            "en": "Don't count your chickens before they hatch — the contract isn't signed yet.",
+            "id": "Jangan terlalu cepat merasa yakin — kontraknya belum ditandatangani.",
+            "note": "Advice not to assume success."
+          },
+          {
+            "en": "The new system sounds impressive, but the proof of the pudding is in the eating.",
+            "id": "Sistem baru itu terdengar mengesankan, tetapi baru bisa dinilai setelah dicoba.",
+            "note": "Judge by results."
+          },
+          {
+            "en": "He criticises others for being late? People who live in glass houses...",
+            "id": "Dia mengkritik orang lain karena terlambat? Padahal dia sendiri begitu...",
+            "note": "Truncated proverb about hypocrisy."
+          },
+          {
+            "en": "The grass is not always greener in a bigger city, as Lina discovered.",
+            "id": "Kehidupan di kota yang lebih besar tidak selalu lebih baik, seperti yang Lina temukan.",
+            "note": "Adapted proverb."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "proverb",
+            "pos": "noun",
+            "ipa": "/ˈprɒvɜːb/",
+            "meaning": "peribahasa",
+            "example": "As the proverb says, actions speak louder than words."
+          },
+          {
+            "word": "silver lining",
+            "pos": "noun phrase",
+            "ipa": "/ˌsɪlvə ˈlaɪnɪŋ/",
+            "meaning": "hikmah, sisi baik dari keadaan buruk",
+            "example": "The silver lining of the delay was extra time to prepare."
+          },
+          {
+            "word": "hatch",
+            "pos": "verb",
+            "ipa": "/hætʃ/",
+            "meaning": "menetas",
+            "example": "The eggs will hatch in about three weeks."
+          },
+          {
+            "word": "broth",
+            "pos": "noun",
+            "ipa": "/brɒθ/",
+            "meaning": "kaldu, sup encer",
+            "example": "Too many cooks spoil the broth."
+          },
+          {
+            "word": "clichéd",
+            "pos": "adjective",
+            "ipa": "/ˈkliːʃeɪd/",
+            "meaning": "klise, basi karena terlalu sering dipakai",
+            "example": "The essay's conclusion felt clichéd."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "As the saying goes, + proverb",
+            "example": "As the saying goes, too many cooks spoil the broth.",
+            "note": "A common way to introduce a proverb."
+          },
+          {
+            "pattern": "truncated proverb + ...",
+            "example": "Well, when in Rome...",
+            "note": "The listener supplies the rest."
+          },
+          {
+            "pattern": "adapted proverb (negated or modified)",
+            "example": "The grass isn't always greener on the other side.",
+            "note": "Writers adapt proverbs for a fresh effect."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Every cloud has a golden lining.",
+            "right": "Every cloud has a silver lining.",
+            "why": "Proverbs have fixed wording; changing a key word makes them sound wrong."
+          },
+          {
+            "wrong": "Don't count your eggs before they hatch.",
+            "right": "Don't count your chickens before they hatch.",
+            "why": "The fixed form refers to chickens; mixing it with 'eggs in one basket' creates an error."
+          },
+          {
+            "wrong": "The rice has become porridge, so let's move on.",
+            "right": "It's no use crying over spilt milk, so let's move on.",
+            "why": "Translating 'nasi sudah menjadi bubur' word for word means nothing to English speakers; use the English equivalent."
+          }
+        ],
+        "summary": "Proverbs express shared wisdom and are often used to comment, advise or soften criticism. In conversation, speakers frequently say only the first half (Every cloud..., When in Rome...). Keep the wording fixed, adapt proverbs only deliberately, and use English equivalents rather than literal translations of Indonesian sayings.",
+        "reviewCards": [
+          {
+            "front": "Every cloud...",
+            "back": "...has a silver lining: bad situations have a positive side."
+          },
+          {
+            "front": "Glass houses...",
+            "back": "People who live in glass houses shouldn't throw stones: don't criticise faults you share."
+          },
+          {
+            "front": "The proof of the pudding...",
+            "back": "...is in the eating: judge by trying it."
+          },
+          {
+            "front": "Nasi sudah menjadi bubur (English equivalent)",
+            "back": "It's no use crying over spilt milk / What's done is done."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u08-l3-q1",
+          "type": "single_choice",
+          "category": "conversation",
+          "topic": "proverbs",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "After Raka loses his job, his friend says: \"Well, every cloud...\" What does she mean?",
+          "instructions": "The friend is using only the first half of a proverb. How does the full proverb end?",
+          "options": [
+            "Every bad situation has some positive aspect.",
+            "Bad weather is coming.",
+            "Problems always get worse over time.",
+            "He should have expected to lose his job."
+          ],
+          "answer": 0,
+          "explanation": "The full proverb is 'Every cloud has a silver lining': something good can come from a bad situation. The friend is trying to comfort Raka, not talking about weather or blaming him."
+        },
+        {
+          "id": "c2-u08-l3-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "proverbs",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match the beginning of each proverb with its ending.",
+          "pairs": [
+            { "left": "When in Rome,", "right": "do as the Romans do." },
+            { "left": "Don't count your chickens", "right": "before they hatch." },
+            { "left": "The proof of the pudding", "right": "is in the eating." },
+            { "left": "People who live in glass houses", "right": "shouldn't throw stones." },
+            { "left": "Too many cooks", "right": "spoil the broth." }
+          ],
+          "explanation": "These proverbs are often truncated in conversation, so recognising the first half and knowing the ending is essential for understanding the speaker's point."
+        },
+        {
+          "id": "c2-u08-l3-q3",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "proverbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the most appropriate response.",
+          "dialogue": [
+            { "speaker": "Dimas", "text": "I've already told everyone I'm getting the promotion. The interview on Friday is just a formality." },
+            { "speaker": "Sari", "text": null }
+          ],
+          "options": [
+            "Don't count your chickens before they hatch.",
+            "Too many cooks spoil the broth.",
+            "When in Rome, do as the Romans do.",
+            "Every cloud has a silver lining."
+          ],
+          "answer": 0,
+          "explanation": "Dimas is assuming a result before it happens, so 'Don't count your chickens before they hatch' is the fitting warning. The other proverbs concern too many helpers, local customs and finding good in bad situations, none of which applies."
+        },
+        {
+          "id": "c2-u08-l3-q4",
+          "type": "fill_blank",
+          "category": "vocabulary",
+          "topic": "proverbs",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete the proverb with one word.",
+          "text": "Apply to several universities, not just one. Don't put all your ___ in one basket.",
+          "answers": [["eggs"]],
+          "explanation": "'Don't put all your eggs in one basket' advises against risking everything on a single option."
+        },
+        {
+          "id": "c2-u08-l3-q5",
+          "type": "single_choice",
+          "category": "conversation",
+          "topic": "proverbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Ronan constantly criticises his colleagues for being late, but he is never on time himself. Which proverb best describes the situation?",
+          "options": [
+            "People who live in glass houses shouldn't throw stones.",
+            "Absence makes the heart grow fonder.",
+            "The early bird catches the worm.",
+            "Many hands make light work."
+          ],
+          "answer": 0,
+          "explanation": "The glass houses proverb warns against criticising others for a fault you share, which describes Ronan exactly. The other proverbs concern missing someone, the advantage of acting early and the benefit of cooperation."
+        },
+        {
+          "id": "c2-u08-l3-q6",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "proverbs",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Give the English proverb or fixed expression that is equivalent to this Indonesian saying (do not translate word for word).",
+          "source": "Nasi sudah menjadi bubur.",
+          "direction": "id-en",
+          "answers": [
+            "It's no use crying over spilt milk.",
+            "It is no use crying over spilt milk.",
+            "It's no use crying over spilled milk.",
+            "It is no use crying over spilled milk.",
+            "There's no use crying over spilt milk.",
+            "There is no use crying over spilt milk.",
+            "There's no use crying over spilled milk.",
+            "No use crying over spilt milk.",
+            "No use crying over spilled milk.",
+            "Don't cry over spilt milk.",
+            "Don't cry over spilled milk.",
+            "What's done is done.",
+            "What is done is done.",
+            "What's done cannot be undone.",
+            "What's done can't be undone.",
+            "What is done cannot be undone."
+          ],
+          "explanation": "The Indonesian saying means that something has already happened and cannot be reversed. The English equivalents are 'It's no use crying over spilt milk' and 'What's done is done'. A literal translation (The rice has become porridge) would not be understood."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u08-l4-allusions",
+      "title": "Achilles' Heel and Pandora's Box: Allusions",
+      "summary": "Interpret common allusions to myth, literature and history and use them precisely.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Understand common allusions such as Achilles' heel, Pandora's box and a Pyrrhic victory",
+        "Infer the meaning of an allusion from its context",
+        "Use allusions accurately in writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### What is an allusion?\nAn **allusion** is a brief, indirect reference to a well-known story, person, event or text. The writer expects the reader to recognise the source and transfer its meaning to the present situation. A single phrase such as *a Pyrrhic victory* can replace a whole sentence of explanation: *a victory that cost so much that it was almost a defeat*.\n\n### Common allusions in English\n| Allusion | Source | Meaning today |\n|---|---|---|\n| Achilles' heel | Greek myth: the warrior's only vulnerable spot | a small but fatal weakness |\n| Pandora's box | Greek myth: a box that released all the world's evils | something that, once begun, causes many unforeseen problems |\n| a Herculean task | the twelve labours of Hercules | a task requiring enormous strength or effort |\n| a Pyrrhic victory | King Pyrrhus, whose wins destroyed his own army | a victory that costs the winner too much |\n| the Midas touch | King Midas, who turned everything to gold | the ability to make money from everything |\n| a Trojan horse | the wooden horse used to enter Troy | something harmless-looking that undermines from within |\n| an odyssey | Homer's epic of a long journey home | a long, eventful journey |\n| a Catch-22 | a 20th-century novel | a situation in which contradictory rules make success impossible |\n| Big Brother | a dystopian novel | intrusive state or corporate surveillance |\n| a Good Samaritan | a biblical parable | a stranger who helps someone in need |\n\n### Inferring from context\nWhen you meet an unfamiliar allusion, use context: *The new app's free trial is a Trojan horse: once you sign up, your data is shared with dozens of companies.* Even without knowing the myth, the colon and the explanation show that the trial is harmful despite seeming harmless.\n\n### Grammar and form\n- Possessive allusions keep the apostrophe: *Achilles' heel*, *Pandora's box*.\n- Adjectives from names are capitalised: *a Herculean effort*, *a Pyrrhic victory*, *an Orwellian system*.\n- Some allusions are used with *open*: *open Pandora's box*, *open the floodgates*.\n\n### Using allusions well\nAllusions add richness and economy, but they work only if your audience shares the reference. In international or intercultural contexts, choose widely known allusions or add a brief explanation. Avoid stacking several allusions in one sentence; one well-chosen reference is more powerful than three.",
+        "examples": [
+          {
+            "en": "Poor time management has always been her Achilles' heel.",
+            "id": "Manajemen waktu yang buruk selalu menjadi titik lemahnya.",
+            "note": "Achilles' heel = fatal weakness."
+          },
+          {
+            "en": "Relaxing the rules for one company could open Pandora's box.",
+            "id": "Melonggarkan aturan untuk satu perusahaan dapat memicu berbagai masalah yang tak terduga.",
+            "note": "Pandora's box = source of many unforeseen problems."
+          },
+          {
+            "en": "Cataloguing the entire archive in a month was a Herculean task.",
+            "id": "Membuat katalog seluruh arsip dalam sebulan adalah tugas yang sangat berat.",
+            "note": "Herculean = requiring huge effort."
+          },
+          {
+            "en": "The party won the election, but it was a Pyrrhic victory: it lost its majority in the senate.",
+            "id": "Partai itu memenangkan pemilu, tetapi kemenangan itu terlalu mahal harganya: partai itu kehilangan mayoritas di senat.",
+            "note": "Pyrrhic victory = costly win."
+          },
+          {
+            "en": "You need experience to get a job, but you need a job to get experience — it's a real Catch-22.",
+            "id": "Kamu butuh pengalaman untuk mendapat pekerjaan, tetapi butuh pekerjaan untuk mendapat pengalaman — benar-benar situasi serba salah.",
+            "note": "Catch-22 = contradictory trap."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "allusion",
+            "pos": "noun",
+            "ipa": "/əˈluːʒn/",
+            "meaning": "kiasan/rujukan tidak langsung pada tokoh, cerita, atau peristiwa terkenal",
+            "example": "The title contains an allusion to a Greek myth."
+          },
+          {
+            "word": "Herculean",
+            "pos": "adjective",
+            "ipa": "/ˌhɜːkjəˈliːən/",
+            "meaning": "sangat berat, memerlukan tenaga luar biasa",
+            "example": "Rebuilding the town was a Herculean effort."
+          },
+          {
+            "word": "Pyrrhic victory",
+            "pos": "noun phrase",
+            "ipa": "/ˌpɪrɪk ˈvɪktəri/",
+            "meaning": "kemenangan yang harganya terlalu mahal",
+            "example": "Winning the lawsuit proved a Pyrrhic victory."
+          },
+          {
+            "word": "Trojan horse",
+            "pos": "noun phrase",
+            "ipa": "/ˌtrəʊdʒən ˈhɔːs/",
+            "meaning": "kuda Troya; sesuatu yang tampak tak berbahaya tetapi merusak dari dalam",
+            "example": "Critics called the reform a Trojan horse for privatisation."
+          },
+          {
+            "word": "odyssey",
+            "pos": "noun",
+            "ipa": "/ˈɒdəsi/",
+            "meaning": "perjalanan panjang yang penuh peristiwa",
+            "example": "Getting home during the storm became a three-day odyssey."
+          },
+          {
+            "word": "Orwellian",
+            "pos": "adjective",
+            "ipa": "/ɔːˈweliən/",
+            "meaning": "bersifat totaliter, penuh pengawasan dan manipulasi",
+            "example": "Staff described the new monitoring policy as Orwellian."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "be + someone's + Achilles' heel",
+            "example": "Spelling is his Achilles' heel.",
+            "note": "Keep the apostrophe after Achilles."
+          },
+          {
+            "pattern": "open + Pandora's box",
+            "example": "The ruling could open Pandora's box.",
+            "note": "Usually without an article in this phrase."
+          },
+          {
+            "pattern": "a/an + capitalised adjective + noun",
+            "example": "a Herculean task, a Pyrrhic victory",
+            "note": "Adjectives from proper names are capitalised."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Winning the case cost so much that it was a Herculean victory.",
+            "right": "Winning the case cost so much that it was a Pyrrhic victory.",
+            "why": "A victory that costs the winner too much is Pyrrhic; Herculean describes a task requiring huge effort."
+          },
+          {
+            "wrong": "His Achilles' heel is his remarkable patience.",
+            "right": "His greatest strength is his remarkable patience.",
+            "why": "An Achilles' heel is a weakness, not a strength."
+          },
+          {
+            "wrong": "She has the Midas touch: every project she runs loses money.",
+            "right": "She has the Midas touch: every project she runs makes money.",
+            "why": "The Midas touch refers to making everything profitable."
+          }
+        ],
+        "summary": "Allusions are brief references to well-known myths, stories and texts that carry their meaning into a new context: Achilles' heel, Pandora's box, a Herculean task, a Pyrrhic victory, the Midas touch, a Trojan horse, Catch-22 and Big Brother. Use context to infer unfamiliar allusions and keep apostrophes and capitals correct.",
+        "reviewCards": [
+          {
+            "front": "Achilles' heel",
+            "back": "a small but fatal weakness"
+          },
+          {
+            "front": "a Pyrrhic victory",
+            "back": "a win that costs the winner too much"
+          },
+          {
+            "front": "open Pandora's box",
+            "back": "start something that causes many unforeseen problems"
+          },
+          {
+            "front": "a Catch-22",
+            "back": "a situation with contradictory rules that make success impossible"
+          },
+          {
+            "front": "a Trojan horse",
+            "back": "something harmless-looking that undermines from within"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u08-l4-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "allusions",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "An economist warns that the proposed tax exemption \"could open Pandora's box\". She means the exemption will probably:",
+          "instructions": "In the myth, opening Pandora's box released all kinds of evils into the world.",
+          "options": [
+            "unleash many unforeseen problems",
+            "be a pleasant surprise for taxpayers",
+            "be kept secret forever",
+            "make everyone rich"
+          ],
+          "answer": 0,
+          "explanation": "To open Pandora's box is to start something that releases many unexpected troubles. The economist is warning of negative consequences, not promising benefits or secrecy."
+        },
+        {
+          "id": "c2-u08-l4-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "allusions",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Match each allusion with its meaning.",
+          "pairs": [
+            { "left": "Achilles' heel", "right": "a small but fatal weakness" },
+            { "left": "a Herculean task", "right": "a job requiring enormous effort" },
+            { "left": "a Pyrrhic victory", "right": "a win that costs the winner so much it is hardly worth it" },
+            { "left": "the Midas touch", "right": "the ability to make money from everything" },
+            { "left": "a Trojan horse", "right": "something that seems harmless but undermines from within" }
+          ],
+          "explanation": "Each allusion draws on a classical story: Achilles' vulnerable heel, the labours of Hercules, King Pyrrhus's costly wins, King Midas's golden touch and the wooden horse used to enter Troy."
+        },
+        {
+          "id": "c2-u08-l4-q3",
+          "type": "dropdown",
+          "category": "vocabulary",
+          "topic": "allusions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Choose the allusion that fits each sentence.",
+          "text": "Being told you need experience to get a job, but need a job to get experience, is a classic ___. With only three volunteers and two days left, clearing the flooded library was a truly ___ task.",
+          "choices": [
+            ["Catch-22", "Midas touch", "Achilles' heel"],
+            ["Herculean", "Pyrrhic", "Trojan"]
+          ],
+          "answers": [0, 0],
+          "explanation": "A situation where contradictory conditions block success is a Catch-22. A task requiring enormous effort is Herculean. Pyrrhic describes a costly victory, and Trojan suggests deception, so neither fits."
+        },
+        {
+          "id": "c2-u08-l4-q4",
+          "type": "contextual_vocabulary",
+          "category": "reading",
+          "topic": "allusions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "\"Employees protested that the new software, which records every keystroke and webcam image, was a 'Big Brother' system.\" What does 'Big Brother' imply?",
+          "options": [
+            "It enables intrusive surveillance.",
+            "It is run by a family business.",
+            "It protects younger employees.",
+            "It is extremely large and expensive."
+          ],
+          "answer": 0,
+          "explanation": "Big Brother alludes to the all-seeing ruler of a famous dystopian novel and now means intrusive monitoring. The context (recording every keystroke and webcam image) confirms this; it has nothing to do with family, protection or size."
+        },
+        {
+          "id": "c2-u08-l4-q5",
+          "type": "short_answer",
+          "category": "vocabulary",
+          "topic": "allusions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete with one adjective: \"The team won the final, but with half the squad injured for the rest of the season, it was a ___ victory.\"",
+          "answers": ["Pyrrhic"],
+          "explanation": "A Pyrrhic victory is a win that costs the winner so much that it is almost a defeat, named after King Pyrrhus."
+        },
+        {
+          "id": "c2-u08-l4-q6",
+          "type": "sentence_transformation",
+          "category": "writing",
+          "topic": "allusions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence using the allusion in the cue.",
+          "sentence": "Her only serious weakness is her impatience.",
+          "cue": "Use: Achilles' heel",
+          "answers": [
+            "Impatience is her Achilles' heel.",
+            "Her impatience is her Achilles' heel.",
+            "Her Achilles' heel is her impatience.",
+            "Her Achilles' heel is impatience.",
+            "Her only Achilles' heel is her impatience.",
+            "Her impatience is her only Achilles' heel.",
+            "Impatience is her only Achilles' heel."
+          ],
+          "explanation": "Achilles' heel means a single serious weakness, so it replaces 'only serious weakness': Her impatience is her Achilles' heel."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u08-l5-figurative-literature",
+      "title": "Reading Literature: Personification, Hyperbole, Oxymoron and Extended Metaphor",
+      "summary": "Analyse how literary writers use figurative devices to create images, mood and meaning.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Identify personification, hyperbole, oxymoron and extended metaphor",
+        "Explain the effect of a figurative device in a literary passage",
+        "Use figurative devices in your own descriptive writing"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Beyond identifying devices\nAt C2, it is not enough to label a device; you need to explain its **effect**. Why did the writer choose this image? What mood, attitude or theme does it create? The following devices are the most common in prose and poetry.\n\n| Device | Definition | Example |\n|---|---|---|\n| **Personification** | giving human qualities to non-human things | *The old house groaned under the snow.* |\n| **Hyperbole** | deliberate exaggeration | *I've told you a million times.* |\n| **Oxymoron** | two contradictory words side by side | *a deafening silence, bittersweet, an open secret* |\n| **Extended metaphor** | a metaphor developed over several lines or a whole text | *Her career was a voyage: she set sail young, weathered storms ...* |\n| **Pathetic fallacy** | weather or nature reflecting human emotion | *Rain lashed the windows as the family waited for news.* |\n| **Imagery** | language appealing to the senses | *the sharp tang of salt and diesel on the harbour air* |\n\n### Analysing effect\nA useful formula for analysis is **device + example + effect**:\n> The writer **personifies** the city (*its neon arteries pulsed through the night*), **presenting it as** a living body, restless and full of energy, **which reinforces** the theme of a place that never rests.\n\nUseful verbs for analysis: *suggests, evokes, conveys, emphasises, reinforces, creates a sense of, foreshadows, undercuts*.\n\n### Hyperbole and understatement\nHyperbole exaggerates for emphasis or humour; understatement (Unit 9) deliberately minimises. Both rely on the reader recognising that the words do not match reality. In literature, hyperbole often reveals a character's emotional state: *She had been waiting for an eternity* tells us more about her impatience than about time.\n\n### Oxymoron and paradox\nAn **oxymoron** is a compressed contradiction in two or three words (*cruel kindness*). A **paradox** is a statement that seems self-contradictory but contains a truth (*The more you learn, the less you know*). Both force the reader to pause and resolve the contradiction.\n\n### Writing with figurative language\nWhen you write descriptively, aim for **fresh** images rather than clichés, and keep extended metaphors consistent. Combine figurative devices with the stylistic structures from Unit 1 (fronting, inversion) for variety: *Down the hill rolled the fog, swallowing the village one roof at a time.* Here inversion, personification (*swallowing*) and imagery work together.\n\n### Literature vocabulary\nWhen discussing texts, use precise terms: *the narrator, the protagonist, the tone, the mood, the imagery, the motif, the climax, the denouement*. These help you write clear, academic literary analysis.",
+        "examples": [
+          {
+            "en": "The wind whispered through the empty streets.",
+            "id": "Angin berbisik di jalan-jalan yang sepi.",
+            "note": "Personification."
+          },
+          {
+            "en": "After the announcement, there was a deafening silence in the hall.",
+            "id": "Setelah pengumuman itu, aula menjadi hening yang memekakkan telinga.",
+            "note": "Oxymoron."
+          },
+          {
+            "en": "Rain lashed the windows as the family waited for news from the hospital.",
+            "id": "Hujan mendera jendela saat keluarga itu menunggu kabar dari rumah sakit.",
+            "note": "Pathetic fallacy: weather mirrors anxiety."
+          },
+          {
+            "en": "The suitcase weighed a ton.",
+            "id": "Koper itu beratnya minta ampun.",
+            "note": "Hyperbole."
+          },
+          {
+            "en": "Down the hill rolled the fog, swallowing the village one roof at a time.",
+            "id": "Kabut bergulung menuruni bukit, menelan desa itu satu atap demi satu atap.",
+            "note": "Inversion + personification + imagery."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "personification",
+            "pos": "noun",
+            "ipa": "/pəˌsɒnɪfɪˈkeɪʃn/",
+            "meaning": "personifikasi",
+            "example": "The poem relies heavily on personification of the sea."
+          },
+          {
+            "word": "hyperbole",
+            "pos": "noun",
+            "ipa": "/haɪˈpɜːbəli/",
+            "meaning": "hiperbola, gaya bahasa melebih-lebihkan",
+            "example": "'I'm so hungry I could eat a horse' is a hyperbole."
+          },
+          {
+            "word": "oxymoron",
+            "pos": "noun",
+            "ipa": "/ˌɒksɪˈmɔːrɒn/",
+            "meaning": "oksimoron, gabungan kata yang bertentangan",
+            "example": "'Bittersweet' is a common oxymoron."
+          },
+          {
+            "word": "evoke",
+            "pos": "verb",
+            "ipa": "/ɪˈvəʊk/",
+            "meaning": "membangkitkan (perasaan, kenangan, citra)",
+            "example": "The smell of rain evoked memories of her childhood."
+          },
+          {
+            "word": "protagonist",
+            "pos": "noun",
+            "ipa": "/prəˈtæɡənɪst/",
+            "meaning": "tokoh utama",
+            "example": "The protagonist leaves her village in the first chapter."
+          },
+          {
+            "word": "foreshadow",
+            "pos": "verb",
+            "ipa": "/fɔːˈʃædəʊ/",
+            "meaning": "membayangkan/memberi isyarat tentang peristiwa yang akan datang",
+            "example": "The broken mirror foreshadows the tragedy."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "The writer + verb of effect (suggests / evokes / conveys) + noun/that-clause",
+            "example": "The image of the groaning house conveys a sense of age and fragility.",
+            "note": "Core structure for literary analysis."
+          },
+          {
+            "pattern": "By + -ing, the writer + verb",
+            "example": "By personifying the city, the writer presents it as a living organism.",
+            "note": "Links device to effect."
+          },
+          {
+            "pattern": "adjective + noun (oxymoron)",
+            "example": "a deafening silence, cruel kindness",
+            "note": "Two contradictory ideas in one phrase."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The writer uses a simile: 'The city was a jungle.'",
+            "right": "The writer uses a metaphor: 'The city was a jungle.'",
+            "why": "Without like or as, the comparison is a metaphor, not a simile."
+          },
+          {
+            "wrong": "The personification shows that the house is old.",
+            "right": "The personification of the house (groaning under the snow) evokes its age and fragility and creates a mournful mood.",
+            "why": "Analysis should explain the effect and mood, not only restate the literal meaning."
+          },
+          {
+            "wrong": "'Heavy rain' is an example of an oxymoron.",
+            "right": "'Deafening silence' is an example of an oxymoron.",
+            "why": "An oxymoron combines contradictory terms; heavy rain is a normal collocation."
+          }
+        ],
+        "summary": "Literary writers use personification, hyperbole, oxymoron, extended metaphor, pathetic fallacy and imagery to create mood and meaning. In analysis, follow device + example + effect, using verbs such as suggests, evokes and conveys. In your own writing, prefer fresh images and keep extended metaphors consistent.",
+        "reviewCards": [
+          {
+            "front": "personification",
+            "back": "giving human qualities to non-human things: The wind whispered."
+          },
+          {
+            "front": "oxymoron",
+            "back": "contradictory words together: deafening silence, bittersweet"
+          },
+          {
+            "front": "pathetic fallacy",
+            "back": "weather or nature reflecting human emotions"
+          },
+          {
+            "front": "analysis formula",
+            "back": "device + example + effect"
+          },
+          {
+            "front": "extended metaphor",
+            "back": "a metaphor developed over several lines or a whole text"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u08-l5-q1",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "literary devices",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "\"The wind whispered secrets through the empty streets.\" Which device does this sentence use?",
+          "instructions": "Can wind really whisper or keep secrets? Who normally does these things?",
+          "options": ["personification", "oxymoron", "simile", "hyperbole"],
+          "answer": 0,
+          "explanation": "Whispering and telling secrets are human actions given to the wind, so this is personification. There are no contradictory words (oxymoron), no like/as (simile) and no exaggeration (hyperbole)."
+        },
+        {
+          "id": "c2-u08-l5-q2",
+          "type": "essay",
+          "category": "writing",
+          "topic": "descriptive writing",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Write a descriptive paragraph about the fictional harbour town of Port Elvan at dawn. Use at least one metaphor, one simile, one example of personification and one oxymoron. Aim for fresh images rather than clichés, and include at least one fronted or inverted sentence from Unit 1.",
+          "minWords": 120,
+          "maxWords": 200,
+          "rubric": "descriptive-writing",
+          "explanation": "A strong paragraph uses each required device naturally, keeps any extended image consistent, avoids mixed metaphors and clichés, and varies sentence structure (for example: 'Out of the mist crept the first fishing boats, their engines muttering like sleepy old men')."
+        },
+        {
+          "id": "c2-u08-l5-q3",
+          "type": "matching",
+          "category": "reading",
+          "topic": "literary devices",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each device with its example.",
+          "pairs": [
+            { "left": "oxymoron", "right": "a deafening silence" },
+            { "left": "hyperbole", "right": "I've told you a million times." },
+            { "left": "personification", "right": "The old house groaned under the weight of the snow." },
+            { "left": "extended metaphor", "right": "Her career was a voyage: she set sail young, weathered storms in midlife and finally reached a quiet harbour." },
+            { "left": "simile", "right": "The lake lay as smooth as glass." }
+          ],
+          "explanation": "Deafening silence combines contradictory ideas; a million times is deliberate exaggeration; groaning is a human action given to a house; the voyage image is developed across the whole sentence; and as smooth as glass is an explicit comparison."
+        },
+        {
+          "id": "c2-u08-l5-q4",
+          "type": "single_choice",
+          "category": "reading",
+          "topic": "literary analysis",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Read the extract. What is the main effect of the phrase 'its neon arteries pulsed through the night'?",
+          "context": "The city never slept. Its neon arteries pulsed through the night, carrying a restless traffic of taxis and dreams.",
+          "options": [
+            "It presents the city as a living body, full of restless energy.",
+            "It suggests that the city is sick and close to death.",
+            "It describes the city's hospitals and medical services.",
+            "It shows that the streets are empty and dark."
+          ],
+          "answer": 0,
+          "explanation": "Arteries that pulse belong to a living, healthy body, and the surrounding words (never slept, restless) reinforce the sense of constant energy. Nothing suggests illness, hospitals are not mentioned literally, and neon and traffic contradict emptiness and darkness."
+        },
+        {
+          "id": "c2-u08-l5-q5",
+          "type": "multiple_select",
+          "category": "vocabulary",
+          "topic": "literary devices",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Select ALL the oxymorons.",
+          "options": ["bittersweet", "an open secret", "a deafening silence", "heavy rain", "bright sunshine"],
+          "answers": [0, 1, 2],
+          "explanation": "Bitter/sweet, open/secret and deafening/silence are contradictory pairs, so they are oxymorons. Heavy rain and bright sunshine are ordinary collocations with no contradiction."
+        },
+        {
+          "id": "c2-u08-l5-q6",
+          "type": "word_order",
+          "category": "writing",
+          "topic": "literary devices",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Put the words in order to form a sentence containing a simile.",
+          "words": ["The", "afternoon", "crept", "by", "like", "a", "wounded", "animal."],
+          "acceptedAnswers": [
+            "Like a wounded animal, the afternoon crept by."
+          ],
+          "explanation": "The subject and verb (The afternoon crept by) are followed by the simile introduced by like. The simile can also be fronted: Like a wounded animal, the afternoon crept by."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u08-t-q1",
+      "type": "single_choice",
+      "category": "vocabulary",
+      "topic": "conceptual metaphor",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Which sentence is based on the conceptual metaphor TIME IS MONEY?",
+      "options": [
+        "We can't afford to lose any more time.",
+        "Time flies when you're having fun.",
+        "The hours crawled past.",
+        "Time heals all wounds."
+      ],
+      "answer": 0,
+      "explanation": "Afford and lose treat time as a valuable resource like money. 'Time flies' and 'the hours crawled' treat time as a moving creature, and 'time heals' treats it as a doctor."
+    },
+    {
+      "id": "c2-u08-t-q2",
+      "type": "fill_blank",
+      "category": "vocabulary",
+      "topic": "abstract phrasal verbs",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete the sentence with the past form of a verb that combines with 'over'.",
+      "text": "Rather than address the budget deficit directly, the report merely ___ over it in a single paragraph.",
+      "answers": [["glossed", "skated", "skimmed", "skipped"]],
+      "explanation": "Gloss over (or skate/skim over) means to deal with something too briefly to avoid revealing problems, which matches 'rather than address it directly' and 'a single paragraph'."
+    },
+    {
+      "id": "c2-u08-t-q3",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "proverbs",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the proverb that best fits the situation.",
+      "dialogue": [
+        { "speaker": "Nadia", "text": "We've got eight people editing the same report at once, and now it's a complete mess." },
+        { "speaker": "Hugo", "text": null }
+      ],
+      "options": [
+        "Well, too many cooks spoil the broth.",
+        "Well, every cloud has a silver lining.",
+        "Well, don't count your chickens before they hatch.",
+        "Well, when in Rome, do as the Romans do."
+      ],
+      "answer": 0,
+      "explanation": "Too many people working on one task has ruined it, which is exactly what 'too many cooks spoil the broth' describes. The other proverbs are about finding positives, premature confidence and local customs."
+    },
+    {
+      "id": "c2-u08-t-q4",
+      "type": "error_identification",
+      "category": "vocabulary",
+      "topic": "allusions",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Find the segment with the wrong allusion.",
+      "segments": [
+        "Winning the lawsuit",
+        "cost the firm so much",
+        "that it was",
+        "a Herculean victory."
+      ],
+      "errorIndex": 3,
+      "correction": "a Pyrrhic victory.",
+      "explanation": "A victory that costs the winner too much is a Pyrrhic victory. Herculean describes a task requiring great effort, not a costly win."
+    },
+    {
+      "id": "c2-u08-t-q5",
+      "type": "sentence_transformation",
+      "category": "vocabulary",
+      "topic": "abstract phrasal verbs",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence using the phrasal verb in the cue.",
+      "sentence": "The new manager gives the impression of being arrogant, although she probably isn't.",
+      "cue": "Use: come across as",
+      "answers": [
+        "The new manager comes across as arrogant, although she probably isn't.",
+        "The new manager comes across as arrogant, though she probably isn't.",
+        "The new manager comes across as arrogant, but she probably isn't.",
+        "The new manager comes across as arrogant, although she probably is not.",
+        "The new manager comes across as arrogant, although she probably isn't arrogant.",
+        "The new manager comes across as being arrogant, although she probably isn't.",
+        "The new manager comes across as arrogant, even though she probably isn't."
+      ],
+      "explanation": "Come across as + adjective means give the impression of being: The new manager comes across as arrogant."
+    },
+    {
+      "id": "c2-u08-t-q6",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "figurative expressions",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "\"The scandal cast a long shadow over her career; years later, journalists still asked her about it.\" What does 'cast a long shadow over' mean here?",
+      "options": [
+        "had a lasting negative effect on",
+        "made more successful",
+        "happened late at night during",
+        "was quickly forgotten during"
+      ],
+      "answer": 0,
+      "explanation": "To cast a long shadow over something is to have a lasting negative influence on it, confirmed by journalists still asking about the scandal years later. 'Quickly forgotten' contradicts the context."
+    }
+  ]
+}

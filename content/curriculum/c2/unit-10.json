@@ -1,0 +1,1353 @@
+{
+  "slug": "c2-u10-mastery",
+  "number": 10,
+  "title": "Precision and Accuracy Mastery",
+  "description": "Edit and refine advanced writing by eliminating dangling modifiers and agreement errors, choosing tense and aspect with precision, using exact dependent prepositions and collocations, and cutting redundancy.",
+  "objectives": [
+    "Identify and correct dangling and misplaced modifiers",
+    "Maintain subject–verb agreement in long and complex sentences",
+    "Choose tense and aspect to express precise time relations and attitudes",
+    "Use dependent prepositions and formal collocations accurately",
+    "Edit drafts for concision, redundancy and overall accuracy"
+  ],
+  "lessons": [
+    {
+      "slug": "c2-u10-l1-dangling-modifiers",
+      "title": "Dangling and Misplaced Modifiers",
+      "summary": "Make sure every participle clause and modifier attaches to the word it is meant to describe.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Recognise dangling participle and infinitive clauses",
+        "Correct dangling modifiers by changing the subject or expanding the clause",
+        "Place limiting modifiers such as only, almost and just precisely"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The rule behind participle clauses\nAt C1 you learned to write concise participle clauses: *Having finished the report, she went home.* The unwritten rule is that the **implied subject** of the participle must be the **subject of the main clause**. Who finished the report? *She* did, and *she* is the subject of *went*. When the two subjects differ, the modifier has nothing to attach to: it **dangles**.\n\n> ✗ *Walking into the room, the smell of smoke was overwhelming.* (The smell was not walking.)\n> ✓ *Walking into the room, I was overwhelmed by the smell of smoke.*\n\nDangling modifiers are among the most common errors in otherwise advanced writing, and they can produce unintentionally comic images: *Hanging on the wall, Lina admired the portrait.* (Was Lina hanging on the wall?)\n\n### Typical dangling structures\n| Type | Dangling ✗ | Corrected ✓ |\n|---|---|---|\n| present participle | *Driving to work, a deer ran across the road.* | *While I was driving to work, a deer ran across the road.* |\n| perfect participle | *Having been delayed for hours, the airline offered passengers a meal.* | *Having been delayed for hours, the passengers were offered a meal.* |\n| past participle | *Born in a fishing village, Mara's first novel describes coastal life.* | *Born in a fishing village, Mara describes coastal life in her first novel.* |\n| infinitive | *To qualify for the grant, the form must be submitted by March.* | *To qualify for the grant, applicants must submit the form by March.* |\n| prepositional + -ing | *After reading the letter, the decision seemed obvious.* | *After reading the letter, she found the decision obvious.* |\n\n### Two ways to fix a dangling modifier\n1. **Change the main clause** so that its subject is the doer of the participle: *Walking into the room, **I** was overwhelmed ...*\n2. **Expand the modifier** into a full clause with its own subject: ***As I walked** into the room, the smell of smoke was overwhelming.*\n\nNote that a possessive does not rescue the sentence: in *Born in a fishing village, Mara's novel ...*, the subject is *novel*, not *Mara*.\n\n### Accepted exceptions\nSome participles have become prepositions or sentence adverbials and do not need a matching subject: *Considering the weather, the turnout was good. / Generally speaking, ... / Judging by his tone, ... / Given the circumstances, ... / Assuming that ...*. These are standard.\n\n### Misplaced limiting modifiers\nWords such as *only, almost, just, even, nearly* modify the element they precede in careful writing:\n- *Only Tomas passed the exam.* (no one else passed)\n- *Tomas passed only the exam.* (he passed nothing else)\n- *She almost failed every module* (she passed them all, narrowly) vs *She failed almost every module.*\n\nIn speech, *only* is often placed before the verb and stress clarifies the meaning, but in formal writing place it directly before the element it limits.",
+        "examples": [
+          {
+            "en": "Walking into the room, I was overwhelmed by the smell of smoke.",
+            "id": "Ketika masuk ke ruangan itu, saya diliputi bau asap yang menyengat.",
+            "note": "I is the subject of both walking and was overwhelmed."
+          },
+          {
+            "en": "Having been delayed for six hours, the passengers were offered a free meal.",
+            "id": "Setelah tertunda selama enam jam, para penumpang ditawari makanan gratis.",
+            "note": "The passengers were delayed, so they must be the subject."
+          },
+          {
+            "en": "To qualify for the grant, applicants must submit the form by the end of March.",
+            "id": "Untuk memenuhi syarat hibah, pelamar harus menyerahkan formulir paling lambat akhir Maret.",
+            "note": "Applicants are the ones who qualify."
+          },
+          {
+            "en": "Considering the weather, the turnout was remarkably good.",
+            "id": "Mengingat cuacanya, jumlah yang hadir sangat bagus.",
+            "note": "Considering is an accepted prepositional exception."
+          },
+          {
+            "en": "She failed almost every module in her first year.",
+            "id": "Dia gagal di hampir semua mata kuliah pada tahun pertamanya.",
+            "note": "Almost limits every, not failed."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "dangling modifier",
+            "pos": "noun phrase",
+            "ipa": "/ˌdæŋɡlɪŋ ˈmɒdɪfaɪə/",
+            "meaning": "pewatas menggantung (keterangan yang tidak merujuk pada subjek yang tepat)",
+            "example": "The editor circled three dangling modifiers in my essay."
+          },
+          {
+            "word": "implied subject",
+            "pos": "noun phrase",
+            "ipa": "/ɪmˌplaɪd ˈsʌbdʒɪkt/",
+            "meaning": "subjek tersirat",
+            "example": "The implied subject of a participle clause must match the main subject."
+          },
+          {
+            "word": "ambiguity",
+            "pos": "noun",
+            "ipa": "/ˌæmbɪˈɡjuːəti/",
+            "meaning": "ketaksaan, makna ganda",
+            "example": "Moving the word only removed the ambiguity."
+          },
+          {
+            "word": "inadvertently",
+            "pos": "adverb",
+            "ipa": "/ˌɪnədˈvɜːtəntli/",
+            "meaning": "secara tidak sengaja",
+            "example": "The sentence inadvertently suggests that the portrait was hanging Lina."
+          },
+          {
+            "word": "turnout",
+            "pos": "noun",
+            "ipa": "/ˈtɜːnaʊt/",
+            "meaning": "jumlah orang yang hadir/berpartisipasi",
+            "example": "Turnout at the meeting was higher than expected."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Participle clause, + subject who performed the participle + verb",
+            "example": "Having checked the figures, the auditor signed the report.",
+            "note": "The auditor checked the figures."
+          },
+          {
+            "pattern": "Subordinator + subject + verb, + main clause (fix by expansion)",
+            "example": "As I was walking home, it started to rain.",
+            "note": "A full clause allows a different main subject."
+          },
+          {
+            "pattern": "only / almost / just + the element limited",
+            "example": "Only the director can approve the budget.",
+            "note": "Place limiting words directly before what they modify in formal writing."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "After finishing the exam, the room was emptied quickly.",
+            "right": "After finishing the exam, the students quickly left the room.",
+            "why": "The room did not finish the exam; the subject must be the people who did."
+          },
+          {
+            "wrong": "Born in a fishing village, Mara's first novel describes coastal life.",
+            "right": "Born in a fishing village, Mara describes coastal life in her first novel.",
+            "why": "The subject is novel, not Mara; a possessive does not supply the missing subject."
+          },
+          {
+            "wrong": "Using a new method, the results became much clearer.",
+            "right": "Using a new method, the researchers obtained much clearer results.",
+            "why": "Results cannot use a method; make the researchers the subject."
+          }
+        ],
+        "summary": "The implied subject of a participle or infinitive clause must be the subject of the main clause; otherwise the modifier dangles. Fix it by changing the main subject or expanding the modifier into a full clause. Some participles (considering, given, judging by) are accepted exceptions, and limiting words such as only should sit directly before what they limit.",
+        "reviewCards": [
+          {
+            "front": "dangling modifier",
+            "back": "a participle/infinitive clause whose implied subject is not the main clause subject"
+          },
+          {
+            "front": "Fix: Walking home, the rain started.",
+            "back": "As I was walking home, the rain started. / Walking home, I was caught in the rain."
+          },
+          {
+            "front": "Only Tomas passed vs Tomas passed only the exam",
+            "back": "no one else passed vs he passed nothing else"
+          },
+          {
+            "front": "accepted 'dangling' exceptions",
+            "back": "considering, given, judging by, generally speaking, assuming"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u10-l1-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Which sentence avoids a dangling modifier?",
+          "instructions": "For each sentence, ask who is doing the action in the opening clause. Is that person or thing the subject of the main clause?",
+          "options": [
+            "Walking into the room, the smell of smoke was overwhelming.",
+            "Walking into the room, I was overwhelmed by the smell of smoke.",
+            "Having finished the report, the computer was switched off.",
+            "After reading the letter, the decision seemed obvious."
+          ],
+          "answer": 1,
+          "explanation": "In the second sentence, I is both the person walking and the subject of the main clause. In the others, the main subjects (the smell, the computer, the decision) cannot walk, finish a report or read a letter."
+        },
+        {
+          "id": "c2-u10-l1-q2",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 5,
+          "stage": "independent",
+          "prompt": "Correct the dangling modifier. You may change the main clause or expand the opening clause.",
+          "sentence": "Having been delayed for six hours, the airline offered the passengers a free meal.",
+          "answers": [
+            "Having been delayed for six hours, the passengers were offered a free meal by the airline.",
+            "Having been delayed for six hours, the passengers were offered a free meal.",
+            "Because the passengers had been delayed for six hours, the airline offered them a free meal.",
+            "As the passengers had been delayed for six hours, the airline offered them a free meal.",
+            "Since the passengers had been delayed for six hours, the airline offered them a free meal.",
+            "Because they had been delayed for six hours, the passengers were offered a free meal by the airline.",
+            "The airline offered the passengers a free meal because they had been delayed for six hours.",
+            "The airline offered the passengers a free meal as they had been delayed for six hours.",
+            "The passengers, having been delayed for six hours, were offered a free meal by the airline.",
+            "The passengers had been delayed for six hours, so the airline offered them a free meal."
+          ],
+          "explanation": "The passengers, not the airline, were delayed. Either make the passengers the subject (the passengers were offered ...) or turn the opening into a full clause with its own subject (Because the passengers had been delayed ...)."
+        },
+        {
+          "id": "c2-u10-l1-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Which segment must change so that the opening clause attaches to the right subject?",
+          "segments": [
+            "Born in a small fishing village,",
+            "Mara's first novel",
+            "describes the hardships",
+            "of coastal life."
+          ],
+          "errorIndex": 1,
+          "correction": "Mara, in her first novel,",
+          "explanation": "Mara, not her novel, was born in the village. Because the subject is novel, the participle dangles; the possessive Mara's does not make Mara the subject. Rewriting as 'Mara, in her first novel, describes ...' fixes it."
+        },
+        {
+          "id": "c2-u10-l1-q4",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that the modifier no longer dangles.",
+          "sentence": "Walking along the beach, a crab bit my toe.",
+          "cue": "Keep 'Walking along the beach,' and make 'I' the subject of the main clause.",
+          "answers": [
+            "Walking along the beach, I was bitten on the toe by a crab.",
+            "Walking along the beach, I was bitten on my toe by a crab.",
+            "Walking along the beach, I was bitten by a crab on the toe.",
+            "Walking along the beach, I was bitten by a crab on my toe.",
+            "Walking along the beach, I got bitten on the toe by a crab.",
+            "Walking along the beach, I got bitten on my toe by a crab.",
+            "Walking along the beach, I had my toe bitten by a crab.",
+            "Walking along the beach, I got my toe bitten by a crab."
+          ],
+          "explanation": "The crab was not walking along the beach; I was. A passive (I was bitten) or have/get something done structure (I had my toe bitten) makes I the subject."
+        },
+        {
+          "id": "c2-u10-l1-q5",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "misplaced modifiers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence clearly means that nobody except Tomas passed the exam?",
+          "options": [
+            "Only Tomas passed the exam.",
+            "Tomas only passed the exam.",
+            "Tomas passed only the exam.",
+            "Tomas passed the only exam."
+          ],
+          "answer": 0,
+          "explanation": "Placing only directly before Tomas limits the subject: no one else passed. 'Tomas passed only the exam' means he passed nothing else; 'Tomas only passed the exam' suggests he merely passed (rather than excelled) or passed nothing else; 'the only exam' means there was a single exam."
+        },
+        {
+          "id": "c2-u10-l1-q6",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "dangling modifiers",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Select ALL the sentences that contain a dangling modifier.",
+          "options": [
+            "After finishing the exam, the students were allowed to leave.",
+            "After finishing the exam, the room was quickly emptied.",
+            "Using a new method, the researchers obtained clearer results.",
+            "Using a new method, the results became much clearer.",
+            "Hanging on the wall, Lina admired the portrait.",
+            "Lina admired the portrait hanging on the wall."
+          ],
+          "answers": [1, 3, 4],
+          "explanation": "A room cannot finish an exam, results cannot use a method, and Lina was presumably not hanging on the wall. In the other sentences, the opening modifier correctly refers to the subject (the students, the researchers) or the participle follows the noun it describes (the portrait hanging on the wall)."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u10-l2-complex-agreement",
+      "title": "Agreement in Complex Sentences",
+      "summary": "Keep subjects and verbs in agreement when long noun phrases, correlatives and quantifiers intervene.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Identify the head noun of a long subject",
+        "Apply agreement rules for neither ... nor, as well as, each and a number of",
+        "Use plural Latin and Greek nouns such as criteria and phenomena correctly"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Find the head noun\nIn long subjects, the verb agrees with the **head noun**, not with the noun nearest to the verb. Post-modifiers (prepositional phrases, relative clauses, participle phrases) do not change the number of the head.\n\n> *The **results** of the survey conducted among teachers in three provinces **suggest** a growing problem.*\n> *The **list** of candidates who have applied for the posts **has** been published.*\n\nA reliable test: strip away everything between the head noun and the verb (*The results ... suggest*; *The list ... has*).\n\n### Phrases that do not add subjects\n*As well as, together with, along with, in addition to, including* and *rather than* introduce extra information but do **not** make the subject plural:\n> *The **director**, together with her two assistants, **is** expected to attend.*\n\nCompare with *and*, which does create a plural subject: *The director and her assistants **are** expected to attend.*\n\n### Correlatives and proximity\nWith *either ... or* and *neither ... nor*, the verb agrees with the **nearer** subject:\n> *Neither the minister nor his **advisers were** available.*\n> *Either the advisers or the **minister is** going to respond.*\n\nIf the result sounds awkward, put the plural subject second.\n\n### Quantifiers and number expressions\n| Expression | Verb | Example |\n|---|---|---|\n| each / every + singular noun | singular | Every proposal **has** been reviewed. |\n| each of + plural noun | singular | Each of the proposals **has** been reviewed. |\n| a number of + plural noun | plural | A number of applicants **have** withdrawn. |\n| the number of + plural noun | singular | The number of applicants **has** risen. |\n| a series / a range / a variety of | usually singular in formal style | A series of meetings **was** held. |\n| plenty of / a lot of / most of | agrees with the noun | Most of the money **was** spent; most of the books **were** lost. |\n\n### Plural forms from Latin and Greek\nSeveral academic nouns keep classical plurals: *criterion → criteria, phenomenon → phenomena, hypothesis → hypotheses, analysis → analyses, thesis → theses*. *The criteria **are** unclear* (not *is*). *Data* is used with both singular and plural verbs in modern English (*the data is / are*), so follow your institution's style guide; *criteria* and *phenomena*, however, should always be plural.\n\n### Other traps\n- **Inverted subjects** follow the verb: *Among the guests **were** two former ministers.*\n- **What-clefts**: *What we need **is** more volunteers* (singular is standard in formal writing).\n- **Titles and amounts** are treated as single units: *Three years **is** a long time. / 'Tales of the Harbour' **is** her best book.*",
+        "examples": [
+          {
+            "en": "The results of the survey conducted among teachers suggest a growing problem.",
+            "id": "Hasil survei yang dilakukan di kalangan guru menunjukkan masalah yang semakin besar.",
+            "note": "Head noun: results (plural)."
+          },
+          {
+            "en": "The director, together with her assistants, is expected to attend.",
+            "id": "Direktur, bersama para asistennya, diharapkan hadir.",
+            "note": "Together with does not make the subject plural."
+          },
+          {
+            "en": "Neither the minister nor his advisers were available for comment.",
+            "id": "Baik menteri maupun para penasihatnya tidak dapat dimintai komentar.",
+            "note": "Verb agrees with the nearer subject."
+          },
+          {
+            "en": "The number of complaints has doubled, and a number of customers have cancelled their contracts.",
+            "id": "Jumlah keluhan meningkat dua kali lipat, dan sejumlah pelanggan telah membatalkan kontrak mereka.",
+            "note": "The number of → singular; a number of → plural."
+          },
+          {
+            "en": "Among the speakers were two award-winning scientists from Westmere University.",
+            "id": "Di antara para pembicara terdapat dua ilmuwan peraih penghargaan dari Universitas Westmere.",
+            "note": "Inverted subject: scientists (plural)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "head noun",
+            "pos": "noun phrase",
+            "ipa": "/ˈhed naʊn/",
+            "meaning": "nomina inti dalam frasa nomina",
+            "example": "In 'the list of names', the head noun is list."
+          },
+          {
+            "word": "criterion",
+            "pos": "noun",
+            "ipa": "/kraɪˈtɪəriən/",
+            "meaning": "kriteria (bentuk tunggal); jamak: criteria",
+            "example": "The main criterion for selection is experience."
+          },
+          {
+            "word": "phenomenon",
+            "pos": "noun",
+            "ipa": "/fəˈnɒmɪnən/",
+            "meaning": "fenomena (tunggal); jamak: phenomena",
+            "example": "These phenomena are difficult to explain."
+          },
+          {
+            "word": "proximity",
+            "pos": "noun",
+            "ipa": "/prɒkˈsɪməti/",
+            "meaning": "kedekatan (jarak)",
+            "example": "With neither ... nor, agreement is based on proximity."
+          },
+          {
+            "word": "correlative",
+            "pos": "adjective",
+            "ipa": "/kəˈrelətɪv/",
+            "meaning": "korelatif (berpasangan, seperti either ... or)",
+            "example": "Neither ... nor is a correlative conjunction."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Head noun + post-modifier + verb (agrees with head)",
+            "example": "The quality of the essays submitted this term has improved.",
+            "note": "Quality is singular."
+          },
+          {
+            "pattern": "Neither A nor B + verb agreeing with B",
+            "example": "Neither the students nor the teacher was aware of the change.",
+            "note": "The nearer subject decides."
+          },
+          {
+            "pattern": "Each of + plural noun + singular verb",
+            "example": "Each of the candidates has five minutes to speak.",
+            "note": "Each is the head."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The list of approved suppliers have been updated.",
+            "right": "The list of approved suppliers has been updated.",
+            "why": "The head noun is list (singular), not suppliers."
+          },
+          {
+            "wrong": "Each of the proposals have been carefully considered.",
+            "right": "Each of the proposals has been carefully considered.",
+            "why": "Each is the head of the subject and takes a singular verb."
+          },
+          {
+            "wrong": "The criteria for promotion is not transparent.",
+            "right": "The criteria for promotion are not transparent.",
+            "why": "Criteria is the plural of criterion."
+          },
+          {
+            "wrong": "The manager, as well as two supervisors, were dismissed.",
+            "right": "The manager, as well as two supervisors, was dismissed.",
+            "why": "As well as does not create a plural subject; the head is manager."
+          }
+        ],
+        "summary": "Verbs agree with the head noun of the subject, not the nearest noun. As well as and together with do not create plural subjects; neither ... nor and either ... or agree with the nearer subject. Each (of) is singular, a number of is plural and the number of is singular. Criteria and phenomena are plurals.",
+        "reviewCards": [
+          {
+            "front": "The number of / A number of",
+            "back": "singular verb / plural verb"
+          },
+          {
+            "front": "Neither the boss nor the workers ___ (be) happy.",
+            "back": "were — agree with the nearer subject"
+          },
+          {
+            "front": "The director, together with her staff, ___ (be) ...",
+            "back": "is — together with does not make the subject plural"
+          },
+          {
+            "front": "criterion / phenomenon (plural)",
+            "back": "criteria / phenomena"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u10-l2-q1",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the correct verb form for each gap.",
+          "instructions": "The number of focuses on a single figure; a number of means 'several'.",
+          "text": "The number of applicants ___ risen sharply this year, and a number of them ___ from overseas.",
+          "choices": [
+            ["has", "have"],
+            ["come", "comes"]
+          ],
+          "answers": [0, 0],
+          "explanation": "The number of + plural noun takes a singular verb because the head is number (has risen). A number of means several and takes a plural verb (a number of them come)."
+        },
+        {
+          "id": "c2-u10-l2-q2",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Find the segment with an agreement error.",
+          "segments": [
+            "The results of the survey",
+            "conducted among teachers",
+            "in three provinces",
+            "suggests a growing problem."
+          ],
+          "errorIndex": 3,
+          "correction": "suggest a growing problem.",
+          "explanation": "The head noun of the subject is results (plural), so the verb must be suggest. Survey, teachers and provinces are inside post-modifiers and do not control agreement."
+        },
+        {
+          "id": "c2-u10-l2-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Complete the sentence with the correct form of 'be'.",
+          "text": "The director, together with her two assistants, ___ expected to attend the hearing.",
+          "answers": [["is", "was"]],
+          "explanation": "Together with introduces additional information but does not make the subject plural. The head is director, so the verb is is (or was in a past context)."
+        },
+        {
+          "id": "c2-u10-l2-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which sentence is correct in formal written English?",
+          "options": [
+            "Neither the minister nor his advisers was available for comment.",
+            "Neither the minister nor his advisers were available for comment.",
+            "Neither the minister or his advisers were available for comment.",
+            "Neither of the minister and his advisers were available for comment."
+          ],
+          "answer": 1,
+          "explanation": "With neither ... nor, the verb agrees with the nearer subject (advisers → were). Neither must pair with nor, not or, and 'neither of' is followed by a plural noun phrase, not two coordinated nouns."
+        },
+        {
+          "id": "c2-u10-l2-q5",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the agreement error.",
+          "sentence": "Each of the proposals have been carefully considered by the panel.",
+          "answers": [
+            "Each of the proposals has been carefully considered by the panel."
+          ],
+          "explanation": "Each is the head of the subject, so the verb is singular: has been considered."
+        },
+        {
+          "id": "c2-u10-l2-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "subject-verb agreement",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Translate into English. Pay attention to the verb after 'criteria'.",
+          "source": "Kriteria yang digunakan dalam penelitian ini tidak jelas.",
+          "direction": "id-en",
+          "answers": [
+            "The criteria used in this study are unclear.",
+            "The criteria used in this study are not clear.",
+            "The criteria used in this research are unclear.",
+            "The criteria used in this research are not clear.",
+            "The criteria used in this study were unclear.",
+            "The criteria used in this study were not clear.",
+            "The criteria used in this research were unclear.",
+            "The criteria used in this research were not clear.",
+            "The criteria that were used in this study are unclear.",
+            "The criteria which were used in this study are unclear.",
+            "The criteria used in the study are unclear.",
+            "The criteria used in this study aren't clear."
+          ],
+          "explanation": "Criteria is the plural of criterion, so it takes a plural verb (are/were). 'The criteria ... is unclear' would be an agreement error."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u10-l3-tense-aspect",
+      "title": "Subtle Choices of Tense and Aspect",
+      "summary": "Choose tense and aspect to express exact time relations, temporariness and attitude.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Choose between present perfect and past simple according to time frame",
+        "Use progressive aspect for temporariness, irritation and politeness",
+        "Use future perfect, future progressive and past perfect where they are required"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Tense and aspect\n**Tense** locates an action in time (past, present). **Aspect** shows how the speaker views it: as complete (simple), in progress (progressive) or connected to a later point (perfect). At C2, errors rarely involve form; they involve **choosing** the form that best expresses the intended meaning.\n\n### Present perfect vs past simple\nThe present perfect links the past to **now**; the past simple places an action in a **finished** time frame.\n\n| Time frame | Tense | Example |\n|---|---|---|\n| unfinished (so far, this week, since 2015, yet) | present perfect | I **have sent** three emails so far. |\n| finished (yesterday, in 2019, when I was a child) | past simple | I **sent** three emails yesterday. |\n| \"the first/second time\" + now | present perfect | It's the third time the printer **has broken** this week. |\n| news: headline fact, then details | present perfect, then past simple | The minister **has resigned**. She **announced** her decision at noon. |\n\n### Progressive for meaning, not just duration\nThe progressive adds meanings beyond \"in progress\":\n- **temporariness**: *I'm living with my aunt until my flat is ready.*\n- **irritation** with *always/constantly/forever*: *He's always borrowing my charger without asking.*\n- **politeness/tentativeness**: *I was wondering if you could help.* / *I'm hoping you can join us.*\n- **change or development**: *The climate is becoming more unpredictable.*\n\n### Stative verbs with a change of meaning\nStative verbs (*think, have, see, taste, be*) are normally simple, but some have dynamic meanings that allow the progressive:\n\n| Stative (simple) | Dynamic (progressive possible) |\n|---|---|\n| I **think** it's a good idea. (opinion) | I'm **thinking** of applying. (considering) |\n| The soup **tastes** salty. (quality) | The chef is **tasting** the soup. (action) |\n| She **has** a car. (possession) | She's **having** lunch. (activity) |\n| He **is** rude. (character) | He's **being** rude. (behaviour now) |\n\n### Future perfect and future progressive\n- **Future perfect** = completed before a future point: *By the time the inspectors arrive, we **will have completed** all the checks.*\n- **Future progressive** = in progress at a future point: *At this time tomorrow, I'**ll be sitting** on a train.* It also expresses a neutral future plan: *Will you **be using** the car tonight?* (less pushy than *Will you use ...?*)\n\n### When the past perfect is required\nUse the past perfect when the order of past events is not otherwise clear, especially after verbs of realising, discovering and reporting: *When the auditors arrived, the accountant realised that someone **had deleted** the files.* With *before/after*, the sequence is clear, so the past simple is often enough.\n\n### Present perfect progressive vs simple\nThe progressive emphasises **activity and duration**, the simple emphasises **result or quantity**: *I've been writing all morning* vs *I've written four pages.* With *since/for*, both are often possible for long-term situations: *She has worked / has been working here since 2015.*",
+        "examples": [
+          {
+            "en": "I have sent three emails to the council so far, but nobody has replied.",
+            "id": "Sejauh ini saya sudah mengirim tiga email ke dewan kota, tetapi belum ada yang membalas.",
+            "note": "So far = unfinished time frame."
+          },
+          {
+            "en": "He's always borrowing my charger without asking.",
+            "id": "Dia selalu saja meminjam pengisi dayaku tanpa bertanya.",
+            "note": "Progressive + always = irritation."
+          },
+          {
+            "en": "By the time the inspectors arrive, we will have completed all the safety checks.",
+            "id": "Pada saat para inspektur tiba, kami sudah akan menyelesaikan semua pemeriksaan keselamatan.",
+            "note": "Future perfect: completion before a future point."
+          },
+          {
+            "en": "When the auditors arrived, the accountant realised that someone had deleted the files.",
+            "id": "Ketika para auditor tiba, akuntan itu menyadari bahwa seseorang telah menghapus berkas-berkas itu.",
+            "note": "Past perfect: the deletion happened earlier."
+          },
+          {
+            "en": "You're being very quiet today. Is everything all right?",
+            "id": "Kamu diam sekali hari ini. Semuanya baik-baik saja?",
+            "note": "Be in the progressive = temporary behaviour."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "aspect",
+            "pos": "noun",
+            "ipa": "/ˈæspekt/",
+            "meaning": "aspek (cara pandang terhadap tindakan: simple, progressive, perfect)",
+            "example": "The perfect aspect links an action to a later point in time."
+          },
+          {
+            "word": "stative verb",
+            "pos": "noun phrase",
+            "ipa": "/ˈsteɪtɪv vɜːb/",
+            "meaning": "verba keadaan",
+            "example": "Know and believe are stative verbs."
+          },
+          {
+            "word": "tentative",
+            "pos": "adjective",
+            "ipa": "/ˈtentətɪv/",
+            "meaning": "tentatif, ragu-ragu, tidak pasti",
+            "example": "The past progressive makes requests sound more tentative."
+          },
+          {
+            "word": "time frame",
+            "pos": "noun phrase",
+            "ipa": "/ˈtaɪm freɪm/",
+            "meaning": "kerangka waktu",
+            "example": "Yesterday is a finished time frame."
+          },
+          {
+            "word": "sequence",
+            "pos": "noun",
+            "ipa": "/ˈsiːkwəns/",
+            "meaning": "urutan",
+            "example": "The past perfect clarifies the sequence of events."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "have/has + past participle + so far / since / yet / this week",
+            "example": "We have received forty applications so far.",
+            "note": "Unfinished time frame."
+          },
+          {
+            "pattern": "will have + past participle + by (the time) ...",
+            "example": "By June, the bridge will have been open for a year.",
+            "note": "Future perfect: completion before a future point."
+          },
+          {
+            "pattern": "always / constantly + present progressive",
+            "example": "She's constantly changing the schedule.",
+            "note": "Expresses annoyance at a repeated habit."
+          },
+          {
+            "pattern": "realised / discovered / found that + past perfect",
+            "example": "She discovered that the money had disappeared.",
+            "note": "Earlier past event."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "I have sent the documents yesterday.",
+            "right": "I sent the documents yesterday.",
+            "why": "Yesterday is a finished time frame and requires the past simple."
+          },
+          {
+            "wrong": "This is the third time the printer breaks down this week.",
+            "right": "This is the third time the printer has broken down this week.",
+            "why": "'This is the first/second/third time' is followed by the present perfect."
+          },
+          {
+            "wrong": "By next June, I will finish my thesis.",
+            "right": "By next June, I will have finished my thesis.",
+            "why": "By + future point requires the future perfect for completion."
+          },
+          {
+            "wrong": "I am knowing the answer.",
+            "right": "I know the answer.",
+            "why": "Know is stative and does not take the progressive."
+          }
+        ],
+        "summary": "Choose the present perfect for unfinished time frames and the past simple for finished ones. Use progressive aspect for temporariness, irritation, politeness and change, and allow it with stative verbs only when they have a dynamic meaning. Use the future perfect for completion before a future point, and the past perfect when an earlier past event must be distinguished.",
+        "reviewCards": [
+          {
+            "front": "so far / since / this week",
+            "back": "present perfect (unfinished time frame)"
+          },
+          {
+            "front": "He's always ___ (interrupt) me!",
+            "back": "interrupting — progressive + always for irritation"
+          },
+          {
+            "front": "By the time you arrive, I ___ (finish).",
+            "back": "will have finished — future perfect"
+          },
+          {
+            "front": "I think vs I'm thinking of",
+            "back": "opinion (stative) vs considering (dynamic)"
+          },
+          {
+            "front": "This is the first time I ___ (visit) Port Elvan.",
+            "back": "have visited"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u10-l3-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "tense and aspect",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Choose the correct form: \"I ___ three emails to the council so far, but nobody has replied.\"",
+          "instructions": "'So far' means 'from the past until now'. Is the time frame finished or unfinished?",
+          "options": ["have sent", "sent", "had sent", "am sending"],
+          "answer": 0,
+          "explanation": "So far marks an unfinished time frame reaching up to now, so the present perfect (have sent) is required. The past simple sent cannot combine with so far, had sent needs a past reference point, and am sending does not express a completed number of emails."
+        },
+        {
+          "id": "c2-u10-l3-q2",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "future perfect and progressive",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Choose the correct future form for each gap.",
+          "text": "By the time the inspectors arrive next Monday, we ___ all the safety checks. At this time tomorrow, I ___ on a train to Port Elvan.",
+          "choices": [
+            ["will have completed", "will complete", "are completing"],
+            ["will be sitting", "will have sat", "sit"]
+          ],
+          "answers": [0, 0],
+          "explanation": "By the time + future point requires the future perfect for an action finished before that point: will have completed. 'At this time tomorrow' refers to an action in progress at a future moment, so the future progressive is needed: will be sitting."
+        },
+        {
+          "id": "c2-u10-l3-q3",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "past perfect",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment with a tense error.",
+          "segments": [
+            "When the auditors arrived,",
+            "the accountant realised",
+            "that someone deleted",
+            "the files the night before."
+          ],
+          "errorIndex": 2,
+          "correction": "that someone had deleted",
+          "explanation": "The deletion happened before the moment of realising, and 'the night before' (not 'last night') signals a past-in-the-past reference point, so the past perfect had deleted is required."
+        },
+        {
+          "id": "c2-u10-l3-q4",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "progressive aspect",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Match each sentence with the meaning expressed by its verb form.",
+          "pairs": [
+            { "left": "He's always borrowing my charger without asking.", "right": "irritation at a repeated habit" },
+            { "left": "I'm living with my aunt until my flat is ready.", "right": "a temporary situation" },
+            { "left": "I'm thinking of applying for the job.", "right": "a stative verb used dynamically to mean 'considering'" },
+            { "left": "The soup tastes too salty.", "right": "a sensory quality expressed with a stative verb" },
+            { "left": "I was wondering if you could help me.", "right": "past progressive used to sound polite and tentative" }
+          ],
+          "explanation": "Always + progressive expresses irritation; the progressive of live shows temporariness; thinking of means considering; tastes describes a quality and stays simple; and I was wondering softens a request."
+        },
+        {
+          "id": "c2-u10-l3-q5",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "tense and aspect",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete with the correct form of 'work'.",
+          "text": "Ms. Hartley ___ at the institute since 2015, and she is now its deputy director.",
+          "answers": [["has worked", "has been working", "'s worked", "'s been working"]],
+          "explanation": "Since 2015 marks a period continuing up to now, so a present perfect form is required. Both has worked and has been working are correct for a long-term situation; the past simple worked cannot combine with since + a point that leads to the present."
+        },
+        {
+          "id": "c2-u10-l3-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "present perfect progressive",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "I started learning the cello three years ago, and I'm still learning it.",
+          "cue": "Begin with: I have ...",
+          "answers": [
+            "I have been learning the cello for three years.",
+            "I've been learning the cello for three years.",
+            "I have been learning the cello for the past three years.",
+            "I have been learning the cello for the last three years.",
+            "I've been learning the cello for the past three years.",
+            "I've been learning the cello for the last three years.",
+            "I have been learning to play the cello for three years.",
+            "I have been playing the cello for three years."
+          ],
+          "explanation": "An activity that began in the past and continues now is best expressed with the present perfect progressive + for: I have been learning the cello for three years."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u10-l4-prepositions-collocations",
+      "title": "Precise Prepositions and Formal Collocations",
+      "summary": "Use exact dependent prepositions and formal collocations that mark polished writing.",
+      "estimatedMinutes": 30,
+      "objectives": [
+        "Use dependent prepositions after formal adjectives, verbs and nouns",
+        "Distinguish confusable patterns such as consist of / comprise / be composed of",
+        "Use formal collocations such as contingent on and tantamount to"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Why prepositions matter at C2\nDependent prepositions are often unpredictable: we are *capable **of*** something but *able **to*** do it; a plan is *contingent **on*** funding, but *dependent **on*** it too; a remark can be *tantamount **to*** an insult. Errors here rarely block comprehension, but they are highly visible to examiners and editors, and they distinguish C2 writing from C1.\n\n### Formal adjectives with fixed prepositions\n| Adjective | Preposition | Example |\n|---|---|---|\n| conducive | to | Quiet rooms are conducive to concentration. |\n| tantamount | to | His silence was tantamount to an admission. |\n| impervious | to | She seemed impervious to criticism. |\n| oblivious | to / of | He was oblivious to the danger. |\n| contingent | on / upon | The offer is contingent on references. |\n| prone | to | The valley is prone to flooding. |\n| fraught | with | The journey was fraught with danger. |\n| devoid | of | The speech was devoid of substance. |\n| rich | in | The region is rich in minerals. |\n| capable | of | Are they capable of winning? |\n\n### Consist, comprise and compose\nThese verbs describe parts and wholes and are frequently confused:\n- **consist of** (whole → parts): *The committee **consists of** twelve members.*\n- **comprise** (whole → parts, no preposition): *The committee **comprises** twelve members.*\n- **be composed of / be made up of**: *The committee **is composed of** twelve members.*\n- **consist in** (formal) = have as its essential feature: *Happiness consists in contentment.*\n\n*Comprises of* is an error. *Is comprised of* is very common but criticised by many editors; in exams and careful writing, use *consists of*, *comprises* or *is composed of*.\n\n### Prepositions with nouns and verbs\n- *an increase **in** prices* (the thing that rises) vs *an increase **of** 5%* (the amount)\n- *a solution **to*** a problem; *the key **to*** success; *an approach **to*** teaching\n- *meet **with** opposition / approval*; *comply **with** the rules*; *account **for** a difference*\n- *insist **on***, *object **to** + -ing*, *refrain **from** + -ing*\n\n### Different from / to / than\n*Different from* is accepted everywhere; *different to* is common in British English; *different than* is common in American English. In formal international writing, *different from* is the safest choice.\n\n### Strategy\nRecord new formal words in a phrase, never alone: not *conducive* but *conducive to learning*. When editing, check every adjective + preposition pair in a learner's or collocation dictionary, especially in high-stakes writing.",
+        "examples": [
+          {
+            "en": "The committee consists of twelve members drawn from four departments.",
+            "id": "Komite itu terdiri atas dua belas anggota dari empat departemen.",
+            "note": "consist of = comprise."
+          },
+          {
+            "en": "The final offer is contingent on satisfactory references.",
+            "id": "Tawaran akhir bergantung pada referensi yang memuaskan.",
+            "note": "contingent on/upon."
+          },
+          {
+            "en": "His refusal to answer was tantamount to an admission of guilt.",
+            "id": "Penolakannya untuk menjawab sama saja dengan pengakuan bersalah.",
+            "note": "tantamount to = equivalent in effect to."
+          },
+          {
+            "en": "Open-plan offices are not always conducive to concentration.",
+            "id": "Kantor tanpa sekat tidak selalu mendukung konsentrasi.",
+            "note": "conducive to + noun."
+          },
+          {
+            "en": "The proposal met with fierce opposition from local residents.",
+            "id": "Usulan itu mendapat tentangan keras dari warga setempat.",
+            "note": "meet with opposition."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "conducive",
+            "pos": "adjective",
+            "ipa": "/kənˈdjuːsɪv/",
+            "meaning": "mendukung, kondusif (untuk)",
+            "example": "A calm atmosphere is conducive to learning."
+          },
+          {
+            "word": "tantamount",
+            "pos": "adjective",
+            "ipa": "/ˈtæntəmaʊnt/",
+            "meaning": "sama saja dengan, setara dengan",
+            "example": "Ignoring the warning would be tantamount to negligence."
+          },
+          {
+            "word": "contingent",
+            "pos": "adjective",
+            "ipa": "/kənˈtɪndʒənt/",
+            "meaning": "bergantung pada (syarat tertentu)",
+            "example": "Funding is contingent upon the project's results."
+          },
+          {
+            "word": "impervious",
+            "pos": "adjective",
+            "ipa": "/ɪmˈpɜːviəs/",
+            "meaning": "tidak terpengaruh oleh; kedap",
+            "example": "He seemed impervious to the cold."
+          },
+          {
+            "word": "oblivious",
+            "pos": "adjective",
+            "ipa": "/əˈblɪviəs/",
+            "meaning": "tidak sadar, tidak menyadari",
+            "example": "She was oblivious to the noise around her."
+          },
+          {
+            "word": "fraught",
+            "pos": "adjective",
+            "ipa": "/frɔːt/",
+            "meaning": "penuh dengan (masalah, bahaya)",
+            "example": "The negotiations were fraught with difficulty."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "be + formal adjective + fixed preposition + noun/-ing",
+            "example": "The area is prone to flooding.",
+            "note": "Learn the adjective and preposition as one unit."
+          },
+          {
+            "pattern": "consist of / comprise / be composed of + parts",
+            "example": "The book comprises ten chapters.",
+            "note": "Never 'comprises of'."
+          },
+          {
+            "pattern": "verb + preposition + -ing",
+            "example": "Please refrain from using your phone.",
+            "note": "After a preposition, use the -ing form."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "The course comprises of six modules.",
+            "right": "The course comprises six modules.",
+            "why": "Comprise takes a direct object; use consists of if you want a preposition."
+          },
+          {
+            "wrong": "She was completely oblivious with the tension in the room.",
+            "right": "She was completely oblivious to the tension in the room.",
+            "why": "Oblivious is followed by to (or of), not with."
+          },
+          {
+            "wrong": "The region is rich of natural resources.",
+            "right": "The region is rich in natural resources.",
+            "why": "Rich takes in when it means having a lot of something."
+          },
+          {
+            "wrong": "We must refrain to make promises we cannot keep.",
+            "right": "We must refrain from making promises we cannot keep.",
+            "why": "Refrain takes from + -ing."
+          }
+        ],
+        "summary": "Formal adjectives, verbs and nouns take fixed prepositions: conducive to, tantamount to, contingent on, impervious to, oblivious to/of, prone to, fraught with, devoid of, rich in. Use consist of, comprise (no preposition) or be composed of for parts and wholes. Learn every formal word together with its preposition.",
+        "reviewCards": [
+          {
+            "front": "conducive ___ / tantamount ___",
+            "back": "conducive to / tantamount to"
+          },
+          {
+            "front": "contingent ___",
+            "back": "on / upon"
+          },
+          {
+            "front": "The team ___ five people. (comprise / consist)",
+            "back": "comprises / consists of (never comprises of)"
+          },
+          {
+            "front": "fraught ___ / devoid ___",
+            "back": "fraught with / devoid of"
+          },
+          {
+            "front": "refrain ___",
+            "back": "from + -ing"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u10-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "prepositions",
+          "difficulty": 4,
+          "stage": "guided",
+          "prompt": "Choose the correct option: \"The selection committee ___ twelve members from four departments.\"",
+          "instructions": "Which verb describes a whole and its parts, and which preposition (if any) does it take?",
+          "options": ["consists of", "comprises of", "consists in", "is comprised by"],
+          "answer": 0,
+          "explanation": "Consist of introduces the parts of a whole. Comprise takes no preposition, so 'comprises of' is wrong; consist in means 'have as its essential feature'; and 'is comprised by' is not standard."
+        },
+        {
+          "id": "c2-u10-l4-q2",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "prepositions",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Drag the correct prepositions into the gaps.",
+          "text": "The final payment is contingent ___ the board's approval, and failing to deliver the goods would be tantamount ___ a breach of contract.",
+          "bank": ["on", "to", "with", "of", "for"],
+          "answers": ["on", "to"],
+          "explanation": "Contingent is followed by on (or upon), and tantamount is always followed by to. With, of and for do not combine with these adjectives."
+        },
+        {
+          "id": "c2-u10-l4-q3",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "prepositions",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Complete with the correct preposition.",
+          "text": "Constant interruptions and noise are hardly conducive ___ deep concentration.",
+          "answers": [["to"]],
+          "explanation": "Conducive is always followed by to: conducive to concentration, conducive to learning."
+        },
+        {
+          "id": "c2-u10-l4-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "prepositions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Find the segment with a preposition error.",
+          "segments": [
+            "She seemed completely oblivious",
+            "with the tension in the room",
+            "and continued",
+            "to tell her joke."
+          ],
+          "errorIndex": 1,
+          "correction": "to the tension in the room",
+          "explanation": "Oblivious takes to (or of): oblivious to the tension. 'Continued to tell' is correct."
+        },
+        {
+          "id": "c2-u10-l4-q5",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "prepositions",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Select ALL the sentences with the correct dependent preposition.",
+          "options": [
+            "The success of the plan is contingent on public support.",
+            "Her behaviour was tantamount to a confession.",
+            "The region is rich of natural resources.",
+            "He is totally impervious to criticism.",
+            "The team is capable for winning the league.",
+            "The village is prone with flooding."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "Contingent on, tantamount to and impervious to are correct. The errors should be rich in, capable of winning and prone to flooding."
+        },
+        {
+          "id": "c2-u10-l4-q6",
+          "type": "sentence_transformation",
+          "category": "vocabulary",
+          "topic": "formal collocations",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Rewrite the sentence in a more formal style using the word in the cue.",
+          "sentence": "Whether the project succeeds depends on the weather.",
+          "cue": "Use: contingent",
+          "answers": [
+            "The success of the project is contingent on the weather.",
+            "The success of the project is contingent upon the weather.",
+            "The project's success is contingent on the weather.",
+            "The project's success is contingent upon the weather.",
+            "Whether the project succeeds is contingent on the weather.",
+            "Whether the project succeeds is contingent upon the weather."
+          ],
+          "explanation": "Be contingent on/upon is a formal equivalent of depend on. Nominalising 'whether the project succeeds' as 'the success of the project' adds further formality."
+        }
+      ]
+    },
+    {
+      "slug": "c2-u10-l5-editing-review",
+      "title": "Editing and Refining Advanced Writing",
+      "summary": "Edit drafts for concision, redundancy and accuracy, integrating structures from across the C levels.",
+      "estimatedMinutes": 35,
+      "objectives": [
+        "Eliminate redundancy and wordiness in advanced writing",
+        "Proofread systematically for the errors studied in this unit",
+        "Combine C-level structures accurately when revising sentences"
+      ],
+      "completionCriteria": "Read every section and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Editing as a skill\nProficient writers rarely produce perfect first drafts; they **revise**. Editing at C2 means improving clarity and precision without losing meaning. It involves three passes: **content and structure** (is the argument clear?), **style** (is it concise and appropriate in register?) and **accuracy** (are grammar, collocation and punctuation correct?).\n\n### Redundancy\nA **redundant** expression repeats an idea already contained in another word. Common examples:\n\n| Redundant | Concise |\n|---|---|\n| past history | history |\n| free gift | gift |\n| end result | result |\n| advance planning | planning |\n| merge together | merge |\n| revert back | revert |\n| completely unanimous | unanimous |\n| in my personal opinion, I think | in my opinion / I think |\n| each and every | each / every |\n\n### Wordiness\nWordy phrases can usually be replaced by one or two words:\n- *due to the fact that* → **because**\n- *in spite of the fact that* → **although**\n- *at this moment in time* → **now / currently**\n- *in the event that* → **if**\n- *has the ability to* → **can**\n- *it is important to note that* → (often delete)\n- *a large number of* → **many**\n\nConcision is not the same as brevity: do not delete information. *Because the train was late, we missed the scheduled meeting* is concise; *The train was late* is merely short.\n\n### An accuracy checklist\nWhen proofreading, check the specific errors that proficient writers still make:\n1. **Modifiers**: does every participle clause attach to the correct subject? (Lesson 1)\n2. **Agreement**: does the verb agree with the head noun? (Lesson 2)\n3. **Tense and aspect**: does each verb form match its time frame? (Lesson 3)\n4. **Prepositions and collocations**: conducive to, comprise without of, heavy rain? (Lesson 4 and Unit 4)\n5. **Parallelism**: are listed items in the same form? (Unit 6)\n6. **Inversion and fronting**: is the auxiliary in the right place after *Not until*, *So severe*, *Only after*? (C1 Unit 1, C2 Unit 1)\n7. **Register**: are informal words creeping into formal text? (Unit 5)\n\n### Integrating C-level structures\nEditing is also the moment to *upgrade* sentences: combine short sentences with participle clauses, use nominalisation for formality, add an inversion or cleft for emphasis, and hedge claims appropriately. But each structure must be accurate: an elegant inversion with the wrong auxiliary is worse than a plain sentence.\n\n### Reading aloud\nReading your text aloud, or using a text-to-speech tool, helps you notice missing words, awkward rhythm and over-long sentences. Many professional editors also leave a draft for a day before the final check, so that they read what is actually on the page rather than what they intended to write.",
+        "examples": [
+          {
+            "en": "Because the train was late, we missed the scheduled meeting.",
+            "id": "Karena keretanya terlambat, kami melewatkan rapat yang telah dijadwalkan.",
+            "note": "Concise version of a wordy original."
+          },
+          {
+            "en": "The two companies merged in 2019.",
+            "id": "Kedua perusahaan itu melakukan merger pada tahun 2019.",
+            "note": "Merge already implies 'together'."
+          },
+          {
+            "en": "Not until the final draft was submitted did the editor notice the error.",
+            "id": "Baru setelah draf akhir diserahkan, editor menyadari kesalahan itu.",
+            "note": "Inversion checked for accuracy."
+          },
+          {
+            "en": "Having reviewed the evidence, the panel concluded that the original findings, though flawed, remained broadly valid.",
+            "id": "Setelah meninjau bukti, panel menyimpulkan bahwa temuan awal, meskipun cacat, secara umum tetap sahih.",
+            "note": "Participle clause + concessive insertion."
+          },
+          {
+            "en": "The decision was unanimous.",
+            "id": "Keputusan itu bulat.",
+            "note": "Not 'completely unanimous'."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "redundant",
+            "pos": "adjective",
+            "ipa": "/rɪˈdʌndənt/",
+            "meaning": "berlebihan, mubazir (tidak diperlukan)",
+            "example": "'Free gift' is redundant because gifts are free."
+          },
+          {
+            "word": "concise",
+            "pos": "adjective",
+            "ipa": "/kənˈsaɪs/",
+            "meaning": "ringkas dan padat",
+            "example": "Her report was concise but thorough."
+          },
+          {
+            "word": "verbose",
+            "pos": "adjective",
+            "ipa": "/vɜːˈbəʊs/",
+            "meaning": "bertele-tele, terlalu banyak kata",
+            "example": "The verbose introduction lost the reader's attention."
+          },
+          {
+            "word": "proofread",
+            "pos": "verb",
+            "ipa": "/ˈpruːfriːd/",
+            "meaning": "mengoreksi naskah (memeriksa kesalahan)",
+            "example": "Always proofread your essay before submitting it."
+          },
+          {
+            "word": "revise",
+            "pos": "verb",
+            "ipa": "/rɪˈvaɪz/",
+            "meaning": "merevisi, memperbaiki",
+            "example": "She revised the chapter three times."
+          },
+          {
+            "word": "riddled with",
+            "pos": "adjective phrase",
+            "ipa": "/ˈrɪdld wɪð/",
+            "meaning": "penuh dengan (kesalahan, lubang, dsb.)",
+            "example": "The first draft was riddled with typing errors."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "wordy phrase → single connector",
+            "example": "due to the fact that → because; in the event that → if",
+            "note": "Replace without losing meaning."
+          },
+          {
+            "pattern": "Not until + clause + auxiliary + subject + verb",
+            "example": "Not until the data was checked did we see the problem.",
+            "note": "Check the inverted auxiliary when editing."
+          },
+          {
+            "pattern": "noun, though + adjective, + verb",
+            "example": "The findings, though flawed, remained valid.",
+            "note": "Concise concessive insertion."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "In my personal opinion, I think the policy is basically unnecessary.",
+            "right": "In my opinion, the policy is unnecessary.",
+            "why": "Personal, I think and basically repeat or weaken the idea; one opinion marker is enough."
+          },
+          {
+            "wrong": "The two firms merged together last year.",
+            "right": "The two firms merged last year.",
+            "why": "Merge already means come together, so together is redundant."
+          },
+          {
+            "wrong": "Due to the fact that funding was cut, the project was cancelled.",
+            "right": "Because funding was cut, the project was cancelled.",
+            "why": "Due to the fact that is a wordy equivalent of because."
+          },
+          {
+            "wrong": "Not until the report was published the errors were noticed.",
+            "right": "Not until the report was published were the errors noticed.",
+            "why": "A fronted Not until clause requires inversion in the main clause."
+          }
+        ],
+        "summary": "Edit in three passes: content and structure, style, and accuracy. Remove redundancy (past history, free gift, merge together) and wordiness (due to the fact that → because) without deleting information. Use a checklist covering modifiers, agreement, tense, prepositions, parallelism, inversion and register, and upgrade sentences only with structures you can use accurately.",
+        "reviewCards": [
+          {
+            "front": "past history / free gift / end result",
+            "back": "history / gift / result (redundant words removed)"
+          },
+          {
+            "front": "due to the fact that",
+            "back": "because"
+          },
+          {
+            "front": "three editing passes",
+            "back": "content and structure → style → accuracy"
+          },
+          {
+            "front": "concise vs short",
+            "back": "concise keeps all the information in fewer words; short may lose information"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c2-u10-l5-q1",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "redundancy",
+          "difficulty": 3,
+          "stage": "guided",
+          "prompt": "Which phrase is redundant?",
+          "instructions": "Look for a phrase in which the adjective repeats an idea already contained in the noun.",
+          "options": ["past history", "recent history", "brief history", "family history"],
+          "answer": 0,
+          "explanation": "History is by definition in the past, so past adds nothing. Recent, brief and family all add new information about the history."
+        },
+        {
+          "id": "c2-u10-l5-q2",
+          "type": "sentence_correction",
+          "category": "writing",
+          "topic": "concision",
+          "difficulty": 4,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence concisely, removing all redundancy but keeping the meaning.",
+          "sentence": "In my personal opinion, I think that the new policy is basically unnecessary.",
+          "answers": [
+            "In my opinion, the new policy is unnecessary.",
+            "I think the new policy is unnecessary.",
+            "I think that the new policy is unnecessary.",
+            "In my view, the new policy is unnecessary.",
+            "I believe the new policy is unnecessary.",
+            "I believe that the new policy is unnecessary.",
+            "I consider the new policy unnecessary.",
+            "I consider the new policy to be unnecessary.",
+            "The new policy is, in my opinion, unnecessary.",
+            "The new policy is, in my view, unnecessary."
+          ],
+          "explanation": "In my personal opinion and I think both mark the statement as an opinion, and personal adds nothing to my. Basically is a filler word. One opinion marker is enough."
+        },
+        {
+          "id": "c2-u10-l5-q3",
+          "type": "error_identification",
+          "category": "writing",
+          "topic": "redundancy",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the segment that contains a redundant word.",
+          "segments": [
+            "Every customer who orders",
+            "before Friday",
+            "will receive",
+            "a free gift."
+          ],
+          "errorIndex": 3,
+          "correction": "a gift.",
+          "explanation": "A gift is by definition free, so free gift is redundant, although it is common in advertising. In careful writing, a gift is sufficient."
+        },
+        {
+          "id": "c2-u10-l5-q4",
+          "type": "sentence_reconstruction",
+          "category": "writing",
+          "topic": "integrated review",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Put the fragments in order to form a polished sentence from a review panel's report.",
+          "fragments": [
+            "Having reviewed the evidence,",
+            "the panel concluded",
+            "that the original findings,",
+            "though flawed,",
+            "remained broadly valid."
+          ],
+          "acceptedAnswers": [
+            "Having reviewed the evidence, the panel concluded that the original findings remained broadly valid, though flawed."
+          ],
+          "explanation": "The perfect participle clause comes first and attaches to the subject the panel (who reviewed the evidence). The concessive insertion though flawed sits between the subject of the that-clause (the original findings) and its verb (remained)."
+        },
+        {
+          "id": "c2-u10-l5-q5",
+          "type": "single_choice",
+          "category": "writing",
+          "topic": "concision",
+          "difficulty": 4,
+          "stage": "quiz",
+          "prompt": "Which version is the most concise while keeping all the information?",
+          "context": "Original: \"Due to the fact that the train was late, we were unable to attend the meeting that had been scheduled.\"",
+          "options": [
+            "Because the train was late, we missed the scheduled meeting.",
+            "Due to the fact of the train being late, we could not attend.",
+            "The train was late.",
+            "Because of the train was late, we missed the meeting."
+          ],
+          "answer": 0,
+          "explanation": "The first option keeps all the information in fewer words. The second is still wordy and drops the meeting, the third loses the consequence, and the fourth is ungrammatical (because of must be followed by a noun phrase, not a clause)."
+        },
+        {
+          "id": "c2-u10-l5-q6",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "integrated review",
+          "difficulty": 5,
+          "stage": "quiz",
+          "prompt": "Choose the correct form for each gap.",
+          "text": "Not until the final draft ___ submitted did the editor notice that the data ___ incorrectly labelled from the start.",
+          "choices": [
+            ["was", "had", "did"],
+            ["had been", "has been", "have been"]
+          ],
+          "answers": [0, 0],
+          "explanation": "The Not until clause itself is not inverted and needs a passive: the final draft was submitted. The labelling happened before the editor noticed, so the past perfect passive had been is required; has been and have been clash with the past narrative."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c2-u10-t-q1",
+      "type": "sentence_correction",
+      "category": "grammar",
+      "topic": "dangling modifiers",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Correct the dangling modifier.",
+      "sentence": "While cooking dinner, the smoke alarm went off.",
+      "answers": [
+        "While I was cooking dinner, the smoke alarm went off.",
+        "While we were cooking dinner, the smoke alarm went off.",
+        "While she was cooking dinner, the smoke alarm went off.",
+        "While he was cooking dinner, the smoke alarm went off.",
+        "While they were cooking dinner, the smoke alarm went off.",
+        "While cooking dinner, I heard the smoke alarm go off.",
+        "While cooking dinner, we heard the smoke alarm go off.",
+        "While cooking dinner, I set off the smoke alarm.",
+        "The smoke alarm went off while I was cooking dinner.",
+        "The smoke alarm went off while we were cooking dinner."
+      ],
+      "explanation": "The smoke alarm was not cooking dinner. Either expand the opening into a full clause with its own subject (While I was cooking dinner) or make the cook the subject of the main clause (While cooking dinner, I heard ...)."
+    },
+    {
+      "id": "c2-u10-t-q2",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "subject-verb agreement",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Choose the correct verb for each gap.",
+      "text": "A list of the shortlisted candidates' names ___ been posted on the noticeboard, but there ___ several spelling errors in it.",
+      "choices": [
+        ["has", "have"],
+        ["are", "is"]
+      ],
+      "answers": [0, 0],
+      "explanation": "The head noun of the first subject is list (singular), so has been posted. In the there-clause, the verb agrees with the following noun phrase several spelling errors (plural), so are."
+    },
+    {
+      "id": "c2-u10-t-q3",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "tense and aspect",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct form of 'break' (the particle 'down' is already given).",
+      "text": "This is the third time the printer ___ down this week.",
+      "answers": [["has broken"]],
+      "explanation": "'This is the first/second/third time' is followed by the present perfect: has broken down."
+    },
+    {
+      "id": "c2-u10-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "prepositions",
+      "difficulty": 4,
+      "stage": "unit_test",
+      "prompt": "Find the segment with a preposition error.",
+      "segments": [
+        "The council's proposal",
+        "was met",
+        "by fierce opposition",
+        "from local residents."
+      ],
+      "errorIndex": 2,
+      "correction": "with fierce opposition",
+      "explanation": "The fixed collocation is meet with opposition (or approval, resistance). In the passive it remains was met with, not was met by."
+    },
+    {
+      "id": "c2-u10-t-q5",
+      "type": "single_choice",
+      "category": "writing",
+      "topic": "redundancy",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Which sentence is correct and free of redundancy?",
+      "options": [
+        "The two companies merged together in 2019.",
+        "The two companies merged in 2019.",
+        "The two companies were merged together each other in 2019.",
+        "The two companies merged with each other together in 2019."
+      ],
+      "answer": 1,
+      "explanation": "Merge already means join together, so together is redundant. The third and fourth options are also ungrammatical."
+    },
+    {
+      "id": "c2-u10-t-q6",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "integrated review",
+      "difficulty": 5,
+      "stage": "unit_test",
+      "prompt": "Put the words in order to form a sentence with inversion.",
+      "words": ["Only", "after", "the", "figures", "had", "been", "verified", "was", "the", "report", "published."],
+      "explanation": "Only after + clause is fronted, so the main clause is inverted: was the report published. The subordinate clause (the figures had been verified) keeps normal word order and uses the past perfect passive for the earlier event."
+    }
+  ]
+}

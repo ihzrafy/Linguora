@@ -1,0 +1,629 @@
+{
+  "slug": "a1-u01-hello",
+  "number": 1,
+  "title": "Hello! Introducing Yourself",
+  "description": "Unit pertama untuk pemula: menyapa dan berpamitan, mengenal subject pronouns, memakai to be (am/is/are) dalam kalimat positif, menyebut negara dan kebangsaan, serta mengeja nama dengan alfabet bahasa Inggris.",
+  "objectives": [
+    "Menyapa dan berpamitan dengan tepat dalam situasi formal dan santai",
+    "Menggunakan subject pronouns (I, you, he, she, it, we, they)",
+    "Membuat kalimat positif dengan am/is/are dan bentuk singkatnya",
+    "Menyebut asal negara dan kebangsaan",
+    "Mengeja nama dengan alfabet bahasa Inggris"
+  ],
+  "lessons": [
+    {
+      "slug": "a1-u01-l1-greetings",
+      "title": "Greetings and Goodbyes",
+      "summary": "Menyapa, menanyakan kabar, dan berpamitan dalam situasi formal dan santai.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Memilih sapaan yang tepat berdasarkan waktu dan situasi",
+        "Menanyakan dan menjawab How are you?",
+        "Menggunakan ungkapan berpamitan seperti Goodbye dan See you later"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menyapa dalam bahasa Inggris\nSaat bertemu seseorang, kita memilih sapaan berdasarkan **situasi** (formal atau santai) dan **waktu**. Sapaan santai seperti **Hello** dan **Hi** bisa dipakai kapan saja dengan teman, keluarga, atau teman sekelas. Untuk situasi formal — misalnya dengan guru, atasan, atau orang yang baru dikenal — gunakan sapaan berdasarkan waktu:\n\n| Waktu | Sapaan | Arti |\n| --- | --- | --- |\n| sebelum pukul 12.00 | Good morning | Selamat pagi |\n| 12.00 – sekitar 18.00 | Good afternoon | Selamat siang/sore |\n| setelah sekitar 18.00 | Good evening | Selamat malam (saat bertemu) |\n\n### Good evening atau Good night?\nIni kesalahan yang sangat umum bagi pelajar Indonesia. Dalam bahasa Indonesia, *selamat malam* dipakai saat bertemu **dan** saat berpisah. Dalam bahasa Inggris, **Good evening** hanya untuk **menyapa**, sedangkan **Good night** hanya untuk **berpamitan** di malam hari atau sebelum tidur.\n\n### Menanyakan kabar\nSetelah menyapa, orang biasanya bertanya **How are you?** (Apa kabar?). Jawaban yang umum:\n- **I'm fine, thank you. And you?** — Baik, terima kasih. Kamu?\n- **I'm good, thanks.** — Baik, makasih. (santai)\n- **Not bad.** — Lumayan.\n\nJika baru pertama kali bertemu, ucapkan **Nice to meet you** (Senang berkenalan denganmu). Jawabannya: **Nice to meet you, too.**\n\n### Berpamitan\n| Ungkapan | Kapan dipakai |\n| --- | --- |\n| Goodbye | umum, sedikit formal |\n| Bye / Bye-bye | santai |\n| See you later / See you tomorrow | santai, akan bertemu lagi |\n| Have a nice day | sopan dan ramah |\n| Good night | malam hari / sebelum tidur |\n\n### Gelar sopan\nDalam situasi formal, gunakan **Mr.** (laki-laki), **Mrs.** (perempuan yang sudah menikah), atau **Ms.** (perempuan, netral) sebelum nama belakang: *Good morning, Mr. Adams.* Ingat: bahasa Inggris tidak memakai *Sir* + nama depan seperti *Pak Budi*; cukup *Mr. Hartono* atau *Sir* saja.",
+        "examples": [
+          { "en": "Good morning, Ms. Clark.", "id": "Selamat pagi, Bu Clark.", "note": "Formal, sebelum pukul 12 siang." },
+          { "en": "Hi, Dani! How are you?", "id": "Hai, Dani! Apa kabar?", "note": "Santai, dengan teman." },
+          { "en": "I'm fine, thank you. And you?", "id": "Saya baik, terima kasih. Kamu?" },
+          { "en": "Nice to meet you, Mr. Lee.", "id": "Senang berkenalan dengan Anda, Pak Lee.", "note": "Hanya saat pertama kali bertemu." },
+          { "en": "Good night, Mum. See you tomorrow.", "id": "Selamat malam (tidur), Bu. Sampai jumpa besok.", "note": "Berpamitan sebelum tidur." }
+        ],
+        "vocabulary": [
+          { "word": "hello", "pos": "interjection", "ipa": "/həˈləʊ/", "meaning": "halo", "example": "Hello, Mrs. Lewis." },
+          { "word": "goodbye", "pos": "interjection", "ipa": "/ˌɡʊdˈbaɪ/", "meaning": "selamat tinggal, sampai jumpa", "example": "Goodbye, everyone!" },
+          { "word": "morning", "pos": "noun", "ipa": "/ˈmɔːnɪŋ/", "meaning": "pagi", "example": "Good morning, class." },
+          { "word": "afternoon", "pos": "noun", "ipa": "/ˌɑːftəˈnuːn/", "meaning": "siang, sore", "example": "Good afternoon, Mr. Ford." },
+          { "word": "evening", "pos": "noun", "ipa": "/ˈiːvnɪŋ/", "meaning": "malam (sekitar pukul 18.00–22.00)", "example": "Good evening, ladies and gentlemen." },
+          { "word": "night", "pos": "noun", "ipa": "/naɪt/", "meaning": "malam (waktu tidur)", "example": "Good night, Dad." },
+          { "word": "fine", "pos": "adjective", "ipa": "/faɪn/", "meaning": "baik, sehat", "example": "I'm fine, thanks." },
+          { "word": "meet", "pos": "verb", "ipa": "/miːt/", "meaning": "bertemu, berkenalan", "example": "Nice to meet you." }
+        ],
+        "grammar": [
+          { "pattern": "Good + morning / afternoon / evening (+ name)", "example": "Good afternoon, Mrs. Hall.", "note": "Sapaan formal berdasarkan waktu." },
+          { "pattern": "How are you? → I'm + fine / good / OK (+ thank you)", "example": "How are you? — I'm good, thanks.", "note": "I'm adalah singkatan dari I am." },
+          { "pattern": "See you + later / tomorrow / soon", "example": "Bye, Rina! See you tomorrow.", "note": "Ungkapan berpamitan santai." }
+        ],
+        "mistakes": [
+          { "wrong": "Good night, Mr. Adams! Welcome to the meeting.", "right": "Good evening, Mr. Adams! Welcome to the meeting.", "why": "Good night hanya untuk berpamitan, bukan untuk menyapa saat datang." },
+          { "wrong": "A: Nice to meet you. B: Nice to meet you, also.", "right": "A: Nice to meet you. B: Nice to meet you, too.", "why": "Balasan yang alami adalah ... too di akhir kalimat." },
+          { "wrong": "A: How are you? B: I'm fine, thank you. (lalu diam saja)", "right": "A: How are you? B: I'm fine, thank you. And you?", "why": "Bukan salah tata bahasa, tetapi lebih sopan jika kita balik bertanya And you?" }
+        ],
+        "summary": "Gunakan **Hello/Hi** untuk situasi santai dan **Good morning/afternoon/evening** untuk situasi formal. **Good night** hanya untuk berpamitan. Tanyakan kabar dengan **How are you?** dan jawab **I'm fine, thank you. And you?** Saat pertama bertemu, ucapkan **Nice to meet you**. Untuk berpamitan, pakai **Goodbye, Bye, See you later,** atau **Have a nice day**.",
+        "reviewCards": [
+          { "front": "Good evening vs Good night", "back": "Good evening = menyapa di malam hari; Good night = berpamitan/sebelum tidur" },
+          { "front": "Nice to meet you.", "back": "Senang berkenalan denganmu. Balasan: Nice to meet you, too." },
+          { "front": "How are you?", "back": "Apa kabar? → I'm fine, thank you. And you?" },
+          { "front": "See you later.", "back": "Sampai jumpa nanti (santai)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u01-l1-q1", "type": "single_choice", "category": "conversation", "topic": "greetings",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "It is 7 p.m. You meet your neighbour, Mrs. Lewis, in the street. What do you say?",
+          "instructions": "Pilih sapaan yang paling tepat.",
+          "options": ["Good night, Mrs. Lewis.", "Good evening, Mrs. Lewis.", "Good morning, Mrs. Lewis."],
+          "answer": 1,
+          "explanation": "Pukul 7 malam dan kita baru bertemu, jadi kita menyapa dengan Good evening. Good night hanya untuk berpamitan.",
+          "misconception": "Good night bukan sapaan saat bertemu."
+        },
+        {
+          "id": "a1-u01-l1-q2", "type": "matching", "category": "conversation", "topic": "greetings",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match each sentence with the best reply.",
+          "pairs": [
+            { "left": "How are you?", "right": "I'm fine, thank you." },
+            { "left": "Nice to meet you.", "right": "Nice to meet you, too." },
+            { "left": "Goodbye!", "right": "Bye! See you tomorrow." },
+            { "left": "Hello, I'm Dina.", "right": "Hi, Dina. I'm Raka." }
+          ],
+          "explanation": "How are you? dijawab dengan kabar; Nice to meet you dibalas Nice to meet you, too; Goodbye dibalas ungkapan berpamitan; perkenalan dibalas dengan memperkenalkan diri."
+        },
+        {
+          "id": "a1-u01-l1-q3", "type": "dialogue_completion", "category": "conversation", "topic": "greetings",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Ms. Clark", "text": "Good afternoon, Tono. How are you?" },
+            { "speaker": "Tono", "text": null },
+            { "speaker": "Ms. Clark", "text": "I'm good, thanks." }
+          ],
+          "options": ["I'm fine, thank you. And you?", "Good night, Ms. Clark.", "Nice to meet you, too.", "See you later."],
+          "answer": 0,
+          "explanation": "Ms. Clark bertanya How are you?, lalu menjawab I'm good, thanks. Jadi Tono harus menjawab kabarnya dan balik bertanya: I'm fine, thank you. And you?"
+        },
+        {
+          "id": "a1-u01-l1-q4", "type": "fill_blank", "category": "conversation", "topic": "greetings",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the reply with one word.",
+          "text": "A: Nice to meet you, Sara. B: Nice to meet you, ___.",
+          "answers": [["too"]],
+          "explanation": "Balasan untuk Nice to meet you adalah Nice to meet you, too (juga)."
+        },
+        {
+          "id": "a1-u01-l1-q5", "type": "error_identification", "category": "conversation", "topic": "greetings",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "You arrive at a party at 8 p.m. Find the mistake.",
+          "segments": ["Good night, Mr. Hall!", "Thank you for the invitation.", "How are you?"],
+          "errorIndex": 0,
+          "correction": "Good evening, Mr. Hall!",
+          "explanation": "Saat datang (bertemu) di malam hari, gunakan Good evening. Good night dipakai saat pulang/berpamitan."
+        },
+        {
+          "id": "a1-u01-l1-q6", "type": "multiple_select", "category": "conversation", "topic": "greetings",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which expressions can you use to say goodbye? Choose all correct answers.",
+          "options": ["See you later.", "Good morning.", "Have a nice day.", "Good night.", "How are you?"],
+          "answers": [0, 2, 3],
+          "explanation": "See you later, Have a nice day, dan Good night dipakai saat berpisah. Good morning dan How are you? dipakai saat bertemu."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u01-l2-subject-pronouns",
+      "title": "Subject Pronouns: I, You, He, She...",
+      "summary": "Mengenal kata ganti subjek dan cara memakainya untuk orang, benda, dan kelompok.",
+      "estimatedMinutes": 15,
+      "objectives": [
+        "Menyebut ketujuh subject pronouns dan artinya",
+        "Membedakan he, she, dan it",
+        "Mengganti nama orang atau benda dengan pronoun yang tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu subject pronoun?\n**Subject pronoun** (kata ganti subjek) adalah kata yang menggantikan nama orang atau benda yang menjadi **pelaku/subjek** kalimat. Dengan pronoun, kita tidak perlu mengulang nama terus-menerus: *Rina is a student. **She** is nice.*\n\n| Pronoun | Arti | Dipakai untuk |\n| --- | --- | --- |\n| I | saya, aku | diri sendiri |\n| you | kamu, Anda, kalian | orang yang diajak bicara (satu atau banyak) |\n| he | dia (laki-laki) | satu laki-laki |\n| she | dia (perempuan) | satu perempuan |\n| it | dia/ia/itu (benda, hewan) | satu benda, hewan, tempat |\n| we | kami, kita | saya + orang lain |\n| they | mereka | dua orang/benda atau lebih |\n\n### Hati-hati: dia = he atau she\nDalam bahasa Indonesia, *dia* dipakai untuk laki-laki dan perempuan. Dalam bahasa Inggris kita **wajib** memilih: **he** untuk laki-laki dan **she** untuk perempuan. Untuk benda dan hewan (yang tidak kita kenal secara pribadi), gunakan **it**.\n\n### Aturan penting\n1. **I** selalu ditulis dengan huruf kapital, di mana pun posisinya: *Budi and **I** are friends.*\n2. **You** sama untuk satu orang (kamu/Anda) dan banyak orang (kalian).\n3. **We** mencakup *kami* dan *kita* — bahasa Inggris tidak membedakannya.\n4. **They** dipakai untuk orang **dan** benda dalam bentuk jamak: *The books are new. **They** are on the table.*\n5. Jika kita menyebut diri sendiri bersama orang lain, sebut orang lain dulu: ***Lina and I*** (bukan *I and Lina*).\n\n### Mengganti nama dengan pronoun\n| Kata benda | Pronoun |\n| --- | --- |\n| Mr. Reed | he |\n| Anita | she |\n| the bag | it |\n| Tom and Lisa | they |\n| Lina and I | we |\n| you and Dani | you |\n\nCatatan: kalimat contoh di pelajaran ini memakai **is** dan **are**. Kita akan mempelajari *to be* secara lengkap di pelajaran berikutnya.",
+        "examples": [
+          { "en": "Anita is a nurse. She is from Bali.", "id": "Anita seorang perawat. Dia (perempuan) dari Bali." },
+          { "en": "Mr. Reed is a teacher. He is kind.", "id": "Pak Reed seorang guru. Dia (laki-laki) baik hati." },
+          { "en": "The bag is new. It is black.", "id": "Tas itu baru. Tas itu hitam." },
+          { "en": "Lina and I are students. We are in Class 1A.", "id": "Lina dan saya adalah siswa. Kami di kelas 1A." },
+          { "en": "Tom and Lisa are at school. They are happy.", "id": "Tom dan Lisa di sekolah. Mereka senang." }
+        ],
+        "vocabulary": [
+          { "word": "I", "pos": "pronoun", "ipa": "/aɪ/", "meaning": "saya, aku", "example": "I am Raka." },
+          { "word": "you", "pos": "pronoun", "ipa": "/juː/", "meaning": "kamu, Anda, kalian", "example": "You are very kind." },
+          { "word": "he", "pos": "pronoun", "ipa": "/hiː/", "meaning": "dia (laki-laki)", "example": "He is a doctor." },
+          { "word": "she", "pos": "pronoun", "ipa": "/ʃiː/", "meaning": "dia (perempuan)", "example": "She is a student." },
+          { "word": "it", "pos": "pronoun", "ipa": "/ɪt/", "meaning": "dia/ia/itu (benda, hewan)", "example": "It is a small cat." },
+          { "word": "we", "pos": "pronoun", "ipa": "/wiː/", "meaning": "kami, kita", "example": "We are friends." },
+          { "word": "they", "pos": "pronoun", "ipa": "/ðeɪ/", "meaning": "mereka", "example": "They are at home." }
+        ],
+        "grammar": [
+          { "pattern": "Nama orang laki-laki → he; perempuan → she", "example": "Mr. Reed → he; Anita → she", "note": "Bahasa Inggris membedakan jenis kelamin, bahasa Indonesia tidak (dia)." },
+          { "pattern": "Benda/hewan tunggal → it; jamak → they", "example": "the book → it; the books → they" },
+          { "pattern": "Orang lain + and I → we", "example": "Lina and I → we", "note": "Sebut orang lain lebih dulu, lalu I." }
+        ],
+        "mistakes": [
+          { "wrong": "Dewi is my friend. He is from Bandung.", "right": "Dewi is my friend. She is from Bandung.", "why": "Dewi adalah perempuan, jadi pronoun-nya she, bukan he." },
+          { "wrong": "Sam and i are friends.", "right": "Sam and I are friends.", "why": "I selalu ditulis dengan huruf kapital." },
+          { "wrong": "The phone is new. He is black.", "right": "The phone is new. It is black.", "why": "Untuk benda gunakan it, bukan he/she." }
+        ],
+        "summary": "Subject pronouns menggantikan subjek kalimat: **I, you, he, she, it, we, they**. Pilih **he** untuk laki-laki, **she** untuk perempuan, dan **it** untuk benda atau hewan. **They** untuk orang atau benda jamak, **we** untuk saya + orang lain. Tulis **I** selalu dengan huruf kapital.",
+        "reviewCards": [
+          { "front": "dia (laki-laki) / dia (perempuan)", "back": "he / she" },
+          { "front": "kami / kita", "back": "we (bahasa Inggris tidak membedakan)" },
+          { "front": "Pronoun untuk benda tunggal", "back": "it — The book is new. It is red." },
+          { "front": "Lina and I = ?", "back": "we" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u01-l2-q1", "type": "single_choice", "category": "grammar", "topic": "subject pronouns",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Mr. Tan is a doctor. ___ is from Singapore.",
+          "instructions": "Pilih pronoun yang tepat untuk Mr. Tan.",
+          "options": ["She", "He", "It"],
+          "answer": 1,
+          "explanation": "Mr. adalah gelar untuk laki-laki, jadi pronoun-nya He."
+        },
+        {
+          "id": "a1-u01-l2-q2", "type": "matching", "category": "vocabulary", "topic": "subject pronouns",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Match the Indonesian words with the English pronouns.",
+          "pairs": [
+            { "left": "saya / aku", "right": "I" },
+            { "left": "kami / kita", "right": "we" },
+            { "left": "mereka", "right": "they" },
+            { "left": "dia (perempuan)", "right": "she" },
+            { "left": "dia (laki-laki)", "right": "he" },
+            { "left": "benda atau hewan (tunggal)", "right": "it" }
+          ],
+          "explanation": "I = saya; we = kami/kita; they = mereka; she = dia (perempuan); he = dia (laki-laki); it = benda/hewan tunggal."
+        },
+        {
+          "id": "a1-u01-l2-q3", "type": "drag_drop", "category": "grammar", "topic": "subject pronouns",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct pronouns into the gaps.",
+          "text": "Lina and I are students. ___ are in Class 1A. Mr. Reed is the teacher. ___ is very kind.",
+          "bank": ["We", "He", "They", "She", "It"],
+          "answers": ["We", "He"],
+          "explanation": "Lina and I = We. Mr. Reed adalah laki-laki = He."
+        },
+        {
+          "id": "a1-u01-l2-q4", "type": "sentence_transformation", "category": "grammar", "topic": "subject pronouns",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Rewrite the sentence. Replace the name with a subject pronoun.",
+          "sentence": "Anita is a nurse.",
+          "cue": "Ganti 'Anita' dengan pronoun.",
+          "answers": ["She is a nurse.", "She's a nurse."],
+          "explanation": "Anita adalah nama perempuan, jadi diganti dengan She."
+        },
+        {
+          "id": "a1-u01-l2-q5", "type": "translation", "category": "grammar", "topic": "subject pronouns",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Mereka di sekolah.",
+          "direction": "id-en",
+          "answers": ["They are at school.", "They're at school.", "They are at the school.", "They're at the school."],
+          "explanation": "Mereka = They. Dalam bahasa Inggris kita perlu kata kerja are: They are at school."
+        },
+        {
+          "id": "a1-u01-l2-q6", "type": "error_identification", "category": "grammar", "topic": "subject pronouns",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Dewi is a girl from Bandung. Find the mistake.",
+          "segments": ["Dewi is a student.", "He is", "from Bandung."],
+          "errorIndex": 1,
+          "correction": "She is",
+          "explanation": "Dewi adalah perempuan, jadi pronoun-nya She, bukan He."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u01-l3-to-be-positive",
+      "title": "To Be: Am, Is, Are",
+      "summary": "Membuat kalimat positif dengan am, is, are dan bentuk singkatnya (I'm, she's, they're).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Memasangkan subject pronoun dengan am, is, atau are",
+        "Menggunakan bentuk singkat (contractions) seperti I'm dan they're",
+        "Menyadari bahwa kalimat bahasa Inggris memerlukan kata kerja"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Apa itu to be?\n**To be** adalah kata kerja paling penting dalam bahasa Inggris. Dalam present tense, bentuknya adalah **am, is, are**. Artinya bisa *adalah*, *ialah*, atau sering kali **tidak diterjemahkan** sama sekali.\n\nDalam bahasa Indonesia kita bisa berkata *Saya lapar* atau *Dia di rumah* tanpa kata kerja. Dalam bahasa Inggris, kalimat **harus** punya kata kerja. Jadi:\n- *Saya lapar.* → **I am** hungry. (bukan ~~I hungry~~)\n- *Dia di rumah.* → **She is** at home. (bukan ~~She at home~~)\n\n### Tabel to be (positif)\n| Subjek | To be | Bentuk singkat | Contoh |\n| --- | --- | --- | --- |\n| I | am | I'm | I'm Raka. |\n| you | are | you're | You're late. |\n| he | is | he's | He's a teacher. |\n| she | is | she's | She's happy. |\n| it | is | it's | It's hot today. |\n| we | are | we're | We're students. |\n| they | are | they're | They're at home. |\n\nCara mudah mengingat: **I → am**, **he/she/it (satu orang/benda) → is**, **you/we/they → are**.\n\n### Kapan memakai to be?\n- **Nama dan identitas**: *I'm Nadia.*\n- **Pekerjaan**: *He is a doctor.*\n- **Perasaan atau keadaan**: *We are tired.*\n- **Tempat/posisi**: *They are at school.*\n- **Asal**: *She is from Bali.* (dibahas lagi di pelajaran 4)\n\n### Bentuk singkat (contractions)\nDalam percakapan dan tulisan santai, penutur asli hampir selalu memakai bentuk singkat: **I'm, you're, he's, she's, it's, we're, they're**. Tanda apostrof (') menggantikan huruf yang hilang. Dalam tulisan formal, bentuk panjang (I am, they are) lebih sering dipakai.\n\n### Nama orang juga memakai is/are\nJika subjeknya nama satu orang, gunakan **is**: *Rina is happy.* Jika dua orang atau lebih, gunakan **are**: *Rina and Tono are happy.*",
+        "examples": [
+          { "en": "I'm a student.", "id": "Saya seorang pelajar." },
+          { "en": "She is hungry.", "id": "Dia (perempuan) lapar.", "note": "Bahasa Indonesia tidak perlu kata kerja, bahasa Inggris perlu is." },
+          { "en": "We're at home.", "id": "Kami di rumah." },
+          { "en": "Mr. Ford is very busy today.", "id": "Pak Ford sangat sibuk hari ini." },
+          { "en": "Ana and Leo are tired.", "id": "Ana dan Leo lelah." }
+        ],
+        "vocabulary": [
+          { "word": "happy", "pos": "adjective", "ipa": "/ˈhæpi/", "meaning": "senang, bahagia", "example": "I'm happy today." },
+          { "word": "tired", "pos": "adjective", "ipa": "/ˈtaɪəd/", "meaning": "lelah, capek", "example": "They are tired." },
+          { "word": "busy", "pos": "adjective", "ipa": "/ˈbɪzi/", "meaning": "sibuk", "example": "She is very busy." },
+          { "word": "hungry", "pos": "adjective", "ipa": "/ˈhʌŋɡri/", "meaning": "lapar", "example": "We're hungry." },
+          { "word": "student", "pos": "noun", "ipa": "/ˈstjuːdənt/", "meaning": "pelajar, mahasiswa", "example": "He is a student." },
+          { "word": "teacher", "pos": "noun", "ipa": "/ˈtiːtʃə/", "meaning": "guru", "example": "Ms. Clark is a teacher." },
+          { "word": "at home", "pos": "phrase", "ipa": "/ət ˈhəʊm/", "meaning": "di rumah", "example": "I'm at home now." }
+        ],
+        "grammar": [
+          { "pattern": "I + am", "example": "I am happy. / I'm happy." },
+          { "pattern": "He / She / It / satu nama + is", "example": "Rina is busy. / She's busy." },
+          { "pattern": "You / We / They / dua nama atau lebih + are", "example": "Ana and Leo are tired. / They're tired." }
+        ],
+        "mistakes": [
+          { "wrong": "Rina happy today.", "right": "Rina is happy today.", "why": "Kalimat bahasa Inggris wajib punya kata kerja. Tambahkan is." },
+          { "wrong": "I is a student.", "right": "I am a student.", "why": "I selalu berpasangan dengan am." },
+          { "wrong": "They is at school.", "right": "They are at school.", "why": "They (jamak) memakai are." },
+          { "wrong": "Im tired.", "right": "I'm tired.", "why": "Bentuk singkat memerlukan apostrof: I'm." }
+        ],
+        "summary": "To be dalam present tense: **I am**, **he/she/it is**, **you/we/they are**. Bahasa Inggris selalu memerlukan kata kerja, jadi *Saya lapar* = **I am hungry**. Dalam percakapan, pakai bentuk singkat: **I'm, you're, he's, she's, it's, we're, they're**.",
+        "reviewCards": [
+          { "front": "I ___ / he, she, it ___ / you, we, they ___", "back": "am / is / are" },
+          { "front": "Saya lapar.", "back": "I am hungry. / I'm hungry." },
+          { "front": "Bentuk singkat they are", "back": "they're" },
+          { "front": "Rina and Tono ___ friends.", "back": "are (dua orang)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u01-l3-q1", "type": "dropdown", "category": "grammar", "topic": "to be positive",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Choose the correct form of to be.",
+          "instructions": "Ingat: I → am, he/she/it → is, you/we/they → are.",
+          "text": "I ___ happy today, but Ana ___ tired.",
+          "choices": [["am", "is", "are"], ["am", "is", "are"]],
+          "answers": [0, 1],
+          "explanation": "I berpasangan dengan am. Ana adalah satu orang (she), jadi memakai is."
+        },
+        {
+          "id": "a1-u01-l3-q2", "type": "fill_blank", "category": "grammar", "topic": "to be positive",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Write am, is or are.",
+          "text": "We ___ at home. Our friends ___ at school. The teacher ___ in the classroom.",
+          "answers": [["are"], ["are"], ["is"]],
+          "explanation": "We → are; our friends (jamak) → are; the teacher (satu orang) → is."
+        },
+        {
+          "id": "a1-u01-l3-q3", "type": "word_order", "category": "grammar", "topic": "to be positive",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Mr.", "Ford", "is", "very", "busy", "today"],
+          "acceptedAnswers": ["Today Mr. Ford is very busy"],
+          "explanation": "Pola kalimat: subjek (Mr. Ford) + is + keterangan (very busy) + waktu (today)."
+        },
+        {
+          "id": "a1-u01-l3-q4", "type": "sentence_correction", "category": "grammar", "topic": "to be positive",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "Rina hungry now.",
+          "answers": ["Rina is hungry now.", "Rina's hungry now."],
+          "explanation": "Bahasa Inggris memerlukan kata kerja. Rina (satu orang) + is: Rina is hungry now.",
+          "misconception": "Menerjemahkan langsung dari bahasa Indonesia tanpa kata kerja."
+        },
+        {
+          "id": "a1-u01-l3-q5", "type": "single_choice", "category": "grammar", "topic": "contractions",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "What is the short form of 'they are'?",
+          "options": ["they'are", "theyre'", "they're", "the're"],
+          "answer": 2,
+          "explanation": "Huruf a pada are dihilangkan dan diganti apostrof: they're."
+        },
+        {
+          "id": "a1-u01-l3-q6", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "feelings",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "It is 11 p.m. Sam's day is long and his eyes are heavy. Sam is ___.",
+          "options": ["tired", "hungry", "busy"],
+          "answer": 0,
+          "explanation": "Malam hari, hari yang panjang, dan mata berat menunjukkan Sam lelah = tired."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u01-l4-countries-nationalities",
+      "title": "Countries and Nationalities",
+      "summary": "Menyebut asal negara dengan I'm from ... dan kebangsaan dengan I'm + nationality.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Bertanya dan menjawab Where are you from?",
+        "Membedakan nama negara dan kebangsaan",
+        "Menulis negara dan kebangsaan dengan huruf kapital"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Menanyakan asal\nUntuk menanyakan asal seseorang, gunakan **Where are you from?** (Kamu berasal dari mana?). Jawabannya memakai **from + nama negara/kota**:\n- *I'm **from Indonesia**.*\n- *She's **from Japan**.*\n- *We're **from Surabaya**.*\n\nKita juga bisa menyebut **kebangsaan** (nationality) dengan **to be + kata sifat kebangsaan** — tanpa *from*:\n- *I'm **Indonesian**.* (Saya orang Indonesia.)\n- *He's **Japanese**.* (Dia orang Jepang.)\n\n### Negara vs kebangsaan\n| Akhiran | Negara | Kebangsaan |\n| --- | --- | --- |\n| -n / -an / -ian | Indonesia, Malaysia, Australia, India, Brazil, America | Indonesian, Malaysian, Australian, Indian, Brazilian, American |\n| -ese | Japan, China, Vietnam | Japanese, Chinese, Vietnamese |\n| -ish | Britain, Spain, Turkey | British, Spanish, Turkish |\n| tidak beraturan | Thailand, France, the Netherlands | Thai, French, Dutch |\n| -an (tanpa i) | Korea, Germany, Mexico | Korean, German, Mexican |\n\n### Aturan penting\n1. Nama negara **dan** kebangsaan selalu diawali **huruf kapital**: *Indonesia, Indonesian* (bukan ~~indonesian~~).\n2. Setelah **from**, gunakan nama **negara**, bukan kebangsaan: *I'm from Thailand* (bukan ~~from Thai~~).\n3. Tanpa *from*, gunakan **kebangsaan**: *I'm Thai* (bukan ~~I'm Thailand~~).\n4. Beberapa negara memakai **the**: *the UK, the USA, the Netherlands, the Philippines*. Contoh: *He's from **the** UK.*\n5. Kebangsaan juga dipakai untuk bahasa pada banyak negara: *Japanese* = orang Jepang **dan** bahasa Jepang. Tetapi bahasa resmi Indonesia disebut **Indonesian**, sedangkan orang Brasil berbicara **Portuguese**.\n\n### Pola percakapan singkat\n**A:** Where are you from?\n**B:** I'm from Vietnam. I'm Vietnamese. And you?\n**A:** I'm from Malaysia.",
+        "examples": [
+          { "en": "Where are you from?", "id": "Kamu berasal dari mana?" },
+          { "en": "I'm from Indonesia. I'm Indonesian.", "id": "Saya dari Indonesia. Saya orang Indonesia." },
+          { "en": "Kenji is from Japan. He's Japanese.", "id": "Kenji dari Jepang. Dia orang Jepang." },
+          { "en": "Emma and Jack are from the UK. They're British.", "id": "Emma dan Jack dari Inggris Raya. Mereka orang Inggris.", "note": "the UK memakai the." },
+          { "en": "Mai is Vietnamese.", "id": "Mai orang Vietnam." }
+        ],
+        "vocabulary": [
+          { "word": "country", "pos": "noun", "ipa": "/ˈkʌntri/", "meaning": "negara", "example": "Indonesia is a big country." },
+          { "word": "nationality", "pos": "noun", "ipa": "/ˌnæʃəˈnæləti/", "meaning": "kebangsaan", "example": "What's your nationality?" },
+          { "word": "from", "pos": "preposition", "ipa": "/frɒm/", "meaning": "dari", "example": "I'm from Medan." },
+          { "word": "Indonesian", "pos": "adjective/noun", "ipa": "/ˌɪndəˈniːʒn/", "meaning": "orang/bahasa Indonesia", "example": "We're Indonesian." },
+          { "word": "Japanese", "pos": "adjective/noun", "ipa": "/ˌdʒæpəˈniːz/", "meaning": "orang/bahasa Jepang", "example": "Yuki is Japanese." },
+          { "word": "British", "pos": "adjective", "ipa": "/ˈbrɪtɪʃ/", "meaning": "orang Inggris (Britania Raya)", "example": "Mr. Hall is British." },
+          { "word": "city", "pos": "noun", "ipa": "/ˈsɪti/", "meaning": "kota", "example": "Jakarta is a big city." }
+        ],
+        "grammar": [
+          { "pattern": "Where are you from? → I'm from + negara/kota", "example": "Where are you from? — I'm from Korea." },
+          { "pattern": "Subjek + to be + kebangsaan", "example": "She's Korean.", "note": "Tanpa from." },
+          { "pattern": "from the + UK / USA / Netherlands / Philippines", "example": "They're from the USA." }
+        ],
+        "mistakes": [
+          { "wrong": "I'm from Indonesian.", "right": "I'm from Indonesia.", "why": "Setelah from, gunakan nama negara, bukan kebangsaan." },
+          { "wrong": "She is chinese.", "right": "She is Chinese.", "why": "Kebangsaan selalu diawali huruf kapital." },
+          { "wrong": "He is Thailand.", "right": "He is Thai.", "why": "Tanpa from, gunakan kebangsaan (Thai)." }
+        ],
+        "summary": "Tanyakan asal dengan **Where are you from?** Jawab dengan **I'm from + negara** (*I'm from Japan*) atau **I'm + kebangsaan** (*I'm Japanese*). Negara dan kebangsaan selalu memakai **huruf kapital**. Beberapa negara memakai **the**: *the UK, the USA*.",
+        "reviewCards": [
+          { "front": "Where are you from?", "back": "Kamu dari mana? → I'm from Indonesia." },
+          { "front": "Thailand → kebangsaan?", "back": "Thai" },
+          { "front": "from + negara atau kebangsaan?", "back": "from + negara: I'm from Brazil (bukan from Brazilian)" },
+          { "front": "France → kebangsaan?", "back": "French" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u01-l4-q1", "type": "matching", "category": "vocabulary", "topic": "countries and nationalities",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Match the countries with the nationalities.",
+          "instructions": "Perhatikan akhiran -ese, -ian, -ish, atau bentuk tidak beraturan.",
+          "pairs": [
+            { "left": "Japan", "right": "Japanese" },
+            { "left": "Thailand", "right": "Thai" },
+            { "left": "Brazil", "right": "Brazilian" },
+            { "left": "Malaysia", "right": "Malaysian" },
+            { "left": "France", "right": "French" }
+          ],
+          "explanation": "Japan → Japanese (-ese), Thailand → Thai (tidak beraturan), Brazil → Brazilian (-ian), Malaysia → Malaysian (-n), France → French (tidak beraturan)."
+        },
+        {
+          "id": "a1-u01-l4-q2", "type": "dialogue_completion", "category": "conversation", "topic": "countries and nationalities",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Ben", "text": "Where are you from, Laila?" },
+            { "speaker": "Laila", "text": null },
+            { "speaker": "Ben", "text": "Oh, so you're Malaysian. Nice!" }
+          ],
+          "options": ["I'm from Malaysia.", "I'm Thai.", "I'm from Japan.", "I'm fine, thanks."],
+          "answer": 0,
+          "explanation": "Ben menyimpulkan Laila orang Malaysia (Malaysian), jadi Laila menjawab I'm from Malaysia."
+        },
+        {
+          "id": "a1-u01-l4-q3", "type": "fill_blank", "category": "vocabulary", "topic": "countries and nationalities",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the nationality.",
+          "text": "Carlos is from Brazil. He is ___. Mei is from China. She is ___.",
+          "answers": [["Brazilian"], ["Chinese"]],
+          "explanation": "Brazil → Brazilian; China → Chinese. Ingat huruf kapital di awal kata."
+        },
+        {
+          "id": "a1-u01-l4-q4", "type": "error_identification", "category": "writing", "topic": "countries and nationalities",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the mistake.",
+          "segments": ["Hiro is", "from Japan.", "He is", "japanese."],
+          "errorIndex": 3,
+          "correction": "Japanese.",
+          "explanation": "Kebangsaan selalu ditulis dengan huruf kapital: Japanese."
+        },
+        {
+          "id": "a1-u01-l4-q5", "type": "single_choice", "category": "grammar", "topic": "countries and nationalities",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["I am from Indonesian.", "I am from Indonesia.", "I am Indonesia.", "I from Indonesia."],
+          "answer": 1,
+          "explanation": "from + nama negara: I am from Indonesia. Pilihan lain salah karena memakai kebangsaan setelah from, memakai negara tanpa from, atau tidak memakai am."
+        },
+        {
+          "id": "a1-u01-l4-q6", "type": "translation", "category": "grammar", "topic": "countries and nationalities",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Kami dari Australia.",
+          "direction": "id-en",
+          "answers": ["We are from Australia.", "We're from Australia."],
+          "explanation": "Kami = We, dari = from. We + are: We are from Australia."
+        }
+      ]
+    },
+    {
+      "slug": "a1-u01-l5-alphabet-spelling",
+      "title": "The Alphabet and Spelling Names",
+      "summary": "Mengucapkan huruf-huruf alfabet bahasa Inggris, mengeja nama, dan menanyakan ejaan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Mengucapkan 26 huruf alfabet bahasa Inggris dengan benar",
+        "Membedakan huruf yang sering tertukar (A/E/I, G/J)",
+        "Mengeja nama dan bertanya How do you spell that?"
+      ],
+      "completionCriteria": "Baca semua bagian materi, berlatih mengeja nama sendiri, dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Huruf sama, bunyi berbeda\nAlfabet bahasa Inggris memakai 26 huruf yang sama dengan bahasa Indonesia, tetapi **cara mengucapkannya berbeda**. Ini penting saat kita mengeja nama, alamat email, atau kode pemesanan.\n\n### Kelompok bunyi huruf\nCara termudah menghafal adalah mengelompokkan huruf berdasarkan bunyi vokalnya:\n\n| Bunyi | Huruf | Kira-kira dibaca |\n| --- | --- | --- |\n| /eɪ/ | A, H, J, K | ei, eich, jei, kei |\n| /iː/ | B, C, D, E, G, P, T, V | bii, sii, dii, ii, jii, pii, tii, vii |\n| /e/ | F, L, M, N, S, X | ef, el, em, en, es, eks |\n| /aɪ/ | I, Y | ai, wai |\n| /əʊ/ | O | ou |\n| /uː/ | Q, U, W | kyuu, yuu, dabel-yuu |\n| /ɑː/ | R | aa(r) |\n\nCatatan: Z dibaca **/zed/** (British) atau **/ziː/** (American).\n\n### Huruf yang sering tertukar\n- **A** dibaca *ei*, sedangkan **E** dibaca *ii*. Jadi nama *Eka* dieja **ii – kei – ei**.\n- **I** dibaca *ai*, bukan *i*.\n- **G** dibaca *jii*, sedangkan **J** dibaca *jei*.\n- **Y** dibaca *wai*, dan **W** dibaca *dabel-yuu*.\n\n### Mengeja nama\nUntuk huruf ganda, penutur asli sering berkata **double**: *Anna* = **A – double N – A**.\n\nPercakapan yang umum:\n**A:** What's your name?\n**B:** I'm Nadia Putri.\n**A:** How do you spell your first name?\n**B:** N-A-D-I-A.\n**A:** And your surname?\n**B:** P-U-T-R-I.\n\n**First name** = nama depan, **surname** (atau *last name*) = nama belakang/nama keluarga. Banyak orang Indonesia hanya punya satu nama; dalam formulir, nama tersebut biasanya ditulis sebagai *first name* dan juga *surname*.\n\n### Tips\nUcapkan huruf satu per satu dengan jelas dan beri jeda pendek. Ungkapan **How do you spell that?** dipelajari sebagai satu kesatuan — struktur kalimatnya akan dipelajari lebih lanjut di Unit 6.",
+        "examples": [
+          { "en": "How do you spell your name?", "id": "Bagaimana mengeja namamu?" },
+          { "en": "It's E-K-A.", "id": "Dieja E-K-A (ii-kei-ei)." },
+          { "en": "My surname is Kemp: K-E-M-P.", "id": "Nama belakang saya Kemp: K-E-M-P." },
+          { "en": "Anna: A, double N, A.", "id": "Anna: A, N dobel, A.", "note": "double = huruf yang sama dua kali." },
+          { "en": "What's your first name?", "id": "Siapa nama depanmu?" }
+        ],
+        "vocabulary": [
+          { "word": "alphabet", "pos": "noun", "ipa": "/ˈælfəbet/", "meaning": "alfabet, abjad", "example": "The English alphabet has 26 letters." },
+          { "word": "letter", "pos": "noun", "ipa": "/ˈletə/", "meaning": "huruf", "example": "A is the first letter." },
+          { "word": "spell", "pos": "verb", "ipa": "/spel/", "meaning": "mengeja", "example": "How do you spell that?" },
+          { "word": "name", "pos": "noun", "ipa": "/neɪm/", "meaning": "nama", "example": "What's your name?" },
+          { "word": "first name", "pos": "noun", "ipa": "/ˈfɜːst neɪm/", "meaning": "nama depan", "example": "My first name is Dani." },
+          { "word": "surname", "pos": "noun", "ipa": "/ˈsɜːneɪm/", "meaning": "nama belakang, nama keluarga", "example": "Her surname is Grant." },
+          { "word": "double", "pos": "adjective", "ipa": "/ˈdʌbl/", "meaning": "dobel, ganda", "example": "Bella has a double L." }
+        ],
+        "grammar": [
+          { "pattern": "What's your name? → I'm ... / My name is ...", "example": "What's your name? — My name is Lisa." },
+          { "pattern": "How do you spell + your name / that?", "example": "How do you spell that? — G-R-A-N-T.", "note": "Ungkapan tetap (chunk)." },
+          { "pattern": "double + huruf", "example": "Kimm = K-I-double M" }
+        ],
+        "mistakes": [
+          { "wrong": "E-K-A dieja ei - kei - ei", "right": "E-K-A dieja ii - kei - ei", "why": "Huruf E dibaca /iː/ (ii), huruf A dibaca /eɪ/ (ei)." },
+          { "wrong": "G dibaca jei", "right": "G dibaca jii /dʒiː/, J dibaca jei /dʒeɪ/", "why": "G dan J sering tertukar oleh pelajar Indonesia." },
+          { "wrong": "How spell your name?", "right": "How do you spell your name?", "why": "Ungkapan ini memerlukan do you." }
+        ],
+        "summary": "Huruf bahasa Inggris dikelompokkan menurut bunyi: **A H J K** (/eɪ/), **B C D E G P T V** (/iː/), **F L M N S X** (/e/), **I Y** (/aɪ/), **O** (/əʊ/), **Q U W** (/uː/), dan **R** (/ɑː/). Hati-hati dengan **A/E/I** dan **G/J**. Tanyakan ejaan dengan **How do you spell that?** dan gunakan **double** untuk huruf ganda.",
+        "reviewCards": [
+          { "front": "Huruf A dan E dibaca?", "back": "A = /eɪ/ (ei), E = /iː/ (ii)" },
+          { "front": "Huruf G dan J dibaca?", "back": "G = /dʒiː/ (jii), J = /dʒeɪ/ (jei)" },
+          { "front": "How do you spell that?", "back": "Bagaimana mengejanya?" },
+          { "front": "surname", "back": "nama belakang / nama keluarga" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "a1-u01-l5-q1", "type": "single_choice", "category": "pronunciation", "topic": "alphabet",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Which letter is pronounced /dʒeɪ/?",
+          "instructions": "Ingat kelompok bunyi /eɪ/: A, H, J, K.",
+          "options": ["G", "J", "Y"],
+          "answer": 1,
+          "explanation": "J dibaca /dʒeɪ/ (jei). G dibaca /dʒiː/ (jii) dan Y dibaca /waɪ/ (wai)."
+        },
+        {
+          "id": "a1-u01-l5-q2", "type": "dictation", "category": "listening", "topic": "spelling names",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Listen and write the sentence you hear.",
+          "text": "Hello, I'm Lisa. My surname is Grant.",
+          "explanation": "Kalimatnya: Hello, I'm Lisa. My surname is Grant. Perhatikan huruf kapital pada nama dan apostrof pada I'm."
+        },
+        {
+          "id": "a1-u01-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "spelling names",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Introduce yourself. Say your name, where you are from, and spell your first name.",
+          "targetPhrases": ["My name is", "I'm from", "My first name is"],
+          "sampleAnswer": "Hello! My name is Nadia Putri. I'm from Indonesia. I'm Indonesian. My first name is Nadia: N-A-D-I-A.",
+          "explanation": "Gunakan My name is ... / I'm ..., lalu I'm from ..., dan eja nama depan huruf demi huruf dengan bunyi bahasa Inggris."
+        },
+        {
+          "id": "a1-u01-l5-q4", "type": "matching", "category": "pronunciation", "topic": "alphabet",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Match each vowel letter with its sound.",
+          "pairs": [
+            { "left": "A", "right": "/eɪ/" },
+            { "left": "E", "right": "/iː/" },
+            { "left": "I", "right": "/aɪ/" },
+            { "left": "O", "right": "/əʊ/" },
+            { "left": "U", "right": "/juː/" }
+          ],
+          "explanation": "A = /eɪ/ (ei), E = /iː/ (ii), I = /aɪ/ (ai), O = /əʊ/ (ou), U = /juː/ (yuu)."
+        },
+        {
+          "id": "a1-u01-l5-q5", "type": "dialogue_completion", "category": "conversation", "topic": "spelling names",
+          "difficulty": 1, "stage": "quiz",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Receptionist", "text": "What's your name, please?" },
+            { "speaker": "Rudi", "text": "Rudi Santoso." },
+            { "speaker": "Receptionist", "text": null },
+            { "speaker": "Rudi", "text": "S-A-N-T-O-S-O." }
+          ],
+          "options": ["How do you spell your surname?", "How are you?", "Where are you from?", "Nice to meet you."],
+          "answer": 0,
+          "explanation": "Rudi menjawab dengan mengeja nama belakangnya, jadi pertanyaannya adalah How do you spell your surname?"
+        },
+        {
+          "id": "a1-u01-l5-q6", "type": "multiple_select", "category": "pronunciation", "topic": "alphabet",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which letters have the same vowel sound as B /biː/? Choose all correct answers.",
+          "options": ["C", "D", "F", "P", "L", "T"],
+          "answers": [0, 1, 3, 5],
+          "explanation": "C, D, P, T berbunyi /iː/ seperti B. F dan L berbunyi /e/ (ef, el)."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "a1-u01-t-q1", "type": "single_choice", "category": "conversation", "topic": "greetings",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "It is 3 p.m. You meet your boss, Mr. Grant. What do you say?",
+      "options": ["Good afternoon, Mr. Grant.", "Good night, Mr. Grant.", "Good evening, Mr. Grant.", "Bye, Mr. Grant."],
+      "answer": 0,
+      "explanation": "Pukul 3 sore adalah afternoon, dan kita sedang menyapa, jadi Good afternoon."
+    },
+    {
+      "id": "a1-u01-t-q2", "type": "dropdown", "category": "grammar", "topic": "to be positive",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct words.",
+      "text": "Hello! I ___ Sofia. I ___ from Italy. Marco and Lucia ___ Italian, too.",
+      "choices": [["am", "is", "are"], ["am", "is", "are"], ["am", "is", "are"]],
+      "answers": [0, 0, 2],
+      "explanation": "I → am (dua kali). Marco and Lucia (dua orang = they) → are."
+    },
+    {
+      "id": "a1-u01-t-q3", "type": "sentence_reconstruction", "category": "writing", "topic": "introductions",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Put the parts in order to make a short introduction.",
+      "fragments": ["Hello,", "I'm Ken Sato.", "I'm from Japan", "and I'm a student."],
+      "explanation": "Perkenalan dimulai dengan sapaan, lalu nama, asal, dan pekerjaan/status."
+    },
+    {
+      "id": "a1-u01-t-q4", "type": "translation", "category": "grammar", "topic": "countries and nationalities",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Mereka dari Thailand. Mereka orang Thailand.",
+      "direction": "id-en",
+      "answers": [
+        "They are from Thailand. They are Thai.",
+        "They're from Thailand. They're Thai.",
+        "They are from Thailand. They're Thai.",
+        "They're from Thailand. They are Thai."
+      ],
+      "explanation": "from + negara (Thailand); tanpa from gunakan kebangsaan (Thai). Mereka = They + are."
+    },
+    {
+      "id": "a1-u01-t-q5", "type": "error_identification", "category": "grammar", "topic": "to be positive",
+      "difficulty": 1, "stage": "unit_test",
+      "prompt": "Find the mistake.",
+      "segments": ["Hello!", "I is Tom,", "and I'm from", "Australia."],
+      "errorIndex": 1,
+      "correction": "I am Tom, / I'm Tom,",
+      "explanation": "I selalu berpasangan dengan am: I am Tom / I'm Tom."
+    },
+    {
+      "id": "a1-u01-t-q6", "type": "contextual_vocabulary", "category": "conversation", "topic": "greetings",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "At 10 p.m., Anna goes to her bedroom. She says to her family: '___ See you in the morning.'",
+      "options": ["Good evening!", "Good night!", "Good afternoon!", "Nice to meet you!"],
+      "answer": 1,
+      "explanation": "Anna berpamitan untuk tidur, jadi ia berkata Good night."
+    },
+    {
+      "id": "a1-u01-t-q7", "type": "sentence_correction", "category": "grammar", "topic": "subject pronouns",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Correct the sentence. (Siti is a woman.)",
+      "sentence": "Siti is from Lombok. He are a nurse.",
+      "answers": ["Siti is from Lombok. She is a nurse.", "Siti is from Lombok. She's a nurse."],
+      "explanation": "Siti adalah perempuan → She, dan She berpasangan dengan is."
+    },
+    {
+      "id": "a1-u01-t-q8", "type": "short_answer", "category": "pronunciation", "topic": "spelling names",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "A man spells his name: 'B - E - double L - O'. Write his name.",
+      "answers": ["Bello"],
+      "explanation": "double L berarti dua huruf L: B-E-L-L-O = Bello."
+    }
+  ]
+}

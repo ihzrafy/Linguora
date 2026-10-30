@@ -1,0 +1,662 @@
+{
+  "slug": "b2-u02-future-advanced",
+  "number": 2,
+  "title": "The World in 2050",
+  "description": "Make detailed predictions about the future using the future continuous, the future perfect (simple and continuous), and expressions such as be about to, be due to and be likely to. Vocabulary: science, cities and society.",
+  "objectives": [
+    "Describe actions in progress at a future time with the future continuous",
+    "Talk about actions completed before a future time with the future perfect",
+    "Use be about to, be due to, be likely to and be bound to accurately",
+    "Make predictions with different degrees of certainty about science, cities and society"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u02-l1-future-continuous",
+      "title": "Future Continuous: This Time Tomorrow",
+      "summary": "Menggunakan future continuous untuk aksi yang sedang berlangsung pada waktu tertentu di masa depan dan untuk pertanyaan sopan tentang rencana.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form the future continuous (will be + -ing)",
+        "Describe actions in progress at a specific future time",
+        "Ask politely about other people's plans"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Form\n**will be + verb-ing** (negative: *won't be + -ing*).\n\n| Type | Example |\n| --- | --- |\n| Positive | This time tomorrow, I **will be flying** to Jayapura. |\n| Negative | Don't call at 9 — we **won't be working** then. |\n| Question | **Will** you **be using** the car tonight? |\n\n### Use 1: an action in progress at a future moment\nImagine a photo taken at a specific time in the future. What will be happening in the photo?\n- *At 8 p.m. tonight, I'll be watching the final.*\n- *In 2050, many people **will be living** in smart cities.*\n\nCompare: *When you arrive, I'll cook dinner* (I'll start cooking after you arrive) vs. *When you arrive, I'll be cooking dinner* (I'll already be in the middle of cooking).\n\n### Use 2: things that will happen as a matter of course\nThe future continuous can describe events that will happen anyway, as part of a normal routine or plan, not because of a new decision.\n- *I'll be seeing Maya at the meeting tomorrow, so I can give her the book.*\n- *The train **will be stopping** at all stations to Westport.* (typical in announcements)\n\n### Use 3: polite questions about plans\nAsking *Will you be + -ing?* sounds less direct than *Will you...?* because it asks about plans, not about willingness.\n- *Will you be using the printer this afternoon?* (polite — I might want to use it)\n- *Will you use the printer?* (can sound like a request or an order)\n\n### Time expressions\n*this time tomorrow / next week, at 6 p.m. tomorrow, in ten years' time, in 2050, all day tomorrow, when you arrive*\n\n### Stative verbs again\nAs with other continuous forms, avoid *know, believe, own, want*: *In 2050, people will own fewer cars* (NOT *will be owning*).\n\n> **Catatan:** Future continuous mirip dengan \"akan sedang ...\" dalam bahasa Indonesia: *Besok jam 8 saya **sedang** terbang ke Jayapura.* Dalam bahasa Inggris kita wajib memakai **will be + -ing**, bukan *will fly*. Pertanyaan *Will you be ...-ing?* adalah cara halus untuk menanyakan rencana seseorang.",
+        "examples": [
+          { "en": "This time next week, we'll be relaxing on a beach in Tanjung Biru.", "id": "Minggu depan pada jam yang sama, kami sedang bersantai di pantai Tanjung Biru.", "note": "Action in progress at a future time." },
+          { "en": "In 2050, most people will be working fewer hours, according to some experts.", "id": "Pada tahun 2050, kebanyakan orang akan bekerja lebih sedikit jam, menurut beberapa ahli.", "note": "Prediction about an ongoing situation." },
+          { "en": "Will you be going past the post office on your way home?", "id": "Apakah kamu akan lewat kantor pos dalam perjalanan pulang?", "note": "Polite question about plans." },
+          { "en": "Don't worry, I'll be seeing Arif tomorrow anyway, so I'll tell him.", "id": "Tenang, besok saya memang akan bertemu Arif, jadi saya akan memberitahunya.", "note": "Something that will happen as a matter of course." }
+        ],
+        "vocabulary": [
+          { "word": "in ten years' time", "pos": "phrase", "ipa": "/ɪn ten jɪəz ˈtaɪm/", "meaning": "sepuluh tahun lagi", "example": "In ten years' time, I'll be living abroad." },
+          { "word": "smart city", "pos": "noun", "ipa": "/ˌsmɑːt ˈsɪti/", "meaning": "kota pintar (berbasis teknologi digital)", "example": "Many people will be living in smart cities." },
+          { "word": "remote work", "pos": "noun", "ipa": "/rɪˌməʊt ˈwɜːk/", "meaning": "kerja jarak jauh", "example": "More companies will be offering remote work." },
+          { "word": "anyway", "pos": "adverb", "ipa": "/ˈeniweɪ/", "meaning": "lagi pula, bagaimanapun juga", "example": "I'll be passing the shop anyway, so I'll buy some milk." },
+          { "word": "announcement", "pos": "noun", "ipa": "/əˈnaʊnsmənt/", "meaning": "pengumuman", "example": "The announcement said the train would be stopping at every station." }
+        ],
+        "grammar": [
+          { "pattern": "At/This time + future time, subject + will be + -ing", "example": "At noon tomorrow, I'll be presenting my project.", "note": "Action in progress." },
+          { "pattern": "Will + subject + be + -ing ...?", "example": "Will you be joining us for lunch?", "note": "Polite question about plans." },
+          { "pattern": "When + present simple, subject + will be + -ing", "example": "When you land, I'll be waiting at the gate.", "note": "No will after when." }
+        ],
+        "mistakes": [
+          { "wrong": "This time tomorrow, I will lie on the beach.", "right": "This time tomorrow, I will be lying on the beach.", "why": "An action in progress at a specific future time needs the future continuous." },
+          { "wrong": "When you will arrive, I'll be waiting.", "right": "When you arrive, I'll be waiting.", "why": "After time words like when, use the present simple, not will." },
+          { "wrong": "In 2050, people will be owning flying cars.", "right": "In 2050, people will own flying cars.", "why": "Own is stative, so it is not used in the continuous form." }
+        ],
+        "summary": "Use **will be + -ing** for actions in progress at a future time (*this time tomorrow*), for things that will happen as part of a normal plan, and for polite questions about plans (*Will you be using...?*). Keep the present simple after *when*. *Ringkasan: bayangkan foto di masa depan — apa yang sedang terjadi?*",
+        "reviewCards": [
+          { "front": "will be + verb-ing", "back": "Future continuous: aksi yang sedang berlangsung pada waktu tertentu di masa depan" },
+          { "front": "Will you be using the car tonight?", "back": "A polite way to ask about someone's plans" },
+          { "front": "When you arrive, I'll be cooking. vs I'll cook.", "back": "be cooking = already in progress; cook = start after you arrive" },
+          { "front": "in ten years' time", "back": "sepuluh tahun lagi" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u02-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "future continuous",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the future continuous form of the verb in brackets.",
+          "instructions": "Hint: will + be + verb-ing.",
+          "text": "Don't call me at eight tonight. I ___ (watch) the final with my brother.",
+          "answers": [["will be watching"]],
+          "explanation": "At eight tonight the action will be in progress, so we use the future continuous: **I will be watching** (I'll be watching)."
+        },
+        {
+          "id": "b2-u02-l1-q2", "type": "single_choice", "category": "grammar", "topic": "future continuous questions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "You want to borrow your flatmate's laptop this evening. Which question is correct?",
+          "options": [
+            "Will you be using your laptop this evening?",
+            "Will you using your laptop this evening?",
+            "Are you use your laptop this evening?",
+            "Will be you using your laptop this evening?"
+          ],
+          "answer": 0,
+          "explanation": "The question form is **Will + subject + be + -ing**: *Will you be using...?* It is a polite way to ask about someone's plans before asking a favour."
+        },
+        {
+          "id": "b2-u02-l1-q3", "type": "sentence_transformation", "category": "grammar", "topic": "future continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Read the information and answer the question with the future continuous.",
+          "sentence": "My flight to Jayapura takes off at 9 a.m. tomorrow and lands at 2 p.m. What will I be doing at 11 a.m. tomorrow?",
+          "cue": "Begin with: At 11 a.m. tomorrow, I ...",
+          "answers": [
+            "At 11 a.m. tomorrow, I will be flying to Jayapura.",
+            "At 11 a.m. tomorrow, I'll be flying to Jayapura.",
+            "At 11 a.m. tomorrow, I will be flying.",
+            "At 11 a.m. tomorrow, I'll be flying."
+          ],
+          "explanation": "At 11 a.m. the flight will be in progress, so: **At 11 a.m. tomorrow, I'll be flying to Jayapura.**"
+        },
+        {
+          "id": "b2-u02-l1-q4", "type": "error_identification", "category": "grammar", "topic": "future continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["This time tomorrow,", "we will lie", "on a quiet beach", "near Tanjung Biru."],
+          "errorIndex": 1,
+          "correction": "we will be lying",
+          "explanation": "*This time tomorrow* describes an action in progress at a future moment, so we need the future continuous: **we will be lying**."
+        },
+        {
+          "id": "b2-u02-l1-q5", "type": "dialogue_completion", "category": "conversation", "topic": "future continuous",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            { "speaker": "Lena", "text": "Could you give this book back to Maya for me?" },
+            { "speaker": "Joko", "text": null }
+          ],
+          "options": [
+            "Sure, I'll be seeing her at the meeting tomorrow anyway.",
+            "Sure, I'm seeing her at the meeting yesterday.",
+            "Sure, I'll seeing her at the meeting tomorrow anyway.",
+            "Sure, I have been seeing her at the meeting tomorrow."
+          ],
+          "answer": 0,
+          "explanation": "**I'll be seeing her ... anyway** describes something that will happen as part of a normal plan. The other options are ungrammatical or mix past and future time."
+        },
+        {
+          "id": "b2-u02-l1-q6", "type": "word_order", "category": "grammar", "topic": "future continuous questions",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Put the words in the correct order to make a question.",
+          "words": ["Will", "you", "be", "working", "from", "home", "on", "Friday"],
+          "acceptedAnswers": ["On Friday will you be working from home"],
+          "explanation": "Will + subject + be + -ing: **Will you be working from home on Friday?**"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u02-l2-future-perfect",
+      "title": "Future Perfect: By 2050...",
+      "summary": "Menggunakan future perfect (simple dan continuous) untuk hal yang sudah selesai atau sudah berlangsung sampai titik tertentu di masa depan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Form the future perfect simple (will have + past participle)",
+        "Use by, by the time and before with the future perfect",
+        "Use the future perfect continuous to describe duration up to a future point"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Future perfect simple: completed before a future time\n**will have + past participle** (negative: *won't have + past participle*).\n\nImagine standing at a point in the future and looking back. The action is already finished at that point.\n- *By 2050, scientists **will have developed** new treatments for many diseases.*\n- *Don't worry — I **will have finished** the report by Friday.*\n- *They **won't have arrived** by six; the traffic is terrible.*\n\n### Key time expressions\n| Expression | Meaning | Example |\n| --- | --- | --- |\n| by + time | not later than | **By** next June, I'll have graduated. |\n| by the time + present simple | before/when | **By the time** you **get** home, I'll have cooked dinner. |\n| in + period | after a period from now | **In** five years, the city will have doubled in size. |\n\n⚠️ After *by the time / when / before*, use the **present simple**, not *will*: *By the time you **arrive*** (NOT *will arrive*).\n\n### Future perfect continuous: duration up to a future point\n**will have been + -ing** stresses how long an activity will have continued at a future moment.\n- *Next month, Grandpa **will have been teaching** at the same school for forty years.*\n- *By the time the plane lands, we'**ll have been travelling** for 18 hours.*\n\n### Comparing future forms\n| Form | Focus | Example |\n| --- | --- | --- |\n| future continuous | in progress at a future time | *At 10, I'll be writing.* |\n| future perfect simple | finished before a future time | *By 10, I'll have written it.* |\n| future perfect continuous | duration up to a future time | *By 10, I'll have been writing for three hours.* |\n\n### Questions\n*Will you **have finished** by lunchtime? How long **will** you **have been living** here by next year?*\n\n> **Catatan:** Future perfect sering diterjemahkan sebagai \"sudah ... (pada waktu tertentu di masa depan)\": *Pada tahun 2030, kota ini **sudah** membangun jalur MRT baru* → *By 2030, the city **will have built** a new metro line.* Ingat: *by* = paling lambat, bukan 'oleh' dalam konteks ini.",
+        "examples": [
+          { "en": "By 2030, the city will have built a new metro line.", "id": "Pada tahun 2030, kota ini sudah membangun jalur metro baru.", "note": "Completed before a future time." },
+          { "en": "By the time you read this, I'll have left the country.", "id": "Saat kamu membaca ini, saya sudah meninggalkan negara ini.", "note": "by the time + present simple" },
+          { "en": "In June, Dita will have been working here for ten years.", "id": "Pada bulan Juni, Dita sudah bekerja di sini selama sepuluh tahun.", "note": "Future perfect continuous: duration." },
+          { "en": "Will you have finished the report by Monday?", "id": "Apakah kamu sudah menyelesaikan laporan itu paling lambat hari Senin?", "note": "Question form." }
+        ],
+        "vocabulary": [
+          { "word": "by the time", "pos": "conjunction", "ipa": "/baɪ ðə ˈtaɪm/", "meaning": "pada saat (sesuatu terjadi), sebelum", "example": "By the time we get there, the shops will have closed." },
+          { "word": "double", "pos": "verb", "ipa": "/ˈdʌbl/", "meaning": "berlipat ganda", "example": "The population will have doubled by 2060." },
+          { "word": "graduate", "pos": "verb", "ipa": "/ˈɡrædʒueɪt/", "meaning": "lulus (dari universitas)", "example": "By next summer, I'll have graduated." },
+          { "word": "develop", "pos": "verb", "ipa": "/dɪˈveləp/", "meaning": "mengembangkan", "example": "Scientists will have developed new vaccines." },
+          { "word": "disappear", "pos": "verb", "ipa": "/ˌdɪsəˈpɪə/", "meaning": "menghilang, lenyap", "example": "Many traditional jobs will have disappeared by then." }
+        ],
+        "grammar": [
+          { "pattern": "By + time, subject + will have + past participle", "example": "By midnight, we'll have finished.", "note": "Completed before a future time." },
+          { "pattern": "By the time + present simple, subject + will have + past participle", "example": "By the time the guests arrive, I'll have tidied up.", "note": "No will after by the time." },
+          { "pattern": "subject + will have been + -ing + for + period", "example": "By 2027, they'll have been living here for a decade.", "note": "Duration up to a future point." }
+        ],
+        "mistakes": [
+          { "wrong": "By the time we will arrive, the film will have started.", "right": "By the time we arrive, the film will have started.", "why": "Use the present simple after by the time." },
+          { "wrong": "By 2040, scientists will have find a cure.", "right": "By 2040, scientists will have found a cure.", "why": "After will have, use the past participle (found), not the base form." },
+          { "wrong": "I will finish the essay by the time you come back.", "right": "I will have finished the essay by the time you come back.", "why": "To show the action is completed before a future moment, the future perfect is clearer and more natural." }
+        ],
+        "summary": "Use **will have + past participle** for actions completed before a future time, and **will have been + -ing** for duration up to a future point. Typical signals: *by, by the time, in + period*. Use the present simple after *by the time/when/before*. *Ringkasan: berdirilah di masa depan dan lihat ke belakang — apa yang sudah selesai?*",
+        "reviewCards": [
+          { "front": "will have + past participle", "back": "Future perfect: sudah selesai sebelum waktu tertentu di masa depan" },
+          { "front": "will have been + -ing", "back": "Future perfect continuous: lamanya aktivitas sampai titik di masa depan" },
+          { "front": "by (in time expressions)", "back": "paling lambat; not later than" },
+          { "front": "By the time you arrive (not: will arrive)", "back": "Present simple after by the time / when / before" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u02-l2-q1", "type": "fill_blank", "category": "grammar", "topic": "future perfect",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the future perfect form of the verb in brackets.",
+          "instructions": "Hint: will + have + past participle.",
+          "text": "By 2030, the city ___ (build) a new metro line.",
+          "answers": [["will have built"]],
+          "explanation": "*By 2030* signals an action completed before a future time: **will have built** (build – built – built)."
+        },
+        {
+          "id": "b2-u02-l2-q2", "type": "dropdown", "category": "grammar", "topic": "future perfect",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct forms.",
+          "text": "Don't worry about the mess. By the time you ___ home, I ___ the whole flat.",
+          "choices": [
+            ["get", "will get", "will have got"],
+            ["will have cleaned", "will clean", "am cleaning"]
+          ],
+          "answers": [0, 0],
+          "explanation": "After *by the time* use the present simple (**get**). The cleaning will be finished before that moment → **will have cleaned**."
+        },
+        {
+          "id": "b2-u02-l2-q3", "type": "multiple_select", "category": "grammar", "topic": "future perfect",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Select the TWO correct sentences.",
+          "options": [
+            "By next June, Lukas will have finished his degree.",
+            "By the time we will arrive, the film will have started.",
+            "In May, I will have been living here for ten years.",
+            "By 2040, scientists will have find a cure.",
+            "This time next year, she will have been knowing him for a decade."
+          ],
+          "answers": [0, 2],
+          "explanation": "Correct: future perfect simple (*will have finished*) and future perfect continuous (*will have been living*). Wrong: *will arrive* after *by the time*, *will have find* (needs *found*), and *knowing* (stative verb → *will have known*)."
+        },
+        {
+          "id": "b2-u02-l2-q4", "type": "sentence_transformation", "category": "grammar", "topic": "future perfect",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence using the future perfect.",
+          "sentence": "The builders will finish the bridge before the end of the year.",
+          "cue": "Begin with: By the end of the year, the builders ...",
+          "answers": [
+            "By the end of the year, the builders will have finished the bridge.",
+            "By the end of the year, the builders will have finished it."
+          ],
+          "explanation": "*Before the end of the year* → *by the end of the year* + **will have finished**."
+        },
+        {
+          "id": "b2-u02-l2-q5", "type": "translation", "category": "grammar", "topic": "future perfect",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saat kamu membaca pesan ini, aku sudah tiba di Tokyo.",
+          "direction": "id-en",
+          "answers": [
+            "By the time you read this message, I will have arrived in Tokyo.",
+            "By the time you read this message, I'll have arrived in Tokyo.",
+            "When you read this message, I will have arrived in Tokyo.",
+            "When you read this message, I'll have arrived in Tokyo.",
+            "By the time you read this message, I will have reached Tokyo.",
+            "By the time you read this message, I'll have reached Tokyo.",
+            "When you read this message, I will have reached Tokyo.",
+            "When you read this message, I'll have reached Tokyo."
+          ],
+          "explanation": "The arrival will be complete before a future moment (when you read the message) → **I will have arrived in Tokyo**. Use the present simple *read* after *by the time/when*. Note: *arrive in* + city."
+        },
+        {
+          "id": "b2-u02-l2-q6", "type": "fill_blank", "category": "grammar", "topic": "future perfect continuous",
+          "difficulty": 4, "stage": "quiz",
+          "prompt": "Complete with the future perfect continuous form of the verb in brackets.",
+          "text": "Next month, Grandpa ___ (teach) at the same school for forty years.",
+          "answers": [["will have been teaching"]],
+          "explanation": "Duration (*for forty years*) up to a future point (*next month*) → **will have been teaching**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u02-l3-about-to-due-to-likely-to",
+      "title": "Be About To, Be Due To, Be Likely To",
+      "summary": "Mengungkapkan masa depan dekat, jadwal, dan kemungkinan dengan be about to, be due to, be likely to, dan be bound to.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use be about to for the very near future",
+        "Use be due to for scheduled or expected events",
+        "Use be likely/unlikely to and be bound to to express probability and certainty"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Four useful structures\nAll of these use **be + adjective/word + to-infinitive**, and *be* changes for the subject and tense.\n\n| Structure | Meaning | Example |\n| --- | --- | --- |\n| be about to + inf | will happen very soon (in moments) | Hurry! The film **is about to start**. |\n| be due to + inf | is scheduled/expected at a certain time | The train **is due to arrive** at 10:15. |\n| be likely to + inf | will probably happen | Prices **are likely to rise**. |\n| be unlikely to + inf | will probably not happen | She**'s unlikely to win**. |\n| be bound to + inf | is certain to happen (speaker's opinion) | You**'re bound to pass**. You've worked so hard. |\n\n### be about to\n- Refers to the immediate future, so we normally **don't add a time expression** like *tomorrow*: *The meeting is about to begin* (✓), *The meeting is about to begin next week* (✗).\n- Past form: *was/were about to* = something was going to happen, often interrupted: *I was about to call you when your message arrived.*\n\n### be due to / be due\n- *be due to + infinitive*: *The new hospital is due to open in March.*\n- *be due + time/noun*: *The baby is due in May. The rent is due on Friday.*\n- Don't confuse with **due to + noun** = because of: *The flight was delayed due to fog.*\n\n### be likely to / it is likely that\nTwo patterns with the same meaning:\n- *Prices **are likely to** rise.* = *It **is likely that** prices will rise.*\n- Add adverbs for nuance: *very likely, highly unlikely, quite likely*.\n\n### be bound to\nUsed when the speaker feels sure: *There's so much traffic — we're bound to be late.* It is stronger than *likely to*.\n\n> **Catatan:** *be about to* = \"sebentar lagi akan\"; *be due to* = \"dijadwalkan akan\"; *be likely to* = \"kemungkinan besar akan\"; *be bound to* = \"pasti akan\". Jangan lupa **to** setelah *about, due, likely, bound*: ✗ *The bus is about leave.*",
+        "examples": [
+          { "en": "Turn off your phones, please. The performance is about to begin.", "id": "Mohon matikan ponsel Anda. Pertunjukan akan segera dimulai.", "note": "Very near future." },
+          { "en": "The new bridge is due to open next spring.", "id": "Jembatan baru itu dijadwalkan dibuka musim semi mendatang.", "note": "Scheduled event." },
+          { "en": "Electric cars are likely to become cheaper in the next decade.", "id": "Mobil listrik kemungkinan besar akan menjadi lebih murah dalam dekade mendatang.", "note": "Probability." },
+          { "en": "I was about to leave when the phone rang.", "id": "Saya baru akan pergi ketika telepon berdering.", "note": "Past form: an interrupted plan." }
+        ],
+        "vocabulary": [
+          { "word": "scheduled", "pos": "adjective", "ipa": "/ˈʃedjuːld/", "meaning": "terjadwal", "example": "The launch is scheduled for July." },
+          { "word": "probable", "pos": "adjective", "ipa": "/ˈprɒbəbl/", "meaning": "mungkin terjadi, besar kemungkinannya", "example": "A delay is probable but not certain." },
+          { "word": "be bound to", "pos": "phrase", "ipa": "/bi ˈbaʊnd tə/", "meaning": "pasti akan", "example": "With this rain, the match is bound to be cancelled." },
+          { "word": "be due to", "pos": "phrase", "ipa": "/bi ˈdjuː tə/", "meaning": "dijadwalkan akan", "example": "The report is due to be published on Monday." },
+          { "word": "imminent", "pos": "adjective", "ipa": "/ˈɪmɪnənt/", "meaning": "akan segera terjadi", "example": "Experts warned that a storm was imminent." }
+        ],
+        "grammar": [
+          { "pattern": "subject + be about to + infinitive", "example": "We're about to board the plane.", "note": "No future time expression." },
+          { "pattern": "subject + be due to + infinitive (+ time)", "example": "The results are due to come out on 5 May.", "note": "Scheduled or expected." },
+          { "pattern": "subject + be (un)likely to + infinitive = It is (un)likely that + clause", "example": "It's unlikely that the shop will open on Sunday.", "note": "Probability." }
+        ],
+        "mistakes": [
+          { "wrong": "The bus is about leave.", "right": "The bus is about to leave.", "why": "Be about must be followed by to + infinitive." },
+          { "wrong": "The concert is about to start next Saturday.", "right": "The concert is due to start next Saturday.", "why": "Be about to refers to the immediate future and doesn't take a future time expression; for a scheduled time use be due to." },
+          { "wrong": "Prices are likely rising next year.", "right": "Prices are likely to rise next year.", "why": "Be likely is followed by to + infinitive." }
+        ],
+        "summary": "**be about to** = very soon; **be due to** = scheduled; **be likely/unlikely to** = probably / probably not; **be bound to** = certain (in the speaker's opinion). All are followed by **to + infinitive**. *Ringkasan: about to (sebentar lagi), due to (terjadwal), likely to (kemungkinan besar), bound to (pasti).*",
+        "reviewCards": [
+          { "front": "be about to + infinitive", "back": "sebentar lagi akan (very near future, no time expression)" },
+          { "front": "be due to + infinitive", "back": "dijadwalkan akan (scheduled event)" },
+          { "front": "be bound to + infinitive", "back": "pasti akan (speaker is sure)" },
+          { "front": "due to + noun (due to fog)", "back": "karena — different from be due to + infinitive" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u02-l3-q1", "type": "single_choice", "category": "grammar", "topic": "be about to",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Which expression means 'will happen in the next few moments'?",
+          "instructions": "Hint: think of a film that is starting right now.",
+          "options": ["be about to", "be due to", "be likely to", "be unlikely to"],
+          "answer": 0,
+          "explanation": "**Be about to** refers to the immediate future (sebentar lagi). *Be due to* = scheduled; *be likely to* = probable; *be unlikely to* = probably not."
+        },
+        {
+          "id": "b2-u02-l3-q2", "type": "matching", "category": "grammar", "topic": "future expressions",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "be about to", "right": "happen very soon" },
+            { "left": "be due to", "right": "be scheduled for a certain time" },
+            { "left": "be likely to", "right": "probably happen" },
+            { "left": "be bound to", "right": "be certain to happen" },
+            { "left": "be unlikely to", "right": "probably not happen" }
+          ],
+          "explanation": "All five expressions are followed by **to + infinitive**. They differ in timing (about to), scheduling (due to) and degree of certainty (likely, bound, unlikely)."
+        },
+        {
+          "id": "b2-u02-l3-q3", "type": "fill_blank", "category": "grammar", "topic": "be due to",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with ONE word.",
+          "text": "According to the official timetable, the new ferry service is ___ to start on 1 March.",
+          "answers": [["due", "scheduled", "set", "expected"]],
+          "explanation": "A timetable gives a scheduled date, so the best answer is **due** (*be due to* = dijadwalkan). *Scheduled* and *set* are also correct."
+        },
+        {
+          "id": "b2-u02-l3-q4", "type": "error_identification", "category": "grammar", "topic": "be about to",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["I was about", "calling you", "when your message", "arrived."],
+          "errorIndex": 1,
+          "correction": "to call you",
+          "explanation": "*Be about* is followed by **to + infinitive**: *I was about to call you* (saya baru akan menelepon)."
+        },
+        {
+          "id": "b2-u02-l3-q5", "type": "sentence_transformation", "category": "grammar", "topic": "be likely to",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "It is likely that prices will rise again next year.",
+          "cue": "Begin with: Prices ...",
+          "answers": ["Prices are likely to rise again next year."],
+          "explanation": "*It is likely that + subject + will + verb* = **subject + be likely to + infinitive**: *Prices are likely to rise again next year.*"
+        },
+        {
+          "id": "b2-u02-l3-q6", "type": "drag_drop", "category": "grammar", "topic": "future expressions",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentences with words from the bank. Use the meanings in brackets to help you.",
+          "text": "The concert is ___ to start at 7:30 (= it's scheduled). Hurry up, it's ___ to start (= in a few moments)! With this traffic, we're ___ to be late (= I'm certain).",
+          "bank": ["due", "about", "bound", "likely", "unlikely"],
+          "answers": ["due", "about", "bound"],
+          "explanation": "Scheduled → **due to**; in a few moments → **about to**; certain → **bound to**. *Likely to* means only 'probably', so it is weaker than *bound to*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u02-l4-science-cities-society",
+      "title": "Vocabulary: Science, Cities and Society",
+      "summary": "Kosakata tentang sains, perkotaan, dan masyarakat untuk membicarakan masa depan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use vocabulary about cities, technology and population change",
+        "Use common collocations such as make a breakthrough and renewable energy",
+        "Describe future trends using the new vocabulary with future forms"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Cities of the future\n| Word | Meaning | Example |\n| --- | --- | --- |\n| urbanisation | the movement of people from rural areas to cities | Rapid **urbanisation** puts pressure on housing. |\n| infrastructure | basic systems: roads, transport, water, power | The city must invest in **infrastructure**. |\n| overcrowded | with too many people | **Overcrowded** trains are a daily problem. |\n| sustainable | able to continue without harming the environment | We need **sustainable** transport. |\n| renewable energy | energy from sources that don't run out (sun, wind) | **Renewable energy** will power most homes. |\n\n### Science and technology\n| Word | Meaning | Example |\n| --- | --- | --- |\n| breakthrough | an important discovery | Scientists have **made a breakthrough** in battery design. |\n| automation | using machines to do work people used to do | **Automation** will change many jobs. |\n| artificial intelligence (AI) | computer systems that can learn and decide | **AI** is likely to transform healthcare. |\n| cutting-edge | the most advanced | **cutting-edge** research |\n\n### Society and population\n| Word | Meaning | Example |\n| --- | --- | --- |\n| life expectancy | the average age people live to | **Life expectancy** has been rising. |\n| ageing population | a population with a growing share of older people | An **ageing population** needs more care workers. |\n| inequality | an unfair difference between groups | Technology could reduce or increase **inequality**. |\n| carbon emissions | CO₂ released into the air | Cities must cut **carbon emissions**. |\n\n### Collocations to learn as chunks\n- **make** a breakthrough / **make** a discovery\n- **cut / reduce** emissions\n- **invest in** infrastructure\n- life expectancy **rises / increases**\n- **tackle** inequality / climate change\n\n### Word formation\n*urban → urbanisation; automate → automation; sustain → sustainable → sustainability; equal → inequality; expect → expectancy*. Recognising suffixes (*-isation, -ation, -able, -ity*) helps you guess meaning in reading texts.\n\n> **Catatan:** Ejaan Inggris Britania memakai *-ise/-isation* (urbanisation), sedangkan Amerika memakai *-ize/-ization* (urbanization); keduanya benar asalkan konsisten. *Ageing* (UK) = *aging* (US).",
+        "examples": [
+          { "en": "By 2050, about two-thirds of people are likely to be living in cities, according to some forecasts.", "id": "Pada tahun 2050, sekitar dua pertiga penduduk kemungkinan tinggal di kota, menurut beberapa perkiraan.", "note": "Prediction with a hedge (according to some forecasts)." },
+          { "en": "The council will have to invest heavily in infrastructure.", "id": "Pemerintah kota harus berinvestasi besar-besaran dalam infrastruktur.", "note": "invest in" },
+          { "en": "Researchers at Northfield University have made a breakthrough in solar technology.", "id": "Para peneliti di Universitas Northfield telah membuat terobosan dalam teknologi surya.", "note": "make a breakthrough" },
+          { "en": "An ageing population will need more doctors and carers.", "id": "Populasi yang menua akan membutuhkan lebih banyak dokter dan perawat.", "note": "ageing population" }
+        ],
+        "vocabulary": [
+          { "word": "urbanisation", "pos": "noun", "ipa": "/ˌɜːbənaɪˈzeɪʃn/", "meaning": "urbanisasi", "example": "Urbanisation has been increasing across Asia." },
+          { "word": "infrastructure", "pos": "noun", "ipa": "/ˈɪnfrəstrʌktʃə/", "meaning": "infrastruktur", "example": "Good infrastructure attracts investment." },
+          { "word": "breakthrough", "pos": "noun", "ipa": "/ˈbreɪkθruː/", "meaning": "terobosan", "example": "The vaccine was a major breakthrough." },
+          { "word": "life expectancy", "pos": "noun", "ipa": "/ˈlaɪf ɪkˌspektənsi/", "meaning": "angka harapan hidup", "example": "Life expectancy will probably continue to rise." },
+          { "word": "sustainable", "pos": "adjective", "ipa": "/səˈsteɪnəbl/", "meaning": "berkelanjutan", "example": "We need more sustainable ways of building." },
+          { "word": "automation", "pos": "noun", "ipa": "/ˌɔːtəˈmeɪʃn/", "meaning": "otomatisasi", "example": "Automation will have changed many factories by 2040." }
+        ],
+        "grammar": [
+          { "pattern": "make a breakthrough in + field", "example": "They made a breakthrough in cancer research.", "note": "Not do a breakthrough." },
+          { "pattern": "invest (money) in + noun", "example": "The government is investing in renewable energy.", "note": "Preposition in." },
+          { "pattern": "there will be + more/fewer + plural noun", "example": "There will be fewer cars in city centres.", "note": "Describing future trends." }
+        ],
+        "mistakes": [
+          { "wrong": "Scientists did a big breakthrough last year.", "right": "Scientists made a big breakthrough last year.", "why": "The collocation is make a breakthrough." },
+          { "wrong": "The city should invest on public transport.", "right": "The city should invest in public transport.", "why": "Invest is followed by the preposition in." },
+          { "wrong": "Life expectation is rising.", "right": "Life expectancy is rising.", "why": "The fixed term is life expectancy." }
+        ],
+        "summary": "Key vocabulary for the future: **urbanisation, infrastructure, overcrowded, sustainable, renewable energy, breakthrough, automation, AI, life expectancy, ageing population, inequality, carbon emissions**. Learn the collocations: *make a breakthrough, invest in, cut emissions, tackle inequality*. *Ringkasan: hafalkan kata beserta pasangannya (kolokasi).*",
+        "reviewCards": [
+          { "front": "make a breakthrough", "back": "membuat terobosan (bukan do a breakthrough)" },
+          { "front": "life expectancy", "back": "angka harapan hidup" },
+          { "front": "ageing population", "back": "populasi yang menua" },
+          { "front": "invest in infrastructure", "back": "berinvestasi dalam infrastruktur" },
+          { "front": "sustainable", "back": "berkelanjutan; tidak merusak lingkungan untuk jangka panjang" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u02-l4-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "cities",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the word that best completes the sentence.",
+          "instructions": "Hint: the word describes people moving from villages to cities.",
+          "context": "As more and more people move from villages to cities, rapid ___ is putting pressure on housing and transport.",
+          "options": ["urbanisation", "automation", "life expectancy", "breakthrough"],
+          "answer": 0,
+          "explanation": "**Urbanisation** is the movement of people from rural areas to cities. *Automation* is about machines doing work; *life expectancy* is about how long people live; a *breakthrough* is a discovery."
+        },
+        {
+          "id": "b2-u02-l4-q2", "type": "matching", "category": "vocabulary", "topic": "science and society",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            { "left": "infrastructure", "right": "basic systems such as roads, water and power" },
+            { "left": "sustainable", "right": "able to continue without harming the environment" },
+            { "left": "inequality", "right": "an unfair difference between groups of people" },
+            { "left": "overcrowded", "right": "containing too many people" },
+            { "left": "cutting-edge", "right": "the most modern and advanced" }
+          ],
+          "explanation": "These words are common in texts about the future of cities and society. Pay attention to suffixes: *-able* (adjective), *-ity* (noun)."
+        },
+        {
+          "id": "b2-u02-l4-q3", "type": "fill_blank", "category": "vocabulary", "topic": "energy",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the sentence with ONE word.",
+          "text": "Solar and wind power are examples of ___ energy, because they will never run out.",
+          "answers": [["renewable", "clean", "green", "sustainable", "alternative"]],
+          "explanation": "The key collocation is **renewable energy**: energy from sources that are not used up (sun, wind, water)."
+        },
+        {
+          "id": "b2-u02-l4-q4", "type": "single_choice", "category": "vocabulary", "topic": "science",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct word.",
+          "context": "Scientists at the Eastport Institute have made a major ___ in battery technology.",
+          "options": ["breakthrough", "break-in", "outbreak", "breakdown"],
+          "answer": 0,
+          "explanation": "A **breakthrough** is an important discovery. A *break-in* is a burglary, an *outbreak* is the sudden start of a disease or war, and a *breakdown* is a failure (of a machine or of health)."
+        },
+        {
+          "id": "b2-u02-l4-q5", "type": "drag_drop", "category": "vocabulary", "topic": "society",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "By 2050, ___ will probably be over 80 in many countries, which means more of us will be living in an ___ population. Cities will need better ___ such as roads, public transport and water systems.",
+          "bank": ["life expectancy", "ageing", "infrastructure", "overcrowded", "automation"],
+          "answers": ["life expectancy", "ageing", "infrastructure"],
+          "explanation": "**Life expectancy** (how long people live) will be over 80; this leads to an **ageing** population; roads and water systems are **infrastructure**."
+        },
+        {
+          "id": "b2-u02-l4-q6", "type": "translation", "category": "vocabulary", "topic": "society",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Angka harapan hidup terus meningkat.",
+          "direction": "id-en",
+          "answers": [
+            "Life expectancy keeps rising.",
+            "Life expectancy keeps increasing.",
+            "Life expectancy continues to rise.",
+            "Life expectancy continues to increase.",
+            "Life expectancy continues rising.",
+            "Life expectancy continues increasing.",
+            "Life expectancy is still rising.",
+            "Life expectancy is still increasing.",
+            "Life expectancy keeps going up.",
+            "Life expectancy is rising.",
+            "Life expectancy is increasing.",
+            "Life expectancy has been rising.",
+            "Life expectancy has been increasing."
+          ],
+          "explanation": "*Angka harapan hidup* = **life expectancy** (not *life expectation*). *Terus meningkat* = *keeps rising / continues to rise*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u02-l5-making-predictions",
+      "title": "Making Predictions with Confidence",
+      "summary": "Membuat prediksi dengan tingkat keyakinan yang berbeda-beda.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Express different degrees of certainty about the future",
+        "Place adverbs such as probably and definitely correctly",
+        "Combine future forms to make detailed predictions about 2050"
+      ],
+      "completionCriteria": "Complete the speaking task and score at least 70% on the mini quiz. (Selesaikan tugas berbicara dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### A scale of certainty\nGood predictions show **how sure** you are.\n\n| Certainty | Expressions |\n| --- | --- |\n| 100% | will definitely / certainly; be bound to; I'm convinced that... |\n| ~75% | will probably; be likely to; may well; there's a good chance that... |\n| ~50% | might; could; may; it's possible that... |\n| ~25% | probably won't; be unlikely to; I doubt (that)...; there's little chance that... |\n| 0% | definitely won't; there's no way that... (informal) |\n\n### Adverb position\nWith **will**, the adverb goes *after* will in positive sentences but *before* won't in negative sentences:\n- ✓ *It **will probably** rain.* / ✓ *It **probably won't** rain.*\n- ✗ *It won't probably rain.*\n- ✓ *We'll **definitely** need more doctors.* / ✓ *We **definitely won't** need petrol stations.*\n\n### may well\n*May well* means 'it is quite likely', stronger than *may* alone: *Robots **may well** replace many factory workers.*\n\n### Combining future forms for detail\nA detailed prediction often mixes forms from this unit:\n- **future continuous** for situations in progress: *People **will be working** from home more.*\n- **future perfect** for completed changes: *Petrol cars **will have disappeared** from many cities.*\n- **be likely/bound to** for probability: *Food **is likely to become** more expensive.*\n\n### Hedging: sounding careful\nIn academic or formal English, writers avoid sounding too certain:\n- *It seems likely that...* / *There is evidence that... may...* / *According to some forecasts,...*\n\n### Responding to predictions\n| Agree | Disagree politely |\n| --- | --- |\n| *I think you're right.* | *I'm not so sure about that.* |\n| *That's very likely.* | *I can't see that happening.* |\n\n> **Catatan:** Kesalahan umum penutur bahasa Indonesia: menaruh *probably* setelah *won't* (✗ *won't probably*). Ingat pola: **will probably** dan **probably won't**. *I doubt* sudah bermakna negatif, jadi jangan tambah *not*: *I doubt cars will disappear* (bukan *I doubt cars won't...* jika maksudnya 'saya ragu mobil akan hilang').",
+        "examples": [
+          { "en": "Cities will definitely be hotter in 2050.", "id": "Kota-kota pasti akan lebih panas pada tahun 2050.", "note": "100% certain." },
+          { "en": "Flying taxis may well be common by then.", "id": "Taksi terbang bisa jadi sudah umum pada saat itu.", "note": "may well = quite likely." },
+          { "en": "I doubt that people will stop using paper completely.", "id": "Saya ragu orang akan berhenti memakai kertas sepenuhnya.", "note": "~25% certain." },
+          { "en": "Most people probably won't own a car in the city centre.", "id": "Kebanyakan orang mungkin tidak akan memiliki mobil di pusat kota.", "note": "probably before won't." }
+        ],
+        "vocabulary": [
+          { "word": "forecast", "pos": "noun / verb", "ipa": "/ˈfɔːkɑːst/", "meaning": "prakiraan; meramalkan", "example": "Economic forecasts are often wrong." },
+          { "word": "may well", "pos": "modal phrase", "ipa": "/meɪ ˈwel/", "meaning": "sangat mungkin", "example": "Prices may well fall next year." },
+          { "word": "convinced", "pos": "adjective", "ipa": "/kənˈvɪnst/", "meaning": "yakin sekali", "example": "I'm convinced that AI will change education." },
+          { "word": "doubt", "pos": "verb", "ipa": "/daʊt/", "meaning": "meragukan", "example": "I doubt we'll live on Mars by 2050." },
+          { "word": "trend", "pos": "noun", "ipa": "/trend/", "meaning": "tren, kecenderungan", "example": "The trend towards remote work is likely to continue." }
+        ],
+        "grammar": [
+          { "pattern": "will + definitely/probably + verb", "example": "Energy will probably become cheaper.", "note": "Adverb after will." },
+          { "pattern": "definitely/probably + won't + verb", "example": "We probably won't need cash.", "note": "Adverb before won't." },
+          { "pattern": "There's a good/little chance (that) + clause", "example": "There's a good chance that it'll snow.", "note": "Expressing probability with a noun." }
+        ],
+        "mistakes": [
+          { "wrong": "Robots won't probably replace teachers.", "right": "Robots probably won't replace teachers.", "why": "Probably goes before won't in negative sentences." },
+          { "wrong": "The new airport is likely opening in 2031.", "right": "The new airport is likely to open in 2031.", "why": "Be likely is followed by to + infinitive." },
+          { "wrong": "I'm doubt that we'll live on Mars by 2050.", "right": "I doubt that we'll live on Mars by 2050.", "why": "Doubt is a verb here, so don't add am/is (saya ragu = I doubt)." }
+        ],
+        "summary": "Show your level of certainty with **definitely, bound to, probably, likely to, may well, might, unlikely to, I doubt**. Put *probably/definitely* **after will** but **before won't**. Combine future continuous, future perfect and *likely to* for detailed predictions, and hedge in formal writing. *Ringkasan: prediksi yang baik selalu menunjukkan seberapa yakin kita.*",
+        "reviewCards": [
+          { "front": "will probably / probably won't", "back": "Adverb position: after will, before won't" },
+          { "front": "may well", "back": "sangat mungkin (stronger than may)" },
+          { "front": "I doubt (that) ...", "back": "Saya ragu bahwa... (about 25% certain)" },
+          { "front": "There's a good chance that ...", "back": "Ada kemungkinan besar bahwa..." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u02-l5-q1", "type": "dropdown", "category": "grammar", "topic": "degrees of certainty",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the expression that fits the context.",
+          "instructions": "Hint: the speaker is completely sure because it happens every year.",
+          "text": "Train fares ___ go up in January. They always do.",
+          "choices": [["are bound to", "are unlikely to", "might not"]],
+          "answers": [0],
+          "explanation": "*They always do* shows the speaker is certain, so **are bound to** (pasti akan) is correct. The other options express doubt."
+        },
+        {
+          "id": "b2-u02-l5-q2", "type": "sentence_reconstruction", "category": "writing", "topic": "predictions",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Put the fragments in order to make a prediction.",
+          "fragments": ["By 2050,", "most new cars will probably", "be electric,", "but I doubt that", "petrol cars will have disappeared completely."],
+          "explanation": "Time phrase → prediction with *will probably* → contrast with *but I doubt that* + future perfect (*will have disappeared*)."
+        },
+        {
+          "id": "b2-u02-l5-q3", "type": "speaking_response", "category": "speaking", "topic": "predictions",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Make at least three predictions about life in your city in 2050 (transport, work, housing or technology). Show how certain you are, and use at least one future continuous and one future perfect form.",
+          "targetPhrases": ["will probably", "is likely to", "may well", "will be + -ing", "will have + past participle", "I doubt that"],
+          "sampleAnswer": "In 2050, I think most people in my city will be working from home at least two days a week. The city will probably have built a proper metro system by then, so traffic is likely to be much lighter. Housing may well become even more expensive, because more people will have moved here from rural areas. However, I doubt that flying cars will be common; they're too dangerous and expensive.",
+          "explanation": "A strong answer combines future forms (*will be working, will have built*) with different degrees of certainty (*probably, likely to, may well, I doubt*)."
+        },
+        {
+          "id": "b2-u02-l5-q4", "type": "error_identification", "category": "grammar", "topic": "be likely to",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["The new airport", "is likely", "opening", "in 2031."],
+          "errorIndex": 2,
+          "correction": "to open",
+          "explanation": "*Be likely* is followed by **to + infinitive**: *The new airport is likely to open in 2031.*"
+        },
+        {
+          "id": "b2-u02-l5-q5", "type": "multiple_select", "category": "grammar", "topic": "degrees of certainty",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentences say that it will PROBABLY snow (but the speaker is not completely sure)? Select all that apply.",
+          "options": [
+            "It's likely to snow.",
+            "It may well snow.",
+            "It's bound to snow.",
+            "There's a good chance it'll snow.",
+            "I doubt it'll snow."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "*Likely to, may well* and *there's a good chance* = probably. *Bound to* = certain (100%), and *I doubt* = probably not."
+        },
+        {
+          "id": "b2-u02-l5-q6", "type": "single_choice", "category": "grammar", "topic": "adverb position",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "She probably won't come to the conference.",
+            "She won't probably come to the conference.",
+            "She will come probably not to the conference.",
+            "She probably will not to come to the conference."
+          ],
+          "answer": 0,
+          "explanation": "In negative sentences, *probably* comes **before** *won't*: **She probably won't come.**"
+        },
+        {
+          "id": "b2-u02-l5-q7", "type": "short_answer", "category": "vocabulary", "topic": "degrees of certainty",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete with ONE word: \"There's a good ___ that the project will be finished early.\"",
+          "answers": ["chance", "possibility"],
+          "explanation": "The fixed expression is **There's a good chance (that)...** = it is quite likely."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u02-t-q1", "type": "single_choice", "category": "grammar", "topic": "future continuous",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "This time next month, I ___ in our new office in Port Selatan.",
+      "options": ["will be working", "will have worked", "am about to work", "work"],
+      "answer": 0,
+      "explanation": "*This time next month* describes an action in progress at a future time → **will be working**."
+    },
+    {
+      "id": "b2-u02-t-q2", "type": "fill_blank", "category": "grammar", "topic": "future perfect",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the sentence with the correct form of the verb in brackets.",
+      "text": "By the time you get this postcard, we ___ (leave) the island.",
+      "answers": [["will have left"]],
+      "explanation": "The leaving will be completed before a future moment (*by the time you get this postcard*) → **will have left**."
+    },
+    {
+      "id": "b2-u02-t-q3", "type": "dialogue_completion", "category": "conversation", "topic": "be due to",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        { "speaker": "Ana", "text": "Is the new library open yet?" },
+        { "speaker": "Rudi", "text": null }
+      ],
+      "options": [
+        "Not yet, but it's due to open next month.",
+        "Not yet, but it's due open next month.",
+        "Not yet, but it's about to open next month.",
+        "Not yet, but it's bound open next month."
+      ],
+      "answer": 0,
+      "explanation": "A scheduled future event → **be due to + infinitive**. *Be about to* is not used with a time expression like *next month*, and the other options are missing *to*."
+    },
+    {
+      "id": "b2-u02-t-q4", "type": "sentence_transformation", "category": "grammar", "topic": "be bound to",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence using the word in brackets.",
+      "sentence": "I'm sure the meeting will run late. (bound)",
+      "cue": "Begin with: The meeting ...",
+      "answers": ["The meeting is bound to run late."],
+      "explanation": "*I'm sure ... will* = **be bound to + infinitive**: *The meeting is bound to run late.*"
+    },
+    {
+      "id": "b2-u02-t-q5", "type": "word_order", "category": "grammar", "topic": "future perfect",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": ["By", "2050", "most", "people", "will", "have", "moved", "to", "cities"],
+      "acceptedAnswers": ["Most people will have moved to cities by 2050"],
+      "explanation": "*By + time* + subject + **will have + past participle**: *By 2050, most people will have moved to cities.*"
+    },
+    {
+      "id": "b2-u02-t-q6", "type": "error_identification", "category": "grammar", "topic": "future continuous",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["Next year", "my parents will have been married", "for thirty years,", "so we will be organised a big party."],
+      "errorIndex": 3,
+      "correction": "so we will be organising a big party.",
+      "explanation": "The future continuous needs the -ing form: **will be organising** (sedang menyiapkan). *Will have been married for thirty years* is correct (state up to a future point)."
+    },
+    {
+      "id": "b2-u02-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "science",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "What does the word in bold mean?",
+      "context": "Most experts agree that the new material is a genuine **breakthrough** that could make solar panels much cheaper.",
+      "options": ["an important new discovery", "a failure of a machine", "a dangerous experiment", "an expensive product"],
+      "answer": 0,
+      "explanation": "A **breakthrough** is an important discovery or development (terobosan)."
+    }
+  ]
+}

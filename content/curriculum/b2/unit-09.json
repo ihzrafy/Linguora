@@ -1,0 +1,686 @@
+{
+  "slug": "b2-u09-wishes",
+  "number": 9,
+  "title": "Wishes and Preferences",
+  "description": "Express regret, preferences and complaints with wish / if only + past simple and past perfect, wish + would, would rather, and it's (high) time + past simple. Vocabulary: lifestyle, habits and complaints.",
+  "objectives": [
+    "Express regrets about the present and the past with wish and if only",
+    "Complain about annoying habits with wish + would",
+    "State preferences with would rather and would prefer",
+    "Say that something should happen now with it's (high) time + past simple, and make polite complaints"
+  ],
+  "lessons": [
+    {
+      "slug": "b2-u09-l1-wish-past-perfect",
+      "title": "Wish and If Only: Present and Past Regrets",
+      "summary": "Mengungkapkan penyesalan tentang masa kini (wish + past simple) dan masa lalu (wish + past perfect).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Review wish + past simple for present situations",
+        "Use wish / if only + past perfect for past regrets",
+        "Use wish + could for abilities"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Wishes go 'one step back' in time\nWhen we wish for something **unreal**, the verb moves one step into the past, just like in conditionals.\n\n| Time of the wish | Structure | Example | Reality |\n| --- | --- | --- | --- |\n| present | wish + **past simple** | *I wish I **had** more time.* | I don't have enough time. |\n| present (be) | wish + **were/was** | *I wish I **were** taller.* | I'm not tall. |\n| present ability | wish + **could** | *I wish I **could** swim.* | I can't swim. |\n| past | wish + **past perfect** | *I wish I **had studied** harder.* | I didn't study hard. |\n\n### Past regrets: wish + past perfect\nThis is the key B2 structure. It expresses **regret** about something that did or didn't happen:\n- *I wish I **had gone** to the party.* (I didn't go.)\n- *I wish I **hadn't sold** my old guitar.* (I sold it.)\n- *She wishes she **had taken** the job in Singapore.*\n\n### if only\n*If only* means the same as *I wish* but is **stronger and more emotional**:\n- ***If only** I **had listened** to my parents!*\n- ***If only** we **hadn't missed** the flight.*\n\n### Never use would have after wish\n- ✗ *I wish I would have known.*\n- ✓ *I wish I **had known**.*\n\n### Connection with the third conditional\nWishes about the past use the same tense as the if-clause of the third conditional:\n- *I wish I had saved money.* → *If I had saved money, I would have bought a house.*\n\n### was or were?\nAfter *wish*, *were* is used for all persons in formal English; *was* is common in informal speech: *I wish I **were/was** on holiday.*\n\n> **Catatan:** *Andai saja / seandainya* dalam bahasa Indonesia tidak mengubah bentuk kata kerja. Dalam bahasa Inggris, untuk masa kini pakai **past simple** (*I wish I knew*), untuk masa lalu pakai **past perfect** (*I wish I had known*). Jangan pakai *would have* setelah *wish*.",
+        "examples": [
+          { "en": "I didn't go to the party. Now I wish I had gone.", "id": "Saya tidak pergi ke pesta. Sekarang saya menyesal tidak pergi.", "note": "Past regret." },
+          { "en": "If only I hadn't sold my old guitar!", "id": "Andai saja saya tidak menjual gitar lama saya!", "note": "Strong regret." },
+          { "en": "I wish I had more free time.", "id": "Andai saya punya lebih banyak waktu luang.", "note": "Present situation." },
+          { "en": "She wishes she could speak Japanese.", "id": "Dia berharap bisa berbicara bahasa Jepang.", "note": "Ability." }
+        ],
+        "vocabulary": [
+          { "word": "regret", "pos": "noun / verb", "ipa": "/rɪˈɡret/", "meaning": "penyesalan; menyesal", "example": "My only regret is that I didn't travel more." },
+          { "word": "if only", "pos": "phrase", "ipa": "/ɪf ˈəʊnli/", "meaning": "andai saja", "example": "If only I had known!" },
+          { "word": "miss out (on)", "pos": "phrasal verb", "ipa": "/ˌmɪs ˈaʊt/", "meaning": "melewatkan kesempatan", "example": "I wish I hadn't missed out on that trip." },
+          { "word": "take advice", "pos": "phrase", "ipa": "/ˌteɪk ədˈvaɪs/", "meaning": "mengikuti nasihat", "example": "I wish I had taken your advice." },
+          { "word": "make the most of", "pos": "phrase", "ipa": "/ˌmeɪk ðə ˈməʊst əv/", "meaning": "memanfaatkan sebaik-baiknya", "example": "I wish I had made the most of my time at university." }
+        ],
+        "grammar": [
+          { "pattern": "subject + wish(es) + subject + past perfect", "example": "I wish I had saved more money.", "note": "Past regret." },
+          { "pattern": "If only + subject + past perfect!", "example": "If only we hadn't argued!", "note": "Stronger regret." },
+          { "pattern": "subject + wish(es) + subject + past simple / could", "example": "I wish I lived by the sea.", "note": "Present wish." }
+        ],
+        "mistakes": [
+          { "wrong": "I wish I would have known about the sale.", "right": "I wish I had known about the sale.", "why": "Use the past perfect, not would have, after wish for past regrets." },
+          { "wrong": "I wish I didn't eat so much last night.", "right": "I wish I hadn't eaten so much last night.", "why": "Last night is the past, so use the past perfect." },
+          { "wrong": "I wish I have a car.", "right": "I wish I had a car.", "why": "For present wishes, use the past simple after wish." }
+        ],
+        "summary": "**wish/if only + past simple** = unreal present; **wish + could** = ability; **wish/if only + past perfect** = past regret. Never use *would have* after *wish*. *If only* is more emotional than *I wish*. *Ringkasan: masa kini → past simple; masa lalu → past perfect.*",
+        "reviewCards": [
+          { "front": "I wish I had gone.", "back": "Saya menyesal tidak pergi (past regret)." },
+          { "front": "I wish I knew. vs I wish I had known.", "back": "present vs past" },
+          { "front": "If only ...!", "back": "Andai saja ...! (stronger than I wish)" },
+          { "front": "I wish I would have ... ✗", "back": "I wish I had + V3 ✓" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u09-l1-q1", "type": "fill_blank", "category": "grammar", "topic": "wish + past perfect",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence with the correct form of the verb in brackets.",
+          "instructions": "Hint: regret about the past → past perfect.",
+          "text": "I didn't go to the party, and everyone says it was amazing. I wish I ___ (go).",
+          "answers": [["had gone"]],
+          "explanation": "A past regret → **wish + past perfect**: *I wish I had gone.*"
+        },
+        {
+          "id": "b2-u09-l1-q2", "type": "dropdown", "category": "grammar", "topic": "wish + past simple",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "I wish I ___ more free time. I'm always so busy these days.",
+          "choices": [["had", "had had", "would have"]],
+          "answers": [0],
+          "explanation": "A wish about the present (*these days*) → **past simple**: *I wish I had more free time.*"
+        },
+        {
+          "id": "b2-u09-l1-q3", "type": "sentence_transformation", "category": "grammar", "topic": "wish + past perfect",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using wish.",
+          "sentence": "I regret selling my old guitar.",
+          "cue": "Begin with: I wish ...",
+          "answers": [
+            "I wish I hadn't sold my old guitar.",
+            "I wish I had not sold my old guitar.",
+            "I wish I hadn't sold my guitar."
+          ],
+          "explanation": "Regret about a past action → **wish + hadn't + past participle**."
+        },
+        {
+          "id": "b2-u09-l1-q4", "type": "error_identification", "category": "grammar", "topic": "if only",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["If only", "I would have listened", "to my parents'", "advice."],
+          "errorIndex": 1,
+          "correction": "I had listened",
+          "explanation": "After *if only* for past regrets, use the past perfect: **If only I had listened...**"
+        },
+        {
+          "id": "b2-u09-l1-q5", "type": "multiple_select", "category": "grammar", "topic": "wishes",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentences express regret about the PAST? Select all that apply.",
+          "options": [
+            "I wish I had studied harder at school.",
+            "If only we hadn't missed the flight.",
+            "I wish I lived closer to work.",
+            "I wish I had known about the sale.",
+            "If only I could speak French."
+          ],
+          "answers": [0, 1, 3],
+          "explanation": "Past regrets use the **past perfect** (*had studied, hadn't missed, had known*). *Lived* and *could speak* refer to the present."
+        },
+        {
+          "id": "b2-u09-l1-q6", "type": "translation", "category": "grammar", "topic": "wish + past perfect",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Andai saja saya tidak makan sebanyak itu tadi malam.",
+          "direction": "id-en",
+          "answers": [
+            "I wish I hadn't eaten so much last night.",
+            "I wish I had not eaten so much last night.",
+            "If only I hadn't eaten so much last night.",
+            "If only I had not eaten so much last night.",
+            "I wish I hadn't eaten that much last night.",
+            "If only I hadn't eaten that much last night."
+          ],
+          "explanation": "*Tadi malam* = past → **wish/if only + past perfect**: *I wish I hadn't eaten so much last night.*"
+        }
+      ]
+    },
+    {
+      "slug": "b2-u09-l2-wish-would",
+      "title": "Wish + Would: Annoying Habits",
+      "summary": "Mengeluhkan kebiasaan orang lain atau situasi yang ingin diubah dengan wish + would.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use wish + would to complain about other people's habits",
+        "Use wish + would for situations we want to change (I wish it would stop raining)",
+        "Avoid I wish I would..."
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### wish + would: wanting someone or something to change\nWe use **wish + someone/something + would + infinitive** when we are **annoyed** or **impatient** and want a change in the future:\n- *I wish my neighbour **would stop** playing loud music at night.*\n- *I wish you **wouldn't interrupt** me all the time.*\n- *I wish it **would stop** raining!*\n\nIt is often a **complaint** or a polite criticism.\n\n### The subject must be different\nWe don't normally say *I wish I would...*, because we can control our own actions. Use *could* or the past simple instead:\n- ✗ *I wish I would be taller.* → ✓ *I wish I **were** taller.*\n- ✗ *I wish I would have a car.* → ✓ *I wish I **had** a car.*\n- ✗ *I wish I would go out more.* → ✓ *I wish I **could** go out more.*\n\n### Only for actions, not states\n*Would* is used with actions (*stop, call, listen, tidy*), not states:\n- ✗ *I wish you would be here.* → ✓ *I wish you **were** here.*\n- ✗ *I wish he would have more money.* → ✓ *I wish he **had** more money.*\n\n### Summary of wish structures\n| Structure | Use | Example |\n| --- | --- | --- |\n| wish + past simple | unreal present state | *I wish I **had** my own room.* |\n| wish + could | ability / possibility | *I wish I **could** drive.* |\n| wish + past perfect | past regret | *I wish I **hadn't lent** him my jacket.* |\n| wish + would | annoying habit / desired change | *I wish he **wouldn't borrow** my clothes.* |\n\n### Tone\n*I wish you would...* can sound quite critical. To be more polite, use: *Would you mind...?* or *Could you possibly...?*\n\n> **Catatan:** *I wish you would ...* ≈ *Saya harap kamu mau ...* (dengan nada kesal). Contoh: *Saya harap tetangga berhenti menyetel musik keras* → *I wish my neighbour would stop playing loud music.* Jangan pakai *I wish I would ...*.",
+        "examples": [
+          { "en": "I wish my neighbour would stop playing loud music every night.", "id": "Saya harap tetangga saya mau berhenti menyetel musik keras setiap malam.", "note": "Annoying habit." },
+          { "en": "I wish you wouldn't leave your shoes in the hall.", "id": "Saya harap kamu tidak meninggalkan sepatumu di lorong.", "note": "Negative: wouldn't." },
+          { "en": "I wish it would stop raining. We want to go out!", "id": "Semoga hujannya berhenti. Kami ingin keluar!", "note": "Impatience about a situation." },
+          { "en": "I wish I could go out more, but I have too much work.", "id": "Andai saya bisa lebih sering keluar, tetapi pekerjaan saya terlalu banyak.", "note": "Not 'I wish I would'." }
+        ],
+        "vocabulary": [
+          { "word": "interrupt", "pos": "verb", "ipa": "/ˌɪntəˈrʌpt/", "meaning": "menyela", "example": "I wish you wouldn't interrupt me." },
+          { "word": "annoying", "pos": "adjective", "ipa": "/əˈnɔɪɪŋ/", "meaning": "menjengkelkan", "example": "His habit of being late is really annoying." },
+          { "word": "tidy up", "pos": "phrasal verb", "ipa": "/ˌtaɪdi ˈʌp/", "meaning": "merapikan", "example": "I wish the kids would tidy up their room." },
+          { "word": "impatient", "pos": "adjective", "ipa": "/ɪmˈpeɪʃnt/", "meaning": "tidak sabar", "example": "She's impatient for the rain to stop." },
+          { "word": "habit", "pos": "noun", "ipa": "/ˈhæbɪt/", "meaning": "kebiasaan", "example": "Biting your nails is a bad habit." }
+        ],
+        "grammar": [
+          { "pattern": "subject + wish + other person/thing + would + infinitive", "example": "I wish the bus would come.", "note": "Desired change / impatience." },
+          { "pattern": "subject + wish + other person + wouldn't + infinitive", "example": "I wish he wouldn't shout.", "note": "Complaint about a habit." },
+          { "pattern": "subject + wish + I + could + infinitive", "example": "I wish I could help you.", "note": "Not 'I wish I would'." }
+        ],
+        "mistakes": [
+          { "wrong": "I wish I would have a bigger flat.", "right": "I wish I had a bigger flat.", "why": "Don't use I wish I would; for a present state use the past simple." },
+          { "wrong": "I wish you would be here.", "right": "I wish you were here.", "why": "Would is for actions, not states like be." },
+          { "wrong": "I wish it stops raining.", "right": "I wish it would stop raining.", "why": "For impatience about a situation, use wish + would." }
+        ],
+        "summary": "Use **wish + would + infinitive** to complain about other people's habits or situations you want to change (*I wish he would stop...*). Don't use it with *I* or with states; use *could* or the past simple instead. *Ringkasan: keluhan tentang kebiasaan orang lain → wish + would.*",
+        "reviewCards": [
+          { "front": "I wish you wouldn't ...", "back": "Complaint about someone's annoying habit" },
+          { "front": "I wish I would ... ✗", "back": "I wish I could ... / I wish I had ... ✓" },
+          { "front": "I wish it would stop raining.", "back": "Impatience about a situation" },
+          { "front": "I wish you were here (not: would be)", "back": "States use the past simple." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u09-l2-q1", "type": "dropdown", "category": "grammar", "topic": "wish + would",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "instructions": "Hint: it's an annoying habit that you want to change.",
+          "text": "I wish my neighbour ___ playing loud music every night. It's driving me crazy!",
+          "choices": [["would stop", "stopped", "had stopped"]],
+          "answers": [0],
+          "explanation": "Complaining about someone's habit and wanting it to change → **wish + would + infinitive**."
+        },
+        {
+          "id": "b2-u09-l2-q2", "type": "single_choice", "category": "grammar", "topic": "wish + would",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I wish it would stop raining.",
+            "I wish I would be taller.",
+            "I wish I would have a car.",
+            "I wish it stops raining."
+          ],
+          "answer": 0,
+          "explanation": "**I wish it would stop raining** expresses impatience about a situation. We don't use *I wish I would*, and *wish* is not followed by the present simple."
+        },
+        {
+          "id": "b2-u09-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "wish + would",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Express the complaint with wish.",
+          "sentence": "You never listen to me, and it really annoys me.",
+          "cue": "Begin with: I wish you ...",
+          "answers": [
+            "I wish you would listen to me.",
+            "I wish you'd listen to me.",
+            "I wish you would listen to me more.",
+            "I wish you'd listen to me more."
+          ],
+          "explanation": "Annoying habit → **I wish you would + infinitive**: *I wish you would listen to me.*"
+        },
+        {
+          "id": "b2-u09-l2-q4", "type": "matching", "category": "grammar", "topic": "wishes",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Match each wish with what it expresses.",
+          "pairs": [
+            { "left": "I wish I were taller.", "right": "a present situation I can't change" },
+            { "left": "I wish you would stop interrupting me.", "right": "an annoying habit" },
+            { "left": "I wish I had taken the job.", "right": "a past regret" },
+            { "left": "I wish I could swim.", "right": "an ability I don't have" }
+          ],
+          "explanation": "past simple/were = present; would = habit/change; past perfect = past regret; could = ability."
+        },
+        {
+          "id": "b2-u09-l2-q5", "type": "error_identification", "category": "grammar", "topic": "wish + past simple",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["I wish", "I would have", "a bigger flat", "in the city centre."],
+          "errorIndex": 1,
+          "correction": "I had",
+          "explanation": "For a present state, use **wish + past simple**: *I wish I had a bigger flat.* We don't use *I wish I would*."
+        },
+        {
+          "id": "b2-u09-l2-q6", "type": "drag_drop", "category": "grammar", "topic": "wishes",
+          "difficulty": 4, "stage": "quiz",
+          "prompt": "Complete the text with forms from the bank.",
+          "text": "I wish my brother ___ borrow my clothes without asking. I wish I ___ my own room. And I really wish I ___ him my favourite jacket last week!",
+          "bank": ["wouldn't", "had", "hadn't lent", "would", "didn't lend"],
+          "answers": ["wouldn't", "had", "hadn't lent"],
+          "explanation": "Annoying habit → **wouldn't**; present state → **had**; past regret (*last week*) → **hadn't lent**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u09-l3-would-rather",
+      "title": "Would Rather and Would Prefer",
+      "summary": "Mengungkapkan preferensi dengan would rather (+ infinitive / + subjek + past simple) dan would prefer.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use would rather + infinitive (than) for your own preferences",
+        "Use would rather + subject + past simple for other people's actions",
+        "Compare would rather, would prefer and prefer"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### would rather + infinitive (same subject)\nUse it to talk about **your own** preferences. It is followed by the **bare infinitive** (no *to*):\n- *I'd rather **stay** at home tonight.*\n- *I'd rather **walk** than **take** the bus.* (than + bare infinitive)\n- *I'd rather **not** talk about it.* (negative: rather not)\n- *Would you rather **have** tea or coffee?*\n\n### would rather + subject + past simple (different subject)\nWhen you want **another person** to do something, use the **past simple** (with present or future meaning):\n- *I'd rather **you didn't smoke** in here.*\n- *I'd rather **we stayed** in tonight, if you don't mind.*\n- *My parents would rather **I studied** medicine.*\n\nThis is a polite way to make a request or show disapproval.\n\n### Comparing preference structures\n| Structure | Followed by | Example |\n| --- | --- | --- |\n| would rather | bare infinitive (+ than + bare infinitive) | *I'd rather **walk** than **drive**.* |\n| would rather + subject | past simple | *I'd rather **you drove**.* |\n| would prefer | to-infinitive (+ rather than + bare infinitive) | *I'd prefer **to walk** rather than **drive**.* |\n| would prefer + object | to-infinitive | *I'd prefer **you to drive**.* |\n| prefer (general) | -ing **to** -ing / noun **to** noun | *I prefer **walking to driving**.* |\n\n### Contractions\n*I'd rather* = *I would rather*; *I'd prefer* = *I would prefer*. Don't write *I rather*.\n\n### Common errors\n- ✗ *I'd rather to stay.* → ✓ *I'd rather stay.*\n- ✗ *I'd rather you don't tell anyone.* → ✓ *I'd rather you didn't tell anyone.*\n- ✗ *I prefer coffee than tea.* → ✓ *I prefer coffee **to** tea.*\n\n> **Catatan:** *I'd rather* = *saya lebih suka / saya lebih memilih*. Untuk diri sendiri: *I'd rather + V1*. Untuk orang lain: *I'd rather you + V2 (past simple)* — artinya *saya lebih suka kalau kamu ...*. Contoh: *Saya lebih suka kamu tidak merokok di sini* = *I'd rather you didn't smoke here.*",
+        "examples": [
+          { "en": "I'd rather stay at home tonight; I'm exhausted.", "id": "Saya lebih suka di rumah malam ini; saya capek sekali.", "note": "would rather + infinitive" },
+          { "en": "I'd rather walk than take the bus.", "id": "Saya lebih suka berjalan kaki daripada naik bus.", "note": "than + bare infinitive" },
+          { "en": "I'd rather you didn't tell anyone about this.", "id": "Saya lebih suka kamu tidak memberi tahu siapa pun tentang ini.", "note": "Different subject + past simple." },
+          { "en": "I prefer cooking at home to eating out.", "id": "Saya lebih suka memasak di rumah daripada makan di luar.", "note": "prefer -ing to -ing" }
+        ],
+        "vocabulary": [
+          { "word": "would rather", "pos": "modal phrase", "ipa": "/wʊd ˈrɑːðə/", "meaning": "lebih suka, lebih memilih", "example": "I'd rather not go." },
+          { "word": "eat out", "pos": "phrasal verb", "ipa": "/ˌiːt ˈaʊt/", "meaning": "makan di luar", "example": "We'd rather eat out tonight." },
+          { "word": "stay in", "pos": "phrasal verb", "ipa": "/ˌsteɪ ˈɪn/", "meaning": "tetap di rumah", "example": "I'd rather stay in and watch a film." },
+          { "word": "a night in", "pos": "noun phrase", "ipa": "/ə ˌnaɪt ˈɪn/", "meaning": "malam santai di rumah", "example": "I fancy a quiet night in." },
+          { "word": "preference", "pos": "noun", "ipa": "/ˈprefrəns/", "meaning": "preferensi, pilihan", "example": "Do you have a preference for a window seat?" }
+        ],
+        "grammar": [
+          { "pattern": "subject + would rather + (not) + bare infinitive (+ than + bare infinitive)", "example": "I'd rather read than watch TV.", "note": "Same subject." },
+          { "pattern": "subject + would rather + other subject + past simple", "example": "I'd rather you came tomorrow.", "note": "Different subject." },
+          { "pattern": "subject + prefer + -ing/noun + to + -ing/noun", "example": "She prefers tea to coffee.", "note": "General preference." }
+        ],
+        "mistakes": [
+          { "wrong": "I'd rather to have a quiet night in.", "right": "I'd rather have a quiet night in.", "why": "Would rather is followed by the bare infinitive (no to)." },
+          { "wrong": "I'd rather you don't smoke in here.", "right": "I'd rather you didn't smoke in here.", "why": "With a different subject, use the past simple after would rather." },
+          { "wrong": "I prefer walking than driving.", "right": "I prefer walking to driving.", "why": "Prefer A to B; would rather A than B." }
+        ],
+        "summary": "**would rather + bare infinitive (than ...)** for your own preferences; **would rather + subject + past simple** for other people's actions; **would prefer + to-infinitive**; **prefer A to B** for general preferences. *Ringkasan: I'd rather + V1; I'd rather you + V2.*",
+        "reviewCards": [
+          { "front": "I'd rather + ?", "back": "bare infinitive: I'd rather stay." },
+          { "front": "I'd rather you + ?", "back": "past simple: I'd rather you didn't smoke." },
+          { "front": "prefer A to B", "back": "I prefer tea to coffee / walking to driving." },
+          { "front": "would rather ... than / would prefer ... rather than", "back": "Two patterns for comparing preferences" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u09-l3-q1", "type": "fill_blank", "category": "grammar", "topic": "would rather",
+          "difficulty": 1, "stage": "guided",
+          "prompt": "Complete with the correct form of the verb in brackets.",
+          "instructions": "Hint: would rather + infinitive without to.",
+          "text": "I'm exhausted. I'd rather ___ (stay) at home tonight.",
+          "answers": [["stay"]],
+          "explanation": "**would rather + bare infinitive**: *I'd rather stay at home.*"
+        },
+        {
+          "id": "b2-u09-l3-q2", "type": "dropdown", "category": "grammar", "topic": "would rather + past simple",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "I'd rather you ___ in here. It's a no-smoking area.",
+          "choices": [["didn't smoke", "don't smoke", "not smoke"]],
+          "answers": [0],
+          "explanation": "Different subject (*you*) after *would rather* → **past simple**: *I'd rather you didn't smoke.*"
+        },
+        {
+          "id": "b2-u09-l3-q3", "type": "sentence_transformation", "category": "grammar", "topic": "would rather",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using would rather.",
+          "sentence": "I prefer walking to taking the bus.",
+          "cue": "Begin with: I'd rather ...",
+          "answers": [
+            "I'd rather walk than take the bus.",
+            "I would rather walk than take the bus."
+          ],
+          "explanation": "*prefer -ing to -ing* → **would rather + bare infinitive + than + bare infinitive**."
+        },
+        {
+          "id": "b2-u09-l3-q4", "type": "error_identification", "category": "grammar", "topic": "would rather",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["I'd rather", "to have", "a quiet night in", "than go to the party."],
+          "errorIndex": 1,
+          "correction": "have",
+          "explanation": "*Would rather* is followed by the bare infinitive: **I'd rather have a quiet night in.**"
+        },
+        {
+          "id": "b2-u09-l3-q5", "type": "single_choice", "category": "grammar", "topic": "would rather",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Choose the correct option.",
+          "context": "Would you rather ___ now or after lunch?",
+          "options": ["leave", "to leave", "leaving", "left"],
+          "answer": 0,
+          "explanation": "Same subject (*you*) → **would rather + bare infinitive**: *Would you rather leave now?*"
+        },
+        {
+          "id": "b2-u09-l3-q6", "type": "word_order", "category": "grammar", "topic": "would rather + past simple",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["I'd", "rather", "you", "didn't", "tell", "anyone", "about", "this"],
+          "explanation": "**I'd rather + you + past simple**: *I'd rather you didn't tell anyone about this.*"
+        },
+        {
+          "id": "b2-u09-l3-q7", "type": "dialogue_completion", "category": "conversation", "topic": "would rather",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct reply.",
+          "dialogue": [
+            { "speaker": "Andi", "text": "Shall we eat out tonight?" },
+            { "speaker": "Maya", "text": null }
+          ],
+          "options": [
+            "I'd rather we stayed in, if you don't mind.",
+            "I'd rather to stay in, if you don't mind.",
+            "I'd rather staying in, if you don't mind.",
+            "I rather stay in, if you don't mind."
+          ],
+          "answer": 0,
+          "explanation": "**I'd rather we stayed in** (different subject *we* → past simple) is correct and polite. The others have errors: *rather to*, *rather staying*, and missing *'d*."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u09-l4-its-time",
+      "title": "It's (High) Time + Past Simple",
+      "summary": "Mengatakan bahwa sesuatu seharusnya sudah dilakukan dengan it's time / it's high time / it's about time.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use it's time + to-infinitive for neutral statements",
+        "Use it's (high/about) time + subject + past simple to criticise or urge",
+        "Compare it's time with had better and should"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz. (Baca semua bagian dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Two patterns\n| Pattern | Meaning | Example |\n| --- | --- | --- |\n| it's time + **to-infinitive** | neutral: the right moment has come | *It's time **to start** the meeting.* |\n| it's time + (for + person) + **to-infinitive** | neutral, with a person | *It's time **for us to go**.* |\n| it's time + subject + **past simple** | it should happen now (maybe it's a little late) | *It's time **we went** home.* |\n| it's **high time / about time** + subject + **past simple** | criticism: it should have happened already | *It's high time **you found** a job.* |\n\n### Past simple, present meaning\nAs with *wish* and *would rather*, the past simple here refers to the **present/future**. It shows the action hasn't happened yet:\n- *It's late. **It's time we left**.* (We haven't left yet; we should leave now.)\n- ✗ *It's time we leave.*\n\n### high time / about time\nAdding *high* or *about* makes the sentence stronger and more critical:\n- *It's **about time** the council **repaired** this road!* (It should have happened long ago.)\n- *It's **high time** you **had** your hair cut.* (causative from Unit 4!)\n\n### Related structures for advice and urgency\n| Structure | Strength | Example |\n| --- | --- | --- |\n| You should... | advice | *You should see a doctor.* |\n| You'd better... | strong advice / warning | *You'd better hurry, or you'll miss the train.* |\n| It's time you... | it should happen now | *It's time you saw a doctor.* |\n| It's high time you... | criticism: it's late | *It's high time you saw a doctor.* |\n\nNote: *had better* + bare infinitive: *You'd better **not be** late* (NOT *had better to*).\n\n### Negatives\nWe usually avoid negatives after *it's time*. Instead of *It's time you didn't...*, say *It's time you stopped...*.\n\n> **Catatan:** *It's time we went home* = *Sudah waktunya kita pulang*. Walaupun memakai past simple (*went*), maknanya **sekarang**. *It's high time / about time* = *sudah seharusnya dari dulu* (ada nada kritik).",
+        "examples": [
+          { "en": "It's late. It's time we went home.", "id": "Sudah malam. Sudah waktunya kita pulang.", "note": "it's time + past simple" },
+          { "en": "It's time to start the meeting. Everyone is here.", "id": "Sudah waktunya memulai rapat. Semua orang sudah hadir.", "note": "Neutral: to-infinitive." },
+          { "en": "It's high time you found a job.", "id": "Sudah seharusnya kamu mendapat pekerjaan.", "note": "Criticism." },
+          { "en": "It's about time the city did something about the traffic.", "id": "Sudah saatnya (dari dulu) kota ini berbuat sesuatu soal kemacetan.", "note": "Strong criticism." }
+        ],
+        "vocabulary": [
+          { "word": "high time", "pos": "phrase", "ipa": "/ˈhaɪ taɪm/", "meaning": "sudah seharusnya (dari dulu)", "example": "It's high time we cleaned the garage." },
+          { "word": "about time", "pos": "phrase", "ipa": "/əˈbaʊt taɪm/", "meaning": "sudah saatnya (dengan nada kesal)", "example": "It's about time you arrived!" },
+          { "word": "had better", "pos": "modal phrase", "ipa": "/hæd ˈbetə/", "meaning": "sebaiknya (peringatan)", "example": "You'd better leave now." },
+          { "word": "sort out", "pos": "phrasal verb", "ipa": "/ˌsɔːt ˈaʊt/", "meaning": "membereskan, menyelesaikan", "example": "It's time we sorted out this problem." },
+          { "word": "overdue", "pos": "adjective", "ipa": "/ˌəʊvəˈdjuː/", "meaning": "terlambat, lewat waktu", "example": "This change is long overdue." }
+        ],
+        "grammar": [
+          { "pattern": "It's time + to-infinitive / for + person + to-infinitive", "example": "It's time for you to go to bed.", "note": "Neutral." },
+          { "pattern": "It's (high/about) time + subject + past simple", "example": "It's high time they fixed the lift.", "note": "Present meaning; criticism." },
+          { "pattern": "subject + had better ('d better) + (not) + bare infinitive", "example": "We'd better not miss the bus.", "note": "Strong advice." }
+        ],
+        "mistakes": [
+          { "wrong": "It's time we go home.", "right": "It's time we went home.", "why": "After it's time + subject, use the past simple." },
+          { "wrong": "It's high time the council repairs this road.", "right": "It's high time the council repaired this road.", "why": "Use the past simple after it's high time + subject." },
+          { "wrong": "You'd better to hurry.", "right": "You'd better hurry.", "why": "Had better is followed by the bare infinitive." }
+        ],
+        "summary": "**It's time + to-infinitive** is neutral; **It's (high/about) time + subject + past simple** means something should happen now (and maybe should have happened earlier). The past simple has present meaning. Compare with *should* and *had better*. *Ringkasan: It's time we went = sudah waktunya kita pergi.*",
+        "reviewCards": [
+          { "front": "It's time we + ?", "back": "past simple (It's time we went.)" },
+          { "front": "It's high time / about time", "back": "sudah seharusnya dari dulu (criticism)" },
+          { "front": "It's time to + verb", "back": "neutral: sudah waktunya ..." },
+          { "front": "You'd better (not) + verb", "back": "sebaiknya (tidak) ... — warning" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u09-l4-q1", "type": "dropdown", "category": "grammar", "topic": "it's time",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct option.",
+          "instructions": "Hint: it's time + subject + past simple.",
+          "text": "It's nearly midnight. It's time we ___ home.",
+          "choices": [["went", "go", "going"]],
+          "answers": [0],
+          "explanation": "After *it's time + subject*, use the **past simple** with present meaning: *It's time we went home.*"
+        },
+        {
+          "id": "b2-u09-l4-q2", "type": "fill_blank", "category": "grammar", "topic": "it's time",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with the correct form of the verb in brackets.",
+          "text": "Everyone is here now, so it's time ___ (start) the meeting.",
+          "answers": [["to start"]],
+          "explanation": "Without a subject, use **it's time + to-infinitive**: *it's time to start*."
+        },
+        {
+          "id": "b2-u09-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "it's high time",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using high time.",
+          "sentence": "You should have your hair cut. It's far too long.",
+          "cue": "Begin with: It's high time you ...",
+          "answers": [
+            "It's high time you had your hair cut.",
+            "It is high time you had your hair cut.",
+            "It's high time you got your hair cut.",
+            "It is high time you got your hair cut."
+          ],
+          "explanation": "**It's high time + subject + past simple** (+ causative *have something done*): *It's high time you had your hair cut.*"
+        },
+        {
+          "id": "b2-u09-l4-q4", "type": "error_identification", "category": "grammar", "topic": "it's about time",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the error.",
+          "segments": ["It's about time", "the council", "repairs", "this dangerous road."],
+          "errorIndex": 2,
+          "correction": "repaired",
+          "explanation": "After *it's about time + subject*, use the **past simple**: *the council repaired*."
+        },
+        {
+          "id": "b2-u09-l4-q5", "type": "single_choice", "category": "grammar", "topic": "it's high time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which sentence criticises someone for not doing something EARLIER?",
+          "options": [
+            "It's high time you found a job.",
+            "It's time to look for a job.",
+            "It's a good time to find a job.",
+            "Now is the time for finding a job."
+          ],
+          "answer": 0,
+          "explanation": "**It's high time + subject + past simple** suggests the action is overdue — a criticism. The other sentences are neutral."
+        },
+        {
+          "id": "b2-u09-l4-q6", "type": "translation", "category": "grammar", "topic": "it's time",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Sudah waktunya kita pulang.",
+          "direction": "id-en",
+          "answers": [
+            "It's time we went home.",
+            "It is time we went home.",
+            "It's time for us to go home.",
+            "It is time for us to go home.",
+            "It's time to go home.",
+            "It is time to go home."
+          ],
+          "explanation": "*Sudah waktunya kita ...* = **It's time we + past simple** or **It's time for us to + verb**."
+        }
+      ]
+    },
+    {
+      "slug": "b2-u09-l5-lifestyle-complaints",
+      "title": "Vocabulary: Lifestyle, Habits and Complaints",
+      "summary": "Kosakata tentang gaya hidup, kebiasaan, dan cara menyampaikan keluhan dengan sopan.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use phrasal verbs and expressions for habits (cut down on, give up, get into the habit of)",
+        "Talk about annoyance (put up with, get on someone's nerves, fed up with)",
+        "Make polite spoken and written complaints"
+      ],
+      "completionCriteria": "Complete the speaking task and score at least 70% on the mini quiz. (Selesaikan tugas berbicara dan raih skor minimal 70% pada mini quiz.)",
+      "sections": {
+        "explanation": "### Habits and lifestyle\n| Expression | Meaning | Example |\n| --- | --- | --- |\n| cut down on | reduce | I'm trying to **cut down on** sugar. |\n| give up | stop completely | He **gave up** smoking last year. |\n| get into the habit of + -ing | start doing regularly | I've **got into the habit of** walking to work. |\n| break a habit | stop a habit | It's hard to **break** a bad **habit**. |\n| sedentary | involving a lot of sitting | a **sedentary** lifestyle |\n| work out | exercise | She **works out** three times a week. |\n\n### Annoyance\n| Expression | Meaning | Example |\n| --- | --- | --- |\n| put up with | tolerate | I can't **put up with** the noise any longer. |\n| get on sb's nerves | annoy sb | His whistling **gets on my nerves**. |\n| be fed up with | be bored/annoyed with | I'm **fed up with** waiting. |\n| drive sb crazy/mad | annoy sb very much | The traffic **drives me crazy**. |\n\nRemember the prepositions: *fed up **with**, put up **with**, cut down **on***. After prepositions, use **-ing**.\n\n### Making a polite complaint (spoken)\n1. **Get attention politely**: *Excuse me, I'm afraid there's a problem with...*\n2. **Explain**: *The air conditioning in my room isn't working.*\n3. **Ask for action**: *Could you possibly send someone to look at it?* / *I'd rather you moved me to another room.*\n4. **Stay calm**: avoid *You must...!* or *This is terrible!*\n\n### Making a formal complaint (written)\n| Part | Useful language |\n| --- | --- |\n| Reason for writing | *I am writing to complain about...* |\n| Details | *On 3 May, I bought... Unfortunately, ...* |\n| Effect | *As a result, I was unable to...* |\n| Request | *I would be grateful if you could arrange a refund / replacement.* |\n| Closing | *I look forward to hearing from you.* |\n\nKey nouns: **refund** (money back), **replacement** (a new item), **compensation** (money for a loss or problem), **faulty** (not working correctly).\n\n### Using this unit's grammar\n*I wish the hotel **had told** us about the building work. It's **high time** they **replaced** the lift. I'd **rather** you **didn't** charge us for the extra night.*\n\n> **Catatan:** Dalam budaya berbahasa Inggris, keluhan yang efektif biasanya **sopan dan spesifik**. Gunakan *I'm afraid...*, *Could you possibly...?*, *I would be grateful if...*. *Refund* = pengembalian uang; *compensation* = ganti rugi; *faulty* = rusak/cacat.",
+        "examples": [
+          { "en": "I'm trying to cut down on coffee; I only have one cup a day now.", "id": "Saya sedang mengurangi kopi; sekarang hanya satu cangkir sehari.", "note": "cut down on" },
+          { "en": "I can't put up with my neighbour's dog barking all night.", "id": "Saya tidak tahan dengan anjing tetangga yang menggonggong sepanjang malam.", "note": "put up with" },
+          { "en": "I'm afraid there's a problem with my room: the shower isn't working.", "id": "Maaf, ada masalah dengan kamar saya: pancurannya tidak berfungsi.", "note": "Polite spoken complaint." },
+          { "en": "I would be grateful if you could arrange a full refund.", "id": "Saya akan sangat berterima kasih jika Anda dapat mengatur pengembalian dana penuh.", "note": "Formal request." }
+        ],
+        "vocabulary": [
+          { "word": "cut down on", "pos": "phrasal verb", "ipa": "/ˌkʌt ˈdaʊn ɒn/", "meaning": "mengurangi", "example": "Doctors advise us to cut down on salt." },
+          { "word": "put up with", "pos": "phrasal verb", "ipa": "/ˌpʊt ˈʌp wɪð/", "meaning": "menoleransi, tahan dengan", "example": "I won't put up with this noise." },
+          { "word": "fed up (with)", "pos": "adjective", "ipa": "/ˌfed ˈʌp/", "meaning": "muak, bosan dan kesal", "example": "I'm fed up with the delays." },
+          { "word": "sedentary", "pos": "adjective", "ipa": "/ˈsedntri/", "meaning": "banyak duduk, kurang bergerak", "example": "Office workers often have a sedentary lifestyle." },
+          { "word": "refund", "pos": "noun / verb", "ipa": "/ˈriːfʌnd/ (n), /rɪˈfʌnd/ (v)", "meaning": "pengembalian uang; mengembalikan uang", "example": "I asked for a full refund." },
+          { "word": "faulty", "pos": "adjective", "ipa": "/ˈfɔːlti/", "meaning": "rusak, cacat", "example": "The charger I bought was faulty." }
+        ],
+        "grammar": [
+          { "pattern": "be fed up with / put up with / cut down on + noun / -ing", "example": "I'm fed up with cooking every night.", "note": "Preposition + -ing." },
+          { "pattern": "I would be grateful if you could + infinitive", "example": "I would be grateful if you could reply soon.", "note": "Formal request." },
+          { "pattern": "I'm afraid (that) + clause", "example": "I'm afraid the order is incomplete.", "note": "Polite way to introduce a problem." }
+        ],
+        "mistakes": [
+          { "wrong": "I'm fed up of to wait.", "right": "I'm fed up with waiting.", "why": "Use fed up with + -ing." },
+          { "wrong": "I can't put up this noise.", "right": "I can't put up with this noise.", "why": "The phrasal verb is put up with (three parts)." },
+          { "wrong": "I want that you give me my money back now.", "right": "I would be grateful if you could give me a refund.", "why": "Want that is incorrect, and the polite form is more effective in a complaint." }
+        ],
+        "summary": "Talk about habits with **cut down on, give up, get into the habit of, break a habit, sedentary**; about annoyance with **put up with, get on my nerves, fed up with**; and complain politely with **I'm afraid..., Could you possibly...?, I would be grateful if you could...**, asking for a **refund, replacement** or **compensation**. *Ringkasan: keluhan yang sopan dan jelas lebih efektif.*",
+        "reviewCards": [
+          { "front": "cut down on vs give up", "back": "mengurangi vs berhenti sama sekali" },
+          { "front": "put up with", "back": "menoleransi / tahan dengan" },
+          { "front": "get on my nerves", "back": "membuat saya kesal" },
+          { "front": "I would be grateful if you could ...", "back": "Formal polite request" },
+          { "front": "refund / replacement / compensation", "back": "pengembalian uang / barang pengganti / ganti rugi" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b2-u09-l5-q1", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "habits",
+          "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the best phrasal verb.",
+          "instructions": "Hint: she hasn't stopped completely; she's reducing.",
+          "context": "I've decided to ___ sugar: I now have one spoon in my coffee instead of three.",
+          "options": ["cut down on", "give up", "put up with", "get on"],
+          "answer": 0,
+          "explanation": "Reducing (not stopping completely) → **cut down on**. *Give up* = stop completely; *put up with* = tolerate."
+        },
+        {
+          "id": "b2-u09-l5-q2", "type": "matching", "category": "vocabulary", "topic": "lifestyle and annoyance",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each expression with its meaning.",
+          "pairs": [
+            { "left": "give up", "right": "stop doing something completely" },
+            { "left": "put up with", "right": "tolerate something unpleasant" },
+            { "left": "get on someone's nerves", "right": "annoy someone" },
+            { "left": "sedentary", "right": "involving a lot of sitting and little exercise" },
+            { "left": "get into the habit of", "right": "start doing something regularly" }
+          ],
+          "explanation": "These expressions are common when talking about lifestyle changes and everyday annoyances."
+        },
+        {
+          "id": "b2-u09-l5-q3", "type": "dialogue_completion", "category": "conversation", "topic": "polite complaints",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the most appropriate complaint.",
+          "dialogue": [
+            { "speaker": "Receptionist", "text": "Good evening. How can I help you?" },
+            { "speaker": "Guest", "text": null }
+          ],
+          "options": [
+            "I'm afraid there's a problem with my room: the air conditioning isn't working.",
+            "Your hotel is terrible and I want my money now!",
+            "I wish you would to fix the air conditioning.",
+            "It's high time you repair the air conditioning."
+          ],
+          "answer": 0,
+          "explanation": "**I'm afraid there's a problem with...** is polite and clear. Option 2 is rude, and options 3 and 4 contain grammar errors (*would to*, *repair* instead of *repaired*)."
+        },
+        {
+          "id": "b2-u09-l5-q4", "type": "speaking_response", "category": "speaking", "topic": "polite complaints",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Role-play: you ordered a vegetarian meal in a restaurant, but it arrived with meat, and you have been waiting 45 minutes. Complain politely to the manager and ask for a solution.",
+          "targetPhrases": ["I'm afraid", "Could you possibly", "I'd rather", "I wish", "I would be grateful if"],
+          "sampleAnswer": "Excuse me, I'm afraid there's a problem with my order. I asked for the vegetarian curry, but this one has chicken in it, and we've been waiting for about 45 minutes. I wish the waiter had checked the order before bringing it. Could you possibly ask the kitchen to prepare the correct dish quickly? And I'd rather you didn't charge us for the drinks, if that's possible. Thank you.",
+          "explanation": "A good complaint is polite, explains the problem clearly and asks for a specific solution."
+        },
+        {
+          "id": "b2-u09-l5-q5", "type": "drag_drop", "category": "vocabulary", "topic": "annoyance",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the text with words from the bank.",
+          "text": "I'm ___ up with my flatmate. He never cleans, and his loud music really gets on my ___. I don't know how much longer I can put up ___ it.",
+          "bank": ["fed", "nerves", "with", "fond", "about"],
+          "answers": ["fed", "nerves", "with"],
+          "explanation": "**fed up with** (muak), **get on my nerves** (membuat kesal), **put up with** (tahan dengan)."
+        },
+        {
+          "id": "b2-u09-l5-q6", "type": "sentence_reconstruction", "category": "writing", "topic": "complaint letters",
+          "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the fragments in order to make a sentence for a formal complaint email.",
+          "fragments": ["I am writing to complain about", "the faulty washing machine", "that I bought from your store last week,", "and I would be grateful if you could", "arrange a full refund."],
+          "explanation": "Reason for writing → the problem → details → polite formal request."
+        },
+        {
+          "id": "b2-u09-l5-q7", "type": "single_choice", "category": "writing", "topic": "complaint letters",
+          "difficulty": 2, "stage": "quiz",
+          "prompt": "Which is the most appropriate way to end a formal complaint email?",
+          "options": [
+            "I look forward to hearing from you.",
+            "Write back soon, OK?",
+            "See you later!",
+            "Fix it now."
+          ],
+          "answer": 0,
+          "explanation": "**I look forward to hearing from you** is the standard formal closing. The others are too informal or rude."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b2-u09-t-q1", "type": "single_choice", "category": "grammar", "topic": "wish + past perfect",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "context": "I wish I ___ to your advice last year.",
+      "options": ["had listened", "listened", "would listen", "have listened"],
+      "answer": 0,
+      "explanation": "*Last year* → past regret → **wish + past perfect**: *had listened*."
+    },
+    {
+      "id": "b2-u09-t-q2", "type": "sentence_transformation", "category": "grammar", "topic": "wish + would",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Express the complaint with wish.",
+      "sentence": "My flatmate keeps leaving dirty dishes in the sink. It's so annoying!",
+      "cue": "Begin with: I wish my flatmate ...",
+      "answers": [
+        "I wish my flatmate wouldn't leave dirty dishes in the sink.",
+        "I wish my flatmate would not leave dirty dishes in the sink.",
+        "I wish my flatmate would stop leaving dirty dishes in the sink."
+      ],
+      "explanation": "Annoying habit → **wish + would(n't) + infinitive**."
+    },
+    {
+      "id": "b2-u09-t-q3", "type": "fill_blank", "category": "grammar", "topic": "would rather + past simple",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete with the correct form. Use the words in brackets.",
+      "text": "I'd rather you ___ (not / call) me after 10 p.m.",
+      "answers": [["didn't call", "did not call"]],
+      "explanation": "Different subject after *would rather* → **past simple**: *I'd rather you didn't call me.*"
+    },
+    {
+      "id": "b2-u09-t-q4", "type": "error_identification", "category": "grammar", "topic": "it's high time",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Find the error.",
+      "segments": ["It's high time", "the government", "does something", "about air pollution."],
+      "errorIndex": 2,
+      "correction": "did something",
+      "explanation": "After *it's high time + subject*, use the **past simple**: *the government did something*."
+    },
+    {
+      "id": "b2-u09-t-q5", "type": "dropdown", "category": "grammar", "topic": "if only",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "Choose the correct option.",
+      "text": "If only I ___ the answer! Then I could help you right now.",
+      "choices": [["knew", "had known", "would know"]],
+      "answers": [0],
+      "explanation": "A wish about the present (*right now*) → **past simple**: *If only I knew the answer!*"
+    },
+    {
+      "id": "b2-u09-t-q6", "type": "translation", "category": "grammar", "topic": "would rather",
+      "difficulty": 3, "stage": "unit_test",
+      "prompt": "Translate into English.",
+      "source": "Saya lebih suka tinggal di rumah daripada pergi ke mal.",
+      "direction": "id-en",
+      "answers": [
+        "I'd rather stay at home than go to the mall.",
+        "I would rather stay at home than go to the mall.",
+        "I'd rather stay home than go to the mall.",
+        "I would rather stay home than go to the mall.",
+        "I prefer staying at home to going to the mall.",
+        "I prefer to stay at home rather than go to the mall.",
+        "I'd prefer to stay at home rather than go to the mall.",
+        "I would prefer to stay at home rather than go to the mall.",
+        "I'd rather stay at home than go to the shopping centre.",
+        "I'd rather stay at home than go to the shopping mall."
+      ],
+      "explanation": "*Lebih suka ... daripada ...* = **would rather + verb + than + verb**, or **prefer -ing to -ing**."
+    },
+    {
+      "id": "b2-u09-t-q7", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "annoyance",
+      "difficulty": 2, "stage": "unit_test",
+      "prompt": "What does the phrase in bold mean?",
+      "context": "I've lived next to the building site for a year, but I can't **put up with** the noise any longer.",
+      "options": ["tolerate", "make louder", "record", "complain about in writing"],
+      "answer": 0,
+      "explanation": "**Put up with** = tolerate something unpleasant (tahan dengan)."
+    }
+  ]
+}

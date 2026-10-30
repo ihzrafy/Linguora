@@ -1,0 +1,1354 @@
+{
+  "level": "A1",
+  "grammarTopics": [
+    {
+      "slug": "a1-to-be",
+      "title": "To Be: Am, Is, Are",
+      "category": "tense",
+      "explanation": "### Fungsi to be\n**To be** (am, is, are) dipakai untuk menyebut identitas, pekerjaan, perasaan, umur, asal, dan tempat. Dalam bahasa Indonesia kita sering tidak memakai kata kerja (*Saya lapar*), tetapi dalam bahasa Inggris kalimat **wajib** memiliki kata kerja: *I **am** hungry.*\n\n| Subjek | Positif | Negatif | Pertanyaan |\n| --- | --- | --- | --- |\n| I | I am (I'm) | I am not (I'm not) | Am I...? |\n| he / she / it | is ('s) | is not (isn't) | Is he...? |\n| you / we / they | are ('re) | are not (aren't) | Are you...? |\n\n### Negatif dan pertanyaan\nUntuk kalimat negatif, tambahkan **not** setelah am/is/are. Untuk pertanyaan, pindahkan am/is/are **ke depan** subjek. Jawaban singkat: *Yes, I am. / No, she isn't.* Jangan menyingkat jawaban positif: ~~Yes, I'm.~~",
+      "formulas": [
+        { "label": "Positif", "pattern": "Subject + am/is/are + noun/adjective/place" },
+        { "label": "Negatif", "pattern": "Subject + am/is/are + not + ..." },
+        { "label": "Pertanyaan", "pattern": "Am/Is/Are + subject + ...?" }
+      ],
+      "examples": {
+        "positive": ["I'm a nurse.", "They are from Vietnam.", "My sister is twenty years old."],
+        "negative": ["He isn't at home.", "We aren't late.", "I'm not tired."],
+        "interrogative": ["Are you a student?", "Is she your teacher?", "Where are they from?"]
+      },
+      "comparison": "Bahasa Indonesia: *Dia guru.* (tanpa kata kerja). Bahasa Inggris: *She **is** a teacher.* (wajib ada is).",
+      "mistakes": [
+        { "wrong": "She very busy today.", "right": "She is very busy today.", "why": "Kalimat bahasa Inggris memerlukan kata kerja to be." },
+        { "wrong": "Yes, I'm.", "right": "Yes, I am.", "why": "Jawaban singkat positif tidak boleh disingkat." },
+        { "wrong": "You is my friend.", "right": "You are my friend.", "why": "You selalu memakai are." }
+      ],
+      "keywords": ["am", "is", "are", "isn't", "aren't"],
+      "relatedLessons": ["a1-u01-l3-to-be-positive", "a1-u02-l1-to-be-negative", "a1-u02-l2-to-be-questions"],
+      "exercises": [
+        {
+          "id": "a1-gr-to-be-q1", "type": "fill_blank", "category": "grammar", "topic": "to be",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Write am, is or are.",
+          "text": "My parents ___ at work. My little brother ___ at school. I ___ at home.",
+          "answers": [["are"], ["is"], ["am"]],
+          "explanation": "My parents (jamak) → are; my little brother (satu orang) → is; I → am."
+        },
+        {
+          "id": "a1-gr-to-be-q2", "type": "sentence_transformation", "category": "grammar", "topic": "to be",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Make a yes/no question.",
+          "sentence": "You are a student.",
+          "cue": "Mulai dengan: Are ...",
+          "answers": ["Are you a student?"],
+          "explanation": "Untuk pertanyaan, pindahkan are ke depan subjek: Are you a student?"
+        },
+        {
+          "id": "a1-gr-to-be-q3", "type": "single_choice", "category": "grammar", "topic": "to be",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "A: Is Mr. Lim your teacher? B: No, he ___.",
+          "options": ["isn't", "aren't", "not", "doesn't"],
+          "answer": 0,
+          "explanation": "Pertanyaan memakai Is, jadi jawaban singkat negatifnya: No, he isn't."
+        }
+      ]
+    },
+    {
+      "slug": "a1-possessives",
+      "title": "Possessive Adjectives and Possessive 's",
+      "category": "parts_of_speech",
+      "explanation": "### Possessive adjectives\nKata ini menunjukkan **kepemilikan** dan selalu diletakkan **sebelum kata benda**.\n\n| Subject pronoun | Possessive adjective | Contoh |\n| --- | --- | --- |\n| I | my | my bag (tas saya) |\n| you | your | your phone |\n| he | his | his car (mobil dia, laki-laki) |\n| she | her | her book (buku dia, perempuan) |\n| it | its | its name |\n| we | our | our house |\n| they | their | their teacher |\n\nPerhatikan: **his** untuk pemilik laki-laki dan **her** untuk pemilik perempuan — yang menentukan adalah **pemiliknya**, bukan bendanya.\n\n### Possessive 's\nUntuk nama orang atau kata benda, tambahkan **'s**: *Rina**'s** brother* (kakak/adik Rina), *my mother**'s** car*. Urutannya kebalikan dari bahasa Indonesia: *mobil ibu saya* → *my mother's car*. Untuk kata benda jamak yang berakhiran -s, cukup tambahkan apostrof: *my parents' house*.",
+      "formulas": [
+        { "label": "Possessive adjective", "pattern": "my/your/his/her/its/our/their + noun" },
+        { "label": "Possessive 's", "pattern": "Name/noun + 's + noun" }
+      ],
+      "examples": {
+        "positive": ["This is my brother. His name is Andi.", "Rina's mother is a nurse.", "Our classroom is on the second floor."],
+        "negative": ["Their house isn't big.", "Tom's sister isn't married."],
+        "interrogative": ["What's your name?", "Is this your father's car?"]
+      },
+      "comparison": "Bahasa Indonesia: *buku Rina* (benda + pemilik). Bahasa Inggris: *Rina's book* (pemilik + 's + benda).",
+      "mistakes": [
+        { "wrong": "This is Dewi and his mother.", "right": "This is Dewi and her mother.", "why": "Dewi perempuan, jadi possessive-nya her." },
+        { "wrong": "This is the bag Rina.", "right": "This is Rina's bag.", "why": "Pemilik + 's diletakkan sebelum benda." }
+      ],
+      "keywords": ["my", "your", "his", "her", "our", "their", "'s"],
+      "relatedLessons": ["a1-u02-l3-possessive-adjectives", "a1-u02-l4-family-possessive-s"],
+      "exercises": [
+        {
+          "id": "a1-gr-possessives-q1", "type": "dropdown", "category": "grammar", "topic": "possessive adjectives",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct possessive adjectives.",
+          "text": "This is Karim. ___ sister is a doctor. ___ name is Laila.",
+          "choices": [["His", "Her", "Their"], ["His", "Her", "Its"]],
+          "answers": [0, 1],
+          "explanation": "Saudara perempuan milik Karim (laki-laki) → His sister. Nama milik sang saudara perempuan → Her name."
+        },
+        {
+          "id": "a1-gr-possessives-q2", "type": "sentence_correction", "category": "grammar", "topic": "possessive 's",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "Dina is my brother wife.",
+          "answers": ["Dina is my brother's wife."],
+          "explanation": "Untuk menunjukkan kepemilikan pada kata benda, tambahkan 's: my brother's wife (istri kakak/adik laki-laki saya)."
+        },
+        {
+          "id": "a1-gr-possessives-q3", "type": "translation", "category": "grammar", "topic": "possessive 's",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Ini tas ibu saya.",
+          "direction": "id-en",
+          "answers": ["This is my mother's bag.", "This is my mum's bag.", "This is my mom's bag."],
+          "explanation": "tas ibu saya → my mother's bag (pemilik + 's + benda)."
+        }
+      ]
+    },
+    {
+      "slug": "a1-articles-plurals",
+      "title": "Articles (a/an/the) and Plural Nouns",
+      "category": "parts_of_speech",
+      "explanation": "### a / an\nGunakan **a** atau **an** untuk **satu** benda yang dapat dihitung dan disebut pertama kali. Pilihan ditentukan oleh **bunyi** awal kata berikutnya, bukan hurufnya:\n- **a** + bunyi konsonan: *a book, a university* (/juː/)\n- **an** + bunyi vokal: *an apple, an egg, an hour* (h tidak dibaca)\n\nPekerjaan juga memakai a/an: *She's **an** engineer.*\n\n### the\n**The** dipakai untuk benda yang **sudah diketahui** atau **hanya ada satu**: *I have a cat. **The** cat is black. / **the** sun, **the** moon.*\n\n### Bentuk jamak\n| Aturan | Contoh |\n| --- | --- |\n| + s | book → books |\n| -s, -sh, -ch, -x + es | box → boxes, watch → watches |\n| konsonan + y → ies | city → cities |\n| -f/-fe → ves | knife → knives |\n| tidak beraturan | child → children, man → men, woman → women, person → people, foot → feet, tooth → teeth |\n\nJangan memakai **a/an** dengan kata benda jamak: ~~a books~~.",
+      "formulas": [
+        { "label": "a/an", "pattern": "a + consonant sound / an + vowel sound" },
+        { "label": "the", "pattern": "the + noun (sudah diketahui / unik)" },
+        { "label": "Plural", "pattern": "noun + s / es / ies / ves (atau bentuk tidak beraturan)" }
+      ],
+      "examples": {
+        "positive": ["It's an umbrella.", "The children are in the garden.", "These are two new watches."],
+        "negative": ["It isn't an egg. It's a ball.", "Those aren't my keys."],
+        "interrogative": ["Is it an orange?", "Are the women teachers?"]
+      },
+      "mistakes": [
+        { "wrong": "She is a engineer.", "right": "She is an engineer.", "why": "engineer diawali bunyi vokal, jadi memakai an." },
+        { "wrong": "Three childs are here.", "right": "Three children are here.", "why": "child memiliki bentuk jamak tidak beraturan: children." },
+        { "wrong": "My brother is doctor.", "right": "My brother is a doctor.", "why": "Pekerjaan (tunggal) memerlukan a/an." }
+      ],
+      "keywords": ["a", "an", "the", "plural", "children", "people"],
+      "relatedLessons": ["a1-u04-l1-articles-a-an", "a1-u04-l2-the-article", "a1-u04-l3-plurals"],
+      "exercises": [
+        {
+          "id": "a1-gr-articles-q1", "type": "drag_drop", "category": "grammar", "topic": "articles",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "This is ___ orange and that is ___ pear. ___ orange is from Bali.",
+          "bank": ["a", "an", "The", "some"],
+          "answers": ["an", "a", "The"],
+          "explanation": "orange diawali bunyi vokal → an; pear diawali bunyi konsonan → a; jeruk itu sudah disebut sebelumnya → The."
+        },
+        {
+          "id": "a1-gr-articles-q2", "type": "matching", "category": "grammar", "topic": "plurals",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Match each singular noun with its plural form.",
+          "pairs": [
+            { "left": "child", "right": "children" },
+            { "left": "box", "right": "boxes" },
+            { "left": "city", "right": "cities" },
+            { "left": "knife", "right": "knives" },
+            { "left": "foot", "right": "feet" }
+          ],
+          "explanation": "child → children dan foot → feet (tidak beraturan); box → boxes (+es); city → cities (y → ies); knife → knives (fe → ves)."
+        },
+        {
+          "id": "a1-gr-articles-q3", "type": "error_identification", "category": "grammar", "topic": "articles",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Find the mistake.",
+          "segments": ["The English lesson", "is", "a hour", "long."],
+          "errorIndex": 2,
+          "correction": "an hour",
+          "explanation": "Huruf h pada hour tidak dibaca, jadi kata ini diawali bunyi vokal /aʊ/ → an hour."
+        }
+      ]
+    },
+    {
+      "slug": "a1-present-simple",
+      "title": "Present Simple",
+      "category": "tense",
+      "explanation": "### Kapan dipakai?\n**Present simple** dipakai untuk **kebiasaan, rutinitas, dan fakta**: *I get up at six. She works in a bank. Water boils at 100°C.*\n\n### Bentuk\n| | I / you / we / they | he / she / it |\n| --- | --- | --- |\n| Positif | I **work** | She **works** |\n| Negatif | I **don't** work | She **doesn't** work |\n| Pertanyaan | **Do** you work? | **Does** she work? |\n| Jawaban singkat | Yes, I do. / No, I don't. | Yes, she does. / No, she doesn't. |\n\n### Ejaan -s / -es\n- Umumnya + **s**: *reads, plays*\n- -s, -sh, -ch, -x, -o + **es**: *watches, washes, goes, does*\n- konsonan + y → **ies**: *study → studies*\n- tidak beraturan: *have → has*\n\n### Penting\nSetelah **doesn't** dan **does**, kata kerja kembali ke **bentuk dasar**: *She doesn't **like** (bukan likes)... / Does he **play** (bukan plays)...?*\n\n### Wh- questions\n**Question word + do/does + subject + verb**: *Where **do** you live? What time **does** the class start?*",
+      "formulas": [
+        { "label": "Positif", "pattern": "I/you/we/they + verb; he/she/it + verb-s/es" },
+        { "label": "Negatif", "pattern": "Subject + don't/doesn't + base verb" },
+        { "label": "Pertanyaan", "pattern": "(Wh-) + Do/Does + subject + base verb?" }
+      ],
+      "examples": {
+        "positive": ["I drink tea every morning.", "My father reads the newspaper after dinner.", "She studies English on Tuesdays."],
+        "negative": ["We don't eat meat.", "Tom doesn't like horror films."],
+        "interrogative": ["Do you play badminton?", "Where does your sister work?"]
+      },
+      "comparison": "Present simple (*I work every day*) untuk kebiasaan; present continuous (*I'm working now*) untuk kegiatan yang sedang berlangsung.",
+      "mistakes": [
+        { "wrong": "She work in a hospital.", "right": "She works in a hospital.", "why": "he/she/it memerlukan -s pada kata kerja." },
+        { "wrong": "He doesn't likes coffee.", "right": "He doesn't like coffee.", "why": "Setelah doesn't, kata kerja kembali ke bentuk dasar." },
+        { "wrong": "Where you live?", "right": "Where do you live?", "why": "Pertanyaan present simple memerlukan do/does." }
+      ],
+      "keywords": ["every day", "usually", "do", "does", "don't", "doesn't"],
+      "relatedLessons": ["a1-u05-l1-present-simple-i-you", "a1-u05-l2-third-person-s", "a1-u05-l3-spelling-s-es", "a1-u06-l2-present-simple-negative", "a1-u06-l3-yes-no-questions", "a1-u06-l4-wh-questions"],
+      "exercises": [
+        {
+          "id": "a1-gr-present-simple-q1", "type": "fill_blank", "category": "grammar", "topic": "present simple",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Write the correct form of the verb in brackets.",
+          "text": "Nina ___ (watch) TV in the evening. Her brothers ___ (play) football after school.",
+          "answers": [["watches"], ["play"]],
+          "explanation": "Nina = she → watch + es = watches. Her brothers = they → play (tanpa -s)."
+        },
+        {
+          "id": "a1-gr-present-simple-q2", "type": "dialogue_completion", "category": "grammar", "topic": "present simple",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct short answer.",
+          "dialogue": [
+            { "speaker": "Ari", "text": "Does your sister like spicy food?" },
+            { "speaker": "Bella", "text": null },
+            { "speaker": "Ari", "text": "Great! Let's take her to the new Padang restaurant." }
+          ],
+          "options": ["Yes, she does.", "Yes, she is.", "Yes, she likes.", "Yes, she do."],
+          "answer": 0,
+          "explanation": "Pertanyaan dengan Does dijawab dengan does: Yes, she does."
+        },
+        {
+          "id": "a1-gr-present-simple-q3", "type": "sentence_transformation", "category": "grammar", "topic": "present simple",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Make the sentence negative.",
+          "sentence": "We eat meat.",
+          "cue": "Gunakan don't atau doesn't.",
+          "answers": ["We don't eat meat.", "We do not eat meat."],
+          "explanation": "We memakai don't + bentuk dasar kata kerja: We don't eat meat."
+        }
+      ]
+    },
+    {
+      "slug": "a1-adverbs-frequency",
+      "title": "Adverbs of Frequency",
+      "category": "sentence_structure",
+      "explanation": "### Seberapa sering?\n**Adverbs of frequency** menjelaskan seberapa sering sesuatu terjadi.\n\n| Adverb | Arti | Kira-kira |\n| --- | --- | --- |\n| always | selalu | 100% |\n| usually | biasanya | 80% |\n| often | sering | 60% |\n| sometimes | kadang-kadang | 40% |\n| never | tidak pernah | 0% |\n\n### Posisi dalam kalimat\n1. **Sebelum kata kerja utama**: *I **usually** walk to school.*\n2. **Sesudah to be**: *She is **always** happy.*\n\n**Sometimes** juga boleh di awal kalimat: *Sometimes I cook dinner.*\n\nKarena **never** sudah bermakna negatif, jangan memakai don't/doesn't bersamanya: *He **never** drinks coffee* (bukan ~~doesn't never~~).\n\nUntuk bertanya, gunakan **How often...?** dan jawab dengan *every day, once a week, twice a month*.",
+      "formulas": [
+        { "label": "Dengan kata kerja", "pattern": "Subject + adverb + verb" },
+        { "label": "Dengan to be", "pattern": "Subject + am/is/are + adverb" }
+      ],
+      "examples": {
+        "positive": ["I always have breakfast at home.", "My brother is often late.", "We sometimes eat at a restaurant."],
+        "negative": ["She never watches TV in the morning.", "I don't usually go out on Mondays."],
+        "interrogative": ["How often do you go swimming?", "Do you usually get up early?"]
+      },
+      "mistakes": [
+        { "wrong": "I go always to the gym.", "right": "I always go to the gym.", "why": "Adverb of frequency diletakkan sebelum kata kerja utama." },
+        { "wrong": "He doesn't never eat meat.", "right": "He never eats meat.", "why": "never sudah negatif; jangan digabung dengan doesn't." }
+      ],
+      "keywords": ["always", "usually", "often", "sometimes", "never", "how often"],
+      "relatedLessons": ["a1-u05-l4-adverbs-frequency", "a1-u05-l5-my-day"],
+      "exercises": [
+        {
+          "id": "a1-gr-adverbs-q1", "type": "word_order", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": ["I", "never", "drink", "coffee", "at", "night"],
+          "acceptedAnswers": ["At night I never drink coffee"],
+          "explanation": "never diletakkan sebelum kata kerja utama drink: I never drink coffee at night."
+        },
+        {
+          "id": "a1-gr-adverbs-q2", "type": "single_choice", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct sentence.",
+          "options": ["They play often tennis.", "They often play tennis.", "Often they tennis play.", "They tennis often play."],
+          "answer": 1,
+          "explanation": "often diletakkan sebelum kata kerja utama (play): They often play tennis."
+        },
+        {
+          "id": "a1-gr-adverbs-q3", "type": "fill_blank", "category": "grammar", "topic": "adverbs of frequency",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the sentence with one adverb of frequency.",
+          "context": "Rani goes to the gym on Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday.",
+          "text": "Rani ___ goes to the gym.",
+          "answers": [["always"]],
+          "explanation": "Rani pergi ke gym setiap hari (100%), jadi adverb-nya always."
+        }
+      ]
+    },
+    {
+      "slug": "a1-countable-some-any",
+      "title": "Countable and Uncountable Nouns, Some/Any, How Much/How Many",
+      "category": "parts_of_speech",
+      "explanation": "### Countable vs uncountable\n**Countable nouns** bisa dihitung dan punya bentuk jamak: *an apple, two apples*. **Uncountable nouns** tidak bisa dihitung langsung dan **tidak** punya bentuk jamak: *water, rice, milk, money, bread, sugar*. Untuk menghitungnya, gunakan wadah: *a bottle of water, a bowl of rice, two cups of tea, a loaf of bread*.\n\n### some dan any\n| | Countable (jamak) | Uncountable |\n| --- | --- | --- |\n| Positif | some eggs | some milk |\n| Negatif | not any eggs | not any milk |\n| Pertanyaan | any eggs? | any milk? |\n\nPengecualian: tawaran dan permintaan sopan memakai **some**: *Would you like some tea?*\n\n### How much / How many\n- **How many** + countable jamak: *How many eggs do we need?*\n- **How much** + uncountable: *How much rice do you want?*\n- **How much** juga untuk harga: *How much is this bag? How much are these shoes?*",
+      "formulas": [
+        { "label": "some/any", "pattern": "some (positif) / any (negatif & pertanyaan) + plural or uncountable noun" },
+        { "label": "Jumlah", "pattern": "How many + plural noun / How much + uncountable noun" },
+        { "label": "Harga", "pattern": "How much is/are + noun?" }
+      ],
+      "examples": {
+        "positive": ["We need some eggs and some flour.", "I'd like a bottle of water, please.", "There is some cheese in the fridge."],
+        "negative": ["We don't have any bread.", "There aren't any bananas."],
+        "interrogative": ["Do you have any sugar?", "How many apples do you want?", "How much is the cake?"]
+      },
+      "mistakes": [
+        { "wrong": "Do you have any rices?", "right": "Do you have any rice?", "why": "rice adalah uncountable, tidak memakai -s." },
+        { "wrong": "How many water do you drink?", "right": "How much water do you drink?", "why": "water uncountable → how much." },
+        { "wrong": "I don't have some money.", "right": "I don't have any money.", "why": "Kalimat negatif memakai any." }
+      ],
+      "keywords": ["some", "any", "how much", "how many", "a bottle of", "uncountable"],
+      "relatedLessons": ["a1-u07-l2-countable-uncountable", "a1-u07-l3-some-any", "a1-u07-l4-how-much-how-many"],
+      "exercises": [
+        {
+          "id": "a1-gr-some-any-q1", "type": "dropdown", "category": "grammar", "topic": "some and any",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Choose some or any.",
+          "text": "We need ___ eggs for the cake, but we don't need ___ milk.",
+          "choices": [["some", "any", "a"], ["some", "any", "a"]],
+          "answers": [0, 1],
+          "explanation": "Kalimat positif → some eggs. Kalimat negatif (don't need) → any milk."
+        },
+        {
+          "id": "a1-gr-some-any-q2", "type": "single_choice", "category": "grammar", "topic": "how much how many",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "___ water do you drink every day?",
+          "options": ["How many", "How much", "How often"],
+          "answer": 1,
+          "explanation": "water adalah uncountable noun, jadi memakai How much. How often menanyakan frekuensi, bukan jumlah."
+        },
+        {
+          "id": "a1-gr-some-any-q3", "type": "sentence_correction", "category": "grammar", "topic": "countable and uncountable",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Correct the sentence.",
+          "sentence": "Do you have any rices?",
+          "answers": ["Do you have any rice?"],
+          "explanation": "rice adalah uncountable noun dan tidak punya bentuk jamak: any rice."
+        }
+      ]
+    },
+    {
+      "slug": "a1-there-is-there-are",
+      "title": "There Is / There Are",
+      "category": "sentence_structure",
+      "explanation": "### Fungsi\n**There is / There are** berarti *ada* dan dipakai untuk menyatakan keberadaan sesuatu di suatu tempat.\n\n| | Tunggal / uncountable | Jamak |\n| --- | --- | --- |\n| Positif | There is (There's) a bank. | There are two parks. |\n| Negatif | There isn't a cinema. | There aren't any hotels. |\n| Pertanyaan | Is there a pharmacy? | Are there any shops? |\n| Jawaban | Yes, there is. / No, there isn't. | Yes, there are. / No, there aren't. |\n\n### Catatan\n- Gunakan **There is** sebelum daftar jika benda pertama tunggal: *There is a table and two chairs.*\n- Jangan memakai *have* untuk arti *ada* di tempat: ~~In my town have a museum~~ → *There is a museum in my town.*\n- Sering digabung dengan **preposition of place**: *There is a café **next to** the bank.*",
+      "formulas": [
+        { "label": "Positif", "pattern": "There is + a/an + singular noun / There are + plural noun" },
+        { "label": "Negatif", "pattern": "There isn't a... / There aren't any..." },
+        { "label": "Pertanyaan", "pattern": "Is there a...? / Are there any...?" }
+      ],
+      "examples": {
+        "positive": ["There is a big market in the town centre.", "There are three bedrooms in our house."],
+        "negative": ["There isn't a cinema in Seaview.", "There aren't any buses after ten o'clock."],
+        "interrogative": ["Is there a pharmacy near here?", "Are there any good restaurants in this street?"]
+      },
+      "comparison": "Bahasa Indonesia: *Di kota saya ada museum.* Bahasa Inggris: *There is a museum in my town.* (bukan *In my town have a museum*).",
+      "mistakes": [
+        { "wrong": "There is two banks near my house.", "right": "There are two banks near my house.", "why": "two banks jamak → There are." },
+        { "wrong": "In my street have a café.", "right": "There is a café in my street.", "why": "Untuk arti 'ada' di suatu tempat gunakan there is/are, bukan have." }
+      ],
+      "keywords": ["there is", "there are", "is there", "are there", "any"],
+      "relatedLessons": ["a1-u08-l2-there-is-there-are", "a1-u08-l3-prepositions-place"],
+      "exercises": [
+        {
+          "id": "a1-gr-there-is-q1", "type": "fill_blank", "category": "grammar", "topic": "there is there are",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Complete with there is / there's or there are.",
+          "text": "___ a park near my house, and ___ two supermarkets.",
+          "answers": [["There is", "There's"], ["there are"]],
+          "explanation": "a park (tunggal) → There is / There's; two supermarkets (jamak) → there are."
+        },
+        {
+          "id": "a1-gr-there-is-q2", "type": "sentence_transformation", "category": "grammar", "topic": "there is there are",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Make a yes/no question.",
+          "sentence": "There is a cinema in this town.",
+          "cue": "Mulai dengan: Is ...",
+          "answers": ["Is there a cinema in this town?"],
+          "explanation": "Untuk pertanyaan, tukar posisi there dan is: Is there a cinema in this town?"
+        },
+        {
+          "id": "a1-gr-there-is-q3", "type": "single_choice", "category": "grammar", "topic": "there is there are",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "A: Are there any hotels near here? B: No, there ___.",
+          "options": ["isn't", "aren't", "not", "don't"],
+          "answer": 1,
+          "explanation": "Pertanyaan memakai Are there, jadi jawabannya No, there aren't."
+        }
+      ]
+    },
+    {
+      "slug": "a1-can",
+      "title": "Can and Can't",
+      "category": "modals",
+      "explanation": "### Fungsi can\n**Can** dipakai untuk:\n1. **Kemampuan**: *I **can** swim.* (Saya bisa berenang.)\n2. **Permintaan**: ***Can** you help me?* (Bisakah kamu membantu saya?)\n3. **Izin**: ***Can** I open the window?* (Boleh saya membuka jendela?)\n\n### Bentuk\n| | Semua subjek |\n| --- | --- |\n| Positif | I/You/He/She/We/They **can** swim. |\n| Negatif | ... **can't** (cannot) swim. |\n| Pertanyaan | **Can** you swim? |\n| Jawaban | Yes, I can. / No, I can't. |\n\n### Aturan penting\n- **Can** tidak berubah: tidak ada ~~cans~~ untuk he/she/it.\n- Setelah can, gunakan **kata kerja bentuk dasar** tanpa *to* dan tanpa *-s*: *She can **sing*** (bukan ~~can sings~~ atau ~~can to sing~~).\n- **Cannot** ditulis menjadi satu kata.\n- Tambahkan tingkat kemampuan: *very well, quite well, a little, not at all*.",
+      "formulas": [
+        { "label": "Positif / negatif", "pattern": "Subject + can / can't + base verb" },
+        { "label": "Pertanyaan", "pattern": "Can + subject + base verb?" }
+      ],
+      "examples": {
+        "positive": ["My sister can play the guitar very well.", "We can speak a little Japanese."],
+        "negative": ["I can't drive a car.", "Toni can't swim at all."],
+        "interrogative": ["Can you ride a motorbike?", "Can I borrow your pen, please?"]
+      },
+      "mistakes": [
+        { "wrong": "She cans dance.", "right": "She can dance.", "why": "can tidak pernah mendapat -s." },
+        { "wrong": "I can to cook fried rice.", "right": "I can cook fried rice.", "why": "Setelah can tidak memakai to." },
+        { "wrong": "Do you can swim?", "right": "Can you swim?", "why": "Pertanyaan dengan can tidak memakai do." }
+      ],
+      "keywords": ["can", "can't", "cannot", "ability", "permission", "request"],
+      "relatedLessons": ["a1-u09-l1-can-ability", "a1-u09-l2-can-questions", "a1-u09-l3-requests-permission"],
+      "exercises": [
+        {
+          "id": "a1-gr-can-q1", "type": "single_choice", "category": "grammar", "topic": "can",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Choose the correct sentence.",
+          "options": ["She can sings well.", "She cans sing well.", "She can sing well.", "She can to sing well."],
+          "answer": 2,
+          "explanation": "can + bentuk dasar kata kerja, tanpa -s dan tanpa to: She can sing well."
+        },
+        {
+          "id": "a1-gr-can-q2", "type": "dialogue_completion", "category": "conversation", "topic": "can",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Complete the dialogue.",
+          "dialogue": [
+            { "speaker": "Rafi", "text": "Can you ride a bike?" },
+            { "speaker": "Wulan", "text": null },
+            { "speaker": "Rafi", "text": "Great! Let's go cycling on Sunday." }
+          ],
+          "options": ["Yes, I can.", "Yes, I do.", "No, I can't.", "Yes, I am."],
+          "answer": 0,
+          "explanation": "Pertanyaan dengan Can dijawab dengan can. Rafi berkata Great! Let's go cycling, jadi jawabannya positif: Yes, I can."
+        },
+        {
+          "id": "a1-gr-can-q3", "type": "translation", "category": "grammar", "topic": "can for permission",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Translate into English.",
+          "source": "Boleh saya membuka jendelanya?",
+          "direction": "id-en",
+          "answers": ["Can I open the window?", "May I open the window?", "Could I open the window?", "Can I open the window, please?"],
+          "explanation": "Untuk meminta izin gunakan Can I + kata kerja dasar: Can I open the window?"
+        }
+      ]
+    },
+    {
+      "slug": "a1-present-continuous",
+      "title": "Present Continuous",
+      "category": "tense",
+      "explanation": "### Kapan dipakai?\n**Present continuous** dipakai untuk kegiatan yang **sedang berlangsung sekarang**: *Look! It's raining. I'm reading a book now.* Kata kunci: **now, right now, at the moment, Look!, Listen!**\n\n### Bentuk\n| | Rumus | Contoh |\n| --- | --- | --- |\n| Positif | am/is/are + verb-ing | She **is cooking**. |\n| Negatif | am/is/are + not + verb-ing | They **aren't playing**. |\n| Pertanyaan | Am/Is/Are + subject + verb-ing? | **Are** you **listening**? |\n\n### Ejaan -ing\n- Umumnya + ing: *read → reading*\n- e di akhir dihapus: *make → making, write → writing*\n- konsonan-vokal-konsonan (satu suku kata) → konsonan digandakan: *run → running, swim → swimming, sit → sitting*\n- -ie → -ying: *lie → lying*\n\n### Present simple vs present continuous\n*I **usually wear** a uniform, but today I'**m wearing** jeans.* Present simple = kebiasaan; present continuous = sekarang. Kata kerja seperti **know, like, want, understand** biasanya tidak dipakai dalam bentuk -ing.",
+      "formulas": [
+        { "label": "Positif", "pattern": "Subject + am/is/are + verb-ing" },
+        { "label": "Negatif", "pattern": "Subject + am/is/are + not + verb-ing" },
+        { "label": "Pertanyaan", "pattern": "(Wh-) + Am/Is/Are + subject + verb-ing?" }
+      ],
+      "examples": {
+        "positive": ["Look! The children are swimming in the river.", "I'm writing an email at the moment."],
+        "negative": ["She isn't sleeping. She's reading.", "We aren't watching TV now."],
+        "interrogative": ["What are you doing?", "Is it raining outside?"]
+      },
+      "comparison": "*He plays football every Sunday* (kebiasaan — present simple) vs *He is playing football now* (sedang berlangsung — present continuous).",
+      "mistakes": [
+        { "wrong": "She cooking now.", "right": "She is cooking now.", "why": "Present continuous memerlukan am/is/are." },
+        { "wrong": "They are siting on the sofa.", "right": "They are sitting on the sofa.", "why": "sit → sitting (konsonan akhir digandakan)." },
+        { "wrong": "I am knowing the answer.", "right": "I know the answer.", "why": "know adalah state verb, tidak dipakai dalam bentuk -ing." }
+      ],
+      "keywords": ["now", "right now", "at the moment", "look", "listen", "-ing"],
+      "relatedLessons": ["a1-u10-l1-present-continuous-positive", "a1-u10-l2-ing-spelling", "a1-u10-l3-continuous-negative-questions", "a1-u10-l4-simple-vs-continuous"],
+      "exercises": [
+        {
+          "id": "a1-gr-present-continuous-q1", "type": "fill_blank", "category": "grammar", "topic": "present continuous",
+          "difficulty": 1, "stage": "independent",
+          "prompt": "Write the present continuous form of the verb in brackets.",
+          "text": "Shh! The baby ___ (sleep).",
+          "answers": [["is sleeping"]],
+          "explanation": "The baby = it → is + sleeping."
+        },
+        {
+          "id": "a1-gr-present-continuous-q2", "type": "sentence_transformation", "category": "grammar", "topic": "present continuous",
+          "difficulty": 2, "stage": "independent",
+          "prompt": "Make the sentence negative.",
+          "sentence": "They are watching TV.",
+          "cue": "Gunakan not.",
+          "answers": ["They aren't watching TV.", "They are not watching TV.", "They're not watching TV."],
+          "explanation": "Tambahkan not setelah are: They are not / aren't watching TV."
+        },
+        {
+          "id": "a1-gr-present-continuous-q3", "type": "dropdown", "category": "grammar", "topic": "present simple vs continuous",
+          "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct verb forms.",
+          "text": "I usually ___ to work, but today I ___ the bus because it's raining.",
+          "choices": [["walk", "am walking"], ["take", "am taking"]],
+          "answers": [0, 1],
+          "explanation": "usually = kebiasaan → present simple (walk). today/sekarang → present continuous (am taking)."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "slug": "a1-rd-1-hello-from-lina",
+      "title": "Hello from Lina",
+      "genre": "email",
+      "body": "Hi Emma,\n\nMy name is Lina and I'm your new pen friend. I'm nineteen years old and I'm from Malang, a city in East Java, Indonesia. I'm a student at Green Hill College.\n\nThere are five people in my family: my father, my mother, my two brothers and me. My father is a doctor and my mother is a teacher. My brothers are twelve and fifteen. They love football, but I don't. I like music and books.\n\nI get up at six o'clock every day. My classes start at eight. In the evening, I usually help my mother in the kitchen. Her chicken soup is delicious!\n\nPlease write back and tell me about your family.\n\nBest wishes,\nLina",
+      "glossary": [
+        { "word": "pen friend", "meaning": "sahabat pena" },
+        { "word": "college", "meaning": "perguruan tinggi, akademi" },
+        { "word": "delicious", "meaning": "lezat, enak sekali" },
+        { "word": "write back", "meaning": "membalas (surat/email)" }
+      ],
+      "questions": [
+        {
+          "id": "a1-rd-1-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-1-hello-from-lina",
+          "prompt": "What is the main purpose of Lina's email?",
+          "options": ["To introduce herself to a new friend", "To ask Emma for a job", "To invite Emma to a party", "To describe a football match"],
+          "answer": 0,
+          "explanation": "Lina memperkenalkan diri, keluarga, dan kegiatannya kepada sahabat pena baru (main idea)."
+        },
+        {
+          "id": "a1-rd-1-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-1-hello-from-lina",
+          "prompt": "What is Lina's mother's job?",
+          "options": ["She is a doctor.", "She is a teacher.", "She is a student.", "She is a cook."],
+          "answer": 1,
+          "explanation": "Di paragraf kedua: My mother is a teacher. Yang dokter adalah ayahnya."
+        },
+        {
+          "id": "a1-rd-1-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-1-hello-from-lina",
+          "prompt": "Which sentence is probably true?",
+          "options": ["Lina and Emma know each other very well.", "Emma doesn't know Lina's family yet.", "Lina's brothers don't like sport.", "Lina is a teacher at Green Hill College."],
+          "answer": 1,
+          "explanation": "Lina adalah sahabat pena baru (new pen friend) dan sedang memperkenalkan keluarganya, jadi Emma belum mengenal keluarga Lina."
+        },
+        {
+          "id": "a1-rd-1-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "vocabulary in context",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-1-hello-from-lina",
+          "prompt": "'Her chicken soup is delicious!' What does 'delicious' mean here?",
+          "options": ["very good to eat", "very hot", "very expensive", "very big"],
+          "answer": 0,
+          "explanation": "delicious = lezat, sangat enak dimakan."
+        }
+      ]
+    },
+    {
+      "slug": "a1-rd-2-the-baker",
+      "title": "Mr. Hadi, the Baker",
+      "genre": "story",
+      "body": "Mr. Hadi is a baker in a small town called Riverton. His day starts very early. He gets up at four o'clock in the morning, when it is still dark. He has a cup of coffee and then he walks to his bakery. He makes bread, cakes and cookies.\n\nThe bakery opens at seven. Many people come in the morning because the bread is fresh and warm. Mr. Hadi's daughter, Sari, helps him on Saturdays and Sundays. She is very good with the customers.\n\nMr. Hadi usually finishes work at three in the afternoon. He goes home, eats lunch and sleeps for an hour. In the evening, he plays chess with his neighbour. He never goes to bed late. He is always in bed at nine o'clock.",
+      "glossary": [
+        { "word": "baker", "meaning": "tukang roti" },
+        { "word": "bakery", "meaning": "toko roti" },
+        { "word": "fresh", "meaning": "segar, baru dibuat" },
+        { "word": "customer", "meaning": "pelanggan" },
+        { "word": "neighbour", "meaning": "tetangga" }
+      ],
+      "questions": [
+        {
+          "id": "a1-rd-2-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-2-the-baker",
+          "prompt": "What is the story mainly about?",
+          "options": ["A normal day for a baker", "How to make bread", "A chess competition", "Sari's school"],
+          "answer": 0,
+          "explanation": "Cerita ini menggambarkan kegiatan Mr. Hadi dari pagi sampai malam."
+        },
+        {
+          "id": "a1-rd-2-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-2-the-baker",
+          "prompt": "What time does the bakery open?",
+          "options": ["At four o'clock", "At seven o'clock", "At three o'clock", "At nine o'clock"],
+          "answer": 1,
+          "explanation": "The bakery opens at seven. Pukul empat adalah jam Mr. Hadi bangun."
+        },
+        {
+          "id": "a1-rd-2-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-2-the-baker",
+          "prompt": "Why does Mr. Hadi go to bed at nine o'clock?",
+          "options": ["Because he gets up very early", "Because he doesn't like chess", "Because his daughter is sick", "Because the bakery opens at night"],
+          "answer": 0,
+          "explanation": "Ia bangun pukul 4 pagi, jadi ia perlu tidur lebih awal. Informasi ini disimpulkan dari teks."
+        },
+        {
+          "id": "a1-rd-2-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "vocabulary in context",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-2-the-baker",
+          "prompt": "'Many people come in the morning because the bread is fresh and warm.' 'Fresh' bread is bread that is ___.",
+          "options": ["new and just made", "old and dry", "very cheap", "from another town"],
+          "answer": 0,
+          "explanation": "fresh = segar, baru dibuat. Kata warm (hangat) juga membantu kita menebak artinya."
+        },
+        {
+          "id": "a1-rd-2-q5", "type": "fill_blank", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-2-the-baker",
+          "prompt": "Complete the sentence with one word from the story.",
+          "text": "In the evening, Mr. Hadi plays ___ with his neighbour.",
+          "answers": [["chess"]],
+          "explanation": "Paragraf terakhir: In the evening, he plays chess with his neighbour."
+        }
+      ]
+    },
+    {
+      "slug": "a1-rd-3-welcome-to-seaview",
+      "title": "Welcome to Seaview",
+      "genre": "article",
+      "body": "Seaview is a small town by the sea. About 8,000 people live there. In the town centre, there is a big market, a bank, a post office and two small hotels. The market is open every day except Monday. You can buy fish, fruit and vegetables there, and the prices are very good.\n\nThe library is next to the post office, and it is opposite the old museum. There isn't a cinema in Seaview, so young people often take the bus to Hillton, a big town twenty kilometres away. The bus stop is in front of the bank.\n\nMany tourists come to Seaview in the holidays. They swim in the sea, eat fresh fish in the small restaurants and walk on the beach. After the holidays, Seaview is very quiet, but the people are always friendly.",
+      "glossary": [
+        { "word": "by the sea", "meaning": "di tepi laut" },
+        { "word": "except", "meaning": "kecuali" },
+        { "word": "tourist", "meaning": "wisatawan" },
+        { "word": "quiet", "meaning": "sepi, tenang" },
+        { "word": "friendly", "meaning": "ramah" }
+      ],
+      "questions": [
+        {
+          "id": "a1-rd-3-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-3-welcome-to-seaview",
+          "prompt": "What is the best title for this text?",
+          "options": ["Seaview: A Small Town by the Sea", "How to Catch Fish", "The Big Cinema in Hillton", "A Holiday in the Mountains"],
+          "answer": 0,
+          "explanation": "Seluruh teks mendeskripsikan kota kecil Seaview di tepi laut."
+        },
+        {
+          "id": "a1-rd-3-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-3-welcome-to-seaview",
+          "prompt": "Where is the bus stop?",
+          "options": ["Next to the post office", "In front of the bank", "Opposite the museum", "Behind the market"],
+          "answer": 1,
+          "explanation": "The bus stop is in front of the bank. Yang berada di sebelah kantor pos adalah perpustakaan."
+        },
+        {
+          "id": "a1-rd-3-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-3-welcome-to-seaview",
+          "prompt": "Why do young people often go to Hillton?",
+          "options": ["To watch films", "To buy fish", "To go to the bank", "To swim in the sea"],
+          "answer": 0,
+          "explanation": "Tidak ada bioskop di Seaview (There isn't a cinema), jadi kita bisa menyimpulkan mereka ke Hillton untuk menonton film."
+        },
+        {
+          "id": "a1-rd-3-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "vocabulary in context",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-3-welcome-to-seaview",
+          "prompt": "'After the holidays, Seaview is very quiet.' This means the town has ___.",
+          "options": ["few people and little noise", "a lot of tourists", "bad weather every day", "no shops"],
+          "answer": 0,
+          "explanation": "quiet = sepi/tenang. Setelah musim liburan, wisatawan pergi sehingga kota menjadi sepi."
+        },
+        {
+          "id": "a1-rd-3-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-3-welcome-to-seaview",
+          "prompt": "When is the market closed?",
+          "options": ["On Sunday", "On Monday", "On Saturday", "It is never closed."],
+          "answer": 1,
+          "explanation": "The market is open every day except Monday — pasar tutup pada hari Senin."
+        }
+      ]
+    },
+    {
+      "slug": "a1-rd-4-lemon-tree-cafe",
+      "title": "At the Lemon Tree Café",
+      "genre": "dialogue",
+      "body": "**Waiter:** Good afternoon! Are you ready to order?\n**Rosa:** Yes, please. I'd like the chicken noodle soup.\n**Waiter:** Sure. And for you, sir?\n**Dimas:** Hmm... Is the fried rice spicy?\n**Waiter:** Yes, it's quite spicy.\n**Dimas:** Then I'd like the vegetable sandwich, please. I don't like spicy food.\n**Waiter:** OK. Anything to drink?\n**Rosa:** An orange juice for me, please.\n**Dimas:** And a cup of tea, please. With some milk, but no sugar.\n**Waiter:** So that's one chicken noodle soup, one vegetable sandwich, an orange juice and a tea with milk. Anything else?\n**Rosa:** No, thank you. How much is that?\n**Waiter:** That's eighteen dollars fifty, please.",
+      "glossary": [
+        { "word": "order", "meaning": "memesan" },
+        { "word": "spicy", "meaning": "pedas" },
+        { "word": "Anything else?", "meaning": "Ada lagi?" },
+        { "word": "sugar", "meaning": "gula" }
+      ],
+      "questions": [
+        {
+          "id": "a1-rd-4-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-4-lemon-tree-cafe",
+          "prompt": "What is happening in the dialogue?",
+          "options": ["Two customers are ordering food and drinks.", "A waiter is asking for a job.", "Rosa and Dimas are cooking at home.", "Dimas is buying a sandwich in a supermarket."],
+          "answer": 0,
+          "explanation": "Rosa dan Dimas memesan makanan dan minuman kepada pelayan di kafe."
+        },
+        {
+          "id": "a1-rd-4-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-4-lemon-tree-cafe",
+          "prompt": "What does Rosa order to drink?",
+          "options": ["Tea with milk", "An orange juice", "A bottle of water", "A coffee"],
+          "answer": 1,
+          "explanation": "Rosa berkata: An orange juice for me, please. Teh dengan susu adalah pesanan Dimas."
+        },
+        {
+          "id": "a1-rd-4-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-4-lemon-tree-cafe",
+          "prompt": "Why doesn't Dimas order the fried rice?",
+          "options": ["It is too expensive.", "It is spicy, and he doesn't like spicy food.", "The café doesn't have any rice.", "He isn't hungry."],
+          "answer": 1,
+          "explanation": "Pelayan berkata nasi gorengnya cukup pedas, dan Dimas berkata I don't like spicy food."
+        },
+        {
+          "id": "a1-rd-4-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "vocabulary in context",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-4-lemon-tree-cafe",
+          "prompt": "When the waiter asks 'Anything else?', he wants to know if the customers ___.",
+          "options": ["want to order more", "like the café", "are ready to go home", "know the price"],
+          "answer": 0,
+          "explanation": "Anything else? = Ada lagi? Pelayan menanyakan apakah mereka ingin memesan sesuatu yang lain."
+        }
+      ]
+    },
+    {
+      "slug": "a1-rd-5-talent-day",
+      "title": "Talent Day at Lakeside School",
+      "genre": "news",
+      "body": "Today is Talent Day at Lakeside School, and the school hall is full of parents and students. Right now, a group of ten-year-old children is singing a song about the sea. Their music teacher, Ms. Rahma, is playing the piano.\n\nTalent Day happens every year in June. Students show their skills: some can dance, some can play musical instruments, and some can do magic tricks. This year there is a new competition: cooking! At the moment, twelve students are making fried bananas in the school kitchen, and the smell is wonderful.\n\nThe head teacher, Mr. Joseph Tan, says, 'Every child can do something special. Today they can show it to everyone.' The winners get a book and a small cup.",
+      "glossary": [
+        { "word": "talent", "meaning": "bakat" },
+        { "word": "hall", "meaning": "aula" },
+        { "word": "skill", "meaning": "keterampilan" },
+        { "word": "competition", "meaning": "lomba, kompetisi" },
+        { "word": "winner", "meaning": "pemenang" }
+      ],
+      "questions": [
+        {
+          "id": "a1-rd-5-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-5-talent-day",
+          "prompt": "What is the news about?",
+          "options": ["A special day when students show their skills", "A new school kitchen", "A music teacher's birthday", "A football competition"],
+          "answer": 0,
+          "explanation": "Berita ini tentang Talent Day, hari ketika siswa menunjukkan bakat mereka."
+        },
+        {
+          "id": "a1-rd-5-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "passageSlug": "a1-rd-5-talent-day",
+          "prompt": "What is Ms. Rahma doing right now?",
+          "options": ["She is singing.", "She is playing the piano.", "She is cooking.", "She is dancing."],
+          "answer": 1,
+          "explanation": "Their music teacher, Ms. Rahma, is playing the piano. Yang bernyanyi adalah anak-anak."
+        },
+        {
+          "id": "a1-rd-5-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-5-talent-day",
+          "prompt": "What can we understand about the cooking competition?",
+          "options": ["It is the first cooking competition at Talent Day.", "It happens in the school hall.", "Ms. Rahma is the winner.", "Only parents can cook."],
+          "answer": 0,
+          "explanation": "Teks berkata This year there is a new competition: cooking! Kata new menunjukkan lomba ini baru pertama kali diadakan."
+        },
+        {
+          "id": "a1-rd-5-q4", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "vocabulary in context",
+          "difficulty": 2, "stage": "independent", "passageSlug": "a1-rd-5-talent-day",
+          "prompt": "'The smell is wonderful.' What does 'wonderful' mean?",
+          "options": ["very good", "very bad", "very small", "very quiet"],
+          "answer": 0,
+          "explanation": "wonderful = luar biasa, sangat bagus/menyenangkan."
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "slug": "a1-ls-1-new-student",
+      "title": "A New Student at the Language Centre",
+      "kind": "dialogue",
+      "script": [
+        { "speaker": "Receptionist", "text": "Good morning! Welcome to Bright Star Language Centre." },
+        { "speaker": "Marco", "text": "Good morning. I'm a new student. My name is Marco Bellini." },
+        { "speaker": "Receptionist", "text": "Nice to meet you, Marco. How do you spell your surname?" },
+        { "speaker": "Marco", "text": "B-E-double L-I-N-I." },
+        { "speaker": "Receptionist", "text": "Thank you. And where are you from?" },
+        { "speaker": "Marco", "text": "I'm from Italy, but I live in Jakarta now." },
+        { "speaker": "Receptionist", "text": "What's your phone number?" },
+        { "speaker": "Marco", "text": "It's 0812 5537 409." },
+        { "speaker": "Receptionist", "text": "Great. Your class is in Room 6, on Mondays and Wednesdays at seven o'clock in the evening. Your teacher is Ms. Novita." },
+        { "speaker": "Marco", "text": "Thank you very much!" }
+      ],
+      "questions": [
+        {
+          "id": "a1-ls-1-q1", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "a1-ls-1-new-student",
+          "prompt": "Where is Marco from?",
+          "options": ["Indonesia", "Italy", "Spain", "Brazil"],
+          "answer": 1,
+          "explanation": "Marco berkata: I'm from Italy, but I live in Jakarta now. Ia berasal dari Italia dan sekarang tinggal di Jakarta."
+        },
+        {
+          "id": "a1-ls-1-q2", "type": "short_answer", "category": "listening", "topic": "spelling",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-1-new-student",
+          "prompt": "Write Marco's surname.",
+          "answers": ["Bellini"],
+          "explanation": "Marco mengeja: B-E-double L-I-N-I = Bellini (double L = dua huruf L)."
+        },
+        {
+          "id": "a1-ls-1-q3", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-1-new-student",
+          "prompt": "When is Marco's class?",
+          "options": ["On Monday and Wednesday evenings", "On Monday and Wednesday mornings", "On Tuesday and Thursday evenings", "Every day at seven o'clock"],
+          "answer": 0,
+          "explanation": "Resepsionis berkata: on Mondays and Wednesdays at seven o'clock in the evening."
+        },
+        {
+          "id": "a1-ls-1-q4", "type": "fill_blank", "category": "listening", "topic": "numbers",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "a1-ls-1-new-student",
+          "prompt": "Complete the sentence.",
+          "text": "Marco's class is in Room ___.",
+          "answers": [["6", "six"]],
+          "explanation": "Your class is in Room 6."
+        }
+      ]
+    },
+    {
+      "slug": "a1-ls-2-station-announcement",
+      "title": "At the Train Station",
+      "kind": "announcement",
+      "script": [
+        { "speaker": "Announcer", "text": "Good afternoon, passengers. The two fifteen train to Riverton is now at platform four." },
+        { "speaker": "Announcer", "text": "The train to Hillton is late today. It leaves at three thirty from platform two." },
+        { "speaker": "Announcer", "text": "There is a café on platform one. It is open until eight o'clock this evening." },
+        { "speaker": "Announcer", "text": "Please don't leave your bags alone. Thank you, and have a nice journey." }
+      ],
+      "questions": [
+        {
+          "id": "a1-ls-2-q1", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "a1-ls-2-station-announcement",
+          "prompt": "Which platform is the train to Riverton at?",
+          "options": ["Platform one", "Platform two", "Platform four", "Platform three"],
+          "answer": 2,
+          "explanation": "The two fifteen train to Riverton is now at platform four."
+        },
+        {
+          "id": "a1-ls-2-q2", "type": "listening_comprehension", "category": "listening", "topic": "time",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-2-station-announcement",
+          "prompt": "What time does the train to Hillton leave?",
+          "options": ["2:15", "3:30", "3:15", "8:00"],
+          "answer": 1,
+          "explanation": "It leaves at three thirty = 3:30. Pukul 2:15 adalah kereta ke Riverton."
+        },
+        {
+          "id": "a1-ls-2-q3", "type": "multiple_select", "category": "listening", "topic": "detail",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-2-station-announcement",
+          "prompt": "Which sentences are true? Choose all correct answers.",
+          "options": ["The Hillton train is late.", "The café is on platform one.", "The café closes at six o'clock.", "Passengers can leave their bags on the platform."],
+          "answers": [0, 1],
+          "explanation": "Kereta ke Hillton terlambat dan kafe ada di peron 1. Kafe buka sampai pukul 8, dan penumpang diminta tidak meninggalkan tas."
+        },
+        {
+          "id": "a1-ls-2-q4", "type": "dictation", "category": "listening", "topic": "dictation",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-2-station-announcement",
+          "prompt": "Listen and write the sentence you hear.",
+          "text": "Please don't leave your bags alone.",
+          "explanation": "Kalimatnya: Please don't leave your bags alone. Perhatikan apostrof pada don't dan -s pada bags."
+        }
+      ]
+    },
+    {
+      "slug": "a1-ls-3-rainy-day-call",
+      "title": "A Phone Call on a Rainy Day",
+      "kind": "phone_call",
+      "script": [
+        { "speaker": "Nadia", "text": "Hi, Kevin! It's Nadia. What are you doing?" },
+        { "speaker": "Kevin", "text": "Hi, Nadia! I'm watching a film with my little sister. Why?" },
+        { "speaker": "Nadia", "text": "I'm at the shopping mall with Tari. We're having lunch. Do you want to come?" },
+        { "speaker": "Kevin", "text": "Sorry, I can't. It's raining very hard here, and I don't have an umbrella." },
+        { "speaker": "Nadia", "text": "Oh no! It isn't raining here. It's just cloudy." },
+        { "speaker": "Kevin", "text": "Also, my mum is working today, so I'm looking after my sister." },
+        { "speaker": "Nadia", "text": "OK, no problem. See you at school tomorrow!" },
+        { "speaker": "Kevin", "text": "Bye, Nadia!" }
+      ],
+      "questions": [
+        {
+          "id": "a1-ls-3-q1", "type": "listening_comprehension", "category": "listening", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "a1-ls-3-rainy-day-call",
+          "prompt": "What is Kevin doing?",
+          "options": ["He is having lunch.", "He is watching a film.", "He is shopping.", "He is studying."],
+          "answer": 1,
+          "explanation": "Kevin berkata: I'm watching a film with my little sister. Yang makan siang adalah Nadia dan Tari."
+        },
+        {
+          "id": "a1-ls-3-q2", "type": "listening_comprehension", "category": "listening", "topic": "weather",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-3-rainy-day-call",
+          "prompt": "What is the weather like where Nadia is?",
+          "options": ["It's raining.", "It's cloudy.", "It's sunny.", "It's windy."],
+          "answer": 1,
+          "explanation": "Nadia berkata: It isn't raining here. It's just cloudy. Hujan deras terjadi di tempat Kevin."
+        },
+        {
+          "id": "a1-ls-3-q3", "type": "listening_comprehension", "category": "listening", "topic": "inference",
+          "difficulty": 2, "stage": "independent", "listeningSlug": "a1-ls-3-rainy-day-call",
+          "prompt": "Why can't Kevin go to the mall?",
+          "options": ["He is looking after his sister, and it is raining.", "He doesn't like Nadia.", "He is at work.", "The mall is closed."],
+          "answer": 0,
+          "explanation": "Kevin menyebut dua alasan: hujan deras tanpa payung, dan ia menjaga adiknya karena ibunya bekerja."
+        },
+        {
+          "id": "a1-ls-3-q4", "type": "fill_blank", "category": "listening", "topic": "detail",
+          "difficulty": 1, "stage": "independent", "listeningSlug": "a1-ls-3-rainy-day-call",
+          "prompt": "Complete the sentence with one word.",
+          "text": "Kevin's ___ is working today.",
+          "answers": [["mum", "mother", "mom"]],
+          "explanation": "Kevin berkata: my mum is working today."
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "slug": "a1-sp-introduce-yourself",
+      "title": "Introduce Yourself",
+      "kind": "guided",
+      "prompt": "You are in a new English class. Introduce yourself: say your name and spell it, say where you are from, how old you are, and what you do.",
+      "targetPhrases": ["My name is", "I'm from", "years old", "I'm a"],
+      "sampleAnswer": "Hello! My name is Ayu Lestari. My first name is A-Y-U. I'm from Yogyakarta, Indonesia. I'm twenty-two years old. I'm a student at a university. Nice to meet you!",
+      "tips": ["Mulailah dengan sapaan: Hello! atau Good morning!", "Eja nama dengan bunyi huruf bahasa Inggris: A = /eɪ/, Y = /waɪ/, U = /juː/.", "Akhiri dengan Nice to meet you!"]
+    },
+    {
+      "slug": "a1-sp-my-family",
+      "title": "My Family Photo",
+      "kind": "guided",
+      "prompt": "Imagine you are showing a family photo to a friend. Talk about four people in the photo: who they are, their names, their ages and their jobs.",
+      "targetPhrases": ["This is my", "His name is", "Her name is", "He's a", "She's"],
+      "sampleAnswer": "This is my family. This is my father. His name is Hendra and he's fifty. He's an engineer. This is my mother. Her name is Wati. She's a teacher. These are my brothers, Bima and Dika. They're students.",
+      "tips": ["Gunakan his untuk laki-laki dan her untuk perempuan.", "Jangan lupa a/an sebelum pekerjaan: a teacher, an engineer.", "Gunakan These are... untuk lebih dari satu orang."]
+    },
+    {
+      "slug": "a1-sp-daily-routine",
+      "title": "My Weekday",
+      "kind": "situation",
+      "prompt": "A new friend asks: 'What do you do on a normal weekday?' Describe your day from morning to night. Use times and adverbs of frequency.",
+      "targetPhrases": ["I get up at", "I usually", "Then I", "After that", "I always"],
+      "sampleAnswer": "I get up at half past five. I usually have breakfast with my family. Then I go to work by motorbike. I start work at eight o'clock. After that, I have lunch at twelve. I come home at five, and I always cook dinner. I go to bed at ten.",
+      "tips": ["Gunakan kata urutan: first, then, after that, finally.", "Untuk he/she tambahkan -s, tetapi untuk I tidak: I get up.", "Sebut jam dengan at: at seven o'clock."]
+    },
+    {
+      "slug": "a1-sp-cafe-order",
+      "title": "Ordering at a Café",
+      "kind": "role_play",
+      "prompt": "Role play: You are a customer at the Lemon Tree Café. Greet the waiter, order one food and one drink, ask a question about the food, and ask for the price.",
+      "targetPhrases": ["I'd like", "please", "Is it spicy?", "How much is it?", "Thank you"],
+      "sampleAnswer": "Good afternoon! I'd like the chicken noodle soup, please. Is it spicy? ... OK, good. And a glass of orange juice, please. How much is it? ... Here you are. Thank you!",
+      "tips": ["I'd like... lebih sopan daripada I want...", "Selalu tambahkan please di akhir permintaan.", "Ucapkan Thank you saat menerima makanan atau kembalian."]
+    },
+    {
+      "slug": "a1-sp-directions",
+      "title": "Giving Directions",
+      "kind": "role_play",
+      "prompt": "Role play: A tourist stops you in the street and asks, 'Excuse me, where is the post office?' Give clear directions from where you are now. Use at least three instructions.",
+      "targetPhrases": ["Go straight on", "Turn left", "Turn right", "It's next to", "It's opposite"],
+      "sampleAnswer": "The post office? Sure. Go straight on to the traffic lights. Then turn left. Walk past the bank. The post office is on the right, next to the library. It's opposite the museum.",
+      "tips": ["Gunakan kalimat perintah (imperative) tanpa subjek: Turn left.", "Tambahkan preposition of place: next to, opposite, between.", "Bicara perlahan dan ulangi bagian penting."]
+    },
+    {
+      "slug": "a1-sp-alphabet-sounds",
+      "title": "Letter Sounds: A, E, I, G, J",
+      "kind": "pronunciation",
+      "prompt": "Say these letters aloud: A, E, I, G, J, Y, W, R. Then spell these names aloud: Eka, Jaya, Gita, Yuni.",
+      "targetPhrases": ["A /eɪ/", "E /iː/", "I /aɪ/", "G /dʒiː/", "J /dʒeɪ/"],
+      "sampleAnswer": "A, E, I, G, J, Y, W, R. Eka: E-K-A. Jaya: J-A-Y-A. Gita: G-I-T-A. Yuni: Y-U-N-I.",
+      "tips": ["E dibaca ii, bukan e seperti bahasa Indonesia.", "G = jii dan J = jei — jangan tertukar.", "W dibaca dabel-yuu, Y dibaca wai."]
+    },
+    {
+      "slug": "a1-sp-right-now",
+      "title": "What Is Happening Now?",
+      "kind": "situation",
+      "prompt": "Look out of a window (or imagine a park). Describe the weather and say what four people are doing right now. Say what they are wearing, too.",
+      "targetPhrases": ["It's sunny", "right now", "is wearing", "are playing", "is sitting"],
+      "sampleAnswer": "It's sunny and hot today. Right now, two boys are playing football. A woman is sitting under a tree. She's reading a book and she's wearing a yellow dress. An old man is walking his dog.",
+      "tips": ["Gunakan am/is/are + verb-ing untuk kegiatan sekarang.", "Perhatikan ejaan: sit → sitting, run → running.", "Untuk cuaca: It's sunny / cloudy / windy / raining."]
+    },
+    {
+      "slug": "a1-sp-abilities",
+      "title": "Things I Can Do",
+      "kind": "guided",
+      "prompt": "Talk about your abilities. Say three things you can do and two things you can't do. Say how well you can do them.",
+      "targetPhrases": ["I can", "I can't", "very well", "a little", "at all"],
+      "sampleAnswer": "I can swim very well, and I can cook fried rice. I can play the guitar a little. I can't drive a car, and I can't speak Japanese at all.",
+      "tips": ["Setelah can gunakan kata kerja dasar: I can swim (bukan swims).", "Ucapkan can dengan lemah /kən/ dan can't dengan jelas /kɑːnt/.", "Tambahkan very well, quite well, a little, atau not at all."]
+    }
+  ],
+  "writing": [
+    {
+      "slug": "a1-wr-about-me",
+      "title": "Five Sentences About Me",
+      "kind": "sentence",
+      "instructions": "Tulis 5 kalimat tentang dirimu: nama, umur, asal, pekerjaan atau sekolah, dan satu hal yang kamu sukai. Gunakan am/is/are dan huruf kapital dengan benar.",
+      "minWords": 20,
+      "maxWords": 60,
+      "modelAnswer": "My name is Raka Pratama. I am twenty years old. I am from Bandung, Indonesia. I am a student at Sunrise University. I like music and football."
+    },
+    {
+      "slug": "a1-wr-my-family",
+      "title": "My Family",
+      "kind": "paragraph",
+      "instructions": "Tulis satu paragraf tentang keluargamu. Sebutkan minimal tiga anggota keluarga, nama, umur, dan pekerjaan mereka. Gunakan his, her, their, dan possessive 's.",
+      "minWords": 40,
+      "maxWords": 90,
+      "modelAnswer": "There are four people in my family. My father's name is Hendra. He is fifty-two years old and he is a driver. My mother's name is Sri. She is a nurse. My sister is fifteen. Her name is Putri and she is a student. Our cat's name is Moli."
+    },
+    {
+      "slug": "a1-wr-my-day",
+      "title": "My Daily Routine",
+      "kind": "paragraph",
+      "instructions": "Tulis satu paragraf tentang rutinitasmu pada hari kerja/sekolah. Gunakan present simple, jam (at seven o'clock), dan minimal tiga adverb of frequency (always, usually, often, sometimes, never).",
+      "minWords": 50,
+      "maxWords": 100,
+      "modelAnswer": "I always get up at six o'clock. I have a shower and I usually eat rice and eggs for breakfast. I go to school by bus at seven. Classes start at half past seven. I have lunch at school at twelve. In the afternoon, I sometimes play badminton with my friends. In the evening, I do my homework and I often watch TV. I never go to bed late."
+    },
+    {
+      "slug": "a1-wr-email-pen-friend",
+      "title": "Reply to a Pen Friend",
+      "kind": "email_informal",
+      "instructions": "Baca email Lina (Reading: Hello from Lina). Tulis balasan untuk Lina sebagai Emma atau sebagai dirimu sendiri. Perkenalkan dirimu, ceritakan keluargamu, hobimu (like/love/don't like + -ing), dan ajukan dua pertanyaan kepada Lina. Mulai dengan Hi Lina, dan akhiri dengan Best wishes,",
+      "minWords": 60,
+      "maxWords": 120,
+      "modelAnswer": "Hi Lina,\n\nThank you for your email! My name is Dewi and I'm twenty years old. I'm from Makassar. There are four people in my family: my parents, my brother and me. My father is a cook and my mother works in a bank. I love reading and I like swimming, but I don't like cooking!\n\nWhat music do you like? Do you play an instrument?\n\nBest wishes,\nDewi"
+    },
+    {
+      "slug": "a1-wr-my-town",
+      "title": "Describe Your Town",
+      "kind": "paragraph",
+      "instructions": "Tulis satu paragraf tentang kota atau desamu. Gunakan there is / there are (positif dan negatif), minimal dua preposition of place (next to, opposite, near...), dan satu kalimat tentang transportasi.",
+      "minWords": 50,
+      "maxWords": 100,
+      "modelAnswer": "I live in Sukamaju, a small town near the mountains. There is a big market in the town centre and there are two banks. The post office is next to the market, and there is a small library opposite the post office. There isn't a cinema, but there are some nice cafés. People usually go to work by motorbike or by bus."
+    },
+    {
+      "slug": "a1-wr-correct-mistakes",
+      "title": "Correct the Mistakes",
+      "kind": "correction",
+      "instructions": "Teks berikut memiliki 6 kesalahan. Tulis ulang teks dengan benar: 'My name are Toni. I from Surabaya. My sister work in a bank. She have two childs. We goes to the beach on sunday.'",
+      "minWords": 20,
+      "maxWords": 50,
+      "modelAnswer": "My name is Toni. I am from Surabaya. My sister works in a bank. She has two children. We go to the beach on Sunday."
+    }
+  ],
+  "vocabulary": [
+    { "word": "hello", "pos": "interjection", "ipa": "/həˈləʊ/", "definition": "a word you say when you meet someone", "meaning": "halo", "examples": [{ "en": "Hello, my name is Rina.", "id": "Halo, nama saya Rina." }], "synonyms": ["hi"], "antonyms": ["goodbye"], "collocations": ["say hello"], "phrases": ["Hello, how are you?"], "related": ["greeting"], "topic": "greetings" },
+    { "word": "goodbye", "pos": "interjection", "ipa": "/ˌɡʊdˈbaɪ/", "definition": "a word you say when you leave someone", "meaning": "selamat tinggal, sampai jumpa", "examples": [{ "en": "Goodbye! See you tomorrow.", "id": "Sampai jumpa! Sampai ketemu besok." }], "synonyms": ["bye"], "antonyms": ["hello"], "collocations": ["say goodbye"], "phrases": ["Goodbye for now."], "related": ["see you later"], "topic": "greetings" },
+    { "word": "morning", "pos": "noun", "ipa": "/ˈmɔːnɪŋ/", "definition": "the part of the day from when the sun comes up until 12 o'clock", "meaning": "pagi", "examples": [{ "en": "I drink coffee in the morning.", "id": "Saya minum kopi di pagi hari." }], "antonyms": ["evening"], "collocations": ["in the morning", "every morning"], "phrases": ["Good morning!"], "related": ["afternoon", "evening"], "topic": "time" },
+    { "word": "night", "pos": "noun", "ipa": "/naɪt/", "definition": "the time when it is dark and people sleep", "meaning": "malam", "examples": [{ "en": "I never drink coffee at night.", "id": "Saya tidak pernah minum kopi di malam hari." }], "antonyms": ["day"], "collocations": ["at night", "last night"], "phrases": ["Good night!"], "related": ["evening", "midnight"], "topic": "time" },
+    { "word": "friend", "pos": "noun", "ipa": "/frend/", "definition": "a person you know well and like", "meaning": "teman, sahabat", "examples": [{ "en": "Dani is my best friend.", "id": "Dani adalah sahabat terbaik saya." }], "collocations": ["best friend", "good friend", "make friends"], "phrases": ["a friend of mine"], "related": ["classmate", "neighbour"], "topic": "people" },
+    { "word": "student", "pos": "noun", "ipa": "/ˈstjuːdənt/", "definition": "a person who studies at a school or university", "meaning": "pelajar, siswa, mahasiswa", "examples": [{ "en": "My brother is a student at Sunrise University.", "id": "Kakak saya mahasiswa di Universitas Sunrise." }], "collocations": ["university student", "new student"], "related": ["teacher", "class"], "topic": "jobs" },
+    { "word": "teacher", "pos": "noun", "ipa": "/ˈtiːtʃə/", "definition": "a person whose job is to help people learn", "meaning": "guru", "examples": [{ "en": "Ms. Clark is our English teacher.", "id": "Bu Clark adalah guru bahasa Inggris kami." }], "collocations": ["English teacher", "music teacher"], "related": ["student", "school"], "topic": "jobs" },
+    { "word": "doctor", "pos": "noun", "ipa": "/ˈdɒktə/", "definition": "a person whose job is to help sick people get better", "meaning": "dokter", "examples": [{ "en": "Her father is a doctor at Green Hill Hospital.", "id": "Ayahnya seorang dokter di Rumah Sakit Green Hill." }], "collocations": ["see a doctor", "go to the doctor"], "related": ["nurse", "hospital"], "topic": "jobs" },
+    { "word": "nurse", "pos": "noun", "ipa": "/nɜːs/", "definition": "a person whose job is to care for sick people, usually in a hospital", "meaning": "perawat", "examples": [{ "en": "Anita is a nurse.", "id": "Anita seorang perawat." }], "collocations": ["hospital nurse"], "related": ["doctor", "hospital"], "topic": "jobs" },
+    { "word": "happy", "pos": "adjective", "ipa": "/ˈhæpi/", "definition": "feeling good and pleased", "meaning": "senang, bahagia", "examples": [{ "en": "The children are very happy today.", "id": "Anak-anak sangat senang hari ini." }], "synonyms": ["glad"], "antonyms": ["sad"], "collocations": ["very happy"], "phrases": ["Happy birthday!"], "related": ["fine"], "topic": "feelings" },
+    { "word": "tired", "pos": "adjective", "ipa": "/ˈtaɪəd/", "definition": "feeling that you need to rest or sleep", "meaning": "lelah, capek", "examples": [{ "en": "I'm tired after work.", "id": "Saya lelah setelah bekerja." }], "antonyms": ["fresh"], "collocations": ["very tired", "a bit tired"], "related": ["sleep"], "topic": "feelings" },
+    { "word": "hungry", "pos": "adjective", "ipa": "/ˈhʌŋɡri/", "definition": "wanting to eat food", "meaning": "lapar", "examples": [{ "en": "Are you hungry? Let's have lunch.", "id": "Kamu lapar? Ayo makan siang." }], "antonyms": ["full"], "collocations": ["very hungry"], "related": ["thirsty", "food"], "topic": "feelings" },
+    { "word": "busy", "pos": "adjective", "ipa": "/ˈbɪzi/", "definition": "having a lot of things to do", "meaning": "sibuk", "examples": [{ "en": "My mother is very busy on Mondays.", "id": "Ibu saya sangat sibuk pada hari Senin." }], "antonyms": ["free"], "collocations": ["very busy", "a busy day"], "related": ["work"], "topic": "feelings" },
+    { "word": "country", "pos": "noun", "ipa": "/ˈkʌntri/", "definition": "an area of land with its own government, for example Indonesia or Japan", "meaning": "negara", "examples": [{ "en": "Indonesia is a big country.", "id": "Indonesia adalah negara yang besar." }], "collocations": ["a big country", "my country"], "related": ["nationality", "city"], "topic": "countries" },
+    { "word": "city", "pos": "noun", "ipa": "/ˈsɪti/", "definition": "a big and important town", "meaning": "kota (besar)", "examples": [{ "en": "Surabaya is a big city.", "id": "Surabaya adalah kota besar." }], "synonyms": ["town"], "antonyms": ["village"], "collocations": ["city centre", "big city"], "related": ["town", "country"], "topic": "places" },
+    { "word": "name", "pos": "noun", "ipa": "/neɪm/", "definition": "the word that people call you", "meaning": "nama", "examples": [{ "en": "What's your name?", "id": "Siapa namamu?" }], "collocations": ["first name", "full name"], "phrases": ["My name is..."], "related": ["surname", "spell"], "topic": "personal information" },
+    { "word": "spell", "pos": "verb", "ipa": "/spel/", "definition": "to say or write the letters of a word in the correct order", "meaning": "mengeja", "examples": [{ "en": "How do you spell your surname?", "id": "Bagaimana mengeja nama belakangmu?" }], "collocations": ["spell a name", "spell a word"], "phrases": ["How do you spell that?"], "related": ["letter", "alphabet"], "topic": "personal information" },
+    { "word": "mother", "pos": "noun", "ipa": "/ˈmʌðə/", "definition": "a female parent", "meaning": "ibu", "examples": [{ "en": "My mother is a teacher.", "id": "Ibu saya seorang guru." }], "synonyms": ["mum", "mom"], "antonyms": ["father"], "related": ["parents", "family"], "topic": "family" },
+    { "word": "father", "pos": "noun", "ipa": "/ˈfɑːðə/", "definition": "a male parent", "meaning": "ayah, bapak", "examples": [{ "en": "Her father's name is Budi.", "id": "Nama ayahnya Budi." }], "synonyms": ["dad"], "antonyms": ["mother"], "related": ["parents", "family"], "topic": "family" },
+    { "word": "brother", "pos": "noun", "ipa": "/ˈbrʌðə/", "definition": "a boy or man who has the same parents as you", "meaning": "saudara laki-laki (kakak/adik)", "examples": [{ "en": "My brother is twelve years old.", "id": "Adik laki-laki saya berumur dua belas tahun." }], "antonyms": ["sister"], "collocations": ["big brother", "little brother"], "related": ["family"], "topic": "family" },
+    { "word": "sister", "pos": "noun", "ipa": "/ˈsɪstə/", "definition": "a girl or woman who has the same parents as you", "meaning": "saudara perempuan (kakak/adik)", "examples": [{ "en": "This is my sister, Maya.", "id": "Ini kakak/adik perempuan saya, Maya." }], "antonyms": ["brother"], "collocations": ["big sister", "little sister"], "related": ["family"], "topic": "family" },
+    { "word": "parents", "pos": "noun", "ipa": "/ˈpeərənts/", "definition": "your mother and father", "meaning": "orang tua", "examples": [{ "en": "My parents are from Medan.", "id": "Orang tua saya dari Medan." }], "collocations": ["my parents' house"], "related": ["mother", "father"], "topic": "family" },
+    { "word": "husband", "pos": "noun", "ipa": "/ˈhʌzbənd/", "definition": "the man that a woman is married to", "meaning": "suami", "examples": [{ "en": "Rosa's husband is a cook.", "id": "Suami Rosa seorang juru masak." }], "antonyms": ["wife"], "related": ["married"], "topic": "family" },
+    { "word": "wife", "pos": "noun", "ipa": "/waɪf/", "definition": "the woman that a man is married to", "meaning": "istri", "examples": [{ "en": "His wife is an engineer.", "id": "Istrinya seorang insinyur." }], "antonyms": ["husband"], "related": ["married"], "topic": "family" },
+    { "word": "daughter", "pos": "noun", "ipa": "/ˈdɔːtə/", "definition": "a person's female child", "meaning": "anak perempuan", "examples": [{ "en": "Mr. Hadi's daughter helps him on Saturdays.", "id": "Anak perempuan Pak Hadi membantunya pada hari Sabtu." }], "antonyms": ["son"], "related": ["child", "family"], "topic": "family" },
+    { "word": "address", "pos": "noun", "ipa": "/əˈdres/", "definition": "the number, street and town where you live", "meaning": "alamat", "examples": [{ "en": "What's your address?", "id": "Apa alamatmu?" }], "collocations": ["email address", "home address"], "related": ["street", "phone number"], "topic": "personal information" },
+    { "word": "phone number", "pos": "noun", "ipa": "/ˈfəʊn ˌnʌmbə/", "definition": "the numbers you use to call someone's phone", "meaning": "nomor telepon", "examples": [{ "en": "My phone number is 0812 3345 678.", "id": "Nomor telepon saya 0812 3345 678." }], "collocations": ["mobile phone number"], "phrases": ["What's your phone number?"], "related": ["address"], "topic": "personal information" },
+    { "word": "birthday", "pos": "noun", "ipa": "/ˈbɜːθdeɪ/", "definition": "the day of the year when you were born", "meaning": "hari ulang tahun", "examples": [{ "en": "My birthday is on the third of May.", "id": "Ulang tahun saya tanggal tiga Mei." }], "collocations": ["birthday party", "birthday cake"], "phrases": ["Happy birthday!"], "related": ["date", "age"], "topic": "dates" },
+    { "word": "month", "pos": "noun", "ipa": "/mʌnθ/", "definition": "one of the twelve parts of a year, for example January", "meaning": "bulan", "examples": [{ "en": "June is my favourite month.", "id": "Juni adalah bulan favorit saya." }], "collocations": ["next month", "every month"], "related": ["week", "year"], "topic": "dates" },
+    { "word": "old", "pos": "adjective", "ipa": "/əʊld/", "definition": "having lived or existed for a long time; also used to say someone's age", "meaning": "tua; berumur", "examples": [{ "en": "I'm twenty-five years old.", "id": "Saya berumur dua puluh lima tahun." }], "antonyms": ["young", "new"], "phrases": ["How old are you?"], "related": ["age"], "topic": "numbers" },
+    { "word": "book", "pos": "noun", "ipa": "/bʊk/", "definition": "a set of printed pages that you read", "meaning": "buku", "examples": [{ "en": "The book is on the table.", "id": "Buku itu ada di atas meja." }], "collocations": ["read a book", "English book"], "related": ["library", "page"], "topic": "objects" },
+    { "word": "bag", "pos": "noun", "ipa": "/bæɡ/", "definition": "a thing you use to carry things", "meaning": "tas", "examples": [{ "en": "Is this your bag?", "id": "Apakah ini tasmu?" }], "collocations": ["school bag", "shopping bag"], "related": ["wallet"], "topic": "objects" },
+    { "word": "chair", "pos": "noun", "ipa": "/tʃeə/", "definition": "a thing that you sit on, for one person", "meaning": "kursi", "examples": [{ "en": "There are twenty chairs in the classroom.", "id": "Ada dua puluh kursi di kelas." }], "related": ["table", "sofa"], "topic": "objects" },
+    { "word": "key", "pos": "noun", "ipa": "/kiː/", "definition": "a small metal thing that opens a door or a lock", "meaning": "kunci", "examples": [{ "en": "Where are my keys?", "id": "Di mana kunci-kunci saya?" }], "collocations": ["car key", "house key"], "related": ["door"], "topic": "objects" },
+    { "word": "red", "pos": "adjective", "ipa": "/red/", "definition": "having the colour of blood or a ripe tomato", "meaning": "merah", "examples": [{ "en": "She has a red umbrella.", "id": "Dia punya payung merah." }], "related": ["colour", "blue", "yellow"], "topic": "colours" },
+    { "word": "big", "pos": "adjective", "ipa": "/bɪɡ/", "definition": "large in size", "meaning": "besar", "examples": [{ "en": "It's a big house.", "id": "Itu rumah yang besar." }], "synonyms": ["large"], "antonyms": ["small"], "related": ["size"], "topic": "describing things" },
+    { "word": "small", "pos": "adjective", "ipa": "/smɔːl/", "definition": "little in size", "meaning": "kecil", "examples": [{ "en": "Seaview is a small town.", "id": "Seaview adalah kota kecil." }], "synonyms": ["little"], "antonyms": ["big"], "related": ["size"], "topic": "describing things" },
+    { "word": "new", "pos": "adjective", "ipa": "/njuː/", "definition": "recently made or bought; not old", "meaning": "baru", "examples": [{ "en": "These are my new shoes.", "id": "Ini sepatu baru saya." }], "antonyms": ["old"], "collocations": ["brand new"], "related": ["young"], "topic": "describing things" },
+    { "word": "get up", "pos": "phrasal verb", "ipa": "/ɡet ˈʌp/", "definition": "to leave your bed after sleeping", "meaning": "bangun (dari tempat tidur)", "examples": [{ "en": "I get up at six o'clock.", "id": "Saya bangun pukul enam." }], "synonyms": ["wake up"], "antonyms": ["go to bed"], "collocations": ["get up early", "get up late"], "related": ["routine"], "topic": "daily routine" },
+    { "word": "breakfast", "pos": "noun", "ipa": "/ˈbrekfəst/", "definition": "the first meal of the day", "meaning": "sarapan", "examples": [{ "en": "We have breakfast at seven.", "id": "Kami sarapan pukul tujuh." }], "collocations": ["have breakfast", "eat breakfast"], "related": ["lunch", "dinner"], "topic": "daily routine" },
+    { "word": "lunch", "pos": "noun", "ipa": "/lʌntʃ/", "definition": "the meal you eat in the middle of the day", "meaning": "makan siang", "examples": [{ "en": "I usually have lunch at school.", "id": "Saya biasanya makan siang di sekolah." }], "collocations": ["have lunch", "lunch break"], "related": ["breakfast", "dinner"], "topic": "daily routine" },
+    { "word": "dinner", "pos": "noun", "ipa": "/ˈdɪnə/", "definition": "the main meal of the day, usually in the evening", "meaning": "makan malam", "examples": [{ "en": "My father cooks dinner on Sundays.", "id": "Ayah saya memasak makan malam setiap hari Minggu." }], "collocations": ["have dinner", "cook dinner"], "related": ["lunch", "breakfast"], "topic": "daily routine" },
+    { "word": "work", "pos": "verb", "ipa": "/wɜːk/", "definition": "to do a job, usually for money", "meaning": "bekerja", "examples": [{ "en": "She works in a bank.", "id": "Dia bekerja di bank." }], "collocations": ["work hard", "go to work", "at work"], "related": ["job", "office"], "topic": "daily routine" },
+    { "word": "live", "pos": "verb", "ipa": "/lɪv/", "definition": "to have your home in a place", "meaning": "tinggal", "examples": [{ "en": "We live in Bogor.", "id": "Kami tinggal di Bogor." }], "collocations": ["live in", "live with"], "phrases": ["Where do you live?"], "related": ["home", "address"], "topic": "daily routine" },
+    { "word": "study", "pos": "verb", "ipa": "/ˈstʌdi/", "definition": "to learn about a subject", "meaning": "belajar", "examples": [{ "en": "He studies English every evening.", "id": "Dia belajar bahasa Inggris setiap malam." }], "synonyms": ["learn"], "collocations": ["study English", "study hard"], "related": ["student", "homework"], "topic": "daily routine" },
+    { "word": "always", "pos": "adverb", "ipa": "/ˈɔːlweɪz/", "definition": "every time; at all times", "meaning": "selalu", "examples": [{ "en": "I always drink tea in the morning.", "id": "Saya selalu minum teh di pagi hari." }], "antonyms": ["never"], "related": ["usually", "often", "sometimes"], "topic": "frequency" },
+    { "word": "never", "pos": "adverb", "ipa": "/ˈnevə/", "definition": "not at any time; not one time", "meaning": "tidak pernah", "examples": [{ "en": "He never eats meat.", "id": "Dia tidak pernah makan daging." }], "antonyms": ["always"], "related": ["sometimes", "often"], "topic": "frequency" },
+    { "word": "like", "pos": "verb", "ipa": "/laɪk/", "definition": "to think that something is good or nice", "meaning": "suka", "examples": [{ "en": "I like swimming, but I don't like running.", "id": "Saya suka berenang, tetapi saya tidak suka berlari." }], "synonyms": ["enjoy"], "antonyms": ["dislike", "hate"], "collocations": ["like + -ing", "really like"], "related": ["love", "hate"], "topic": "likes and dislikes" },
+    { "word": "hobby", "pos": "noun", "ipa": "/ˈhɒbi/", "definition": "an activity that you do for fun in your free time", "meaning": "hobi", "examples": [{ "en": "My hobby is fishing.", "id": "Hobi saya memancing." }], "collocations": ["have a hobby"], "phrases": ["What are your hobbies?"], "related": ["free time"], "topic": "free time" },
+    { "word": "football", "pos": "noun", "ipa": "/ˈfʊtbɔːl/", "definition": "a game where two teams kick a ball and try to get goals", "meaning": "sepak bola", "examples": [{ "en": "They play football after school.", "id": "Mereka bermain sepak bola sepulang sekolah." }], "synonyms": ["soccer"], "collocations": ["play football", "football match"], "related": ["badminton", "sport"], "topic": "sports" },
+    { "word": "rice", "pos": "noun (uncountable)", "ipa": "/raɪs/", "definition": "small white or brown grains that you cook and eat", "meaning": "nasi, beras", "examples": [{ "en": "We eat rice every day.", "id": "Kami makan nasi setiap hari." }], "collocations": ["fried rice", "a bowl of rice"], "related": ["noodles", "bread"], "topic": "food" },
+    { "word": "water", "pos": "noun (uncountable)", "ipa": "/ˈwɔːtə/", "definition": "the clear liquid that falls as rain and that people drink", "meaning": "air", "examples": [{ "en": "Can I have a glass of water, please?", "id": "Boleh saya minta segelas air?" }], "collocations": ["a bottle of water", "a glass of water", "drink water"], "related": ["juice", "tea"], "topic": "drinks" },
+    { "word": "bread", "pos": "noun (uncountable)", "ipa": "/bred/", "definition": "a food made from flour and water, baked in an oven", "meaning": "roti", "examples": [{ "en": "We need a loaf of bread.", "id": "Kita perlu satu bongkah roti." }], "collocations": ["a loaf of bread", "a slice of bread"], "related": ["bakery", "cake"], "topic": "food" },
+    { "word": "money", "pos": "noun (uncountable)", "ipa": "/ˈmʌni/", "definition": "coins and paper notes that you use to buy things", "meaning": "uang", "examples": [{ "en": "I don't have any money.", "id": "Saya tidak punya uang." }], "collocations": ["spend money", "save money"], "related": ["price", "bank"], "topic": "shopping" },
+    { "word": "cheap", "pos": "adjective", "ipa": "/tʃiːp/", "definition": "costing little money", "meaning": "murah", "examples": [{ "en": "The fruit at this market is cheap.", "id": "Buah di pasar ini murah." }], "antonyms": ["expensive"], "related": ["price"], "topic": "shopping" },
+    { "word": "expensive", "pos": "adjective", "ipa": "/ɪkˈspensɪv/", "definition": "costing a lot of money", "meaning": "mahal", "examples": [{ "en": "This watch is very expensive.", "id": "Jam tangan ini sangat mahal." }], "antonyms": ["cheap"], "related": ["price", "cost"], "topic": "shopping" },
+    { "word": "bank", "pos": "noun", "ipa": "/bæŋk/", "definition": "a place where people keep their money", "meaning": "bank", "examples": [{ "en": "The bus stop is in front of the bank.", "id": "Halte bus ada di depan bank." }], "collocations": ["go to the bank", "work in a bank"], "related": ["money"], "topic": "places in town" },
+    { "word": "station", "pos": "noun", "ipa": "/ˈsteɪʃn/", "definition": "a place where trains or buses stop for people to get on or off", "meaning": "stasiun", "examples": [{ "en": "Is there a train station near here?", "id": "Apakah ada stasiun kereta di dekat sini?" }], "collocations": ["train station", "bus station"], "related": ["train", "platform"], "topic": "places in town" },
+    { "word": "hospital", "pos": "noun", "ipa": "/ˈhɒspɪtl/", "definition": "a place where sick or hurt people get help from doctors and nurses", "meaning": "rumah sakit", "examples": [{ "en": "My aunt works at the hospital.", "id": "Bibi saya bekerja di rumah sakit." }], "collocations": ["go to hospital", "in hospital"], "related": ["doctor", "nurse"], "topic": "places in town" },
+    { "word": "left", "pos": "adverb/noun", "ipa": "/left/", "definition": "the side of your body where your heart is; the opposite of right", "meaning": "kiri", "examples": [{ "en": "Turn left at the corner.", "id": "Belok kiri di tikungan." }], "antonyms": ["right"], "collocations": ["turn left", "on the left"], "related": ["direction"], "topic": "directions" },
+    { "word": "right", "pos": "adverb/noun", "ipa": "/raɪt/", "definition": "the opposite side to left", "meaning": "kanan", "examples": [{ "en": "The library is on the right.", "id": "Perpustakaan ada di sebelah kanan." }], "antonyms": ["left"], "collocations": ["turn right", "on the right"], "related": ["direction"], "topic": "directions" },
+    { "word": "bus", "pos": "noun", "ipa": "/bʌs/", "definition": "a big vehicle that carries many people on the road", "meaning": "bus", "examples": [{ "en": "I go to work by bus.", "id": "Saya pergi bekerja naik bus." }], "collocations": ["by bus", "take the bus", "bus stop"], "related": ["train", "taxi"], "topic": "transport" },
+    { "word": "train", "pos": "noun", "ipa": "/treɪn/", "definition": "a long vehicle that runs on rails and carries people or things", "meaning": "kereta api", "examples": [{ "en": "The train to Riverton leaves at two fifteen.", "id": "Kereta ke Riverton berangkat pukul dua lewat lima belas." }], "collocations": ["by train", "catch a train", "train station"], "related": ["bus", "platform"], "topic": "transport" },
+    { "word": "can", "pos": "modal verb", "ipa": "/kæn/", "definition": "used to say that someone is able to do something, or to ask for or give permission", "meaning": "bisa, dapat, boleh", "examples": [{ "en": "She can speak three languages.", "id": "Dia bisa berbicara tiga bahasa." }, { "en": "Can I open the window?", "id": "Boleh saya membuka jendela?" }], "antonyms": ["can't"], "related": ["ability", "permission"], "topic": "abilities" },
+    { "word": "swim", "pos": "verb", "ipa": "/swɪm/", "definition": "to move through water using your arms and legs", "meaning": "berenang", "examples": [{ "en": "Can you swim?", "id": "Apakah kamu bisa berenang?" }], "collocations": ["go swimming", "swim in the sea"], "related": ["swimming pool", "beach"], "topic": "abilities" },
+    { "word": "cook", "pos": "verb", "ipa": "/kʊk/", "definition": "to make food hot and ready to eat", "meaning": "memasak", "examples": [{ "en": "My brother can cook fried rice.", "id": "Kakak saya bisa memasak nasi goreng." }], "collocations": ["cook dinner", "cook rice"], "related": ["kitchen", "chef"], "topic": "abilities" },
+    { "word": "sing", "pos": "verb", "ipa": "/sɪŋ/", "definition": "to make music with your voice", "meaning": "bernyanyi", "examples": [{ "en": "The children are singing a song.", "id": "Anak-anak sedang menyanyikan sebuah lagu." }], "collocations": ["sing a song", "sing well"], "related": ["song", "music"], "topic": "free time" },
+    { "word": "guitar", "pos": "noun", "ipa": "/ɡɪˈtɑː/", "definition": "a musical instrument with six strings", "meaning": "gitar", "examples": [{ "en": "I can play the guitar a little.", "id": "Saya bisa bermain gitar sedikit." }], "collocations": ["play the guitar"], "related": ["piano", "drums", "music"], "topic": "music" },
+    { "word": "help", "pos": "verb", "ipa": "/help/", "definition": "to do something for someone so that their work is easier", "meaning": "membantu, menolong", "examples": [{ "en": "Can you help me, please?", "id": "Bisakah kamu membantu saya?" }], "collocations": ["help someone with something"], "phrases": ["Can I help you?"], "related": ["request"], "topic": "requests" },
+    { "word": "wear", "pos": "verb", "ipa": "/weə/", "definition": "to have clothes or shoes on your body", "meaning": "memakai (pakaian)", "examples": [{ "en": "She is wearing a blue dress today.", "id": "Dia memakai gaun biru hari ini." }], "collocations": ["wear a uniform", "wear glasses"], "related": ["clothes"], "topic": "clothes" },
+    { "word": "jacket", "pos": "noun", "ipa": "/ˈdʒækɪt/", "definition": "a short coat", "meaning": "jaket", "examples": [{ "en": "Take your jacket. It's cold outside.", "id": "Bawa jaketmu. Di luar dingin." }], "collocations": ["put on a jacket", "leather jacket"], "related": ["coat", "clothes"], "topic": "clothes" },
+    { "word": "weather", "pos": "noun", "ipa": "/ˈweðə/", "definition": "how hot, cold, sunny or rainy it is outside", "meaning": "cuaca", "examples": [{ "en": "What's the weather like today?", "id": "Bagaimana cuaca hari ini?" }], "collocations": ["good weather", "bad weather"], "related": ["sunny", "rain", "cloudy"], "topic": "weather" },
+    { "word": "sunny", "pos": "adjective", "ipa": "/ˈsʌni/", "definition": "with a lot of light from the sun", "meaning": "cerah", "examples": [{ "en": "It's sunny and hot today.", "id": "Hari ini cerah dan panas." }], "antonyms": ["cloudy"], "collocations": ["a sunny day"], "related": ["sun", "weather"], "topic": "weather" },
+    { "word": "rain", "pos": "verb/noun", "ipa": "/reɪn/", "definition": "water that falls from clouds; to fall as water from clouds", "meaning": "hujan", "examples": [{ "en": "Look! It's raining.", "id": "Lihat! Sedang hujan." }], "collocations": ["heavy rain", "in the rain"], "related": ["umbrella", "cloudy", "weather"], "topic": "weather" }
+  ],
+  "examQuestions": [
+    {
+      "id": "a1-exam-q1", "type": "single_choice", "category": "grammar", "topic": "to be",
+      "difficulty": 1, "stage": "exam",
+      "prompt": "Choose the correct sentence.",
+      "options": ["She are from Vietnam.", "She is from Vietnam.", "She from Vietnam.", "She am from Vietnam."],
+      "answer": 1,
+      "explanation": "She berpasangan dengan is: She is from Vietnam."
+    },
+    {
+      "id": "a1-exam-q2", "type": "dropdown", "category": "grammar", "topic": "to be questions",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ your sister a nurse? B: No, she ___. She's a teacher.",
+      "choices": [["Is", "Are", "Does"], ["isn't", "aren't", "doesn't"]],
+      "answers": [0, 0],
+      "explanation": "your sister (she) → Is ...? Jawaban singkat negatif: No, she isn't."
+    },
+    {
+      "id": "a1-exam-q3", "type": "fill_blank", "category": "vocabulary", "topic": "family",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Complete with one family word.",
+      "text": "Rosa is Daniel's wife. Daniel is Rosa's ___.",
+      "answers": [["husband"]],
+      "explanation": "Jika Rosa adalah istri Daniel, maka Daniel adalah suami (husband) Rosa."
+    },
+    {
+      "id": "a1-exam-q4", "type": "matching", "category": "vocabulary", "topic": "telling the time",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Match the times.",
+      "pairs": [
+        { "left": "07:30", "right": "half past seven" },
+        { "left": "09:15", "right": "quarter past nine" },
+        { "left": "10:45", "right": "quarter to eleven" },
+        { "left": "04:05", "right": "five past four" }
+      ],
+      "explanation": ":30 = half past; :15 = quarter past; :45 = quarter to (jam berikutnya); :05 = five past."
+    },
+    {
+      "id": "a1-exam-q5", "type": "drag_drop", "category": "grammar", "topic": "prepositions of time",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Drag the correct prepositions into the gaps.",
+      "text": "My birthday is ___ March. The party is ___ Saturday ___ seven o'clock.",
+      "bank": ["in", "on", "at", "to"],
+      "answers": ["in", "on", "at"],
+      "explanation": "in + bulan (in March), on + hari (on Saturday), at + jam (at seven o'clock)."
+    },
+    {
+      "id": "a1-exam-q6", "type": "single_choice", "category": "grammar", "topic": "articles",
+      "difficulty": 1, "stage": "exam",
+      "prompt": "My aunt is ___ engineer.",
+      "options": ["a", "an", "some"],
+      "answer": 1,
+      "explanation": "engineer diawali bunyi vokal, jadi memakai an. some tidak dipakai dengan pekerjaan tunggal."
+    },
+    {
+      "id": "a1-exam-q7", "type": "sentence_correction", "category": "grammar", "topic": "plurals",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Correct the sentence.",
+      "sentence": "Those childs are my students.",
+      "answers": ["Those children are my students."],
+      "explanation": "child memiliki bentuk jamak tidak beraturan: children."
+    },
+    {
+      "id": "a1-exam-q8", "type": "dropdown", "category": "grammar", "topic": "present simple",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Choose the correct verb forms.",
+      "text": "Mr. Okafor ___ at a bank. He ___ to work by bus every day.",
+      "choices": [["work", "works", "working"], ["go", "goes", "going"]],
+      "answers": [1, 1],
+      "explanation": "Mr. Okafor = he → works, goes (go + es)."
+    },
+    {
+      "id": "a1-exam-q9", "type": "word_order", "category": "grammar", "topic": "adverbs of frequency",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Put the words in the correct order.",
+      "words": ["She", "is", "always", "late", "for", "class"],
+      "explanation": "Adverb of frequency diletakkan setelah to be: She is always late for class."
+    },
+    {
+      "id": "a1-exam-q10", "type": "sentence_transformation", "category": "grammar", "topic": "present simple negative",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Make the sentence negative.",
+      "sentence": "Tom likes horror films.",
+      "cue": "Gunakan doesn't.",
+      "answers": ["Tom doesn't like horror films.", "Tom does not like horror films."],
+      "explanation": "he/she + doesn't + bentuk dasar kata kerja (like, bukan likes)."
+    },
+    {
+      "id": "a1-exam-q11", "type": "dialogue_completion", "category": "grammar", "topic": "wh- questions",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Choose the correct question.",
+      "dialogue": [
+        { "speaker": "Dina", "text": null },
+        { "speaker": "Paul", "text": "I live in Riverton, near the station." }
+      ],
+      "options": ["Where do you live?", "Where are you live?", "Where you live?", "What do you live?"],
+      "answer": 0,
+      "explanation": "Wh- question present simple: Where + do + you + live?"
+    },
+    {
+      "id": "a1-exam-q12", "type": "fill_blank", "category": "grammar", "topic": "how much how many",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Write much or many.",
+      "text": "How ___ apples do we need? And how ___ milk?",
+      "answers": [["many"], ["much"]],
+      "explanation": "apples (countable jamak) → how many; milk (uncountable) → how much."
+    },
+    {
+      "id": "a1-exam-q13", "type": "multiple_select", "category": "vocabulary", "topic": "countable and uncountable",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Which nouns are uncountable? Choose all correct answers.",
+      "options": ["water", "banana", "rice", "egg", "money", "chair"],
+      "answers": [0, 2, 4],
+      "explanation": "water, rice, dan money adalah uncountable (tidak bisa ditambah -s). banana, egg, chair bisa dihitung."
+    },
+    {
+      "id": "a1-exam-q14", "type": "error_identification", "category": "grammar", "topic": "there is there are",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Find the mistake.",
+      "segments": ["There is", "two banks", "near", "my house."],
+      "errorIndex": 0,
+      "correction": "There are",
+      "explanation": "two banks adalah jamak, jadi memakai There are."
+    },
+    {
+      "id": "a1-exam-q15", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "prepositions of place",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "In Elm Street, the shops are in this order: bank – café – library. The café is ___ the bank and the library.",
+      "options": ["between", "opposite", "under", "behind"],
+      "answer": 0,
+      "explanation": "Kafe berada di antara bank dan perpustakaan → between."
+    },
+    {
+      "id": "a1-exam-q16", "type": "translation", "category": "grammar", "topic": "can",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Translate into English.",
+      "source": "Saya bisa berenang, tetapi saya tidak bisa menyetir mobil.",
+      "direction": "id-en",
+      "answers": ["I can swim, but I can't drive a car.", "I can swim, but I cannot drive a car.", "I can swim but I can't drive a car.", "I can swim, but I can't drive.", "I can swim, but I cannot drive."],
+      "explanation": "bisa = can, tidak bisa = can't/cannot, diikuti kata kerja dasar (swim, drive)."
+    },
+    {
+      "id": "a1-exam-q17", "type": "single_choice", "category": "grammar", "topic": "object pronouns",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "This is my cousin Ana. Do you know ___?",
+      "options": ["she", "her", "hers", "his"],
+      "answer": 1,
+      "explanation": "Setelah kata kerja (know) kita memakai object pronoun. Ana perempuan → her."
+    },
+    {
+      "id": "a1-exam-q18", "type": "sentence_reconstruction", "category": "grammar", "topic": "present continuous",
+      "difficulty": 2, "stage": "exam",
+      "prompt": "Put the parts in the correct order.",
+      "fragments": ["My brother", "is watching", "a football match", "on TV right now."],
+      "explanation": "Subjek + is + verb-ing + objek + keterangan: My brother is watching a football match on TV right now."
+    },
+    {
+      "id": "a1-exam-q19", "type": "dropdown", "category": "grammar", "topic": "present simple vs continuous",
+      "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the correct verb forms.",
+      "text": "Lina usually ___ jeans, but today she ___ a dress for her cousin's party.",
+      "choices": [["wears", "is wearing", "wear"], ["wears", "is wearing", "wearing"]],
+      "answers": [0, 1],
+      "explanation": "usually → kebiasaan (present simple: wears). today → sekarang (present continuous: is wearing)."
+    },
+    {
+      "id": "a1-exam-q20", "type": "reading_comprehension", "category": "reading", "topic": "notice",
+      "difficulty": 2, "stage": "exam",
+      "context": "**Greenfield Library**\nOpen Monday to Saturday, 9 a.m. – 5 p.m.\nClosed on Sundays.\nYou can borrow three books for two weeks.",
+      "prompt": "When can you NOT visit the library?",
+      "options": ["On Saturday morning", "On Sunday", "On Monday afternoon", "On Friday at 4 p.m."],
+      "answer": 1,
+      "explanation": "Perpustakaan tutup pada hari Minggu (Closed on Sundays). Pilihan lain berada dalam jam buka."
+    },
+    {
+      "id": "a1-exam-q21", "type": "short_answer", "category": "vocabulary", "topic": "ordinal numbers",
+      "difficulty": 1, "stage": "exam",
+      "prompt": "Write the ordinal number of 'three' as a word (1 → first, 2 → second, 3 → ?).",
+      "answers": ["third"],
+      "explanation": "three → third (tidak beraturan, bukan threeth)."
+    }
+  ],
+  "placementQuestions": [
+    {
+      "id": "a1-place-q1", "type": "single_choice", "category": "grammar", "topic": "to be",
+      "difficulty": 1, "stage": "placement",
+      "prompt": "What ___ your name?",
+      "options": ["is", "are", "am", "be"],
+      "answer": 0,
+      "explanation": "your name (tunggal) → is: What is your name?"
+    },
+    {
+      "id": "a1-place-q2", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "feelings",
+      "difficulty": 1, "stage": "placement",
+      "prompt": "It's two o'clock and Toni's lunch is late today. He is very ___.",
+      "options": ["hungry", "tall", "old", "early"],
+      "answer": 0,
+      "explanation": "Makan siangnya terlambat, jadi Toni lapar (hungry)."
+    },
+    {
+      "id": "a1-place-q3", "type": "dialogue_completion", "category": "conversation", "topic": "personal information",
+      "difficulty": 1, "stage": "placement",
+      "prompt": "Choose the best answer.",
+      "dialogue": [
+        { "speaker": "Ken", "text": "Where are you from, Amina?" },
+        { "speaker": "Amina", "text": null }
+      ],
+      "options": ["I'm from Kenya.", "I'm fine, thanks.", "I'm twenty.", "I'm a teacher."],
+      "answer": 0,
+      "explanation": "Where are you from? menanyakan asal → I'm from Kenya."
+    },
+    {
+      "id": "a1-place-q4", "type": "fill_blank", "category": "vocabulary", "topic": "family",
+      "difficulty": 2, "stage": "placement",
+      "prompt": "Complete with one word.",
+      "text": "My father's brother is my ___.",
+      "answers": [["uncle"]],
+      "explanation": "Saudara laki-laki ayah = paman = uncle."
+    },
+    {
+      "id": "a1-place-q5", "type": "single_choice", "category": "grammar", "topic": "present simple",
+      "difficulty": 1, "stage": "placement",
+      "prompt": "Maria ___ to school every day.",
+      "options": ["go", "goes", "going", "is go"],
+      "answer": 1,
+      "explanation": "Maria = she, kebiasaan (every day) → present simple goes."
+    },
+    {
+      "id": "a1-place-q6", "type": "dropdown", "category": "grammar", "topic": "present simple questions",
+      "difficulty": 2, "stage": "placement",
+      "prompt": "Choose the correct words.",
+      "text": "A: ___ you like coffee? B: Yes, I ___.",
+      "choices": [["Do", "Are", "Does"], ["do", "am", "like"]],
+      "answers": [0, 0],
+      "explanation": "Pertanyaan present simple dengan you memakai Do; jawaban singkatnya Yes, I do."
+    },
+    {
+      "id": "a1-place-q7", "type": "reading_comprehension", "category": "reading", "topic": "short message",
+      "difficulty": 2, "stage": "placement",
+      "context": "Hi Sam! I'm at the beach with my family. The weather is sunny and hot. My brothers are swimming and my mum is reading a book under a tree. See you on Monday! — Dewi",
+      "prompt": "What is Dewi's mum doing?",
+      "options": ["She is swimming.", "She is reading.", "She is cooking.", "She is sleeping."],
+      "answer": 1,
+      "explanation": "Pesan Dewi: my mum is reading a book under a tree. Yang berenang adalah saudara laki-lakinya."
+    },
+    {
+      "id": "a1-place-q8", "type": "word_order", "category": "grammar", "topic": "there is there are",
+      "difficulty": 2, "stage": "placement",
+      "prompt": "Put the words in the correct order.",
+      "words": ["There", "are", "three", "bedrooms", "in", "my", "house"],
+      "acceptedAnswers": ["In my house there are three bedrooms"],
+      "explanation": "There are + jamak + tempat: There are three bedrooms in my house."
+    },
+    {
+      "id": "a1-place-q9", "type": "single_choice", "category": "grammar", "topic": "can",
+      "difficulty": 2, "stage": "placement",
+      "prompt": "A: Can you play the piano? B: No, I ___.",
+      "options": ["can't", "don't", "am not", "not can"],
+      "answer": 0,
+      "explanation": "Pertanyaan dengan Can dijawab dengan can/can't: No, I can't."
+    },
+    {
+      "id": "a1-place-q10", "type": "error_identification", "category": "grammar", "topic": "how much how many",
+      "difficulty": 3, "stage": "placement",
+      "prompt": "Find the mistake.",
+      "segments": ["How much", "apples", "do you", "want?"],
+      "errorIndex": 0,
+      "correction": "How many",
+      "explanation": "apples adalah countable noun jamak, jadi memakai How many."
+    },
+    {
+      "id": "a1-place-q11", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "weather",
+      "difficulty": 2, "stage": "placement",
+      "prompt": "Take an umbrella with you. It's ___ outside.",
+      "options": ["raining", "sunny", "hot", "dry"],
+      "answer": 0,
+      "explanation": "Kita membawa payung karena sedang hujan (raining)."
+    }
+  ]
+}

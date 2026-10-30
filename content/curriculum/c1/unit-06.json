@@ -1,0 +1,548 @@
+{
+  "slug": "c1-u06-advanced-conditionals",
+  "number": 6,
+  "title": "Beyond If",
+  "description": "Express complex and formal conditions without 'if': inverted conditionals (Had I known ..., Should you need ..., Were it not for ...), but for / if it hadn't been for, and conjunctions such as provided, on condition that and supposing. Apply them to risk, opportunity and formal agreements.",
+  "objectives": [
+    "Form inverted conditionals with had, should and were",
+    "Use but for, if it weren't / hadn't been for and without to express decisive factors",
+    "Use provided / providing, as long as, on condition that, supposing and unless accurately",
+    "Use conditional language in contracts, negotiations and formal notices"
+  ],
+  "lessons": [
+    {
+      "slug": "c1-u06-l1-inverted-had",
+      "title": "Had I Known ...: Inverted Third Conditionals",
+      "summary": "Replace 'if + past perfect' with 'Had + subject + past participle' to express past unreal conditions formally.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Form inverted third conditionals with Had",
+        "Form negative inverted conditionals with Had + subject + not",
+        "Use inverted mixed conditionals (Had I studied ..., I would be ...)"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Dropping 'if'\nIn formal English, we can omit *if* in certain conditional clauses and **invert** the subject and the auxiliary instead. The meaning is identical, but the sentence sounds more formal, literary or emphatic. The most common inverted conditional uses **had**:\n- 'If we had known about the traffic, we would have left earlier.'\n- '**Had we known** about the traffic, we would have left earlier.'\n\n### Form\n**Had + subject + (not) + past participle, + would / could / might + have + past participle**\n\n| Standard | Inverted |\n|---|---|\n| If I had seen the email, I would have replied. | **Had I seen** the email, I would have replied. |\n| If the pilot had not reacted so quickly, the plane would have crashed. | **Had the pilot not reacted** so quickly, the plane would have crashed. |\n| If the company had invested earlier, it might have survived. | **Had the company invested** earlier, it might have survived. |\n\n### Negatives: no contraction\nIn negative inverted conditionals, **not** follows the subject, and contractions are **not** used:\n- Correct: '**Had the pilot not** reacted ...'\n- Wrong: '*Hadn't the pilot reacted ...*' / '*Had not the pilot reacted ...*'\n\n(*Had not the pilot ...* is found in very old literary texts but is not used in modern English.)\n\n### Mixed conditionals\nThe inverted *had*-clause can also combine with a **present** result: '**Had I studied** medicine, I **would be** a doctor now.' (past condition → present result)\n\n### The result clause stays the same\nOnly the *if*-clause changes. The main clause keeps *would / could / might + have + past participle*. Do not invert the main clause.\n\n### Register\nInverted conditionals are typical of formal writing, speeches, reports and literature. In everyday conversation, 'If I'd known ...' is far more common. At C1 you should recognise and use both, choosing according to context. They are also very common in exam transformation tasks.\n\n### Expressing regret and criticism\nInverted third conditionals often express regret or criticism about past decisions: '**Had the council listened** to residents, the flooding could have been prevented.' This is a powerful but polite way to criticise in formal writing.\n\n### Indonesian note\nIndonesian uses *Seandainya / Kalau saja ... (sudah) ...*: *Seandainya kami tahu soal macetnya, kami pasti berangkat lebih awal*. English formal style replaces 'if' with inversion: 'Had we known ...'. Remember that the verb after *had* is a **past participle** (*known*, not *knew*).",
+        "examples": [
+          { "en": "Had we known about the traffic, we would have left earlier.", "id": "Seandainya kami tahu soal kemacetan itu, kami pasti berangkat lebih awal.", "note": "= If we had known ..." },
+          { "en": "Had the pilot not reacted so quickly, the plane would have crashed.", "id": "Seandainya pilot tidak bereaksi secepat itu, pesawat itu pasti sudah jatuh.", "note": "Negative: Had + subject + not." },
+          { "en": "Had the council listened to residents, the flooding could have been prevented.", "id": "Seandainya dewan kota mendengarkan warga, banjir itu bisa dicegah.", "note": "Formal criticism." },
+          { "en": "Had I accepted the job in Singapore, I would be living there now.", "id": "Seandainya saya menerima pekerjaan di Singapura, saya pasti sekarang tinggal di sana.", "note": "Mixed conditional: past condition, present result." }
+        ],
+        "vocabulary": [
+          { "word": "foresee", "pos": "verb", "ipa": "/fɔːˈsiː/", "meaning": "meramalkan, memperkirakan sebelumnya", "example": "Had we foreseen the risks, we would have acted differently." },
+          { "word": "hindsight", "pos": "noun", "ipa": "/ˈhaɪndsaɪt/", "meaning": "pemahaman setelah kejadian", "example": "With hindsight, the decision was a mistake." },
+          { "word": "avert", "pos": "verb", "ipa": "/əˈvɜːt/", "meaning": "mencegah, menghindarkan (bencana)", "example": "Had the warning been heeded, the disaster could have been averted." },
+          { "word": "missed opportunity", "pos": "noun phrase", "ipa": "/mɪst ˌɒpəˈtjuːnəti/", "meaning": "kesempatan yang terlewatkan", "example": "The failed merger was a missed opportunity." },
+          { "word": "heed", "pos": "verb", "ipa": "/hiːd/", "meaning": "mengindahkan, memperhatikan (nasihat)", "example": "Had they heeded the advice, they would have saved money." }
+        ],
+        "grammar": [
+          { "pattern": "Had + subject + past participle, + would/could/might have + past participle", "example": "Had she applied earlier, she would have got the job.", "note": "Inverted third conditional." },
+          { "pattern": "Had + subject + not + past participle, + ...", "example": "Had they not warned us, we would have been trapped.", "note": "No contraction in inverted negatives." },
+          { "pattern": "Had + subject + past participle, + would + base verb (now)", "example": "Had I saved more, I would own a house now.", "note": "Inverted mixed conditional." }
+        ],
+        "mistakes": [
+          { "wrong": "Had I knew about the meeting, I would have attended.", "right": "Had I known about the meeting, I would have attended.", "why": "After 'had', use the past participle ('known')." },
+          { "wrong": "Hadn't the pilot reacted quickly, the plane would have crashed.", "right": "Had the pilot not reacted quickly, the plane would have crashed.", "why": "Inverted negative conditionals do not use contractions; 'not' follows the subject." },
+          { "wrong": "Had we left earlier, would we have caught the train.", "right": "Had we left earlier, we would have caught the train.", "why": "Only the condition clause is inverted; the main clause keeps normal order." }
+        ],
+        "summary": "Replace 'If + subject + had + past participle' with 'Had + subject + past participle' for a formal third conditional. For negatives, use 'Had + subject + not + past participle' with no contraction. The main clause does not change, and mixed conditionals are possible.",
+        "reviewCards": [
+          { "front": "If I had known ... (inverted)", "back": "Had I known ..." },
+          { "front": "If they hadn't helped ... (inverted)", "back": "Had they not helped ..." },
+          { "front": "Hadn't she called ... correct?", "back": "No. Use 'Had she not called ...'." },
+          { "front": "avert", "back": "mencegah, menghindarkan (bencana)" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u06-l1-q1", "type": "single_choice", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "guided",
+          "prompt": "Complete the sentence: '___ about the traffic, we would have left earlier.'",
+          "options": ["Had we known", "If we knew", "Had we know", "We had known"],
+          "answer": 0,
+          "explanation": "An inverted third conditional uses 'Had + subject + past participle': 'Had we known ...'."
+        },
+        {
+          "id": "c1-u06-l1-q2", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence without 'if'.",
+          "sentence": "If I had seen the email, I would have replied immediately.",
+          "cue": "Begin with: Had",
+          "answers": ["Had I seen the email, I would have replied immediately."],
+          "explanation": "Replace 'If I had seen' with the inverted form 'Had I seen'. The main clause stays the same."
+        },
+        {
+          "id": "c1-u06-l1-q3", "type": "error_identification", "category": "grammar", "topic": "inverted conditionals", "difficulty": 4, "stage": "independent",
+          "prompt": "Find the part of the sentence that is incorrect in modern English.",
+          "segments": ["Had not the pilot", "reacted so quickly,", "the plane", "would have crashed."],
+          "errorIndex": 0,
+          "correction": "Had the pilot not",
+          "explanation": "In modern inverted negative conditionals, 'not' follows the subject: 'Had the pilot not reacted ...'."
+        },
+        {
+          "id": "c1-u06-l1-q4", "type": "fill_blank", "category": "grammar", "topic": "inverted conditionals", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the sentence with ONE word.",
+          "text": "___ the company invested in new technology earlier, it would not have lost so many customers.",
+          "answers": [["Had"]],
+          "explanation": "'Had + subject + past participle' replaces 'If the company had invested'."
+        },
+        {
+          "id": "c1-u06-l1-q5", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 4, "stage": "quiz",
+          "prompt": "Rewrite the sentence as an inverted conditional.",
+          "sentence": "The team didn't win the final because their captain was injured.",
+          "cue": "Begin with: Had the captain not",
+          "answers": ["Had the captain not been injured, the team would have won the final.", "Had the captain not been injured, the team might have won the final.", "Had the captain not been injured, the team could have won the final.", "Had the captain not been injured, they would have won the final.", "Had the captain not been injured, the team would have won."],
+          "explanation": "The real situation (he was injured, they didn't win) becomes an unreal past condition: 'Had the captain not been injured, the team would have won the final.'"
+        },
+        {
+          "id": "c1-u06-l1-q6", "type": "word_order", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": ["Had", "they", "not", "signed", "the", "contract", "the", "deal", "would", "have", "collapsed"],
+          "explanation": "Had + subject + not + past participle (condition), + would have + past participle (result): 'Had they not signed the contract, the deal would have collapsed.'"
+        }
+      ]
+    },
+    {
+      "slug": "c1-u06-l2-should-were",
+      "title": "Should You Need ..., Were I to ...",
+      "summary": "Use Should + subject for unlikely future conditions and Were + subject (+ to) for hypothetical conditions in formal English.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use Should + subject + base verb for polite or unlikely future conditions",
+        "Use Were + subject + to-infinitive for hypothetical future events",
+        "Use Were + subject + complement / Were it not for in second conditionals"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Should + subject: polite and unlikely conditions\n*Should* in an inverted condition means 'if by any chance'. It is extremely common in formal letters, emails, instructions and notices:\n- 'If you need any further information, please contact me.'\n- '**Should you need** any further information, please contact me.'\n\nThe main clause is often an **imperative** or uses **will**: '**Should the flight be delayed**, passengers **will** be offered a meal.'\n\nForm: **Should + subject + base verb**. Negative: '**Should you not wish** to receive further emails, click here.'\n\n### Were + subject: hypothetical conditions\nIn second conditionals with the verb *be*, we can invert *were*:\n- 'If I were in your position, I would accept.' → '**Were I** in your position, I would accept.'\n- 'If she were more experienced, she would get the job.' → '**Were she** more experienced, ...'\n\nNote that only **were** can be inverted, never *was*: '*Was I you ...*' is wrong.\n\n### Were + subject + to-infinitive\nFor hypothetical **actions** (not states), use *were + subject + to + base verb*. This often describes an unlikely or imaginary future event:\n- 'If the government raised taxes, there would be protests.' → '**Were the government to raise** taxes, there would be protests.'\n\n### Were it not for\n'**Were it not for** + noun' means 'If this thing did not exist / were not true' (present or general situation):\n- '**Were it not for** her support, I would not be here today.'\n\nIts past equivalent is '**Had it not been for** + noun' (see Lesson 3).\n\n| Conditional type | Standard | Inverted |\n|---|---|---|\n| first (possible future) | If you need help, ... | Should you need help, ... |\n| second (be) | If I were you, ... | Were I you, ... |\n| second (action) | If they cancelled the event, ... | Were they to cancel the event, ... |\n| present 'but for' | If it weren't for the river, ... | Were it not for the river, ... |\n| third | If we had known, ... | Had we known, ... |\n\n### Register and tone\n*Should you ...* sounds polite and professional, which is why it appears in customer service emails. *Were ... to* sounds formal and hypothetical, typical of political speeches and analysis: 'Were the central bank to raise interest rates, borrowing costs would rise sharply.'\n\n### Indonesian note\nIndonesian notices often say *Apabila Anda memerlukan bantuan, silakan ...*. The best formal English equivalent is '**Should you require** assistance, please ...'. Keep the base verb after *should*: 'Should you **need**', not '*Should you needed*'.",
+        "examples": [
+          { "en": "Should you need any further information, please do not hesitate to contact me.", "id": "Apabila Anda memerlukan informasi lebih lanjut, jangan ragu untuk menghubungi saya.", "note": "Polite formal email." },
+          { "en": "Should the flight be delayed, passengers will be offered a free meal.", "id": "Apabila penerbangan tertunda, penumpang akan ditawari makanan gratis.", "note": "Unlikely future event; passive." },
+          { "en": "Were the government to raise taxes, there would be widespread protests.", "id": "Seandainya pemerintah menaikkan pajak, akan terjadi protes besar-besaran.", "note": "Hypothetical action." },
+          { "en": "Were it not for her support, I would not be where I am today.", "id": "Kalau bukan karena dukungannya, saya tidak akan berada di posisi saya sekarang.", "note": "Present/general 'but for'." }
+        ],
+        "vocabulary": [
+          { "word": "hesitate", "pos": "verb", "ipa": "/ˈhezɪteɪt/", "meaning": "ragu-ragu", "example": "Should you have any questions, do not hesitate to ask." },
+          { "word": "require", "pos": "verb", "ipa": "/rɪˈkwaɪə(r)/", "meaning": "membutuhkan, memerlukan (formal)", "example": "Should you require assistance, call reception." },
+          { "word": "unforeseen", "pos": "adjective", "ipa": "/ˌʌnfɔːˈsiːn/", "meaning": "tak terduga", "example": "Should unforeseen circumstances arise, the event will be postponed." },
+          { "word": "collapse", "pos": "verb / noun", "ipa": "/kəˈlæps/", "meaning": "runtuh, ambruk; keruntuhan", "example": "Were the bank to collapse, millions would lose their savings." },
+          { "word": "contingency plan", "pos": "noun phrase", "ipa": "/kənˈtɪndʒənsi plæn/", "meaning": "rencana cadangan / darurat", "example": "Should the server fail, we have a contingency plan." }
+        ],
+        "grammar": [
+          { "pattern": "Should + subject + base verb, + imperative / will", "example": "Should you lose your card, call this number immediately.", "note": "Formal first conditional." },
+          { "pattern": "Were + subject + complement, + would + base verb", "example": "Were I in charge, I would change the schedule.", "note": "Formal second conditional with 'be'." },
+          { "pattern": "Were + subject + to + base verb, + would + base verb", "example": "Were the factory to close, the town would suffer.", "note": "Hypothetical action." },
+          { "pattern": "Were it not for + noun, + would + base verb", "example": "Were it not for tourism, the island would be poor.", "note": "= If it weren't for ..." }
+        ],
+        "mistakes": [
+          { "wrong": "Was I in your position, I would accept the offer.", "right": "Were I in your position, I would accept the offer.", "why": "Only 'were' can be inverted in second conditionals." },
+          { "wrong": "Should you needed help, call me.", "right": "Should you need help, call me.", "why": "'Should' is followed by the base form." },
+          { "wrong": "Were the government raise taxes, people would protest.", "right": "Were the government to raise taxes, people would protest.", "why": "With an action verb, use 'Were + subject + to + base verb'." }
+        ],
+        "summary": "Use 'Should + subject + base verb' for formal, polite or unlikely future conditions (Should you need help, ...). Use 'Were + subject' for hypothetical states (Were I you, ...), 'Were + subject + to + verb' for hypothetical actions, and 'Were it not for + noun' for present 'but for' meanings.",
+        "reviewCards": [
+          { "front": "If you need help, ... (formal inversion)", "back": "Should you need help, ..." },
+          { "front": "If I were you, ... (inverted)", "back": "Were I you, ..." },
+          { "front": "If they closed the factory, ... (inverted)", "back": "Were they to close the factory, ..." },
+          { "front": "Was I ... (inverted conditional) correct?", "back": "No. Only 'Were I ...'." }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u06-l2-q1", "type": "dropdown", "category": "grammar", "topic": "inverted conditionals", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct word for this formal email.",
+          "text": "___ you need any further information, please do not hesitate to contact me.",
+          "choices": [["Should", "Would", "Had"]],
+          "answers": [0],
+          "explanation": "'Should + subject + base verb' is the formal inverted first conditional: 'Should you need ...'."
+        },
+        {
+          "id": "c1-u06-l2-q2", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence in a more formal style.",
+          "sentence": "If you have any questions, please contact our customer service team.",
+          "cue": "Begin with: Should",
+          "answers": ["Should you have any questions, please contact our customer service team."],
+          "explanation": "'If you have' becomes 'Should you have' (should + subject + base verb)."
+        },
+        {
+          "id": "c1-u06-l2-q3", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 4, "stage": "independent",
+          "prompt": "Rewrite the sentence without 'if'.",
+          "sentence": "If the government were to raise taxes, there would be protests.",
+          "cue": "Begin with: Were",
+          "answers": ["Were the government to raise taxes, there would be protests."],
+          "explanation": "'If the government were to raise' becomes 'Were the government to raise'."
+        },
+        {
+          "id": "c1-u06-l2-q4", "type": "error_identification", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Was I", "in your position,", "I would accept", "the offer without hesitation."],
+          "errorIndex": 0,
+          "correction": "Were I",
+          "explanation": "In inverted second conditionals, only 'were' is used, for all persons: 'Were I in your position ...'."
+        },
+        {
+          "id": "c1-u06-l2-q5", "type": "matching", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Match the conditional clauses with the most suitable main clauses.",
+          "pairs": [
+            { "left": "Should the flight be delayed,", "right": "passengers will be offered free meals." },
+            { "left": "Were it not for her support,", "right": "I would not be here today." },
+            { "left": "Had the alarm gone off,", "right": "we would not have missed the train." },
+            { "left": "Were the company to collapse,", "right": "thousands of jobs would be lost." }
+          ],
+          "explanation": "Should → will/imperative (possible future); Were it not for → would + base verb (present); Had → would have + past participle (past); Were ... to → would + base verb (hypothetical future)."
+        },
+        {
+          "id": "c1-u06-l2-q6", "type": "translation", "category": "writing", "topic": "inverted conditionals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate this hotel notice into formal English. Begin with 'Should'.",
+          "source": "Jika Anda memerlukan bantuan, silakan hubungi resepsionis.",
+          "direction": "id-en",
+          "answers": ["Should you need any help, please contact reception.", "Should you need help, please contact reception.", "Should you need assistance, please contact reception.", "Should you need any assistance, please contact reception.", "Should you require assistance, please contact reception.", "Should you require any assistance, please contact reception.", "Should you need any help, please contact the receptionist.", "Should you need help, please contact the receptionist.", "Should you need assistance, please contact the receptionist.", "Should you need any assistance, please contact the receptionist.", "Should you require assistance, please contact the receptionist.", "Should you require any assistance, please contact the receptionist.", "Should you need any help, please contact the reception desk.", "Should you need help, please contact the reception desk.", "Should you need assistance, please contact the reception desk.", "Should you need any assistance, please contact the reception desk.", "Should you require assistance, please contact the reception desk.", "Should you require any assistance, please contact the reception desk."],
+          "explanation": "'Jika Anda memerlukan' becomes the formal inverted condition 'Should you need/require'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u06-l3-but-for",
+      "title": "But For ...: If It Hadn't Been For",
+      "summary": "Express that one factor made a decisive difference using but for, if it weren't / hadn't been for, had it not been for and without.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Use but for + noun with present and past results",
+        "Use if it weren't for / if it hadn't been for + noun",
+        "Choose between present and past forms according to time"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The decisive factor\nSometimes we want to say that **one person, thing or event** made all the difference: without it, the situation would be (or would have been) completely different. English has several structures for this.\n\n### If it weren't for / If it hadn't been for\n- **Present / general**: '**If it weren't for** the internet, many people **couldn't** work from home.' (The internet exists now.)\n- **Past**: '**If it hadn't been for** the rain, the match **would have finished** on time.' (It rained in the past.)\n\nThe formal inverted versions are **Were it not for** (present) and **Had it not been for** (past).\n\n### But for + noun\n*But for* is a formal and concise alternative. It is followed by a **noun phrase**, not a clause, and can refer to the present or the past depending on the main clause:\n- '**But for** the doctor's quick action, the patient **would have died**.' (past)\n- '**But for** the subsidies, the farm **would not survive**.' (present)\n\n| Time | Informal / neutral | Formal |\n|---|---|---|\n| present | If it weren't for X, ... would ... | Were it not for X / But for X, ... would ... |\n| past | If it hadn't been for X, ... would have ... | Had it not been for X / But for X, ... would have ... |\n\n### Without\n*Without + noun* is the most neutral option and works in both time frames: '**Without** her help, I **wouldn't have passed**.'\n\n### Common mistakes\n1. Using a clause after *but for*: '*But for you helped me ...*' is wrong. Use a noun: 'But for **your help**, ...' or 'But for **you**, ...'.\n2. Mixing time frames incorrectly: 'If it hadn't been for the rain, the match **would finish** on time' is wrong for a past event.\n3. Confusing *but for* with *except for*: 'Everyone came **except for** Rudi' (= apart from), not '*but for Rudi*' in this meaning in modern English.\n\n### Using these structures in writing\nThese forms are excellent for **acknowledging contributions** (in speeches, thank-you notes and acknowledgements in theses) and for **analysing causes** in essays:\n- 'Had it not been for the generous support of my supervisor, this thesis would never have been completed.'\n- 'But for the discovery of oil, the region would have remained largely agricultural.'\n\n### Indonesian note\n*Kalau bukan karena ...* is the closest equivalent: *Kalau bukan karena hujan, pertandingan itu akan selesai tepat waktu* → 'If it hadn't been for the rain / But for the rain, the match would have finished on time.'",
+        "examples": [
+          { "en": "But for the doctor's quick action, the patient would have died.", "id": "Kalau bukan karena tindakan cepat dokter itu, pasien itu pasti sudah meninggal.", "note": "Past result." },
+          { "en": "If it weren't for the internet, many people couldn't work from home.", "id": "Kalau bukan karena internet, banyak orang tidak bisa bekerja dari rumah.", "note": "Present situation." },
+          { "en": "Had it not been for the volunteers, the festival would have been cancelled.", "id": "Kalau bukan karena para relawan, festival itu pasti dibatalkan.", "note": "Formal past." },
+          { "en": "Without her encouragement, I would never have applied for the scholarship.", "id": "Tanpa dorongan darinya, saya tidak akan pernah mendaftar beasiswa itu.", "note": "Neutral alternative." }
+        ],
+        "vocabulary": [
+          { "word": "decisive", "pos": "adjective", "ipa": "/dɪˈsaɪsɪv/", "meaning": "menentukan", "example": "Her intervention was decisive." },
+          { "word": "subsidy", "pos": "noun", "ipa": "/ˈsʌbsədi/", "meaning": "subsidi", "example": "But for government subsidies, many farms would close." },
+          { "word": "intervention", "pos": "noun", "ipa": "/ˌɪntəˈvenʃn/", "meaning": "campur tangan, intervensi", "example": "Without timely intervention, the crisis would have spread." },
+          { "word": "lifeline", "pos": "noun", "ipa": "/ˈlaɪflaɪn/", "meaning": "penyelamat, tumpuan hidup", "example": "The loan was a lifeline for the small business." },
+          { "word": "go under", "pos": "phrasal verb", "ipa": "/ɡəʊ ˈʌndə(r)/", "meaning": "bangkrut, gulung tikar", "example": "If it hadn't been for the loan, the café would have gone under." }
+        ],
+        "grammar": [
+          { "pattern": "But for + noun phrase, + would (have) ...", "example": "But for the map, we would have got lost.", "note": "Formal; noun phrase only." },
+          { "pattern": "If it weren't for / Were it not for + noun, + would + base verb", "example": "If it weren't for my sister, I'd be lonely.", "note": "Present or general." },
+          { "pattern": "If it hadn't been for / Had it not been for + noun, + would have + past participle", "example": "Had it not been for the storm, we would have arrived on time.", "note": "Past." }
+        ],
+        "mistakes": [
+          { "wrong": "But for you helped me, I would have failed.", "right": "But for your help, I would have failed.", "why": "'But for' is followed by a noun phrase, not a clause." },
+          { "wrong": "If it hadn't been for the rain, the match would finish on time.", "right": "If it hadn't been for the rain, the match would have finished on time.", "why": "A past condition normally needs a past result: would have + past participle." },
+          { "wrong": "If it wasn't been for the volunteers, ...", "right": "If it hadn't been for the volunteers, ...", "why": "The past form is 'if it hadn't been for'." }
+        ],
+        "summary": "To show that something made a decisive difference, use but for + noun, if it weren't for / were it not for (present) and if it hadn't been for / had it not been for (past), or without + noun. Match the main clause to the time: would + base verb (present) or would have + past participle (past).",
+        "reviewCards": [
+          { "front": "Kalau bukan karena hujan, ... (past, formal)", "back": "But for the rain / Had it not been for the rain, ... would have ..." },
+          { "front": "But for + clause?", "back": "No. But for + noun phrase only." },
+          { "front": "Present version of 'if it hadn't been for'", "back": "if it weren't for / were it not for" },
+          { "front": "go under", "back": "bangkrut, gulung tikar" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u06-l3-q1", "type": "single_choice", "category": "grammar", "topic": "but for", "difficulty": 2, "stage": "guided",
+          "prompt": "Complete the sentence: 'But for the doctor's quick action last night, the patient ___.'",
+          "options": ["would have died", "will die", "had died", "would die tomorrow"],
+          "answer": 0,
+          "explanation": "The situation is in the past ('last night'), so the result is 'would have + past participle'."
+        },
+        {
+          "id": "c1-u06-l3-q2", "type": "sentence_transformation", "category": "grammar", "topic": "but for", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "If it hadn't been for the rain, the match would have finished on time.",
+          "cue": "Begin with: But for",
+          "answers": ["But for the rain, the match would have finished on time."],
+          "explanation": "'If it hadn't been for the rain' becomes 'But for the rain'; the main clause stays the same."
+        },
+        {
+          "id": "c1-u06-l3-q3", "type": "multiple_select", "category": "grammar", "topic": "but for", "difficulty": 3, "stage": "independent",
+          "prompt": "Which sentences mean 'Her help made it possible for me to pass'? Select ALL that apply.",
+          "options": ["But for her help, I wouldn't have passed.", "If it hadn't been for her help, I wouldn't have passed.", "Without her help, I wouldn't have passed.", "Despite her help, I didn't pass.", "Had she not helped me, I would have passed."],
+          "answers": [0, 1, 2],
+          "explanation": "Options 1–3 all say that her help was decisive. Option 4 says I failed, and option 5 says her help prevented me from passing."
+        },
+        {
+          "id": "c1-u06-l3-q4", "type": "dropdown", "category": "grammar", "topic": "but for", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the correct options.",
+          "text": "If it ___ for the internet, many people today ___ unable to work from home.",
+          "choices": [["weren't", "isn't", "wasn't being"], ["would be", "would have been", "will be"]],
+          "answers": [0, 0],
+          "explanation": "This is a present, general situation, so we use 'If it weren't for ... would be'."
+        },
+        {
+          "id": "c1-u06-l3-q5", "type": "sentence_correction", "category": "grammar", "topic": "but for", "difficulty": 3, "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "But for you helped me, I would have failed the exam.",
+          "answers": ["But for your help, I would have failed the exam.", "But for you, I would have failed the exam.", "If you hadn't helped me, I would have failed the exam.", "If it hadn't been for your help, I would have failed the exam.", "Had you not helped me, I would have failed the exam.", "Without your help, I would have failed the exam.", "Had it not been for your help, I would have failed the exam."],
+          "explanation": "'But for' must be followed by a noun phrase ('your help' or 'you'). Alternatively, use a full conditional clause."
+        },
+        {
+          "id": "c1-u06-l3-q6", "type": "fill_blank", "category": "grammar", "topic": "but for", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence.",
+          "text": "If it ___ been ___ the volunteers, the festival would have been cancelled.",
+          "answers": [["hadn't", "had not"], ["for"]],
+          "explanation": "The past form of the structure is 'If it hadn't been for + noun'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u06-l4-provided-supposing",
+      "title": "Provided, On Condition That, Supposing",
+      "summary": "Express conditions precisely with provided / providing (that), as long as, on condition that, unless, supposing, assuming, in case and even if.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Use provided / providing (that), as long as and on condition that to state strict conditions",
+        "Use supposing / suppose and assuming to discuss imaginary situations",
+        "Distinguish unless, in case and even if from if"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### Conditions with stronger meanings than 'if'\nEnglish has many conjunctions that express conditions more precisely than *if*.\n\n| Conjunction | Meaning | Example |\n|---|---|---|\n| provided / providing (that) | only if (a requirement) | You can borrow the car **provided that** you return it by six. |\n| as long as / so long as | only if (less formal) | **As long as** you're careful, you can use my camera. |\n| on condition that | only if (very formal, often in agreements) | The loan was approved **on condition that** it was repaid within a year. |\n| unless | if ... not / except if | **Unless** you hurry, you'll miss the bus. |\n| supposing / suppose | imagine that ... | **Supposing** you lost your job, what would you do? |\n| assuming (that) | if we accept that ... is true | **Assuming** the train is on time, we'll arrive at noon. |\n| in case | as a precaution (NOT a condition) | Take an umbrella **in case** it rains. |\n| even if | it doesn't matter whether ... | I'll go **even if** it rains. |\n\n### Tense after conditional conjunctions\nLike *if*, these conjunctions are followed by a **present tense** when referring to the future, not *will*:\n- Correct: 'Provided the weather **is** good, the ceremony will be held outdoors.'\n- Wrong: '*Provided the weather will be good ...*'\n\n*Supposing* and *suppose* can be followed by a present tense (real possibility) or a past tense (hypothetical): 'Supposing it **rains**, what will we do?' / 'Supposing you **won** the lottery, what would you do?'\n\n### Unless: no double negative\n*Unless* already contains a negative meaning (= if ... not), so it is normally followed by a positive verb:\n- Correct: '**Unless** you hurry, you'll miss the bus.'\n- Wrong: '*Unless you don't hurry ...*'\n\n### In case is not if\n*In case* describes a precaution taken **before** something might happen. Compare:\n- 'Take an umbrella **in case** it rains.' (Take it now, because it might rain.)\n- 'Take an umbrella **if** it rains.' (Only take it when it is raining.)\n\n### Register\n*On condition that* and *provided that* are typical of formal agreements and official documents. *As long as* is common in conversation. *Supposing* is useful for exploring hypothetical scenarios in discussions and negotiations.\n\n### Indonesian note\n*Asalkan* = provided / as long as; *dengan syarat* = on condition that; *kecuali jika* = unless; *misalkan / andaikan* = supposing; *untuk berjaga-jaga kalau* = in case; *meskipun* (in conditions) = even if.",
+        "examples": [
+          { "en": "You can borrow my car provided that you return it by six o'clock.", "id": "Kamu boleh meminjam mobilku asalkan kamu mengembalikannya sebelum jam enam.", "note": "Strict requirement." },
+          { "en": "The loan was approved on condition that it was repaid within a year.", "id": "Pinjaman itu disetujui dengan syarat dilunasi dalam satu tahun.", "note": "Formal agreement." },
+          { "en": "Supposing you won the lottery, what would you do first?", "id": "Andaikan kamu menang lotre, apa yang akan kamu lakukan pertama kali?", "note": "Hypothetical." },
+          { "en": "Take a power bank in case your phone runs out of battery.", "id": "Bawalah power bank untuk berjaga-jaga kalau baterai ponselmu habis.", "note": "Precaution, not condition." }
+        ],
+        "vocabulary": [
+          { "word": "stipulate", "pos": "verb", "ipa": "/ˈstɪpjuleɪt/", "meaning": "menetapkan (sebagai syarat)", "example": "The contract stipulates that payment must be made in advance." },
+          { "word": "precaution", "pos": "noun", "ipa": "/prɪˈkɔːʃn/", "meaning": "tindakan pencegahan", "example": "We backed up the files as a precaution." },
+          { "word": "prerequisite", "pos": "noun", "ipa": "/ˌpriːˈrekwəzɪt/", "meaning": "prasyarat", "example": "A degree is a prerequisite for the job." },
+          { "word": "scenario", "pos": "noun", "ipa": "/səˈnɑːriəʊ/", "meaning": "skenario, kemungkinan situasi", "example": "Supposing the worst-case scenario happens, what is our plan?" },
+          { "word": "approve", "pos": "verb", "ipa": "/əˈpruːv/", "meaning": "menyetujui", "example": "The board approved the plan on condition that costs were cut." }
+        ],
+        "grammar": [
+          { "pattern": "Provided / Providing (that) / As long as + present, + will / can ...", "example": "As long as you finish your work, you can leave early.", "note": "Present tense for future reference." },
+          { "pattern": "... on condition that + clause", "example": "He agreed on condition that his name was not published.", "note": "Formal; often in agreements." },
+          { "pattern": "Supposing / Suppose + past, + would ...?", "example": "Suppose the bank refused the loan, what would you do?", "note": "Hypothetical scenario." },
+          { "pattern": "Unless + positive verb", "example": "Unless we act now, it will be too late.", "note": "= If we don't act now ..." }
+        ],
+        "mistakes": [
+          { "wrong": "Unless you don't hurry, you'll miss the bus.", "right": "Unless you hurry, you'll miss the bus.", "why": "'Unless' already means 'if not'; do not add another negative." },
+          { "wrong": "Providing that the weather will be good, we'll eat outside.", "right": "Providing that the weather is good, we'll eat outside.", "why": "Use the present tense after conditional conjunctions for future meaning." },
+          { "wrong": "Take an umbrella if it rains later.", "right": "Take an umbrella in case it rains later.", "why": "For a precaution taken now, use 'in case', not 'if'." }
+        ],
+        "summary": "Use provided/providing (that), as long as and on condition that for strict requirements; unless for 'if not'; supposing/assuming for imagined or assumed situations; in case for precautions; and even if when the condition doesn't matter. Use present tenses for future meaning.",
+        "reviewCards": [
+          { "front": "asalkan", "back": "provided (that) / as long as" },
+          { "front": "dengan syarat", "back": "on condition that" },
+          { "front": "Unless you don't ... correct?", "back": "No. 'Unless' + positive verb." },
+          { "front": "in case vs if", "back": "in case = precaution taken now; if = condition" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u06-l4-q1", "type": "dropdown", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 2, "stage": "guided",
+          "prompt": "Choose the correct conjunction.",
+          "text": "You can borrow my car ___ you return it by six o'clock.",
+          "choices": [["provided that", "unless", "in case"]],
+          "answers": [0],
+          "explanation": "'Provided that' introduces a requirement: you can borrow it only if you return it by six."
+        },
+        {
+          "id": "c1-u06-l4-q2", "type": "drag_drop", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "independent",
+          "prompt": "Drag the correct conjunctions into the gaps.",
+          "text": "___ you won the lottery, what would you do first? I'll lend you the money ___ you pay me back next month. Take an umbrella ___ it rains this afternoon.",
+          "bank": ["Supposing", "as long as", "in case", "unless", "even though"],
+          "answers": ["Supposing", "as long as", "in case"],
+          "explanation": "'Supposing' introduces a hypothetical situation; 'as long as' states a requirement; 'in case' expresses a precaution."
+        },
+        {
+          "id": "c1-u06-l4-q3", "type": "sentence_transformation", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using 'on condition that'.",
+          "sentence": "You can join the trip, but only if you get your parents' permission.",
+          "cue": "Use: on condition that",
+          "answers": ["You can join the trip on condition that you get your parents' permission.", "You can join the trip on condition that you get permission from your parents.", "You can join the trip on condition that you have your parents' permission.", "You can join the trip on condition that you obtain your parents' permission.", "On condition that you get your parents' permission, you can join the trip."],
+          "explanation": "'On condition that' expresses a strict requirement and replaces 'but only if'."
+        },
+        {
+          "id": "c1-u06-l4-q4", "type": "single_choice", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence is correct?",
+          "options": ["Unless you don't hurry, you'll miss the bus.", "Unless you hurry, you'll miss the bus.", "Provided you won't be late, you can come.", "Supposing it will rain, what will we do?"],
+          "answer": 1,
+          "explanation": "'Unless' is followed by a positive verb. Options 3 and 4 wrongly use 'will' after a conditional conjunction."
+        },
+        {
+          "id": "c1-u06-l4-q5", "type": "error_identification", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Providing that", "the weather will be good,", "the ceremony", "will take place outdoors."],
+          "errorIndex": 1,
+          "correction": "the weather is good",
+          "explanation": "After conditional conjunctions such as 'providing that', use the present tense to refer to the future."
+        },
+        {
+          "id": "c1-u06-l4-q6", "type": "translation", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Translate into English using 'provided' and 'come home'.",
+          "source": "Kamu boleh pergi asalkan kamu pulang sebelum tengah malam.",
+          "direction": "id-en",
+          "answers": ["You can go provided that you come home before midnight.", "You can go provided you come home before midnight.", "You may go provided that you come home before midnight.", "You may go provided you come home before midnight.", "You can go out provided that you come home before midnight.", "You can go out provided you come home before midnight.", "You may go out provided that you come home before midnight.", "You may go out provided you come home before midnight."],
+          "explanation": "'Asalkan' = 'provided (that)', followed by the present simple for a future condition."
+        }
+      ]
+    },
+    {
+      "slug": "c1-u06-l5-formal-agreements",
+      "title": "In the Event of ...: Conditions in Formal Agreements",
+      "summary": "Use the conditional language of contracts, policies and negotiations: in the event of, subject to, contingent on, failing which and otherwise.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Understand and use formal conditional phrases such as in the event of and subject to",
+        "Use vocabulary of risk and opportunity in business contexts",
+        "Negotiate conditions politely and precisely"
+      ],
+      "completionCriteria": "Read all sections and score at least 70% on the mini quiz.",
+      "sections": {
+        "explanation": "### The language of contracts\nContracts, terms and conditions, insurance policies and official notices use a special set of **formal conditional expressions**. Understanding them is essential for professional life.\n\n| Expression | Meaning | Example |\n|---|---|---|\n| in the event of + noun | if X happens | **In the event of** a fire, do not use the lifts. |\n| in the event that + clause | if (formal) | **In the event that** the goods are damaged, ... |\n| subject to + noun | depending on (approval, conditions) | The offer is **subject to** board approval. |\n| contingent on / upon | depending on something happening first | The deal is **contingent on** financing. |\n| failing which / otherwise | if this does not happen | Pay within 30 days, **failing which** a fee will be charged. |\n| on the understanding that | on the condition (assumed by both sides) | We agreed **on the understanding that** costs would be shared. |\n| in the absence of + noun | if there is no ... | **In the absence of** a signature, the form is invalid. |\n\n### Risk and opportunity vocabulary\n- *liability* = legal responsibility for damage or loss\n- *breach (of contract)* = breaking the terms of an agreement\n- *penalty* = a punishment, often financial\n- *waive* = officially give up a right or requirement ('The bank agreed to **waive** the fee.')\n- *safeguard* = a protection against risk\n- *window of opportunity* = a short period when something is possible\n\n### Combining with inverted conditionals\nFormal documents often combine these expressions with the inverted forms from earlier lessons: '**Should** either party **fail** to meet its obligations, the agreement may be terminated. **In the event of** a dispute, the matter will be referred to arbitration.'\n\n### Negotiating conditions\nIn spoken negotiations, conditions are usually softened:\n- 'We **could** offer a 10% discount, **provided that** you sign a two-year contract.'\n- 'We'd be willing to agree **on condition that** delivery is guaranteed.'\n- '**Supposing** we increased the order, **would** you be able to lower the price?'\n- '**As long as** quality is maintained, we're happy to proceed.'\n\nUsing *would* and *could* makes the proposal sound open rather than demanding.\n\n### Reading terms and conditions\nWhen reading formal conditions, identify three things: **the trigger** (in the event of ...), **the obligation** (must / shall / will) and **the consequence** (failing which / otherwise). This approach helps you understand even very long contractual sentences.\n\n### Indonesian note\nIndonesian contracts use *dalam hal terjadi* (in the event of), *dengan ketentuan* (subject to / provided that), *apabila tidak* (failing which / otherwise) and *tergantung pada* (contingent on).",
+        "examples": [
+          { "en": "In the event of a fire, do not use the lifts.", "id": "Jika terjadi kebakaran, jangan gunakan lift.", "note": "Formal notice." },
+          { "en": "The offer is subject to approval by the board of directors.", "id": "Penawaran ini tergantung pada persetujuan dewan direksi.", "note": "subject to + noun." },
+          { "en": "Payment must be made within 30 days, failing which a late fee will be charged.", "id": "Pembayaran harus dilakukan dalam 30 hari; apabila tidak, akan dikenakan denda keterlambatan.", "note": "Consequence of not meeting the condition." },
+          { "en": "We could offer a 10% discount, provided that you sign a two-year contract.", "id": "Kami bisa menawarkan diskon 10%, asalkan Anda menandatangani kontrak dua tahun.", "note": "Softened negotiation." }
+        ],
+        "vocabulary": [
+          { "word": "liability", "pos": "noun", "ipa": "/ˌlaɪəˈbɪləti/", "meaning": "tanggung jawab hukum (atas kerugian)", "example": "The company accepts no liability for lost items." },
+          { "word": "breach", "pos": "noun / verb", "ipa": "/briːtʃ/", "meaning": "pelanggaran; melanggar", "example": "Late delivery is a breach of contract." },
+          { "word": "waive", "pos": "verb", "ipa": "/weɪv/", "meaning": "mengesampingkan / membebaskan (hak, biaya)", "example": "The bank agreed to waive the annual fee." },
+          { "word": "contingent", "pos": "adjective", "ipa": "/kənˈtɪndʒənt/", "meaning": "bergantung (pada)", "example": "The deal is contingent on government approval." },
+          { "word": "terminate", "pos": "verb", "ipa": "/ˈtɜːmɪneɪt/", "meaning": "mengakhiri, memutuskan (kontrak)", "example": "Either party may terminate the agreement with 30 days' notice." },
+          { "word": "safeguard", "pos": "noun / verb", "ipa": "/ˈseɪfɡɑːd/", "meaning": "pengaman; melindungi", "example": "The clause is a safeguard against price rises." }
+        ],
+        "grammar": [
+          { "pattern": "In the event of + noun / In the event that + clause", "example": "In the event that the event is cancelled, tickets will be refunded.", "note": "Formal 'if'." },
+          { "pattern": "be subject to / contingent on + noun", "example": "All prices are subject to change.", "note": "Depending on." },
+          { "pattern": "..., failing which / otherwise + consequence", "example": "Reply by Friday; otherwise, your place will be offered to another candidate.", "note": "Consequence of not meeting a condition." }
+        ],
+        "mistakes": [
+          { "wrong": "In the event of the flight is cancelled, ...", "right": "In the event that the flight is cancelled, ... / In the event of a cancellation, ...", "why": "'In the event of' is followed by a noun; use 'in the event that' before a clause." },
+          { "wrong": "The offer is subject of approval.", "right": "The offer is subject to approval.", "why": "The fixed phrase is 'subject to'." },
+          { "wrong": "The deal is contingent of financing.", "right": "The deal is contingent on financing.", "why": "'Contingent' is followed by 'on' or 'upon'." }
+        ],
+        "summary": "Formal agreements use in the event of (+ noun) / in the event that (+ clause), subject to, contingent on, on the understanding that, failing which and otherwise. In negotiations, soften conditions with would/could and provided that, on condition that or supposing.",
+        "reviewCards": [
+          { "front": "dalam hal terjadi ...", "back": "in the event of + noun" },
+          { "front": "subject ___ approval", "back": "to" },
+          { "front": "waive", "back": "mengesampingkan / membebaskan (hak, biaya)" },
+          { "front": "breach of contract", "back": "pelanggaran kontrak" }
+        ]
+      },
+      "questions": [
+        {
+          "id": "c1-u06-l5-q1", "type": "matching", "category": "business", "topic": "formal agreements", "difficulty": 3, "stage": "guided",
+          "prompt": "Match each formal expression with its meaning.",
+          "pairs": [
+            { "left": "in the event of", "right": "if a particular situation happens" },
+            { "left": "subject to", "right": "depending on approval or certain conditions" },
+            { "left": "contingent on", "right": "depending on something happening first" },
+            { "left": "failing which", "right": "and if this does not happen" },
+            { "left": "waive", "right": "officially give up a right or requirement" }
+          ],
+          "explanation": "These expressions frequently appear in contracts, policies and formal notices."
+        },
+        {
+          "id": "c1-u06-l5-q2", "type": "sentence_transformation", "category": "business", "topic": "formal agreements", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the instruction as a formal notice.",
+          "sentence": "If there is a fire, do not use the lifts.",
+          "cue": "Begin with: In the event of",
+          "answers": ["In the event of a fire, do not use the lifts.", "In the event of fire, do not use the lifts.", "In the event of a fire, the lifts must not be used.", "In the event of fire, the lifts must not be used.", "In the event of a fire, do not use the lift."],
+          "explanation": "'In the event of' is followed by a noun phrase: 'In the event of a fire, ...'."
+        },
+        {
+          "id": "c1-u06-l5-q3", "type": "speaking_response", "category": "business", "topic": "negotiating conditions", "difficulty": 4, "stage": "independent",
+          "prompt": "You are a supplier negotiating with a large hotel chain. They want a 15% discount. You can offer 10% if they sign a two-year contract and pay within 30 days. Explain your conditions politely and mention what happens if a payment is late. Speak for about one minute.",
+          "targetPhrases": ["provided that", "on condition that", "Should", "in the event of", "subject to", "failing which"],
+          "sampleAnswer": "Thank you for your proposal. We understand that price is important to you. We could offer a ten per cent discount, provided that you sign a two-year contract. The discount would also be subject to payment within thirty days. Should any payment be late, the standard price would apply to that order. In the event of a larger order, we would be happy to review the discount. Supposing we agreed on these terms today, could you confirm the first order by Friday?",
+          "explanation": "A strong answer softens proposals with could/would, states conditions precisely with provided that / subject to, and explains the consequence of not meeting them."
+        },
+        {
+          "id": "c1-u06-l5-q4", "type": "contextual_vocabulary", "category": "business", "topic": "formal agreements", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the meaning of the phrase in bold.",
+          "context": "The job offer is **subject to** satisfactory references and a medical check.",
+          "options": ["depends on", "has already received", "is opposed to", "is a replacement for"],
+          "answer": 0,
+          "explanation": "'Subject to' means that something will only happen if certain conditions are met."
+        },
+        {
+          "id": "c1-u06-l5-q5", "type": "dialogue_completion", "category": "business", "topic": "negotiating conditions", "difficulty": 3, "stage": "quiz",
+          "prompt": "Choose the best response to complete the negotiation.",
+          "dialogue": [
+            { "speaker": "Buyer", "text": "We'd be willing to place a larger order. Can you offer us a discount?" },
+            { "speaker": "Supplier", "text": null },
+            { "speaker": "Buyer", "text": "That sounds reasonable. Let's put it in writing." }
+          ],
+          "options": ["We could offer 10%, provided that you sign a two-year contract.", "We could offer 10%, unless you sign a two-year contract.", "We could offer 10%, in case you sign a two-year contract.", "We could offer 10%, although you sign a two-year contract."],
+          "answer": 0,
+          "explanation": "'Provided that' introduces the condition for the discount. 'Unless', 'in case' and 'although' give illogical meanings."
+        },
+        {
+          "id": "c1-u06-l5-q6", "type": "fill_blank", "category": "business", "topic": "formal agreements", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the contract clause with an expression meaning 'and if this does not happen'.",
+          "text": "Payment must be made within 30 days, ___ a late fee of 5% will be charged.",
+          "answers": [["failing which", "otherwise", "or else"]],
+          "explanation": "'Failing which' and 'otherwise' introduce the consequence of not meeting a condition; 'failing which' is the most formal."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "c1-u06-t-q1", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Rewrite the sentence in a more formal style.",
+      "sentence": "If you require further assistance, call our helpline.",
+      "cue": "Begin with: Should",
+      "answers": ["Should you require further assistance, call our helpline.", "Should you require further assistance, please call our helpline."],
+      "explanation": "'If you require' becomes 'Should you require'."
+    },
+    {
+      "id": "c1-u06-t-q2", "type": "dropdown", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Choose the correct word.",
+      "text": "___ it not for the generous donation, the library would have to close.",
+      "choices": [["Were", "Had", "Should"]],
+      "answers": [0],
+      "explanation": "'Would have to close' refers to the present, so the formal present form 'Were it not for' is required."
+    },
+    {
+      "id": "c1-u06-t-q3", "type": "sentence_transformation", "category": "grammar", "topic": "but for", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Rewrite the sentence so that it means the same.",
+      "sentence": "We only survived because we had a map.",
+      "cue": "Begin with: But for",
+      "answers": ["But for the map, we would not have survived.", "But for the map, we wouldn't have survived.", "But for our map, we would not have survived.", "But for our map, we wouldn't have survived.", "But for the map, we would have died.", "But for our map, we would have died."],
+      "explanation": "'But for + noun' expresses the decisive factor; the past result is 'would not have survived'."
+    },
+    {
+      "id": "c1-u06-t-q4", "type": "error_identification", "category": "grammar", "topic": "inverted conditionals", "difficulty": 2, "stage": "unit_test",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["Had I knew", "about the meeting,", "I would have", "attended it."],
+      "errorIndex": 0,
+      "correction": "Had I known",
+      "explanation": "Inverted third conditionals use 'Had + subject + past participle': 'Had I known'."
+    },
+    {
+      "id": "c1-u06-t-q5", "type": "single_choice", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Complete the question: 'Supposing you lost your job tomorrow, what ___?'",
+      "options": ["would you do", "will you do", "did you do", "had you done"],
+      "answer": 0,
+      "explanation": "'Supposing' + past tense describes a hypothetical situation, so the result uses 'would'."
+    },
+    {
+      "id": "c1-u06-t-q6", "type": "multiple_select", "category": "grammar", "topic": "conditional conjunctions", "difficulty": 3, "stage": "unit_test",
+      "prompt": "Which expressions can complete the sentence correctly? 'You can use the studio ___ you clean it afterwards.' Select ALL that apply.",
+      "options": ["provided", "as long as", "on condition that", "unless", "in case"],
+      "answers": [0, 1, 2],
+      "explanation": "'Provided', 'as long as' and 'on condition that' express a requirement. 'Unless' and 'in case' give the wrong meaning."
+    },
+    {
+      "id": "c1-u06-t-q7", "type": "translation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 4, "stage": "unit_test",
+      "prompt": "Translate into English. Begin with 'Had'.",
+      "source": "Seandainya saya tahu kamu sakit, saya pasti sudah menjengukmu.",
+      "direction": "id-en",
+      "answers": ["Had I known you were ill, I would have visited you.", "Had I known you were sick, I would have visited you.", "Had I known that you were ill, I would have visited you.", "Had I known that you were sick, I would have visited you.", "Had I known you were ill, I would definitely have visited you.", "Had I known you were sick, I would definitely have visited you.", "Had I known that you were ill, I would definitely have visited you.", "Had I known that you were sick, I would definitely have visited you.", "Had I known you were ill, I would certainly have visited you.", "Had I known you were sick, I would certainly have visited you.", "Had I known you were ill, I would have come to see you.", "Had I known you were sick, I would have come to see you.", "Had I known that you were ill, I would have come to see you.", "Had I known that you were sick, I would have come to see you.", "Had I known you were ill, I would have gone to see you.", "Had I known you were sick, I would have gone to see you."],
+      "explanation": "'Seandainya saya tahu' (past, unreal) becomes 'Had I known'; the result is 'would (definitely) have visited you'."
+    }
+  ]
+}

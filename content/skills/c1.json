@@ -1,0 +1,1201 @@
+{
+  "level": "C1",
+  "grammarTopics": [
+    {
+      "slug": "c1-inversion",
+      "title": "Inversion for Emphasis",
+      "category": "sentence_structure",
+      "explanation": "### What it is\nWhen a negative or restrictive adverbial (never, rarely, seldom, not only, not until, only after, hardly, no sooner, under no circumstances, little) is placed at the **start** of a clause, the auxiliary verb comes **before** the subject, as in a question. The meaning stays the same, but the sentence becomes emphatic and formal.\n\n### Choosing the auxiliary\n- Existing auxiliary or modal: move it forward (Never **have I** seen ...).\n- Present/past simple: add **do/does/did** + base verb (Rarely **does she** complain).\n- *be* as main verb: invert *be* (Seldom **is the office** this quiet).\n\n### Where the inversion goes\nAfter *only / not until + clause*, the first clause keeps normal order and the **main clause** is inverted: 'Not until the results arrived **did we** celebrate.' After *not only*, only the first clause is inverted.\n\n### Fixed pairs\n*No sooner ... than*; *hardly / scarcely / barely ... when*.\n\n### Register\nTypical of speeches, formal writing and storytelling. Use sparingly.",
+      "formulas": [
+        { "label": "Negative adverbial inversion", "pattern": "Never / Rarely / Seldom + auxiliary + subject + main verb" },
+        { "label": "Restrictive clause", "pattern": "Only after / Not until + clause (normal order), + auxiliary + subject + verb" },
+        { "label": "Not only", "pattern": "Not only + auxiliary + subject + verb, but + subject + also + verb" },
+        { "label": "Immediate sequence", "pattern": "No sooner + had + subject + past participle + than + past simple" }
+      ],
+      "examples": {
+        "positive": ["Never have I witnessed such dedication.", "Only by working together can we meet the deadline.", "No sooner had the shop opened than a queue formed."],
+        "negative": ["Not until the following morning did they realise their mistake.", "Under no circumstances should the door be left unlocked."],
+        "interrogative": ["Is it true that not only did prices rise, but wages also fell?"]
+      },
+      "comparison": "Compare 'I have never seen such talent' (neutral) with 'Never have I seen such talent' (emphatic, formal). Compare 'Only the manager has a key' (no inversion: 'only' modifies the subject) with 'Only then did I understand' (inversion).",
+      "mistakes": [
+        { "wrong": "Rarely I have seen such a crowd.", "right": "Rarely have I seen such a crowd.", "why": "A fronted negative adverbial requires the auxiliary before the subject." },
+        { "wrong": "No sooner had we arrived when it started to rain.", "right": "No sooner had we arrived than it started to rain.", "why": "'No sooner' pairs with 'than'." },
+        { "wrong": "Only when did the storm pass we went outside.", "right": "Only when the storm passed did we go outside.", "why": "Invert the main clause, not the 'only when' clause." }
+      ],
+      "keywords": ["never", "rarely", "seldom", "not only", "not until", "only after", "no sooner", "hardly", "little", "under no circumstances"],
+      "relatedLessons": ["c1-u01-l1-negative-adverbials", "c1-u01-l2-only-not-until", "c1-u01-l3-not-only", "c1-u01-l4-no-sooner-hardly", "c1-u01-l5-so-such-little"],
+      "exercises": [
+        {
+          "id": "c1-gr-inversion-q1", "type": "sentence_transformation", "category": "grammar", "topic": "inversion", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using inversion.",
+          "sentence": "I had never felt so nervous before.",
+          "cue": "Begin with: Never before",
+          "answers": ["Never before had I felt so nervous.", "Never before had I felt this nervous."],
+          "explanation": "The past perfect auxiliary 'had' moves in front of the subject: 'Never before had I felt ...'."
+        },
+        {
+          "id": "c1-gr-inversion-q2", "type": "dropdown", "category": "grammar", "topic": "inversion", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct option.",
+          "text": "Not only ___ late for the interview, but he also forgot his documents.",
+          "choices": [["was he", "he was", "he did"]],
+          "answers": [0],
+          "explanation": "With 'be' as the main verb, a fronted 'Not only' requires 'was he'."
+        },
+        {
+          "id": "c1-gr-inversion-q3", "type": "error_identification", "category": "grammar", "topic": "inversion", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Scarcely", "we had sat down", "when the speeches", "began."],
+          "errorIndex": 1,
+          "correction": "had we sat down",
+          "explanation": "A fronted 'Scarcely' requires the inverted past perfect: 'Scarcely had we sat down when ...'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-cleft-sentences",
+      "title": "Cleft Sentences",
+      "category": "sentence_structure",
+      "explanation": "### Purpose\nCleft sentences split a simple sentence into two parts to **focus** on one element.\n\n### It-clefts\n**It + is/was + focus + that/who + clause**: 'It was **the lack of funding** that delayed the project.' Use *that* after time and place phrases ('It was in 2018 that ...'). *It is/was* stays singular, but the verb after *who/that* agrees with the focus ('It is the managers who **are** responsible').\n\n### Wh-clefts\n**What + clause + be + focus**: 'What I need is **more time**.' To focus on an action: 'What we did was (to) **call** the supplier.' Reversed: 'More time is what I need.'\n\n### Other openings\n*All I want is ..., The thing that worries me is ..., The reason ... is that ..., The last thing I expected was ...*\n\n### Use\nClefts help to contrast, correct and clarify information, and to structure arguments ('What this essay argues is that ...').",
+      "formulas": [
+        { "label": "It-cleft", "pattern": "It + is/was + focused element + that/who + rest of clause" },
+        { "label": "Wh-cleft", "pattern": "What + subject + verb + is/was + focused element" },
+        { "label": "Action focus", "pattern": "What + subject + did/do + is/was + (to) + base verb" },
+        { "label": "Reason", "pattern": "The reason (why) + clause + is/was + that + clause" }
+      ],
+      "examples": {
+        "positive": ["It was Rina who found the error.", "What surprised me was how calm she remained.", "All you need to do is sign here."],
+        "negative": ["It wasn't the price that worried us; it was the delivery time.", "What I'm not saying is that the project should be cancelled."],
+        "interrogative": ["Was it you who called me last night?", "What is it that you really want?"]
+      },
+      "comparison": "'Rina found the error' is neutral; 'It was Rina who found the error' contrasts Rina with other people; 'What Rina found was the error' builds suspense before the new information.",
+      "mistakes": [
+        { "wrong": "What I need it is a holiday.", "right": "What I need is a holiday.", "why": "The what-clause is the subject; do not add 'it'." },
+        { "wrong": "It was in Bandung where we met.", "right": "It was in Bandung that we met.", "why": "Use 'that' after place and time phrases in it-clefts." },
+        { "wrong": "The reason I left is because the pay was low.", "right": "The reason I left is that the pay was low.", "why": "Formal English uses 'that' after 'the reason ... is'." }
+      ],
+      "keywords": ["it-cleft", "wh-cleft", "focus", "what", "all", "the reason", "emphasis"],
+      "relatedLessons": ["c1-u02-l1-it-cleft", "c1-u02-l2-wh-cleft", "c1-u02-l3-all-thing-reason", "c1-u02-l4-reversed-clefts", "c1-u02-l5-clarifying-arguments"],
+      "exercises": [
+        {
+          "id": "c1-gr-cleft-q1", "type": "sentence_transformation", "category": "grammar", "topic": "cleft sentences", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence to emphasise the real cause.",
+          "sentence": "The noise kept me awake, not the heat.",
+          "cue": "Begin with: It was",
+          "answers": ["It was the noise that kept me awake, not the heat.", "It was the noise, not the heat, that kept me awake.", "It was the noise which kept me awake, not the heat.", "It was the noise rather than the heat that kept me awake."],
+          "explanation": "It + was + focus ('the noise') + that + rest of the clause."
+        },
+        {
+          "id": "c1-gr-cleft-q2", "type": "fill_blank", "category": "grammar", "topic": "cleft sentences", "difficulty": 2, "stage": "independent",
+          "prompt": "Complete the wh-cleft with ONE word.",
+          "text": "What surprised the auditors ___ how little the company had spent on security.",
+          "answers": [["was"]],
+          "explanation": "The what-clause is singular and refers to the past, so the verb is 'was'."
+        },
+        {
+          "id": "c1-gr-cleft-q3", "type": "single_choice", "category": "grammar", "topic": "cleft sentences", "difficulty": 3, "stage": "quiz",
+          "prompt": "Which sentence correctly emphasises WHEN the factory reopened?",
+          "options": ["It was in March that the factory finally reopened.", "What happened in March was the factory.", "The factory, it was March, reopened.", "It was the factory what reopened in March."],
+          "answer": 0,
+          "explanation": "An it-cleft with a time phrase uses 'It was + time + that': 'It was in March that ...'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-impersonal-passive",
+      "title": "Impersonal Passive Reporting",
+      "category": "voice",
+      "explanation": "### Purpose\nImpersonal passives report beliefs, claims and estimates without naming the source and without presenting them as facts. They are essential in news and academic writing.\n\n### Three patterns\n1. **It + be + past participle + that-clause**: 'It is believed that the fire started in the kitchen.'\n2. **Subject + be + past participle + to-infinitive**: 'The fire is believed **to have started** in the kitchen.'\n3. **There + be + past participle + to be / to have been**: 'There **are thought to be** 300 species on the island.'\n\n### Choosing the infinitive\n- same time as the report: **to do / to be**\n- action in progress: **to be doing**\n- earlier than the report: **to have done**\n- passive and earlier: **to have been done**\n\n### Verbs\n*say, believe, think, report, expect, estimate, allege, know, consider, rumour, understand*. Not *tell* or *inform*.",
+      "formulas": [
+        { "label": "It-pattern", "pattern": "It + is/was + said/believed/thought + that + clause" },
+        { "label": "Personal pattern (present)", "pattern": "Subject + is/are + said/believed + to + base verb / to be + -ing" },
+        { "label": "Personal pattern (past)", "pattern": "Subject + is/are + said/believed + to have (been) + past participle" },
+        { "label": "Existence", "pattern": "There + is/are + thought/said + to be / to have been + noun" }
+      ],
+      "examples": {
+        "positive": ["It is widely believed that the treaty will be signed.", "The suspect is thought to have fled abroad.", "There are said to be wolves in these mountains."],
+        "negative": ["He is not thought to be in any danger.", "It is not known how the fire started."],
+        "interrogative": ["Is the painting believed to be genuine?", "Is it expected that interest rates will rise?"]
+      },
+      "comparison": "'People say he is rich' (informal) → 'It is said that he is rich' (formal, impersonal) → 'He is said to be rich' (formal, concise, keeps the person as topic).",
+      "mistakes": [
+        { "wrong": "The castle is said to be built in 1600.", "right": "The castle is said to have been built in 1600.", "why": "A past passive event needs 'to have been + past participle'." },
+        { "wrong": "There is said to have a tunnel under the palace.", "right": "There is said to be a tunnel under the palace.", "why": "The underlying idea is 'there is a tunnel', so use 'to be'." },
+        { "wrong": "It is told that the shop will close.", "right": "It is said that the shop will close.", "why": "'Tell' cannot be used in this impersonal pattern." }
+      ],
+      "keywords": ["it is said", "is believed to", "is thought to have", "there is thought to be", "reportedly", "allegedly"],
+      "relatedLessons": ["c1-u03-l1-it-is-thought", "c1-u03-l2-subject-to-infinitive", "c1-u03-l3-perfect-infinitive", "c1-u03-l4-there-is-thought", "c1-u03-l5-reporting-claims"],
+      "exercises": [
+        {
+          "id": "c1-gr-impersonal-q1", "type": "sentence_transformation", "category": "grammar", "topic": "impersonal passive", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence so that it means the same.",
+          "sentence": "People say that the director earns a fortune.",
+          "cue": "Begin with: The director",
+          "answers": ["The director is said to earn a fortune."],
+          "explanation": "A present habit or state is reported with the simple infinitive: 'is said to earn'."
+        },
+        {
+          "id": "c1-gr-impersonal-q2", "type": "dropdown", "category": "grammar", "topic": "impersonal passive", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the correct infinitive.",
+          "text": "The suspects are believed ___ the city by train yesterday afternoon.",
+          "choices": [["to have left", "to leave", "leaving"]],
+          "answers": [0],
+          "explanation": "'Yesterday afternoon' shows the action happened before the time of believing, so the perfect infinitive is needed."
+        },
+        {
+          "id": "c1-gr-impersonal-q3", "type": "fill_blank", "category": "grammar", "topic": "impersonal passive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Complete the sentence with the present passive form of the verb in brackets.",
+          "text": "There ___ (think) to be fewer than fifty tigers left in the reserve.",
+          "answers": [["are thought"]],
+          "explanation": "'There + are + thought + to be' reports existence; 'are' agrees with 'fewer than fifty tigers'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-participle-clauses",
+      "title": "Participle Clauses",
+      "category": "clauses",
+      "explanation": "### Types\n- **Present participle (-ing)**: active meaning; simultaneous actions, reasons, results, reduced active relatives ('Feeling tired, she left'; 'The river flooded, **damaging** homes'; 'people **living** nearby').\n- **Past participle (-ed/irregular)**: passive meaning; background, reason, condition, reduced passive relatives ('**Built** in 1890, the bridge ...'; '**Stored** correctly, the vaccine lasts two years').\n- **Perfect participle (having done / having been done)**: an earlier completed action, often a reason ('**Having finished** the report, he left').\n\n### The subject rule\nThe implied subject of the participle must be the subject of the main clause. Otherwise the participle 'dangles': '*Walking into the room, the lights were off*' is wrong.\n\n### Extras\n- Negatives: **not** + participle ('Not knowing what to say, ...').\n- Conjunctions: *while waiting, once opened, although tired, when asked*.\n- Absolute clauses have their own subject: 'The weather being fine, ...', 'With prices rising, ...'.",
+      "formulas": [
+        { "label": "Active", "pattern": "-ing clause, + main clause (same subject)" },
+        { "label": "Passive", "pattern": "Past participle clause, + main clause (same subject)" },
+        { "label": "Earlier action", "pattern": "Having (been) + past participle, + main clause" },
+        { "label": "Absolute", "pattern": "With + noun + participle / Noun + participle, + main clause" }
+      ],
+      "examples": {
+        "positive": ["Walking along the beach, Lina found a bottle.", "Written in a hurry, the letter contained several mistakes.", "Having lived abroad for years, he spoke three languages."],
+        "negative": ["Not having heard the news, she went to work as usual.", "Never having flown before, Sari felt nervous."],
+        "interrogative": ["Having read the report, what do you think we should do?"]
+      },
+      "comparison": "'Because she felt tired, she left early' (full clause) → 'Feeling tired, she left early' (concise, formal). Compare '-ing' (active: Exhausting work) with past participle (passive/state: Exhausted, we went to bed).",
+      "mistakes": [
+        { "wrong": "Looking out of the window, the mountains were beautiful.", "right": "Looking out of the window, we admired the beautiful mountains.", "why": "The participle must refer to the subject of the main clause." },
+        { "wrong": "Having been finished his homework, Bayu went out.", "right": "Having finished his homework, Bayu went out.", "why": "Bayu did the action, so the active form is required." },
+        { "wrong": "After finish the project, we celebrated.", "right": "After finishing the project, we celebrated.", "why": "After the preposition 'after', use -ing." }
+      ],
+      "keywords": ["participle clause", "having done", "dangling participle", "reduced relative", "absolute clause", "with + noun + -ing"],
+      "relatedLessons": ["c1-u04-l1-present-participle", "c1-u04-l2-past-participle", "c1-u04-l3-perfect-participle", "c1-u04-l4-dangling-participles", "c1-u04-l5-participles-in-reports"],
+      "exercises": [
+        {
+          "id": "c1-gr-participle-q1", "type": "sentence_transformation", "category": "grammar", "topic": "participle clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence using a negative participle clause.",
+          "sentence": "As I didn't know the way, I asked a police officer.",
+          "cue": "Begin with: Not knowing",
+          "answers": ["Not knowing the way, I asked a police officer."],
+          "explanation": "The reason clause becomes 'Not knowing the way'; the subject (I) is shared with the main clause."
+        },
+        {
+          "id": "c1-gr-participle-q2", "type": "single_choice", "category": "grammar", "topic": "participle clauses", "difficulty": 3, "stage": "independent",
+          "prompt": "Complete the sentence: '___ by the noise, the baby started crying.'",
+          "options": ["Woken", "Waking", "Having woken", "Wake"],
+          "answer": 0,
+          "explanation": "The baby was woken (passive meaning), so the past participle 'Woken' is correct."
+        },
+        {
+          "id": "c1-gr-participle-q3", "type": "error_identification", "category": "grammar", "topic": "participle clauses", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Built in 1920", "and renovating in 2015,", "the theatre", "is now a city landmark."],
+          "errorIndex": 1,
+          "correction": "and renovated in 2015,",
+          "explanation": "The theatre received both actions, so both participles must be passive: 'Built ... and renovated ...'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-hedging",
+      "title": "Hedging and Boosting",
+      "category": "modals",
+      "explanation": "### Why hedge?\nAcademic and professional writers match the strength of each claim to the strength of the evidence. **Hedges** soften claims; **boosters** strengthen them.\n\n### Hedging tools\n- Modals: *may, might, could, would* (+ have + past participle for the past)\n- Verbs: *appear to, seem to, tend to, suggest, indicate*\n- Adverbs and phrases: *arguably, relatively, largely, approximately, to some extent, in most cases*\n- Impersonal phrases: *it is possible / likely that, there is some evidence that*\n\n### Boosters\n*clearly, undoubtedly, demonstrate, it is evident / well established that, compelling evidence*.\n\n### Rules of thumb\n1. Hedge interpretations, generalisations and conclusions from limited data.\n2. Boost well-established facts and your own clear results.\n3. Report correlations as associations, not causes.\n4. Avoid over-hedging: one precise hedge per claim.",
+      "formulas": [
+        { "label": "Modal hedge", "pattern": "Subject + may / might / could + base verb (+ have + past participle)" },
+        { "label": "Verb hedge", "pattern": "Subject + appear / seem / tend + to-infinitive" },
+        { "label": "Evidence verb", "pattern": "The findings / data + suggest / indicate + that-clause" },
+        { "label": "Booster", "pattern": "It is clear / evident / well established that + clause" }
+      ],
+      "examples": {
+        "positive": ["The new drug may reduce the risk of stroke.", "Older employees tend to be more loyal.", "The findings suggest a possible link between diet and mood."],
+        "negative": ["The results do not appear to support the hypothesis.", "There is little evidence that the policy has reduced crime."],
+        "interrogative": ["Could this be explained by other factors?", "Does the evidence appear to support the hypothesis?"]
+      },
+      "comparison": "'Social media causes loneliness' (overclaim) vs 'Social media may contribute to loneliness among some teenagers' (hedged) vs 'It is well established that smoking causes cancer' (justified booster).",
+      "mistakes": [
+        { "wrong": "This survey proves that all students prefer online classes.", "right": "This survey suggests that many students prefer online classes.", "why": "A single survey cannot prove a universal claim." },
+        { "wrong": "The method appears being effective.", "right": "The method appears to be effective.", "why": "'Appear' is followed by a to-infinitive." },
+        { "wrong": "It might possibly perhaps be likely that ...", "right": "It is likely that ...", "why": "Over-hedging makes the claim vague." }
+      ],
+      "keywords": ["hedge", "booster", "may", "appear to", "tend to", "suggest", "arguably", "to some extent", "correlation"],
+      "relatedLessons": ["c1-u05-l1-hedging-modals", "c1-u05-l2-hedging-verbs", "c1-u05-l3-softening-adverbs", "c1-u05-l4-boosters-hedges", "c1-u05-l5-reporting-research"],
+      "exercises": [
+        {
+          "id": "c1-gr-hedging-q1", "type": "multiple_select", "category": "academic", "topic": "hedging", "difficulty": 3, "stage": "independent",
+          "prompt": "Select ALL the hedging expressions.",
+          "options": ["seemingly", "undeniably", "to a certain degree", "it is likely that", "without question"],
+          "answers": [0, 2, 3],
+          "explanation": "'Seemingly', 'to a certain degree' and 'it is likely that' soften claims. 'Undeniably' and 'without question' are boosters."
+        },
+        {
+          "id": "c1-gr-hedging-q2", "type": "sentence_transformation", "category": "academic", "topic": "hedging", "difficulty": 3, "stage": "independent",
+          "prompt": "Make the claim more cautious using the verb 'appear'.",
+          "sentence": "The new policy has reduced crime.",
+          "cue": "Begin with: The new policy",
+          "answers": ["The new policy appears to have reduced crime."],
+          "explanation": "The reduction happened before now, so 'appear' is followed by the perfect infinitive 'to have reduced'."
+        },
+        {
+          "id": "c1-gr-hedging-q3", "type": "fill_blank", "category": "academic", "topic": "hedging", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the sentence with ONE modal verb that expresses possibility.",
+          "text": "The rise in obesity ___ partly be explained by changes in diet and lifestyle.",
+          "answers": [["may", "might", "could", "can"]],
+          "explanation": "A modal of possibility (may/might/could/can) hedges the explanation, and 'partly' limits its scope."
+        }
+      ]
+    },
+    {
+      "slug": "c1-inverted-conditionals",
+      "title": "Inverted and Formal Conditionals",
+      "category": "conditionals",
+      "explanation": "### Inversion instead of 'if'\n- **Had** (third / mixed): 'Had I known, I would have called.' Negative: 'Had I **not** known ...' (no contraction).\n- **Should** (first, formal/polite): 'Should you need help, please call.'\n- **Were** (second): 'Were I in your position, I would accept.' / 'Were the bank **to** collapse, ...' / 'Were it not for ...'.\n\n### The decisive factor\n*But for + noun*, *if it weren't for* (present), *if it hadn't been for* (past), *had it not been for*, *without*.\n\n### Other conditional conjunctions\n*provided / providing (that), as long as, on condition that* (requirement); *unless* (if not); *supposing, assuming* (imagined/assumed situations); *in case* (precaution); *in the event of + noun* (formal).\n\n### Tense reminder\nAfter conditional conjunctions, use a present tense for future meaning: 'Provided the weather **is** good, ...' (not *will be*).",
+      "formulas": [
+        { "label": "Inverted third conditional", "pattern": "Had + subject + (not) + past participle, + would/could/might have + past participle" },
+        { "label": "Inverted first conditional", "pattern": "Should + subject + base verb, + imperative / will" },
+        { "label": "Inverted second conditional", "pattern": "Were + subject + (to + base verb) / complement, + would + base verb" },
+        { "label": "Decisive factor", "pattern": "But for / Had it not been for + noun, + would have + past participle" }
+      ],
+      "examples": {
+        "positive": ["Had we left earlier, we would have caught the train.", "Should the flight be delayed, passengers will receive a meal.", "Provided that you return it by six, you can borrow the car."],
+        "negative": ["Had it not been for the volunteers, the event would have failed.", "Unless we act now, it will be too late."],
+        "interrogative": ["Had you known the risks, would you have invested?", "Were the price to fall, would you buy one?"]
+      },
+      "comparison": "'If I had known' (neutral) → 'Had I known' (formal). 'If you need help' → 'Should you need help' (polite, formal). 'If it hadn't been for the map' → 'But for the map' (concise).",
+      "mistakes": [
+        { "wrong": "Hadn't she called, we would have missed the bus.", "right": "Had she not called, we would have missed the bus.", "why": "Inverted negatives use 'Had + subject + not' with no contraction." },
+        { "wrong": "Was I you, I would accept.", "right": "Were I you, I would accept.", "why": "Only 'were' can be inverted in second conditionals." },
+        { "wrong": "But for you helped me, I would have failed.", "right": "But for your help, I would have failed.", "why": "'But for' is followed by a noun phrase." }
+      ],
+      "keywords": ["had I known", "should you", "were it not for", "but for", "provided that", "on condition that", "supposing", "in the event of"],
+      "relatedLessons": ["c1-u06-l1-inverted-had", "c1-u06-l2-should-were", "c1-u06-l3-but-for", "c1-u06-l4-provided-supposing", "c1-u06-l5-formal-agreements"],
+      "exercises": [
+        {
+          "id": "c1-gr-conditionals-q1", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence without 'if'.",
+          "sentence": "If it were not for tourism, the island would be very poor.",
+          "cue": "Begin with: Were",
+          "answers": ["Were it not for tourism, the island would be very poor."],
+          "explanation": "'If it were not for' becomes 'Were it not for' in the inverted form."
+        },
+        {
+          "id": "c1-gr-conditionals-q2", "type": "dropdown", "category": "grammar", "topic": "inverted conditionals", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct word.",
+          "text": "___ you wish to cancel your booking, please inform us at least 48 hours in advance.",
+          "choices": [["Should", "Had", "Were"]],
+          "answers": [0],
+          "explanation": "'Should + subject + base verb' is the formal inverted first conditional."
+        },
+        {
+          "id": "c1-gr-conditionals-q3", "type": "error_identification", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["Had the government", "acted sooner,", "last year's crisis", "would be avoided."],
+          "errorIndex": 3,
+          "correction": "would have been avoided.",
+          "explanation": "The crisis was in the past, so the result clause needs 'would have been + past participle'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-nominalisation",
+      "title": "Nominalisation and Noun Phrases",
+      "category": "parts_of_speech",
+      "explanation": "### What it is\n**Nominalisation** turns verbs and adjectives into nouns: *decide → decision, reduce → reduction, reliable → reliability, strong → strength*. It is central to academic, legal and official writing.\n\n### Rewriting clauses\n| Verbal | Nominal |\n|---|---|\n| Prices rose sharply. | the sharp rise in prices |\n| The manager resigned. | the manager's resignation |\n| because it rained heavily | owing to heavy rainfall |\n\nNoun phrases are then linked with cause–effect verbs: *lead to, result in, give rise to, stem from, be attributable to*.\n\n### Complex noun phrases\nA head noun can be pre-modified (*a recent independent report*) and post-modified (*on the effects of air pollution in Asian cities*). The verb agrees with the **head noun**.\n\n### Balance\nNominalisation makes writing concise and objective, but too much makes it heavy. Keep some active verbs.",
+      "formulas": [
+        { "label": "Verb → noun", "pattern": "verb + -tion / -ment / -al / -ance / -ure / -sis" },
+        { "label": "Adjective → noun", "pattern": "adjective + -ity / -ness / -ance / -th / -cy" },
+        { "label": "Nominal clause", "pattern": "the + adjective + noun + in/of + noun phrase + cause-effect verb + noun phrase" }
+      ],
+      "examples": {
+        "positive": ["The closure of the factory resulted in widespread unemployment.", "The rapid growth of online retail has transformed city centres.", "There has been a significant reduction in poverty."],
+        "negative": ["The failure to act quickly was not the only problem.", "The introduction of the tax did not lead to a fall in sales."],
+        "interrogative": ["What were the main causes of the decline in sales?"]
+      },
+      "comparison": "'Because the population is ageing, healthcare costs are increasing' (verbal) → 'The ageing of the population is leading to an increase in healthcare costs' (nominal).",
+      "mistakes": [
+        { "wrong": "The rise of prices led to protests.", "right": "The rise in prices led to protests.", "why": "We say a rise / increase / fall IN something." },
+        { "wrong": "The effects of the policy is unclear.", "right": "The effects of the policy are unclear.", "why": "The verb agrees with the head noun 'effects'." },
+        { "wrong": "The maintainance costs are high.", "right": "The maintenance costs are high.", "why": "The noun from 'maintain' is spelled 'maintenance'." }
+      ],
+      "keywords": ["nominalisation", "noun phrase", "head noun", "lead to", "result in", "formal register"],
+      "relatedLessons": ["c1-u07-l1-noun-formation", "c1-u07-l2-rewriting-clauses", "c1-u07-l3-complex-noun-phrases", "c1-u07-l4-formal-vocabulary", "c1-u07-l5-economics-policy"],
+      "exercises": [
+        {
+          "id": "c1-gr-nominal-q1", "type": "short_answer", "category": "vocabulary", "topic": "nominalisation", "difficulty": 2, "stage": "independent",
+          "prompt": "Write the noun form of the adjective 'efficient'.",
+          "answers": ["efficiency"],
+          "explanation": "efficient → efficiency (suffix -cy)."
+        },
+        {
+          "id": "c1-gr-nominal-q2", "type": "sentence_transformation", "category": "academic", "topic": "nominalisation", "difficulty": 3, "stage": "independent",
+          "prompt": "Rewrite the sentence in a nominal style.",
+          "sentence": "Exports fell dramatically, which worried investors.",
+          "cue": "Begin with: The dramatic",
+          "answers": ["The dramatic fall in exports worried investors.", "The dramatic drop in exports worried investors.", "The dramatic decline in exports worried investors.", "The dramatic decrease in exports worried investors."],
+          "explanation": "'Fell dramatically' becomes 'the dramatic fall in exports', which becomes the subject of 'worried'."
+        },
+        {
+          "id": "c1-gr-nominal-q3", "type": "drag_drop", "category": "academic", "topic": "nominalisation", "difficulty": 2, "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "The ___ of the new bridge was delayed due to a ___ of funding.",
+          "bank": ["construction", "construct", "lack", "lacking", "constructive"],
+          "answers": ["construction", "lack"],
+          "explanation": "Both gaps need nouns: 'the construction of' and 'a lack of'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-subjunctive-modality",
+      "title": "The Subjunctive and Nuanced Modality",
+      "category": "modals",
+      "explanation": "### Mandative subjunctive\nAfter verbs (*insist, recommend, demand, request, propose, suggest, require*), adjectives (*essential, vital, imperative, crucial*) and nouns (*requirement, recommendation*), formal English uses **that + subject + base verb**: 'They insisted that he **be** present.' Negative: 'that it **not be** published'. British English also uses *should + base verb*. Never use *will*.\n\n### Polite distancing\nPast forms and modals soften requests: 'I **was wondering** if you **could** ...', 'You **might want to** ...', 'It **would seem** that ...'.\n\n### Semi-modals with be\n- **be to**: formal arrangement / instruction ('The President is to visit ...', 'You are not to leave')\n- **be supposed to**: expectation, often unfulfilled\n- **be bound to**: certainty\n- **be due to**: schedule; **be set to**: likely soon (news)",
+      "formulas": [
+        { "label": "Verb + subjunctive", "pattern": "insist / recommend / demand + that + subject + base verb" },
+        { "label": "Adjective + subjunctive", "pattern": "It is essential / vital + that + subject + (not) + base verb" },
+        { "label": "Polite request", "pattern": "I was wondering if + subject + could / would / might + base verb" },
+        { "label": "Semi-modal", "pattern": "be to / be supposed to / be bound to + base verb" }
+      ],
+      "examples": {
+        "positive": ["The committee recommends that the plan be approved.", "It is vital that every passenger have a ticket.", "The team is bound to win at least one trophy."],
+        "negative": ["We requested that the details not be published.", "You are not to leave the room before 10 a.m."],
+        "interrogative": ["Did the committee recommend that the meeting be postponed?", "Weren't you supposed to finish the report yesterday?"]
+      },
+      "comparison": "'He insisted that she be present' (demand: subjunctive) vs 'He insisted that he was innocent' (claim: indicative). 'The minister is to visit' (official) vs 'The minister is supposed to visit' (expected, possibly doubtful).",
+      "mistakes": [
+        { "wrong": "It is essential that he will attend.", "right": "It is essential that he attend.", "why": "Do not use 'will' in subjunctive clauses." },
+        { "wrong": "The manager demanded that the staff to work late.", "right": "The manager demanded that the staff work late.", "why": "Use a that-clause with a base verb, not a to-infinitive." },
+        { "wrong": "You are supposed to wearing a helmet.", "right": "You are supposed to wear a helmet.", "why": "Semi-modals with 'to' are followed by the base verb." }
+      ],
+      "keywords": ["subjunctive", "insist that", "it is essential that", "be to", "be supposed to", "be bound to", "polite distancing"],
+      "relatedLessons": ["c1-u10-l1-mandative-subjunctive", "c1-u10-l2-essential-that", "c1-u10-l3-polite-distancing", "c1-u10-l4-be-to-supposed-bound", "c1-u10-l5-formal-recommendations"],
+      "exercises": [
+        {
+          "id": "c1-gr-subjunctive-q1", "type": "dropdown", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "independent",
+          "prompt": "Choose the formal subjunctive form.",
+          "text": "It is imperative that the patient ___ treated within the hour.",
+          "choices": [["be", "is being", "will be"]],
+          "answers": [0],
+          "explanation": "After 'It is imperative that', the passive subjunctive is 'be + past participle'."
+        },
+        {
+          "id": "c1-gr-subjunctive-q2", "type": "sentence_transformation", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "independent",
+          "prompt": "Report the advice using the subjunctive.",
+          "sentence": "'You should apply for the grant,' my tutor said to me.",
+          "cue": "Begin with: My tutor suggested that I",
+          "answers": ["My tutor suggested that I apply for the grant.", "My tutor suggested that I should apply for the grant."],
+          "explanation": "After 'suggested that', use the base form 'apply' (or 'should apply')."
+        },
+        {
+          "id": "c1-gr-subjunctive-q3", "type": "error_identification", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "quiz",
+          "prompt": "Find the part of the sentence that contains an error.",
+          "segments": ["The board proposed", "that the new rules", "will be introduced", "next year."],
+          "errorIndex": 2,
+          "correction": "be introduced",
+          "explanation": "After 'proposed that', formal English uses the subjunctive 'be introduced', never 'will'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-discourse-cohesion",
+      "title": "Discourse Markers and Cohesion",
+      "category": "punctuation",
+      "explanation": "### Markers by function\n- **Concession / contrast**: nevertheless, nonetheless, even so, however, by contrast, conversely, whereas, while, although, despite\n- **Result**: consequently, therefore, thus, hence, as a result, accordingly\n- **Addition**: moreover, furthermore, in addition, what is more\n\n### Grammar and punctuation\n- **Sentence adverbs** (however, nevertheless, therefore) link independent clauses: use a full stop or semicolon before them and a comma after: 'The plan is cheap; however, it is risky.'\n- **Conjunctions** (although, whereas) join clauses within one sentence.\n- **Prepositions** (despite, in spite of, due to) take a noun phrase or -ing.\n- A comma alone between two full clauses creates a comma splice.\n\n### Reference and substitution\n*the former / the latter, this + summary noun, such (a/an), do so, one/ones*.",
+      "formulas": [
+        { "label": "Sentence adverb", "pattern": "Clause; however / nevertheless / therefore, clause." },
+        { "label": "Conjunction", "pattern": "Although / Whereas + clause, main clause" },
+        { "label": "Preposition", "pattern": "Despite / Due to + noun phrase / -ing, main clause" },
+        { "label": "Reference", "pattern": "X and Y ... the former (X) / the latter (Y)" }
+      ],
+      "examples": {
+        "positive": ["The project was over budget. Nevertheless, it was a success.", "The bridge was damaged; hence the long delays.", "Tea and coffee are popular; the latter contains more caffeine."],
+        "negative": ["The plan is popular; however, it is not affordable.", "Despite the warnings, the council did not act."],
+        "interrogative": ["Nevertheless, shouldn't we consider the costs first?"]
+      },
+      "comparison": "'However the price is high, ...' is wrong; 'Although the price is high, ...' (conjunction) or 'The price is high. However, ...' (sentence adverb) are correct.",
+      "mistakes": [
+        { "wrong": "The roads were icy, consequently, there were accidents.", "right": "The roads were icy; consequently, there were accidents.", "why": "A comma cannot join two independent clauses." },
+        { "wrong": "Despite the weather was bad, we went out.", "right": "Despite the bad weather, we went out.", "why": "'Despite' takes a noun phrase or -ing." },
+        { "wrong": "As result, sales fell.", "right": "As a result, sales fell.", "why": "The fixed phrase is 'as a result'." }
+      ],
+      "keywords": ["however", "nevertheless", "whereas", "consequently", "hence", "moreover", "the former", "the latter", "comma splice"],
+      "relatedLessons": ["c1-u08-l1-contrast-markers", "c1-u08-l2-cause-result-addition", "c1-u08-l3-reference-substitution", "c1-u08-l4-paragraph-cohesion", "c1-u08-l5-argument-debate"],
+      "exercises": [
+        {
+          "id": "c1-gr-discourse-q1", "type": "single_choice", "category": "writing", "topic": "discourse markers", "difficulty": 3, "stage": "independent",
+          "prompt": "Which sentence is punctuated correctly?",
+          "options": ["The plan is cheap; however, it is risky.", "The plan is cheap, however, it is risky.", "The plan is cheap however, it is risky.", "The plan is cheap; however it, is risky."],
+          "answer": 0,
+          "explanation": "'However' linking two independent clauses needs a semicolon (or full stop) before it and a comma after it."
+        },
+        {
+          "id": "c1-gr-discourse-q2", "type": "dropdown", "category": "grammar", "topic": "discourse markers", "difficulty": 2, "stage": "independent",
+          "prompt": "Choose the correct word.",
+          "text": "___ the high cost, the project was approved by the council.",
+          "choices": [["Despite", "Although", "However"]],
+          "answers": [0],
+          "explanation": "'The high cost' is a noun phrase, so the preposition 'Despite' is required."
+        },
+        {
+          "id": "c1-gr-discourse-q3", "type": "fill_blank", "category": "academic", "topic": "reference", "difficulty": 2, "stage": "quiz",
+          "prompt": "Complete the sentence with ONE word.",
+          "text": "We compared a manual method and an automated method; ___ latter proved far more accurate.",
+          "answers": [["the"]],
+          "explanation": "'The latter' refers to the second of the two methods mentioned."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "slug": "c1-rd-green-roofs",
+      "title": "Green Roofs and the Urban Heat Island Effect",
+      "genre": "academic",
+      "body": "Cities are often several degrees warmer than the surrounding countryside, a phenomenon known as the urban heat island effect. Dark surfaces such as asphalt and concrete absorb solar radiation during the day and release it slowly at night, while the relative scarcity of vegetation limits natural cooling through evaporation. As urban populations continue to grow, it is widely believed that this effect will intensify, with potentially serious consequences for public health and energy consumption.\n\nOne response that has attracted considerable attention is the installation of green roofs: roofs partially or completely covered with vegetation. A recent study conducted in the coastal city of Pelabuhan Baru compared surface temperatures on twenty conventional roofs and twenty green roofs over two dry seasons. The findings suggest that green roofs were, on average, around 15°C cooler at midday than conventional roofs. Moreover, buildings with green roofs appeared to require less energy for air conditioning, although the size of this saving varied considerably between buildings.\n\nHowever, these results should be interpreted with caution. The sample was relatively small, and all the buildings were located in a single district with similar wind conditions. It is also possible that the owners who chose to install green roofs were more energy-conscious in general, which may partly explain their lower consumption. Furthermore, green roofs are not without drawbacks: they are expensive to install, require regular maintenance and may be unsuitable for older buildings that cannot support the additional weight.\n\nNevertheless, the evidence is sufficiently encouraging to justify further investigation. Larger studies across different climates and building types are needed to establish whether the benefits observed in Pelabuhan Baru can be replicated elsewhere. Should such studies confirm these findings, local authorities might consider offering incentives to building owners, as several cities have already done for solar panels.",
+      "glossary": [
+        { "word": "urban heat island", "meaning": "pulau panas perkotaan (kota lebih panas daripada sekitarnya)" },
+        { "word": "scarcity", "meaning": "kelangkaan, kekurangan" },
+        { "word": "drawback", "meaning": "kekurangan, kelemahan" },
+        { "word": "replicate", "meaning": "mengulangi (dengan hasil yang sama)" },
+        { "word": "incentive", "meaning": "insentif, dorongan" }
+      ],
+      "questions": [
+        {
+          "id": "c1-rd-1-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-green-roofs",
+          "prompt": "What is the main purpose of the text?",
+          "options": ["To present evidence about green roofs and evaluate its limitations", "To persuade readers to install green roofs immediately", "To explain why cities are warmer only at night", "To criticise local authorities for ignoring solar panels"],
+          "answer": 0,
+          "explanation": "The text reports a study's findings, then discusses their limitations and calls for further research."
+        },
+        {
+          "id": "c1-rd-1-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail", "difficulty": 2, "stage": "independent", "passageSlug": "c1-rd-green-roofs",
+          "prompt": "According to the study, how much cooler were green roofs at midday, on average?",
+          "options": ["about 15°C", "about 5°C", "exactly 20°C", "The study did not measure roof temperatures."],
+          "answer": 0,
+          "explanation": "Paragraph 2 states that green roofs were 'on average, around 15°C cooler at midday'."
+        },
+        {
+          "id": "c1-rd-1-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference", "difficulty": 4, "stage": "independent", "passageSlug": "c1-rd-green-roofs",
+          "prompt": "Why does the writer mention that the owners may have been 'more energy-conscious in general'?",
+          "options": ["To suggest that factors other than the roofs might explain the lower energy use", "To praise the owners for their environmental awareness", "To show that green roofs increase energy consumption", "To argue that older buildings cannot support green roofs"],
+          "answer": 0,
+          "explanation": "The writer is pointing out an alternative explanation (a confounding factor), which is why the results must be interpreted with caution."
+        },
+        {
+          "id": "c1-rd-1-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-green-roofs",
+          "prompt": "In the final paragraph, 'replicated' is closest in meaning to:",
+          "options": ["repeated with the same results", "rejected", "reduced", "repaired"],
+          "answer": 0,
+          "explanation": "The writer wants to know whether the same benefits will be found again in other places, i.e. whether the results can be repeated."
+        },
+        {
+          "id": "c1-rd-1-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-green-roofs",
+          "prompt": "Which of the following is NOT mentioned as a drawback of green roofs?",
+          "options": ["high installation costs", "the need for regular maintenance", "unsuitability for some older buildings", "increased noise for residents"],
+          "answer": 3,
+          "explanation": "The text mentions cost, maintenance and weight on older buildings, but not noise."
+        }
+      ]
+    },
+    {
+      "slug": "c1-rd-four-day-week",
+      "title": "Why the Four-Day Week Deserves a Fair Trial",
+      "genre": "article",
+      "body": "Few workplace ideas provoke as much instant scepticism as the four-day week. Mention it at a dinner party and someone is bound to ask who will pay for it, or whether anyone will get anything done. These are fair questions. But what strikes me is how rarely the people asking them have looked at what happens when companies actually try it.\n\nWhat the early trials suggest is not that productivity collapses, but that it often holds steady. When people know they have one fewer day, they tend to cut the things that waste time: endless meetings, unnecessary email chains, reports that nobody reads. At one mid-sized design firm I visited in Kota Lestari, managers admitted they had expected chaos. Instead, deadlines were met, sick days fell, and two experienced designers who had been planning to leave decided to stay.\n\nAdmittedly, the model does not suit every sector. A hospital cannot simply close on Fridays, and small shops with only two employees may struggle to cover their opening hours. Critics are right to point out that a policy which works in an office may fail on a factory floor. Nevertheless, this is an argument for careful design, not for dismissing the idea altogether. Rotating schedules, staggered days off and slightly longer shifts have all been tested with some success.\n\nIt is also worth remembering that the five-day week was itself once a radical experiment. A century ago, many workers laboured six days a week, and employers warned that reducing hours would ruin them. They were wrong.\n\nNone of this means the four-day week should be imposed overnight. What it does mean is that the idea deserves something better than a reflexive 'it will never work'. Had we applied that attitude to every workplace reform in history, we would still be working on Saturdays. Let companies experiment, let researchers measure the results honestly, and then let the evidence, rather than our assumptions, decide.",
+      "glossary": [
+        { "word": "scepticism", "meaning": "sikap skeptis, keraguan" },
+        { "word": "hold steady", "meaning": "tetap stabil" },
+        { "word": "staggered", "meaning": "bergiliran, tidak bersamaan" },
+        { "word": "reflexive", "meaning": "otomatis, spontan tanpa berpikir" },
+        { "word": "impose", "meaning": "memaksakan, memberlakukan" }
+      ],
+      "questions": [
+        {
+          "id": "c1-rd-2-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-four-day-week",
+          "prompt": "What is the writer's main argument?",
+          "options": ["The four-day week should be tested fairly before it is judged.", "The four-day week should be introduced in all sectors immediately.", "The four-day week always increases productivity.", "Hospitals should close on Fridays to save money."],
+          "answer": 0,
+          "explanation": "The writer argues against dismissing the idea and calls for experiments and honest measurement, while rejecting immediate imposition."
+        },
+        {
+          "id": "c1-rd-2-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail", "difficulty": 2, "stage": "independent", "passageSlug": "c1-rd-four-day-week",
+          "prompt": "What happened at the design firm in Kota Lestari?",
+          "options": ["Deadlines were met and fewer staff took sick days.", "Productivity collapsed within weeks.", "Two experienced designers resigned.", "The managers cancelled the trial."],
+          "answer": 0,
+          "explanation": "Paragraph 2 says deadlines were met, sick days fell and two designers decided to stay."
+        },
+        {
+          "id": "c1-rd-2-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-four-day-week",
+          "prompt": "Why does the writer mention the history of the five-day week?",
+          "options": ["To show that earlier reforms were also opposed but turned out well", "To argue that people should return to a six-day week", "To prove that the four-day week is cheaper", "To criticise modern employers for being lazy"],
+          "answer": 0,
+          "explanation": "The writer notes that employers warned the five-day week would ruin them, and 'They were wrong', implying today's critics may be wrong too."
+        },
+        {
+          "id": "c1-rd-2-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-four-day-week",
+          "prompt": "In the final paragraph, 'reflexive' most nearly means:",
+          "options": ["automatic and unthinking", "carefully considered", "polite and respectful", "related to mirrors"],
+          "answer": 0,
+          "explanation": "A 'reflexive' response is an immediate reaction made without thought, which contrasts with the writer's call for evidence."
+        },
+        {
+          "id": "c1-rd-2-q5", "type": "reading_comprehension", "category": "reading", "topic": "writer's attitude", "difficulty": 4, "stage": "independent", "passageSlug": "c1-rd-four-day-week",
+          "prompt": "Which statement best describes the writer's attitude towards critics of the four-day week?",
+          "options": ["The writer accepts some of their concerns but rejects their conclusion.", "The writer agrees with them completely.", "The writer ignores their arguments.", "The writer suggests they are dishonest."],
+          "answer": 0,
+          "explanation": "The writer concedes ('These are fair questions', 'Admittedly', 'Critics are right ...') but then argues that this is a reason for careful design, not for dismissing the idea."
+        }
+      ]
+    },
+    {
+      "slug": "c1-rd-village-library",
+      "title": "Village Library Saved After Residents' Campaign",
+      "genre": "news",
+      "body": "SUKAMAJU — A village library that was due to close at the end of the month will remain open after a six-week campaign by local residents, the district council confirmed yesterday.\n\nThe library, which was built in 1974 and is thought to hold more than 12,000 books, had been earmarked for closure as part of cost-cutting measures announced in March. Council officials had argued that falling visitor numbers made the service difficult to justify.\n\nResidents, however, disputed these figures. Led by retired teacher Ibu Ratna Sari, campaigners collected more than 3,000 signatures and organised a series of reading events that, according to volunteers, attracted record crowds. It is understood that several councillors changed their position after attending one of these events.\n\nUnder the agreement reached on Tuesday, the library will stay open on condition that volunteers run it two days a week, allowing the council to reduce staff costs. A council spokesperson said the arrangement was 'subject to review' after twelve months.\n\nNot everyone is satisfied. The union representing library staff warned that relying on volunteers could set a dangerous precedent, and that professional librarians are bound to be replaced elsewhere if the model is seen as a success. 'We welcome the decision to keep the doors open,' said union representative Pak Hendra Wijaya, 'but a library is more than a room full of books.'\n\nIbu Ratna described the outcome as 'a victory for the whole community'. 'Never have I seen so many people come together for a single cause,' she said.",
+      "glossary": [
+        { "word": "earmarked for", "meaning": "direncanakan / dialokasikan untuk" },
+        { "word": "dispute", "meaning": "membantah, mempersoalkan" },
+        { "word": "precedent", "meaning": "preseden, contoh yang akan diikuti" },
+        { "word": "subject to review", "meaning": "dapat ditinjau ulang" },
+        { "word": "councillor", "meaning": "anggota dewan (daerah)" }
+      ],
+      "questions": [
+        {
+          "id": "c1-rd-3-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea", "difficulty": 2, "stage": "independent", "passageSlug": "c1-rd-village-library",
+          "prompt": "What is the article mainly about?",
+          "options": ["A library that will stay open, with conditions, after a community campaign", "A new library built with money from the union", "A council decision to close all village libraries", "A retired teacher who wrote a book about libraries"],
+          "answer": 0,
+          "explanation": "The article reports that the library will remain open after the campaign, under certain conditions, and describes reactions to the decision."
+        },
+        {
+          "id": "c1-rd-3-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail", "difficulty": 2, "stage": "independent", "passageSlug": "c1-rd-village-library",
+          "prompt": "Under the agreement, what must happen for the library to stay open?",
+          "options": ["Volunteers must run it two days a week.", "Residents must pay an annual fee.", "The library must move to a smaller building.", "Professional staff must work at weekends."],
+          "answer": 0,
+          "explanation": "The library will stay open 'on condition that volunteers run it two days a week'."
+        },
+        {
+          "id": "c1-rd-3-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-village-library",
+          "prompt": "Why is the union concerned about the agreement?",
+          "options": ["It fears that relying on volunteers could lead to professional librarians losing their jobs.", "It wants the library to close.", "It believes the council's visitor figures were accurate.", "It is opposed to reading events for children."],
+          "answer": 0,
+          "explanation": "The union warns of a 'dangerous precedent' and says professional librarians 'are bound to be replaced elsewhere'."
+        },
+        {
+          "id": "c1-rd-3-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-village-library",
+          "prompt": "In paragraph 2, 'earmarked for closure' means:",
+          "options": ["chosen or planned for closure", "saved from closure", "closed temporarily for repairs", "reported to the police"],
+          "answer": 0,
+          "explanation": "If something is 'earmarked' for a purpose, it has been chosen or set aside for it."
+        },
+        {
+          "id": "c1-rd-3-q5", "type": "reading_comprehension", "category": "reading", "topic": "detail", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-village-library",
+          "prompt": "What does the phrase 'subject to review' tell us about the arrangement?",
+          "options": ["It may be reconsidered after twelve months.", "It is final and cannot be changed.", "It was proposed by the union.", "It has already been reversed."],
+          "answer": 0,
+          "explanation": "'Subject to review after twelve months' means the arrangement will be examined again and could change."
+        }
+      ]
+    },
+    {
+      "slug": "c1-rd-unsent-letter",
+      "title": "The Unsent Letter",
+      "genre": "story",
+      "body": "The letter had been sitting in the drawer for eleven years before Maya found it. Clearing out her late grandmother's house in Tanjung Sari, she had expected nothing more remarkable than old receipts and faded photographs. Instead, tucked beneath a pile of embroidered handkerchiefs, lay an envelope addressed to her in her grandmother's unmistakable, looping handwriting. It had never been posted.\n\nHer hands trembling slightly, Maya sat down on the edge of the bed and opened it. The paper inside was thin and slightly yellowed. 'My dear Maya,' it began, 'by the time you read this, you will probably have decided what to do with your life. I hope you have chosen the thing that frightens you a little.'\n\nMaya laughed out loud. Eleven years earlier, at nineteen, she had been offered a place at an art school in another city. Not wanting to leave her grandmother alone, she had turned it down and studied accounting instead. She had never regretted it, or so she had told herself.\n\nThe letter went on for three pages. Her grandmother wrote about her own youth, about a scholarship she had refused because her parents had needed her at home, and about the paintings she had made in secret for decades afterwards. 'Had I been braver,' she wrote, 'I might have been a different person. Not a better one, perhaps, but a more honest one.'\n\nOnly when she reached the last page did Maya understand why the letter had never been sent. At the bottom, in different ink, her grandmother had added a single line: 'She has chosen to stay with me. I cannot bring myself to tell her she was wrong.'\n\nMaya folded the letter carefully and looked around the room. In the corner, covered with a dusty sheet, stood something she had always assumed was an old mirror. She pulled the sheet away. It was a canvas: a painting of a young woman at a window, looking out at a city she had never visited.",
+      "glossary": [
+        { "word": "late (grandmother)", "meaning": "almarhumah (nenek)" },
+        { "word": "tucked beneath", "meaning": "terselip di bawah" },
+        { "word": "looping handwriting", "meaning": "tulisan tangan yang meliuk-liuk" },
+        { "word": "bring oneself to", "meaning": "sanggup memaksa diri untuk (melakukan hal yang berat)" },
+        { "word": "canvas", "meaning": "kanvas (lukisan)" }
+      ],
+      "questions": [
+        {
+          "id": "c1-rd-4-q1", "type": "reading_comprehension", "category": "reading", "topic": "main idea", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-unsent-letter",
+          "prompt": "What is the story mainly about?",
+          "options": ["A woman who finds an unsent letter that changes how she sees her own past choices", "A woman who decides to sell her grandmother's house", "A grandmother who forces her granddaughter to study accounting", "An art school that rejects a young painter"],
+          "answer": 0,
+          "explanation": "The story centres on Maya discovering the letter and what it reveals about her decision and her grandmother's life."
+        },
+        {
+          "id": "c1-rd-4-q2", "type": "reading_comprehension", "category": "reading", "topic": "detail", "difficulty": 2, "stage": "independent", "passageSlug": "c1-rd-unsent-letter",
+          "prompt": "Why had Maya turned down the place at art school?",
+          "options": ["She did not want to leave her grandmother alone.", "She failed the entrance examination.", "Her grandmother told her to study accounting.", "She preferred mathematics to art."],
+          "answer": 0,
+          "explanation": "The text says: 'Not wanting to leave her grandmother alone, she had turned it down.'"
+        },
+        {
+          "id": "c1-rd-4-q3", "type": "reading_comprehension", "category": "reading", "topic": "inference", "difficulty": 4, "stage": "independent", "passageSlug": "c1-rd-unsent-letter",
+          "prompt": "Why did the grandmother never send the letter?",
+          "options": ["She did not want Maya to feel that her decision to stay had been a mistake.", "She forgot that she had written it.", "She had lost Maya's address.", "She was angry that Maya had studied accounting."],
+          "answer": 0,
+          "explanation": "The final line ('I cannot bring myself to tell her she was wrong') shows she chose not to hurt Maya by questioning her sacrifice."
+        },
+        {
+          "id": "c1-rd-4-q4", "type": "reading_comprehension", "category": "reading", "topic": "vocabulary in context", "difficulty": 3, "stage": "independent", "passageSlug": "c1-rd-unsent-letter",
+          "prompt": "'I cannot bring myself to tell her' means:",
+          "options": ["I cannot make myself do something emotionally difficult.", "I cannot physically travel to see her.", "I am not allowed to tell her.", "I have forgotten how to tell her."],
+          "answer": 0,
+          "explanation": "'Bring oneself to do something' means to force yourself to do something unpleasant or painful."
+        },
+        {
+          "id": "c1-rd-4-q5", "type": "reading_comprehension", "category": "reading", "topic": "inference", "difficulty": 4, "stage": "independent", "passageSlug": "c1-rd-unsent-letter",
+          "prompt": "What does the painting at the end most likely suggest?",
+          "options": ["The grandmother kept painting and imagined the life she had not lived.", "Maya had painted it as a teenager.", "It was a gift from the art school.", "It was an old mirror after all."],
+          "answer": 0,
+          "explanation": "The letter mentions paintings made 'in secret', and the image of a young woman looking at a city she never visited echoes the grandmother's refused opportunity."
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "slug": "c1-ls-founder-interview",
+      "title": "Interview: Packaging Without Plastic",
+      "kind": "interview",
+      "script": [
+        { "speaker": "Host", "text": "Welcome back to Business Today. My guest is Dian Pratiwi, founder of Daun Pack, a company that makes food packaging from banana leaves and agricultural waste. Dian, thanks for joining us." },
+        { "speaker": "Dian", "text": "Thank you for having me." },
+        { "speaker": "Host", "text": "Let's start at the beginning. What made you start the company?" },
+        { "speaker": "Dian", "text": "Honestly, it was frustration. I was working in a café in Bandung, and what shocked me was how much plastic we threw away every single day. Not only was it bad for the environment, but it was costing the café a fortune. I thought there had to be a better way." },
+        { "speaker": "Host", "text": "And was there?" },
+        { "speaker": "Dian", "text": "Eventually. Our first products were, to put it politely, a disaster. They fell apart as soon as they got wet. Had I known how difficult the chemistry would be, I might never have started. But we kept experimenting, and after about two years we developed a coating that keeps the packaging waterproof for up to six hours." },
+        { "speaker": "Host", "text": "Six hours doesn't sound very long." },
+        { "speaker": "Dian", "text": "It isn't, for some uses. But for takeaway food, it's more than enough. Most meals are eaten within thirty minutes. Of course, we're working on extending that." },
+        { "speaker": "Host", "text": "What has been the biggest challenge since then?" },
+        { "speaker": "Dian", "text": "Price, without a doubt. Our packaging is still around twenty per cent more expensive than plastic, and small restaurants tend to choose the cheapest option, which is completely understandable. What we're asking the government to do is introduce a modest tax on single-use plastic. Provided that the tax is reasonable, I think most businesses would switch." },
+        { "speaker": "Host", "text": "Some would say that's rather convenient for you." },
+        { "speaker": "Dian", "text": "It is, and I'm not going to pretend otherwise. But the real cost of plastic is paid by everyone, through polluted rivers and blocked drains. A tax would simply make that cost visible." },
+        { "speaker": "Host", "text": "Dian Pratiwi, thank you very much." }
+      ],
+      "questions": [
+        {
+          "id": "c1-ls-1-q1", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-founder-interview",
+          "prompt": "Why did Dian start her company?",
+          "options": ["She was frustrated by the amount and cost of plastic waste at the café where she worked.", "She inherited a banana plantation.", "A restaurant asked her to design new packaging.", "She wanted to study chemistry at university."],
+          "answer": 0,
+          "explanation": "Dian says she was frustrated by how much plastic the café threw away and how much it cost."
+        },
+        {
+          "id": "c1-ls-1-q2", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-founder-interview",
+          "prompt": "What was the problem with the company's first products?",
+          "options": ["They fell apart when they got wet.", "They were too heavy to carry.", "They changed the taste of the food.", "They were too expensive to transport."],
+          "answer": 0,
+          "explanation": "She describes the first products as 'a disaster' because they 'fell apart as soon as they got wet'."
+        },
+        {
+          "id": "c1-ls-1-q3", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-founder-interview",
+          "prompt": "How long does the new coating keep the packaging waterproof?",
+          "options": ["up to six hours", "about thirty minutes", "about two years", "up to twenty hours"],
+          "answer": 0,
+          "explanation": "The coating keeps the packaging waterproof 'for up to six hours'."
+        },
+        {
+          "id": "c1-ls-1-q4", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 3, "stage": "independent", "listeningSlug": "c1-ls-founder-interview",
+          "prompt": "What does Dian want the government to do?",
+          "options": ["Introduce a modest tax on single-use plastic", "Ban all restaurants from using plastic immediately", "Give her company a large grant", "Reduce taxes for small restaurants"],
+          "answer": 0,
+          "explanation": "She says: 'What we're asking the government to do is introduce a modest tax on single-use plastic.'"
+        },
+        {
+          "id": "c1-ls-1-q5", "type": "listening_comprehension", "category": "listening", "topic": "inference", "difficulty": 4, "stage": "independent", "listeningSlug": "c1-ls-founder-interview",
+          "prompt": "How does Dian respond when the host suggests that a plastic tax would be convenient for her company?",
+          "options": ["She admits that it would benefit her but argues that the tax is still fair.", "She denies it and becomes angry.", "She changes the subject to her early products.", "She agrees that the tax would be a bad idea."],
+          "answer": 0,
+          "explanation": "She concedes ('It is, and I'm not going to pretend otherwise') and then justifies the tax by pointing to the hidden social cost of plastic."
+        }
+      ]
+    },
+    {
+      "slug": "c1-ls-idioms-podcast",
+      "title": "Word Nerds Podcast: Idioms at Work",
+      "kind": "podcast",
+      "script": [
+        { "speaker": "Rafi", "text": "Hi everyone, and welcome to Word Nerds, the podcast about the quirks of the English language. I'm Rafi." },
+        { "speaker": "Clara", "text": "And I'm Clara. Today we're talking about idioms at work, because a listener in Medan sent us a great question." },
+        { "speaker": "Rafi", "text": "She wrote: 'My new manager keeps saying things like let's touch base and we need to move the needle. I nod along, but half the time I have no idea what he means. Should I be using these expressions too?'" },
+        { "speaker": "Clara", "text": "Such a good question. First of all, she's definitely not alone. Even native speakers find some business idioms baffling. 'Move the needle', for example, just means to make a noticeable difference." },
+        { "speaker": "Rafi", "text": "Right. And 'touch base' simply means to make brief contact. So 'let's touch base on Friday' is just 'let's have a quick chat on Friday'." },
+        { "speaker": "Clara", "text": "As for whether she should use them herself, I'd say: by and large, understand them, but use them sparingly. If you pack every sentence with idioms, it sounds a bit as if you're reading from a corporate phrasebook." },
+        { "speaker": "Rafi", "text": "And there's the international angle. If you're working with colleagues from different countries, idioms can actually get in the way. What sounds friendly to one person may be completely confusing to another." },
+        { "speaker": "Clara", "text": "Exactly. Clarity should take precedence over colour. My rule of thumb is this: if you wouldn't feel comfortable explaining an idiom, don't use it." },
+        { "speaker": "Rafi", "text": "That's a nice rule. Though I'd add that asking what an idiom means is never embarrassing. Most managers will be happy to explain, and it might even make them realise they're overusing them." },
+        { "speaker": "Clara", "text": "Ha! That's true. So, to sum up: learn them, use a few, and never be afraid to ask." }
+      ],
+      "questions": [
+        {
+          "id": "c1-ls-2-q1", "type": "listening_comprehension", "category": "listening", "topic": "main idea", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-idioms-podcast",
+          "prompt": "What is the main topic of this episode?",
+          "options": ["Whether and how to use business idioms at work", "How to write a formal complaint to a manager", "The history of idioms in British English", "How to find a new job in Medan"],
+          "answer": 0,
+          "explanation": "The hosts answer a listener's question about understanding and using workplace idioms."
+        },
+        {
+          "id": "c1-ls-2-q2", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-idioms-podcast",
+          "prompt": "According to Clara, what does 'move the needle' mean?",
+          "options": ["to make a noticeable difference", "to work on a sewing project", "to change jobs quickly", "to arrive late for a meeting"],
+          "answer": 0,
+          "explanation": "Clara explains that 'move the needle' 'just means to make a noticeable difference'."
+        },
+        {
+          "id": "c1-ls-2-q3", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 3, "stage": "independent", "listeningSlug": "c1-ls-idioms-podcast",
+          "prompt": "What is Clara's 'rule of thumb'?",
+          "options": ["If you wouldn't feel comfortable explaining an idiom, don't use it.", "Use at least one idiom in every meeting.", "Never use idioms with international colleagues.", "Always ask your manager to avoid idioms."],
+          "answer": 0,
+          "explanation": "She says: 'if you wouldn't feel comfortable explaining an idiom, don't use it.'"
+        },
+        {
+          "id": "c1-ls-2-q4", "type": "listening_comprehension", "category": "listening", "topic": "inference", "difficulty": 3, "stage": "independent", "listeningSlug": "c1-ls-idioms-podcast",
+          "prompt": "Why does Rafi think asking a manager about an idiom could be useful for the manager too?",
+          "options": ["It might make the manager realise that he uses too many idioms.", "It would help the manager learn Indonesian.", "It would make the manager stop holding meetings.", "It would show the manager that the employee is bored."],
+          "answer": 0,
+          "explanation": "Rafi says asking 'might even make them realise they're overusing them'."
+        }
+      ]
+    },
+    {
+      "slug": "c1-ls-sleep-lecture",
+      "title": "Lecture: Sleep and Memory",
+      "kind": "monologue",
+      "script": [
+        { "speaker": "Lecturer", "text": "Good morning, everyone. Today I want to look at a question that, judging by the number of tired faces in this room, may be of some personal interest: what is the relationship between sleep and memory?" },
+        { "speaker": "Lecturer", "text": "Let me start with what is reasonably well established. A large body of research indicates that sleep plays an important role in consolidating memories, that is, in turning new, fragile memories into more stable ones. People who sleep after learning something new tend to remember it better than those who stay awake for the same length of time." },
+        { "speaker": "Lecturer", "text": "Now, what is much less clear is exactly how this happens. One influential theory suggests that during deep sleep the brain replays the day's experiences, strengthening the connections that matter and allowing others to fade. This is a plausible explanation, and there is some evidence for it from animal studies, but it would be premature to say that it has been proven in humans." },
+        { "speaker": "Lecturer", "text": "Let me give you an example from a study carried out at a university in Kota Baru. Students were asked to learn a list of sixty word pairs in the evening. Half of them then slept normally; the other half were kept awake until the following night. When tested, the students who had slept recalled approximately twenty per cent more word pairs." },
+        { "speaker": "Lecturer", "text": "That sounds impressive, but I'd urge some caution. The sample was small, around forty students, and the sleep-deprived group may simply have been too exhausted to concentrate during the test. In other words, the difference might reflect tiredness at the time of testing rather than poorer memory formation." },
+        { "speaker": "Lecturer", "text": "So, what are the practical implications for you? Well, while the precise mechanisms remain uncertain, the general advice is fairly robust: all-night study sessions before an exam are likely to be counterproductive. You would arguably be better off reviewing your notes in the evening and getting a full night's sleep." },
+        { "speaker": "Lecturer", "text": "Next week, we'll look at the role of dreaming, which, I should warn you, is an area where the evidence is even more inconclusive." }
+      ],
+      "questions": [
+        {
+          "id": "c1-ls-3-q1", "type": "listening_comprehension", "category": "listening", "topic": "main idea", "difficulty": 3, "stage": "independent", "listeningSlug": "c1-ls-sleep-lecture",
+          "prompt": "What is the main focus of the lecture?",
+          "options": ["The relationship between sleep and memory, and how strong the evidence is", "How to treat sleep disorders with medication", "The history of dream research", "Why students should study at night"],
+          "answer": 0,
+          "explanation": "The lecturer asks about the link between sleep and memory and repeatedly evaluates the strength of the evidence."
+        },
+        {
+          "id": "c1-ls-3-q2", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-sleep-lecture",
+          "prompt": "In the Kota Baru study, how much better did the students who slept perform?",
+          "options": ["They recalled about 20% more word pairs.", "They recalled exactly 60 word pairs.", "They recalled 40% more word pairs.", "They performed no better than the others."],
+          "answer": 0,
+          "explanation": "The lecturer says the students who slept 'recalled approximately twenty per cent more word pairs'."
+        },
+        {
+          "id": "c1-ls-3-q3", "type": "listening_comprehension", "category": "listening", "topic": "inference", "difficulty": 4, "stage": "independent", "listeningSlug": "c1-ls-sleep-lecture",
+          "prompt": "Why does the lecturer urge caution about the Kota Baru study?",
+          "options": ["Tiredness during the test, rather than memory formation, might explain the result.", "The students cheated during the test.", "The study was carried out on animals, not humans.", "The word pairs were too easy to remember."],
+          "answer": 0,
+          "explanation": "She notes that the sleep-deprived group 'may simply have been too exhausted to concentrate during the test'."
+        },
+        {
+          "id": "c1-ls-3-q4", "type": "listening_comprehension", "category": "listening", "topic": "detail", "difficulty": 2, "stage": "independent", "listeningSlug": "c1-ls-sleep-lecture",
+          "prompt": "What practical advice does the lecturer give?",
+          "options": ["Review your notes in the evening and get a full night's sleep.", "Study all night before an exam.", "Avoid sleeping after learning new material.", "Only study in the early morning."],
+          "answer": 0,
+          "explanation": "She says students would 'arguably be better off reviewing your notes in the evening and getting a full night's sleep'."
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "slug": "c1-sp-emphatic-anecdote",
+      "title": "An Unforgettable Achievement",
+      "kind": "guided",
+      "prompt": "Tell a short story (about 90 seconds) about an achievement you are proud of, or a moment when something surprising happened. Use at least three emphatic structures from Unit 1.",
+      "targetPhrases": ["Never had I", "Little did I know", "Not only did", "No sooner had", "Such was", "Only then did I"],
+      "sampleAnswer": "Three years ago, I signed up for a half-marathon in Yogyakarta, mainly because a friend dared me to. Little did I know how difficult the training would be. For the first month, I could barely run five kilometres without stopping. Not only did my legs ache constantly, but I also had to get up at five every morning to avoid the heat. On the day of the race, no sooner had we started than it began to pour with rain. Such was the noise of the crowd, though, that I hardly noticed. When I finally crossed the finish line, never had I felt so exhausted and so proud at the same time. Only then did I realise that I could achieve much more than I had believed.",
+      "tips": ["Use inversion at the most dramatic moments, not in every sentence.", "Pause slightly after the fronted adverbial to add emphasis.", "Mix emphatic structures with normal sentences to keep a natural rhythm."]
+    },
+    {
+      "slug": "c1-sp-clarify-position",
+      "title": "Clearing Up a Misunderstanding",
+      "kind": "role_play",
+      "prompt": "In a project meeting, a colleague says: 'So you want to cancel the marketing campaign completely?' In fact, you want to postpone it by two months and reduce the budget by 30%. Clarify your position, explain your reasons and state your priorities.",
+      "targetPhrases": ["What I'm not saying is", "What I'm saying is", "It's not that ..., it's just that", "The point is", "What matters most is", "take precedence over"],
+      "sampleAnswer": "I think there's been a slight misunderstanding. What I'm not saying is that we should cancel the campaign. What I'm saying is that we should postpone it by two months and reduce the budget by about thirty per cent. It's not that I doubt the campaign's value; it's just that our sales data for the last quarter are still incomplete. The point is that we risk spending a lot of money on the wrong audience. What matters most right now is getting the targeting right, and that has to take precedence over launching on the original date.",
+      "tips": ["Start by acknowledging the misunderstanding politely.", "Use contrastive stress on the key words: 'I'm not saying CANCEL; I'm saying POSTPONE'.", "Finish with a clear statement of your priority."]
+    },
+    {
+      "slug": "c1-sp-neutral-news-report",
+      "title": "Reporting a Rumour Objectively",
+      "kind": "situation",
+      "prompt": "You present a short local radio news bulletin. There are unconfirmed reports that a popular shopping centre will close next month and that it has serious structural problems. Report the story in about one minute without presenting the claims as facts.",
+      "targetPhrases": ["It is reported that", "is said to have", "There are thought to be", "according to unconfirmed reports", "allegedly", "has not yet confirmed"],
+      "sampleAnswer": "Good evening. It is reported that the Harapan Jaya shopping centre could close as early as next month. According to unconfirmed reports from local traders, the building is said to have developed serious structural problems, and there are thought to be cracks in at least two of its upper floors. The owners have allegedly known about the issue since last year. However, the management company has not yet confirmed these claims, and a spokesperson said this afternoon that the centre remains open and safe for visitors. We will bring you more information as soon as it becomes available.",
+      "tips": ["Name the type of source rather than presenting claims as facts.", "Use impersonal passives and distancing adverbs.", "Include the official response to keep the report balanced."]
+    },
+    {
+      "slug": "c1-sp-negotiate-terms",
+      "title": "Negotiating Conditions",
+      "kind": "role_play",
+      "prompt": "You run a small catering company. A conference organiser wants you to provide lunch for 300 people at a 20% discount. You can offer 12%, but only if they pay a 50% deposit in advance and confirm numbers one week before the event. Negotiate politely.",
+      "targetPhrases": ["provided that", "on condition that", "Should", "in the event of", "Supposing", "We could offer"],
+      "sampleAnswer": "Thank you for considering us. I'm afraid twenty per cent would be difficult for us, but we could offer a twelve per cent discount, provided that you pay a fifty per cent deposit in advance. We would also need final numbers one week before the event. Should the numbers change after that, we would charge for the confirmed total. In the event of a cancellation more than two weeks in advance, the deposit would be fully refunded. Supposing we agreed on these terms today, would you be able to send the deposit by the end of the month?",
+      "tips": ["Soften proposals with could and would.", "State each condition clearly and separately.", "End with a question that moves the negotiation forward."]
+    },
+    {
+      "slug": "c1-sp-debate-rebuttal",
+      "title": "Debate: Car-Free City Centres",
+      "kind": "situation",
+      "prompt": "In a debate, your opponent argues: 'Banning cars from the city centre would destroy local businesses.' Respond in about 90 seconds. Acknowledge the point, then rebut it and present your own position.",
+      "targetPhrases": ["Admittedly", "Nevertheless", "While it is true that", "This argument overlooks", "There is little evidence that", "Moreover"],
+      "sampleAnswer": "While it is true that some shops depend on customers who arrive by car, I would argue that this concern is exaggerated. Admittedly, there may be a difficult transition period, especially for businesses that sell large or heavy items. Nevertheless, this argument overlooks what has happened in many cities that have pedestrianised their centres: footfall often increases, because people enjoy walking and spending time in a quieter, cleaner environment. Moreover, there is little evidence that most shoppers in the centre actually drive there; many already use buses or motorbike taxis. What is needed, therefore, is not to abandon the idea but to support businesses with good public transport and delivery services.",
+      "tips": ["Concede before you rebut; it makes you sound fair.", "Put your own view in the main clause, not in the 'while' clause.", "Use precise debate language rather than simply saying 'You are wrong'."]
+    },
+    {
+      "slug": "c1-sp-polite-extension",
+      "title": "Asking for a Deadline Extension",
+      "kind": "role_play",
+      "prompt": "You need three more days to finish an important report because a supplier sent you the data late. Ask your senior manager for an extension politely and professionally.",
+      "targetPhrases": ["I was wondering if", "Would it be possible", "I'd be grateful if", "I'm afraid", "It would seem that", "might"],
+      "sampleAnswer": "Good morning, Ibu Wulan. Do you have a moment? I was wondering if I could ask you about the deadline for the quarterly report. I'm afraid the supplier only sent us the sales data yesterday, three days later than agreed, and it would seem that some of the figures still need to be checked. Would it be possible to submit the report on Monday instead of Thursday? I'd be grateful if you could let me know whether that might work. In the meantime, I can send you a summary of the main findings by Thursday, so that you have something for the board meeting.",
+      "tips": ["Use past forms such as 'I was wondering' to create polite distance.", "Explain the reason briefly without blaming anyone too strongly.", "Offer a partial solution to show responsibility."]
+    },
+    {
+      "slug": "c1-sp-word-stress-derivations",
+      "title": "Word Stress in Word Families",
+      "kind": "pronunciation",
+      "prompt": "Read the pairs aloud, paying attention to how the stressed syllable moves: ECOnomy – ecoNOMic; PHOtograph – phoTOgraphy – photoGRAphic; ANalyse – aNAlysis; COMpetent – comPEtitive; PRObable – probaBIlity. Then read this sentence: 'The analysis of economic data suggests that photography is becoming a competitive profession.'",
+      "targetPhrases": ["economy / economic", "photograph / photography / photographic", "analyse / analysis", "probable / probability"],
+      "sampleAnswer": "ECOnomy, ecoNOMic. PHOtograph, phoTOgraphy, photoGRAphic. ANalyse, aNAlysis. COMpetent, comPEtitive. PRObable, probaBIlity. The aNAlysis of ecoNOMic data suggests that phoTOgraphy is becoming a comPEtitive proFEssion.",
+      "tips": ["Words ending in -ic and -ity usually stress the syllable just before the suffix.", "Words ending in -tion and -sion stress the syllable before the suffix (reDUCtion, deCIsion).", "Reduce unstressed vowels to a weak /ə/ sound."]
+    }
+  ],
+  "writing": [
+    {
+      "slug": "c1-wr-community-service-essay",
+      "title": "Argumentative Essay: Compulsory Community Service",
+      "kind": "essay",
+      "instructions": "Some people believe that universities should make community service a compulsory part of every degree. Others argue that it should remain voluntary. Discuss both views and give your own opinion. Use a clear introduction, body paragraphs with topic sentences, concession and rebuttal, and a conclusion. Include at least two cleft or inverted structures and appropriate hedging.",
+      "minWords": 250,
+      "maxWords": 320,
+      "modelAnswer": "In recent years, a growing number of universities have introduced community service programmes, and some educators now argue that such service should be a compulsory part of every degree. While there are reasonable objections to this proposal, I believe that a carefully designed requirement would benefit both students and society.\n\nOpponents of compulsory service raise two main concerns. First, many students already struggle to balance their studies with part-time jobs, and an additional obligation could place them under considerable pressure. Second, it could be argued that volunteering loses its value when it is no longer voluntary: students who are forced to participate may do the minimum required, which helps neither them nor the communities they are supposed to serve.\n\nThese concerns are valid, and they should shape how any scheme is designed. Nevertheless, they do not, in my view, justify rejecting the idea altogether. What students gain from community service is not only practical experience but also a deeper understanding of the society in which they will eventually work. A medical student who has helped at a rural health clinic, for instance, is likely to approach patients with greater empathy than one who has only studied in a laboratory. Moreover, communities stand to benefit from the skills and energy that students can offer.\n\nThe key, therefore, lies in flexibility. Were universities to allow students to choose the type, timing and location of their service, and to count it towards their degree credits, the burden would be manageable and the experience far more meaningful.\n\nIn conclusion, although compulsory service raises legitimate practical concerns, a flexible, well-supported programme would arguably do more good than harm. It is essential that universities consult students when designing such schemes."
+    },
+    {
+      "slug": "c1-wr-airline-complaint",
+      "title": "Formal Email: Complaint to an Airline",
+      "kind": "email_formal",
+      "instructions": "Your flight with Bintang Air from Kota Lestari to Pulau Indah was cancelled at the last minute. Passengers received no information for three hours and no food or accommodation. You paid for a hotel yourself and missed a business meeting. Write a formal email of complaint. Describe what happened, explain the consequences, and state clearly what action you expect. Use formal register, at least one participle clause and one inverted conditional.",
+      "minWords": 150,
+      "maxWords": 230,
+      "modelAnswer": "Dear Sir or Madam,\n\nI am writing to complain about the cancellation of flight BA 721 from Kota Lestari to Pulau Indah on 12 March and the way in which it was handled.\n\nHaving checked in two hours before departure, I was informed at the gate that the flight had been cancelled for 'operational reasons'. No further explanation was given. Not only were passengers left without information for over three hours, but we were also offered no food, drinks or accommodation, despite the fact that the next available flight was not until the following morning. As a result, I had to pay for a hotel room myself and missed an important business meeting.\n\nIn light of the above, I would be grateful if you could refund the cost of my hotel (Rp 850,000; receipt attached) and provide compensation in accordance with your passenger charter. I would also appreciate an explanation of why passengers were not kept informed.\n\nShould you require any further information, please do not hesitate to contact me. I look forward to your prompt reply.\n\nYours faithfully,\n\nAndra Kusuma"
+    },
+    {
+      "slug": "c1-wr-green-roofs-summary",
+      "title": "Summary of an Academic Text",
+      "kind": "summary",
+      "instructions": "Read the text 'Green Roofs and the Urban Heat Island Effect' in the Reading section. Write a summary of the main findings, limitations and conclusion. Use your own words as far as possible, report the findings with appropriate hedging, and do not add your own opinion.",
+      "minWords": 90,
+      "maxWords": 130,
+      "modelAnswer": "The text discusses whether green roofs can reduce the urban heat island effect, in which cities become warmer than surrounding areas. A study in Pelabuhan Baru found that green roofs were, on average, about 15°C cooler at midday than conventional roofs, and that buildings with green roofs appeared to use less energy for air conditioning. However, the author stresses that these findings should be treated with caution, since the sample was small and limited to one district, and the building owners may have been more energy-conscious in general. Green roofs also have drawbacks, including high installation and maintenance costs. The author concludes that larger studies are needed before authorities consider offering incentives."
+    },
+    {
+      "slug": "c1-wr-remote-work-opinion",
+      "title": "Opinion Article: The Future of Remote Work",
+      "kind": "opinion",
+      "instructions": "Write an opinion article for a business magazine with the title 'Remote work: a privilege or the future of work?'. Present your view clearly, acknowledge at least one opposing argument, and use discourse markers and summary nouns to make your text cohesive.",
+      "minWords": 220,
+      "maxWords": 300,
+      "modelAnswer": "Remote work is often presented as either a miracle or a disaster. In reality, it is neither. What the past few years have shown is that, for many office-based jobs, the question is no longer whether people can work from home, but how often they should.\n\nThere are clear advantages. Employees save hours of commuting each week, which, in a congested city such as Kota Lestari, can amount to an entire working day. Companies, meanwhile, can reduce the cost of office space and recruit talented people who live far from their headquarters.\n\nAdmittedly, remote work has its downsides. Younger employees in particular may miss out on the informal learning that happens when you sit next to experienced colleagues. Teams can also become isolated, and some managers find it difficult to build trust with people they rarely see.\n\nNevertheless, these problems are arguably a matter of organisation rather than location. Regular in-person days, structured mentoring and clear communication can address most of them. It is not that the office has become irrelevant; it is simply that its purpose has changed. Rather than a place where everyone must be present from nine to five, it is becoming a place for collaboration, training and building relationships.\n\nRemote work, then, is not a privilege to be granted reluctantly, nor a revolution that will empty our offices. It is a tool. Used thoughtfully, it can make working life fairer and more productive for employers and employees alike."
+    },
+    {
+      "slug": "c1-wr-academic-correction",
+      "title": "Correction: From Informal to Academic",
+      "kind": "correction",
+      "instructions": "Rewrite the following paragraph in a formal, academic style. Correct all grammatical errors, remove informal language, use nominalisation where appropriate and hedge any overstated claims.\n\n'So basically the survey we did showed that loads of students doesn't sleep enough. Its a big problem because tired students gets worse grades, and this effect is proved by our data. We think the uni should do something about it asap.'",
+      "minWords": 60,
+      "maxWords": 120,
+      "modelAnswer": "The survey conducted for this study indicates that a considerable proportion of students do not obtain sufficient sleep. This is a matter of concern, as sleep deprivation appears to be associated with lower academic performance, although the present data do not establish a causal relationship. It is therefore recommended that the university take prompt action, for example by raising awareness of healthy sleep habits and reviewing the scheduling of early-morning examinations."
+    },
+    {
+      "slug": "c1-wr-advice-email-friend",
+      "title": "Informal Email: Advice for a New Job Abroad",
+      "kind": "email_informal",
+      "instructions": "Your friend Tasya is starting a new job in an English-speaking office abroad. She has asked for your advice about understanding idioms and sounding polite at work. Write an informal email with practical tips. Use a natural, friendly tone and include at least two idioms correctly.",
+      "minWords": 120,
+      "maxWords": 190,
+      "modelAnswer": "Hi Tasya,\n\nCongratulations again on the new job! I'm so proud of you for taking the plunge and moving to Melbourne.\n\nSince you asked for tips, here are a few things I learned when I started working in an English-speaking office. First, you'll hear lots of idioms in meetings, things like 'let's touch base' or 'are we all on the same page?'. Don't worry if you don't understand them all at first; just ask. Honestly, people are usually happy to explain.\n\nSecond, English speakers tend to be quite indirect when they ask for things. Instead of 'Send me the file', they'll say 'I was wondering if you could send me the file'. It might feel a bit long-winded at first, but it really helps you come across as polite.\n\nAnyway, I'm sure you'll hit it off with your new colleagues. Let me know how your first week goes!\n\nLove,\nDinda"
+    }
+  ],
+  "vocabulary": [
+    { "word": "unprecedented", "pos": "adjective", "ipa": "/ʌnˈpresɪdentɪd/", "definition": "never having happened or existed before", "meaning": "belum pernah terjadi sebelumnya", "examples": [{ "en": "The city faced an unprecedented demand for housing.", "id": "Kota itu menghadapi permintaan perumahan yang belum pernah terjadi sebelumnya." }], "synonyms": ["unparalleled", "unheard-of"], "antonyms": ["common", "routine"], "collocations": ["unprecedented scale", "unprecedented levels"], "phrases": ["on an unprecedented scale"], "related": ["precedent"], "topic": "achievement" },
+    { "word": "remarkable", "pos": "adjective", "ipa": "/rɪˈmɑːkəbl/", "definition": "unusual or impressive enough to be noticed", "meaning": "luar biasa", "examples": [{ "en": "She made a remarkable recovery after the accident.", "id": "Ia pulih dengan luar biasa setelah kecelakaan itu." }], "synonyms": ["extraordinary", "outstanding", "striking"], "antonyms": ["ordinary", "unremarkable"], "collocations": ["remarkable achievement", "remarkable recovery"], "phrases": ["remarkably similar"], "related": ["remark", "remarkably"], "topic": "achievement" },
+    { "word": "milestone", "pos": "noun", "ipa": "/ˈmaɪlstəʊn/", "definition": "an important stage or event in the development of something", "meaning": "tonggak sejarah, pencapaian penting", "examples": [{ "en": "Reaching one million users was a major milestone for the start-up.", "id": "Mencapai satu juta pengguna adalah tonggak penting bagi perusahaan rintisan itu." }], "synonyms": ["landmark", "turning point"], "antonyms": [], "collocations": ["reach a milestone", "mark a milestone", "major milestone"], "phrases": [], "related": [], "topic": "achievement" },
+    { "word": "acclaim", "pos": "noun", "ipa": "/əˈkleɪm/", "definition": "enthusiastic public praise", "meaning": "pujian luas", "examples": [{ "en": "Her first novel received widespread critical acclaim.", "id": "Novel pertamanya mendapat pujian luas dari para kritikus." }], "synonyms": ["praise", "recognition"], "antonyms": ["criticism", "condemnation"], "collocations": ["critical acclaim", "win acclaim", "international acclaim"], "phrases": [], "related": ["acclaimed"], "topic": "achievement" },
+    { "word": "breakthrough", "pos": "noun", "ipa": "/ˈbreɪkθruː/", "definition": "an important discovery or development that helps solve a problem", "meaning": "terobosan", "examples": [{ "en": "Scientists have made a breakthrough in battery technology.", "id": "Para ilmuwan telah membuat terobosan dalam teknologi baterai." }], "synonyms": ["advance", "discovery"], "antonyms": ["setback"], "collocations": ["make a breakthrough", "major breakthrough", "scientific breakthrough"], "phrases": ["a breakthrough in negotiations"], "related": [], "topic": "achievement" },
+    { "word": "persevere", "pos": "verb", "ipa": "/ˌpɜːsɪˈvɪə(r)/", "definition": "continue trying to do something despite difficulties", "meaning": "bertekun, pantang menyerah", "examples": [{ "en": "She persevered with her studies despite financial problems.", "id": "Ia tetap tekun belajar meskipun mengalami masalah keuangan." }], "synonyms": ["persist", "keep going"], "antonyms": ["give up", "quit"], "collocations": ["persevere with", "persevere in"], "phrases": [], "related": ["perseverance"], "topic": "achievement" },
+    { "word": "staggering", "pos": "adjective", "ipa": "/ˈstæɡərɪŋ/", "definition": "so great or surprising that it is difficult to believe", "meaning": "sangat mengejutkan, mencengangkan", "examples": [{ "en": "The project cost a staggering amount of money.", "id": "Proyek itu menghabiskan uang dalam jumlah yang sangat mencengangkan." }], "synonyms": ["astonishing", "astounding"], "antonyms": ["trivial", "insignificant"], "collocations": ["staggering amount", "staggering number", "staggering cost"], "phrases": [], "related": ["stagger"], "topic": "surprise" },
+    { "word": "dumbfounded", "pos": "adjective", "ipa": "/ˌdʌmˈfaʊndɪd/", "definition": "so surprised that you cannot speak", "meaning": "tercengang hingga tak bisa berkata-kata", "examples": [{ "en": "We were dumbfounded by the sudden announcement.", "id": "Kami tercengang oleh pengumuman yang tiba-tiba itu." }], "synonyms": ["speechless", "stunned", "astounded"], "antonyms": ["unsurprised"], "collocations": ["utterly dumbfounded"], "phrases": ["leave someone dumbfounded"], "related": [], "topic": "surprise" },
+    { "word": "paramount", "pos": "adjective", "ipa": "/ˈpærəmaʊnt/", "definition": "more important than anything else", "meaning": "paling utama, terpenting", "examples": [{ "en": "Patient safety is paramount.", "id": "Keselamatan pasien adalah yang paling utama." }], "synonyms": ["supreme", "foremost", "overriding"], "antonyms": ["secondary", "minor"], "collocations": ["of paramount importance", "paramount concern"], "phrases": [], "related": [], "topic": "priorities" },
+    { "word": "contention", "pos": "noun", "ipa": "/kənˈtenʃn/", "definition": "an opinion that someone argues for; disagreement", "meaning": "pendapat yang dipertahankan; perselisihan", "examples": [{ "en": "It is my contention that the law is unfair.", "id": "Menurut pendapat saya, undang-undang itu tidak adil." }], "synonyms": ["assertion", "claim", "dispute"], "antonyms": ["agreement"], "collocations": ["main contention"], "phrases": ["a bone of contention", "a point of contention"], "related": ["contend", "contentious"], "topic": "opinions" },
+    { "word": "underlying", "pos": "adjective", "ipa": "/ˌʌndəˈlaɪɪŋ/", "definition": "real or basic but not immediately obvious", "meaning": "yang mendasari", "examples": [{ "en": "We need to address the underlying causes of poverty.", "id": "Kita perlu mengatasi penyebab mendasar kemiskinan." }], "synonyms": ["fundamental", "root"], "antonyms": ["superficial"], "collocations": ["underlying cause", "underlying problem", "underlying assumption"], "phrases": [], "related": ["underlie"], "topic": "opinions" },
+    { "word": "misconception", "pos": "noun", "ipa": "/ˌmɪskənˈsepʃn/", "definition": "a wrong belief based on faulty understanding", "meaning": "salah kaprah, anggapan keliru", "examples": [{ "en": "It is a common misconception that bats are blind.", "id": "Anggapan bahwa kelelawar buta adalah salah kaprah yang umum." }], "synonyms": ["fallacy", "myth", "misunderstanding"], "antonyms": ["fact"], "collocations": ["common misconception", "popular misconception"], "phrases": ["correct a misconception"], "related": [], "topic": "clarification" },
+    { "word": "pivotal", "pos": "adjective", "ipa": "/ˈpɪvətl/", "definition": "of central importance; causing a major change", "meaning": "sangat penting, menentukan", "examples": [{ "en": "She played a pivotal role in the negotiations.", "id": "Ia memainkan peran yang sangat menentukan dalam negosiasi itu." }], "synonyms": ["crucial", "critical", "key"], "antonyms": ["peripheral", "minor"], "collocations": ["pivotal role", "pivotal moment"], "phrases": [], "related": ["pivot"], "topic": "priorities" },
+    { "word": "clarify", "pos": "verb", "ipa": "/ˈklærəfaɪ/", "definition": "make something easier to understand", "meaning": "memperjelas", "examples": [{ "en": "Could you clarify what you mean by 'flexible'?", "id": "Bisakah Anda memperjelas apa yang Anda maksud dengan 'fleksibel'?" }], "synonyms": ["explain", "elucidate"], "antonyms": ["confuse", "obscure"], "collocations": ["clarify a point", "clarify the situation"], "phrases": [], "related": ["clarification", "clarity"], "topic": "clarification" },
+    { "word": "allegation", "pos": "noun", "ipa": "/ˌæləˈɡeɪʃn/", "definition": "a claim, without proof, that someone has done something wrong", "meaning": "tuduhan", "examples": [{ "en": "The minister denied the allegations of corruption.", "id": "Menteri itu membantah tuduhan korupsi tersebut." }], "synonyms": ["accusation", "claim"], "antonyms": [], "collocations": ["deny an allegation", "make an allegation", "serious allegations"], "phrases": [], "related": ["allege", "allegedly"], "topic": "journalism" },
+    { "word": "speculation", "pos": "noun", "ipa": "/ˌspekjuˈleɪʃn/", "definition": "forming opinions or guesses without firm evidence", "meaning": "spekulasi, dugaan", "examples": [{ "en": "There is growing speculation about the director's future.", "id": "Semakin banyak spekulasi tentang masa depan direktur itu." }], "synonyms": ["conjecture", "rumour"], "antonyms": ["certainty", "fact"], "collocations": ["widespread speculation", "fuel speculation", "pure speculation"], "phrases": [], "related": ["speculate", "speculative"], "topic": "rumours" },
+    { "word": "unsubstantiated", "pos": "adjective", "ipa": "/ˌʌnsəbˈstænʃieɪtɪd/", "definition": "not supported or proven by evidence", "meaning": "tidak didukung bukti", "examples": [{ "en": "The claims remain completely unsubstantiated.", "id": "Klaim-klaim itu sama sekali tidak didukung bukti." }], "synonyms": ["unfounded", "unproven", "groundless"], "antonyms": ["verified", "substantiated"], "collocations": ["unsubstantiated claims", "unsubstantiated rumours"], "phrases": [], "related": ["substantiate"], "topic": "rumours" },
+    { "word": "allegedly", "pos": "adverb", "ipa": "/əˈledʒɪdli/", "definition": "according to what someone has claimed, without proof", "meaning": "diduga", "examples": [{ "en": "The suspect allegedly stole confidential documents.", "id": "Tersangka diduga mencuri dokumen rahasia." }], "synonyms": ["reportedly", "supposedly", "purportedly"], "antonyms": [], "collocations": ["allegedly involved", "allegedly stolen"], "phrases": [], "related": ["allege", "allegation"], "topic": "journalism" },
+    { "word": "disclose", "pos": "verb", "ipa": "/dɪsˈkləʊz/", "definition": "make new or secret information known", "meaning": "mengungkapkan", "examples": [{ "en": "The company refused to disclose the details of the deal.", "id": "Perusahaan itu menolak mengungkapkan rincian kesepakatan tersebut." }], "synonyms": ["reveal", "divulge"], "antonyms": ["conceal", "withhold"], "collocations": ["disclose information", "fully disclose"], "phrases": [], "related": ["disclosure"], "topic": "journalism" },
+    { "word": "corroborate", "pos": "verb", "ipa": "/kəˈrɒbəreɪt/", "definition": "confirm or support a statement with evidence", "meaning": "menguatkan (dengan bukti)", "examples": [{ "en": "Two witnesses corroborated her account of the accident.", "id": "Dua saksi menguatkan keterangannya tentang kecelakaan itu." }], "synonyms": ["confirm", "verify", "support"], "antonyms": ["contradict", "refute"], "collocations": ["corroborate evidence", "corroborate a story"], "phrases": [], "related": ["corroboration"], "topic": "research" },
+    { "word": "subsequently", "pos": "adverb", "ipa": "/ˈsʌbsɪkwəntli/", "definition": "after something else happened", "meaning": "kemudian, selanjutnya", "examples": [{ "en": "The plan was subsequently abandoned.", "id": "Rencana itu kemudian ditinggalkan." }], "synonyms": ["later", "afterwards"], "antonyms": ["previously"], "collocations": ["subsequently published"], "phrases": [], "related": ["subsequent"], "topic": "processes" },
+    { "word": "dispatch", "pos": "verb", "ipa": "/dɪˈspætʃ/", "definition": "send someone or something to a destination", "meaning": "mengirimkan", "examples": [{ "en": "Your order will be dispatched within 24 hours.", "id": "Pesanan Anda akan dikirim dalam 24 jam." }], "synonyms": ["send", "ship"], "antonyms": ["receive"], "collocations": ["dispatch goods", "dispatch an order"], "phrases": [], "related": ["dispatcher"], "topic": "processes" },
+    { "word": "meticulous", "pos": "adjective", "ipa": "/məˈtɪkjələs/", "definition": "showing great attention to detail", "meaning": "sangat teliti, cermat", "examples": [{ "en": "She kept meticulous records of every experiment.", "id": "Ia menyimpan catatan yang sangat teliti untuk setiap eksperimen." }], "synonyms": ["thorough", "careful", "precise"], "antonyms": ["careless", "sloppy"], "collocations": ["meticulous planning", "meticulous attention to detail"], "phrases": [], "related": ["meticulously"], "topic": "processes" },
+    { "word": "streamline", "pos": "verb", "ipa": "/ˈstriːmlaɪn/", "definition": "make a system or process simpler and more efficient", "meaning": "menyederhanakan, mengefisienkan", "examples": [{ "en": "The new software has streamlined the ordering process.", "id": "Perangkat lunak baru itu telah menyederhanakan proses pemesanan." }], "synonyms": ["simplify", "rationalise"], "antonyms": ["complicate"], "collocations": ["streamline operations", "streamline the process"], "phrases": [], "related": ["streamlined"], "topic": "processes" },
+    { "word": "sequential", "pos": "adjective", "ipa": "/sɪˈkwenʃl/", "definition": "following in a logical order or sequence", "meaning": "berurutan", "examples": [{ "en": "The instructions are presented in sequential order.", "id": "Petunjuknya disajikan secara berurutan." }], "synonyms": ["consecutive", "ordered"], "antonyms": ["random"], "collocations": ["sequential order", "sequential steps"], "phrases": [], "related": ["sequence"], "topic": "narratives" },
+    { "word": "hypothesis", "pos": "noun", "ipa": "/haɪˈpɒθəsɪs/", "definition": "an idea or explanation that is tested through research", "meaning": "hipotesis", "examples": [{ "en": "The data support the original hypothesis.", "id": "Data tersebut mendukung hipotesis awal." }], "synonyms": ["theory", "proposition"], "antonyms": [], "collocations": ["test a hypothesis", "support a hypothesis", "reject a hypothesis"], "phrases": [], "related": ["hypothetical", "hypothesise"], "topic": "research" },
+    { "word": "correlation", "pos": "noun", "ipa": "/ˌkɒrəˈleɪʃn/", "definition": "a connection between two things that change together", "meaning": "korelasi", "examples": [{ "en": "There is a strong correlation between education and income.", "id": "Ada korelasi yang kuat antara pendidikan dan pendapatan." }], "synonyms": ["association", "link", "relationship"], "antonyms": [], "collocations": ["strong correlation", "positive correlation", "negative correlation"], "phrases": ["correlation does not imply causation"], "related": ["correlate"], "topic": "research" },
+    { "word": "empirical", "pos": "adjective", "ipa": "/ɪmˈpɪrɪkl/", "definition": "based on observation or experiment rather than theory", "meaning": "empiris", "examples": [{ "en": "There is little empirical evidence for this claim.", "id": "Hanya ada sedikit bukti empiris untuk klaim ini." }], "synonyms": ["observational", "experimental"], "antonyms": ["theoretical"], "collocations": ["empirical evidence", "empirical study", "empirical data"], "phrases": [], "related": ["empirically"], "topic": "research" },
+    { "word": "plausible", "pos": "adjective", "ipa": "/ˈplɔːzəbl/", "definition": "seeming reasonable or likely to be true", "meaning": "masuk akal", "examples": [{ "en": "That is a plausible explanation, but it needs testing.", "id": "Itu penjelasan yang masuk akal, tetapi perlu diuji." }], "synonyms": ["credible", "reasonable"], "antonyms": ["implausible", "far-fetched"], "collocations": ["plausible explanation", "plausible argument"], "phrases": [], "related": ["plausibility"], "topic": "research" },
+    { "word": "tentative", "pos": "adjective", "ipa": "/ˈtentətɪv/", "definition": "not certain or fixed; done cautiously", "meaning": "sementara, belum pasti", "examples": [{ "en": "The two sides reached a tentative agreement.", "id": "Kedua pihak mencapai kesepakatan sementara." }], "synonyms": ["provisional", "cautious"], "antonyms": ["definite", "final"], "collocations": ["tentative conclusion", "tentative agreement"], "phrases": [], "related": ["tentatively"], "topic": "research" },
+    { "word": "robust", "pos": "adjective", "ipa": "/rəʊˈbʌst/", "definition": "strong and unlikely to fail or be proved wrong", "meaning": "kuat, kokoh", "examples": [{ "en": "The study used a robust methodology.", "id": "Studi itu menggunakan metodologi yang kuat." }], "synonyms": ["strong", "sound", "solid"], "antonyms": ["weak", "fragile"], "collocations": ["robust evidence", "robust economy", "robust design"], "phrases": [], "related": ["robustness"], "topic": "research" },
+    { "word": "inconclusive", "pos": "adjective", "ipa": "/ˌɪnkənˈkluːsɪv/", "definition": "not leading to a firm conclusion or result", "meaning": "tidak meyakinkan, belum dapat disimpulkan", "examples": [{ "en": "The results of the trial were inconclusive.", "id": "Hasil uji coba itu belum dapat disimpulkan." }], "synonyms": ["indecisive", "uncertain"], "antonyms": ["conclusive", "decisive"], "collocations": ["inconclusive evidence", "inconclusive results"], "phrases": [], "related": ["conclusion"], "topic": "research" },
+    { "word": "compelling", "pos": "adjective", "ipa": "/kəmˈpelɪŋ/", "definition": "so convincing that you have to accept it; very interesting", "meaning": "meyakinkan; memikat", "examples": [{ "en": "There is compelling evidence that exercise reduces stress.", "id": "Ada bukti yang meyakinkan bahwa olahraga mengurangi stres." }], "synonyms": ["convincing", "persuasive"], "antonyms": ["weak", "unconvincing"], "collocations": ["compelling evidence", "compelling argument", "compelling reason"], "phrases": [], "related": ["compel"], "topic": "research" },
+    { "word": "arguably", "pos": "adverb", "ipa": "/ˈɑːɡjuəbli/", "definition": "used when stating an opinion that can reasonably be supported", "meaning": "bisa dibilang, dapat dikatakan", "examples": [{ "en": "He is arguably the finest writer of his generation.", "id": "Ia bisa dibilang penulis terbaik di generasinya." }], "synonyms": ["possibly", "debatably"], "antonyms": ["indisputably"], "collocations": ["arguably the best", "arguably the most important"], "phrases": [], "related": ["argue", "argument"], "topic": "research" },
+    { "word": "attribute", "pos": "verb", "ipa": "/əˈtrɪbjuːt/", "definition": "say or believe that something is caused by something else", "meaning": "mengaitkan (dengan penyebab tertentu)", "examples": [{ "en": "The decline in sales was attributed to rising costs.", "id": "Penurunan penjualan dikaitkan dengan naiknya biaya." }], "synonyms": ["ascribe", "credit"], "antonyms": [], "collocations": ["attribute something to something", "largely attributed to"], "phrases": [], "related": ["attributable", "attribution"], "topic": "research" },
+    { "word": "liability", "pos": "noun", "ipa": "/ˌlaɪəˈbɪləti/", "definition": "legal responsibility for something, especially costs or damage", "meaning": "tanggung jawab hukum", "examples": [{ "en": "The company denied liability for the accident.", "id": "Perusahaan itu menyangkal bertanggung jawab atas kecelakaan tersebut." }], "synonyms": ["responsibility", "accountability"], "antonyms": ["immunity"], "collocations": ["accept liability", "deny liability", "limited liability"], "phrases": [], "related": ["liable"], "topic": "agreements" },
+    { "word": "contingent", "pos": "adjective", "ipa": "/kənˈtɪndʒənt/", "definition": "depending on something else happening", "meaning": "bergantung (pada)", "examples": [{ "en": "The deal is contingent on government approval.", "id": "Kesepakatan itu bergantung pada persetujuan pemerintah." }], "synonyms": ["dependent", "conditional"], "antonyms": ["independent"], "collocations": ["contingent on", "contingent upon"], "phrases": [], "related": ["contingency"], "topic": "agreements" },
+    { "word": "waive", "pos": "verb", "ipa": "/weɪv/", "definition": "choose not to require or insist on a right, fee or rule", "meaning": "mengesampingkan (hak), membebaskan (biaya)", "examples": [{ "en": "The bank agreed to waive the late payment fee.", "id": "Bank setuju untuk membebaskan biaya keterlambatan pembayaran." }], "synonyms": ["forgo", "set aside"], "antonyms": ["enforce", "impose"], "collocations": ["waive a fee", "waive a right"], "phrases": [], "related": ["waiver"], "topic": "agreements" },
+    { "word": "stipulate", "pos": "verb", "ipa": "/ˈstɪpjuleɪt/", "definition": "state clearly that something must be done, especially in an agreement", "meaning": "menetapkan (sebagai syarat)", "examples": [{ "en": "The contract stipulates that payment must be made within 30 days.", "id": "Kontrak itu menetapkan bahwa pembayaran harus dilakukan dalam 30 hari." }], "synonyms": ["specify", "require"], "antonyms": [], "collocations": ["clearly stipulate", "stipulate that"], "phrases": [], "related": ["stipulation"], "topic": "agreements" },
+    { "word": "safeguard", "pos": "noun / verb", "ipa": "/ˈseɪfɡɑːd/", "definition": "something that protects against harm or loss; to protect", "meaning": "pengaman; melindungi", "examples": [{ "en": "New safeguards were introduced to protect personal data.", "id": "Pengaman baru diterapkan untuk melindungi data pribadi." }], "synonyms": ["protection", "precaution"], "antonyms": ["threat", "risk"], "collocations": ["adequate safeguards", "safeguard against"], "phrases": [], "related": [], "topic": "risk" },
+    { "word": "viable", "pos": "adjective", "ipa": "/ˈvaɪəbl/", "definition": "able to work successfully", "meaning": "layak, dapat dijalankan", "examples": [{ "en": "Is the plan financially viable?", "id": "Apakah rencana itu layak secara finansial?" }], "synonyms": ["feasible", "workable", "practicable"], "antonyms": ["unworkable", "impractical"], "collocations": ["commercially viable", "viable option", "viable alternative"], "phrases": [], "related": ["viability"], "topic": "opportunity" },
+    { "word": "jeopardise", "pos": "verb", "ipa": "/ˈdʒepədaɪz/", "definition": "put something at risk of being harmed or lost", "meaning": "membahayakan, mempertaruhkan", "examples": [{ "en": "One careless mistake could jeopardise the whole project.", "id": "Satu kesalahan ceroboh bisa membahayakan seluruh proyek." }], "synonyms": ["endanger", "threaten", "put at risk"], "antonyms": ["protect", "safeguard"], "collocations": ["jeopardise someone's chances", "jeopardise safety"], "phrases": [], "related": ["jeopardy"], "topic": "risk" },
+    { "word": "fiscal", "pos": "adjective", "ipa": "/ˈfɪskl/", "definition": "relating to government revenue, especially taxes, and spending", "meaning": "fiskal", "examples": [{ "en": "The government announced new fiscal measures.", "id": "Pemerintah mengumumkan langkah-langkah fiskal baru." }], "synonyms": ["financial", "budgetary"], "antonyms": [], "collocations": ["fiscal policy", "fiscal year", "fiscal deficit"], "phrases": [], "related": ["monetary"], "topic": "economics" },
+    { "word": "inflation", "pos": "noun", "ipa": "/ɪnˈfleɪʃn/", "definition": "a general rise in prices over time", "meaning": "inflasi", "examples": [{ "en": "Inflation rose to 5% last year.", "id": "Inflasi naik menjadi 5% tahun lalu." }], "synonyms": [], "antonyms": ["deflation"], "collocations": ["curb inflation", "high inflation", "rate of inflation"], "phrases": [], "related": ["inflationary"], "topic": "economics" },
+    { "word": "expenditure", "pos": "noun", "ipa": "/ɪkˈspendɪtʃə(r)/", "definition": "the total amount of money spent", "meaning": "pengeluaran, belanja", "examples": [{ "en": "Public expenditure on health has increased.", "id": "Belanja publik untuk kesehatan telah meningkat." }], "synonyms": ["spending", "outlay"], "antonyms": ["income", "revenue"], "collocations": ["public expenditure", "expenditure on", "cut expenditure"], "phrases": [], "related": ["expend"], "topic": "economics" },
+    { "word": "revenue", "pos": "noun", "ipa": "/ˈrevənjuː/", "definition": "income, especially of a government or company", "meaning": "pendapatan", "examples": [{ "en": "Tourism generates significant revenue for the island.", "id": "Pariwisata menghasilkan pendapatan yang besar bagi pulau itu." }], "synonyms": ["income", "earnings"], "antonyms": ["expenditure", "costs"], "collocations": ["tax revenue", "generate revenue", "revenue stream"], "phrases": [], "related": [], "topic": "economics" },
+    { "word": "stakeholder", "pos": "noun", "ipa": "/ˈsteɪkhəʊldə(r)/", "definition": "a person or group with an interest in a project, business or decision", "meaning": "pemangku kepentingan", "examples": [{ "en": "All stakeholders were consulted before the decision.", "id": "Semua pemangku kepentingan dikonsultasikan sebelum keputusan diambil." }], "synonyms": ["interested party"], "antonyms": [], "collocations": ["consult stakeholders", "key stakeholders"], "phrases": [], "related": ["stake"], "topic": "institutions" },
+    { "word": "legislation", "pos": "noun", "ipa": "/ˌledʒɪsˈleɪʃn/", "definition": "laws, considered collectively", "meaning": "perundang-undangan", "examples": [{ "en": "New legislation will protect consumers' data.", "id": "Perundang-undangan baru akan melindungi data konsumen." }], "synonyms": ["law", "statute"], "antonyms": [], "collocations": ["pass legislation", "introduce legislation"], "phrases": ["under current legislation"], "related": ["legislate", "legislative"], "topic": "institutions" },
+    { "word": "implement", "pos": "verb", "ipa": "/ˈɪmplɪment/", "definition": "put a plan, decision or system into effect", "meaning": "menerapkan, melaksanakan", "examples": [{ "en": "The reforms will be implemented next year.", "id": "Reformasi itu akan diterapkan tahun depan." }], "synonyms": ["carry out", "execute", "introduce"], "antonyms": ["abandon"], "collocations": ["implement a policy", "fully implement"], "phrases": [], "related": ["implementation"], "topic": "policy" },
+    { "word": "incentive", "pos": "noun", "ipa": "/ɪnˈsentɪv/", "definition": "something that encourages a person or organisation to do something", "meaning": "insentif, dorongan", "examples": [{ "en": "Tax incentives encourage firms to invest in clean energy.", "id": "Insentif pajak mendorong perusahaan berinvestasi dalam energi bersih." }], "synonyms": ["motivation", "inducement"], "antonyms": ["deterrent", "disincentive"], "collocations": ["financial incentive", "tax incentive", "provide an incentive"], "phrases": [], "related": [], "topic": "policy" },
+    { "word": "sustainable", "pos": "adjective", "ipa": "/səˈsteɪnəbl/", "definition": "able to continue for a long time without harming the environment or using up resources", "meaning": "berkelanjutan", "examples": [{ "en": "We need a more sustainable approach to fishing.", "id": "Kita membutuhkan pendekatan penangkapan ikan yang lebih berkelanjutan." }], "synonyms": ["renewable", "viable"], "antonyms": ["unsustainable"], "collocations": ["sustainable development", "environmentally sustainable"], "phrases": [], "related": ["sustainability", "sustain"], "topic": "policy" },
+    { "word": "concede", "pos": "verb", "ipa": "/kənˈsiːd/", "definition": "admit, often unwillingly, that something is true", "meaning": "mengakui", "examples": [{ "en": "He conceded that he had made a mistake.", "id": "Ia mengakui bahwa ia telah membuat kesalahan." }], "synonyms": ["admit", "acknowledge"], "antonyms": ["deny"], "collocations": ["concede defeat", "concede a point", "reluctantly concede"], "phrases": [], "related": ["concession"], "topic": "debate" },
+    { "word": "refute", "pos": "verb", "ipa": "/rɪˈfjuːt/", "definition": "prove that a statement or theory is wrong", "meaning": "membantah dengan bukti", "examples": [{ "en": "The new data refute the earlier theory.", "id": "Data baru itu membantah teori sebelumnya." }], "synonyms": ["disprove", "rebut"], "antonyms": ["confirm", "prove"], "collocations": ["refute a claim", "refute an argument"], "phrases": [], "related": ["refutation"], "topic": "debate" },
+    { "word": "premise", "pos": "noun", "ipa": "/ˈpremɪs/", "definition": "a statement or idea on which an argument is based", "meaning": "premis, dasar pemikiran", "examples": [{ "en": "The argument rests on a false premise.", "id": "Argumen itu bertumpu pada premis yang keliru." }], "synonyms": ["assumption", "basis"], "antonyms": ["conclusion"], "collocations": ["false premise", "basic premise"], "phrases": ["on the premise that"], "related": [], "topic": "debate" },
+    { "word": "flawed", "pos": "adjective", "ipa": "/flɔːd/", "definition": "having a weakness or mistake", "meaning": "cacat, memiliki kelemahan", "examples": [{ "en": "The research was seriously flawed.", "id": "Penelitian itu memiliki kelemahan serius." }], "synonyms": ["faulty", "defective"], "antonyms": ["sound", "flawless"], "collocations": ["fundamentally flawed", "deeply flawed"], "phrases": [], "related": ["flaw"], "topic": "debate" },
+    { "word": "coherent", "pos": "adjective", "ipa": "/kəʊˈhɪərənt/", "definition": "logical, clear and consistent", "meaning": "koheren, runtut", "examples": [{ "en": "She presented a coherent argument.", "id": "Ia menyampaikan argumen yang runtut." }], "synonyms": ["logical", "consistent", "clear"], "antonyms": ["incoherent", "muddled"], "collocations": ["coherent argument", "coherent strategy"], "phrases": [], "related": ["coherence"], "topic": "academic argument" },
+    { "word": "nuance", "pos": "noun", "ipa": "/ˈnjuːɑːns/", "definition": "a very small difference in meaning, feeling or tone", "meaning": "nuansa", "examples": [{ "en": "A good translator captures every nuance of the original.", "id": "Penerjemah yang baik menangkap setiap nuansa teks aslinya." }], "synonyms": ["subtlety", "shade"], "antonyms": [], "collocations": ["subtle nuance", "nuances of meaning"], "phrases": [], "related": ["nuanced"], "topic": "academic argument" },
+    { "word": "rapport", "pos": "noun", "ipa": "/ræˈpɔː(r)/", "definition": "a friendly relationship in which people understand each other well", "meaning": "hubungan baik, keakraban", "examples": [{ "en": "She quickly built a good rapport with her new team.", "id": "Ia dengan cepat membangun hubungan baik dengan tim barunya." }], "synonyms": ["connection", "understanding"], "antonyms": ["hostility"], "collocations": ["build rapport", "establish a rapport"], "phrases": [], "related": [], "topic": "relationships" },
+    { "word": "compromise", "pos": "noun / verb", "ipa": "/ˈkɒmprəmaɪz/", "definition": "an agreement in which each side gives up something it wanted", "meaning": "kompromi", "examples": [{ "en": "After hours of talks, they finally reached a compromise.", "id": "Setelah berjam-jam berunding, mereka akhirnya mencapai kompromi." }], "synonyms": ["concession", "middle ground"], "antonyms": ["deadlock"], "collocations": ["reach a compromise", "make compromises"], "phrases": ["meet someone halfway"], "related": [], "topic": "relationships" },
+    { "word": "reconcile", "pos": "verb", "ipa": "/ˈrekənsaɪl/", "definition": "restore friendly relations; make two ideas or facts compatible", "meaning": "mendamaikan; menyelaraskan", "examples": [{ "en": "The two brothers were finally reconciled.", "id": "Kedua kakak-beradik itu akhirnya berdamai." }], "synonyms": ["make peace", "harmonise"], "antonyms": ["estrange", "divide"], "collocations": ["reconcile differences", "be reconciled with someone"], "phrases": [], "related": ["reconciliation"], "topic": "relationships" },
+    { "word": "mandatory", "pos": "adjective", "ipa": "/ˈmændətəri/", "definition": "required by law or rules", "meaning": "wajib", "examples": [{ "en": "Safety training is mandatory for all staff.", "id": "Pelatihan keselamatan wajib bagi seluruh staf." }], "synonyms": ["compulsory", "obligatory"], "antonyms": ["optional", "voluntary"], "collocations": ["mandatory requirement", "mandatory training"], "phrases": [], "related": ["mandate"], "topic": "requirements" },
+    { "word": "comply", "pos": "verb", "ipa": "/kəmˈplaɪ/", "definition": "act according to a rule, law or request", "meaning": "mematuhi", "examples": [{ "en": "All products must comply with national safety standards.", "id": "Semua produk harus mematuhi standar keselamatan nasional." }], "synonyms": ["obey", "adhere to", "conform"], "antonyms": ["violate", "breach", "disobey"], "collocations": ["comply with regulations", "fail to comply"], "phrases": [], "related": ["compliance", "compliant"], "topic": "requirements" },
+    { "word": "exempt", "pos": "adjective", "ipa": "/ɪɡˈzempt/", "definition": "not required to do or pay something that others must", "meaning": "dibebaskan (dari kewajiban)", "examples": [{ "en": "Full-time students are exempt from the registration fee.", "id": "Mahasiswa penuh waktu dibebaskan dari biaya pendaftaran." }], "synonyms": ["excused", "free"], "antonyms": ["liable", "subject to"], "collocations": ["exempt from tax", "tax-exempt"], "phrases": [], "related": ["exemption"], "topic": "requirements" },
+    { "word": "advocate", "pos": "verb / noun", "ipa": "/ˈædvəkeɪt/ (v), /ˈædvəkət/ (n)", "definition": "publicly support or recommend; a person who does this", "meaning": "menganjurkan, mendukung; pendukung", "examples": [{ "en": "Many doctors advocate a diet rich in vegetables.", "id": "Banyak dokter menganjurkan pola makan yang kaya sayuran." }], "synonyms": ["recommend", "champion", "support"], "antonyms": ["oppose"], "collocations": ["strongly advocate", "advocate for"], "phrases": ["devil's advocate"], "related": ["advocacy"], "topic": "recommendations" },
+    { "word": "obligation", "pos": "noun", "ipa": "/ˌɒblɪˈɡeɪʃn/", "definition": "something you must do because of a law, promise or duty", "meaning": "kewajiban", "examples": [{ "en": "Employers have a legal obligation to protect their workers.", "id": "Pemberi kerja memiliki kewajiban hukum untuk melindungi pekerjanya." }], "synonyms": ["duty", "responsibility", "requirement"], "antonyms": ["option", "choice"], "collocations": ["legal obligation", "moral obligation", "fulfil an obligation"], "phrases": ["be under no obligation"], "related": ["oblige", "obligatory"], "topic": "obligations" },
+    { "word": "discrepancy", "pos": "noun", "ipa": "/dɪˈskrepənsi/", "definition": "a difference between things that should be the same", "meaning": "ketidaksesuaian, selisih", "examples": [{ "en": "Auditors found a discrepancy between the two sets of figures.", "id": "Auditor menemukan ketidaksesuaian antara dua kelompok angka tersebut." }], "synonyms": ["inconsistency", "difference", "mismatch"], "antonyms": ["consistency", "agreement"], "collocations": ["significant discrepancy", "discrepancy between"], "phrases": [], "related": [], "topic": "research" },
+    { "word": "scrutiny", "pos": "noun", "ipa": "/ˈskruːtəni/", "definition": "careful and detailed examination", "meaning": "pemeriksaan cermat, sorotan", "examples": [{ "en": "The minister's spending has come under close scrutiny.", "id": "Pengeluaran menteri itu mendapat sorotan tajam." }], "synonyms": ["examination", "inspection"], "antonyms": ["neglect"], "collocations": ["close scrutiny", "public scrutiny", "come under scrutiny"], "phrases": [], "related": ["scrutinise"], "topic": "journalism" },
+    { "word": "deteriorate", "pos": "verb", "ipa": "/dɪˈtɪəriəreɪt/", "definition": "become progressively worse", "meaning": "memburuk", "examples": [{ "en": "Relations between the two departments have deteriorated.", "id": "Hubungan antara kedua departemen itu telah memburuk." }], "synonyms": ["worsen", "decline"], "antonyms": ["improve"], "collocations": ["rapidly deteriorate", "deteriorating health"], "phrases": [], "related": ["deterioration"], "topic": "processes" }
+  ],
+  "examQuestions": [
+    {
+      "id": "c1-exam-q1", "type": "single_choice", "category": "grammar", "topic": "inversion", "difficulty": 3, "stage": "exam",
+      "prompt": "Complete the sentence: 'Rarely ___ such a talented young pianist.'",
+      "options": ["have I heard", "I have heard", "I heard", "heard I"],
+      "answer": 0,
+      "explanation": "A fronted 'Rarely' requires the auxiliary before the subject: 'Rarely have I heard ...'."
+    },
+    {
+      "id": "c1-exam-q2", "type": "sentence_transformation", "category": "grammar", "topic": "cleft sentences", "difficulty": 3, "stage": "exam",
+      "prompt": "Rewrite the sentence using a wh-cleft.",
+      "sentence": "Her honesty impressed me most.",
+      "cue": "Begin with: What impressed me most",
+      "answers": ["What impressed me most was her honesty."],
+      "explanation": "What + clause + was + focus: 'What impressed me most was her honesty.'"
+    },
+    {
+      "id": "c1-exam-q3", "type": "fill_blank", "category": "grammar", "topic": "impersonal passive", "difficulty": 3, "stage": "exam",
+      "prompt": "Complete the sentence with the correct infinitive form of the verb in brackets.",
+      "text": "The company is said ___ (lose) millions of rupiah last year.",
+      "answers": [["to have lost"]],
+      "explanation": "The loss happened before the time of reporting ('last year'), so the perfect infinitive 'to have lost' is needed."
+    },
+    {
+      "id": "c1-exam-q4", "type": "dropdown", "category": "grammar", "topic": "participle clauses", "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the correct participle.",
+      "text": "___ the instructions carefully, Dewi assembled the cupboard without any problems.",
+      "choices": [["Having read", "Read", "Having been read"]],
+      "answers": [0],
+      "explanation": "Dewi read the instructions (active) before assembling the cupboard, so 'Having read' is correct."
+    },
+    {
+      "id": "c1-exam-q5", "type": "multiple_select", "category": "academic", "topic": "hedging", "difficulty": 3, "stage": "exam",
+      "prompt": "You are reporting the findings of a single small study. Select ALL the appropriate expressions.",
+      "options": ["The results suggest that ...", "The results prove beyond doubt that ...", "The findings may indicate that ...", "It is undeniable that ...", "There appears to be a link between ..."],
+      "answers": [0, 2, 4],
+      "explanation": "Limited evidence requires hedges such as 'suggest', 'may indicate' and 'appears to be'. The other options overclaim."
+    },
+    {
+      "id": "c1-exam-q6", "type": "sentence_transformation", "category": "grammar", "topic": "inverted conditionals", "difficulty": 3, "stage": "exam",
+      "prompt": "Rewrite the sentence in a more formal style.",
+      "sentence": "If you need a taxi, ask at reception.",
+      "cue": "Begin with: Should",
+      "answers": ["Should you need a taxi, ask at reception.", "Should you need a taxi, please ask at reception."],
+      "explanation": "'If you need' becomes 'Should you need' in a formal inverted conditional."
+    },
+    {
+      "id": "c1-exam-q7", "type": "error_identification", "category": "vocabulary", "topic": "nominalisation", "difficulty": 2, "stage": "exam",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["The government's", "reduce", "of fuel subsidies", "caused widespread protests."],
+      "errorIndex": 1,
+      "correction": "reduction",
+      "explanation": "After the possessive, a noun is required: 'The government's reduction of fuel subsidies ...'."
+    },
+    {
+      "id": "c1-exam-q8", "type": "single_choice", "category": "academic", "topic": "discourse markers", "difficulty": 3, "stage": "exam",
+      "prompt": "Complete the text: 'The village is small and very remote. ___, it attracts thousands of tourists every year.'",
+      "options": ["Even so", "Hence", "In addition", "For instance"],
+      "answer": 0,
+      "explanation": "Attracting many tourists is unexpected given the first sentence, so a concession marker ('Even so') is required."
+    },
+    {
+      "id": "c1-exam-q9", "type": "matching", "category": "vocabulary", "topic": "idioms", "difficulty": 3, "stage": "exam",
+      "prompt": "Match each idiom with its meaning.",
+      "pairs": [
+        { "left": "a tough call", "right": "a difficult decision" },
+        { "left": "play it safe", "right": "avoid taking risks" },
+        { "left": "call the shots", "right": "be the person who makes the decisions" },
+        { "left": "go back on your word", "right": "break a promise" }
+      ],
+      "explanation": "These idioms all relate to decisions and commitments."
+    },
+    {
+      "id": "c1-exam-q10", "type": "dropdown", "category": "grammar", "topic": "subjunctive", "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the correct form for a formal report.",
+      "text": "The auditors recommended that the company ___ its accounting procedures before the end of the year.",
+      "choices": [["review", "reviews", "reviewed"]],
+      "answers": [0],
+      "explanation": "After 'recommended that', formal English uses the subjunctive base form 'review'."
+    },
+    {
+      "id": "c1-exam-q11", "type": "word_order", "category": "grammar", "topic": "inversion", "difficulty": 4, "stage": "exam",
+      "prompt": "Put the words in the correct order.",
+      "words": ["Not", "until", "the", "final", "results", "were", "published", "did", "the", "team", "celebrate"],
+      "explanation": "The 'not until' clause keeps normal order ('the final results were published'); the main clause is inverted ('did the team celebrate')."
+    },
+    {
+      "id": "c1-exam-q12", "type": "translation", "category": "grammar", "topic": "impersonal passive", "difficulty": 4, "stage": "exam",
+      "prompt": "Translate into English. Begin with 'The manuscript'.",
+      "source": "Naskah itu diyakini ditulis pada abad ke-15.",
+      "direction": "id-en",
+      "answers": ["The manuscript is believed to have been written in the 15th century.", "The manuscript is believed to have been written in the fifteenth century."],
+      "explanation": "A past passive event reported now requires 'is believed to have been + past participle'."
+    },
+    {
+      "id": "c1-exam-q13", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "debate vocabulary", "difficulty": 3, "stage": "exam",
+      "prompt": "Choose the meaning of the word in bold.",
+      "context": "The minister's claims about falling unemployment were **refuted** by a group of independent economists.",
+      "options": ["proved to be wrong", "strongly supported", "translated into other languages", "quietly ignored"],
+      "answer": 0,
+      "explanation": "'Refute' means to prove that a claim or statement is wrong."
+    },
+    {
+      "id": "c1-exam-q14", "type": "sentence_transformation", "category": "grammar", "topic": "be to", "difficulty": 4, "stage": "exam",
+      "prompt": "Rewrite the news sentence using 'be to' to show an official arrangement.",
+      "sentence": "According to the official schedule, the Prime Minister will open the new bridge on Monday.",
+      "cue": "Complete: According to the official schedule, the Prime Minister ...",
+      "answers": ["According to the official schedule, the Prime Minister is to open the new bridge on Monday.", "According to the official schedule, the Prime Minister is to officially open the new bridge on Monday."],
+      "explanation": "'Be to + base verb' expresses formal, official arrangements: 'is to open'."
+    },
+    {
+      "id": "c1-exam-q15", "type": "single_choice", "category": "writing", "topic": "formal register", "difficulty": 2, "stage": "exam",
+      "prompt": "Which sentence is most appropriate in a formal complaint email?",
+      "options": ["I would be grateful if you could refund the full cost of my ticket.", "Give me my money back now.", "I want a refund, like, as soon as possible.", "You'd better refund me or else."],
+      "answer": 0,
+      "explanation": "'I would be grateful if you could ...' is polite, formal and clear."
+    },
+    {
+      "id": "c1-exam-q16", "type": "fill_blank", "category": "vocabulary", "topic": "binomials", "difficulty": 2, "stage": "exam",
+      "prompt": "Complete the binomial with ONE word.",
+      "text": "If the factory keeps cutting corners on safety, ___ or later there will be a serious accident.",
+      "answers": [["sooner"]],
+      "explanation": "The fixed binomial is 'sooner or later', meaning 'eventually'."
+    }
+  ],
+  "placementQuestions": [
+    {
+      "id": "c1-place-q1", "type": "single_choice", "category": "grammar", "topic": "inversion", "difficulty": 4, "stage": "placement",
+      "prompt": "Complete the sentence: 'No sooner ___ the station than the train pulled out.'",
+      "options": ["had we reached", "we had reached", "did we reached", "we reached"],
+      "answer": 0,
+      "explanation": "'No sooner' at the start of a clause requires the inverted past perfect: 'had we reached'."
+    },
+    {
+      "id": "c1-place-q2", "type": "single_choice", "category": "grammar", "topic": "subjunctive", "difficulty": 4, "stage": "placement",
+      "prompt": "Complete the sentence in formal English: 'It is essential that she ___ informed of the decision immediately.'",
+      "options": ["be", "is being", "will be", "been"],
+      "answer": 0,
+      "explanation": "After 'It is essential that', formal English uses the subjunctive 'be'."
+    },
+    {
+      "id": "c1-place-q3", "type": "dropdown", "category": "grammar", "topic": "impersonal passive", "difficulty": 4, "stage": "placement",
+      "prompt": "Choose the correct option.",
+      "text": "The former president is thought ___ the country secretly last week.",
+      "choices": [["to have left", "to leave", "having left"]],
+      "answers": [0],
+      "explanation": "The departure happened before the time of thinking ('last week'), so 'to have left' is required."
+    },
+    {
+      "id": "c1-place-q4", "type": "fill_blank", "category": "grammar", "topic": "inverted conditionals", "difficulty": 4, "stage": "placement",
+      "prompt": "Complete the sentence with ONE word.",
+      "text": "___ it not been for the lifeguard, the boy would have drowned.",
+      "answers": [["Had"]],
+      "explanation": "'Had it not been for' is the inverted form of 'If it hadn't been for'."
+    },
+    {
+      "id": "c1-place-q5", "type": "contextual_vocabulary", "category": "vocabulary", "topic": "academic vocabulary", "difficulty": 4, "stage": "placement",
+      "prompt": "Choose the meaning of the word in bold.",
+      "context": "After three years of testing, the evidence for the drug's effectiveness remains **inconclusive**.",
+      "options": ["not strong enough to lead to a firm conclusion", "completely convincing", "officially banned", "easy to understand"],
+      "answer": 0,
+      "explanation": "'Inconclusive' evidence does not lead to a definite conclusion."
+    },
+    {
+      "id": "c1-place-q6", "type": "error_identification", "category": "grammar", "topic": "cleft sentences", "difficulty": 3, "stage": "placement",
+      "prompt": "Find the part of the sentence that contains an error.",
+      "segments": ["What I need", "it is", "more time", "to finish the project properly."],
+      "errorIndex": 1,
+      "correction": "is",
+      "explanation": "In a wh-cleft, the what-clause is the subject, so no extra 'it' is needed: 'What I need is more time ...'."
+    },
+    {
+      "id": "c1-place-q7", "type": "multiple_select", "category": "grammar", "topic": "inversion", "difficulty": 5, "stage": "placement",
+      "prompt": "Select ALL the grammatically correct sentences.",
+      "options": ["Hardly had I arrived when it started to rain.", "Only after the meeting did I realise my mistake.", "Not only she sings, but she also dances.", "Little did they know what awaited them.", "Seldom we see such dedication."],
+      "answers": [0, 1, 3],
+      "explanation": "Options 1, 2 and 4 invert correctly. Option 3 should be 'Not only does she sing ...' and option 5 should be 'Seldom do we see ...'."
+    },
+    {
+      "id": "c1-place-q8", "type": "single_choice", "category": "academic", "topic": "hedging", "difficulty": 3, "stage": "placement",
+      "prompt": "Choose the best word: 'The results ___ that the treatment may be effective, but more research is needed.'",
+      "options": ["suggest", "prove", "guarantee", "insist"],
+      "answer": 0,
+      "explanation": "'Suggest' reports evidence cautiously, which matches 'may be effective' and 'more research is needed'."
+    },
+    {
+      "id": "c1-place-q9", "type": "sentence_transformation", "category": "grammar", "topic": "participle clauses", "difficulty": 5, "stage": "placement",
+      "prompt": "Rewrite the sentence using an absolute participle clause.",
+      "sentence": "As the bridge was closed, we had to take a long detour.",
+      "cue": "Begin with: The bridge being closed",
+      "answers": ["The bridge being closed, we had to take a long detour."],
+      "explanation": "An absolute clause has its own subject ('the bridge') followed by a participle ('being')."
+    },
+    {
+      "id": "c1-place-q10", "type": "matching", "category": "academic", "topic": "discourse markers", "difficulty": 4, "stage": "placement",
+      "prompt": "Match each discourse marker with its meaning.",
+      "pairs": [
+        { "left": "conversely", "right": "in the opposite way" },
+        { "left": "hence", "right": "for this reason" },
+        { "left": "notwithstanding", "right": "despite" },
+        { "left": "moreover", "right": "in addition, adding a stronger point" }
+      ],
+      "explanation": "These formal markers signal contrast, result, concession and addition."
+    }
+  ]
+}

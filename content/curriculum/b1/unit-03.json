@@ -1,0 +1,1592 @@
+{
+  "slug": "b1-u03-future-forms",
+  "number": 3,
+  "title": "Looking Ahead",
+  "description": "Membicarakan rencana, janji temu, keputusan, dan prediksi tentang masa depan. Kamu akan membandingkan will, be going to, dan present continuous, memakai future time clauses (when, as soon as, before, after, until), serta might/may untuk kemungkinan — dengan tema teknologi dan masa depan.",
+  "objectives": [
+    "Memilih will, be going to, atau present continuous sesuai jenis rencana atau keputusan",
+    "Membuat prediksi berdasarkan opini (will) dan bukti saat ini (going to)",
+    "Menggunakan present simple setelah when, as soon as, before, after, dan until untuk masa depan",
+    "Menyatakan kemungkinan dengan might/may dan membicarakan teknologi masa depan"
+  ],
+  "lessons": [
+    {
+      "slug": "b1-u03-l1-plans-and-arrangements",
+      "title": "Plans, Arrangements and Decisions",
+      "summary": "Membedakan will (keputusan spontan, tawaran, janji), be going to (niat/rencana), dan present continuous (janji temu yang sudah pasti).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan will untuk keputusan spontan, tawaran, dan janji",
+        "Menggunakan be going to untuk rencana yang sudah diputuskan sebelumnya",
+        "Menggunakan present continuous untuk janji temu dengan waktu yang pasti"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Tiga cara membicarakan masa depan\nDalam bahasa Indonesia kita cukup bilang *akan* atau *mau*. English has several future forms, and the choice depends on **when you made the decision** and **how fixed the plan is**.\n\n| Form | Use | Example |\n|---|---|---|\n| will + V1 | keputusan spontan, tawaran, janji (instant decisions, offers, promises) | The phone's ringing. I'll get it. |\n| be going to + V1 | niat/rencana yang sudah diputuskan sebelumnya (intentions) | I'm going to learn to code this year. |\n| present continuous | janji temu/pengaturan yang sudah pasti (arrangements) | I'm meeting Dr. Salim at 10 tomorrow. |\n\n### will: deciding now\nKita memakai **will** ketika keputusan dibuat **pada saat berbicara**. A: *We've run out of milk.* B: *Oh, I'll buy some on my way home.* Will is also used for **offers** (*I'll carry that bag for you*) and **promises** (*I won't tell anyone, I promise*). Bentuknya selalu **will/won't + V1**, tanpa *to*.\n\n### be going to: decided before\n**Going to** menunjukkan niat yang sudah ada **sebelum** berbicara. *I've decided — I'm going to sell my old laptop.* It is a personal plan; biasanya belum ada pengaturan dengan orang lain atau tiket yang dibeli. Remember the verb *be*: *She's going to start* (bukan ~~she going to start~~).\n\n### Present continuous: in the diary\nPresent continuous for the future = an **arrangement**. Biasanya ada **waktu yang jelas** dan sering melibatkan **orang lain**, tiket, atau booking: *We're flying to Port Selwyn on Friday. Dina is having a party on Saturday.* If you can write it in your calendar, the present continuous is a good choice. Jangan pakai present simple untuk rencana pribadi: ~~I meet my boss tomorrow~~ → *I'm meeting my boss tomorrow.*\n\n### going to atau present continuous?\nUntuk rencana, kedua bentuk ini sering sama-sama benar: *I'm going to see / I'm seeing the dentist tomorrow.* The difference is small: going to focuses on the **intention**, the present continuous on the **arrangement**. Tetapi untuk **keputusan spontan** dan **tawaran**, pilih **will**: A: *This box is so heavy!* B: *I'll help you.*\n\n### Ringkas\nAsk yourself: Did I decide just now? → **will**. Did I decide before? → **going to**. Is it fixed with a time, a person, or a ticket? → **present continuous**.",
+        "examples": [
+          {
+            "en": "It's cold in here. I'll close the window.",
+            "id": "Dingin di sini. Saya tutup jendelanya, ya.",
+            "note": "Keputusan spontan → will."
+          },
+          {
+            "en": "I'm going to buy a new laptop next month. I've saved enough money.",
+            "id": "Saya akan membeli laptop baru bulan depan. Saya sudah menabung cukup uang.",
+            "note": "Rencana yang sudah diputuskan sebelumnya → going to."
+          },
+          {
+            "en": "We're having dinner with the Wibowos on Saturday.",
+            "id": "Kami makan malam bersama keluarga Wibowo hari Sabtu.",
+            "note": "Arrangement dengan orang lain dan waktu yang jelas → present continuous."
+          },
+          {
+            "en": "Don't worry. I won't forget your birthday this year.",
+            "id": "Jangan khawatir. Aku tidak akan lupa ulang tahunmu tahun ini.",
+            "note": "Promise → will/won't."
+          },
+          {
+            "en": "Are you doing anything on Sunday afternoon?",
+            "id": "Apakah kamu ada acara Minggu sore?",
+            "note": "Menanyakan arrangement → present continuous."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "arrangement",
+            "pos": "noun",
+            "ipa": "/əˈreɪndʒmənt/",
+            "meaning": "pengaturan; janji temu yang sudah diatur",
+            "example": "I have an arrangement to meet my tutor on Monday."
+          },
+          {
+            "word": "intention",
+            "pos": "noun",
+            "ipa": "/ɪnˈtenʃn/",
+            "meaning": "niat; maksud",
+            "example": "My intention is to finish the course by June."
+          },
+          {
+            "word": "appointment",
+            "pos": "noun",
+            "ipa": "/əˈpɔɪntmənt/",
+            "meaning": "janji temu (dengan dokter, kantor, dsb.)",
+            "example": "I'm seeing the dentist — I have an appointment at four."
+          },
+          {
+            "word": "promise",
+            "pos": "verb / noun",
+            "ipa": "/ˈprɒmɪs/",
+            "meaning": "berjanji; janji",
+            "example": "I promise I'll call you tonight."
+          },
+          {
+            "word": "decide",
+            "pos": "verb",
+            "ipa": "/dɪˈsaɪd/",
+            "meaning": "memutuskan",
+            "example": "We've decided to move to a smaller flat."
+          },
+          {
+            "word": "schedule",
+            "pos": "noun",
+            "ipa": "/ˈʃedjuːl/",
+            "meaning": "jadwal",
+            "example": "My schedule is very busy next week."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + will / won't + V1",
+            "example": "I'll answer the door.",
+            "note": "Keputusan spontan, tawaran, janji. Tidak ada to setelah will."
+          },
+          {
+            "pattern": "Subject + am/is/are + going to + V1",
+            "example": "They're going to open a small café.",
+            "note": "Niat atau rencana yang sudah diputuskan sebelumnya."
+          },
+          {
+            "pattern": "Subject + am/is/are + V-ing + future time",
+            "example": "Laras is starting her new job on Monday.",
+            "note": "Arrangement yang sudah pasti; biasanya ada keterangan waktu."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "I will to call you later.",
+            "right": "I'll call you later.",
+            "why": "Setelah will langsung V1, tanpa to."
+          },
+          {
+            "wrong": "A: This bag is so heavy! B: I'm going to carry it for you.",
+            "right": "A: This bag is so heavy! B: I'll carry it for you.",
+            "why": "Tawaran yang diputuskan saat itu juga memakai will, bukan going to."
+          },
+          {
+            "wrong": "I meet my boss at 3 p.m. tomorrow.",
+            "right": "I'm meeting my boss at 3 p.m. tomorrow.",
+            "why": "Untuk janji temu pribadi di masa depan, pakai present continuous, bukan present simple."
+          },
+          {
+            "wrong": "She going to start a new course.",
+            "right": "She's going to start a new course.",
+            "why": "Going to selalu butuh be (am/is/are)."
+          }
+        ],
+        "summary": "Use **will** for decisions made at the moment of speaking, offers, and promises. Pakai **be going to** untuk niat yang sudah diputuskan sebelumnya, dan **present continuous** untuk janji temu atau pengaturan yang sudah pasti (waktu, orang, tiket).",
+        "reviewCards": [
+          {
+            "front": "Keputusan spontan / tawaran / janji",
+            "back": "will + V1: I'll help you. I won't be late."
+          },
+          {
+            "front": "Rencana yang sudah diputuskan sebelumnya",
+            "back": "be going to + V1: I'm going to learn Python."
+          },
+          {
+            "front": "Janji temu yang sudah pasti (ada waktu/orang/tiket)",
+            "back": "present continuous: I'm meeting Sari at six."
+          },
+          {
+            "front": "I meet my boss tomorrow. → benar?",
+            "back": "Salah. → I'm meeting my boss tomorrow."
+          },
+          {
+            "front": "will to + V1?",
+            "back": "Salah. Will langsung diikuti V1: I'll call you."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u03-l1-q1",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "will for offers",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            {
+              "speaker": "Maya",
+              "text": "Oh no! I've left my wallet at home, and I need to pay for my lunch."
+            },
+            {
+              "speaker": "Dion",
+              "text": null
+            }
+          ],
+          "options": [
+            "Don't worry. I'll lend you some money.",
+            "Don't worry. I lend you some money.",
+            "Don't worry. I lent you some money tomorrow.",
+            "Don't worry. I'll lending you some money."
+          ],
+          "answer": 0,
+          "explanation": "Dion membuat **tawaran** saat itu juga, jadi pakai **will + V1**: *I'll lend you some money.* Present simple (*I lend*) tidak dipakai untuk offers, and *will* is never followed by V-ing.",
+          "misconception": "Offers and instant decisions use will, not the present simple."
+        },
+        {
+          "id": "b1-u03-l1-q2",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "will vs going to vs present continuous",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Choose the correct future form for each gap.",
+          "text": "A: What are your plans for the weekend? B: Well, I ___ my grandparents in Kartasura on Saturday — we booked the train tickets last week. And I've decided that I ___ photography this year. A: Sounds great! Oh, look — it's raining. Wait, I ___ you an umbrella.",
+          "choices": [
+            [
+              "am visiting",
+              "visit",
+              "visited"
+            ],
+            [
+              "am going to try",
+              "try",
+              "tried"
+            ],
+            [
+              "will get",
+              "get",
+              "got"
+            ]
+          ],
+          "answers": [
+            0,
+            0,
+            0
+          ],
+          "explanation": "Tiket sudah dibeli → arrangement → **am visiting**. *I've decided* → rencana yang diputuskan sebelumnya → **am going to try**. Keputusan/tawaran spontan saat hujan → **will get**."
+        },
+        {
+          "id": "b1-u03-l1-q3",
+          "type": "matching",
+          "category": "grammar",
+          "topic": "uses of future forms",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each sentence with its use.",
+          "pairs": [
+            {
+              "left": "I'll carry those boxes for you.",
+              "right": "an offer"
+            },
+            {
+              "left": "I promise I won't be late again.",
+              "right": "a promise"
+            },
+            {
+              "left": "We're meeting the new manager at 9 a.m. tomorrow.",
+              "right": "an arrangement with a fixed time"
+            },
+            {
+              "left": "I'm going to study harder this year.",
+              "right": "a personal intention"
+            }
+          ],
+          "explanation": "Offer dan promise memakai **will/won't**. Arrangement dengan waktu yang pasti → **present continuous**. Personal intention (niat pribadi) → **going to**."
+        },
+        {
+          "id": "b1-u03-l1-q4",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "present continuous for arrangements",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "The receptionist called me this morning to confirm the time. I ___ the dentist at 4:30 on Thursday.",
+          "options": [
+            "am seeing",
+            "saw",
+            "have seen",
+            "was seeing"
+          ],
+          "answer": 0,
+          "explanation": "Janji temu sudah dikonfirmasi dan ada waktu pasti → **present continuous**: *I am seeing the dentist at 4:30 on Thursday.* *Have seen* and *was seeing* do not refer to the future."
+        },
+        {
+          "id": "b1-u03-l1-q5",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "present continuous for arrangements",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": [
+            "Tomorrow morning",
+            "Dina is",
+            "fly",
+            "to Port Selwyn",
+            "for a conference."
+          ],
+          "errorIndex": 2,
+          "correction": "flying",
+          "explanation": "Present continuous = **am/is/are + V-ing**. Jadi *Dina is flying*, bukan *Dina is fly*. It is an arrangement with a fixed time (tomorrow morning)."
+        },
+        {
+          "id": "b1-u03-l1-q6",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "present continuous for arrangements",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Translate into English. Use the present continuous for this fixed arrangement.",
+          "source": "Kami bertemu dengan klien baru besok sore.",
+          "direction": "id-en",
+          "answers": [
+            "We're meeting the new client tomorrow afternoon.",
+            "We are meeting the new client tomorrow afternoon.",
+            "We're meeting a new client tomorrow afternoon.",
+            "We are meeting a new client tomorrow afternoon.",
+            "We're meeting with the new client tomorrow afternoon.",
+            "We are meeting with the new client tomorrow afternoon.",
+            "We're meeting the new clients tomorrow afternoon.",
+            "We are meeting the new clients tomorrow afternoon.",
+            "Tomorrow afternoon we're meeting the new client.",
+            "Tomorrow afternoon we are meeting the new client."
+          ],
+          "explanation": "Rapat dengan klien adalah arrangement yang sudah diatur → **We're meeting ...** Dalam bahasa Indonesia kata kerjanya tidak berubah, but in English the present continuous shows the plan is fixed."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u03-l2-predictions",
+      "title": "Making Predictions",
+      "summary": "Membuat prediksi dengan will (opini) dan be going to (bukti saat ini), serta memakai probably, definitely, dan I don't think ... will.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Membedakan prediksi berdasarkan opini (will) dan bukti saat ini (going to)",
+        "Menempatkan probably dan definitely dengan benar",
+        "Membuat prediksi negatif dengan I don't think ... will"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membuat prediksi\nA **prediction** is what we think will happen in the future. Dalam bahasa Inggris ada dua pilihan utama: **will** dan **be going to**. Keduanya bisa diterjemahkan *akan*, tetapi dasar prediksinya berbeda.\n\n| Form | Dasar prediksi | Example |\n|---|---|---|\n| will + V1 | opini, keyakinan, pengalaman (opinion/belief) | I think electric cars will be cheaper in ten years. |\n| be going to + V1 | bukti yang terlihat sekarang (present evidence) | Look at that queue! We're going to wait for hours. |\n\n### will untuk opini\nWe often use will after **I think**, **I'm sure**, **I expect**, **I believe** and with adverbs like **probably** and **definitely**. Prediksi ini berasal dari pikiran atau pengalaman kita, bukan dari sesuatu yang kita lihat saat ini: *I'm sure you'll pass the test.* *Prices will probably go up next year.*\n\n### going to untuk bukti\nKalau ada tanda yang jelas **sekarang** — awan gelap, jalan macet, baterai hampir habis — gunakan *going to*: *My battery is at 2%. My phone is going to die!* The event often feels close or almost certain, because we can see it coming.\n\n### Posisi probably dan definitely\n| Positive | Negative |\n|---|---|\n| It **will probably** rain. | It **probably won't** rain. |\n| She'**ll definitely** come. | She **definitely won't** come. |\n\nPerhatikan: dalam kalimat positif, adverb diletakkan **setelah will**; dalam kalimat negatif, **sebelum won't**. So *won't probably* is wrong.\n\n### I don't think ... will\nTo make a negative opinion, English speakers usually say **I don't think + will**, not *I think + won't*. *I don't think it will be busy* lebih natural daripada *I think it won't be busy*. Jangan memakai dua negatif: ~~I don't think he won't come~~.\n\n### Present simple bukan untuk prediksi\nDalam bahasa Indonesia kita sering berkata *Besok hujan*. In English, a prediction needs a future form: *It will rain tomorrow* or *It's going to rain tomorrow*, not ~~It rains tomorrow~~.\n\n### Tips\nIn everyday conversation the difference between will and going to for predictions is sometimes small. But when you can **see the evidence now**, going to is the safest choice, and with **I think / I'm sure / probably**, will is the natural choice.",
+        "examples": [
+          {
+            "en": "I think smartphones will be even cheaper in the future.",
+            "id": "Menurut saya, ponsel pintar akan jadi lebih murah lagi di masa depan.",
+            "note": "Opini → will."
+          },
+          {
+            "en": "Look at the traffic! We're going to miss the train.",
+            "id": "Lihat lalu lintasnya! Kita akan ketinggalan kereta.",
+            "note": "Bukti yang terlihat sekarang → going to."
+          },
+          {
+            "en": "Don't worry. You'll definitely find a good job.",
+            "id": "Jangan khawatir. Kamu pasti akan menemukan pekerjaan yang bagus.",
+            "note": "definitely setelah will."
+          },
+          {
+            "en": "The shop probably won't be open on a public holiday.",
+            "id": "Toko itu kemungkinan besar tidak akan buka pada hari libur nasional.",
+            "note": "probably sebelum won't."
+          },
+          {
+            "en": "I don't think the new phone will sell well.",
+            "id": "Saya rasa ponsel baru itu tidak akan laku.",
+            "note": "Negatif: I don't think ... will."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "predict",
+            "pos": "verb",
+            "ipa": "/prɪˈdɪkt/",
+            "meaning": "memprediksi; meramalkan",
+            "example": "Nobody can predict the future exactly."
+          },
+          {
+            "word": "prediction",
+            "pos": "noun",
+            "ipa": "/prɪˈdɪkʃn/",
+            "meaning": "prediksi; ramalan",
+            "example": "My prediction is that our team will win."
+          },
+          {
+            "word": "evidence",
+            "pos": "noun",
+            "ipa": "/ˈevɪdəns/",
+            "meaning": "bukti; tanda",
+            "example": "Dark clouds are evidence that it's going to rain."
+          },
+          {
+            "word": "probably",
+            "pos": "adverb",
+            "ipa": "/ˈprɒbəbli/",
+            "meaning": "kemungkinan besar; barangkali",
+            "example": "I'll probably stay at home tonight."
+          },
+          {
+            "word": "definitely",
+            "pos": "adverb",
+            "ipa": "/ˈdefɪnətli/",
+            "meaning": "pasti; tentu saja",
+            "example": "She'll definitely love this present."
+          },
+          {
+            "word": "expect",
+            "pos": "verb",
+            "ipa": "/ɪkˈspekt/",
+            "meaning": "memperkirakan; mengharapkan",
+            "example": "I expect the meeting will finish at five."
+          },
+          {
+            "word": "forecast",
+            "pos": "noun",
+            "ipa": "/ˈfɔːkɑːst/",
+            "meaning": "prakiraan (cuaca)",
+            "example": "The weather forecast says it will be sunny."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "I think / I'm sure / I expect + subject + will + V1",
+            "example": "I'm sure you'll enjoy the course.",
+            "note": "Prediksi berdasarkan opini atau keyakinan."
+          },
+          {
+            "pattern": "Evidence now → subject + am/is/are going to + V1",
+            "example": "That glass is too close to the edge. It's going to fall!",
+            "note": "Prediksi berdasarkan sesuatu yang terlihat sekarang."
+          },
+          {
+            "pattern": "will + probably/definitely + V1 / probably/definitely + won't + V1",
+            "example": "It will probably snow. It probably won't snow.",
+            "note": "Adverb setelah will, tetapi sebelum won't."
+          },
+          {
+            "pattern": "I don't think + subject + will + V1",
+            "example": "I don't think the bus will come on time.",
+            "note": "Cara natural membuat prediksi negatif."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "It won't probably rain tomorrow.",
+            "right": "It probably won't rain tomorrow.",
+            "why": "Dalam kalimat negatif, probably diletakkan sebelum won't."
+          },
+          {
+            "wrong": "I don't think he won't come.",
+            "right": "I don't think he will come.",
+            "why": "Hanya satu negatif: don't think + will."
+          },
+          {
+            "wrong": "I'm sure you pass the exam next week.",
+            "right": "I'm sure you'll pass the exam next week.",
+            "why": "Prediksi masa depan butuh will (atau going to), bukan present simple."
+          },
+          {
+            "wrong": "Look at those clouds! It's going rain.",
+            "right": "Look at those clouds! It's going to rain.",
+            "why": "Jangan lupa to: be going to + V1."
+          }
+        ],
+        "summary": "Use **will** for predictions based on opinion (often with *I think, I'm sure, probably, definitely*) and **going to** for predictions based on evidence you can see now. Letakkan *probably/definitely* **setelah will** tetapi **sebelum won't**, dan gunakan **I don't think ... will** untuk prediksi negatif.",
+        "reviewCards": [
+          {
+            "front": "Prediksi berdasarkan opini",
+            "back": "will: I think AI will change many jobs."
+          },
+          {
+            "front": "Prediksi berdasarkan bukti sekarang",
+            "back": "going to: Look at the sky! It's going to rain."
+          },
+          {
+            "front": "Posisi probably dalam kalimat negatif",
+            "back": "sebelum won't: It probably won't rain."
+          },
+          {
+            "front": "I think it won't be busy. → lebih natural?",
+            "back": "I don't think it will be busy."
+          },
+          {
+            "front": "forecast",
+            "back": "prakiraan (cuaca): The forecast says it'll be sunny."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u03-l2-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "going to for predictions",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Be careful! The ladder is moving. You ___ fall!",
+          "options": [
+            "are going to",
+            "going to",
+            "are going",
+            "will to"
+          ],
+          "answer": 0,
+          "explanation": "Ada bukti yang terlihat sekarang (tangganya bergoyang) → **be going to + V1**: *You are going to fall!* Remember: we need **are** and **to**, and *will* is never followed by *to*.",
+          "misconception": "Going to selalu memakai be (am/is/are) dan to."
+        },
+        {
+          "id": "b1-u03-l2-q2",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "position of probably",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the words in the correct order.",
+          "words": [
+            "Prices",
+            "probably",
+            "won't",
+            "go",
+            "down",
+            "next",
+            "year"
+          ],
+          "acceptedAnswers": [
+            "Next year prices probably won't go down"
+          ],
+          "explanation": "Dalam kalimat negatif, **probably** diletakkan **sebelum won't**: *Prices probably won't go down next year.* Time expressions like *next year* can go at the beginning or the end."
+        },
+        {
+          "id": "b1-u03-l2-q3",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "I don't think ... will",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "Rewrite the sentence so that it sounds more natural.",
+          "sentence": "I think it won't be easy to find a cheap flight.",
+          "cue": "Begin with: I don't think ...",
+          "answers": [
+            "I don't think it will be easy to find a cheap flight.",
+            "I do not think it will be easy to find a cheap flight.",
+            "I don't think it'll be easy to find a cheap flight.",
+            "I do not think it'll be easy to find a cheap flight."
+          ],
+          "explanation": "Penutur asli biasanya berkata **I don't think + will**: *I don't think it will be easy...* The negative moves to *think*, so *will* stays positive."
+        },
+        {
+          "id": "b1-u03-l2-q4",
+          "type": "multiple_select",
+          "category": "grammar",
+          "topic": "predictions with will and going to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Which sentences are correct? Choose all the correct ones.",
+          "options": [
+            "Prices will probably rise next year.",
+            "Our team won't probably win the final.",
+            "Look at the score! We're going to lose this match.",
+            "I'm sure you'll love the new phone.",
+            "I think it doesn't rain tomorrow.",
+            "She will definitely to pass the exam."
+          ],
+          "answers": [
+            0,
+            2,
+            3
+          ],
+          "explanation": "Benar: *will probably rise*, *going to lose* (bukti: skornya), *I'm sure you'll love*. Salah: *won't probably* (→ probably won't), *doesn't rain tomorrow* (prediksi butuh will), *will definitely to pass* (tanpa to)."
+        },
+        {
+          "id": "b1-u03-l2-q5",
+          "type": "drag_drop",
+          "category": "grammar",
+          "topic": "predictions with will and going to",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Experts expect that by 2040 most new cars ___ be electric. Petrol cars will ___ disappear from city centres. But look at the traffic outside today — we ___ going to be late for work!",
+          "bank": [
+            "will",
+            "probably",
+            "are",
+            "is",
+            "to",
+            "goes"
+          ],
+          "answers": [
+            "will",
+            "probably",
+            "are"
+          ],
+          "explanation": "Opini para ahli → **will** be electric. Adverb setelah will → *will **probably** disappear*. Bukti sekarang (macet) → *we **are** going to be late*."
+        },
+        {
+          "id": "b1-u03-l2-q6",
+          "type": "sentence_correction",
+          "category": "grammar",
+          "topic": "I don't think ... will",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Correct the sentence.",
+          "sentence": "I don't think Andra won't come to the party.",
+          "answers": [
+            "I don't think Andra will come to the party.",
+            "I do not think Andra will come to the party.",
+            "I don't think Andra'll come to the party."
+          ],
+          "explanation": "Hanya boleh **satu negatif**. *I don't think* sudah negatif, jadi pakai **will**, bukan *won't*: *I don't think Andra will come to the party.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u03-l3-future-time-clauses",
+      "title": "When, As Soon As, Until: Future Time Clauses",
+      "summary": "Memakai present simple setelah when, as soon as, before, after, dan until saat membicarakan masa depan.",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan present simple (bukan will) dalam klausa waktu untuk masa depan",
+        "Memahami arti when, as soon as, before, after, dan until",
+        "Menggabungkan dua kalimat dengan klausa waktu dan tanda koma yang tepat"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Klausa waktu untuk masa depan\nA **time clause** starts with a word like **when, as soon as, before, after** or **until**. Saat kalimat membicarakan masa depan, klausa waktu memakai **present simple**, bukan *will*. Ini berbeda dengan bahasa Indonesia, di mana kita bisa berkata *ketika saya akan tiba*. In English: *when I arrive*, not ~~when I will arrive~~.\n\n| Time clause (present simple) | Main clause (future) |\n|---|---|\n| When I **get** home, | I'll call you. |\n| As soon as the film **ends**, | we're going to leave. |\n| Before you **go** out, | close the windows. |\n\n### Arti setiap konjungsi\n| Word | Meaning | Example |\n|---|---|---|\n| when | ketika/saat | When the shop opens, I'll buy a charger. |\n| as soon as | segera setelah | I'll text you as soon as I land. |\n| before | sebelum | Charge your phone before you leave. |\n| after | setelah | After we eat, we'll watch the match. |\n| until | sampai | I'll wait here until you come back. |\n\n### Urutan dan koma\nThe time clause can come **first** or **second**. Kalau klausa waktu ada di **awal**, pakai **koma**: *When I finish, I'll help you.* If it comes second, we usually don't use a comma: *I'll help you when I finish.* Artinya sama.\n\n### Main clause\nThe main clause can use **will**, **going to**, or an **imperative** (kalimat perintah): *Call me when you arrive.* Yang penting: **will tidak masuk ke klausa waktu**. Only the main clause shows the future.\n\n### Present perfect di klausa waktu\nSometimes we use the present perfect to show that the first action will be **completely finished**: *I'll call you when I've finished my homework.* Artinya hampir sama dengan *when I finish*, tetapi lebih menekankan 'sudah selesai'. Both are correct.\n\n### Hati-hati dengan until\n*Until* berarti 'sampai'. Use it with a **positive** verb: *I'll wait until he comes* (bukan ~~until he doesn't come~~). And remember: *until* is about time, so *I'll wait until six o'clock* is also correct.",
+        "examples": [
+          {
+            "en": "I'll send you the photos as soon as I get home.",
+            "id": "Saya akan mengirimkan foto-fotonya segera setelah saya sampai di rumah.",
+            "note": "as soon as + present simple."
+          },
+          {
+            "en": "When the new phone comes out, I'm going to buy it.",
+            "id": "Ketika ponsel baru itu keluar, saya akan membelinya.",
+            "note": "Klausa waktu di awal → pakai koma."
+          },
+          {
+            "en": "Please don't turn off the computer before the update finishes.",
+            "id": "Tolong jangan matikan komputer sebelum pembaruan selesai.",
+            "note": "before + present simple; main clause berupa imperative."
+          },
+          {
+            "en": "We'll stay inside until the storm stops.",
+            "id": "Kita akan tetap di dalam sampai badai berhenti.",
+            "note": "until + present simple (positif)."
+          },
+          {
+            "en": "After Nadia graduates, she's going to work abroad.",
+            "id": "Setelah Nadia lulus, dia akan bekerja di luar negeri.",
+            "note": "after + present simple (graduates)."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "as soon as",
+            "pos": "conjunction",
+            "ipa": "/əz ˈsuːn əz/",
+            "meaning": "segera setelah",
+            "example": "Call me as soon as you hear any news."
+          },
+          {
+            "word": "until",
+            "pos": "conjunction / preposition",
+            "ipa": "/ənˈtɪl/",
+            "meaning": "sampai; hingga",
+            "example": "Wait here until I come back."
+          },
+          {
+            "word": "land",
+            "pos": "verb",
+            "ipa": "/lænd/",
+            "meaning": "mendarat",
+            "example": "I'll text you when the plane lands."
+          },
+          {
+            "word": "charge",
+            "pos": "verb",
+            "ipa": "/tʃɑːdʒ/",
+            "meaning": "mengisi daya (baterai)",
+            "example": "I need to charge my phone before I go out."
+          },
+          {
+            "word": "turn off",
+            "pos": "phrasal verb",
+            "ipa": "/ˌtɜːn ˈɒf/",
+            "meaning": "mematikan",
+            "example": "Turn off the lights when you leave."
+          },
+          {
+            "word": "get back",
+            "pos": "phrasal verb",
+            "ipa": "/ˌɡet ˈbæk/",
+            "meaning": "kembali; pulang",
+            "example": "We'll talk about it when I get back."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "when / as soon as / before / after / until + present simple, + will / going to / imperative",
+            "example": "As soon as I arrive, I'll call you.",
+            "note": "Koma dipakai jika klausa waktu di awal kalimat."
+          },
+          {
+            "pattern": "Main clause + when / as soon as / before / after / until + present simple",
+            "example": "I'll call you as soon as I arrive.",
+            "note": "Tanpa koma jika klausa waktu di akhir."
+          },
+          {
+            "pattern": "when / after / as soon as + present perfect (optional)",
+            "example": "I'll lend you the book when I've finished it.",
+            "note": "Menekankan bahwa aksi pertama sudah selesai."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "I'll call you when I will arrive.",
+            "right": "I'll call you when I arrive.",
+            "why": "Setelah when (untuk masa depan) pakai present simple, bukan will."
+          },
+          {
+            "wrong": "As soon as she will finish, we'll leave.",
+            "right": "As soon as she finishes, we'll leave.",
+            "why": "As soon as + present simple; ingat -es untuk she."
+          },
+          {
+            "wrong": "Don't go out until it doesn't stop raining.",
+            "right": "Don't go out until it stops raining.",
+            "why": "Until dipakai dengan kata kerja positif."
+          },
+          {
+            "wrong": "Before you leave turn off the computer.",
+            "right": "Before you leave, turn off the computer.",
+            "why": "Jika klausa waktu di awal, pakai koma."
+          }
+        ],
+        "summary": "After **when, as soon as, before, after** and **until**, use the **present simple** to talk about the future — never *will*. Masa depan cukup ditunjukkan di main clause (will, going to, atau imperative). Pakai koma jika klausa waktu berada di awal kalimat.",
+        "reviewCards": [
+          {
+            "front": "I'll call you when I ___ (arrive).",
+            "back": "arrive — present simple, bukan will arrive"
+          },
+          {
+            "front": "as soon as",
+            "back": "segera setelah: I'll text you as soon as I land."
+          },
+          {
+            "front": "until + positif atau negatif?",
+            "back": "Positif: Wait until it stops raining."
+          },
+          {
+            "front": "Kapan pakai koma dengan klausa waktu?",
+            "back": "Saat klausa waktu di awal: When I finish, I'll help you."
+          },
+          {
+            "front": "when + present perfect?",
+            "back": "Boleh, untuk menekankan selesai: I'll call you when I've finished."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u03-l3-q1",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "future time clauses",
+          "difficulty": 2,
+          "stage": "guided",
+          "prompt": "Complete with the correct form of the verbs in brackets.",
+          "text": "When Raka ___ (finish) his course next year, he ___ (look) for a job in Port Selwyn.",
+          "answers": [
+            [
+              "finishes",
+              "has finished",
+              "'s finished"
+            ],
+            [
+              "will look",
+              "'ll look",
+              "is going to look",
+              "'s going to look"
+            ]
+          ],
+          "explanation": "Klausa waktu dengan *when* memakai **present simple**: *finishes* (bukan *will finish*). The main clause shows the future: **will look** or **is going to look**.",
+          "misconception": "Banyak pelajar menulis 'when he will finish' karena dalam bahasa Indonesia kita bisa berkata 'ketika dia akan selesai'."
+        },
+        {
+          "id": "b1-u03-l3-q2",
+          "type": "sentence_reconstruction",
+          "category": "grammar",
+          "topic": "future time clauses",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Put the parts in the correct order to make a sentence.",
+          "fragments": [
+            "Before you leave the office,",
+            "please make sure",
+            "you turn off",
+            "all the computers."
+          ],
+          "acceptedAnswers": [
+            "Please make sure you turn off all the computers before you leave the office."
+          ],
+          "explanation": "Klausa waktu *Before you leave the office* memakai present simple dan diikuti koma karena berada di awal. The main clause is an imperative: *please make sure...*"
+        },
+        {
+          "id": "b1-u03-l3-q3",
+          "type": "dictation",
+          "category": "listening",
+          "topic": "future time clauses",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Listen and type the sentence you hear.",
+          "text": "We'll stay inside until the storm stops.",
+          "explanation": "Kalimatnya: *We'll stay inside until the storm stops.* Notice that *until* is followed by the present simple **stops**, not *will stop*."
+        },
+        {
+          "id": "b1-u03-l3-q4",
+          "type": "error_identification",
+          "category": "grammar",
+          "topic": "future time clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Find the incorrect part of the sentence.",
+          "segments": [
+            "I'll call you",
+            "as soon as",
+            "the plane will land",
+            "in Port Selwyn."
+          ],
+          "errorIndex": 2,
+          "correction": "the plane lands",
+          "explanation": "Setelah **as soon as** untuk masa depan, gunakan present simple: *as soon as the plane **lands***. Only the main clause (*I'll call you*) uses will."
+        },
+        {
+          "id": "b1-u03-l3-q5",
+          "type": "dropdown",
+          "category": "grammar",
+          "topic": "future time clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Choose the correct option for each gap.",
+          "text": "We ___ dinner until Dad gets home from work tonight. As soon as he ___, we'll start eating.",
+          "choices": [
+            [
+              "won't have",
+              "haven't had",
+              "didn't have"
+            ],
+            [
+              "arrives",
+              "will arrive",
+              "arrived"
+            ]
+          ],
+          "answers": [
+            0,
+            0
+          ],
+          "explanation": "Main clause tentang malam ini → **won't have**. Klausa *as soon as* untuk masa depan → present simple **arrives**, bukan *will arrive*."
+        },
+        {
+          "id": "b1-u03-l3-q6",
+          "type": "sentence_transformation",
+          "category": "grammar",
+          "topic": "future time clauses",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Combine the two sentences into one.",
+          "sentence": "First I'll finish this report. Then I'll go home.",
+          "cue": "Use 'after'. Begin with: I'll go home ...",
+          "answers": [
+            "I'll go home after I finish this report.",
+            "I will go home after I finish this report.",
+            "I'll go home after I've finished this report.",
+            "I will go home after I have finished this report.",
+            "I'll go home after I have finished this report.",
+            "I will go home after I've finished this report."
+          ],
+          "explanation": "Setelah **after** pakai present simple (*I finish*) atau present perfect (*I've finished*), bukan *will finish*: *I'll go home after I finish this report.*"
+        }
+      ]
+    },
+    {
+      "slug": "b1-u03-l4-might-may",
+      "title": "Might and May for Possibility",
+      "summary": "Menyatakan kemungkinan di masa depan dengan might/may dan membandingkan tingkat keyakinan (will, probably, might, won't).",
+      "estimatedMinutes": 20,
+      "objectives": [
+        "Menggunakan might/may + V1 untuk kemungkinan di masa depan",
+        "Membentuk kalimat negatif might not / may not",
+        "Membedakan maybe dan may be serta memilih kata sesuai tingkat keyakinan"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### might dan may = mungkin\nWe use **might** or **may** + V1 to say that something is **possible** but not certain. Dalam bahasa Indonesia artinya *mungkin* atau *bisa jadi*. *It might rain this afternoon. I may be late tonight.* Kita memakainya ketika kita belum memutuskan atau belum tahu pasti.\n\n### Bentuk\n| Positive | Negative |\n|---|---|\n| I might / may go. | I might not / may not go. |\n| She might / may be busy. | She might not / may not be busy. |\n\nSeperti modal lain (*can, will, should*): tidak ada **-s** untuk he/she/it, tidak ada **to**, dan kata kerja setelahnya selalu **V1**. *He might come* (bukan ~~he mights come~~ / ~~he might to come~~ / ~~he might coming~~). The negative is usually not contracted: say *might not* and *may not*.\n\n### Seberapa yakin?\n| Certainty | Example |\n|---|---|\n| 100% | It **will** rain. / It's **definitely** going to rain. |\n| ±80% | It'll **probably** rain. |\n| ±50% | It **might / may** rain. |\n| ±20% | It **probably won't** rain. |\n| 0% | It **won't** rain. |\n\nThe percentages are only a guide, tetapi tabel ini membantu kamu memilih kata yang tepat untuk tingkat keyakinanmu.\n\n### might vs may\nDalam konteks kemungkinan, *might* dan *may* hampir sama artinya. *May* sounds a little more formal and is common in news and official messages: *Flights may be delayed because of the storm.* *Might* is very common in everyday conversation: *I might watch a film tonight.*\n\n### maybe vs may be\n**Maybe** (satu kata) adalah adverb = *mungkin*, biasanya di awal kalimat: *Maybe I'll stay at home.* **May be** (dua kata) adalah modal + verb *be*: *The shop may be closed.* Jangan tertukar! A quick test: if you can replace it with *perhaps*, write **maybe**.\n\n### Pertanyaan\nWe don't usually ask questions with *might/may* for possibility. Instead, ask: *Do you think it will rain?* atau *Are you going to come?* The answer can use might: *I'm not sure. I might.*",
+        "examples": [
+          {
+            "en": "Take an umbrella. It might rain later.",
+            "id": "Bawa payung. Mungkin nanti hujan.",
+            "note": "Kemungkinan, tidak pasti."
+          },
+          {
+            "en": "I may not have time to call you tomorrow.",
+            "id": "Saya mungkin tidak punya waktu untuk meneleponmu besok.",
+            "note": "Negatif: may not + V1."
+          },
+          {
+            "en": "Flights may be delayed because of the fog.",
+            "id": "Penerbangan mungkin tertunda karena kabut.",
+            "note": "may lebih formal, sering di pengumuman."
+          },
+          {
+            "en": "Maybe we'll buy a smart TV next year.",
+            "id": "Mungkin kami akan membeli smart TV tahun depan.",
+            "note": "Maybe (satu kata) = perhaps."
+          },
+          {
+            "en": "The new café might not open until April.",
+            "id": "Kafe baru itu mungkin belum buka sampai bulan April.",
+            "note": "might not + V1."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "possibility",
+            "pos": "noun",
+            "ipa": "/ˌpɒsəˈbɪləti/",
+            "meaning": "kemungkinan",
+            "example": "There's a possibility that the meeting will be cancelled."
+          },
+          {
+            "word": "perhaps",
+            "pos": "adverb",
+            "ipa": "/pəˈhæps/",
+            "meaning": "mungkin; barangkali",
+            "example": "Perhaps we'll see snow this year."
+          },
+          {
+            "word": "certain",
+            "pos": "adjective",
+            "ipa": "/ˈsɜːtn/",
+            "meaning": "pasti; yakin",
+            "example": "I'm not certain, but I might change jobs."
+          },
+          {
+            "word": "unlikely",
+            "pos": "adjective",
+            "ipa": "/ʌnˈlaɪkli/",
+            "meaning": "kecil kemungkinannya",
+            "example": "It's unlikely that prices will go down."
+          },
+          {
+            "word": "delay",
+            "pos": "verb / noun",
+            "ipa": "/dɪˈleɪ/",
+            "meaning": "menunda; penundaan",
+            "example": "There may be a delay on the northern line."
+          },
+          {
+            "word": "cancel",
+            "pos": "verb",
+            "ipa": "/ˈkænsl/",
+            "meaning": "membatalkan",
+            "example": "They might cancel the concert because of the storm."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "Subject + might / may + V1",
+            "example": "We might go to the tech fair on Saturday.",
+            "note": "Kemungkinan; tanpa -s dan tanpa to."
+          },
+          {
+            "pattern": "Subject + might not / may not + V1",
+            "example": "Sari may not come to class tomorrow.",
+            "note": "Bentuk negatif biasanya tidak disingkat."
+          },
+          {
+            "pattern": "Maybe + subject + will + V1 / Subject + may be + adjective/noun",
+            "example": "Maybe it will be sunny. / It may be sunny.",
+            "note": "Maybe = adverb; may be = modal + be."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "He mights come later.",
+            "right": "He might come later.",
+            "why": "Modal tidak pernah mendapat -s."
+          },
+          {
+            "wrong": "We might to visit the museum.",
+            "right": "We might visit the museum.",
+            "why": "Setelah might/may langsung V1, tanpa to."
+          },
+          {
+            "wrong": "May be I'll stay at home tonight.",
+            "right": "Maybe I'll stay at home tonight.",
+            "why": "Sebagai adverb (= perhaps), maybe ditulis satu kata."
+          },
+          {
+            "wrong": "Might you come to the party?",
+            "right": "Do you think you'll come to the party?",
+            "why": "Untuk menanyakan kemungkinan, biasanya pakai Do you think ... will ...? atau Are you going to ...?"
+          }
+        ],
+        "summary": "**Might** and **may** + V1 express possibility (*mungkin*): *It might rain.* Bentuk negatifnya *might not / may not*; tidak ada -s, tidak ada to. *Maybe* (satu kata) = perhaps, sedangkan *may be* = modal + be. Choose will, probably, might, or won't according to how certain you are.",
+        "reviewCards": [
+          {
+            "front": "might/may + ?",
+            "back": "V1 tanpa to: It might rain."
+          },
+          {
+            "front": "Negatif dari might",
+            "back": "might not: I might not go."
+          },
+          {
+            "front": "Maybe vs may be",
+            "back": "Maybe = perhaps (adverb). May be = modal + be: It may be closed."
+          },
+          {
+            "front": "Urutan keyakinan",
+            "back": "will > will probably > might/may > probably won't > won't"
+          },
+          {
+            "front": "might atau may lebih formal?",
+            "back": "may — sering di pengumuman resmi."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u03-l4-q1",
+          "type": "single_choice",
+          "category": "grammar",
+          "topic": "might for possibility",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Take an umbrella. It ___ rain later — the forecast isn't sure.",
+          "options": [
+            "might",
+            "might to",
+            "mights",
+            "is might"
+          ],
+          "answer": 0,
+          "explanation": "**might + V1** untuk kemungkinan: *It might rain later.* Modal tidak memakai *to*, tidak mendapat *-s*, dan tidak memakai *is*.",
+          "misconception": "Might adalah modal seperti can dan will: langsung diikuti V1."
+        },
+        {
+          "id": "b1-u03-l4-q2",
+          "type": "fill_blank",
+          "category": "grammar",
+          "topic": "might not / may not",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Complete with might not or may not + the verb in brackets.",
+          "text": "Bayu isn't feeling well, so he ___ (come) to football practice tonight. We aren't sure yet.",
+          "answers": [
+            [
+              "might not come",
+              "may not come",
+              "mightn't come"
+            ]
+          ],
+          "explanation": "Belum pasti dan negatif → **might not come** / **may not come**. The verb after the modal is always V1 (*come*)."
+        },
+        {
+          "id": "b1-u03-l4-q3",
+          "type": "translation",
+          "category": "grammar",
+          "topic": "might for possibility",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Translate into Indonesian.",
+          "source": "The new app might not be ready until next month.",
+          "direction": "en-id",
+          "answers": [
+            "Aplikasi baru itu mungkin tidak akan siap sampai bulan depan.",
+            "Aplikasi baru itu mungkin belum siap sampai bulan depan.",
+            "Aplikasi baru itu mungkin tidak siap sampai bulan depan.",
+            "Aplikasi yang baru itu mungkin belum siap sampai bulan depan.",
+            "Aplikasi yang baru itu mungkin tidak akan siap sampai bulan depan.",
+            "Aplikasi baru itu mungkin baru siap bulan depan.",
+            "Aplikasi baru itu mungkin belum akan siap sampai bulan depan."
+          ],
+          "explanation": "*might not be ready* = **mungkin tidak/belum siap**; *until next month* = **sampai bulan depan**. Perhatikan bahwa *might not* menunjukkan ketidakpastian, not a definite fact."
+        },
+        {
+          "id": "b1-u03-l4-q4",
+          "type": "short_answer",
+          "category": "grammar",
+          "topic": "maybe vs may be",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Rewrite with may + verb. Write only the missing words (two words). 'Perhaps the shop is closed today.' → The shop ___ closed today.",
+          "answers": [
+            "may be"
+          ],
+          "explanation": "*Perhaps ... is* → **may be** (modal *may* + verb *be*), ditulis dua kata: *The shop may be closed today.* *Maybe* (one word) is an adverb and cannot replace the verb."
+        },
+        {
+          "id": "b1-u03-l4-q5",
+          "type": "word_order",
+          "category": "grammar",
+          "topic": "might not / may not",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Put the words in the correct order.",
+          "words": [
+            "We",
+            "may",
+            "not",
+            "have",
+            "enough",
+            "time",
+            "to",
+            "visit",
+            "the",
+            "museum"
+          ],
+          "explanation": "Pola negatif: **subject + may not + V1**: *We may not have enough time to visit the museum.* *Not* comes directly after *may*."
+        },
+        {
+          "id": "b1-u03-l4-q6",
+          "type": "dialogue_completion",
+          "category": "conversation",
+          "topic": "might for possibility",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best reply.",
+          "dialogue": [
+            {
+              "speaker": "Tari",
+              "text": "Are you going to the tech fair on Saturday?"
+            },
+            {
+              "speaker": "Gilang",
+              "text": null
+            },
+            {
+              "speaker": "Tari",
+              "text": "OK. Send me a message when you decide."
+            }
+          ],
+          "options": [
+            "I'm not sure yet. I might go with my cousin.",
+            "I'm not sure yet. I might going with my cousin.",
+            "I'm not sure yet. I might to go with my cousin.",
+            "I'm not sure yet. I mights go with my cousin."
+          ],
+          "answer": 0,
+          "explanation": "Gilang belum memutuskan → **might + V1**: *I might go with my cousin.* The other options use the wrong verb form after *might*."
+        }
+      ]
+    },
+    {
+      "slug": "b1-u03-l5-technology-future",
+      "title": "Technology and the Future",
+      "summary": "Membicarakan teknologi masa depan dengan kosakata yang tepat dan menggabungkan semua bentuk future yang telah dipelajari.",
+      "estimatedMinutes": 25,
+      "objectives": [
+        "Menggunakan kosakata teknologi seperti device, replace, develop, update, dan driverless",
+        "Menggabungkan will, going to, present continuous, might/may, dan time clauses",
+        "Menulis paragraf pendek berisi prediksi tentang teknologi"
+      ],
+      "completionCriteria": "Baca semua bagian materi dan raih skor minimal 70% pada mini quiz.",
+      "sections": {
+        "explanation": "### Membicarakan teknologi masa depan\nIn this lesson you will put all the future forms together to talk about **technology**. Saat berdiskusi tentang masa depan, kita perlu kosakata yang tepat **dan** cara menunjukkan seberapa yakin kita.\n\n### Kosakata inti\n| Word / phrase | Meaning | Collocation |\n|---|---|---|\n| device | perangkat | a smart device, a mobile device |\n| artificial intelligence (AI) | kecerdasan buatan | use AI, AI tools |\n| driverless | tanpa sopir | a driverless car |\n| replace | menggantikan | replace workers, replace paper tickets |\n| develop | mengembangkan | develop an app, develop new technology |\n| update | memperbarui | update software, update an app |\n| battery | baterai | charge the battery, the battery runs out |\n\n### Ringkasan bentuk future\n| Situation | Form | Example |\n|---|---|---|\n| opinion prediction | will (+ probably/definitely) | AI will probably change many jobs. |\n| evidence now | going to | My laptop is making a strange noise. It's going to break! |\n| plan / intention | going to | I'm going to learn to code. |\n| fixed arrangement | present continuous | We're launching the new app on 1 March. |\n| possibility | might / may | Driverless buses might appear in our city. |\n| time clause | when / as soon as + present simple | When the update finishes, restart your phone. |\n\n### Mengekspresikan pendapat tentang masa depan\nUseful phrases: *In the future, ...*, *In ten years' time, ...*, *I expect (that) ...*, *I doubt (that) ... will ...*, *There's a good chance that ...* Kata **doubt** berarti 'ragu', jadi *I doubt robots will cook our dinner* artinya kamu tidak yakin hal itu akan terjadi. *There's a good chance* means something is quite likely.\n\n### Menulis prediksi yang baik\nA good paragraph about the future **mixes certainty levels**. Jangan hanya memakai *will* di setiap kalimat. Example: *I think phones will probably become even thinner. Some people might wear them as glasses. However, I don't think robots will replace teachers, because students need real human contact.* Paragraf ini memakai *will probably*, *might*, dan *I don't think ... will* — sehingga terdengar lebih alami dan lebih jujur.\n\n### Tips\nGive a **reason** for your prediction with *because* or *so*: *Online shopping will grow because it's fast and easy.* Alasan membuat pendapatmu lebih meyakinkan.",
+        "examples": [
+          {
+            "en": "In ten years' time, driverless taxis might be common in big cities.",
+            "id": "Sepuluh tahun lagi, taksi tanpa sopir mungkin akan umum di kota-kota besar.",
+            "note": "might untuk kemungkinan."
+          },
+          {
+            "en": "I doubt robots will replace nurses.",
+            "id": "Saya ragu robot akan menggantikan perawat.",
+            "note": "I doubt ... will = saya ragu ... akan."
+          },
+          {
+            "en": "Our team is launching a new learning app next Monday.",
+            "id": "Tim kami meluncurkan aplikasi belajar baru Senin depan.",
+            "note": "Arrangement → present continuous."
+          },
+          {
+            "en": "Don't unplug the laptop until the update finishes.",
+            "id": "Jangan cabut laptopnya sampai pembaruan selesai.",
+            "note": "until + present simple."
+          },
+          {
+            "en": "Scientists are developing batteries that charge in minutes.",
+            "id": "Para ilmuwan sedang mengembangkan baterai yang terisi dalam hitungan menit.",
+            "note": "develop = mengembangkan."
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "device",
+            "pos": "noun",
+            "ipa": "/dɪˈvaɪs/",
+            "meaning": "perangkat; alat",
+            "example": "Please turn off all electronic devices."
+          },
+          {
+            "word": "artificial intelligence",
+            "pos": "noun",
+            "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+            "meaning": "kecerdasan buatan",
+            "example": "Artificial intelligence will probably help doctors."
+          },
+          {
+            "word": "driverless",
+            "pos": "adjective",
+            "ipa": "/ˈdraɪvələs/",
+            "meaning": "tanpa sopir",
+            "example": "Would you ride in a driverless car?"
+          },
+          {
+            "word": "replace",
+            "pos": "verb",
+            "ipa": "/rɪˈpleɪs/",
+            "meaning": "menggantikan; mengganti",
+            "example": "Online tickets have replaced paper tickets."
+          },
+          {
+            "word": "develop",
+            "pos": "verb",
+            "ipa": "/dɪˈveləp/",
+            "meaning": "mengembangkan",
+            "example": "The company is developing a new game."
+          },
+          {
+            "word": "update",
+            "pos": "verb / noun",
+            "ipa": "/ˌʌpˈdeɪt/",
+            "meaning": "memperbarui; pembaruan",
+            "example": "You need to update the app before you use it."
+          },
+          {
+            "word": "battery",
+            "pos": "noun",
+            "ipa": "/ˈbætri/",
+            "meaning": "baterai",
+            "example": "My phone battery runs out very quickly."
+          },
+          {
+            "word": "doubt",
+            "pos": "verb",
+            "ipa": "/daʊt/",
+            "meaning": "meragukan; ragu",
+            "example": "I doubt the price will go down."
+          }
+        ],
+        "grammar": [
+          {
+            "pattern": "I doubt (that) + subject + will + V1",
+            "example": "I doubt we'll use cash in 2050.",
+            "note": "Menyatakan bahwa sesuatu kecil kemungkinannya terjadi."
+          },
+          {
+            "pattern": "There's a good chance (that) + subject + will + V1",
+            "example": "There's a good chance that prices will fall.",
+            "note": "Menyatakan bahwa sesuatu cukup mungkin terjadi."
+          },
+          {
+            "pattern": "In ten years' time / By 2050, + subject + will / might + V1",
+            "example": "By 2050, most homes might have a robot.",
+            "note": "Keterangan waktu masa depan di awal kalimat diikuti koma."
+          }
+        ],
+        "mistakes": [
+          {
+            "wrong": "Robots will replacing many workers.",
+            "right": "Robots will replace many workers.",
+            "why": "Setelah will pakai V1, bukan V-ing."
+          },
+          {
+            "wrong": "When the update will finish, restart your phone.",
+            "right": "When the update finishes, restart your phone.",
+            "why": "Klausa waktu memakai present simple."
+          },
+          {
+            "wrong": "I doubt robots won't cook our dinner.",
+            "right": "I doubt robots will cook our dinner.",
+            "why": "Doubt sudah bermakna negatif, jadi pakai will."
+          },
+          {
+            "wrong": "My phone's battery is finished, I need to charge on it.",
+            "right": "My phone's battery is almost empty. I need to charge it.",
+            "why": "Kolokasi yang benar: charge a phone/battery (tanpa on)."
+          }
+        ],
+        "summary": "To talk about the future of technology, combine **will/probably** (opinion), **going to** (evidence or plans), **present continuous** (arrangements), **might/may** (possibility) and **time clauses + present simple**. Gunakan kosakata seperti *device, replace, develop, update, driverless*, dan beri alasan untuk setiap prediksi.",
+        "reviewCards": [
+          {
+            "front": "replace",
+            "back": "menggantikan: Will robots replace teachers?"
+          },
+          {
+            "front": "develop an app",
+            "back": "mengembangkan aplikasi"
+          },
+          {
+            "front": "I doubt robots will cook. (arti)",
+            "back": "Saya ragu robot akan memasak."
+          },
+          {
+            "front": "driverless car",
+            "back": "mobil tanpa sopir"
+          },
+          {
+            "front": "When the update ___ (finish), restart your phone.",
+            "back": "finishes (present simple dalam time clause)"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "b1-u03-l5-q1",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "technology vocabulary",
+          "difficulty": 1,
+          "stage": "guided",
+          "prompt": "Choose the best word. My phone's ___ is almost empty, so I need to charge it.",
+          "options": [
+            "battery",
+            "screen",
+            "update",
+            "device"
+          ],
+          "answer": 0,
+          "explanation": "Yang perlu di-*charge* (diisi daya) adalah **battery**. A screen shows pictures, and an update is new software."
+        },
+        {
+          "id": "b1-u03-l5-q2",
+          "type": "matching",
+          "category": "vocabulary",
+          "topic": "technology vocabulary",
+          "difficulty": 2,
+          "stage": "independent",
+          "prompt": "Match each word with its definition.",
+          "pairs": [
+            {
+              "left": "device",
+              "right": "a small machine or tool, such as a phone or tablet"
+            },
+            {
+              "left": "replace",
+              "right": "to take the place of something or someone"
+            },
+            {
+              "left": "develop",
+              "right": "to create something new and make it better over time"
+            },
+            {
+              "left": "driverless",
+              "right": "able to move without a person controlling it"
+            },
+            {
+              "left": "update",
+              "right": "to install the newest version of software"
+            }
+          ],
+          "explanation": "device = perangkat; replace = menggantikan; develop = mengembangkan; driverless = tanpa sopir; update = memperbarui (software)."
+        },
+        {
+          "id": "b1-u03-l5-q3",
+          "type": "essay",
+          "category": "writing",
+          "topic": "predictions about technology",
+          "difficulty": 3,
+          "stage": "independent",
+          "prompt": "How will technology change your daily life in the next 20 years? Write a paragraph of 80–120 words.",
+          "instructions": "Use will (with probably/definitely), might or may, I don't think ... will, and at least one time clause (when / as soon as / before / after / until). Give reasons with because or so.",
+          "minWords": 80,
+          "maxWords": 120,
+          "rubric": "general-writing",
+          "explanation": "Paragraf yang baik mencampur tingkat keyakinan (will probably, might, I don't think ... will) dan memberi alasan. Check that every time clause uses the present simple, not will."
+        },
+        {
+          "id": "b1-u03-l5-q4",
+          "type": "contextual_vocabulary",
+          "category": "vocabulary",
+          "topic": "technology vocabulary",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Choose the best word. Some people worry that robots will ___ human workers in factories.",
+          "options": [
+            "replace",
+            "repair",
+            "remind",
+            "receive"
+          ],
+          "answer": 0,
+          "explanation": "**Replace** = menggantikan. Orang khawatir robot akan mengambil tempat pekerja manusia. *Repair* (memperbaiki), *remind* (mengingatkan) and *receive* (menerima) do not make sense here."
+        },
+        {
+          "id": "b1-u03-l5-q5",
+          "type": "drag_drop",
+          "category": "mixed",
+          "topic": "future forms and technology",
+          "difficulty": 3,
+          "stage": "quiz",
+          "prompt": "Drag the correct words into the gaps.",
+          "text": "Scientists are ___ a new kind of battery. When it ___ ready, phones will charge in five minutes. However, it ___ not be cheap at first — nobody knows yet.",
+          "bank": [
+            "developing",
+            "is",
+            "might",
+            "repairing",
+            "are",
+            "be"
+          ],
+          "answers": [
+            "developing",
+            "is",
+            "might"
+          ],
+          "explanation": "*are **developing*** = sedang mengembangkan. Klausa waktu *When it **is** ready* memakai present simple. *Nobody knows yet* → kemungkinan → *it **might** not be cheap*."
+        },
+        {
+          "id": "b1-u03-l5-q6",
+          "type": "translation",
+          "category": "vocabulary",
+          "topic": "predictions about technology",
+          "difficulty": 2,
+          "stage": "quiz",
+          "prompt": "Translate into English.",
+          "source": "Saya ragu robot akan menggantikan guru.",
+          "direction": "id-en",
+          "answers": [
+            "I doubt robots will replace teachers.",
+            "I doubt that robots will replace teachers.",
+            "I doubt robots are going to replace teachers.",
+            "I doubt that robots are going to replace teachers.",
+            "I doubt robots will replace the teachers.",
+            "I doubt that robots will replace the teachers.",
+            "I doubt robots'll replace teachers."
+          ],
+          "explanation": "*Saya ragu ... akan* = **I doubt (that) ... will**; *menggantikan* = **replace**. Because *doubt* is already negative, we use **will**, not *won't*."
+        }
+      ]
+    }
+  ],
+  "unitTestQuestions": [
+    {
+      "id": "b1-u03-t-q1",
+      "type": "single_choice",
+      "category": "grammar",
+      "topic": "present continuous for arrangements",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Which sentence describes a fixed arrangement?",
+      "options": [
+        "I'm flying to Port Selwyn at 6:15 on Monday — here's my ticket.",
+        "I think I'll fly to Port Selwyn one day.",
+        "It might be sunny in Port Selwyn.",
+        "I'll probably fly there next year."
+      ],
+      "answer": 0,
+      "explanation": "Waktu pasti dan tiket sudah ada → arrangement → **present continuous**: *I'm flying ... at 6:15 on Monday.* The other sentences are opinions or possibilities."
+    },
+    {
+      "id": "b1-u03-t-q2",
+      "type": "fill_blank",
+      "category": "grammar",
+      "topic": "future time clauses",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Complete with the correct form of the verb in brackets.",
+      "text": "Please wait here until the doctor ___ (call) your name.",
+      "answers": [
+        [
+          "calls"
+        ]
+      ],
+      "explanation": "Setelah **until** untuk masa depan → present simple: *until the doctor **calls** your name*. Jangan pakai *will call*."
+    },
+    {
+      "id": "b1-u03-t-q3",
+      "type": "dropdown",
+      "category": "grammar",
+      "topic": "going to and will",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Choose the correct option for each gap.",
+      "text": "A: Have you decided what to do after university? B: Yes, I ___ a master's degree in Port Selwyn. A: That's great! I'm sure you ___ it.",
+      "choices": [
+        [
+          "am going to do",
+          "do",
+          "have done"
+        ],
+        [
+          "will love",
+          "are loving",
+          "loved"
+        ]
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "explanation": "Rencana yang sudah diputuskan (*Have you decided...? Yes*) → **am going to do**. Prediksi opini setelah *I'm sure* → **will love**."
+    },
+    {
+      "id": "b1-u03-t-q4",
+      "type": "error_identification",
+      "category": "grammar",
+      "topic": "future time clauses",
+      "difficulty": 3,
+      "stage": "unit_test",
+      "prompt": "Find the incorrect part of the sentence.",
+      "segments": [
+        "My sister",
+        "will call you",
+        "when she will get",
+        "to the station."
+      ],
+      "errorIndex": 2,
+      "correction": "when she gets",
+      "explanation": "Klausa waktu memakai present simple: *when she **gets** to the station*. *Will* hanya ada di main clause (*will call you*)."
+    },
+    {
+      "id": "b1-u03-t-q5",
+      "type": "sentence_transformation",
+      "category": "grammar",
+      "topic": "might for possibility",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Rewrite the sentence with the same meaning.",
+      "sentence": "Perhaps Kevin will join us for lunch.",
+      "cue": "Use might. Begin with: Kevin ...",
+      "answers": [
+        "Kevin might join us for lunch.",
+        "Kevin may join us for lunch."
+      ],
+      "explanation": "*Perhaps ... will* = kemungkinan → **might + V1**: *Kevin might join us for lunch.*"
+    },
+    {
+      "id": "b1-u03-t-q6",
+      "type": "word_order",
+      "category": "grammar",
+      "topic": "present continuous for arrangements",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Put the words in the correct order.",
+      "words": [
+        "I'm",
+        "having",
+        "lunch",
+        "with",
+        "my",
+        "old",
+        "classmates",
+        "on",
+        "Friday"
+      ],
+      "acceptedAnswers": [
+        "On Friday I'm having lunch with my old classmates"
+      ],
+      "explanation": "Arrangement dengan teman dan waktu pasti → present continuous: *I'm having lunch with my old classmates on Friday.*"
+    },
+    {
+      "id": "b1-u03-t-q7",
+      "type": "dialogue_completion",
+      "category": "conversation",
+      "topic": "will for instant decisions",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the best reply.",
+      "dialogue": [
+        {
+          "speaker": "Fajar",
+          "text": "I can't open the file you sent. My laptop is too old."
+        },
+        {
+          "speaker": "Wulan",
+          "text": null
+        }
+      ],
+      "options": [
+        "Don't worry. I'll send it again in a different format.",
+        "Don't worry. I send it again in a different format.",
+        "Don't worry. I sent it again tomorrow.",
+        "Don't worry. I'll sending it again in a different format."
+      ],
+      "answer": 0,
+      "explanation": "Wulan memutuskan saat itu juga → **will + V1**: *I'll send it again.* Present simple and past simple do not express an instant decision about the future."
+    },
+    {
+      "id": "b1-u03-t-q8",
+      "type": "contextual_vocabulary",
+      "category": "vocabulary",
+      "topic": "predictions vocabulary",
+      "difficulty": 2,
+      "stage": "unit_test",
+      "prompt": "Choose the best word. The weather ___ says it will be sunny all weekend.",
+      "options": [
+        "forecast",
+        "invention",
+        "schedule",
+        "device"
+      ],
+      "answer": 0,
+      "explanation": "**Weather forecast** = prakiraan cuaca. *Invention* (penemuan), *schedule* (jadwal), and *device* (perangkat) do not collocate with *weather* here."
+    }
+  ]
+}
