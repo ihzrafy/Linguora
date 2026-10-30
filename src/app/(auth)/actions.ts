@@ -1,5 +1,6 @@
 "use server";
 
+import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { ActionError } from "@/lib/auth";
 import { clientIp, rateLimit, runAction, type ActionResult } from "@/lib/actions";
@@ -7,6 +8,19 @@ import { publicEnv } from "@/lib/env";
 import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
 import { forgotSchema, loginSchema, registerSchema, resetSchema } from "@/lib/validation";
+
+/** Determine current request origin (e.g. production domain on Vercel). */
+async function getSiteOrigin() {
+  const headerList = await headers();
+  const origin = headerList.get("origin");
+  if (origin) return origin;
+  const host = headerList.get("host");
+  if (host) {
+    const proto = headerList.get("x-forwarded-proto") || "https";
+    return `${proto}://${host}`;
+  }
+  return publicEnv.NEXT_PUBLIC_SITE_URL;
+}
 
 /** Only allow redirects to internal paths. */
 function safeNext(next: unknown, fallback = "/app/dashboard") {
@@ -38,13 +52,14 @@ export async function registerAction(input: unknown): Promise<ActionResult<{ nee
     const { data: taken } = await admin.from("profiles").select("id").eq("username", data.username).maybeSingle();
     if (taken) throw new ActionError("Username sudah dipakai. Pilih username lain.", "conflict");
 
+    const origin = await getSiteOrigin();
     const supabase = await createClient();
     const { data: result, error } = await supabase.auth.signUp({
       email: data.email,
       password: data.password,
       options: {
         data: { username: data.username, display_name: data.displayName, timezone: data.timezone },
-        emailRedirectTo: `${publicEnv.NEXT_PUBLIC_SITE_URL}/auth/callback?next=/app/onboarding`,
+        emailRedirectTo: `${origin}/auth/callback?next=/app/onboarding`,
       },
     });
     if (error) {
@@ -61,10 +76,11 @@ export async function forgotPasswordAction(input: unknown): Promise<ActionResult
   return runAction(async () => {
     const data = forgotSchema.parse(input);
     await rateLimit(`forgot:${await clientIp()}`, 5, 3600);
+    const origin = await getSiteOrigin();
     const supabase = await createClient();
     // Always succeed to avoid revealing whether an email is registered.
     await supabase.auth.resetPasswordForEmail(data.email, {
-      redirectTo: `${publicEnv.NEXT_PUBLIC_SITE_URL}/auth/callback?next=/reset-password`,
+      redirectTo: `${origin}/auth/callback?next=/reset-password`,
     });
     return undefined;
   });
