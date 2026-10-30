@@ -230,11 +230,12 @@ export async function startPlacement(viewer: Viewer, opts: { timed: boolean }): 
   if (!exam) fail("Placement test belum tersedia.", "not_found");
   const open = await openAttempt(viewer, { examId: exam.id });
   if (open) return open;
-  const last = (await completedAttempts(viewer, { examId: exam.id }))[0];
-  if (last?.submitted_at && exam.cooldown_hours > 0) {
-    const until = new Date(new Date(last.submitted_at).getTime() + exam.cooldown_hours * 3_600_000);
-    if (until.getTime() > Date.now()) fail(`Placement test hanya dapat diulang setiap ${exam.cooldown_hours} jam. ${cooldownMessage(until)}`, "locked");
-  }
+  // Sementara pembatasan cooldown 24 jam dinonaktifkan agar placement test dapat diulang kapan saja tanpa menunggu
+  // const last = (await completedAttempts(viewer, { examId: exam.id }))[0];
+  // if (last?.submitted_at && exam.cooldown_hours > 0) {
+  //   const until = new Date(new Date(last.submitted_at).getTime() + exam.cooldown_hours * 3_600_000);
+  //   if (until.getTime() > Date.now()) fail(`Placement test hanya dapat diulang setiap ${exam.cooldown_hours} jam. ${cooldownMessage(until)}`, "locked");
+  // }
   const pool = await eligiblePool({ examId: exam.id });
   const perLevel = Number((exam.blueprint as { perLevel?: number }).perLevel ?? 8);
   const ids = pickStratified(pool, perLevel, [...LEVEL_CODES], random).map((p) => p.id);

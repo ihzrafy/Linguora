@@ -55,7 +55,7 @@ export default async function PlacementPage({ searchParams }: { searchParams: Pr
       </div>
       {exam ? <PlacementStart hasOpen={Boolean(open)} /> : <p className="text-sm text-muted-foreground">Placement test belum tersedia.</p>}
       <p className="text-xs text-muted-foreground">
-        Jangan gunakan kamus atau penerjemah agar hasil estimasi akurat. Jika tidak tahu jawabannya, lewati saja. Placement test dapat diulang setiap {exam?.cooldown_hours ?? 24} jam.
+        Jangan gunakan kamus atau penerjemah agar hasil estimasi akurat. Jika tidak tahu jawabannya, lewati saja.
       </p>
       <AttemptHistory attempts={attempts ?? []} />
     </div>
