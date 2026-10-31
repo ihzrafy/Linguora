@@ -13,7 +13,6 @@ import {
   PenLine,
   Route,
   ShieldCheck,
-  Sparkles,
   Target,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -22,6 +21,7 @@ import { loadClientQuestions } from "@/lib/learning/questions-server";
 import { createPublicClient } from "@/lib/supabase/public";
 import { FaqList, FAQS } from "./faq-data";
 import { HeroMotion } from "./hero-motion";
+import { SpecimenPlay } from "./hero-specimen";
 import { sampleQuestionIds } from "./sample-actions";
 import { SampleExercises } from "./sample-exercises";
 
@@ -62,49 +62,51 @@ export default async function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden border-b">
-        <div className="bg-grid absolute inset-0 [mask-image:radial-gradient(ellipse_at_top,black_30%,transparent_75%)] opacity-60" aria-hidden />
-        <div className="absolute -top-40 left-1/2 size-[42rem] -translate-x-1/2 rounded-full bg-primary/15 blur-3xl" aria-hidden />
-        <div className="relative mx-auto grid max-w-7xl items-center gap-12 px-4 py-16 sm:px-6 md:py-24 lg:grid-cols-[1.1fr_1fr] lg:px-8">
-          <HeroMotion>
-            <p data-hero className="inline-flex items-center gap-2 rounded-full border bg-card px-3 py-1 text-xs font-medium">
-              <Sparkles className="size-3.5 text-primary" /> Kurikulum A1–C2 berbasis CEFR untuk penutur bahasa Indonesia
+      <section className="border-b">
+        <HeroMotion className="mx-auto grid max-w-7xl items-center gap-16 px-4 pt-16 pb-16 sm:px-6 md:pt-24 lg:grid-cols-[1.15fr_1fr] lg:gap-20 lg:px-8 lg:pb-24">
+          <div>
+            <p data-hero className="flex items-center gap-3 text-xs font-medium tracking-[0.2em] text-muted-foreground uppercase">
+              <span className="h-px w-8 bg-foreground/30" aria-hidden />
+              Kurikulum bahasa Inggris · A1–C2
             </p>
-            <h1 data-hero className="text-display mt-6 font-extrabold text-balance">
-              Belajar bahasa Inggris dengan <span className="text-gradient">jalur yang jelas</span> dan latihan yang benar-benar dinilai.
+            <h1 data-hero className="mt-7 font-display text-[clamp(3rem,6.4vw,5.5rem)] leading-[1] tracking-[-0.015em] text-balance">
+              Bahasa Inggris,
+              <br />
+              <em className="text-primary dark:text-brand-lavender">selangkah demi selangkah.</em>
             </h1>
-            <p data-hero className="mt-5 max-w-xl text-lg text-muted-foreground">
-              Linguora menggabungkan learning path terstruktur, bank soal interaktif, ujian bertingkat, dan spaced repetition — dari menyapa dalam bahasa Inggris hingga menulis esai akademik.
+            <p data-hero className="mt-7 max-w-lg text-lg leading-relaxed text-muted-foreground">
+              Jalur belajar yang tersusun rapi dari pemula hingga mahir — latihan yang dinilai dengan teliti, pembahasan dalam bahasa Indonesia, dan pengulangan di waktu yang tepat.
             </p>
-            <div data-hero className="mt-8 flex flex-wrap gap-3">
-              <Button asChild size="lg" className="h-11 px-5">
-                <Link href="/register">
-                  Mulai gratis <ArrowRight />
-                </Link>
+            <div data-hero className="mt-9 flex flex-wrap items-center gap-x-7 gap-y-4">
+              <Button asChild size="lg" className="h-12 rounded-full px-7 text-[0.95rem]">
+                <Link href="/register">Mulai belajar gratis</Link>
               </Button>
-              <Button asChild size="lg" variant="outline" className="h-11 px-5">
-                <Link href="/placement-test">Cek level kamu</Link>
-              </Button>
+              <Link href="/placement-test" className="group inline-flex items-center gap-2 text-[0.95rem] font-medium underline-offset-4 hover:underline">
+                Cek level kamu
+                <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5" aria-hidden />
+              </Link>
             </div>
-          </HeroMotion>
-          <ProductPreview />
-        </div>
-      </section>
 
-      {/* Real platform statistics */}
-      {statItems.length > 0 && (
-        <section aria-label="Statistik platform" className="border-b bg-muted/30">
-          <div className="mx-auto grid max-w-7xl grid-cols-2 gap-6 px-4 py-10 sm:px-6 md:grid-cols-4 lg:px-8">
-            {statItems.map((x) => (
-              <div key={x.label} className="text-center">
-                <p className="text-3xl font-bold tabular-nums md:text-4xl">{Number(x.value).toLocaleString("id-ID")}</p>
-                <p className="text-sm text-muted-foreground">{x.label}</p>
+            {/* Real platform statistics */}
+            {statItems.length > 0 && (
+              <div data-hero className="mt-14 max-w-lg border-t pt-6">
+                <dl aria-label="Statistik platform" className="grid grid-cols-2 gap-x-8 gap-y-5 sm:grid-cols-4">
+                  {statItems.map((x) => (
+                    <div key={x.label}>
+                      <dt className="sr-only">{x.label}</dt>
+                      <dd className="font-display text-3xl tabular-nums">{Number(x.value).toLocaleString("id-ID")}</dd>
+                      <dd aria-hidden className="mt-0.5 text-xs text-muted-foreground">{x.label}</dd>
+                    </div>
+                  ))}
+                </dl>
+                <p className="mt-5 text-[0.7rem] text-muted-foreground/80">Dihitung langsung dari database konten Linguora.</p>
               </div>
-            ))}
+            )}
           </div>
-          <p className="pb-6 text-center text-xs text-muted-foreground">Angka dihitung langsung dari database konten Linguora.</p>
-        </section>
-      )}
+
+          <HeroSpecimen levels={(levels ?? []).map((l) => ({ code: l.code, name: l.name }))} />
+        </HeroMotion>
+      </section>
 
       {/* Learning path */}
       <section className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
@@ -217,44 +219,41 @@ export default async function HomePage() {
   );
 }
 
-/** Static illustration of the learning path UI (no fabricated user data). */
-function ProductPreview() {
-  const nodes = [
-    { t: "Greetings and Goodbyes", s: "done" },
-    { t: "The Verb To Be", s: "done" },
-    { t: "Countries & Nationalities", s: "current" },
-    { t: "The Alphabet & Spelling", s: "locked" },
-  ];
+/** A quiet "specimen" of a first lesson, plus the six-step level staircase. */
+function HeroSpecimen({ levels }: { levels: { code: string; name: string }[] }) {
+  const text = "Where are you from?";
   return (
-    <div aria-hidden className="relative">
-      <div className="absolute -inset-4 rounded-[2rem] bg-gradient-to-br from-primary/20 via-brand-blue/10 to-brand-lavender/30 blur-2xl" />
-      <div className="relative rounded-3xl border bg-card p-5 shadow-xl">
-        <div className="flex items-center justify-between border-b pb-4">
-          <div>
-            <p className="text-xs text-muted-foreground">Level A1 · Unit 1</p>
-            <p className="font-semibold">Hello! Introducing Yourself</p>
-          </div>
-          <span className="rounded-full bg-accent px-2.5 py-1 text-xs font-medium text-accent-foreground">Ilustrasi</span>
+    <figure data-hero className="relative mx-auto w-full max-w-md lg:mr-0">
+      <div className="rounded-[1.75rem] border bg-card p-8 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_24px_48px_-24px_rgb(0_0_0/0.18)] sm:p-10">
+        <div className="flex items-baseline justify-between text-xs text-muted-foreground">
+          <span className="tracking-[0.2em] uppercase">Lesson 1</span>
+          <span>A1 · Greetings</span>
         </div>
-        <ol className="mt-4 space-y-3">
-          {nodes.map((n) => (
-            <li key={n.t} className="flex items-center gap-3 rounded-xl border p-3">
-              <span
-                className={`flex size-9 items-center justify-center rounded-full border-2 ${n.s === "done" ? "border-success bg-success text-white" : n.s === "current" ? "border-primary text-primary ring-4 ring-primary/15" : "border-border bg-muted text-muted-foreground"}`}
-              >
-                {n.s === "done" ? <CheckCircle2 className="size-4" /> : n.s === "current" ? <Route className="size-4" /> : <Lock className="size-4" />}
-              </span>
-              <span className="text-sm font-medium">{n.t}</span>
-            </li>
-          ))}
-        </ol>
-        <div className="mt-4 rounded-xl bg-muted p-4">
-          <p className="text-xs font-semibold text-muted-foreground">Contoh soal · Fill in the blank</p>
-          <p className="mt-2 text-sm">
-            A: Where are you from? B: I <span className="rounded border-b-2 border-primary px-2 font-semibold text-primary">am</span> from Indonesia.
-          </p>
+        <blockquote className="mt-10 font-display text-[2.15rem] leading-[1.1] sm:text-[2.6rem]">&ldquo;{text}&rdquo;</blockquote>
+        <p className="mt-3 font-[family-name:Charis_SIL,Doulos_SIL,Segoe_UI,Lucida_Grande,Arial_Unicode_MS,sans-serif] text-[0.95rem] tracking-wide text-muted-foreground">/weər ɑː juː frɒm/</p>
+        <p className="mt-6 border-l-2 border-primary/40 pl-4 text-[0.95rem] italic text-muted-foreground dark:border-brand-lavender/50">Kamu berasal dari mana?</p>
+        <div className="mt-10">
+          <SpecimenPlay text={text} />
         </div>
       </div>
-    </div>
+
+      {levels.length > 0 && (
+        <figcaption className="mt-10 px-2">
+          <ol aria-label="Enam level CEFR" className="flex items-end gap-2">
+            {levels.map((l, i) => (
+              <li key={l.code} className="flex flex-1 flex-col items-center gap-2" title={l.name}>
+                <span
+                  aria-hidden
+                  className={i === 0 ? "w-full rounded-t-md bg-primary dark:bg-brand-lavender" : "w-full rounded-t-md bg-foreground/[0.07]"}
+                  style={{ height: `${12 + i * 8}px` }}
+                />
+                <span className={i === 0 ? "text-xs font-semibold text-foreground" : "text-xs text-muted-foreground"}>{l.code}</span>
+              </li>
+            ))}
+          </ol>
+          <p className="mt-4 text-center text-xs text-muted-foreground">Enam level, satu jalur — mulai dari mana pun level kamu sekarang.</p>
+        </figcaption>
+      )}
+    </figure>
   );
 }

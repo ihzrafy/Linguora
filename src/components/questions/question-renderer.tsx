@@ -10,7 +10,8 @@ import { NativeSelect } from "@/components/ui/native-select";
 import { Textarea } from "@/components/ui/textarea";
 import { countWords } from "@/lib/questions/normalize";
 import type { ClientQuestion, GradeResult, QuestionResponse } from "@/lib/questions/types";
-import { getRecognition, recognitionSupported, speak, stopSpeaking, ttsSupported, useBrowserSupport } from "@/lib/speech";
+import { getRecognition, recognitionSupported, speak, stopSpeaking, ttsSupported, useBrowserSupport, useSpeakerVoices } from "@/lib/speech";
+import { SpeakerLegend, speakerStyle, speakersOf, speakScript } from "@/components/learning/speaker-voices";
 import { TYPE_LABEL } from "@/lib/labels";
 import { cn } from "@/lib/utils";
 
@@ -137,7 +138,7 @@ function SingleChoice({ question, value, onChange, disabled, feedback }: Props) 
             aria-checked={chosen === o.id}
             disabled={disabled}
             onClick={() => onChange({ optionId: o.id })}
-            className={cn("flex items-center gap-3 rounded-xl border-2 px-4 py-3 text-left text-sm transition-colors disabled:cursor-default md:text-base", optionClass[state])}
+            className={cn("flex items-center gap-3 rounded-xl border-2 px-4 py-3 text-left text-sm transition-[colors,transform] active:scale-[0.98] aria-checked:animate-pop disabled:cursor-default md:text-base", optionClass[state], state === "correct" && "animate-pop")}
           >
             <span className="flex size-7 shrink-0 items-center justify-center rounded-lg bg-muted text-xs font-bold">{LETTERS[i]}</span>
             <span className="flex-1">{o.content}</span>
@@ -165,7 +166,7 @@ function MultiChoice({ question, value, onChange, disabled, feedback }: Props) {
             aria-checked={selected}
             disabled={disabled}
             onClick={() => onChange({ optionIds: selected ? chosen.filter((x) => x !== o.id) : [...chosen, o.id] })}
-            className={cn("flex items-center gap-3 rounded-xl border-2 px-4 py-3 text-left text-sm transition-colors md:text-base", optionClass[state])}
+            className={cn("flex items-center gap-3 rounded-xl border-2 px-4 py-3 text-left text-sm transition-[colors,transform] active:scale-[0.98] aria-checked:animate-pop md:text-base", optionClass[state], state === "correct" && "animate-pop")}
           >
             <span className={cn("flex size-5 shrink-0 items-center justify-center rounded border-2", selected ? "border-primary bg-primary text-primary-foreground" : "border-muted-foreground/40")}>
               {selected && <Check className="size-3.5" />}
@@ -290,7 +291,7 @@ function WordBank({ value, onChange, disabled, feedback, template, bank }: Props
                 onDrop={() => dragWord && place(dragWord, i)}
                 className={cn(
                   "mx-1 inline-flex h-9 min-w-24 items-center justify-center rounded-lg border-2 border-dashed px-3 align-middle text-base",
-                  blanks[i] ? "border-solid border-primary bg-primary/5 font-medium" : "border-muted-foreground/40",
+                  blanks[i] ? "animate-pop border-solid border-primary bg-primary/5 font-medium" : "border-muted-foreground/40",
                   partClass(feedback, i),
                 )}
               >
@@ -309,7 +310,7 @@ function WordBank({ value, onChange, disabled, feedback, template, bank }: Props
             disabled={disabled}
             onDragStart={() => setDragWord(w)}
             onClick={() => place(w)}
-            className="rounded-lg border bg-card px-3 py-1.5 text-sm font-medium shadow-xs transition hover:border-primary hover:bg-accent/50"
+            className="rounded-lg border bg-card px-3 py-1.5 text-sm font-medium shadow-xs transition hover:border-primary hover:bg-accent/50 active:scale-95"
           >
             {w}
           </button>
@@ -340,7 +341,7 @@ function Ordering({ value, onChange, disabled, feedback, tokens }: Props & { tok
             type="button"
             disabled={disabled}
             onClick={() => onChange({ order: order.filter((x) => x !== id) })}
-            className="rounded-lg bg-primary px-3 py-1.5 text-sm font-medium text-primary-foreground"
+            className="animate-pop rounded-lg bg-primary px-3 py-1.5 text-sm font-medium text-primary-foreground transition-transform active:scale-95"
             aria-label={`${text(id)} (ketuk untuk mengembalikan)`}
           >
             {text(id)}
@@ -354,7 +355,7 @@ function Ordering({ value, onChange, disabled, feedback, tokens }: Props & { tok
             type="button"
             disabled={disabled}
             onClick={() => onChange({ order: [...order, t.id] })}
-            className="rounded-lg border bg-card px-3 py-1.5 text-sm font-medium shadow-xs transition hover:border-primary hover:bg-accent/50"
+            className="rounded-lg border bg-card px-3 py-1.5 text-sm font-medium shadow-xs transition hover:border-primary hover:bg-accent/50 active:scale-95"
           >
             {t.text}
           </button>
@@ -586,6 +587,9 @@ function ListeningPlayer({
   const [show, setShow] = useState(false);
   const supported = useTtsSupport();
   const audioRef = useRef<HTMLAudioElement>(null);
+  const stopRef = useRef(false);
+  const speakers = speakersOf(listening.script);
+  const voices = useSpeakerVoices(speakers);
   useEffect(() => () => stopSpeaking(), []);
 
   const play = async () => {
@@ -598,15 +602,15 @@ function ListeningPlayer({
       return;
     }
     if (playing) {
+      stopRef.current = true;
       stopSpeaking();
       setPlaying(false);
       return;
     }
+    stopRef.current = false;
     setPlaying(true);
-    for (const line of listening.script) {
-      if (!window.speechSynthesis) break;
-      await speak(line.text, { rate });
-    }
+    // Each speaker keeps their own voice; stopping halts the whole script.
+    await speakScript(listening.script, voices, rate, { stopped: () => stopRef.current });
     setPlaying(false);
   };
 
@@ -638,11 +642,16 @@ function ListeningPlayer({
           <span className="text-xs text-warning-foreground dark:text-warning">Text-to-speech tidak didukung browser ini.</span>
         )}
       </div>
+      {!listening.audioUrl && supported && (
+        <div className="mt-3">
+          <SpeakerLegend script={listening.script} voices={voices} rate={rate} />
+        </div>
+      )}
       {(revealTranscript || show) && (
         <div className="mt-3 space-y-1 border-t pt-3 text-sm">
           {listening.script.map((l, i) => (
             <p key={i}>
-              <span className="font-semibold">{l.speaker}:</span> {l.text}
+              <span className={cn("font-semibold", speakers.length > 1 && speakerStyle(speakers, l.speaker).text)}>{l.speaker}:</span> {l.text}
             </p>
           ))}
         </div>
@@ -664,20 +673,20 @@ export function FeedbackPanel({ feedback }: { feedback: Feedback }) {
     <div
       role="status"
       className={cn(
-        "space-y-2 rounded-xl border-2 p-4",
+        "space-y-2 rounded-xl border-2 p-4 animate-in fade-in slide-in-from-bottom-2 duration-300",
         manual ? "border-info/40 bg-info/5" : correct ? "border-success/50 bg-success/10" : partial ? "border-warning/60 bg-warning/10" : "border-destructive/40 bg-destructive/5",
       )}
     >
       <p className="flex items-center gap-2 font-semibold">
         {manual ? "Jawaban tersimpan untuk penilaian rubrik" : correct ? (
           <>
-            <Check className="size-5 text-success" /> Benar!
+            <Check className="size-5 animate-bounce-in text-success" /> Benar!
           </>
         ) : partial ? (
           `Sebagian benar (${Math.round(feedback.score * 100)}%)`
         ) : (
           <>
-            <X className="size-5 text-destructive" /> Belum tepat
+            <X className="size-5 animate-bounce-in text-destructive" /> Belum tepat
           </>
         )}
       </p>

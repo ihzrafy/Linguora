@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowRight, Award, CheckCircle2, Clock3, RotateCcw, XCircle, Zap } from "lucide-react";
 import type { Feedback } from "@/components/questions/question-renderer";
+import { ResultCelebration } from "@/components/questions/answer-fx";
 import { ReviewQuestion } from "@/components/questions/review-question";
 import { PageHeader } from "@/components/shared/page-header";
 import { Badge } from "@/components/ui/badge";
@@ -35,8 +36,8 @@ const CATEGORY_LABEL: Record<string, string> = {
   mixed: "Mixed",
 };
 
-export default async function ResultsPage({ params }: { params: Promise<{ attemptId: string }> }) {
-  const { attemptId } = await params;
+export default async function ResultsPage({ params, searchParams }: { params: Promise<{ attemptId: string }>; searchParams: Promise<{ celebrate?: string }> }) {
+  const [{ attemptId }, { celebrate }] = await Promise.all([params, searchParams]);
   const viewer = await requireViewer(`/app/results/${attemptId}`);
   const supabase = await createClient();
   const { data: attempt } = await supabase.from("assessment_attempts").select("*").eq("id", attemptId).eq("user_id", viewer.id).maybeSingle();
@@ -90,6 +91,7 @@ export default async function ResultsPage({ params }: { params: Promise<{ attemp
 
   return (
     <div className="mx-auto max-w-4xl space-y-8">
+      {celebrate === "1" && <ResultCelebration outcome={isPlacement || isPractice ? "done" : passed ? "success" : "fail"} />}
       <PageHeader eyebrow="Hasil" title={title} description={`Dikumpulkan ${new Date(attempt.submitted_at ?? attempt.created_at).toLocaleString("id-ID", { dateStyle: "long", timeStyle: "short" })}`} />
 
       <div className="grid gap-4 md:grid-cols-[1.2fr_1fr]">

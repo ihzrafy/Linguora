@@ -12,6 +12,7 @@ import {
   startLessonQuizAction,
 } from "@/app/app/learning-actions";
 import { saveWordAction, toggleBookmarkAction } from "@/app/app/personal-actions";
+import { AnswerBurst, burstClass, SoundToggle, tapFor, useAnswerFx } from "@/components/questions/answer-fx";
 import { hasAnswer, QuestionRenderer, type Feedback } from "@/components/questions/question-renderer";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -121,7 +122,12 @@ export function LessonPractice({ lessonId, questionIds, guided }: { lessonId: st
   if (!questions.length) return <p className="text-sm text-muted-foreground">Tidak ada soal latihan di bagian ini.</p>;
   return (
     <div className="space-y-4">
-      {guided && <p className="text-sm text-muted-foreground">Jawab soal berikut. Setelah diperiksa, kamu langsung mendapat pembahasan — gunakan untuk memastikan pemahamanmu sebelum mini quiz.</p>}
+      {guided && (
+        <div className="flex items-start justify-between gap-3">
+          <p className="text-sm text-muted-foreground">Jawab soal berikut. Setelah diperiksa, kamu langsung mendapat pembahasan — gunakan untuk memastikan pemahamanmu sebelum mini quiz.</p>
+          <SoundToggle showLabel className="shrink-0" />
+        </div>
+      )}
       {questions.map((q) => (
         <PracticeCard key={q.id} attemptId={state.attemptId} question={q} initial={state.saved[q.id] ?? null} />
       ))}
@@ -133,21 +139,34 @@ function PracticeCard({ attemptId, question, initial }: { attemptId: string; que
   const [value, setValue] = useState<QuestionResponse | null>(initial);
   const [feedback, setFeedback] = useState<Feedback | null>(null);
   const [pending, start] = useTransition();
-  const check = (response: QuestionResponse | null) =>
+  const fx = useAnswerFx();
+  const check = (response: QuestionResponse | null, restore = false) =>
     start(async () => {
       const res = await answerPracticeAction(attemptId, question.id, response);
       if (!res.ok) return void toast.error(res.error);
       setFeedback(res.data);
+      // Answers restored after a reload stay quiet; only fresh answers get sound & animation.
+      if (!restore && !res.data.alreadyAnswered) fx.react(res.data);
       if (res.data.xp > 0) toast.success(`+${res.data.xp} XP`);
     });
   // Restore feedback for questions answered earlier.
   useEffect(() => {
-    if (initial) check(initial);
+    if (initial) check(initial, true);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   return (
-    <div className="rounded-2xl border bg-card p-5">
-      <QuestionRenderer question={question} value={value} onChange={setValue} disabled={Boolean(feedback) || pending} feedback={feedback} />
+    <div key={fx.burst?.id ?? 0} className={cn("relative rounded-2xl border bg-card p-5", burstClass(fx.burst))}>
+      <AnswerBurst burst={fx.burst} />
+      <QuestionRenderer
+        question={question}
+        value={value}
+        onChange={(v) => {
+          tapFor(question.data.kind);
+          setValue(v);
+        }}
+        disabled={Boolean(feedback) || pending}
+        feedback={feedback}
+      />
       {!feedback && (
         <Button className="mt-4" onClick={() => check(value)} disabled={pending || !hasAnswer(question, value)}>
           {pending && <Loader2 className="animate-spin" />} Periksa jawaban

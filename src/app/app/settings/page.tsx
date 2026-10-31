@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Download } from "lucide-react";
+import { SoundSetting } from "@/components/questions/answer-fx";
 import { PageHeader } from "@/components/shared/page-header";
 import { ThemeToggle } from "@/components/shared/theme-toggle";
 import { Button } from "@/components/ui/button";
@@ -39,10 +40,11 @@ export default async function SettingsPage() {
       <Card>
         <CardHeader>
           <CardTitle className="text-base">Tampilan</CardTitle>
-          <CardDescription>Mode terang, gelap, atau mengikuti sistem.</CardDescription>
+          <CardDescription>Mode terang, gelap, atau mengikuti sistem, serta efek suara.</CardDescription>
         </CardHeader>
-        <CardContent>
+        <CardContent className="space-y-4">
           <ThemeToggle />
+          <SoundSetting />
         </CardContent>
       </Card>
       <Card>

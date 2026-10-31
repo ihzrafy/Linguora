@@ -7,7 +7,8 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { NativeSelect } from "@/components/ui/native-select";
 import { matchesAny } from "@/lib/questions/normalize";
-import { speak, stopSpeaking, ttsSupported, useBrowserSupport } from "@/lib/speech";
+import { SpeakerLegend, speakerStyle, speakersOf, speakLine, speakScript } from "@/components/learning/speaker-voices";
+import { speak, stopSpeaking, ttsSupported, useBrowserSupport, useSpeakerVoices } from "@/lib/speech";
 import { cn } from "@/lib/utils";
 
 type Line = { speaker: string; text: string };
@@ -20,6 +21,8 @@ export function ListeningPlayer({ materialId, script, audioUrl }: { materialId: 
   const [showTranscript, setShowTranscript] = useState(false);
   const stopRef = useRef(false);
   const audioRef = useRef<HTMLAudioElement>(null);
+  const speakers = speakersOf(script);
+  const voices = useSpeakerVoices(speakers);
   useEffect(() => () => stopSpeaking(), []);
 
   const playAll = async () => {
@@ -31,11 +34,8 @@ export function ListeningPlayer({ materialId, script, audioUrl }: { materialId: 
     }
     stopRef.current = false;
     setPlaying(true);
-    for (let i = 0; i < script.length; i++) {
-      if (stopRef.current) break;
-      setCurrent(i);
-      await speak(script[i].text, { rate, accent: i % 2 ? "en-GB" : "en-US" });
-    }
+    // Each speaker keeps their own voice for the whole conversation.
+    await speakScript(script, voices, rate, { stopped: () => stopRef.current, onLine: setCurrent });
     setCurrent(null);
     setPlaying(false);
   };
@@ -75,16 +75,21 @@ export function ListeningPlayer({ materialId, script, audioUrl }: { materialId: 
           </Button>
         </div>
       )}
-      {!audioUrl && available && <p className="text-xs text-muted-foreground">Audio dihasilkan dengan text-to-speech browser (bukan rekaman penutur asli). Variasi aksen bergantung pada suara yang tersedia di perangkatmu.</p>}
+      {!audioUrl && available && <SpeakerLegend script={script} voices={voices} rate={rate} />}
+      {!audioUrl && available && (
+        <p className="text-xs text-muted-foreground">
+          Audio dihasilkan dengan text-to-speech browser (bukan rekaman penutur asli). Setiap pembicara diberi suara berbeda dari suara yang tersedia di perangkatmu; bila perangkat hanya punya satu suara, pembicara dibedakan dengan nada.
+        </p>
+      )}
       <ol className="space-y-1.5">
         {script.map((l, i) => (
           <li key={i} className={cn("flex items-start gap-2 rounded-lg p-2 text-sm", current === i && "bg-accent")}>
             {tts && !audioUrl && (
-              <Button size="icon-xs" variant="ghost" aria-label={`Putar baris ${i + 1}`} onClick={() => speak(l.text, { rate })}>
+              <Button size="icon-xs" variant="ghost" aria-label={`Putar baris ${i + 1}`} onClick={() => speakLine(l, voices, rate)}>
                 <RotateCcw />
               </Button>
             )}
-            <span className="font-semibold">{l.speaker}:</span>
+            <span className={cn("font-semibold", speakers.length > 1 && speakerStyle(speakers, l.speaker).text)}>{l.speaker}:</span>
             <span className={cn(!showTranscript && "rounded bg-muted text-transparent select-none")} aria-hidden={!showTranscript}>
               {l.text}
             </span>

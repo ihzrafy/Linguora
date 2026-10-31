@@ -96,7 +96,7 @@ export default async function LessonPage({ params }: { params: Promise<{ lessonS
           const data = (s.data ?? {}) as Items<never>;
           const anchor = `s-${s.sort_order}`;
           return (
-            <section key={s.id} id={anchor} aria-labelledby={`${anchor}-h`} className="scroll-mt-24 space-y-4">
+            <section key={s.id} id={anchor} aria-labelledby={`${anchor}-h`} className="scroll-mt-6 space-y-4">
               <h2 id={`${anchor}-h`} className="flex items-center gap-2 text-xl font-semibold">
                 <span className="flex size-7 items-center justify-center rounded-lg bg-accent text-xs font-bold text-accent-foreground">{s.sort_order}</span>
                 {s.title}
@@ -127,7 +127,7 @@ export default async function LessonPage({ params }: { params: Promise<{ lessonS
       </article>
 
       <aside className="hidden xl:block">
-        <nav aria-label="Daftar isi" className="sticky top-24 space-y-1 text-sm">
+        <nav aria-label="Daftar isi" className="sticky top-6 space-y-1 text-sm">
           <p className="mb-2 font-semibold">Isi lesson</p>
           {toc.map((t) => (
             <a key={t.id} href={`#${t.id}`} className="block rounded-md px-2 py-1 text-muted-foreground hover:bg-muted hover:text-foreground">
