@@ -15,7 +15,7 @@ export function MarketingMobileNav({ items }: { items: { href: string; label: st
           <Menu className="size-5" />
         </Button>
       </SheetTrigger>
-      <SheetContent side="right" className="theme-editorial w-72 bg-background text-foreground">
+      <SheetContent side="right" className="w-72">
         <SheetHeader>
           <SheetTitle>Menu</SheetTitle>
         </SheetHeader>

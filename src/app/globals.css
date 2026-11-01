@@ -4,11 +4,6 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/*
- * Linguora design tokens
- * Primary: deep indigo · Secondary: electric blue · Accent: lavender
- * Light: soft white & cool gray · Dark: midnight navy
- */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -116,103 +111,12 @@
   }
 }
 
-:root {
-  --radius: 0.75rem;
-  --background: oklch(0.985 0.004 275);
-  --foreground: oklch(0.2 0.03 275);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.2 0.03 275);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.2 0.03 275);
-  --primary: oklch(0.43 0.2 277);
-  --primary-foreground: oklch(0.985 0.005 275);
-  --secondary: oklch(0.955 0.012 275);
-  --secondary-foreground: oklch(0.3 0.08 277);
-  --muted: oklch(0.96 0.006 270);
-  --muted-foreground: oklch(0.48 0.025 270);
-  --accent: oklch(0.94 0.035 295);
-  --accent-foreground: oklch(0.36 0.14 290);
-  --brand-blue: oklch(0.6 0.2 255);
-  --brand-lavender: oklch(0.82 0.08 295);
-  --destructive: oklch(0.55 0.22 27);
-  --success: oklch(0.52 0.14 155);
-  --success-foreground: oklch(0.985 0 0);
-  --warning: oklch(0.7 0.16 70);
-  --warning-foreground: oklch(0.25 0.05 70);
-  --info: oklch(0.6 0.2 255);
-  --border: oklch(0.91 0.01 275);
-  --input: oklch(0.89 0.012 275);
-  --ring: oklch(0.6 0.2 265);
-  --chart-1: oklch(0.43 0.2 277);
-  --chart-2: oklch(0.6 0.2 255);
-  --chart-3: oklch(0.72 0.12 295);
-  --chart-4: oklch(0.65 0.14 175);
-  --chart-5: oklch(0.75 0.15 70);
-  --sidebar: oklch(0.975 0.006 275);
-  --sidebar-foreground: oklch(0.25 0.03 275);
-  --sidebar-primary: oklch(0.43 0.2 277);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.94 0.025 280);
-  --sidebar-accent-foreground: oklch(0.3 0.12 277);
-  --sidebar-border: oklch(0.91 0.01 275);
-  --sidebar-ring: oklch(0.6 0.2 265);
-}
-
-.dark {
-  --background: oklch(0.16 0.035 272);
-  --foreground: oklch(0.95 0.01 275);
-  --card: oklch(0.2 0.04 272);
-  --card-foreground: oklch(0.95 0.01 275);
-  --popover: oklch(0.21 0.04 272);
-  --popover-foreground: oklch(0.95 0.01 275);
-  --primary: oklch(0.7 0.15 277);
-  --primary-foreground: oklch(0.16 0.035 272);
-  --secondary: oklch(0.26 0.045 272);
-  --secondary-foreground: oklch(0.92 0.02 275);
-  --muted: oklch(0.24 0.04 272);
-  --muted-foreground: oklch(0.72 0.03 275);
-  --accent: oklch(0.3 0.07 290);
-  --accent-foreground: oklch(0.9 0.05 295);
-  --brand-blue: oklch(0.7 0.17 250);
-  --brand-lavender: oklch(0.78 0.09 295);
-  --destructive: oklch(0.68 0.19 25);
-  --success: oklch(0.72 0.15 155);
-  --success-foreground: oklch(0.16 0.035 272);
-  --warning: oklch(0.8 0.15 75);
-  --warning-foreground: oklch(0.2 0.04 75);
-  --info: oklch(0.7 0.17 250);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 14%);
-  --ring: oklch(0.7 0.15 270);
-  --chart-1: oklch(0.7 0.15 277);
-  --chart-2: oklch(0.7 0.17 250);
-  --chart-3: oklch(0.78 0.09 295);
-  --chart-4: oklch(0.72 0.13 175);
-  --chart-5: oklch(0.8 0.15 75);
-  --sidebar: oklch(0.18 0.038 272);
-  --sidebar-foreground: oklch(0.92 0.015 275);
-  --sidebar-primary: oklch(0.7 0.15 277);
-  --sidebar-primary-foreground: oklch(0.16 0.035 272);
-  --sidebar-accent: oklch(0.26 0.05 275);
-  --sidebar-accent-foreground: oklch(0.95 0.01 275);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.7 0.15 270);
-}
-
 /*
- * Editorial palette for the public site (shared with VornCode): warm neutrals,
- * near-black ink and a single lime accent used sparingly (CTA, highlights).
+ * Linguora design tokens — editorial palette shared with VornCode:
+ * warm off-white, near-black ink and one lime accent used sparingly.
  */
 :root {
-  --lime: #d8ff36;
-  --lime-ink: #171717;
-  --ink: #111312;
-  --ink-foreground: #f5f4f0;
-  --ink-muted: #b2b6af;
-  --ink-line: #2b2e2c;
-}
-
-.theme-editorial {
+  --radius: 0.75rem;
   --background: #f5f4f0;
   --foreground: #171717;
   --card: #ffffff;
@@ -227,19 +131,45 @@
   --muted-foreground: #6b6b68;
   --accent: #e7e6df;
   --accent-foreground: #171717;
+  --brand-blue: #171717;
   --brand-lavender: #171717;
+  --destructive: oklch(0.55 0.2 27);
+  --success: oklch(0.5 0.13 150);
+  --success-foreground: #ffffff;
+  --warning: oklch(0.72 0.15 75);
+  --warning-foreground: oklch(0.28 0.06 70);
+  --info: #171717;
   --border: #dad9d2;
   --input: #cfcec6;
   --ring: #171717;
-  --success: oklch(0.5 0.13 150);
+  --chart-1: #171717;
+  --chart-2: #8fb300;
+  --chart-3: #8a8a84;
+  --chart-4: #4d7c0f;
+  --chart-5: #c2c1b8;
+  --sidebar: #efeee8;
+  --sidebar-foreground: #171717;
+  --sidebar-primary: #171717;
+  --sidebar-primary-foreground: #f5f4f0;
+  --sidebar-accent: #e4e3dc;
+  --sidebar-accent-foreground: #171717;
+  --sidebar-border: #dad9d2;
+  --sidebar-ring: #171717;
+
+  --lime: #d8ff36;
+  --lime-ink: #171717;
+  --ink: #111312;
+  --ink-foreground: #f5f4f0;
+  --ink-muted: #b2b6af;
+  --ink-line: #2b2e2c;
 }
 
-.dark .theme-editorial {
+.dark {
   --background: #111312;
   --foreground: #f5f4f0;
   --card: #181a19;
   --card-foreground: #f5f4f0;
-  --popover: #181a19;
+  --popover: #1b1d1c;
   --popover-foreground: #f5f4f0;
   --primary: #d8ff36;
   --primary-foreground: #171717;
@@ -249,11 +179,30 @@
   --muted-foreground: #b2b6af;
   --accent: #232624;
   --accent-foreground: #f5f4f0;
+  --brand-blue: #d8ff36;
   --brand-lavender: #d8ff36;
+  --destructive: oklch(0.68 0.19 25);
+  --success: oklch(0.75 0.16 150);
+  --success-foreground: #111312;
+  --warning: oklch(0.8 0.15 75);
+  --warning-foreground: oklch(0.2 0.04 75);
+  --info: #d8ff36;
   --border: #2b2e2c;
   --input: #353836;
   --ring: #d8ff36;
-  --success: oklch(0.75 0.16 150);
+  --chart-1: #d8ff36;
+  --chart-2: #f5f4f0;
+  --chart-3: #8c918a;
+  --chart-4: #a3e635;
+  --chart-5: #5c605d;
+  --sidebar: #0d0f0e;
+  --sidebar-foreground: #f5f4f0;
+  --sidebar-primary: #d8ff36;
+  --sidebar-primary-foreground: #171717;
+  --sidebar-accent: #1f2120;
+  --sidebar-accent-foreground: #f5f4f0;
+  --sidebar-border: #2b2e2c;
+  --sidebar-ring: #d8ff36;
   --ink: #0a0b0b;
 }
 

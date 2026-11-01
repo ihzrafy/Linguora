@@ -17,19 +17,19 @@ const NAVS: Record<NavVariant, NavGroup[]> = { app: APP_NAV, admin: ADMIN_NAV };
 const ITEM_BADGES: Record<string, { label: string; className: string }> = {
   "/app/conversation": {
     label: "AI",
-    className: "bg-linear-to-r from-purple-500/15 to-indigo-500/15 text-purple-600 dark:text-purple-300 border-purple-500/30",
+    className: "border-transparent bg-lime text-lime-ink",
   },
   "/app/daily-challenge": {
     label: "Daily",
-    className: "bg-amber-500/15 text-amber-600 dark:text-amber-400 border-amber-500/30",
+    className: "border-foreground/20 text-foreground",
   },
   "/app/placement-test": {
     label: "CEFR",
-    className: "bg-blue-500/15 text-blue-600 dark:text-blue-400 border-blue-500/30",
+    className: "border-foreground/20 text-muted-foreground",
   },
   "/admin/content-review": {
     label: "Review",
-    className: "bg-amber-500/15 text-amber-600 dark:text-amber-400 border-amber-500/30",
+    className: "border-foreground/20 text-foreground",
   },
 };
 
@@ -46,7 +46,7 @@ function NavItems({
     <div className="space-y-4 px-3 py-2">
       {groups.map((group) => (
         <div key={group.label} className="first:mt-0">
-          <p className="mb-1.5 px-3 text-[0.68rem] font-bold tracking-wider text-muted-foreground/75 uppercase">
+          <p className="mb-1.5 px-3 font-mono text-[0.66rem] font-medium tracking-[0.12em] text-muted-foreground uppercase">
             {group.label}
           </p>
           <ul className="space-y-0.5">
@@ -62,27 +62,24 @@ function NavItems({
                     onClick={onNavigate}
                     aria-current={active ? "page" : undefined}
                     className={cn(
-                      "group relative flex items-center gap-2.5 rounded-xl px-3 py-2 text-xs font-medium transition-all duration-150 select-none",
+                      "group relative flex items-center gap-2.5 rounded-full px-3 py-2 text-xs font-medium transition-all duration-150 select-none",
                       active
-                        ? "bg-primary/10 font-semibold text-primary shadow-2xs dark:bg-primary/20 dark:text-primary-foreground"
+                        ? "bg-foreground font-semibold text-background dark:bg-lime dark:text-lime-ink"
                         : "text-sidebar-foreground/80 hover:bg-sidebar-accent/70 hover:text-sidebar-foreground hover:translate-x-0.5"
                     )}
                   >
-                    {active && (
-                      <span className="absolute -left-1 top-2 bottom-2 w-1 rounded-r-full bg-primary" aria-hidden />
-                    )}
                     <Icon
                       className={cn(
                         "size-4 shrink-0 transition-colors",
                         active
-                          ? "text-primary dark:text-brand-lavender"
+                          ? "text-lime dark:text-lime-ink"
                           : "text-muted-foreground group-hover:text-sidebar-foreground"
                       )}
                       aria-hidden
                     />
                     <span className="truncate">{label}</span>
                     {badge && (
-                      <span className={cn("ml-auto rounded-md border px-1.5 py-0.5 text-[0.62rem] font-bold leading-none", badge.className)}>
+                      <span className={cn("ml-auto rounded-full border px-1.5 py-0.5 font-mono text-[0.6rem] font-medium leading-none", badge.className, active && "border-current bg-transparent text-current")}>
                         {badge.label}
                       </span>
                     )}
@@ -112,21 +109,21 @@ function SidebarFooter({
         <Link
           href={adminHref}
           onClick={onNavigate}
-          className="group flex items-center gap-2.5 rounded-xl border border-primary/30 bg-primary/5 px-3 py-2 text-xs font-semibold text-primary transition-all hover:border-primary/50 hover:bg-primary/10 shadow-2xs"
+          className="group flex items-center gap-2.5 rounded-2xl bg-ink px-3 py-2.5 text-xs font-semibold text-ink-foreground transition-colors hover:bg-ink/90"
         >
-          <Shield className="size-4 shrink-0 text-primary transition-transform group-hover:scale-110" aria-hidden />
+          <Shield className="size-4 shrink-0 text-lime transition-transform group-hover:scale-110" aria-hidden />
           <div className="flex-1 min-w-0 text-left">
             <p className="font-semibold leading-tight truncate">Admin CMS</p>
-            <p className="text-[0.62rem] font-normal text-muted-foreground truncate">Kelola kurikulum & sistem</p>
+            <p className="text-[0.62rem] font-normal text-ink-muted truncate">Kelola kurikulum & sistem</p>
           </div>
-          <ArrowRight className="size-3.5 text-primary/60 transition-transform group-hover:translate-x-0.5" aria-hidden />
+          <ArrowRight className="size-3.5 text-ink-muted transition-transform group-hover:translate-x-0.5" aria-hidden />
         </Link>
       )}
       {nav === "admin" && (
         <Link
           href="/app/dashboard"
           onClick={onNavigate}
-          className="group flex items-center gap-2.5 rounded-xl border border-border bg-card/60 px-3 py-2 text-xs font-semibold text-foreground transition-all hover:border-primary/30 hover:bg-accent shadow-2xs"
+          className="group flex items-center gap-2.5 rounded-2xl border border-border bg-card px-3 py-2.5 text-xs font-semibold text-foreground transition-colors hover:border-foreground/40"
         >
           <ArrowLeft className="size-4 shrink-0 text-muted-foreground transition-transform group-hover:-translate-x-0.5" aria-hidden />
           <div className="flex-1 min-w-0 text-left">
@@ -137,7 +134,7 @@ function SidebarFooter({
       )}
       <div className="flex items-center justify-between px-1 pt-1 text-[0.65rem] text-muted-foreground/80">
         <span className="inline-flex items-center gap-1.5">
-          <span className="size-1.5 rounded-full bg-emerald-500 animate-pulse" aria-hidden />
+          <span className="size-1.5 bg-lime ring-1 ring-foreground/15" aria-hidden />
           Linguora Platform
         </span>
         <span className="font-mono text-[0.6rem] text-muted-foreground/60">CEFR A1–C2</span>
@@ -180,11 +177,11 @@ function SidebarContent({
       <div className="flex h-16 shrink-0 items-center justify-between border-b border-border px-4 bg-sidebar">
         <Logo href={homeHref} />
         {nav === "admin" ? (
-          <span className="rounded-full border border-primary/30 bg-primary/10 px-2.5 py-0.5 text-[0.65rem] font-bold tracking-wider text-primary uppercase">
+          <span className="rounded-full bg-lime px-2.5 py-0.5 font-mono text-[0.62rem] font-medium tracking-wider text-lime-ink uppercase">
             Admin CMS
           </span>
         ) : (
-          <span className="rounded-full border border-border/80 bg-muted/60 px-2.5 py-0.5 text-[0.65rem] font-medium text-muted-foreground">
+          <span className="rounded-full border border-foreground/15 px-2.5 py-0.5 font-mono text-[0.62rem] font-medium tracking-wider text-muted-foreground uppercase">
             Pelajar
           </span>
         )}
@@ -199,7 +196,7 @@ function SidebarContent({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Cari menu…"
-            className="h-8 w-full rounded-lg border border-border/70 bg-sidebar-accent/50 pl-8 pr-7 text-xs text-sidebar-foreground placeholder:text-muted-foreground/70 transition-colors focus:border-primary/50 focus:bg-background focus:outline-none focus:ring-1 focus:ring-primary/40"
+            className="h-8 w-full rounded-full border border-border/70 bg-background/60 pl-8 pr-7 text-xs text-sidebar-foreground placeholder:text-muted-foreground/70 transition-colors focus:border-foreground/40 focus:bg-background focus:outline-none focus:ring-1 focus:ring-ring/40"
             aria-label="Cari navigasi"
           />
           {query && (

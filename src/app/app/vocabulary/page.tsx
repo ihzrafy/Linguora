@@ -31,7 +31,7 @@ export default async function VocabularyPage({ searchParams }: { searchParams: P
   return (
     <div className="space-y-6">
       <PageHeader eyebrow="Vocabulary" title="Kosakata" description="Cari kata di kamus Linguora, simpan ke wordbook pribadi, dan biarkan spaced repetition menjadwalkan review-nya." actions={<AddWordDialog />} />
-      <div className="flex gap-1 rounded-xl border bg-muted/40 p-1 sm:w-fit" role="tablist">
+      <div className="flex gap-1 rounded-full border bg-card p-1 sm:w-fit" role="tablist">
         {[
           { key: "dictionary", label: "Kamus" },
           { key: "wordbook", label: "Wordbook saya" },
@@ -41,7 +41,7 @@ export default async function VocabularyPage({ searchParams }: { searchParams: P
             role="tab"
             aria-selected={tab === t.key}
             href={`/app/vocabulary?tab=${t.key}`}
-            className={cn("flex-1 rounded-lg px-4 py-1.5 text-center text-sm font-medium", tab === t.key ? "bg-background shadow-xs" : "text-muted-foreground hover:text-foreground")}
+            className={cn("flex-1 rounded-full px-4 py-1.5 text-center text-sm font-medium whitespace-nowrap", tab === t.key ? "bg-foreground text-background" : "text-muted-foreground hover:text-foreground")}
           >
             {t.label}
           </Link>

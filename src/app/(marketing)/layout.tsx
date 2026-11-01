@@ -23,10 +23,10 @@ const FOOTER = [
 export default async function MarketingLayout({ children }: { children: React.ReactNode }) {
   const user = await getAuthUser();
   return (
-    <div className="theme-editorial flex min-h-dvh flex-col bg-background text-foreground">
+    <div className="flex min-h-dvh flex-col bg-background text-foreground">
       <header className="sticky top-0 z-40 border-b bg-background/90 supports-[backdrop-filter]:bg-background/80 supports-[backdrop-filter]:backdrop-blur-md">
         <div className="container-site flex h-[4.5rem] items-center gap-6">
-          <Logo tone="editorial" />
+          <Logo />
           <nav aria-label="Navigasi situs" className="hidden flex-1 items-center justify-center gap-7 lg:flex">
             {NAV.map((n) => (
               <Link key={n.href} href={n.href} className="text-[0.95rem] text-muted-foreground transition-colors hover:text-foreground">

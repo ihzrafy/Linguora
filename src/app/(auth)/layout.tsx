@@ -11,10 +11,10 @@ const points = [
 
 export default function AuthLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="theme-editorial grid min-h-dvh bg-background text-foreground lg:grid-cols-[1fr_1.05fr]">
+    <div className="grid min-h-dvh bg-background text-foreground lg:grid-cols-[1fr_1.05fr]">
       <aside className="relative hidden overflow-hidden bg-ink text-ink-foreground lg:flex lg:flex-col lg:justify-between lg:p-12">
         <div aria-hidden className="absolute -right-24 -bottom-24 size-72 rounded-full bg-lime" />
-        <Logo tone="editorial" className="relative [&_rect]:fill-ink-foreground [&_path]:stroke-ink" />
+        <Logo className="relative [&_rect]:fill-ink-foreground [&_path]:stroke-ink" />
         <div className="relative space-y-10">
           <SectionLabel tone="ink">Kurikulum A1–C2</SectionLabel>
           <h2 className="max-w-md font-display text-5xl leading-[1.02] font-semibold tracking-[-0.04em]">
@@ -36,7 +36,7 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
       </aside>
       <div className="flex flex-col">
         <header className="flex items-center justify-between p-4 sm:p-6">
-          <Logo tone="editorial" className="lg:invisible" />
+          <Logo className="lg:invisible" />
           <div className="flex items-center gap-2 text-sm">
             <Link href="/" className="text-muted-foreground hover:text-foreground">
               Beranda
