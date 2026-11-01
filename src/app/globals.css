@@ -11,8 +11,8 @@
   --font-mono: var(--font-plex-mono), ui-monospace, "SFMono-Regular", monospace;
   --font-heading: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif;
   --font-display: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif;
-  --color-lime: var(--lime);
-  --color-lime-ink: var(--lime-ink);
+  --color-highlight: var(--highlight);
+  --color-highlight-ink: var(--highlight-ink);
   --color-ink: var(--ink);
   --color-ink-foreground: var(--ink-foreground);
   --color-ink-muted: var(--ink-muted);
@@ -112,8 +112,8 @@
 }
 
 /*
- * Linguora design tokens — editorial palette shared with VornCode:
- * warm off-white, near-black ink and one lime accent used sparingly.
+ * Linguora design tokens — editorial palette (VornCode-inspired) with Linguora's own accent:
+ * warm off-white, near-black ink and one pastel-yellow highlight used sparingly.
  */
 :root {
   --radius: 0.75rem;
@@ -143,9 +143,9 @@
   --input: #cfcec6;
   --ring: #171717;
   --chart-1: #171717;
-  --chart-2: #8fb300;
+  --chart-2: #c99a06;
   --chart-3: #8a8a84;
-  --chart-4: #4d7c0f;
+  --chart-4: #8a6a00;
   --chart-5: #c2c1b8;
   --sidebar: #efeee8;
   --sidebar-foreground: #171717;
@@ -156,8 +156,8 @@
   --sidebar-border: #dad9d2;
   --sidebar-ring: #171717;
 
-  --lime: #d8ff36;
-  --lime-ink: #171717;
+  --highlight: #ffe27a;
+  --highlight-ink: #171717;
   --ink: #111312;
   --ink-foreground: #f5f4f0;
   --ink-muted: #b2b6af;
@@ -171,7 +171,7 @@
   --card-foreground: #f5f4f0;
   --popover: #1b1d1c;
   --popover-foreground: #f5f4f0;
-  --primary: #d8ff36;
+  --primary: #ffe27a;
   --primary-foreground: #171717;
   --secondary: #1f2120;
   --secondary-foreground: #f5f4f0;
@@ -179,30 +179,30 @@
   --muted-foreground: #b2b6af;
   --accent: #232624;
   --accent-foreground: #f5f4f0;
-  --brand-blue: #d8ff36;
-  --brand-lavender: #d8ff36;
+  --brand-blue: #ffe27a;
+  --brand-lavender: #ffe27a;
   --destructive: oklch(0.68 0.19 25);
   --success: oklch(0.75 0.16 150);
   --success-foreground: #111312;
   --warning: oklch(0.8 0.15 75);
   --warning-foreground: oklch(0.2 0.04 75);
-  --info: #d8ff36;
+  --info: #ffe27a;
   --border: #2b2e2c;
   --input: #353836;
-  --ring: #d8ff36;
-  --chart-1: #d8ff36;
+  --ring: #ffe27a;
+  --chart-1: #ffe27a;
   --chart-2: #f5f4f0;
   --chart-3: #8c918a;
-  --chart-4: #a3e635;
+  --chart-4: #fcd34d;
   --chart-5: #5c605d;
   --sidebar: #0d0f0e;
   --sidebar-foreground: #f5f4f0;
-  --sidebar-primary: #d8ff36;
+  --sidebar-primary: #ffe27a;
   --sidebar-primary-foreground: #171717;
   --sidebar-accent: #1f2120;
   --sidebar-accent-foreground: #f5f4f0;
   --sidebar-border: #2b2e2c;
-  --sidebar-ring: #d8ff36;
+  --sidebar-ring: #ffe27a;
   --ink: #0a0b0b;
 }
 

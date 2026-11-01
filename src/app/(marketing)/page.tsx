@@ -79,7 +79,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                 Jalur belajar yang tersusun rapi dari pemula hingga mahir — latihan yang dinilai teliti, pembahasan dalam bahasa Indonesia, dan pengulangan di waktu yang tepat.
               </p>
               <div data-hero className="mt-9 flex flex-wrap gap-3">
-                <PillLink href="/register" variant="lime" size="lg">
+                <PillLink href="/register" variant="highlight" size="lg">
                   Mulai belajar gratis
                 </PillLink>
                 <PillLink href="/placement-test" variant="outline" size="lg">
@@ -143,7 +143,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                 </div>
                 <span className="justify-self-end md:order-last md:col-span-1">
                   {i === 0 ? (
-                    <span className="type-eyebrow rounded-full bg-lime px-3 py-1.5 text-lime-ink">Mulai</span>
+                    <span className="type-eyebrow rounded-full bg-highlight px-3 py-1.5 text-highlight-ink">Mulai</span>
                   ) : (
                     <Lock className="size-4 text-muted-foreground" aria-label="Terbuka setelah lulus level sebelumnya" />
                   )}
@@ -208,7 +208,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
               <ul className="mt-8 space-y-3">
                 {["Feedback instan dengan pembahasan", "Jawaban alternatif yang valid diterima", "Partial credit untuk soal bertingkat"].map((t) => (
                   <li key={t} className="flex items-center gap-3">
-                    <span aria-hidden className="size-1.5 shrink-0 bg-lime ring-1 ring-foreground/15" /> {t}
+                    <span aria-hidden className="size-1.5 shrink-0 bg-highlight ring-1 ring-foreground/15" /> {t}
                   </li>
                 ))}
               </ul>
@@ -248,7 +248,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
             </h2>
             <div className="lg:col-span-4">
               <p className="type-lead text-muted-foreground">Daftar gratis, ikuti placement test, dan dapatkan rekomendasi level serta learning track sesuai tujuanmu.</p>
-              <PillLink href="/register" variant="lime" size="lg" className="mt-8">
+              <PillLink href="/register" variant="highlight" size="lg" className="mt-8">
                 Buat akun gratis
               </PillLink>
             </div>
@@ -270,9 +270,9 @@ function HeroVisual({ levels }: { levels: string[] }) {
         backgroundSize: "44px 44px",
       }}
     >
-      <div aria-hidden className="absolute -top-28 -right-24 size-80 rounded-full bg-lime" />
+      <div aria-hidden className="absolute -top-28 -right-24 size-80 rounded-full bg-highlight" />
       <p className="relative inline-flex items-center gap-2 rounded-full bg-ink px-3 py-1.5 text-xs font-medium text-ink-foreground">
-        <span aria-hidden className="size-1.5 rounded-full bg-lime" /> Contoh pelajaran pertama
+        <span aria-hidden className="size-1.5 rounded-full bg-highlight" /> Contoh pelajaran pertama
       </p>
 
       <div className="relative mt-6 grid gap-5 sm:mt-10 sm:grid-cols-[1.35fr_1fr] sm:items-end">
@@ -283,7 +283,7 @@ function HeroVisual({ levels }: { levels: string[] }) {
           </div>
           <blockquote className="mt-8 font-display text-[clamp(1.9rem,1.3rem+1.6vw,2.6rem)] leading-[1.05] font-medium tracking-[-0.035em]">&ldquo;{text}&rdquo;</blockquote>
           <p className="mt-3 font-[family-name:Charis_SIL,Doulos_SIL,Segoe_UI,Lucida_Grande,Arial_Unicode_MS,sans-serif] tracking-wide text-muted-foreground">/weər ɑː juː frɒm/</p>
-          <figcaption className="mt-5 border-l-2 border-lime pl-4 text-muted-foreground">Kamu berasal dari mana?</figcaption>
+          <figcaption className="mt-5 border-l-2 border-highlight pl-4 text-muted-foreground">Kamu berasal dari mana?</figcaption>
           <div className="mt-8">
             <SpecimenPlay text={text} />
           </div>
@@ -295,8 +295,8 @@ function HeroVisual({ levels }: { levels: string[] }) {
             <ol aria-label="Enam level CEFR" className="mt-6 flex items-end gap-1.5">
               {levels.map((code, i) => (
                 <li key={code} className="flex flex-1 flex-col items-center gap-2">
-                  <span aria-hidden className={cn("w-full rounded-t-[4px]", i === 0 ? "bg-lime" : "bg-white/12")} style={{ height: `${16 + i * 11}px` }} />
-                  <span className={cn("font-mono text-[0.7rem]", i === 0 ? "text-lime" : "text-ink-muted")}>{code}</span>
+                  <span aria-hidden className={cn("w-full rounded-t-[4px]", i === 0 ? "bg-highlight" : "bg-white/12")} style={{ height: `${16 + i * 11}px` }} />
+                  <span className={cn("font-mono text-[0.7rem]", i === 0 ? "text-highlight" : "text-ink-muted")}>{code}</span>
                 </li>
               ))}
             </ol>

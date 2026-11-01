@@ -62,7 +62,7 @@ export default async function MarketingLayout({ children }: { children: React.Re
           <div className="lg:col-span-5">
             <SectionLabel tone="ink">Mulai dari sini</SectionLabel>
             <p className="mt-5 max-w-md font-display text-3xl leading-[1.08] font-semibold tracking-[-0.03em] md:text-4xl">Belajar bahasa Inggris, selangkah demi selangkah.</p>
-            <PillLink href={user ? "/app/dashboard" : "/register"} variant="lime" className="mt-8">
+            <PillLink href={user ? "/app/dashboard" : "/register"} variant="highlight" className="mt-8">
               {user ? "Buka aplikasi" : "Daftar gratis"}
             </PillLink>
           </div>
@@ -73,7 +73,7 @@ export default async function MarketingLayout({ children }: { children: React.Re
                 <ul className="mt-5 space-y-3">
                   {col.links.map((l) => (
                     <li key={l.href}>
-                      <Link href={l.href} className="text-[0.95rem] text-ink-foreground/90 transition-colors hover:text-lime">
+                      <Link href={l.href} className="text-[0.95rem] text-ink-foreground/90 transition-colors hover:text-highlight">
                         {l.label}
                       </Link>
                     </li>
@@ -85,7 +85,7 @@ export default async function MarketingLayout({ children }: { children: React.Re
         </div>
         <div className="container-site overflow-hidden" aria-hidden>
           <p className="pb-[0.06em] font-display text-[clamp(4rem,21.5vw,20rem)] leading-[1] font-semibold tracking-[-0.06em] select-none">
-            Linguora<span className="text-lime">.</span>
+            Linguora<span className="text-highlight">.</span>
           </p>
         </div>
         <div className="container-site">

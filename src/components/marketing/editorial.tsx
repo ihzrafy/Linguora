@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 export function SectionLabel({ index, children, tone = "default", className }: { index?: string; children: React.ReactNode; tone?: "default" | "ink"; className?: string }) {
   return (
     <p className={cn("type-eyebrow flex items-center gap-3", tone === "ink" ? "text-ink-muted" : "text-muted-foreground", className)}>
-      <span aria-hidden className="size-1.5 shrink-0 bg-lime ring-1 ring-foreground/10" />
+      <span aria-hidden className="size-1.5 shrink-0 bg-highlight ring-1 ring-foreground/10" />
       {index && <span>({index})</span>}
       {index && <span aria-hidden className="h-px w-6 bg-current opacity-40" />}
       <span>{children}</span>
@@ -14,31 +14,31 @@ export function SectionLabel({ index, children, tone = "default", className }: {
   );
 }
 
-/** Lime highlighter behind a word (lime text instead in dark mode), or always lime text (`text`, for ink surfaces). */
+/** Pastel-yellow highlighter behind a word (yellow text instead in dark mode), or always yellow text (`text`, for ink surfaces). */
 export function Mark({ children, variant = "mark" }: { children: React.ReactNode; variant?: "mark" | "text" }) {
-  if (variant === "text") return <span className="text-lime">{children}</span>;
+  if (variant === "text") return <span className="text-highlight">{children}</span>;
   return (
-    <span className="relative isolate inline-block whitespace-nowrap text-lime-ink dark:text-lime">
+    <span className="relative isolate inline-block whitespace-nowrap text-highlight-ink dark:text-highlight">
       <span aria-hidden className="absolute inset-x-[-0.06em] top-[0.14em] bottom-[0.04em] -z-10 -skew-x-6 dark:hidden">
-        <span data-mark className="block size-full origin-left rounded-[0.06em] bg-lime" />
+        <span data-mark className="block size-full origin-left rounded-[0.06em] bg-highlight" />
       </span>
       {children}
     </span>
   );
 }
 
-type PillVariant = "lime" | "dark" | "outline" | "outline-ink";
+type PillVariant = "highlight" | "dark" | "outline" | "outline-ink";
 
 const PILL: Record<PillVariant, string> = {
-  lime: "bg-lime text-lime-ink hover:bg-[#c8f00f]",
+  highlight: "bg-highlight text-highlight-ink hover:bg-[#ffd84d]",
   dark: "bg-foreground text-background hover:bg-foreground/90",
   outline: "border border-foreground/20 text-foreground hover:border-foreground",
   "outline-ink": "border border-white/25 text-ink-foreground hover:border-white",
 };
 
 const PILL_ICON: Record<PillVariant, string> = {
-  lime: "bg-lime-ink text-lime",
-  dark: "bg-lime text-lime-ink",
+  highlight: "bg-highlight-ink text-highlight",
+  dark: "bg-highlight text-highlight-ink",
   outline: "bg-foreground text-background",
   "outline-ink": "bg-ink-foreground text-ink",
 };

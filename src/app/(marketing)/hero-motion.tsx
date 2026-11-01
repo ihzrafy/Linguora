@@ -6,7 +6,7 @@ import gsap from "gsap";
 
 gsap.registerPlugin(useGSAP);
 
-/** Hero entrance: masked heading lines rise, the lime mark draws in, the rest fades up (off with reduced motion). */
+/** Hero entrance: masked heading lines rise, the highlight mark draws in, the rest fades up (off with reduced motion). */
 export function HeroMotion({ children, className }: { children: React.ReactNode; className?: string }) {
   const ref = useRef<HTMLDivElement>(null);
   useGSAP(

@@ -19,7 +19,7 @@ export function PublicCta({ title = "Siap mulai belajar?", text = "Daftar gratis
         <h2 className="type-h2 lg:col-span-7">{title}</h2>
         <div className="lg:col-span-4 lg:col-start-9">
           <p className="type-lead text-muted-foreground">{text}</p>
-          <PillLink href="/register" variant="lime" size="lg" className="mt-7">
+          <PillLink href="/register" variant="highlight" size="lg" className="mt-7">
             Daftar gratis
           </PillLink>
         </div>

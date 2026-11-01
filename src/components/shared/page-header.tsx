@@ -18,7 +18,7 @@ export function PageHeader({
       <div className="space-y-2.5">
         {eyebrow && (
           <p className="type-eyebrow flex items-center gap-2.5 text-muted-foreground">
-            <span aria-hidden className="size-1.5 shrink-0 bg-lime ring-1 ring-foreground/15" />
+            <span aria-hidden className="size-1.5 shrink-0 bg-highlight ring-1 ring-foreground/15" />
             {eyebrow}
           </p>
         )}

@@ -17,7 +17,7 @@ const NAVS: Record<NavVariant, NavGroup[]> = { app: APP_NAV, admin: ADMIN_NAV };
 const ITEM_BADGES: Record<string, { label: string; className: string }> = {
   "/app/conversation": {
     label: "AI",
-    className: "border-transparent bg-lime text-lime-ink",
+    className: "border-transparent bg-highlight text-highlight-ink",
   },
   "/app/daily-challenge": {
     label: "Daily",
@@ -64,7 +64,7 @@ function NavItems({
                     className={cn(
                       "group relative flex items-center gap-2.5 rounded-full px-3 py-2 text-xs font-medium transition-all duration-150 select-none",
                       active
-                        ? "bg-foreground font-semibold text-background dark:bg-lime dark:text-lime-ink"
+                        ? "bg-foreground font-semibold text-background dark:bg-highlight dark:text-highlight-ink"
                         : "text-sidebar-foreground/80 hover:bg-sidebar-accent/70 hover:text-sidebar-foreground hover:translate-x-0.5"
                     )}
                   >
@@ -72,7 +72,7 @@ function NavItems({
                       className={cn(
                         "size-4 shrink-0 transition-colors",
                         active
-                          ? "text-lime dark:text-lime-ink"
+                          ? "text-highlight dark:text-highlight-ink"
                           : "text-muted-foreground group-hover:text-sidebar-foreground"
                       )}
                       aria-hidden
@@ -111,7 +111,7 @@ function SidebarFooter({
           onClick={onNavigate}
           className="group flex items-center gap-2.5 rounded-2xl bg-ink px-3 py-2.5 text-xs font-semibold text-ink-foreground transition-colors hover:bg-ink/90"
         >
-          <Shield className="size-4 shrink-0 text-lime transition-transform group-hover:scale-110" aria-hidden />
+          <Shield className="size-4 shrink-0 text-highlight transition-transform group-hover:scale-110" aria-hidden />
           <div className="flex-1 min-w-0 text-left">
             <p className="font-semibold leading-tight truncate">Admin CMS</p>
             <p className="text-[0.62rem] font-normal text-ink-muted truncate">Kelola kurikulum & sistem</p>
@@ -134,7 +134,7 @@ function SidebarFooter({
       )}
       <div className="flex items-center justify-between px-1 pt-1 text-[0.65rem] text-muted-foreground/80">
         <span className="inline-flex items-center gap-1.5">
-          <span className="size-1.5 bg-lime ring-1 ring-foreground/15" aria-hidden />
+          <span className="size-1.5 bg-highlight ring-1 ring-foreground/15" aria-hidden />
           Linguora Platform
         </span>
         <span className="font-mono text-[0.6rem] text-muted-foreground/60">CEFR A1–C2</span>
@@ -177,7 +177,7 @@ function SidebarContent({
       <div className="flex h-16 shrink-0 items-center justify-between border-b border-border px-4 bg-sidebar">
         <Logo href={homeHref} />
         {nav === "admin" ? (
-          <span className="rounded-full bg-lime px-2.5 py-0.5 font-mono text-[0.62rem] font-medium tracking-wider text-lime-ink uppercase">
+          <span className="rounded-full bg-highlight px-2.5 py-0.5 font-mono text-[0.62rem] font-medium tracking-wider text-highlight-ink uppercase">
             Admin CMS
           </span>
         ) : (

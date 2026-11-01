@@ -13,7 +13,7 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
   return (
     <div className="grid min-h-dvh bg-background text-foreground lg:grid-cols-[1fr_1.05fr]">
       <aside className="relative hidden overflow-hidden bg-ink text-ink-foreground lg:flex lg:flex-col lg:justify-between lg:p-12">
-        <div aria-hidden className="absolute -right-24 -bottom-24 size-72 rounded-full bg-lime" />
+        <div aria-hidden className="absolute -right-24 -bottom-24 size-72 rounded-full bg-highlight" />
         <Logo className="relative [&_rect]:fill-ink-foreground [&_path]:stroke-ink" />
         <div className="relative space-y-10">
           <SectionLabel tone="ink">Kurikulum A1–C2</SectionLabel>
