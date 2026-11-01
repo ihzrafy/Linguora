@@ -1,6 +1,6 @@
-import Link from "next/link";
-import { Bell, Flame, Zap } from "lucide-react";
+import { Flame, Zap } from "lucide-react";
 import { AppSidebar, MobileNav } from "@/components/layout/app-sidebar";
+import { NotificationBell } from "@/components/layout/notification-bell";
 import { UserMenu } from "@/components/layout/user-menu";
 import { ThemeToggle } from "@/components/shared/theme-toggle";
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip";
@@ -42,18 +42,7 @@ export default async function AppLayout({ children }: { children: React.ReactNod
             </TooltipTrigger>
             <TooltipContent>Total XP</TooltipContent>
           </Tooltip>
-          <Link
-            href="/app/notifications"
-            className="relative inline-flex size-9 items-center justify-center rounded-lg hover:bg-muted"
-            aria-label={unread ? `Notifikasi, ${unread} belum dibaca` : "Notifikasi"}
-          >
-            <Bell className="size-4" />
-            {Boolean(unread) && (
-              <span className="absolute top-1 right-1 flex min-w-4 items-center justify-center rounded-full bg-destructive px-1 text-[0.6rem] leading-4 font-bold text-white">
-                {unread! > 9 ? "9+" : unread}
-              </span>
-            )}
-          </Link>
+          <NotificationBell unread={unread ?? 0} />
           <ThemeToggle />
           <UserMenu
             name={viewer.profile.display_name}
