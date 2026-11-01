@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { requireViewer } from "@/lib/auth";
 import { LISTENING_KIND_LABEL } from "@/lib/labels";
+import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
 import { DictationDrill, ListeningPlayer } from "../player";
 
@@ -23,7 +24,8 @@ export default async function ListeningMaterialPage({ params }: { params: Promis
   const [{ data: unlock }, { data: bookmark }, { count }] = await Promise.all([
     supabase.from("user_level_unlocks").select("level_id").eq("user_id", viewer.id).eq("level_id", m.level_id).maybeSingle(),
     supabase.from("bookmarks").select("id").eq("user_id", viewer.id).eq("target_type", "listening").eq("target_id", m.id).maybeSingle(),
-    supabase.from("questions").select("id", { count: "exact", head: true }).eq("listening_id", m.id),
+    // questions is staff-only under RLS; count the same pool the practice session uses.
+    createAdminClient().from("questions").select("id", { count: "exact", head: true }).eq("status", "published").not("stage", "in", "(exam,placement)").eq("listening_id", m.id),
   ]);
   const script = (m.script ?? []) as { speaker: string; text: string }[];
   const sentences = script.flatMap((l) => l.text.split(/(?<=[.!?])\s+/)).filter((s) => s.split(" ").length >= 4 && s.split(" ").length <= 16).slice(0, 8);

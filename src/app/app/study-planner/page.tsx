@@ -96,7 +96,7 @@ export default async function StudyPlannerPage() {
           <CardTitle className="text-base">Kalender minggu ini</CardTitle>
         </CardHeader>
         <CardContent>
-          <PlannedList items={planned ?? []} days={week.map((d, i) => ({ date: d, label: `${LABELS[i]} ${d.slice(8)}${d === today ? " • hari ini" : ""}` }))} />
+          <PlannedList items={planned ?? []} days={week.map((d, i) => ({ date: d, label: `${LABELS[i]} ${d.slice(8)}${d === today ? " • hari ini" : ""}` }))} today={today} />
         </CardContent>
       </Card>
       <div className="grid gap-4 lg:grid-cols-2">

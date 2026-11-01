@@ -57,7 +57,7 @@ export default async function PlacementPage({ searchParams }: { searchParams: Pr
       <p className="text-xs text-muted-foreground">
         Jangan gunakan kamus atau penerjemah agar hasil estimasi akurat. Jika tidak tahu jawabannya, lewati saja.
       </p>
-      <AttemptHistory attempts={attempts ?? []} />
+      <AttemptHistory attempts={(attempts ?? []).map((a) => ({ ...a, passed: null }))} />
     </div>
   );
 }

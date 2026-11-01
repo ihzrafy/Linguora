@@ -5,6 +5,7 @@ import { z } from "zod";
 import { ActionError, assertViewer } from "@/lib/auth";
 import { rateLimit, runAction } from "@/lib/actions";
 import { scheduleItem } from "@/lib/learning/srs-server";
+import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
 
 const uuid = z.uuid();
@@ -37,8 +38,12 @@ export async function removeWordAction(id: string) {
   return runAction(async () => {
     const viewer = await assertViewer();
     const supabase = await createClient();
-    await supabase.from("user_vocabulary").delete().eq("id", uuid.parse(id)).eq("user_id", viewer.id);
+    const wordId = uuid.parse(id);
+    const { data: removed } = await supabase.from("user_vocabulary").delete().eq("id", wordId).eq("user_id", viewer.id).select("id");
+    // Its review card would otherwise stay due in the review queue and the counters.
+    if (removed?.length) await createAdminClient().from("review_schedules").delete().eq("user_id", viewer.id).eq("item_type", "user_vocabulary").eq("item_id", wordId);
     revalidatePath("/app/vocabulary");
+    revalidatePath("/app/review");
     return undefined;
   });
 }

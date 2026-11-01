@@ -61,7 +61,8 @@ export function PlanForm({
               min={0}
               max={480}
               step={5}
-              value={plan.schedule[key]}
+              value={plan.schedule[key] || ""}
+              placeholder="0"
               onChange={(e) => setPlan({ ...plan, schedule: { ...plan.schedule, [key]: Math.max(0, Math.min(480, Number(e.target.value) || 0)) } })}
               className="px-1 text-center"
               aria-label={`Menit belajar hari ${label}`}
@@ -92,7 +93,7 @@ export function PlanForm({
           <Switch checked={plan.remindersEnabled} onCheckedChange={(v) => setPlan({ ...plan, remindersEnabled: v })} /> Pengingat belajar
         </label>
         <Input type="time" value={plan.reminderTime ?? ""} onChange={(e) => setPlan({ ...plan, reminderTime: e.target.value || null })} className="w-32" aria-label="Jam pengingat" />
-        <p className="text-xs text-muted-foreground">Pengingat ditampilkan di dalam aplikasi. Email/push belum aktif karena penyedia notifikasi belum dikonfigurasi.</p>
+        <p className="text-xs text-muted-foreground">Pengingat muncul di dashboard setelah jam ini bila kamu belum belajar hari itu. Email/push belum aktif.</p>
       </div>
       <Button type="submit" disabled={pending}>
         {pending && <Loader2 className="animate-spin" />} Simpan rencana
@@ -101,10 +102,10 @@ export function PlanForm({
   );
 }
 
-export function PlannedList({ items, days }: { items: { id: string; title: string; planned_date: string; done: boolean }[]; days: { date: string; label: string }[] }) {
+export function PlannedList({ items, days, today }: { items: { id: string; title: string; planned_date: string; done: boolean }[]; days: { date: string; label: string }[]; today: string }) {
   const router = useRouter();
   const [title, setTitle] = useState("");
-  const [date, setDate] = useState(days[0]?.date ?? "");
+  const [date, setDate] = useState(days.some((d) => d.date === today) ? today : (days[0]?.date ?? ""));
   const [pending, start] = useTransition();
   const run = (fn: () => Promise<{ ok: boolean; error?: string }>) =>
     start(async () => {
@@ -127,7 +128,7 @@ export function PlannedList({ items, days }: { items: { id: string; title: strin
                       {i.done && <Check className="size-3" />}
                     </button>
                     <span className={cn("flex-1", i.done && "text-muted-foreground line-through")}>{i.title}</span>
-                    <button type="button" onClick={() => run(() => deletePlannedAction(i.id))} className="opacity-0 group-hover:opacity-100 focus:opacity-100" aria-label={`Hapus ${i.title}`}>
+                    <button type="button" onClick={() => run(() => deletePlannedAction(i.id))} className="sm:opacity-0 sm:group-hover:opacity-100 sm:focus:opacity-100" aria-label={`Hapus ${i.title}`}>
                       <Trash2 className="size-3" />
                     </button>
                   </li>
@@ -202,7 +203,7 @@ export function SessionTimer() {
       } else {
         const res = await saveStudySessionAction({ mode, startedAt, durationSeconds: t.focus, notes: notes || undefined });
         if (!res.ok) toast.error(res.error);
-        else toast.success(`Sesi ${res.data.minutes} menit disimpan`);
+        else toast.success(res.data.minutes ? `Sesi ${res.data.minutes} menit disimpan` : "Sesi kurang dari 1 menit disimpan");
       }
       setStartedAt(null);
       setT({ elapsed: 0, focus: 0, phase: "focus" });

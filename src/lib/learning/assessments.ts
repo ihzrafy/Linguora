@@ -9,6 +9,7 @@ import type { Database, Json } from "@/lib/supabase/database.types";
 import { estimatePlacement, type PlacementItem } from "./placement";
 import { loadClientQuestions, loadGradableQuestions } from "./questions-server";
 import { pickByBlueprint, pickStratified, sample, shuffle, type PoolItem } from "./selection";
+import { advanceQuestionReview } from "./srs-server";
 
 type AttemptRow = Database["public"]["Tables"]["assessment_attempts"]["Row"];
 type AttemptKind = Database["public"]["Enums"]["attempt_kind"];
@@ -258,7 +259,11 @@ export type AttemptView = {
   title: string;
   questions: ClientQuestion[];
   saved: Record<string, QuestionResponse>;
+  /** Practice kinds only (instant feedback): questions already answered correctly. Never sent for graded attempts. */
+  savedCorrect: string[];
 };
+
+const INSTANT_FEEDBACK_KINDS = new Set(["practice", "review", "daily_challenge"]);
 
 export async function getOwnAttempt(viewer: Viewer, attemptId: string): Promise<AttemptRow> {
   const { data } = await db().from("assessment_attempts").select("*").eq("id", attemptId).maybeSingle();
@@ -266,17 +271,28 @@ export async function getOwnAttempt(viewer: Viewer, attemptId: string): Promise<
   return data;
 }
 
-export async function attemptTitle(a: Pick<AttemptRow, "kind" | "quiz_id" | "exam_id">): Promise<string> {
+const SKILL_LABEL: Record<string, string> = { grammar: "Grammar", vocabulary: "Vocabulary", reading: "Reading", listening: "Listening", conversation: "Conversation" };
+
+export async function attemptTitle(a: Pick<AttemptRow, "kind" | "quiz_id" | "exam_id" | "metadata">): Promise<string> {
   if (a.quiz_id) return (await db().from("quizzes").select("title").eq("id", a.quiz_id).single()).data?.title ?? "Quiz";
   if (a.exam_id) return (await db().from("exams").select("title").eq("id", a.exam_id).single()).data?.title ?? "Ujian";
-  return { practice: "Latihan Adaptif", review: "Sesi Review", daily_challenge: "Daily Challenge" }[a.kind as string] ?? "Latihan";
+  if (a.kind === "practice") {
+    // Name the session after what started it (lesson, grammar topic, passage, topic…).
+    const m = (a.metadata ?? {}) as { mode?: string; category?: string | null; topic?: string | null; source?: { kind?: string } };
+    if (m.mode === "lesson") return "Latihan Lesson";
+    if (m.mode === "source" && m.source?.kind) return `Latihan ${SKILL_LABEL[m.source.kind] ?? "Materi"}`;
+    if (m.mode === "topic" && m.topic) return `Latihan: ${m.topic}`;
+    if (m.mode === "topic" && m.category) return `Latihan ${SKILL_LABEL[m.category] ?? m.category}`;
+    return "Latihan Adaptif";
+  }
+  return { review: "Sesi Review", daily_challenge: "Daily Challenge" }[a.kind as string] ?? "Latihan";
 }
 
 export async function loadAttemptView(viewer: Viewer, attemptId: string): Promise<AttemptView> {
   const attempt = await getOwnAttempt(viewer, attemptId);
   const [questions, { data: answers }, title] = await Promise.all([
     loadClientQuestions(attempt.question_ids, attempt.option_orders as Record<string, string[]>),
-    db().from("assessment_answers").select("question_id, response").eq("attempt_id", attemptId),
+    db().from("assessment_answers").select("question_id, response, is_correct").eq("attempt_id", attemptId),
     attemptTitle(attempt),
   ]);
   return {
@@ -284,6 +300,7 @@ export async function loadAttemptView(viewer: Viewer, attemptId: string): Promis
     title,
     questions,
     saved: Object.fromEntries((answers ?? []).filter((a) => a.response !== null).map((a) => [a.question_id, a.response as QuestionResponse])),
+    savedCorrect: INSTANT_FEEDBACK_KINDS.has(attempt.kind) ? (answers ?? []).filter((a) => a.is_correct).map((a) => a.question_id) : [],
   };
 }
 
@@ -385,7 +402,9 @@ export async function submitAttempt(viewer: Viewer, attemptId: string, responses
   const answers = graded.map((g) => ({
     question_id: g.qid,
     response: g.response,
-    is_correct: g.result.isCorrect,
+    // Placement asks learners to skip what they don't know: a skipped item is "not seen", not a wrong answer
+    // in their accuracy stats (it still scores 0 in the placement estimate above).
+    is_correct: attempt.kind === "placement" && g.response === null ? null : g.result.isCorrect,
     points_awarded: g.result.pointsAwarded,
     max_points: g.result.maxPoints,
     needs_manual: g.result.needsManual,
@@ -435,6 +454,7 @@ export async function answerPractice(viewer: Viewer, attemptId: string, question
     });
     if (error) throw new Error(error.message);
     xp = (data as { xp?: number } | null)?.xp ?? 0;
+    if (!result.needsManual) await advanceQuestionReview(viewer.id, questionId, result.isCorrect === true);
   }
   return { ...result, explanation: q.explanation, misconception: q.misconception, xp, alreadyAnswered: Boolean(existing) };
 }

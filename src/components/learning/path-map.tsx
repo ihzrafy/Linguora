@@ -90,7 +90,9 @@ export function PathMap({ units, exam }: { units: PathUnit[]; exam: { href: stri
                       <span className="block font-medium">
                         {lesson.sort}. {lesson.title}
                       </span>
-                      <span className="block truncate text-sm text-muted-foreground">{lesson.summary}</span>
+                      <span className="block truncate text-sm text-muted-foreground">
+                        {locked ? (unit.unlocked ? "Terkunci — selesaikan lesson sebelumnya untuk membuka" : "Terkunci — unit ini belum terbuka") : lesson.summary}
+                      </span>
                     </span>
                     <span className="hidden shrink-0 flex-col items-end gap-1 sm:flex">
                       <StatusBadge status={lesson.status} />
@@ -103,7 +105,7 @@ export function PathMap({ units, exam }: { units: PathUnit[]; exam: { href: stri
                 return (
                   <li key={lesson.id} className="relative">
                     {locked ? (
-                      <div aria-disabled className="flex items-center gap-3 rounded-xl border border-transparent p-3 opacity-70">
+                      <div aria-disabled title="Lesson ini masih terkunci" className="flex cursor-not-allowed items-center gap-3 rounded-xl border border-transparent p-3 opacity-70">
                         <span className="sr-only">Terkunci: </span>
                         {content}
                       </div>

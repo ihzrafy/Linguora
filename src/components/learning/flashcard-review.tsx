@@ -19,12 +19,16 @@ const GRADES = [
 ] as const;
 
 /** Spaced-repetition flashcards with SM-2 self-grading. */
-export function FlashcardReview({ cards }: { cards: ReviewCard[] }) {
+export function FlashcardReview({ cards: initialCards, empty }: { cards: ReviewCard[]; empty: React.ReactNode }) {
+  // Freeze the session's deck: grading revalidates the page, which would pass a shorter `cards` list
+  // while `index` keeps advancing (every other card got skipped).
+  const [cards] = useState(initialCards);
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [pending, start] = useTransition();
   const [done, setDone] = useState(0);
 
+  if (!cards.length) return empty;
   if (index >= cards.length)
     return (
       <div className="flex flex-col items-center gap-3 rounded-2xl border bg-card p-10 text-center">

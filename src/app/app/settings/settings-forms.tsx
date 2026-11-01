@@ -16,6 +16,9 @@ import { Textarea } from "@/components/ui/textarea";
 import { createClient } from "@/lib/supabase/client";
 import { changePasswordAction, deleteAccountAction, updateAvatarAction, updatePreferencesAction, updateProfileAction } from "./actions";
 
+/** Lets a number field be cleared while typing; snaps into range when the field loses focus. */
+const clamp = (n: number, min: number, max: number) => Math.min(max, Math.max(min, Math.round(n) || min));
+
 export function ProfileForm({ userId, initial }: { userId: string; initial: { displayName: string; username: string; bio: string; avatarUrl: string | null } }) {
   const router = useRouter();
   const [form, setForm] = useState(initial);
@@ -28,7 +31,7 @@ export function ProfileForm({ userId, initial }: { userId: string; initial: { di
     setUploading(true);
     const ext = file.type.split("/")[1];
     const path = `${userId}/avatar-${Date.now()}.${ext}`;
-    const { error } = await createClient().storage.from("avatars").upload(path, file, { contentType: file.type, upsert: true });
+    const { error } = await createClient().storage.from("avatars").upload(path, file, { contentType: file.type }); // unique path: no upsert (that would need a SELECT policy)
     if (error) {
       setUploading(false);
       return void toast.error("Unggah gagal.");
@@ -138,11 +141,17 @@ export function PreferencesForm({
         </div>
         <div className="space-y-1.5">
           <Label htmlFor="xp-goal">Target XP harian</Label>
-          <Input id="xp-goal" type="number" min={10} max={500} step={5} value={f.dailyGoalXp} onChange={(e) => setF({ ...f, dailyGoalXp: Number(e.target.value) || 10 })} />
+          <Input id="xp-goal" type="number" min={10} max={500} step={5} value={f.dailyGoalXp || ""}
+            onChange={(e) => setF({ ...f, dailyGoalXp: Number(e.target.value) })}
+            onBlur={() => setF((cur) => ({ ...cur, dailyGoalXp: clamp(cur.dailyGoalXp, 10, 500) }))}
+          />
         </div>
         <div className="space-y-1.5">
           <Label htmlFor="min-goal">Target menit harian</Label>
-          <Input id="min-goal" type="number" min={5} max={240} step={5} value={f.dailyGoalMinutes} onChange={(e) => setF({ ...f, dailyGoalMinutes: Number(e.target.value) || 5 })} />
+          <Input id="min-goal" type="number" min={5} max={240} step={5} value={f.dailyGoalMinutes || ""}
+            onChange={(e) => setF({ ...f, dailyGoalMinutes: Number(e.target.value) })}
+            onBlur={() => setF((cur) => ({ ...cur, dailyGoalMinutes: clamp(cur.dailyGoalMinutes, 5, 240) }))}
+          />
         </div>
       </div>
       <div className="flex items-center justify-between gap-4 rounded-xl border p-4">

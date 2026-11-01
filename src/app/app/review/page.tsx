@@ -68,11 +68,11 @@ export default async function ReviewPage() {
 
       <section className="space-y-3">
         <h2 className="text-lg font-semibold">Kartu kosakata & lesson</h2>
-        {cards.length ? (
-          <FlashcardReview cards={cards} />
-        ) : (
-          <EmptyState title="Semua kartu sudah direview 🎉" description="Simpan kata baru ke wordbook atau selesaikan lesson untuk menambah kartu review." />
-        )}
+        {/* Always mounted: grading revalidates this page, and the running session must survive its deck emptying. */}
+        <FlashcardReview
+          cards={cards}
+          empty={<EmptyState title="Belum ada kartu yang jatuh tempo" description="Simpan kata baru ke wordbook atau selesaikan lesson untuk menambah kartu review." />}
+        />
       </section>
 
       <section className="space-y-3">

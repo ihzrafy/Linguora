@@ -77,6 +77,7 @@ export default async function ResultsPage({ params, searchParams }: { params: Pr
   // Where to go next.
   const { data: lesson } = attempt.lesson_id ? await supabase.from("lessons").select("slug, title").eq("id", attempt.lesson_id).maybeSingle() : { data: null };
   const { data: level } = attempt.level_id ? await supabase.from("levels").select("slug, code").eq("id", attempt.level_id).maybeSingle() : { data: null };
+  const next = attempt.passed ? await nextStep(supabase, attempt) : null;
   const retryHref = attempt.quiz_id ? `/app/quiz/${attempt.quiz_id}` : attempt.exam_id ? (isPlacement ? "/app/placement-test" : `/app/exam/${attempt.exam_id}`) : "/app/practice";
 
   const review = questions.map((q) => {
@@ -158,10 +159,10 @@ export default async function ResultsPage({ params, searchParams }: { params: Pr
       {isPlacement && result.placement && <PlacementSummary placement={result.placement} goal={viewer.profile.learning_goal} />}
 
       <div className="flex flex-wrap gap-2">
-        {passed && lesson && attempt.kind === "lesson_quiz" && (
+        {passed && (next || (lesson && attempt.kind === "lesson_quiz")) && (
           <Button asChild>
-            <Link href={level ? `/app/learn/${level.slug}` : "/app/learn"}>
-              Lanjut ke lesson berikutnya <ArrowRight />
+            <Link href={next?.href ?? (level ? `/app/learn/${level.slug}` : "/app/learn")}>
+              {next?.label ?? "Lihat learning path"} <ArrowRight />
             </Link>
           </Button>
         )}
@@ -280,4 +281,38 @@ function PlacementSummary({ placement, goal }: { placement: PlacementResult; goa
       </CardContent>
     </Card>
   );
+}
+
+type Db = Awaited<ReturnType<typeof createClient>>;
+
+/** Where to go after passing: the next lesson, else the unit assessment; after a unit test, the next unit. */
+async function nextStep(supabase: Db, attempt: { kind: string; lesson_id: string | null; unit_id: string | null }): Promise<{ href: string; label: string } | null> {
+  if (attempt.kind === "lesson_quiz" && attempt.lesson_id) {
+    const { data: cur } = await supabase.from("lessons").select("unit_id, sort_order").eq("id", attempt.lesson_id).maybeSingle();
+    if (!cur) return null;
+    const [{ data: nextLesson }, { data: unitTest }] = await Promise.all([
+      supabase.from("lessons").select("slug").eq("unit_id", cur.unit_id).eq("status", "published").gt("sort_order", cur.sort_order).order("sort_order").limit(1).maybeSingle(),
+      supabase.from("quizzes").select("id").eq("unit_id", cur.unit_id).eq("kind", "unit_test").eq("status", "published").maybeSingle(),
+    ]);
+    if (nextLesson) return { href: `/app/lesson/${nextLesson.slug}`, label: "Lanjut ke lesson berikutnya" };
+    if (unitTest) return { href: `/app/quiz/${unitTest.id}`, label: "Lanjut ke unit assessment" };
+    return null;
+  }
+  if (attempt.kind === "unit_test" && attempt.unit_id) {
+    const { data: cur } = await supabase.from("units").select("course_id, sort_order").eq("id", attempt.unit_id).maybeSingle();
+    if (!cur) return null;
+    const { data: nextUnit } = await supabase
+      .from("units")
+      .select("id, lessons(slug, sort_order)")
+      .eq("course_id", cur.course_id)
+      .eq("status", "published")
+      .gt("sort_order", cur.sort_order)
+      .order("sort_order")
+      .limit(1)
+      .maybeSingle();
+    const first = [...((nextUnit?.lessons as { slug: string; sort_order: number }[] | null) ?? [])].sort((a, b) => a.sort_order - b.sort_order)[0];
+    if (first) return { href: `/app/lesson/${first.slug}`, label: "Lanjut ke unit berikutnya" };
+    return null;
+  }
+  return null;
 }

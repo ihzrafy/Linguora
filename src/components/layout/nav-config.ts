@@ -1,5 +1,6 @@
 import {
   Activity,
+  Inbox,
   ClipboardCheck,
   FileQuestion,
   FileText,
@@ -103,6 +104,7 @@ export const ADMIN_NAV: NavGroup[] = [
     items: [
       { href: "/admin", label: "Overview", icon: Activity },
       { href: "/admin/reports", label: "Laporan", icon: BarChart3 },
+      { href: "/admin/messages", label: "Pesan Masuk", icon: Inbox },
     ],
   },
   {

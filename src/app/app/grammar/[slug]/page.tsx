@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { requireViewer } from "@/lib/auth";
+import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
 import { GRAMMAR_CATEGORY } from "@/lib/labels";
 
@@ -20,11 +21,16 @@ export default async function GrammarTopicPage({ params }: { params: Promise<{ s
   const supabase = await createClient();
   const { data: topic } = await supabase.from("grammar_topics").select("*, levels(code)").eq("slug", slug).maybeSingle();
   if (!topic) notFound();
-  const [{ data: lessons }, { data: bookmark }, { data: answers }] = await Promise.all([
+  // questions is staff-only under RLS: resolve the topic's question ids server-side, then read the learner's own answers.
+  const [{ data: lessons }, { data: bookmark }, { data: topicQuestions }] = await Promise.all([
     topic.related_lesson_ids.length ? supabase.from("lessons").select("slug, title").in("id", topic.related_lesson_ids) : Promise.resolve({ data: [] }),
     supabase.from("bookmarks").select("id").eq("user_id", viewer.id).eq("target_type", "grammar").eq("target_id", topic.id).maybeSingle(),
-    supabase.from("assessment_answers").select("is_correct, questions!inner(grammar_topic_id)").eq("user_id", viewer.id).eq("questions.grammar_topic_id", topic.id).not("is_correct", "is", null),
+    createAdminClient().from("questions").select("id").eq("grammar_topic_id", topic.id),
   ]);
+  const questionIds = (topicQuestions ?? []).map((q) => q.id);
+  const { data: answers } = questionIds.length
+    ? await supabase.from("assessment_answers").select("is_correct").eq("user_id", viewer.id).in("question_id", questionIds).not("is_correct", "is", null)
+    : { data: [] };
   const formulas = (topic.formulas ?? []) as { label: string; pattern: string }[];
   const examples = (topic.examples ?? {}) as { positive?: string[]; negative?: string[]; interrogative?: string[] };
   const mistakes = (topic.mistakes ?? []) as { wrong: string; right: string; why: string }[];

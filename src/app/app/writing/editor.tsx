@@ -97,6 +97,7 @@ export function WritingEditor({
         <Textarea id="w-content" rows={14} value={content} onChange={(e) => setContent(e.target.value)} className="text-base leading-7" />
         <p className={cn("text-xs", words < minWords || words > maxWords ? "text-warning-foreground dark:text-warning" : "text-muted-foreground")}>
           {words} kata · target {minWords}–{maxWords}
+          {words < minWords && ` · minimal ${minWords} kata untuk dikirim`}
         </p>
       </div>
 
@@ -122,7 +123,7 @@ export function WritingEditor({
       <div className="flex flex-wrap gap-2">
         <ConfirmDialog
           trigger={
-            <Button disabled={!id || words < 5 || pending}>
+            <Button disabled={!id || words < minWords || pending} title={words < minWords ? `Minimal ${minWords} kata untuk dikirim` : undefined}>
               <Send /> Kirim untuk dinilai reviewer
             </Button>
           }

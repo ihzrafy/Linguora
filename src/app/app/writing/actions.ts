@@ -48,7 +48,7 @@ export async function submitWritingAction(input: z.input<typeof submitSchema>) {
     const { data: sub } = await supabase.from("writing_submissions").select("content, word_count, writing_prompts(min_words)").eq("id", data.id).eq("user_id", viewer.id).maybeSingle();
     if (!sub) throw new ActionError("Tulisan tidak ditemukan.", "not_found");
     const min = (sub.writing_prompts as { min_words: number } | null)?.min_words ?? 1;
-    if (sub.word_count < Math.min(min, 5)) throw new ActionError("Tulisan terlalu pendek untuk dikirim.");
+    if (sub.word_count < min) throw new ActionError(`Tulisan minimal ${min} kata sebelum dikirim untuk dinilai.`);
     const { error } = await supabase
       .from("writing_submissions")
       .update({ status: "submitted", self_assessment: data.selfAssessment, submitted_at: new Date().toISOString() })

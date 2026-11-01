@@ -151,7 +151,7 @@ export function OnboardingWizard({ name }: { name: string }) {
             <div className="flex items-center justify-between gap-4 rounded-xl border p-4">
               <Label htmlFor="optin" className="flex flex-col items-start gap-1">
                 <span>Tampilkan saya di leaderboard</span>
-                <span className="text-xs font-normal text-muted-foreground">Hanya username dan XP yang terlihat. Email tidak pernah ditampilkan.</span>
+                <span className="text-xs font-normal text-muted-foreground">Hanya nama tampilan, username, dan XP yang terlihat. Email tidak pernah ditampilkan.</span>
               </Label>
               <Switch id="optin" checked={optIn} onCheckedChange={setOptIn} />
             </div>
@@ -160,7 +160,7 @@ export function OnboardingWizard({ name }: { name: string }) {
         {step === 3 && (
           <>
             <h1 className="text-3xl font-bold">Mulai dari mana?</h1>
-            <p className="text-muted-foreground">Placement test (±25 menit) mengestimasi levelmu dan membuka level yang sesuai. Kamu juga bisa langsung mulai dari A1.</p>
+            <p className="text-muted-foreground">Placement test (48 soal, ±30–40 menit) mengestimasi levelmu dan membuka level yang sesuai. Kamu juga bisa langsung mulai dari A1.</p>
             <div className="grid gap-3 sm:grid-cols-2">
               <button type="button" disabled={pending} onClick={() => finish("placement")} className="rounded-xl border-2 border-primary bg-primary/5 p-5 text-left transition hover:bg-primary/10">
                 <Compass className="mb-2 size-6 text-primary" aria-hidden />

@@ -35,7 +35,7 @@ export default async function ConversationPage({ searchParams }: { searchParams:
       />
       {!enabled ? (
         <Alert tone="info" icon={Bot} title="AI tutor belum aktif">
-          Fitur ini memerlukan penyedia AI yang dikonfigurasi oleh pengelola platform (variabel <code>ANTHROPIC_API_KEY</code>). Semua fitur inti Linguora tetap dapat digunakan tanpa AI — coba{" "}
+          Fitur ini belum diaktifkan oleh pengelola platform. Semua fitur inti Linguora tetap dapat digunakan tanpa AI — coba{" "}
           <Link href="/app/speaking" className="text-primary underline">
             Speaking Lab
           </Link>{" "}

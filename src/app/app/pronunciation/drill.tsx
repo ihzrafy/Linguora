@@ -27,7 +27,8 @@ export function PronunciationDrill({ userId, items }: { userId: string; items: I
   const [i, setI] = useState(0);
   const [heard, setHeard] = useState("");
   const item = deck[i % deck.length];
-  const recognized = heard ? normalizeAnswer(heard).split(" ").includes(normalizeAnswer(item.word)) : null;
+  // Whole-phrase match on word boundaries, so multi-word items ("phone number") can be recognised too.
+  const recognized = heard ? ` ${normalizeAnswer(heard)} `.includes(` ${normalizeAnswer(item.word)} `) : null;
 
   return (
     <div className="mx-auto max-w-2xl space-y-4">

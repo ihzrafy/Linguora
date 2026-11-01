@@ -30,6 +30,7 @@ export async function AttemptView({
       mode={practice ? "practice" : "assessment"}
       questions={view.questions}
       saved={view.saved}
+      savedCorrect={view.savedCorrect}
       expiresAt={view.attempt.expires_at}
       passThreshold={view.attempt.pass_threshold}
     />

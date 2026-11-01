@@ -48,11 +48,13 @@ export function ListeningPlayer({ materialId, script, audioUrl }: { materialId: 
   };
 
   const available = Boolean(audioUrl) || tts;
+  // Without any audio the material can only be read, so the transcript is always shown.
+  const transcriptVisible = showTranscript || !available;
   return (
     <div className="space-y-4 rounded-2xl border bg-card p-5">
       {audioUrl && <audio ref={audioRef} src={audioUrl} controls className="w-full" onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} />}
       {!available ? (
-        <p className="rounded-lg bg-warning/15 px-3 py-2 text-sm">Materi ini belum memiliki file audio dan browser kamu tidak mendukung text-to-speech, sehingga audio tidak dapat diputar.</p>
+        <p className="rounded-lg bg-warning/15 px-3 py-2 text-sm">Materi ini belum memiliki file audio dan browser kamu tidak mendukung text-to-speech, sehingga audio tidak dapat diputar. Transkrip ditampilkan agar kamu tetap bisa mempelajari materinya.</p>
       ) : (
         <div className="flex flex-wrap items-center gap-2">
           {!audioUrl && (
@@ -90,10 +92,10 @@ export function ListeningPlayer({ materialId, script, audioUrl }: { materialId: 
               </Button>
             )}
             <span className={cn("font-semibold", speakers.length > 1 && speakerStyle(speakers, l.speaker).text)}>{l.speaker}:</span>
-            <span className={cn(!showTranscript && "rounded bg-muted text-transparent select-none")} aria-hidden={!showTranscript}>
+            <span className={cn(!transcriptVisible && "rounded bg-muted text-transparent select-none")} aria-hidden={!transcriptVisible}>
               {l.text}
             </span>
-            {!showTranscript && <span className="sr-only">Transkrip disembunyikan</span>}
+            {!transcriptVisible && <span className="sr-only">Transkrip disembunyikan</span>}
           </li>
         ))}
       </ol>

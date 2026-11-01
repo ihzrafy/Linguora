@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, useTransition } from "react";
+import { useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import { CheckCircle2, Loader2, Mic, Save, Square } from "lucide-react";
 import { toast } from "sonner";
@@ -33,7 +33,8 @@ export function SpeakingRecorder({ userId, promptId, mode, targetPhrases, onTran
   const duration = useRef(0);
   const recRef = useRef<{ stop: () => void } | null>(null);
   const mediaRef = useRef<MediaRecorder | null>(null);
-  const audioUrl = audio ? URL.createObjectURL(audio) : null;
+  // One object URL per recording (not per render), so typing in the transcript doesn't reset playback.
+  const audioUrl = useMemo(() => (audio ? URL.createObjectURL(audio) : null), [audio]);
   useEffect(() => () => (audioUrl ? URL.revokeObjectURL(audioUrl) : undefined), [audioUrl]);
 
   const begin = async () => {

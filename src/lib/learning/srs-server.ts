@@ -25,6 +25,43 @@ export async function scheduleItem(userId: string, itemType: "user_vocabulary" |
     .upsert({ user_id: userId, item_type: itemType, item_id: itemId, due_at: new Date().toISOString(), mastery: "new" }, { onConflict: "user_id,item_type,item_id,item_ref", ignoreDuplicates: true });
 }
 
+/**
+ * A due "question" review item was answered (review session or a due question mixed into practice):
+ * advance it with SM-2 when correct, or bring it back tomorrow when wrong.
+ */
+export async function advanceQuestionReview(userId: string, questionId: string, correct: boolean) {
+  const now = new Date();
+  const { data: item } = await db()
+    .from("review_schedules")
+    .select("id, ease_factor, interval_days, repetitions, lapses")
+    .eq("user_id", userId)
+    .eq("item_type", "question")
+    .eq("item_id", questionId)
+    .lte("due_at", now.toISOString())
+    .limit(1)
+    .maybeSingle();
+  if (!item) return;
+  const next = scheduleReview(
+    { easeFactor: Number(item.ease_factor), intervalDays: item.interval_days, repetitions: item.repetitions, lapses: item.lapses },
+    correct ? "good" : "again",
+    now,
+  );
+  const dueAt = correct ? next.dueAt : new Date(now.getTime() + 24 * 60 * 60 * 1000);
+  await db()
+    .from("review_schedules")
+    .update({
+      ease_factor: next.state.easeFactor,
+      interval_days: next.state.intervalDays,
+      repetitions: next.state.repetitions,
+      lapses: next.state.lapses,
+      due_at: dueAt.toISOString(),
+      last_reviewed_at: now.toISOString(),
+      last_grade: correct ? 4 : 1,
+      mastery: next.mastery,
+    })
+    .eq("id", item.id);
+}
+
 export async function dueCounts(viewer: Viewer) {
   const now = new Date().toISOString();
   const { data } = await db().from("review_schedules").select("item_type").eq("user_id", viewer.id).lte("due_at", now);

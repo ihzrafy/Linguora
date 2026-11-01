@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { redirect } from "next/navigation";
-import { ArrowRight, Award, BookOpenCheck, Brain, CheckCircle2, Flame, PlayCircle, Repeat, Target, Trophy, Zap } from "lucide-react";
+import { ArrowRight, Award, BellRing, BookOpenCheck, Brain, CheckCircle2, Flame, PlayCircle, Repeat, Target, Trophy, Zap } from "lucide-react";
+import { Alert } from "@/app/app/_components/alert";
 import { ActivityBarChart, SkillRadar } from "@/components/charts/charts";
 import { PageHeader } from "@/components/shared/page-header";
 import { EmptyState } from "@/components/shared/states";
@@ -13,6 +14,7 @@ import { requireViewer } from "@/lib/auth";
 import { getDashboardData } from "@/lib/learning/dashboard";
 import { weakTopics } from "@/lib/learning/practice";
 import { addDays } from "@/lib/learning/streak";
+import { createClient } from "@/lib/supabase/server";
 
 export const metadata: Metadata = { title: "Dashboard" };
 
@@ -34,7 +36,15 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
   const viewer = await requireViewer("/app/dashboard");
   if (!viewer.profile.onboarding_completed_at) redirect("/app/onboarding");
   const { passwordUpdated } = await searchParams;
-  const [d, weak] = await Promise.all([getDashboardData(viewer), weakTopics(viewer, 4)]);
+  const supabase = await createClient();
+  const [d, weak, { data: plan }] = await Promise.all([
+    getDashboardData(viewer),
+    weakTopics(viewer, 4),
+    supabase.from("study_plans").select("reminders_enabled, reminder_time").eq("user_id", viewer.id).maybeSingle(),
+  ]);
+  // In-app study reminder (study planner): shown once the chosen time has passed and nothing was studied today.
+  const nowHm = new Intl.DateTimeFormat("en-GB", { timeZone: viewer.profile.timezone, hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).format(new Date());
+  const reminderDue = Boolean(plan?.reminders_enabled && plan.reminder_time && nowHm >= plan.reminder_time.slice(0, 5) && d.todayXp === 0);
   const goal = viewer.profile.daily_goal_xp;
   const last14 = Array.from({ length: 14 }, (_, i) => addDays(d.today, i - 13)).map((date) => ({
     label: new Date(`${date}T00:00:00Z`).toLocaleDateString("id-ID", { day: "numeric", month: "short", timeZone: "UTC" }),
@@ -51,6 +61,15 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
         title={`Halo, ${viewer.profile.display_name.split(" ")[0]} 👋`}
         description={d.goalMet ? "Target harianmu sudah tercapai. Kerja bagus!" : "Lanjutkan belajar untuk mencapai target harianmu."}
       />
+      {reminderDue && (
+        <Alert tone="info" icon={BellRing} title="Waktunya belajar!">
+          Kamu belum belajar hari ini. Luangkan beberapa menit untuk menjaga streak —{" "}
+          <Link href={continueTarget ? `/app/lesson/${continueTarget.slug}` : "/app/learn"} className="font-medium text-primary underline">
+            lanjutkan dari sini
+          </Link>
+          .
+        </Alert>
+      )}
       {passwordUpdated && <p className="rounded-lg border border-success/40 bg-success/10 px-3 py-2 text-sm">Password berhasil diperbarui.</p>}
 
       <div className="grid gap-4 lg:grid-cols-3">

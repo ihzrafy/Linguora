@@ -114,9 +114,10 @@ export function gradeResponse(q: GradableQuestion, response: QuestionResponse | 
 
     case "matching": {
       const pairs = has(response, "pairs") && typeof response.pairs === "object" && response.pairs ? (response.pairs as Record<string, string>) : {};
-      const entries = Object.entries(key.pairs);
-      const parts = entries.map(([l, r]) => pairs[l] === r);
       const data = q.data.kind === "matching" ? q.data : null;
+      // Follow the displayed row order: `parts[i]` colours row i, and jsonb does not keep key order.
+      const entries: [string, string][] = data ? data.left.filter((l) => l.id in key.pairs).map((l) => [l.id, key.pairs[l.id]]) : Object.entries(key.pairs);
+      const parts = entries.map(([l, r]) => pairs[l] === r);
       const text = (list: { id: string; text: string }[] | undefined, id: string) => list?.find((t) => t.id === id)?.text ?? "";
       return result(q, parts.filter(Boolean).length / entries.length, {
         parts,

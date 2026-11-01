@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { requireViewer } from "@/lib/auth";
 import { GENRE_LABEL } from "@/lib/labels";
+import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
 import { ReadingText } from "../reading-text";
 
@@ -23,7 +24,8 @@ export default async function PassagePage({ params }: { params: Promise<{ slug: 
   const [{ data: unlock }, { data: bookmark }, { count }, { data: progress }] = await Promise.all([
     supabase.from("user_level_unlocks").select("level_id").eq("user_id", viewer.id).eq("level_id", p.level_id).maybeSingle(),
     supabase.from("bookmarks").select("id").eq("user_id", viewer.id).eq("target_type", "reading").eq("target_id", p.id).maybeSingle(),
-    supabase.from("questions").select("id", { count: "exact", head: true }).eq("passage_id", p.id),
+    // questions is staff-only under RLS; count the same pool the practice session uses.
+    createAdminClient().from("questions").select("id", { count: "exact", head: true }).eq("status", "published").not("stage", "in", "(exam,placement)").eq("passage_id", p.id),
     supabase.from("reading_progress").select("best_score").eq("user_id", viewer.id).eq("passage_id", p.id).maybeSingle(),
   ]);
   const glossary = (p.glossary ?? []) as { word: string; meaning: string }[];

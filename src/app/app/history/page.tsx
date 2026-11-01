@@ -46,6 +46,8 @@ export default async function HistoryPage({ searchParams }: { searchParams: Prom
       .from("assessment_attempts")
       .select("id, kind, status, score_percent, passed, created_at, submitted_at, question_ids", { count: "exact" })
       .eq("user_id", viewer.id)
+      // The practice embedded in a lesson page belongs to that lesson, not to the practice history.
+      .or("kind.neq.practice,lesson_id.is.null")
       .order("created_at", { ascending: false })
       .range((page - 1) * PAGE, page * PAGE - 1),
     supabase.from("xp_transactions").select("id, amount, source, created_at").eq("user_id", viewer.id).order("created_at", { ascending: false }).limit(30),
@@ -78,8 +80,9 @@ export default async function HistoryPage({ searchParams }: { searchParams: Prom
                       ) : (
                         <>
                           <span className="font-semibold tabular-nums">{a.score_percent !== null ? `${Number(a.score_percent)}%` : "–"}</span>
-                          {a.passed === true && <Badge className="bg-success text-success-foreground">Lulus</Badge>}
-                          {a.passed === false && <Badge variant="destructive">Belum lulus</Badge>}
+                          {a.kind === "placement" && <Badge variant="secondary">Selesai</Badge>}
+                          {a.kind !== "placement" && a.passed === true && <Badge className="bg-success text-success-foreground">Lulus</Badge>}
+                          {a.kind !== "placement" && a.passed === false && <Badge variant="destructive">Belum lulus</Badge>}
                         </>
                       )}
                       <Link href={`/app/results/${a.id}`} className="text-primary hover:underline">

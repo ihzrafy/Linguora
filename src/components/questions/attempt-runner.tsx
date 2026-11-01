@@ -24,6 +24,8 @@ type Props = {
   mode: "assessment" | "practice";
   questions: ClientQuestion[];
   saved: Record<string, QuestionResponse>;
+  /** Practice only: questions answered correctly before this page load. */
+  savedCorrect?: string[];
   expiresAt: string | null;
   passThreshold: number | null;
 };
@@ -45,7 +47,6 @@ export function AttemptRunner(props: Props) {
 // ---------------------------------------------------------------------------
 function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passThreshold }: Props) {
   const router = useRouter();
-  const [index, setIndex] = useState(0);
   // Rendered client-only (see attempt-runner-client.tsx), so device storage can seed the state:
   // answers that never reached the server (e.g. connection lost) are restored and re-synced.
   const [initial] = useState(() => {
@@ -59,6 +60,8 @@ function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passT
     return { responses: { ...saved, ...local }, pending };
   });
   const [responses, setResponses] = useState<Record<string, QuestionResponse>>(initial.responses);
+  // Resume at the first unanswered question (e.g. after a reload or "Lanjutkan attempt").
+  const [index, setIndex] = useState(() => Math.max(0, questions.findIndex((q) => !hasAnswer(q, initial.responses[q.id] ?? null))));
   const [unsynced, setUnsynced] = useState<Set<string>>(() => new Set(initial.pending));
   const [submitting, startSubmit] = useTransition();
   const timers = useRef<Record<string, ReturnType<typeof setTimeout>>>({});
@@ -164,6 +167,21 @@ function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passT
     return () => window.removeEventListener("online", retry);
   }, [unsynced, responses, persist]);
 
+  const unanswered = questions.flatMap((q, i) => (hasAnswer(q, responses[q.id] ?? null) ? [] : [i + 1]));
+  const submitDialog = (trigger: React.ReactElement) => (
+    <ConfirmDialog
+      trigger={trigger}
+      title="Kumpulkan jawaban?"
+      description={
+        unanswered.length
+          ? `Masih ada ${unanswered.length} soal yang belum dijawab (no. ${unanswered.slice(0, 12).join(", ")}${unanswered.length > 12 ? ", …" : ""}). Soal kosong dinilai salah.`
+          : "Semua soal sudah dijawab. Jawaban akan dinilai di server dan tidak dapat diubah lagi."
+      }
+      confirmLabel="Kumpulkan"
+      onConfirm={submit}
+    />
+  );
+
   return (
     <div className="mx-auto max-w-3xl space-y-6">
       {/*
@@ -190,7 +208,7 @@ function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passT
                   className="text-muted-foreground flex items-center gap-1 text-xs"
                   title="Jawaban disimpan di perangkat dan akan disinkronkan"
                 >
-                  <CloudOff className="size-3.5" /> menyimpan…
+                  <CloudOff className="size-3.5" aria-label="Menyimpan jawaban" /> <span className="hidden sm:inline">menyimpan…</span>
                 </span>
               )}
               {remaining !== null && (
@@ -234,21 +252,11 @@ function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passT
             Berikutnya <ArrowRight />
           </Button>
         ) : (
-          <ConfirmDialog
-            trigger={
-              <Button disabled={submitting}>
-                {submitting ? <Loader2 className="animate-spin" /> : <Send />} Kumpulkan
-              </Button>
-            }
-            title="Kumpulkan jawaban?"
-            description={
-              answered < questions.length
-                ? `Masih ada ${questions.length - answered} soal yang belum dijawab. Soal kosong dinilai salah.`
-                : "Semua soal sudah dijawab. Jawaban akan dinilai di server dan tidak dapat diubah lagi."
-            }
-            confirmLabel="Kumpulkan"
-            onConfirm={submit}
-          />
+          submitDialog(
+            <Button disabled={submitting}>
+              {submitting ? <Loader2 className="animate-spin" /> : <Send />} Kumpulkan
+            </Button>,
+          )
         )}
       </div>
 
@@ -273,6 +281,15 @@ function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passT
           );
         })}
       </nav>
+      {index < questions.length - 1 && (
+        <div className="flex justify-end">
+          {submitDialog(
+            <Button variant="outline" size="sm" disabled={submitting}>
+              <Send /> Kumpulkan sekarang
+            </Button>,
+          )}
+        </div>
+      )}
     </div>
   );
 }
@@ -280,7 +297,7 @@ function AssessmentRunner({ attemptId, title, questions, saved, expiresAt, passT
 // ---------------------------------------------------------------------------
 // Practice / review / daily challenge: instant feedback per question
 // ---------------------------------------------------------------------------
-function PracticeRunner({ attemptId, title, questions, saved }: Props) {
+function PracticeRunner({ attemptId, title, questions, saved, savedCorrect = [] }: Props) {
   const router = useRouter();
   const firstOpen = Math.max(
     0,
@@ -331,7 +348,8 @@ function PracticeRunner({ attemptId, title, questions, saved }: Props) {
       router.refresh();
     });
 
-  const correctCount = Object.values(feedback).filter((f) => f.isCorrect).length;
+  // Feedback loaded in this session wins; earlier answers fall back to the server's result.
+  const correctCount = questions.filter((q) => (feedback[q.id] ? feedback[q.id].isCorrect : savedCorrect.includes(q.id))).length;
 
   return (
     <div className="mx-auto max-w-3xl space-y-6">

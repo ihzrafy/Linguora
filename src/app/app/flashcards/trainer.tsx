@@ -21,10 +21,14 @@ function shuffled<T>(items: T[]): T[] {
   return a;
 }
 
+const onClient = () => true;
+
 export function FlashcardTrainer({ deck }: { deck: DeckItem[] }) {
   const [mode, setMode] = useState<Mode>("flip");
   const [seed, setSeed] = useState(0);
-  const items = useMemo(() => shuffled(deck).slice(0, 20), [deck, seed]); // eslint-disable-line react-hooks/exhaustive-deps
+  // Shuffle only in the browser: a server-side shuffle would differ from the client's and break hydration.
+  const hydrated = useBrowserSupport(onClient);
+  const items = useMemo(() => (hydrated ? shuffled(deck) : deck).slice(0, 20), [deck, seed, hydrated]); // eslint-disable-line react-hooks/exhaustive-deps
   const modes: { key: Mode; label: string }[] = [
     { key: "flip", label: "Flip card" },
     { key: "quiz", label: "Pilihan ganda" },
@@ -100,7 +104,8 @@ function Quiz({ items, pool }: { items: DeckItem[]; pool: DeckItem[] }) {
   const [score, setScore] = useState(0);
   const item = items[i];
   const options = useMemo(() => {
-    const others = shuffled(pool.filter((p) => p.meaning !== item?.meaning)).slice(0, 3).map((p) => p.meaning);
+    if (!item) return [];
+    const others = shuffled(pool.filter((p) => p.meaning !== item.meaning)).slice(0, 3).map((p) => p.meaning);
     return shuffled([item.meaning, ...others]);
   }, [item, pool]);
   if (i >= items.length) return <Done score={score} total={items.length} />;

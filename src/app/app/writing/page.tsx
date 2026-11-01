@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowLeft, CheckCircle2, Clock, FilePen, PenLine } from "lucide-react";
+import { redirect } from "next/navigation";
+import { ArrowLeft, CheckCircle2, Clock, FilePen, Lock, PenLine } from "lucide-react";
+import { Alert } from "@/app/app/_components/alert";
 import { Markdown } from "@/components/shared/markdown";
 import { PageHeader } from "@/components/shared/page-header";
 import { EmptyState } from "@/components/shared/states";
@@ -73,6 +75,21 @@ export default async function WritingPage({ searchParams }: { searchParams: Prom
   if (sp.prompt) {
     const { data: p } = await supabase.from("writing_prompts").select("*, levels(code)").eq("slug", sp.prompt).maybeSingle();
     if (p) {
+      const [{ data: unlocked }, { data: draft }] = await Promise.all([
+        supabase.from("user_level_unlocks").select("level_id").eq("user_id", viewer.id).eq("level_id", p.level_id).maybeSingle(),
+        supabase.from("writing_submissions").select("id").eq("user_id", viewer.id).eq("prompt_id", p.id).eq("status", "draft").order("updated_at", { ascending: false }).limit(1).maybeSingle(),
+      ]);
+      if (!unlocked)
+        return (
+          <div className="mx-auto max-w-3xl space-y-6">
+            <Back />
+            <Alert tone="warning" icon={Lock} title="Prompt ini ada di level yang belum terbuka">
+              Lulus ujian level sebelumnya atau ikuti placement test untuk membuka level {(p.levels as { code: string }).code}.
+            </Alert>
+          </div>
+        );
+      // Continue the existing draft instead of starting a second one.
+      if (draft) redirect(`/app/writing?submission=${draft.id}`);
       return (
         <div className="mx-auto max-w-3xl space-y-6">
           <Back />

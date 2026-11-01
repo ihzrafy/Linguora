@@ -8,6 +8,7 @@ import { publicEnv } from "@/lib/env";
 import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
 import { forgotSchema, loginSchema, registerSchema, resetSchema } from "@/lib/validation";
+import { safeRedirectPath } from "@/lib/utils";
 
 /** Determine current request origin (e.g. production domain on Vercel). */
 async function getSiteOrigin() {
@@ -23,9 +24,7 @@ async function getSiteOrigin() {
 }
 
 /** Only allow redirects to internal paths. */
-function safeNext(next: unknown, fallback = "/app/dashboard") {
-  return typeof next === "string" && next.startsWith("/") && !next.startsWith("//") ? next : fallback;
-}
+const safeNext = (next: unknown) => safeRedirectPath(next);
 
 export async function loginAction(input: unknown, next?: string): Promise<ActionResult<{ redirectTo: string }>> {
   return runAction(async () => {

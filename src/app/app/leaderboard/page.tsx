@@ -34,12 +34,12 @@ export default async function LeaderboardPage({ searchParams }: { searchParams: 
 
   return (
     <div className="space-y-6">
-      <PageHeader eyebrow="Gamifikasi" title="Leaderboard" description="Peringkat berdasarkan XP. Hanya pengguna yang memilih tampil (opt-in) yang muncul, dan hanya username serta XP yang ditampilkan." />
+      <PageHeader eyebrow="Gamifikasi" title="Leaderboard" description="Peringkat berdasarkan XP. Hanya pengguna yang memilih tampil (opt-in) yang muncul, dan yang ditampilkan hanya nama tampilan, username, serta XP." />
       {!viewer.profile.leaderboard_opt_in && (
         <Alert icon={EyeOff} title="Kamu belum tampil di leaderboard">
           Aktifkan di{" "}
           <Link href="/app/settings" className="text-primary underline">
-            Pengaturan → Privasi
+            Pengaturan → Belajar & privasi
           </Link>{" "}
           jika ingin ikut bersaing.
         </Alert>

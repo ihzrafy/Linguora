@@ -143,6 +143,27 @@ describe("gradeResponse", () => {
     expect(gradeResponse(q.gradable, { pairs: swapped }).score).toBe(0.5);
   });
 
+  it("reports matching parts in displayed row order even if the stored key order differs", () => {
+    const q = prep({
+      id: "g-7b",
+      type: "matching",
+      prompt: "p",
+      pairs: [
+        { left: "one", right: "satu" },
+        { left: "two", right: "dua" },
+        { left: "three", right: "tiga" },
+      ],
+    });
+    if (q.answerKey.kind !== "matching" || q.data.kind !== "matching") throw new Error("kind");
+    // jsonb may return the key's object entries in any order.
+    const reversedKey = { ...q.answerKey, pairs: Object.fromEntries(Object.entries(q.answerKey.pairs).reverse()) };
+    const rows = q.data.left;
+    // Only the last displayed row is answered correctly.
+    const last = rows[rows.length - 1].id;
+    const result = gradeResponse({ ...q.gradable, answerKey: reversedKey }, { pairs: { [last]: q.answerKey.pairs[last] } });
+    expect(result.parts).toEqual(rows.map((r) => r.id === last));
+  });
+
   it("grades error identification", () => {
     const q = prep({ id: "g-8", type: "error_identification", prompt: "p", segments: ["She", "go", "to school", "every day."], errorIndex: 1, correction: "goes" });
     if (q.data.kind !== "segments") throw new Error("kind");
