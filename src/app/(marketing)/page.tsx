@@ -1,24 +1,9 @@
 import Link from "next/link";
-import {
-  ArrowRight,
-  BarChart3,
-  BookOpenCheck,
-  Brain,
-  CheckCircle2,
-  Flame,
-  Headphones,
-  Layers,
-  Lock,
-  Mic,
-  PenLine,
-  Route,
-  ShieldCheck,
-  Target,
-} from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Lock } from "lucide-react";
+import { Mark, PillLink, SectionLabel } from "@/components/marketing/editorial";
 import { loadClientQuestions } from "@/lib/learning/questions-server";
 import { createPublicClient } from "@/lib/supabase/public";
+import { cn } from "@/lib/utils";
 import { FaqList, FAQS } from "./faq-data";
 import { HeroMotion } from "./hero-motion";
 import { SpecimenPlay } from "./hero-specimen";
@@ -26,24 +11,29 @@ import { sampleQuestionIds } from "./sample-actions";
 import { SampleExercises } from "./sample-exercises";
 
 const FEATURES = [
-  { icon: Route, title: "Learning path terkunci & terarah", text: "Unit dan lesson terbuka sesuai prasyarat. Aturan progresi dijalankan di server, bukan sekadar disembunyikan di tampilan." },
-  { icon: BookOpenCheck, title: "Bank soal 20 tipe", text: "Pilihan ganda, isian, drag & drop, urutkan kata, matching, error identification, translation, dikte, hingga speaking." },
-  { icon: ShieldCheck, title: "Penilaian di server", text: "Kunci jawaban tidak pernah dikirim ke browser sebelum kamu menjawab. Skor, XP, dan kelulusan dihitung di server." },
-  { icon: Brain, title: "Latihan adaptif & spaced repetition", text: "Topik yang sering salah mendapat porsi lebih besar; materi yang mulai terlupa dijadwalkan ulang (SM-2)." },
-  { icon: Headphones, title: "Empat keterampilan", text: "Reading, listening, speaking, dan writing lab dengan materi sesuai level dan rubrik penilaian yang jelas." },
-  { icon: Flame, title: "Gamifikasi yang adil", text: "XP, streak berbasis zona waktu, achievement, daily challenge, dan leaderboard opt-in — dengan perlindungan dari manipulasi." },
+  { title: "Learning path terkunci & terarah", text: "Unit dan lesson terbuka sesuai prasyarat. Aturan progresi dijalankan di server, bukan sekadar disembunyikan di tampilan." },
+  { title: "Bank soal 20 tipe", text: "Pilihan ganda, isian, drag & drop, urutkan kata, matching, error identification, translation, dikte, hingga speaking." },
+  { title: "Penilaian di server", text: "Kunci jawaban tidak pernah dikirim ke browser sebelum kamu menjawab. Skor, XP, dan kelulusan dihitung di server." },
+  { title: "Latihan adaptif & spaced repetition", text: "Topik yang sering salah mendapat porsi lebih besar; materi yang mulai terlupa dijadwalkan ulang (SM-2)." },
+  { title: "Empat keterampilan", text: "Reading, listening, speaking, dan writing lab dengan materi sesuai level dan rubrik penilaian yang jelas." },
+  { title: "Gamifikasi yang adil", text: "XP, streak berbasis zona waktu, achievement, daily challenge, dan leaderboard opt-in — dengan perlindungan dari manipulasi." },
 ];
 
-const SKILLS = [
-  { icon: Layers, label: "Vocabulary & flashcards" },
-  { icon: BookOpenCheck, label: "Grammar reference" },
-  { icon: Headphones, label: "Listening lab" },
-  { icon: Mic, label: "Speaking lab" },
-  { icon: PenLine, label: "Writing lab" },
-  { icon: BarChart3, label: "Analytics" },
-];
+const SKILLS = ["Vocabulary & flashcards", "Grammar reference", "Listening lab", "Speaking lab", "Writing lab", "Analytics"];
 
-export default async function HomePage() {
+/** One masked line of a display heading; HeroMotion slides `[data-line]` up into view. */
+function Line({ children, className }: { children: React.ReactNode; className?: string }) {
+  return (
+    <span className={cn("-mx-[0.08em] -mb-[0.12em] block overflow-hidden px-[0.08em] pb-[0.12em]", className)}>
+      <span data-line className="block">
+        {children}
+      </span>
+    </span>
+  );
+}
+
+export default async function HomePage({ searchParams }: { searchParams: Promise<{ accountDeleted?: string }> }) {
+  const { accountDeleted } = await searchParams;
   const supabase = createPublicClient();
   const [{ data: stats }, { data: levels }, sampleIds] = await Promise.all([
     supabase.rpc("public_platform_stats"),
@@ -53,165 +43,215 @@ export default async function HomePage() {
   const samples = await loadClientQuestions(sampleIds);
   const s = (stats ?? {}) as Record<string, number>;
   const statItems = [
-    { value: s.levels, label: "level CEFR" },
-    { value: s.lessons, label: "lesson terbit" },
-    { value: s.questions, label: "soal di bank soal" },
-    { value: s.vocabulary, label: "entri kosakata" },
+    { value: s.levels, label: "Level CEFR" },
+    { value: s.lessons, label: "Lesson terbit" },
+    { value: s.questions, label: "Soal di bank soal" },
+    { value: s.vocabulary, label: "Entri kosakata" },
   ].filter((x) => typeof x.value === "number");
+  const levelList = levels ?? [];
 
   return (
     <>
+      {accountDeleted && (
+        <div role="status" className="border-b bg-secondary">
+          <p className="container-site py-3 text-sm">Akunmu dan seluruh data belajarmu telah dihapus. Terima kasih sudah belajar bersama Linguora.</p>
+        </div>
+      )}
       {/* Hero */}
-      <section className="border-b">
-        <HeroMotion className="mx-auto grid max-w-7xl items-center gap-16 px-4 pt-16 pb-16 sm:px-6 md:pt-24 lg:grid-cols-[1.15fr_1fr] lg:gap-20 lg:px-8 lg:pb-24">
-          <div>
-            <p data-hero className="flex items-center gap-3 text-xs font-medium tracking-[0.2em] text-muted-foreground uppercase">
-              <span className="h-px w-8 bg-foreground/30" aria-hidden />
-              Kurikulum bahasa Inggris · A1–C2
-            </p>
-            <h1 data-hero className="mt-7 font-display text-[clamp(3rem,6.4vw,5.5rem)] leading-[1] tracking-[-0.015em] text-balance">
-              Bahasa Inggris,
-              <br />
-              <em className="text-primary dark:text-brand-lavender">selangkah demi selangkah.</em>
-            </h1>
-            <p data-hero className="mt-7 max-w-lg text-lg leading-relaxed text-muted-foreground">
-              Jalur belajar yang tersusun rapi dari pemula hingga mahir — latihan yang dinilai dengan teliti, pembahasan dalam bahasa Indonesia, dan pengulangan di waktu yang tepat.
-            </p>
-            <div data-hero className="mt-9 flex flex-wrap items-center gap-x-7 gap-y-4">
-              <Button asChild size="lg" className="h-12 rounded-full px-7 text-[0.95rem]">
-                <Link href="/register">Mulai belajar gratis</Link>
-              </Button>
-              <Link href="/placement-test" className="group inline-flex items-center gap-2 text-[0.95rem] font-medium underline-offset-4 hover:underline">
-                Cek level kamu
-                <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5" aria-hidden />
-              </Link>
-            </div>
-
-            {/* Real platform statistics */}
-            {statItems.length > 0 && (
-              <div data-hero className="mt-14 max-w-lg border-t pt-6">
-                <dl aria-label="Statistik platform" className="grid grid-cols-2 gap-x-8 gap-y-5 sm:grid-cols-4">
-                  {statItems.map((x) => (
-                    <div key={x.label}>
-                      <dt className="sr-only">{x.label}</dt>
-                      <dd className="font-display text-3xl tabular-nums">{Number(x.value).toLocaleString("id-ID")}</dd>
-                      <dd aria-hidden className="mt-0.5 text-xs text-muted-foreground">{x.label}</dd>
-                    </div>
-                  ))}
-                </dl>
-                <p className="mt-5 text-[0.7rem] text-muted-foreground/80">Dihitung langsung dari database konten Linguora.</p>
-              </div>
-            )}
+      <section aria-labelledby="hero-title" className="pt-10 pb-20 md:pt-14 md:pb-28">
+        <HeroMotion className="container-site">
+          <div data-hero className="flex flex-wrap items-center justify-between gap-x-6 gap-y-2 border-b pb-5">
+            <SectionLabel>Kurikulum bahasa Inggris · CEFR A1–C2</SectionLabel>
+            <p className="hidden font-display text-base font-medium tracking-[-0.01em] md:block">Dari menyapa sampai menulis esai.</p>
           </div>
 
-          <HeroSpecimen levels={(levels ?? []).map((l) => ({ code: l.code, name: l.name }))} />
+          <h1 id="hero-title" className="type-hero mt-10 md:mt-14">
+            <Line>Bahasa Inggris,</Line>
+            <Line className="md:pl-[11%]">selangkah demi</Line>
+            <Line>
+              <Mark>selangkah.</Mark>
+            </Line>
+          </h1>
+
+          <div className="mt-14 grid items-start gap-14 md:mt-20 lg:grid-cols-12 lg:gap-8">
+            <div className="lg:col-span-4 lg:pt-6">
+              <p data-hero className="type-lead max-w-[38ch] text-foreground/80">
+                Jalur belajar yang tersusun rapi dari pemula hingga mahir — latihan yang dinilai teliti, pembahasan dalam bahasa Indonesia, dan pengulangan di waktu yang tepat.
+              </p>
+              <div data-hero className="mt-9 flex flex-wrap gap-3">
+                <PillLink href="/register" variant="lime" size="lg">
+                  Mulai belajar gratis
+                </PillLink>
+                <PillLink href="/placement-test" variant="outline" size="lg">
+                  Cek level kamu
+                </PillLink>
+              </div>
+            </div>
+            <div data-hero className="lg:col-span-8">
+              <HeroVisual levels={levelList.map((l) => l.code)} />
+            </div>
+          </div>
         </HeroMotion>
       </section>
 
-      {/* Learning path */}
-      <section className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
-        <div className="max-w-2xl">
-          <p className="text-sm font-semibold text-primary dark:text-brand-lavender">Learning path</p>
-          <h2 className="text-title mt-2 font-bold">Enam level, satu jalur yang berkesinambungan</h2>
-          <p className="mt-3 text-muted-foreground">Setiap level berisi 10 unit, 50 lesson, unit assessment, dan ujian level. Level berikutnya terbuka setelah kamu lulus ujian.</p>
-        </div>
-        <ol className="mt-10 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {(levels ?? []).map((l, i) => (
-            <li key={l.code} className="relative rounded-2xl border bg-card p-5">
-              <div className="flex items-center gap-3">
-                <span className={`flex size-11 items-center justify-center rounded-xl font-bold ${i === 0 ? "bg-primary text-primary-foreground" : "bg-accent text-accent-foreground"}`}>{l.code}</span>
-                <div>
-                  <p className="font-semibold">{l.name}</p>
-                  <p className="text-xs text-muted-foreground">{l.name_id}</p>
+      {/* Real platform statistics */}
+      {statItems.length > 0 && (
+        <section aria-label="Statistik platform" className="border-y">
+          <div className="container-site grid gap-y-8 py-10 md:py-12 lg:grid-cols-12 lg:items-end">
+            <div className="lg:col-span-3">
+              <SectionLabel>Isi Linguora hari ini</SectionLabel>
+              <p className="mt-3 text-sm text-muted-foreground">Dihitung langsung dari database konten.</p>
+            </div>
+            <dl className="grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-4 lg:col-span-9">
+              {statItems.map((x) => (
+                <div key={x.label} className="flex flex-col-reverse gap-2 border-l pl-5">
+                  <dt className="type-eyebrow text-muted-foreground">{x.label}</dt>
+                  <dd className="font-display text-[clamp(2.25rem,1.4rem+2.4vw,3.75rem)] leading-none font-semibold tracking-[-0.04em] tabular-nums">
+                    {Number(x.value).toLocaleString("id-ID")}
+                  </dd>
                 </div>
-                {i > 0 && <Lock className="ml-auto size-4 text-muted-foreground" aria-label="Terbuka setelah lulus level sebelumnya" />}
-              </div>
-              <p className="mt-3 text-sm text-muted-foreground">{l.description}</p>
-            </li>
-          ))}
-        </ol>
-        <Button asChild variant="link" className="mt-4 px-0">
-          <Link href="/curriculum">
-            Lihat kurikulum lengkap <ArrowRight />
-          </Link>
-        </Button>
+              ))}
+            </dl>
+          </div>
+        </section>
+      )}
+
+      {/* Learning path */}
+      <section className="section-y">
+        <div className="container-site">
+          <div className="grid gap-8 lg:grid-cols-12 lg:items-end">
+            <div className="lg:col-span-7">
+              <SectionLabel index="01">Learning path</SectionLabel>
+              <h2 className="type-h2 mt-6">
+                Enam level.
+                <br />
+                <Mark>Satu jalur.</Mark>
+              </h2>
+            </div>
+            <p className="type-lead text-muted-foreground lg:col-span-4 lg:col-start-9">
+              Setiap level berisi 10 unit, 50 lesson, unit assessment, dan ujian level. Level berikutnya terbuka setelah kamu lulus ujian.
+            </p>
+          </div>
+
+          <ol className="mt-14 border-t md:mt-20">
+            {levelList.map((l, i) => (
+              <li key={l.code} className="grid grid-cols-[4.5rem_1fr_auto] items-baseline gap-x-5 gap-y-2 border-b py-7 md:grid-cols-12 md:items-center md:gap-x-8 md:py-9">
+                <span className="font-display text-4xl font-semibold tracking-[-0.04em] md:col-span-2 md:text-6xl">{l.code}</span>
+                <div className="md:col-span-4">
+                  <p className="font-display text-xl font-medium tracking-[-0.02em] md:text-2xl">{l.name}</p>
+                  <p className="mt-1 text-sm text-muted-foreground">{l.name_id}</p>
+                </div>
+                <span className="justify-self-end md:order-last md:col-span-1">
+                  {i === 0 ? (
+                    <span className="type-eyebrow rounded-full bg-lime px-3 py-1.5 text-lime-ink">Mulai</span>
+                  ) : (
+                    <Lock className="size-4 text-muted-foreground" aria-label="Terbuka setelah lulus level sebelumnya" />
+                  )}
+                </span>
+                <p className="col-span-full text-muted-foreground md:col-span-5">{l.description}</p>
+              </li>
+            ))}
+          </ol>
+          <PillLink href="/curriculum" variant="outline" className="mt-10">
+            Lihat kurikulum lengkap
+          </PillLink>
+        </div>
       </section>
 
       {/* Features */}
-      <section className="border-y bg-muted/30">
-        <div className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
-          <div className="max-w-2xl">
-            <p className="text-sm font-semibold text-primary dark:text-brand-lavender">Fitur unggulan</p>
-            <h2 className="text-title mt-2 font-bold">Dibangun untuk belajar yang terukur</h2>
+      <section className="section-y bg-ink text-ink-foreground">
+        <div className="container-site grid gap-14 lg:grid-cols-12 lg:gap-8">
+          <div className="self-start lg:sticky lg:top-28 lg:col-span-5">
+            <SectionLabel index="02" tone="ink">
+              Fitur
+            </SectionLabel>
+            <h2 className="type-h2 mt-6">
+              Dibangun untuk belajar yang <Mark variant="text">terukur.</Mark>
+            </h2>
+            <p className="type-lead mt-6 max-w-md text-ink-muted">Bukan sekadar kumpulan materi — setiap jawaban dinilai, setiap kemajuan tercatat.</p>
+            <ul className="mt-8 flex max-w-md flex-wrap gap-2" aria-label="Modul belajar">
+              {SKILLS.map((label) => (
+                <li key={label} className="rounded-full border border-ink-line px-3 py-1.5 font-mono text-xs text-ink-foreground/85">
+                  {label}
+                </li>
+              ))}
+            </ul>
           </div>
-          <div className="mt-10 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {FEATURES.map(({ icon: Icon, title, text }) => (
-              <Card key={title}>
-                <CardContent className="space-y-3">
-                  <div className="w-fit rounded-xl bg-primary/10 p-2.5 text-primary dark:text-brand-lavender">
-                    <Icon className="size-5" aria-hidden />
-                  </div>
-                  <p className="font-semibold">{title}</p>
-                  <p className="text-sm text-muted-foreground">{text}</p>
-                </CardContent>
-              </Card>
+          <ol className="border-t border-ink-line lg:col-span-6 lg:col-start-7">
+            {FEATURES.map(({ title, text }, i) => (
+              <li key={title} className="grid grid-cols-[3rem_1fr] gap-x-4 border-b border-ink-line py-8 md:py-10">
+                <span className="pt-1.5 font-mono text-xs text-ink-muted">{String(i + 1).padStart(2, "0")}</span>
+                <div>
+                  <h3 className="type-h3">{title}</h3>
+                  <p className="mt-3 max-w-lg text-ink-muted">{text}</p>
+                </div>
+              </li>
             ))}
-          </div>
-          <div className="mt-8 flex flex-wrap gap-2">
-            {SKILLS.map(({ icon: Icon, label }) => (
-              <span key={label} className="inline-flex items-center gap-2 rounded-full border bg-card px-3 py-1.5 text-sm">
-                <Icon className="size-4 text-primary" aria-hidden /> {label}
-              </span>
-            ))}
-          </div>
+          </ol>
         </div>
       </section>
 
       {/* Sample exercises */}
       {samples.length > 0 && (
-        <section className="mx-auto grid max-w-7xl gap-10 px-4 py-20 sm:px-6 lg:grid-cols-[1fr_1.2fr] lg:px-8">
-          <div>
-            <p className="text-sm font-semibold text-primary dark:text-brand-lavender">Coba sekarang</p>
-            <h2 className="text-title mt-2 font-bold">Contoh latihan dari Unit 1 level A1</h2>
-            <p className="mt-3 text-muted-foreground">Jawab soal berikut tanpa mendaftar. Pembahasan muncul setelah kamu menjawab — persis seperti latihan terpandu di dalam lesson.</p>
-            <ul className="mt-6 space-y-2 text-sm">
-              {["Feedback instan dengan pembahasan", "Jawaban alternatif yang valid diterima", "Partial credit untuk soal bertingkat"].map((t) => (
-                <li key={t} className="flex items-center gap-2">
-                  <CheckCircle2 className="size-4 text-success" /> {t}
-                </li>
-              ))}
-            </ul>
+        <section className="section-y">
+          <div className="container-site grid gap-14 lg:grid-cols-12 lg:gap-8">
+            <div className="lg:col-span-5">
+              <SectionLabel index="03">Coba sekarang</SectionLabel>
+              <h2 className="type-h2 mt-6">
+                Jawab dulu,
+                <br />
+                <Mark>daftar nanti.</Mark>
+              </h2>
+              <p className="type-lead mt-6 max-w-md text-muted-foreground">
+                Contoh latihan dari Unit 1 level A1. Pembahasan muncul setelah kamu menjawab — persis seperti latihan terpandu di dalam lesson.
+              </p>
+              <ul className="mt-8 space-y-3">
+                {["Feedback instan dengan pembahasan", "Jawaban alternatif yang valid diterima", "Partial credit untuk soal bertingkat"].map((t) => (
+                  <li key={t} className="flex items-center gap-3">
+                    <span aria-hidden className="size-1.5 shrink-0 bg-lime ring-1 ring-foreground/15" /> {t}
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="lg:col-span-6 lg:col-start-7">
+              <SampleExercises questions={samples} />
+            </div>
           </div>
-          <SampleExercises questions={samples} />
         </section>
       )}
 
       {/* FAQ */}
-      <section className="border-t bg-muted/30">
-        <div className="mx-auto max-w-3xl px-4 py-20 sm:px-6">
-          <h2 className="text-title text-center font-bold">Pertanyaan umum</h2>
-          <FaqList items={FAQS.slice(0, 5)} className="mt-8" />
-          <p className="mt-6 text-center text-sm">
-            <Link href="/faq" className="font-medium text-primary hover:underline">
+      <section className="section-y border-t">
+        <div className="container-site grid gap-12 lg:grid-cols-12 lg:gap-8">
+          <div className="lg:col-span-4">
+            <SectionLabel index="04">FAQ</SectionLabel>
+            <h2 className="type-h2 mt-6">
+              Pertanyaan
+              <br />
+              umum.
+            </h2>
+            <Link href="/faq" className="mt-8 inline-block border-b border-foreground/30 pb-0.5 font-medium transition-colors hover:border-foreground">
               Lihat semua FAQ
             </Link>
-          </p>
+          </div>
+          <FaqList items={FAQS.slice(0, 5)} className="lg:col-span-7 lg:col-start-6" />
         </div>
       </section>
 
       {/* CTA */}
-      <section className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
-        <div className="relative overflow-hidden rounded-3xl bg-primary px-6 py-14 text-center text-primary-foreground md:px-12">
-          <div className="bg-grid absolute inset-0 opacity-15" aria-hidden />
-          <div className="relative mx-auto max-w-2xl space-y-5">
-            <Target className="mx-auto size-10" aria-hidden />
-            <h2 className="text-3xl font-bold md:text-4xl">Mulai dari level yang tepat hari ini</h2>
-            <p className="text-primary-foreground/80">Daftar gratis, ikuti placement test, dan dapatkan rekomendasi level serta learning track sesuai tujuanmu.</p>
-            <Button asChild size="lg" variant="secondary" className="h-11 px-6">
-              <Link href="/register">
-                Buat akun gratis <ArrowRight />
-              </Link>
-            </Button>
+      <section className="section-y border-t">
+        <div className="container-site">
+          <SectionLabel index="05">Mulai</SectionLabel>
+          <div className="mt-6 grid items-end gap-10 lg:grid-cols-12 lg:gap-8">
+            <h2 className="type-hero lg:col-span-8">
+              Mulai dari level yang <Mark>tepat.</Mark>
+            </h2>
+            <div className="lg:col-span-4">
+              <p className="type-lead text-muted-foreground">Daftar gratis, ikuti placement test, dan dapatkan rekomendasi level serta learning track sesuai tujuanmu.</p>
+              <PillLink href="/register" variant="lime" size="lg" className="mt-8">
+                Buat akun gratis
+              </PillLink>
+            </div>
           </div>
         </div>
       </section>
@@ -219,41 +259,51 @@ export default async function HomePage() {
   );
 }
 
-/** A quiet "specimen" of a first lesson, plus the six-step level staircase. */
-function HeroSpecimen({ levels }: { levels: { code: string; name: string }[] }) {
+/** Hero composition: a first-lesson specimen and the CEFR staircase on a quiet gridded panel. */
+function HeroVisual({ levels }: { levels: string[] }) {
   const text = "Where are you from?";
   return (
-    <figure data-hero className="relative mx-auto w-full max-w-md lg:mr-0">
-      <div className="rounded-[1.75rem] border bg-card p-8 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_24px_48px_-24px_rgb(0_0_0/0.18)] sm:p-10">
-        <div className="flex items-baseline justify-between text-xs text-muted-foreground">
-          <span className="tracking-[0.2em] uppercase">Lesson 1</span>
-          <span>A1 · Greetings</span>
-        </div>
-        <blockquote className="mt-10 font-display text-[2.15rem] leading-[1.1] sm:text-[2.6rem]">&ldquo;{text}&rdquo;</blockquote>
-        <p className="mt-3 font-[family-name:Charis_SIL,Doulos_SIL,Segoe_UI,Lucida_Grande,Arial_Unicode_MS,sans-serif] text-[0.95rem] tracking-wide text-muted-foreground">/weər ɑː juː frɒm/</p>
-        <p className="mt-6 border-l-2 border-primary/40 pl-4 text-[0.95rem] italic text-muted-foreground dark:border-brand-lavender/50">Kamu berasal dari mana?</p>
-        <div className="mt-10">
-          <SpecimenPlay text={text} />
-        </div>
-      </div>
+    <div
+      className="relative overflow-hidden rounded-[1.75rem] border bg-secondary p-5 sm:p-8 lg:p-10"
+      style={{
+        backgroundImage: "linear-gradient(var(--border) 1px, transparent 1px), linear-gradient(90deg, var(--border) 1px, transparent 1px)",
+        backgroundSize: "44px 44px",
+      }}
+    >
+      <div aria-hidden className="absolute -top-28 -right-24 size-80 rounded-full bg-lime" />
+      <p className="relative inline-flex items-center gap-2 rounded-full bg-ink px-3 py-1.5 text-xs font-medium text-ink-foreground">
+        <span aria-hidden className="size-1.5 rounded-full bg-lime" /> Contoh pelajaran pertama
+      </p>
 
-      {levels.length > 0 && (
-        <figcaption className="mt-10 px-2">
-          <ol aria-label="Enam level CEFR" className="flex items-end gap-2">
-            {levels.map((l, i) => (
-              <li key={l.code} className="flex flex-1 flex-col items-center gap-2" title={l.name}>
-                <span
-                  aria-hidden
-                  className={i === 0 ? "w-full rounded-t-md bg-primary dark:bg-brand-lavender" : "w-full rounded-t-md bg-foreground/[0.07]"}
-                  style={{ height: `${12 + i * 8}px` }}
-                />
-                <span className={i === 0 ? "text-xs font-semibold text-foreground" : "text-xs text-muted-foreground"}>{l.code}</span>
-              </li>
-            ))}
-          </ol>
-          <p className="mt-4 text-center text-xs text-muted-foreground">Enam level, satu jalur — mulai dari mana pun level kamu sekarang.</p>
-        </figcaption>
-      )}
-    </figure>
+      <div className="relative mt-6 grid gap-5 sm:mt-10 sm:grid-cols-[1.35fr_1fr] sm:items-end">
+        <figure className="rounded-2xl border bg-card p-6 shadow-[0_24px_48px_-28px_rgb(0_0_0/0.35)] sm:-rotate-1 sm:p-8">
+          <div className="type-eyebrow flex justify-between text-muted-foreground">
+            <span>Lesson 1</span>
+            <span>A1 · Greetings</span>
+          </div>
+          <blockquote className="mt-8 font-display text-[clamp(1.9rem,1.3rem+1.6vw,2.6rem)] leading-[1.05] font-medium tracking-[-0.035em]">&ldquo;{text}&rdquo;</blockquote>
+          <p className="mt-3 font-[family-name:Charis_SIL,Doulos_SIL,Segoe_UI,Lucida_Grande,Arial_Unicode_MS,sans-serif] tracking-wide text-muted-foreground">/weər ɑː juː frɒm/</p>
+          <figcaption className="mt-5 border-l-2 border-lime pl-4 text-muted-foreground">Kamu berasal dari mana?</figcaption>
+          <div className="mt-8">
+            <SpecimenPlay text={text} />
+          </div>
+        </figure>
+
+        {levels.length > 0 && (
+          <div className="rounded-2xl bg-ink p-6 text-ink-foreground sm:rotate-2">
+            <p className="type-eyebrow text-ink-muted">Jalur CEFR</p>
+            <ol aria-label="Enam level CEFR" className="mt-6 flex items-end gap-1.5">
+              {levels.map((code, i) => (
+                <li key={code} className="flex flex-1 flex-col items-center gap-2">
+                  <span aria-hidden className={cn("w-full rounded-t-[4px]", i === 0 ? "bg-lime" : "bg-white/12")} style={{ height: `${16 + i * 11}px` }} />
+                  <span className={cn("font-mono text-[0.7rem]", i === 0 ? "text-lime" : "text-ink-muted")}>{code}</span>
+                </li>
+              ))}
+            </ol>
+            <p className="mt-5 text-sm text-ink-muted">Mulai dari level mana pun — placement test menentukan titik awalmu.</p>
+          </div>
+        )}
+      </div>
+    </div>
   );
 }

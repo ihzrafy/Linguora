@@ -15,12 +15,12 @@ export function MarketingMobileNav({ items }: { items: { href: string; label: st
           <Menu className="size-5" />
         </Button>
       </SheetTrigger>
-      <SheetContent side="right" className="w-72">
+      <SheetContent side="right" className="theme-editorial w-72 bg-background text-foreground">
         <SheetHeader>
           <SheetTitle>Menu</SheetTitle>
         </SheetHeader>
         <nav className="flex flex-col gap-1 px-4" aria-label="Navigasi situs">
-          {[...items, { href: "/about", label: "Tentang" }, { href: "/faq", label: "FAQ" }, { href: "/contact", label: "Kontak" }, { href: "/login", label: "Masuk" }].map((n) => (
+          {[...items, { href: "/about", label: "Tentang" }, { href: "/faq", label: "FAQ" }, { href: "/contact", label: "Kontak" }, { href: "/login", label: "Masuk" }, { href: "/register", label: "Daftar gratis" }].map((n) => (
             <Link key={n.href} href={n.href} onClick={() => setOpen(false)} className="rounded-lg px-3 py-2.5 text-sm font-medium hover:bg-muted">
               {n.label}
             </Link>

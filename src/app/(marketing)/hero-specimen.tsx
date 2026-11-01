@@ -28,8 +28,8 @@ export function SpecimenPlay({ text }: { text: string }) {
     >
       <span
         className={cn(
-          "flex size-10 items-center justify-center rounded-full border transition-colors group-hover:border-primary group-hover:text-primary",
-          playing && "border-primary bg-primary text-primary-foreground group-hover:text-primary-foreground",
+          "flex size-11 items-center justify-center rounded-full bg-foreground text-background transition-transform duration-300 group-hover:scale-105",
+          playing && "bg-lime text-lime-ink",
         )}
       >
         {playing ? <Pause className="size-4" /> : <Play className="ml-0.5 size-4" />}

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Logo } from "@/components/shared/logo";
 import { ThemeToggle } from "@/components/shared/theme-toggle";
-import { Button } from "@/components/ui/button";
+import { PillLink, SectionLabel } from "@/components/marketing/editorial";
 import { getAuthUser } from "@/lib/auth";
 import { MarketingMobileNav } from "./mobile-nav";
 
@@ -23,31 +23,31 @@ const FOOTER = [
 export default async function MarketingLayout({ children }: { children: React.ReactNode }) {
   const user = await getAuthUser();
   return (
-    <div className="flex min-h-dvh flex-col">
-      <header className="sticky top-0 z-40 border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/65">
-        <div className="mx-auto flex h-16 max-w-7xl items-center gap-6 px-4 sm:px-6 lg:px-8">
-          <Logo />
-          <nav aria-label="Navigasi situs" className="hidden flex-1 items-center gap-1 lg:flex">
+    <div className="theme-editorial flex min-h-dvh flex-col bg-background text-foreground">
+      <header className="sticky top-0 z-40 border-b bg-background/90 supports-[backdrop-filter]:bg-background/80 supports-[backdrop-filter]:backdrop-blur-md">
+        <div className="container-site flex h-[4.5rem] items-center gap-6">
+          <Logo tone="editorial" />
+          <nav aria-label="Navigasi situs" className="hidden flex-1 items-center justify-center gap-7 lg:flex">
             {NAV.map((n) => (
-              <Link key={n.href} href={n.href} className="rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground transition hover:bg-muted hover:text-foreground">
+              <Link key={n.href} href={n.href} className="text-[0.95rem] text-muted-foreground transition-colors hover:text-foreground">
                 {n.label}
               </Link>
             ))}
           </nav>
-          <div className="ml-auto flex items-center gap-2">
+          <div className="ml-auto flex items-center gap-2 sm:gap-4 lg:ml-0">
             <ThemeToggle />
             {user ? (
-              <Button asChild>
-                <Link href="/app/dashboard">Buka aplikasi</Link>
-              </Button>
+              <PillLink href="/app/dashboard" className="hidden sm:inline-flex">
+                Buka aplikasi
+              </PillLink>
             ) : (
               <>
-                <Button asChild variant="ghost" className="hidden sm:inline-flex">
-                  <Link href="/login">Masuk</Link>
-                </Button>
-                <Button asChild>
-                  <Link href="/register">Daftar gratis</Link>
-                </Button>
+                <Link href="/login" className="hidden text-[0.95rem] font-medium sm:inline">
+                  Masuk
+                </Link>
+                <PillLink href="/register" className="hidden sm:inline-flex">
+                  Daftar gratis
+                </PillLink>
               </>
             )}
             <MarketingMobileNav items={NAV} />
@@ -57,29 +57,43 @@ export default async function MarketingLayout({ children }: { children: React.Re
       <main id="main" className="flex-1">
         {children}
       </main>
-      <footer className="border-t bg-muted/30">
-        <div className="mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-[1.5fr_1fr_1fr_1fr] lg:px-8">
-          <div className="space-y-3">
-            <Logo />
-            <p className="max-w-xs text-sm text-muted-foreground">Platform belajar bahasa Inggris terstruktur untuk penutur bahasa Indonesia, dari A1 sampai C2.</p>
-            <p className="text-xs text-muted-foreground">CEFR digunakan sebagai acuan kurikulum. Linguora tidak menerbitkan sertifikasi CEFR resmi.</p>
+      <footer className="bg-ink text-ink-foreground">
+        <div className="container-site grid gap-14 pt-20 pb-12 lg:grid-cols-12">
+          <div className="lg:col-span-5">
+            <SectionLabel tone="ink">Mulai dari sini</SectionLabel>
+            <p className="mt-5 max-w-md font-display text-3xl leading-[1.08] font-semibold tracking-[-0.03em] md:text-4xl">Belajar bahasa Inggris, selangkah demi selangkah.</p>
+            <PillLink href={user ? "/app/dashboard" : "/register"} variant="lime" className="mt-8">
+              {user ? "Buka aplikasi" : "Daftar gratis"}
+            </PillLink>
           </div>
-          {FOOTER.map((col) => (
-            <div key={col.title}>
-              <p className="mb-3 text-sm font-semibold">{col.title}</p>
-              <ul className="space-y-2">
-                {col.links.map((l) => (
-                  <li key={l.href}>
-                    <Link href={l.href} className="text-sm text-muted-foreground hover:text-foreground">
-                      {l.label}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
+          <div className="grid grid-cols-2 gap-10 sm:grid-cols-3 lg:col-span-7">
+            {FOOTER.map((col) => (
+              <div key={col.title}>
+                <p className="type-eyebrow text-ink-muted">{col.title}</p>
+                <ul className="mt-5 space-y-3">
+                  {col.links.map((l) => (
+                    <li key={l.href}>
+                      <Link href={l.href} className="text-[0.95rem] text-ink-foreground/90 transition-colors hover:text-lime">
+                        {l.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
         </div>
-        <div className="border-t py-5 text-center text-xs text-muted-foreground">© {new Date().getFullYear()} Linguora. Semua hak dilindungi.</div>
+        <div className="container-site overflow-hidden" aria-hidden>
+          <p className="pb-[0.06em] font-display text-[clamp(4rem,21.5vw,20rem)] leading-[1] font-semibold tracking-[-0.06em] select-none">
+            Linguora<span className="text-lime">.</span>
+          </p>
+        </div>
+        <div className="container-site">
+          <div className="flex flex-col gap-2 border-t border-ink-line py-6 text-sm text-ink-muted md:flex-row md:justify-between">
+            <p>© {new Date().getFullYear()} Linguora. Semua hak dilindungi.</p>
+            <p>CEFR dipakai sebagai acuan kurikulum — Linguora tidak menerbitkan sertifikasi CEFR resmi.</p>
+          </div>
+        </div>
       </footer>
     </div>
   );
