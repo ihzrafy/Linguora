@@ -13,6 +13,15 @@ export const metadata: Metadata = {
   description:
     "Platform belajar bahasa Inggris terstruktur berbasis CEFR: learning path, bank soal interaktif, placement test, spaced repetition, dan latihan empat keterampilan bahasa.",
   applicationName: "Linguora",
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: [
+      { url: "/apple-icon.svg" },
+    ],
+  },
 };
 
 export const viewport: Viewport = {
