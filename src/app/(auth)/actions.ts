@@ -14,10 +14,29 @@ import { safeRedirectPath } from "@/lib/utils";
 async function getSiteOrigin() {
   const headerList = await headers();
   const origin = headerList.get("origin");
-  if (origin) return origin;
-  const host = headerList.get("host");
-  if (host) {
+  if (origin && !origin.includes("localhost")) return origin;
+
+  const host = headerList.get("x-forwarded-host") || headerList.get("host");
+  if (host && !host.includes("localhost")) {
     const proto = headerList.get("x-forwarded-proto") || "https";
+    return `${proto}://${host}`;
+  }
+
+  // Canonical production URL on Vercel or environment override
+  if (process.env.NEXT_PUBLIC_SITE_URL && !process.env.NEXT_PUBLIC_SITE_URL.includes("localhost")) {
+    return process.env.NEXT_PUBLIC_SITE_URL;
+  }
+  if (process.env.VERCEL_PROJECT_PRODUCTION_URL) {
+    return `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`;
+  }
+  if (process.env.VERCEL_URL) {
+    return `https://${process.env.VERCEL_URL}`;
+  }
+
+  // Fallback for local development
+  if (origin) return origin;
+  if (host) {
+    const proto = headerList.get("x-forwarded-proto") || "http";
     return `${proto}://${host}`;
   }
   return publicEnv.NEXT_PUBLIC_SITE_URL;
