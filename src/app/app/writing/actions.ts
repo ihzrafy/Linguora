@@ -4,7 +4,7 @@ import { revalidatePath } from "next/cache";
 import { z } from "zod";
 import { ActionError, assertViewer } from "@/lib/auth";
 import { rateLimit, runAction } from "@/lib/actions";
-import { aiEnabled, describeProviderError, tutorAnswer } from "@/lib/ai/tutor";
+import { aiEnabled, aiModel, describeProviderError, tutorAnswer } from "@/lib/ai/tutor";
 import { countWords } from "@/lib/questions/normalize";
 import { createAdminClient } from "@/lib/supabase/admin";
 import { createClient } from "@/lib/supabase/server";
@@ -98,7 +98,7 @@ export async function requestAiFeedbackAction(id: string): Promise<{ ok: true; d
     if (answer.refused || !answer.text) throw new ActionError("AI tidak dapat memberikan feedback untuk tulisan ini.");
     await createAdminClient()
       .from("writing_submissions")
-      .update({ ai_feedback: { text: answer.text, model: "ai", created_at: new Date().toISOString() } })
+      .update({ ai_feedback: { text: answer.text, model: aiModel(), created_at: new Date().toISOString() } })
       .eq("id", id)
       .eq("user_id", viewer.id);
     return answer.text;

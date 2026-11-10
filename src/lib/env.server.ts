@@ -3,8 +3,10 @@ import { z } from "zod";
 
 const serverSchema = z.object({
   SUPABASE_SECRET_KEY: z.string().min(20, "SUPABASE_SECRET_KEY is required (see .env.example)"),
+  OPENAI_API_KEY: z.string().optional().transform((v) => (v ? v : undefined)),
   ANTHROPIC_API_KEY: z.string().optional().transform((v) => (v ? v : undefined)),
-  AI_TUTOR_MODEL: z.string().default("claude-opus-5-5"),
+  /** Empty = the provider's default model (see src/lib/ai/tutor.ts). */
+  AI_TUTOR_MODEL: z.string().optional().transform((v) => (v ? v : undefined)),
   AI_TUTOR_DAILY_MESSAGE_LIMIT: z.coerce.number().int().min(1).max(1000).default(30),
   CRON_SECRET: z.string().optional().transform((v) => (v ? v : undefined)),
 });

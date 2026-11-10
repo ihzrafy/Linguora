@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { PageHeader } from "@/components/shared/page-header";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { aiEnabled } from "@/lib/ai/tutor";
+import { aiEnabled, aiModel, aiProvider } from "@/lib/ai/tutor";
 import { requireStaff } from "@/lib/auth";
 import { serverEnv } from "@/lib/env.server";
 import { createClient } from "@/lib/supabase/server";
@@ -18,7 +18,7 @@ export default async function SystemSettingsPage() {
   const env = serverEnv();
   const integrations = [
     { name: "Database & Auth (Supabase)", ok: true, detail: "Terhubung" },
-    { name: "AI tutor (Anthropic)", ok: aiEnabled(), detail: aiEnabled() ? `Aktif · model ${env.AI_TUTOR_MODEL}` : "Belum dikonfigurasi (ANTHROPIC_API_KEY kosong)" },
+    { name: "AI tutor", ok: aiEnabled(), detail: aiEnabled() ? `Aktif · ${aiProvider() === "openai" ? "OpenAI" : "Anthropic"} · model ${aiModel()}` : "Belum dikonfigurasi (OPENAI_API_KEY / ANTHROPIC_API_KEY kosong)" },
     { name: "Cron publikasi terjadwal", ok: Boolean(env.CRON_SECRET), detail: env.CRON_SECRET ? "CRON_SECRET terpasang" : "CRON_SECRET belum diatur" },
     { name: "Email notifikasi / push", ok: false, detail: "Belum ada penyedia — notifikasi hanya in-app" },
     { name: "Pembayaran", ok: false, detail: "Belum ada penyedia pembayaran" },

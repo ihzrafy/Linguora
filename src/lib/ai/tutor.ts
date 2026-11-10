@@ -1,11 +1,12 @@
 import "server-only";
 import Anthropic from "@anthropic-ai/sdk";
+import OpenAI from "openai";
 import { serverEnv } from "@/lib/env.server";
 
 /**
- * AI tutor provider (Anthropic Claude). The feature is optional: everything in
- * Linguora works without it, and it is disabled until ANTHROPIC_API_KEY is set.
- * The key never leaves the server.
+ * AI tutor provider: OpenAI (when OPENAI_API_KEY is set) or Anthropic Claude (ANTHROPIC_API_KEY).
+ * The feature is optional: everything in Linguora works without it, and it stays disabled until a
+ * key is set. Keys never leave the server.
  */
 export type TutorMode = "tutor" | "grammar" | "correction" | "conversation" | "vocabulary" | "writing" | "study_plan";
 
@@ -43,17 +44,41 @@ const MODE_INSTRUCTIONS: Record<TutorMode, string> = {
     "Create a realistic weekly study plan based on the learner's goal, current level and available time. Reference Linguora features (learning path, review queue, labs) instead of external paid products. Keep it to one week template plus milestones.",
 };
 
-let client: Anthropic | null = null;
+export type AiProvider = "openai" | "anthropic";
 
-export function aiEnabled(): boolean {
-  return Boolean(serverEnv().ANTHROPIC_API_KEY);
+const DEFAULT_MODEL: Record<AiProvider, string> = { openai: "gpt-5.4-mini", anthropic: "claude-sonnet-5-5" };
+
+export function aiProvider(): AiProvider | null {
+  const env = serverEnv();
+  if (env.OPENAI_API_KEY) return "openai";
+  if (env.ANTHROPIC_API_KEY) return "anthropic";
+  return null;
 }
 
-function getClient(): Anthropic {
+export function aiEnabled(): boolean {
+  return aiProvider() !== null;
+}
+
+export function aiModel(): string {
+  const provider = aiProvider();
+  return serverEnv().AI_TUTOR_MODEL ?? (provider ? DEFAULT_MODEL[provider] : "");
+}
+
+let anthropicClient: Anthropic | null = null;
+let openaiClient: OpenAI | null = null;
+
+function anthropic(): Anthropic {
   const key = serverEnv().ANTHROPIC_API_KEY;
   if (!key) throw new Error("AI provider is not configured");
-  if (!client) client = new Anthropic({ apiKey: key, maxRetries: 2, timeout: 60_000 });
-  return client;
+  if (!anthropicClient) anthropicClient = new Anthropic({ apiKey: key, maxRetries: 2, timeout: 60_000 });
+  return anthropicClient;
+}
+
+function openai(): OpenAI {
+  const key = serverEnv().OPENAI_API_KEY;
+  if (!key) throw new Error("AI provider is not configured");
+  if (!openaiClient) openaiClient = new OpenAI({ apiKey: key, maxRetries: 2, timeout: 60_000 });
+  return openaiClient;
 }
 
 export function systemPrompt(mode: TutorMode, levelCode: string | null) {
@@ -62,17 +87,49 @@ export function systemPrompt(mode: TutorMode, levelCode: string | null) {
 
 export type TutorTurn = { role: "user" | "assistant"; content: string };
 
+export type TutorStreamResult = { stopReason: "end" | "max_tokens" | "refusal"; inputTokens: number; outputTokens: number };
+
 /** Streams a tutor reply. Yields text deltas; resolves with usage and the final stop reason. */
-export async function* streamTutorReply(params: { mode: TutorMode; levelCode: string | null; history: TutorTurn[] }) {
-  const stream = getClient().beta.messages.stream({
-    model: serverEnv().AI_TUTOR_MODEL,
+export async function* streamTutorReply(params: { mode: TutorMode; levelCode: string | null; history: TutorTurn[] }): AsyncGenerator<string, TutorStreamResult> {
+  const system = systemPrompt(params.mode, params.levelCode);
+  if (aiProvider() === "openai") {
+    const stream = await openai().chat.completions.create({
+      model: aiModel(),
+      stream: true,
+      stream_options: { include_usage: true },
+      max_completion_tokens: 4000,
+      reasoning_effort: "low",
+      messages: [{ role: "system", content: system }, ...params.history.map((t) => ({ role: t.role, content: t.content }))],
+    });
+    let finish: string | null = null;
+    let refused = false;
+    let usage: OpenAI.CompletionUsage | undefined;
+    for await (const chunk of stream) {
+      const choice = chunk.choices[0];
+      if (choice?.delta?.content) yield choice.delta.content;
+      if (choice?.delta?.refusal) {
+        refused = true;
+        yield choice.delta.refusal;
+      }
+      if (choice?.finish_reason) finish = choice.finish_reason;
+      if (chunk.usage) usage = chunk.usage;
+    }
+    return {
+      stopReason: refused || finish === "content_filter" ? "refusal" : finish === "length" ? "max_tokens" : "end",
+      inputTokens: usage?.prompt_tokens ?? 0,
+      outputTokens: usage?.completion_tokens ?? 0,
+    };
+  }
+
+  const stream = anthropic().beta.messages.stream({
+    model: aiModel(),
     max_tokens: 4000,
     // Chat responses do well at low effort; keeps latency and cost down.
     output_config: { effort: "low" },
     // Server-side fallback re-runs a declined request on a suitable model.
     betas: ["server-side-fallback-2026-07-01"],
     fallbacks: "default",
-    system: [{ type: "text", text: systemPrompt(params.mode, params.levelCode), cache_control: { type: "ephemeral" } }],
+    system: [{ type: "text", text: system, cache_control: { type: "ephemeral" } }],
     messages: params.history.map((t) => ({ role: t.role, content: t.content })),
   });
   for await (const event of stream) {
@@ -80,33 +137,57 @@ export async function* streamTutorReply(params: { mode: TutorMode; levelCode: st
   }
   const final = await stream.finalMessage();
   return {
-    stopReason: final.stop_reason,
+    stopReason: final.stop_reason === "refusal" ? "refusal" : final.stop_reason === "max_tokens" ? "max_tokens" : "end",
     inputTokens: final.usage.input_tokens,
     outputTokens: final.usage.output_tokens,
   };
 }
 
 /** Non-streaming single answer (used for writing feedback). */
-export async function tutorAnswer(params: { mode: TutorMode; levelCode: string | null; prompt: string }) {
-  const res = await getClient().beta.messages.create({
-    model: serverEnv().AI_TUTOR_MODEL,
+export async function tutorAnswer(params: { mode: TutorMode; levelCode: string | null; prompt: string }): Promise<{ text: string | null; refused: boolean }> {
+  const system = systemPrompt(params.mode, params.levelCode);
+  if (aiProvider() === "openai") {
+    const res = await openai().chat.completions.create({
+      model: aiModel(),
+      max_completion_tokens: 4000,
+      reasoning_effort: "low",
+      messages: [
+        { role: "system", content: system },
+        { role: "user", content: params.prompt },
+      ],
+    });
+    const choice = res.choices[0];
+    if (!choice?.message || choice.message.refusal || choice.finish_reason === "content_filter") return { text: null, refused: true };
+    return { text: (choice.message.content ?? "").trim(), refused: false };
+  }
+
+  const res = await anthropic().beta.messages.create({
+    model: aiModel(),
     max_tokens: 4000,
     output_config: { effort: "low" },
     betas: ["server-side-fallback-2026-07-01"],
     fallbacks: "default",
-    system: systemPrompt(params.mode, params.levelCode),
+    system,
     messages: [{ role: "user", content: params.prompt }],
   });
-  if (res.stop_reason === "refusal") return { text: null, refused: true, usage: res.usage };
+  if (res.stop_reason === "refusal") return { text: null, refused: true };
   const text = res.content
     .filter((b): b is Anthropic.Beta.BetaTextBlock => b.type === "text")
     .map((b) => b.text)
     .join("\n")
     .trim();
-  return { text, refused: false, usage: res.usage };
+  return { text, refused: false };
 }
 
 export function describeProviderError(error: unknown): string {
+  if (error instanceof OpenAI.APIError) {
+    if (error.code === "insufficient_quota" || error.code === "credit_balance_exhausted" || error.type === "insufficient_quota")
+      return "Kredit layanan AI sedang habis. Hubungi administrator.";
+    if (error instanceof OpenAI.RateLimitError) return "Layanan AI sedang sibuk. Coba lagi sebentar lagi.";
+    if (error instanceof OpenAI.AuthenticationError || error instanceof OpenAI.PermissionDeniedError) return "Konfigurasi penyedia AI tidak valid. Hubungi administrator.";
+    if (error instanceof OpenAI.BadRequestError) return "Permintaan ke AI tidak valid. Coba ubah pesanmu.";
+    return "Layanan AI sedang tidak tersedia. Coba lagi nanti.";
+  }
   if (error instanceof Anthropic.RateLimitError) return "Layanan AI sedang sibuk. Coba lagi sebentar lagi.";
   if (error instanceof Anthropic.AuthenticationError) return "Konfigurasi penyedia AI tidak valid. Hubungi administrator.";
   if (error instanceof Anthropic.BadRequestError) return "Permintaan ke AI tidak valid. Coba ubah pesanmu.";
