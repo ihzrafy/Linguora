@@ -5,6 +5,11 @@ import type { AnswerKey, PublicData, QuestionResponse } from "@/lib/questions/ty
 import type { Database } from "@/lib/supabase/database.types";
 
 export const url = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+
+// These tests create users and write progress; never let them touch a hosted project.
+if (!/^https?:\/\/(127\.0\.0\.1|localhost)(:\d+)?/.test(url ?? "")) {
+  throw new Error(`Integration tests only run against local Supabase (got ${url}). Start it with \`npm run db:start\` and export its env.`);
+}
 export const admin = createClient<Database>(url, process.env.SUPABASE_SECRET_KEY!, { auth: { persistSession: false } });
 
 export const PASSWORD = "Test-password-123";
