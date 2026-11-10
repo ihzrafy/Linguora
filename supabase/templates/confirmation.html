@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="id">
+  <body style="margin:0;padding:0;background:#f5f4f0;font-family:Inter,Segoe UI,Helvetica,Arial,sans-serif;color:#171717;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f4f0;padding:32px 16px;">
+      <tr>
+        <td align="center">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:480px;background:#ffffff;border:1px solid #dad9d2;border-radius:16px;">
+            <tr>
+              <td style="padding:32px;">
+                <p style="margin:0 0 24px;font-size:18px;font-weight:700;letter-spacing:-0.02em;">
+                  <span style="display:inline-block;width:10px;height:10px;background:#ffe27a;border:1px solid #171717;margin-right:8px;"></span>Linguora
+                </p>
+                <h1 style="margin:0 0 12px;font-size:22px;line-height:1.3;">Konfirmasi email kamu</h1>
+                <p style="margin:0 0 24px;font-size:15px;line-height:1.6;color:#4a4a45;">
+                  Halo {{ .Data.display_name }}, terima kasih sudah mendaftar di Linguora. Klik tombol di bawah untuk mengaktifkan akun
+                  kamu. Tautan ini boleh dibuka di HP atau perangkat lain.
+                </p>
+                <p style="margin:0 0 24px;">
+                  <a href="{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=email&next=/app/onboarding"
+                     style="display:inline-block;background:#171717;color:#ffffff;text-decoration:none;font-weight:600;font-size:15px;padding:12px 24px;border-radius:999px;">
+                    Konfirmasi email
+                  </a>
+                </p>
+                <p style="margin:0;font-size:13px;line-height:1.6;color:#6b6b65;">
+                  Kalau kamu tidak merasa mendaftar di Linguora, abaikan saja email ini.
+                </p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

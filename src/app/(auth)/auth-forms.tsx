@@ -12,7 +12,7 @@ import { Checkbox } from "@/components/ui/checkbox";
 import { Input } from "@/components/ui/input";
 import { Field, FormMessage } from "@/components/shared/field";
 import { forgotSchema, loginSchema, registerSchema, resetSchema } from "@/lib/validation";
-import { forgotPasswordAction, loginAction, registerAction, resetPasswordAction } from "./actions";
+import { forgotPasswordAction, loginAction, registerAction, resendConfirmationAction, resetPasswordAction } from "./actions";
 
 function PasswordInput(props: React.ComponentProps<typeof Input>) {
   const [visible, setVisible] = useState(false);
@@ -78,11 +78,63 @@ export function LoginForm({ next, initialError }: { next?: string; initialError?
   );
 }
 
+/**
+ * Shown after sign-up while the email is unconfirmed. The confirmation link may be opened on
+ * another device (e.g. a phone); this tab then signs in with the credentials just entered.
+ */
+function CheckEmail({ email, password }: { email: string; password: string }) {
+  const router = useRouter();
+  const [pending, start] = useTransition();
+  const [message, setMessage] = useState<{ tone: "error" | "success"; text: string } | null>(null);
+
+  return (
+    <div className="space-y-4">
+      <FormMessage tone="success">
+        Akun berhasil dibuat. Kami mengirim tautan konfirmasi ke <strong className="font-semibold">{email}</strong>. Tautan
+        boleh dibuka di HP atau perangkat lain. Tidak ada di kotak masuk? Periksa folder Spam atau Promosi.
+      </FormMessage>
+      {message && <FormMessage tone={message.tone}>{message.text}</FormMessage>}
+      <Button
+        type="button"
+        className="h-10 w-full"
+        disabled={pending}
+        onClick={() =>
+          start(async () => {
+            setMessage(null);
+            const res = await loginAction({ email, password }, "/app/onboarding");
+            if (!res.ok) return setMessage({ tone: "error", text: res.error });
+            router.replace(res.data.redirectTo);
+            router.refresh();
+          })
+        }
+      >
+        {pending && <Loader2 className="size-4 animate-spin" aria-hidden />}
+        Sudah konfirmasi? Masuk
+      </Button>
+      <Button
+        type="button"
+        variant="outline"
+        className="h-10 w-full"
+        disabled={pending}
+        onClick={() =>
+          start(async () => {
+            setMessage(null);
+            const res = await resendConfirmationAction({ email });
+            setMessage(res.ok ? { tone: "success", text: "Email konfirmasi baru sudah dikirim." } : { tone: "error", text: res.error });
+          })
+        }
+      >
+        Kirim ulang email konfirmasi
+      </Button>
+    </div>
+  );
+}
+
 export function RegisterForm() {
   const router = useRouter();
   const [pending, start] = useTransition();
   const [error, setError] = useState<string | null>(null);
-  const [checkEmail, setCheckEmail] = useState(false);
+  const [checkEmail, setCheckEmail] = useState<{ email: string; password: string } | null>(null);
   const form = useForm<z.input<typeof registerSchema>>({
     resolver: zodResolver(registerSchema),
     defaultValues: { displayName: "", username: "", email: "", password: "", acceptTerms: false as unknown as true },
@@ -90,13 +142,7 @@ export function RegisterForm() {
   const { errors } = form.formState;
   const acceptTerms = useWatch({ control: form.control, name: "acceptTerms" });
 
-  if (checkEmail)
-    return (
-      <FormMessage tone="success">
-        Akun berhasil dibuat. Kami mengirim tautan konfirmasi ke email kamu — buka tautan tersebut untuk mulai belajar. Tidak
-        ada di kotak masuk? Periksa folder Spam atau Promosi.
-      </FormMessage>
-    );
+  if (checkEmail) return <CheckEmail {...checkEmail} />;
 
   return (
     <form
@@ -111,7 +157,7 @@ export function RegisterForm() {
             if (res.code === "conflict" && /username/i.test(res.error)) form.setError("username", { message: res.error });
             return setError(res.error);
           }
-          if (res.data.needsConfirmation) return setCheckEmail(true);
+          if (res.data.needsConfirmation) return setCheckEmail({ email: values.email, password: values.password });
           router.replace("/app/onboarding");
           router.refresh();
         }),

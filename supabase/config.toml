@@ -244,6 +244,16 @@ otp_expiry = 3600
 # admin_email = "admin@email.com"
 # sender_name = "Admin"
 
+# Same templates as the hosted project (paste them into Authentication → Emails → Templates).
+# Links use {{ .TokenHash }} + /auth/confirm so they work on any device.
+[auth.email.template.confirmation]
+subject = "Konfirmasi email Linguora kamu"
+content_path = "./supabase/templates/confirmation.html"
+
+[auth.email.template.recovery]
+subject = "Atur ulang password Linguora"
+content_path = "./supabase/templates/recovery.html"
+
 # Uncomment to customize email template
 # [auth.email.template.invite]
 # subject = "You have been invited"

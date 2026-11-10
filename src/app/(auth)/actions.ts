@@ -92,6 +92,26 @@ export async function registerAction(input: unknown): Promise<ActionResult<{ nee
   });
 }
 
+export async function resendConfirmationAction(input: unknown): Promise<ActionResult> {
+  return runAction(async () => {
+    const { email } = forgotSchema.parse(input);
+    await rateLimit(`resend-confirm:${await clientIp()}`, 5, 3600);
+    const origin = await getSiteOrigin();
+    const supabase = await createClient();
+    const { error } = await supabase.auth.resend({
+      type: "signup",
+      email,
+      options: { emailRedirectTo: `${origin}/auth/callback?next=/app/onboarding` },
+    });
+    if (error) {
+      if (error.code === "over_email_send_rate_limit" || error.status === 429)
+        throw new ActionError("Tunggu sebentar sebelum meminta email baru, lalu coba lagi.", "rate_limited");
+      throw new ActionError("Gagal mengirim ulang email. Coba lagi beberapa saat lagi.");
+    }
+    return undefined;
+  });
+}
+
 export async function forgotPasswordAction(input: unknown): Promise<ActionResult> {
   return runAction(async () => {
     const data = forgotSchema.parse(input);

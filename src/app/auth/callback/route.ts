@@ -1,6 +1,7 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createClient } from "@/lib/supabase/server";
 import { safeRedirectPath } from "@/lib/utils";
+import { requestOrigin } from "../request-origin";
 
 /** Handles email confirmation and password-recovery links (PKCE code exchange). */
 export async function GET(request: NextRequest) {
@@ -8,9 +9,7 @@ export async function GET(request: NextRequest) {
   const code = searchParams.get("code");
   const next = safeRedirectPath(searchParams.get("next"));
 
-  const host = request.headers.get("x-forwarded-host") || request.headers.get("host");
-  const proto = request.headers.get("x-forwarded-proto") || "https";
-  const origin = host ? `${proto}://${host}` : request.nextUrl.origin;
+  const origin = requestOrigin(request);
 
   if (code) {
     const supabase = await createClient();

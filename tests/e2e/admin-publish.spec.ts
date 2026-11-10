@@ -60,8 +60,9 @@ test.describe("Admin Content Publishing Workflow", () => {
     await checkbox.check();
 
     // Set status to "published"
-    const select = page.getByLabel("Status baru").first();
-    await select.selectOption("published");
+    // NativeSelect renders a listbox popover (the real <select> is hidden).
+    await page.getByRole("button", { name: "Status baru" }).first().click();
+    await page.getByRole("option", { name: "Published" }).click();
 
     // Click Terapkan
     await page.getByRole("button", { name: "Terapkan" }).first().click();
