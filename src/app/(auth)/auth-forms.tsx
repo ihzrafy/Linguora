@@ -93,7 +93,8 @@ export function RegisterForm() {
   if (checkEmail)
     return (
       <FormMessage tone="success">
-        Akun berhasil dibuat. Kami mengirim tautan konfirmasi ke email kamu — buka tautan tersebut untuk mulai belajar.
+        Akun berhasil dibuat. Kami mengirim tautan konfirmasi ke email kamu — buka tautan tersebut untuk mulai belajar. Tidak
+        ada di kotak masuk? Periksa folder Spam atau Promosi.
       </FormMessage>
     );
 

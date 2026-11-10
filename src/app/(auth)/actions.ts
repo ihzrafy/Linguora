@@ -53,7 +53,7 @@ export async function loginAction(input: unknown, next?: string): Promise<Action
     const supabase = await createClient();
     const { error } = await supabase.auth.signInWithPassword(data);
     if (error) {
-      if (error.code === "email_not_confirmed") throw new ActionError("Email belum dikonfirmasi. Cek kotak masuk email kamu.", "invalid");
+      if (error.code === "email_not_confirmed") throw new ActionError("Email belum dikonfirmasi. Cek kotak masuk atau folder Spam email kamu.", "invalid");
       throw new ActionError("Email atau password salah.", "invalid");
     }
     return { redirectTo: safeNext(next) };
@@ -84,6 +84,8 @@ export async function registerAction(input: unknown): Promise<ActionResult<{ nee
       if (error.code === "user_already_exists" || /already registered/i.test(error.message))
         throw new ActionError("Email sudah terdaftar. Silakan masuk.", "conflict");
       if (error.code === "weak_password") throw new ActionError("Password terlalu lemah.", "invalid");
+      if (error.code === "over_email_send_rate_limit")
+        throw new ActionError("Terlalu banyak email terkirim. Coba lagi beberapa menit lagi.", "rate_limited");
       throw new ActionError(error.message, "invalid");
     }
     return { needsConfirmation: !result.session };
